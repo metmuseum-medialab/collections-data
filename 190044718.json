@@ -1,0 +1,46 @@
+{
+ "Date": "March 29, 1850",
+ "Medium": "Salted paper print (Blanquart-Évrard process) from paper negative",
+ "Dimensions": [
+  "Image 20.8 x 16.5 cm (8 3/16 x 6 1/2 in.)",
+  "Mount 44.4 x 30.4 cm (17 1/2 x 11 15/16 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Paul F. Walter, 2009",
+ "Accession Number": "2009.460.15",
+ "Who": "Maxime Du Camp",
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Gustave Le Gray (1820–1884)",
+  "Photographers in Egypt",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190044718,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DuCamp2009.460.15recto.jpg",
+ "related-artworks": [
+  190013707,
+  190013878,
+  190013879,
+  190014451,
+  190014452
+ ],
+ "Provenance": [
+  "[Thackrey & Robertson, San Francisco]",
+  "Paul F. Walter, 1986"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190044718"
+  }
+ }
+}

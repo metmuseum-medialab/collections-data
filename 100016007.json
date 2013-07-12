@@ -1,0 +1,43 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Northern Upper Egypt, Deir el-Ballas probably",
+ "Medium": "Shell",
+ "Dimensions": "Diam. 2.4 cm (15/16 in)",
+ "Credit Line": "Gift of Albert M. Lythgoe, 1917",
+ "Accession Number": "17.6.106",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings",
+  "Shell"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100016007,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/17.6.106.jpg",
+ "related-artworks": [
+  100015999,
+  100016000,
+  100016001,
+  100016012,
+  100016013
+ ],
+ "Provenance": [
+  "Purchased from a local Egyptian by Albert M. Lythgoe in the area of Deir el-Ballas. Donated to the Museum by Lythgoe, 1917."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100016007"
+  }
+ }
+}

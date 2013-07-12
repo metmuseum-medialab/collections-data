@@ -1,0 +1,40 @@
+{
+ "Date": "1st–2nd century",
+ "Culture": "Roman",
+ "Medium": "Bronze",
+ "Dimensions": "Overall 2 1/8 x 2 x 1/2 in. (5.4 x 5.1 x 1.2 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1981",
+ "Accession Number": "1981.205",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Jewelry",
+  "Pins",
+  "Brooches"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170005977,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf1981-205s1.jpg",
+ "related-artworks": [
+  170004844,
+  170008261,
+  170010717,
+  170004704,
+  170004785
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005977"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Geography": "Czech Republic or Slovakia",
+ "Medium": "Cut glass",
+ "Dimensions": "3 1/4  x 5 3/4",
+ "Classification": "Idiophone-Struck",
+ "Credit Line": "Gift of A. A. Trinidad Jr., 2011",
+ "Accession Number": "2011.529.33",
+ "What": [
+  "Glass",
+  "Musical instruments",
+  "Idiophones",
+  "Bells"
+ ],
+ "Where": [
+  "Europe",
+  "Czech Republic"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Central Europe (not Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 180018531,
+ "related-artworks": [
+  180018490,
+  180018502,
+  180018460,
+  180018522,
+  180018485
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180018531"
+  }
+ }
+}

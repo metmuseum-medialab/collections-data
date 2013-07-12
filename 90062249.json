@@ -1,0 +1,49 @@
+{
+ "Date": "n.d.",
+ "Medium": "Woodcut",
+ "Dimensions": "sheet 11 11/16 x 8 1/4 in. (29.7 x 20.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.65.14",
+ "Who": "Albrecht Dürer",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Decoration of Arms and Armor",
+  "Rembrandt van Rijn (1606–1669) Prints",
+  "The Rediscovery of Classical Antiquity",
+  "Arms and Armor – Common Misconceptions and Frequently Asked Questions",
+  "Anselm Kiefer (born 1945)",
+  "Jan Gossart (ca. 1478–1532) and His Circle",
+  "Europe and the Age of Exploration",
+  "The Reformation",
+  "Albrecht Dürer (1471–1528)",
+  "The Printed Image in the West History and Techniques",
+  "Portraiture in Renaissance and Baroque Europe",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90062249,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP816268.jpg",
+ "related-artworks": [
+  90003203,
+  90003204,
+  90003205,
+  90003579,
+  90003661
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90062249"
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "Period": "Ming dynasty (1368–1644)",
+ "Date": "ca. 1620–30",
+ "Culture": "China",
+ "Medium": "Porcelain painted in underglaze cobalt blue over white slip (Jingdezhen ware)",
+ "Dimensions": "H. 3 1/8 (7.9 cm); Diam. 14 1/8 in. (35.9 cm); Diam. of foot 8 7/8 in. (22.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase, 2006 Benefit Fund, 2007",
+ "Accession Number": "2007.295",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Painting",
+  "Underglazing",
+  "Slip",
+  "Cobalt"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60047898,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2007_295_O1_Strm1_crop.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60023728"
+   },
+   {
+    "href": "http://scrapi.org/object/60009773"
+   },
+   {
+    "href": "http://scrapi.org/object/60020545"
+   },
+   {
+    "href": "http://scrapi.org/object/60023849"
+   },
+   {
+    "href": "http://scrapi.org/object/60050174"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60047898"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60047898"
+  }
+ }
+}

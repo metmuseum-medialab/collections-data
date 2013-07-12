@@ -1,0 +1,37 @@
+{
+ "Date": "1880s",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Charles Winter, 1945",
+ "Accession Number": "C.I.45.133.1",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Underwear",
+  "Underskirts",
+  "Petticoats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80007859,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI45.133.1.jpg",
+ "related-artworks": [
+  80006398,
+  80026952,
+  80006404,
+  80006402,
+  80006403
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007859"
+  }
+ }
+}

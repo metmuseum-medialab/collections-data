@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1889",
+ "Medium": "Photolithograph",
+ "Dimensions": "Sheet 4 3/16 × 2 1/2 in. (10.7 × 6.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 205, N95.7",
+ "Who": "W. Duke, Sons & Co.",
+ "What": [
+  "Prints",
+  "Photomechanical reproductions",
+  "Photolithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90103496,
+ "related-artworks": [
+  90100971,
+  90100976,
+  90100977,
+  90100978,
+  90100975
+ ],
+ "Description": "Trade cards from the \"Actresses\" series (N95), issued in a set of 25 cards ca. 1889 to promote Honest Long Cut Tobacco, manufactured by W. Duke Sons & Co.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90103496"
+  }
+ }
+}

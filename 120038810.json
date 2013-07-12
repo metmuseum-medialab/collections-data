@@ -1,0 +1,59 @@
+{
+ "Date": "18th century",
+ "Culture": "Italian (Abruzzi)",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 6 1/2 x W. 1 1/2 inches (16.5 x 3.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.186.323",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Abruzzo"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120038810,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP16681.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/DP16681.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP16681_20.186.323.jpg"
+ ],
+ "Provenance": [
+  "Ida Schiff",
+  "Miss Mary H. Smith , 1920",
+  "sold to MMA"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120032607"
+   },
+   {
+    "href": "http://scrapi.org/object/120032624"
+   },
+   {
+    "href": "http://scrapi.org/object/120033037"
+   },
+   {
+    "href": "http://scrapi.org/object/120038643"
+   },
+   {
+    "href": "http://scrapi.org/object/120038817"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120038810"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120038810"
+  }
+ }
+}

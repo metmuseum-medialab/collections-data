@@ -1,0 +1,52 @@
+{
+ "Date": "ca. 1750",
+ "Culture": "British",
+ "Medium": "Mahogany, modern silk damask",
+ "Dimensions": "H. 39-5/8 x W. 26-1/2 x D. 25-1/4 in.  (100.6 x 67.3 x 64.1 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.967",
+ "What": [
+  "Silk",
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Seating furniture",
+  "Chairs",
+  "Mahogany",
+  "Side chairs",
+  "Damask"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120049983,
+ "gallery-id": 519,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/194582.jpg",
+ "related-artworks": [
+  120019307,
+  120049982,
+  120049986,
+  120049984,
+  120049987
+ ],
+ "Description": "These came from a set of at least sixteen side chairs and two settees.",
+ "Provenance": [
+  "Westwood Park, WorcestershireLord Doverdale , Westwood Park, Worcestershire (by 1896–1950",
+  "sale, Sotheby and Co., London, November 10,1950, no. 138",
+  "to Rubin)",
+  "Rubin (in 1950)",
+  "Irwin Untermyer , New York (until 1964",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120049983"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Printer": "Wayside Press (Springfield, Massachusetts)",
+ "Publisher": "R. H. Russell (American, New York)",
+ "Date": "1897",
+ "Classification": "Books",
+ "Credit Line": "Gift of Fern Bradley Dufner, 1972",
+ "Accession Number": "1972.586.11",
+ "Who": [
+  "William Henry Bradley",
+  "R. H. Russell",
+  "Wayside Press"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90013809,
+ "related-artworks": [
+  90013094,
+  90013966,
+  90015000,
+  90016636,
+  90019071
+ ],
+ "Provenance": [
+  "Donor: Fern Bradley Dufner (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90013809"
+  }
+ }
+}

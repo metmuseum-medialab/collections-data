@@ -1,0 +1,46 @@
+{
+ "Period": "Archaic",
+ "Date": "late 7th–6th century B.C.",
+ "Culture": "Lydian",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 20.62 cm.",
+ "Classification": "Vases",
+ "Credit Line": "Gift of the American Society for the Excavation of Sardis, 1926",
+ "Accession Number": "26.164.30",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jugs",
+  "Lekythoi"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey",
+  "Lydia"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013083,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP130725.jpg",
+ "related-artworks": [
+  130013078,
+  130009320,
+  130012947,
+  130009299,
+  130009302
+ ],
+ "Description": "The decoration is a kind of marblizing that was favored for various, particularly local, shapes at Sardis.",
+ "Provenance": [
+  "Excavated at Sardis"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013083"
+  }
+ }
+}

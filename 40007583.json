@@ -1,0 +1,27 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian",
+ "Classification": "Equestrian Equipment",
+ "Credit Line": "Gift of Stephen V. Grancsay, 1942",
+ "Accession Number": "42.50.229",
+ "What": "Bosses",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40007583,
+ "related-artworks": [
+  40007539,
+  40007532,
+  40007541,
+  40007558,
+  40007543
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40007583"
+  }
+ }
+}

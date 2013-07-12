@@ -1,0 +1,38 @@
+{
+ "Date": "1880–84",
+ "Culture": "American",
+ "Medium": "metal",
+ "Dimensions": [
+  "Length 3 1/2 in. (8.9 cm)",
+  "Width 2 1/2 in. (6.4 cm)"
+ ],
+ "Credit Line": "Gift of Miss Alice Baldwin Beer, 1947",
+ "Accession Number": "C.I.47.76.3",
+ "What": [
+  "Metal",
+  "Costume",
+  "Armor"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80054497,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI47.76.3.jpg",
+ "related-artworks": [
+  80002314,
+  80003261,
+  80003609,
+  80003616,
+  80003610
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80054497"
+  }
+ }
+}

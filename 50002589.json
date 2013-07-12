@@ -1,0 +1,49 @@
+{
+ "Artist": "Workshop of Artists of Mariwai Village",
+ "Date": "1973",
+ "Geography": "Papua New Guinea, Upper Sepik River",
+ "Culture": "Kwoma people, Amachi-Kalaba clan",
+ "Medium": "Sago palm spathe, paint",
+ "Dimensions": "H. 49 x W. 15 3/4 in. (124.5 x 40 cm)",
+ "Classification": "Bark-Paintings",
+ "Credit Line": "Purchase, Rogers Fund and Mr. and Mrs. David Nash and Anonymous Gifts, 1975",
+ "Accession Number": "1975.372.8",
+ "Who": [
+  "Artists of Mariwai Village",
+  "Mburrnggei, Amachi-Kalaba"
+ ],
+ "What": [
+  "Paintings",
+  "Palm leaf",
+  "Bark paintings"
+ ],
+ "Where": [
+  "Oceania",
+  "Papua New Guinea",
+  "East Sepik",
+  "Sepik"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Melanesia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50002589,
+ "gallery-id": 354,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DP152473.jpg",
+ "related-artworks": [
+  50002052,
+  50002438,
+  50002590,
+  50002596,
+  50002598
+ ],
+ "Provenance": [
+  "[Artists of Mariwai Village, Papua, New Guinea, 1973]",
+  "Douglas Newton, New York, as agent, until 1975"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50002589"
+  }
+ }
+}

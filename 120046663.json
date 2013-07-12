@@ -1,0 +1,49 @@
+{
+ "Date": "mid-17th century",
+ "Culture": "British",
+ "Medium": "Silk and metal thread on canvas",
+ "Dimensions": "L. 7 1/4 x W. 1 inches (18.4 x 2.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.1266–.1268",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Canvas",
+  "Cases",
+  "Sheaths",
+  "Scabbards"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120046663,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP2832.jpg",
+ "related-artworks": [
+  120039933,
+  120039927,
+  120045215,
+  120046660,
+  120046656
+ ],
+ "Provenance": [
+  "E. Guy Ridpath (until 1942)",
+  "[Ridpath Collection sale, Sotheby's, London , Feb. 18-19, 1942, lot #12]",
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046663"
+  }
+ }
+}

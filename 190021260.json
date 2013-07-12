@@ -1,0 +1,46 @@
+{
+ "Printer": "The Autotype Company (British, London)",
+ "Date": "1864, printed ca. 1913",
+ "Medium": "Carbon print",
+ "Dimensions": "24 x 26.7 cm (9 7/16 x 10 1/2 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Alfred Stieglitz Collection, 1949",
+ "Accession Number": "49.55.323",
+ "Who": [
+  "Julia Margaret Cameron",
+  "The Autotype Company"
+ ],
+ "What": [
+  "Photographs",
+  "Carbon prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Industrialization of French Photography after 1860",
+  "Julia Margaret Cameron (1815–1879)",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190021260,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/MM28625.jpg",
+ "related-artworks": [
+  190014943,
+  190019593,
+  190020653,
+  190021255,
+  190021257
+ ],
+ "Provenance": [
+  "Alfred Stieglitz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190021260"
+  }
+ }
+}

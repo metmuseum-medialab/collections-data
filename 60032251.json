@@ -1,0 +1,44 @@
+{
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Lacquer on pewter",
+ "Dimensions": "H. 8 in. (20.3 cm); Diam. of rim 1 in. (2.5 cm); Diam. of base 2 1/8 in.(5.4 cm)",
+ "Classification": "Lacquer",
+ "Credit Line": "Bequest of Edward G. Kennedy, 1932",
+ "Accession Number": "33.40.79",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Vases",
+  "Lacquer",
+  "Pewter"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60032251,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/33_40_79_O1.JPG",
+ "related-artworks": [
+  60030286,
+  60032252,
+  60021616,
+  60021619,
+  60032208
+ ],
+ "Provenance": [
+  "Edward Guthrie Kennedy , New York (until d. 1932)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60032251"
+  }
+ }
+}

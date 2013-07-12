@@ -1,0 +1,42 @@
+{
+ "Date": "probably 8th–9th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Copper",
+ "Classification": "Coins",
+ "Credit Line": "Rogers Fund, 1939",
+ "Accession Number": "39.40.127.405",
+ "What": [
+  "Metal",
+  "Copper",
+  "Money",
+  "Coins"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140015829,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/39.40.127.405a.JPG",
+ "related-artworks": [
+  140015448,
+  140015673,
+  140015676,
+  140015931,
+  140015429
+ ],
+ "Provenance": [
+  "1938, excavated at Sabz Pushan in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1939, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140015829"
+  }
+ }
+}

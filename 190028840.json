@@ -1,0 +1,22 @@
+{
+ "Date": "1960",
+ "Classification": "Books",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.350",
+ "Who": "Robert Osborn",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "id": 190028840,
+ "related-artworks": [
+  190036604,
+  190036609,
+  190034926,
+  190034926
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028840"
+  }
+ }
+}

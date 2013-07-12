@@ -1,0 +1,32 @@
+{
+ "Date": "late 18th–early 19th century",
+ "Culture": "American or European",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Lee Simonson, 1938",
+ "Accession Number": "C.I.38.23.84",
+ "What": [
+  "Costume",
+  "Silk",
+  "Bags"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80050392,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI38.23.84.jpg",
+ "related-artworks": [
+  80000085,
+  80000276,
+  80001095,
+  80002492,
+  80002702
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80050392"
+  }
+ }
+}

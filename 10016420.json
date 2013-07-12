@@ -1,0 +1,52 @@
+{
+ "Date": "ca. 1878",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Ebonized cherry, brass",
+ "Dimensions": "37 x 20 1/2 x 21 in. (94 x 52.1 x 53.3 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Purchase, Cranshaw Corporation Gift, in honor of Lee Paula Miller, and Charlotte Pickman Gertz Gift, 1997",
+ "Accession Number": "1997.5",
+ "Who": "George Jakob Hunzinger",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Wood",
+  "Furniture",
+  "Brass",
+  "Seating furniture",
+  "Chairs",
+  "Side chairs",
+  "Cherry"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10016420,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA6243.jpg",
+ "related-artworks": [
+  10000226,
+  10001818,
+  10001817,
+  10015073,
+  10000227
+ ],
+ "Provenance": [
+  "Todd Schwebel, Chicago",
+  "David Petrovsky, New York",
+  "Mimi Findlay  Antiques/Design, New York, before November 1993–1997"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10016420"
+  }
+ }
+}

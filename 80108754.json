@@ -1,0 +1,33 @@
+{
+ "Date": "fourth quarter 18th century",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Museum Expedition 1921, Robert B. Woodward Memorial Fund, 1921",
+ "Accession Number": "2009.300.4054a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Gloves"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 80108754,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/21.511.13a-b_CP2.jpg",
+ "related-artworks": [
+  80108753,
+  80108755,
+  80114563,
+  80029736,
+  80031916
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108754"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1970",
+ "Culture": "French",
+ "Medium": "wool, angora",
+ "Dimensions": [
+  "Length at CB 41 in. (104.1 cm)",
+  "Length at CB 13 3/4 in. (34.9 cm)",
+  "Length at CB 29 1/2 in. (74.9 cm)",
+  "Length at CB 30 1/2 in. (77.5 cm)"
+ ],
+ "Credit Line": "Gift of Mala Rubinstein, 1992",
+ "Accession Number": "1992.170a–d",
+ "Who": "Madame Grès (Alix Barton)",
+ "What": [
+  "Wool",
+  "Ensembles",
+  "Hair",
+  "Angora wool"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80002342,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1992.170abd_F.jpg",
+ "related-artworks": [
+  80065097,
+  80000373,
+  80001638,
+  80001639,
+  80001786
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002342"
+  }
+ }
+}

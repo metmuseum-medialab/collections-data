@@ -1,0 +1,35 @@
+{
+ "Culture": "Etruscan",
+ "Medium": "Terracotta",
+ "Dimensions": "Overall 2 7/16 x 2 13/16in. (6.2 x 7.1cm)",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1916",
+ "Accession Number": "16.174.34.12",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009607,
+ "related-artworks": [
+  130014750,
+  130006655,
+  130006703,
+  130006735,
+  130009608
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009607"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Date": "late 14th century",
+ "Culture": "Central Italian",
+ "Medium": "Verre églomisé, polychromy, wood, and metal",
+ "Dimensions": [
+  "Overall (open) 8 3/8 x 12 1/2 x 9/16 in. (21.3 x 31.7 x 1.4 cm)",
+  "Overall (closed) 8 3/8 x 6 1/8 x 1 1/8 in. (21.3 x 15.6 x 2.9 cm)",
+  "each image (approx.) 2 13/16 x 1 5/8 in. (7.2 x 4.2 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.922",
+ "What": [
+  "Metal",
+  "Glass",
+  "Polychromy",
+  "Reliquaries",
+  "Verre églomisé"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000–1400 A.D.",
+ "id": 170004615,
+ "gallery-id": 306,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-922s1.jpg",
+ "related-artworks": [
+  170004681,
+  170004351,
+  170004342,
+  170004122,
+  170004048
+ ],
+ "Description": "In his Craftsman's Handbook (about 1390), the Florentine artist Cennino Cennini outlines the \"individual attractive, fine and unusual\" process of gilding glass \"for the embellishment of holy reliquaries.\" Here, small relics with identifying inscriptions are enclosed behind the decorated glass panels. The technique was often adopted for works made for Franciscans. This was surely the case here, since the reliquary features Saint Francis Receiving the Stigmata and Saint Louis of Toulouse, as well as scenes of the Virgin and Christ child, Crucifixion, Saint Elizabeth (?), Saint Anne, and Saint John the Baptist.",
+ "Provenance": [
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004615"
+  }
+ }
+}

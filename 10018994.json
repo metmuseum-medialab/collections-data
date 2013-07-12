@@ -1,0 +1,49 @@
+{
+ "Maker": "Tiffany Glass and Decorating Company (1892–1902)",
+ "Date": "ca. 1894",
+ "Geography": "Mid-Atlantic, New York, United States",
+ "Culture": "American",
+ "Medium": "Photograph",
+ "Dimensions": [
+  "Overall 27 1/2 x 22 in. (69.9 x 55.9 cm)",
+  "Design 20 1/4 x 13 3/4 in. (51.4 x 34.9 cm)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Walter Hoving and Julia T. Weld Gifts and Dodge Fund, 1967",
+ "Accession Number": "67.654.32",
+ "Who": [
+  "Louis Comfort Tiffany",
+  "Tiffany Glass  Decorating Company"
+ ],
+ "What": "Photographs",
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "America Comes of Age 1876–1900",
+  "The Arts and Crafts Movement in America",
+  "Art Nouveau",
+  "Louis Comfort Tiffany (1848–1933)",
+  "Nineteenth–Century American Jewelry",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10018994,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP154213.jpg",
+ "related-artworks": [
+  10018975,
+  10000122,
+  10000123,
+  10000241,
+  10000242
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10018994"
+  }
+ }
+}

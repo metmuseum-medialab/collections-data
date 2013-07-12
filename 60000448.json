@@ -1,0 +1,52 @@
+{
+ "Date": "20th century",
+ "Culture": "China",
+ "Medium": "Album leaf; ink and color on paper",
+ "Dimensions": "11 1/4 x 16 in. (28.6 x 40.6 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1986",
+ "Accession Number": "1986.267.362",
+ "Who": "Zhu Qizhan",
+ "What": [
+  "Ink",
+  "Paper",
+  "Books",
+  "Paintings",
+  "Albums"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60000448,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP162701.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60000449"
+   },
+   {
+    "href": "http://scrapi.org/object/60000320"
+   },
+   {
+    "href": "http://scrapi.org/object/60000276"
+   },
+   {
+    "href": "http://scrapi.org/object/60000300"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60000448"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60000448"
+  }
+ }
+}

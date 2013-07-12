@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1730",
+ "Culture": "Bohemian",
+ "Medium": "Glass",
+ "Dimensions": "H. 2 1/16 in.  (5.2 cm); Diam. 2 1/2 in. (6.4 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Munsey Fund, 1927",
+ "Accession Number": "27.185.170",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Beakers"
+ ],
+ "Where": [
+  "Europe",
+  "Czech Republic",
+  "Bohemia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010783,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/69884.jpg",
+ "related-artworks": [
+  120002310,
+  120010640,
+  120010697,
+  120010772,
+  120010761
+ ],
+ "Provenance": [
+  "Jacques Mühsam (until 1927)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120010783"
+  }
+ }
+}

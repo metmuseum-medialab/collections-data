@@ -1,0 +1,47 @@
+{
+ "Period": "Ming dynasty (1368–1644)",
+ "Date": "16th century or later",
+ "Culture": "China",
+ "Medium": "Stoneware with cloisonné-style decoration",
+ "Dimensions": "H. 7 3/4 in. (19.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.115",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Vases",
+  "Stoneware",
+  "Cloisonné"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1400–1600 A.D.",
+  "Central and North Asia, 1400–1600 A.D.",
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60020732,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/91_1_115.jpg",
+ "related-artworks": [
+  60022038,
+  60009794,
+  60009796,
+  60009923,
+  60009909
+ ],
+ "Provenance": [
+  "Edward C. Moore , New York (until d. 1891)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60020732"
+  }
+ }
+}

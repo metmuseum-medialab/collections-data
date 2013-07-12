@@ -1,0 +1,54 @@
+{
+ "Date": "1596–1680",
+ "Culture": "Japanese",
+ "Medium": "Gold (pure)",
+ "Dimensions": [
+  "(a) Length 1 7/8 in.  ( 4.75 cm)",
+  "(b) Length 1 15/16 in. ( 4.9 cm)"
+ ],
+ "Classification": "Sword Furniture",
+ "Credit Line": "Rogers Fund, 1945",
+ "Accession Number": "45.24.44a–c",
+ "Who": "Keicho-Yenpo",
+ "What": [
+  "Metal",
+  "Gold",
+  "Arms",
+  "Edged weapons",
+  "Swords"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40002967,
+ "gallery-id": 378,
+ "Provenance": [
+  "Ex coll.:  Robert H. Rucker, New York, no. 72"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40002954"
+   },
+   {
+    "href": "http://scrapi.org/object/40002984"
+   },
+   {
+    "href": "http://scrapi.org/object/40003004"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40002967"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40002967"
+  }
+ }
+}

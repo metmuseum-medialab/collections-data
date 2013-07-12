@@ -1,0 +1,40 @@
+{
+ "Period": "Shunga period",
+ "Date": "1st century B.C.–1st century A.D.",
+ "Culture": "India",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 4 3/8 in. (11.1 cm); W. 3 1/4 in. (8.3 cm); D. 3 in. (7.6 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Mr. and Mrs. Paul Manheim, 1991",
+ "Accession Number": "1991.455.2",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Carts"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia, 1–500A.D.",
+  "South Asia, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60005016,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1991_455_2_F.jpg",
+ "related-artworks": [
+  60005604,
+  60004554,
+  60005033,
+  60005032,
+  60005072
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005016"
+  }
+ }
+}

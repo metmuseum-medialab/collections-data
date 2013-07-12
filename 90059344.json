@@ -1,0 +1,44 @@
+{
+ "Date": "1887",
+ "Medium": "Etching and drypoint; trial proof c or d",
+ "Dimensions": [
+  "plate 8 7/8 x 12 1/4 in. (22.5 x 31.1 cm)",
+  "sheet 11 1/8 x 14 1/2 in. (28.3 x 36.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.13.25",
+ "Who": "Charles Adams Platt",
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints",
+  "Proofs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90059344,
+ "related-artworks": [
+  90059358,
+  90059289,
+  90016002,
+  90054726,
+  90059349
+ ],
+ "Provenance": [
+  "Vendor: Frederick Keppel & Co."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90059344"
+  }
+ }
+}

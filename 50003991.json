@@ -1,0 +1,43 @@
+{
+ "Date": "mid-20th century",
+ "Geography": "Indonesia, Papua Province (Irian Jaya), Per village, Asewetsj and Siretsj Rivers region",
+ "Culture": "Asmat people",
+ "Medium": "Wood, paint, sago palm leaves",
+ "Dimensions": "H. 67 x W. 18 x D. 5 in. (170.2 x 45.7 x 12.7 cm)",
+ "Classification": "Wood-Implements",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection; Gift of Nelson A. Rockefeller and Mrs. Mary C. Rockefeller, 1965",
+ "Accession Number": "1978.412.955",
+ "What": [
+  "Costume",
+  "Armor",
+  "Palm leaf",
+  "Shields"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Irian Jaya"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1900 A.D.–present",
+ "id": 50003991,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1978.412.955.jpg",
+ "related-artworks": [
+  50003953,
+  50003939,
+  50003985,
+  50006297,
+  50003823
+ ],
+ "Provenance": [
+  "Michael C. Rockefeller Expedition, collected 1961",
+  "Nelson A. Rockefeller, New York, 1961–1965",
+  "The Museum of Primitive Art, New York, 1965–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50003991"
+  }
+ }
+}

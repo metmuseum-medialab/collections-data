@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1660",
+ "Medium": "Gray wash, over red chalk. Framing lines in pen and brown ink.",
+ "Dimensions": "11 7/8 x 8 1/4 in. (30.1 x 21 cm.)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1964",
+ "Accession Number": "64.33",
+ "Who": "Charles Le Brun",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90004592,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP807120.jpg",
+ "related-artworks": [
+  90004594,
+  90006898,
+  90004628,
+  90004629,
+  90004630
+ ],
+ "Provenance": [
+  "Vendor: Henri Baderou"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90004592"
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "Date": "n.d.",
+ "Medium": "Pen and brown ink and wash",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.19.57",
+ "Who": "Federico Zuccaro (Zuccari)",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90013105,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP812305.jpg",
+ "related-artworks": [
+  90001785,
+  90007952,
+  90008766,
+  90008773,
+  90008817
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90013105"
+  }
+ }
+}

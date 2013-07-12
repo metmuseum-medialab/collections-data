@@ -1,0 +1,53 @@
+{
+ "Date": "1857",
+ "Medium": "Oil on canvas",
+ "Dimensions": "20 x 30 in. (50.8 x 76.2 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Maria DeWitt Jesup Fund, 1949",
+ "Accession Number": "49.126",
+ "Who": "John Carlin",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 20010715,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DT204722.jpg",
+ "Provenance": [
+  "William M. McCaughen, Sr., St. Louis, by 1910",
+  "with McCaughen & Burr,  St. Louis, by 1936–1949"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/20023810"
+   },
+   {
+    "href": "http://scrapi.org/object/20010716"
+   },
+   {
+    "href": "http://scrapi.org/object/20010717"
+   },
+   {
+    "href": "http://scrapi.org/object/20010718"
+   },
+   {
+    "href": "http://scrapi.org/object/20014888"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/20010715"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/20010715"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Printer": "John Cooper (London)",
+ "Date": "February 1725–26",
+ "Medium": "Etching and engraving; second state of five",
+ "Dimensions": "sheet 9 7/8 x 12 7/8 in. (25.1 x 32.7 cm) (trimmed within platemark)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1932",
+ "Accession Number": "32.35",
+ "Who": [
+  "William Hogarth",
+  "Philip Overton",
+  "John Cooper"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Kilt",
+  "Portrait Painting in England, 1600–1800",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90071341,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP824943.jpg",
+ "related-artworks": [
+  90036163,
+  90037738,
+  90049368,
+  90049369,
+  90059680
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90071341"
+  }
+ }
+}

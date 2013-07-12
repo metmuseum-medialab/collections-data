@@ -1,0 +1,38 @@
+{
+ "Date": "18th century",
+ "Culture": "British",
+ "Medium": "Iron",
+ "Dimensions": "L. 3 3/4 in. (9.5 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.100.92",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Keys"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120006030,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/7945.jpg",
+ "related-artworks": [
+  120005982,
+  120006017,
+  120006025,
+  120011890,
+  120011891
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006030"
+  }
+ }
+}

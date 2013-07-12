@@ -1,0 +1,43 @@
+{
+ "Date": "1800–1900",
+ "Geography": "Mid-Atlantic, New Lebanon, New York, United States",
+ "Culture": "American",
+ "Medium": "Palm leaf",
+ "Dimensions": "10 1/2 x 8 in. (26.7 x 20.3 cm)",
+ "Classification": "Natural Substances",
+ "Credit Line": "Gift of Mrs. G. James Fawcett, in memory of John S. Rudd, 1985",
+ "Accession Number": "1985.40.6",
+ "What": [
+  "Costume",
+  "Hats",
+  "Palm leaf",
+  "Bonnets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "Columbia",
+  "New Lebanon"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000569,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/239312.jpg",
+ "related-artworks": [
+  10013948,
+  10003563,
+  10014086,
+  10014121,
+  10000371
+ ],
+ "Provenance": [
+  "Mrs. G. James (Eugenie D.) Fawcett, Tyringham, Massachusetts, until 1985"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000569"
+  }
+ }
+}

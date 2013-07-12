@@ -1,0 +1,45 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19",
+ "Reign": "reign of Seti I",
+ "Date": "ca. 1294–1279 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes",
+ "Medium": "Tempera on paper",
+ "Dimensions": [
+  "H. 47 cm (18 1/2 in); w. 24 cm (9 7/16 in)",
+  "scale 12"
+ ],
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.4.162",
+ "Who": "Copyist Unknown",
+ "What": [
+  "Paper",
+  "Tempera",
+  "Facsimiles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100015668,
+ "gallery-id": 135,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs2907.jpg",
+ "related-artworks": [
+  100000909,
+  100015496,
+  100015601,
+  100030288,
+  100030301
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100015668"
+  }
+ }
+}

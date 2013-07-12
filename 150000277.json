@@ -1,0 +1,57 @@
+{
+ "Date": "1498",
+ "Culture": "German",
+ "Medium": "Pen and greenish brown ink",
+ "Dimensions": "12 13/16 x 4 11/16 in.  (32.5 x 11.9 cm)",
+ "Classification": "Drawings",
+ "Accession Number": "1975.1.861",
+ "Who": "Albrecht Dürer",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Pen"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": [
+  "The Rediscovery of Classical Antiquity",
+  "The Decoration of Arms and Armor",
+  "Arms and Armor – Common Misconceptions and Frequently Asked Questions",
+  "Jan Gossart (ca. 1478–1532) and His Circle",
+  "Europe and the Age of Exploration",
+  "Rembrandt van Rijn (1606–1669) Prints",
+  "Albrecht Dürer (1471–1528)",
+  "The Reformation",
+  "Portraiture in Renaissance and Baroque Europe",
+  "Anselm Kiefer (born 1945)",
+  "The Printed Image in the West History and Techniques",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 150000277,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/DP809590.jpg",
+ "related-artworks": [
+  150000278,
+  150000266,
+  90001741,
+  90001743,
+  90001740
+ ],
+ "Provenance": [
+  "Prince Heinrich (Henryk) Lubomirski (1777-1850), Przeworsk",
+  "moved to the \"Lubomirski Museum,\" Ossolinski Nationalinstitut, Lviv, after 1868",
+  "confiscated by the German occupation forces on 2 July 1941 and removed to Germany",
+  "United States Army, 1945-48",
+  "Prince Georg Lubomirski",
+  "[Schaeffer Galleries, New York].  Acquired by Robert Lehman in 1952."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150000277"
+  }
+ }
+}

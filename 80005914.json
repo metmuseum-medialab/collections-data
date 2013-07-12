@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1858",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 72 in. (182.9 cm)",
+ "Credit Line": "Gift of Frederic Edward Gibert, 1962",
+ "Accession Number": "C.I.62.34",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80005914,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI62.34_1983.479.6a-d.jpg",
+ "related-artworks": [
+  80002676,
+  80002780,
+  80003825,
+  80006838,
+  80028930
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80005914"
+  }
+ }
+}

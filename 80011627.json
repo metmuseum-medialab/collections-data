@@ -1,0 +1,38 @@
+{
+ "Date": "1800–1941",
+ "Culture": "Japanese",
+ "Medium": "paper, bamboo, wood",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. George R. Dyer, 1941",
+ "Accession Number": "C.I.41.86.89",
+ "What": [
+  "Costume",
+  "Fans",
+  "Grass",
+  "Bamboo"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1900 A.D.–present",
+  "Japan, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80011627,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI41.86.89.jpg",
+ "related-artworks": [
+  80061009,
+  80108445,
+  80047752,
+  80047753,
+  80061035
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80011627"
+  }
+ }
+}

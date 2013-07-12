@@ -1,0 +1,45 @@
+{
+ "Period": "Kassite",
+ "Date": "ca. 16th–12th century B.C.",
+ "Geography": "Mesopotamia",
+ "Culture": "Kassite",
+ "Medium": "Milky chalcedony",
+ "Dimensions": "1.35 in. (3.43 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Gift of The Right Reverend Paul Moore Jr., 1985",
+ "Accession Number": "1985.357.29",
+ "Who": "Kassite",
+ "What": [
+  "Stone",
+  "Chalcedony",
+  "Seals",
+  "Cylinder seals"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30005896,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss1985_357_29.jpg",
+ "related-artworks": [
+  30000025,
+  30005660,
+  30005911,
+  30005892,
+  30005893
+ ],
+ "Provenance": [
+  "By the 1930s, collection of Mrs. William H. Moore, New York (until d. 1955)",
+  "from 1955, on loan to the Museum by her grandson, The Right Reverend Paul Moore, Jr.",
+  "acquired by the Museum in 1985, gift of The Right Reverend Paul Moore, Jr., New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30005896"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "1935",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "25 x 19.9 cm (9 13/16 x 7 13/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, Joseph M. Cohen Gift, 2005",
+ "Accession Number": "2005.100.490",
+ "Who": "Manuel Alvarez Bravo",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America, 1900 A.D.–present",
+  "Mexico and Central America Native Peoples, 1900 A.D.–present"
+ ],
+ "id": 190039986,
+ "related-artworks": [
+  190011715,
+  190011716,
+  190012553,
+  190013662,
+  190017237
+ ],
+ "Provenance": [
+  "[Robert Miller Gallery, New York]",
+  "Gilman Paper Company Collection, New York, March 6, 1997"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190039986"
+  }
+ }
+}

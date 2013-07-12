@@ -1,0 +1,32 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19–20",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "White glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.1638",
+ "What": "Glass",
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100013188,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/17.190.1638_front.jpg",
+ "related-artworks": [
+  100001012,
+  100001226,
+  100001228,
+  100001591,
+  100001894
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100013188"
+  }
+ }
+}

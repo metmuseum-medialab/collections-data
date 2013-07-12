@@ -1,0 +1,32 @@
+{
+ "Date": "1720–39",
+ "Culture": "European",
+ "Medium": "Wool",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Herman Delman, 1954",
+ "Accession Number": "2009.300.4746a, b",
+ "What": [
+  "Costume",
+  "Wool",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "id": 80107165,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/54.61.96a-b_CP2.jpg",
+ "related-artworks": [
+  80093974,
+  80093979,
+  80107160,
+  80107249,
+  80024965
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107165"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "19th century",
+ "Culture": "probably French",
+ "Medium": "Silver gilt",
+ "Dimensions": "H. 7/8 in. (2.2 cm.); L. 9-11/16 in. (24.6 cm.); Diam. 5- 3/4 in. (14.6 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mrs. C. Ruxton Love Jr., 1978",
+ "Accession Number": "1978.524.4",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Salvers"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120022895,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/218449.jpg",
+ "related-artworks": [
+  120001347,
+  120000791,
+  120000797,
+  120024154,
+  120015481
+ ],
+ "Provenance": [
+  "Mrs. C. Ruxton Love Jr. (until 1978",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022895"
+  }
+ }
+}

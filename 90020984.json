@@ -1,0 +1,38 @@
+{
+ "Artist": "Sir Frank William Brangwyn (British, Bruges 1867–1956 Ditchling, Sussex)",
+ "Publisher": "Artur Wolf (Vienna)",
+ "Date": "early 20th century",
+ "Classification": "Albums",
+ "Credit Line": "Transferred from the Library, 1922",
+ "Accession Number": "22.106.62",
+ "Who": [
+  "Artur Wolf",
+  "Sir Frank William Brangwyn",
+  "A. G. [ A. S.]  Levetus"
+ ],
+ "What": [
+  "Books",
+  "Albums"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90020984,
+ "related-artworks": [
+  90013081,
+  90026381,
+  90028253,
+  90028526,
+  90104222
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90020984"
+  }
+ }
+}

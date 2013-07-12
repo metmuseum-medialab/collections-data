@@ -1,0 +1,36 @@
+{
+ "Date": "1805–40",
+ "Medium": "Graphite and red chalk",
+ "Dimensions": "sheet 4 1/4 x 8 3/4 in. (10.8 x 22.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1966",
+ "Accession Number": "66.551.5",
+ "Who": "William Pitts",
+ "What": [
+  "Drawings",
+  "Graphite",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90035128,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804876.jpg",
+ "related-artworks": [
+  90035126,
+  90035125,
+  90035127,
+  90035129,
+  90035229
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90035128"
+  }
+ }
+}

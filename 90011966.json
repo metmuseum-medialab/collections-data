@@ -1,0 +1,36 @@
+{
+ "Engraver": "Engraved by Andrea de Bernardis",
+ "Date": "1787",
+ "Dimensions": "23 1/2 x 18 in. (59.7 x 45.7 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1970",
+ "Accession Number": "1970.565.88bis",
+ "Who": [
+  "Giocondo (Giuseppe) Albertolli",
+  "Giacomo Mercoli",
+  "Andrea de Bernardis"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "id": 90011966,
+ "related-artworks": [
+  90011967,
+  90011968,
+  90051644,
+  90014101,
+  120009740
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90011966"
+  }
+ }
+}

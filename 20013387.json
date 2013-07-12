@@ -1,0 +1,37 @@
+{
+ "Date": "1865",
+ "Medium": "Watercolor, gouache, pastel, graphite, and lead white (?) on off-white wove paper",
+ "Dimensions": "7 3/8 x 9 1/2 in. (18.7 x 24.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Miss Cora P. Van Wyck, 1936",
+ "Accession Number": "36.123.1",
+ "What": [
+  "Metal",
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Watercolors",
+  "Graphite",
+  "Wove paper",
+  "Lead",
+  "Gouaches",
+  "Pastels"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20013387,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap36.123.1.jpg",
+ "related-artworks": [
+  20013094,
+  20011125,
+  20013103,
+  20012688,
+  20012965
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20013387"
+  }
+ }
+}

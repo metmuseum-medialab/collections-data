@@ -1,0 +1,45 @@
+{
+ "Object Name": "Coin weight",
+ "Date": "probably 13th–14th century",
+ "Geography": "Egypt",
+ "Medium": "Glass",
+ "Dimensions": [
+  "Diam. 3/4 in.",
+  "Wt. 32.5 grains"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "x.165.4",
+ "What": [
+  "Glass",
+  "Money",
+  "Coins",
+  "Weights",
+  "Coin weights"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140000025,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf-x-165-4.jpg",
+ "related-artworks": [
+  140000026,
+  140000028,
+  140000032,
+  140000038,
+  140000039
+ ],
+ "Provenance": [
+  "Acquired by Museum by 1953"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140000025"
+  }
+ }
+}

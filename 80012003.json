@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1675",
+ "Culture": "French",
+ "Medium": "silk, metal",
+ "Dimensions": "Length at CB 27 in. (68.6 cm)",
+ "Credit Line": "Purchase, Irene Lewisohn Bequest, 1984",
+ "Accession Number": "1984.234",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Trousers"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80012003,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1984.234_F.jpg",
+ "related-artworks": [
+  80013243,
+  80013244,
+  80091547,
+  80024838,
+  80013252
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80012003"
+  }
+ }
+}

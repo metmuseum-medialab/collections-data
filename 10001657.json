@@ -1,0 +1,48 @@
+{
+ "Date": "1795–1805",
+ "Geography": "Mid-Atlantic, Philadelphia, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Mahogany, ash",
+ "Dimensions": "36 3/4 x 20 3/4 x 18 in. (93.3 x 52.7 x 45.7 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Bequest of Adeline R. Brown, 1947",
+ "Accession Number": "48.135.93",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Mahogany",
+  "Side chairs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Philadelphia"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10001657,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/142474.jpg",
+ "related-artworks": [
+  10001768,
+  10001583,
+  10001617,
+  10001623,
+  10001634
+ ],
+ "Provenance": [
+  "Adeline R. Brown, St. Albans, New York, until died 1947"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001657"
+  }
+ }
+}

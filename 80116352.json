@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1962",
+ "Culture": "American",
+ "Medium": "Metallic, cotton",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Thayer Gilpatrick, 1984",
+ "Accession Number": "2009.300.8069a, b",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Hosiery",
+  "Stockings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80116352,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80115068"
+   },
+   {
+    "href": "http://scrapi.org/object/80116164"
+   },
+   {
+    "href": "http://scrapi.org/object/80116784"
+   },
+   {
+    "href": "http://scrapi.org/object/80116948"
+   },
+   {
+    "href": "http://scrapi.org/object/80116041"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80116352"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80116352"
+  }
+ }
+}

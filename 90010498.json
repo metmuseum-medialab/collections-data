@@ -1,0 +1,37 @@
+{
+ "Date": "1718",
+ "Medium": "Pen with brown and gray ink, brush with gray, rose, and yellow green wash, highlighted with gold, over ruled construction; design framed with pen and brown ink outlines",
+ "Dimensions": "19-1/2 x 25-3/8 in.  (49.5 x 64.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Leon Dalva Sr., 1965",
+ "Accession Number": "65.654.1",
+ "Who": "Donato Giuseppe Frisoni",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90010498,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820304.jpg",
+ "related-artworks": [
+  90007464,
+  90007616,
+  90007849,
+  90037813,
+  90037817
+ ],
+ "Provenance": [
+  "Leon Dalva, Sr., part of a Piedmontese-Lombard scrapbook"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010498"
+  }
+ }
+}

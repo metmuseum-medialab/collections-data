@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1830",
+ "Culture": "British, Sheffield",
+ "Medium": "Copper, silverplated",
+ "Dimensions": "Diam. 9 in. (22.9 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Heathcote Art Foundation, 1986",
+ "Accession Number": "1986.264.11",
+ "Who": "James Dixon & Sons",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Dishes",
+  "Copper",
+  "Plates"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Sheffield",
+  "South Yorkshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120023719,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF1986_264_11_img1.jpg",
+ "related-artworks": [
+  120005918,
+  120006659,
+  120006660,
+  120006661,
+  120023521
+ ],
+ "Provenance": [
+  "Heathcote Art Foundation (until 1986",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120023719"
+  }
+ }
+}

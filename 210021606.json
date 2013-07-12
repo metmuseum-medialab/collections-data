@@ -1,0 +1,41 @@
+{
+ "Date": "1971",
+ "Medium": "Acrylic and cut and pasted papers on Plexiglas",
+ "Dimensions": "48 1/8 x 48 1/8 in. (122.2 x 122.2 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Maddy and Larry Mohr, 2011",
+ "Accession Number": "2011.590.1",
+ "Who": "Malcolm Bailey",
+ "What": [
+  "Paintings",
+  "Plastic",
+  "Acrylic",
+  "Papers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210021606,
+ "related-artworks": [
+  210002397,
+  210015828,
+  210006293,
+  210007218
+ ],
+ "Provenance": [
+  "The artist, (1971–?",
+  "sold to Mohr)",
+  "Larry and Maddy Mohr, New York (?–2011",
+  "their gift to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210021606"
+  }
+ }
+}

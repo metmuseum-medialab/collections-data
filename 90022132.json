@@ -1,0 +1,31 @@
+{
+ "Date": "1901",
+ "Classification": "Books",
+ "Credit Line": "Purchase, Jefferson R. Burdick Bequest, 1967",
+ "Accession Number": "67.694.15",
+ "Who": "H. A. Moyer",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90022132,
+ "related-artworks": [
+  90000871,
+  90000872,
+  90000873,
+  90000874,
+  90000875
+ ],
+ "Provenance": [
+  "Vendor: Elsie Bort"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90022132"
+  }
+ }
+}

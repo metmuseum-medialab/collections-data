@@ -1,0 +1,51 @@
+{
+ "Date": "14th–15th century",
+ "Geography": "Syria",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.256.277",
+ "What": [
+  "Ceramics",
+  "Fragments"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Eastern Mediterranean, 1000–1400 A.D.",
+  "The Eastern Mediterranean, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140002744,
+ "Provenance": [
+  "[ Michael Casira, Cairo, until 1908",
+  "sold to A.M. Lythgoe for MMA]"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/140000068"
+   },
+   {
+    "href": "http://scrapi.org/object/140000072"
+   },
+   {
+    "href": "http://scrapi.org/object/140002192"
+   },
+   {
+    "href": "http://scrapi.org/object/140002366"
+   },
+   {
+    "href": "http://scrapi.org/object/140002367"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140002744"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/140002744"
+  }
+ }
+}

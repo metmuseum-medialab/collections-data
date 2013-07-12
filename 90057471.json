@@ -1,0 +1,40 @@
+{
+ "Date": "1775",
+ "Medium": "Ink, wash and watercolor over graphite",
+ "Dimensions": "sheet 20 1/4 x 14 3/16 in. (51.5 x 36 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1958",
+ "Accession Number": "58.511",
+ "Who": "James Wyatt",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90057471,
+ "related-artworks": [
+  90057436,
+  90057472,
+  90057450,
+  90057446,
+  90057452
+ ],
+ "Provenance": [
+  "Bertone Collection",
+  "Vendor: Hellmuth Wallach"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90057471"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "style of 18th century",
+ "Culture": "French",
+ "Medium": "Carved and gilded walnut",
+ "Dimensions": "H. 38 x W. 28 1/2 x D. 28 in. (96.5 x 72.4 x 71.1 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of Samuel H. Kress Foundation, 1958",
+ "Accession Number": "58.75.32",
+ "Who": "Philippe de Lasalle",
+ "What": [
+  "Gilt",
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Seating furniture",
+  "Chairs",
+  "Walnut",
+  "Armchairs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120056228,
+ "gallery-id": 523,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/166497.jpg",
+ "related-artworks": [
+  120017484,
+  120017485,
+  120056229,
+  120017488,
+  120056232
+ ],
+ "Provenance": [
+  "The Samuel H. Kress Foundation (until 1958",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120056228"
+  }
+ }
+}

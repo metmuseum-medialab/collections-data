@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1865–66",
+ "Medium": "Watercolor over graphite with touches of gouache",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Cyrus W. Field, 1892",
+ "Accession Number": "92.10.48",
+ "Who": "Robert Charles Dudley",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Graphite",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90057704,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP801242.jpg",
+ "related-artworks": [
+  90035040,
+  90035041,
+  90035042,
+  90035047,
+  90035045
+ ],
+ "Provenance": [
+  "Donor: Cyrus W. Field"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90057704"
+  }
+ }
+}

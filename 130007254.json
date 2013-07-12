@@ -1,0 +1,30 @@
+{
+ "Medium": "Bronze",
+ "Dimensions": "Other 1 3/4 in. (4.4 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Purchase, 1898",
+ "Accession Number": "98.11.19",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Buckles"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130007254,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP20354.jpg",
+ "related-artworks": [
+  130004882,
+  130004883,
+  130004884,
+  130007242,
+  130007248
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130007254"
+  }
+ }
+}

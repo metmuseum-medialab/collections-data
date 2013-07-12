@@ -1,0 +1,51 @@
+{
+ "Date": "1811",
+ "Medium": "Oil on canvas",
+ "Dimensions": "35 3/8 x 47 1/2 in. (89.9 x 120.7 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+ "Accession Number": "89.15.9",
+ "Who": "Joseph Mallord William Turner",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "Joseph Mallord William Turner (1775–1851)",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110002305,
+ "gallery-id": 808,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP169566.jpg",
+ "related-artworks": [
+  110002306,
+  110002307,
+  90000335,
+  90000336,
+  90000394
+ ],
+ "Provenance": [
+  "the artist (until at least 1846)",
+  "Joseph Hogarth, London (until 1851",
+  "Royal Gallery of British Art sale, Christie's, London, June 13, 1851, no. 50*, as \"Saltash, Devon\", for £346.10.0 to Bicknell)",
+  "Elhanan Bicknell, Herne Hill, Surrey (1851)",
+  "John Miller, Liverpool (1851–after 1858",
+  "his sale, Christie's, London, May 22, 1858, no. 249, for £430 to Gambart for Miller)",
+  "his daughter, Maria C. Miller (by 1868–87",
+  "sold for 3,000 gns. through Charles W. Deschamps to Marquand)",
+  "Henry G. Marquand, New York (1887–89)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110002305"
+  }
+ }
+}

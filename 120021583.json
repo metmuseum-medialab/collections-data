@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1749–52",
+ "Culture": "British, Chelsea",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. 5 in. (12.7 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Irwin Untermyer, 1973",
+ "Accession Number": "1974.28.140",
+ "Who": "Chelsea Porcelain Factory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Figures",
+  "Soft paste porcelain",
+  "Busts"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London",
+  "Chelsea"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021583,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/209985.jpg",
+ "related-artworks": [
+  120018832,
+  120018869,
+  120007511,
+  120007520,
+  120018809
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021583"
+  }
+ }
+}

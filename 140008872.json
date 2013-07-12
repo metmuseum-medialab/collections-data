@@ -1,0 +1,38 @@
+{
+ "Date": "13th century or later",
+ "Geography": "Saudi Arabia, Dhahran",
+ "Medium": "Stonepaste; slip painted, incised and splash glazed",
+ "Classification": "Ceramics",
+ "Accession Number": "60.23.56",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Fragments",
+  "Painting",
+  "Glazing",
+  "Slip"
+ ],
+ "Where": [
+  "Asia",
+  "Saudi Arabia",
+  "Dhahran"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Arabian Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140008872,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf60-23-56a.jpg",
+ "related-artworks": [
+  140008885,
+  140008871,
+  140008890,
+  140008891,
+  140008879
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008872"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1815",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": "5/8 x 3 1/4 x 2 1/8 in. (1.6 x 8.3 x 5.4 cm)",
+ "Classification": "Silver",
+ "Credit Line": "Bequest of Alphonso T. Clearwater, 1933",
+ "Accession Number": "33.120.145",
+ "Who": "John Targee",
+ "What": [
+  "Metal",
+  "Silver",
+  "Boxes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10007835,
+ "gallery-id": 372,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP162502.jpg",
+ "related-artworks": [
+  40011296,
+  40000974,
+  10007832
+ ],
+ "Provenance": [
+  "George Clinton, Kingston, New York, from 1777",
+  "his nephew, DeWitt Clinton",
+  "Ezra Jenkins",
+  "his wife, Mrs. Ezra Jenkins, until 1848",
+  "Darius Peck, from 1848",
+  "Alphonso T. Clearwater, Kingston, New York, until died 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10007835"
+  }
+ }
+}

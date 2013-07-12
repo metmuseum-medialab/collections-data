@@ -1,0 +1,41 @@
+{
+ "Artist": "Andrew Joseph Russell (American, 1830–1902)",
+ "Date": "1864",
+ "Medium": "Albumen silver print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.65.365",
+ "Who": [
+  "Timothy H. O'Sullivan",
+  "Andrew Joseph Russell"
+ ],
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190019999,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP70489.jpg",
+ "related-artworks": [
+  190013677,
+  190014828,
+  190016423,
+  190016484,
+  190016485
+ ],
+ "Provenance": [
+  "Loyal Legion, Boston Chapter, Commandery of the State of Massachusetts"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190019999"
+  }
+ }
+}

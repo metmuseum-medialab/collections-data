@@ -1,0 +1,54 @@
+{
+ "Date": "1974",
+ "Medium": "Black and white instant print",
+ "Classification": "Photographs",
+ "Credit Line": "Museum accession, 1974",
+ "Accession Number": "1974.683.1",
+ "Who": "Ansel Easton Adams",
+ "What": [
+  "Photographs",
+  "Instant prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190012946,
+ "related-artworks": [
+  "http://scrapi.org/object/190012959",
+  "http://scrapi.org/object/190012947",
+  "http://scrapi.org/object/190012951",
+  "http://scrapi.org/object/190012948",
+  "http://scrapi.org/object/190012949"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Ansel Adams"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190012959"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190012947"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190012951"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190012948"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190012949"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190012946"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Period": "Pala period",
+ "Date": "early 12th century",
+ "Culture": "India (Bengal) or Bangladesh",
+ "Medium": "Opaque watercolor on palm leaf",
+ "Dimensions": "2 3/4 x 16 1/2 in. (7 x 41.9 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Purchase, Lila Acheson Wallace Gift, 2001",
+ "Accession Number": "2001.445t",
+ "What": [
+  "Paintings",
+  "Watercolors",
+  "Folios",
+  "Palm leaf"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia South, 1000–1400 A.D.",
+ "id": 60049230,
+ "Description": "South Asia's main surviving early tradition of portable painting dates from the eastern Indian, late Pala period (tenth-thirteenth century). Of the thirty-nine pages from this manuscript, twelve are illuminated. The majority of these show seated deities in shrines, a format that is associated with manuscripts from Bengal, a region now split between West Bengal in India and Bangladesh. Four leaves are particularly unusual: a seated Bodhisattva Maitreya attended by an adorant, a Kurukulla dancing within a stylized mountain surround, and two miniatures showing a standing Tara and Avalokiteshvara, both bestowing boons. The latter two are the most elaborate illuminations in the manuscript, with over a dozen subsidiary figures in each composition. Similar scenes are known from later Nepalese paintings, but nothing like them has survived in the Indian canon. These leaves are extraordinary for their condition and beauty as well as the density of their pigmentation. Atypically, they resemble paintings in miniature more than colored drawings. The rich coloration, with a prominent use of vermilion and arsenic yellow, is like that seen in twelfth- and thirteenth-century Tibetan thankas (paintings on cloth), which were inspired by Pala-period painting.",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60004919"
+   },
+   {
+    "href": "http://scrapi.org/object/60049174"
+   },
+   {
+    "href": "http://scrapi.org/object/60049176"
+   },
+   {
+    "href": "http://scrapi.org/object/60049179"
+   },
+   {
+    "href": "http://scrapi.org/object/60049162"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60049230"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60049230"
+  }
+ }
+}

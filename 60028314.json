@@ -1,0 +1,41 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "ca. 1910",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "14 5/8 x 19 13/16 in. (37.1 x 50.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Frederick E Church, 1928",
+ "Accession Number": "MJP24",
+ "Who": "Tsukioka Kōgyo",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1900 A.D.–present",
+ "id": 60028314,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP143343.jpg",
+ "related-artworks": [
+  60013062,
+  60013313,
+  60013314,
+  60024902,
+  60028295
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028314"
+  }
+ }
+}

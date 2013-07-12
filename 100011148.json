@@ -1,0 +1,36 @@
+{
+ "Period": "Third Intermediate Period or later",
+ "Dynasty": "Dynasty 21–25",
+ "Date": "ca. 1070–664 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.8.190",
+ "What": [
+  "Sculpture",
+  "Faience",
+  "Shabti"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100011148,
+ "gallery-id": 130,
+ "related-artworks": [
+  100006235,
+  100011137,
+  100011142,
+  100011355,
+  100031341
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100011148"
+  }
+ }
+}

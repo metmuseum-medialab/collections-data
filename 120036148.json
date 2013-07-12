@@ -1,0 +1,42 @@
+{
+ "Date": "19th century",
+ "Culture": "Irish",
+ "Medium": "Needle lace",
+ "Dimensions": [
+  "L. 5 1/4 x W. 3 inches",
+  "13.3 x 7.6 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Purchase by subscription, 1909",
+ "Accession Number": "09.68.524",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace"
+ ],
+ "Where": [
+  "Europe",
+  "Republic of Ireland"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036148,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/AR799.jpg",
+ "related-artworks": [
+  120032436,
+  120032435,
+  120036140,
+  120036147,
+  120036149
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036148"
+  }
+ }
+}

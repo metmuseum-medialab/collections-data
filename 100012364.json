@@ -1,0 +1,36 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes",
+ "Medium": "Red faience, violet calyx",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.626",
+ "What": [
+  "Faience",
+  "Beads"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100012364,
+ "related-artworks": [
+  100003516,
+  100003608,
+  100003588,
+  100005522,
+  100006040
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100012364"
+  }
+ }
+}

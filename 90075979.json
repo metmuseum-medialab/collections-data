@@ -1,0 +1,40 @@
+{
+ "Date": "1606",
+ "Medium": "Etching",
+ "Dimensions": [
+  "sheet 15 9/16 x 20 1/2 in. (39.5 x 52 cm)",
+  "plate 4 1/8 x 4 3/4 in. (10.5 x 12 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.3907",
+ "Who": "Antonio Tempesta",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Rembrandt van Rijn (1606–1669) Prints",
+ "id": 90075979,
+ "related-artworks": [
+  90032691,
+  90032692,
+  90032693,
+  90033241,
+  90055208
+ ],
+ "Provenance": [
+  "P. & D. Colnaghi & Co., Ltd., London",
+  "Princes of Liechtenstein, Vaduz and Vienna"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90075979"
+  }
+ }
+}

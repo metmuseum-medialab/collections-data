@@ -1,0 +1,42 @@
+{
+ "Date": "19th century",
+ "Culture": "Swedish (Vadstena)",
+ "Medium": "Bobbin lace",
+ "Dimensions": [
+  "L. 8 1/2 x W. 2 1/2 inches",
+  "21.6 x 6.4 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.810",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "Sweden",
+  "Vadstena"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120032826,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP8077.jpg",
+ "related-artworks": [
+  120030971,
+  120030968,
+  120030969,
+  120030970,
+  120032827
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032826"
+  }
+ }
+}

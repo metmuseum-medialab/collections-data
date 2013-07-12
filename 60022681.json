@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Hanging scroll; ink and color on silk",
+ "Dimensions": "58 3/4 x 19 7/8 in. (149.2 x 50.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Katherine S. Dreier, 1952",
+ "Accession Number": "52.177.2",
+ "Who": "Yu Xing",
+ "What": [
+  "Silk",
+  "Ink",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60022681,
+ "related-artworks": [
+  60000169,
+  60019656,
+  60022121,
+  60022771,
+  60050075
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60022681"
+  }
+ }
+}

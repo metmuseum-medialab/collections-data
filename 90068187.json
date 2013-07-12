@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1900",
+ "Medium": "Photomechanical process",
+ "Dimensions": "6 x 9 1/16 x 3/16 in. (15.2 x 23 x 0.4 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1962",
+ "Accession Number": "62.596",
+ "Who": "Athens Furniture Company",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90068187,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90000855"
+   },
+   {
+    "href": "http://scrapi.org/object/90000850"
+   },
+   {
+    "href": "http://scrapi.org/object/90000852"
+   },
+   {
+    "href": "http://scrapi.org/object/90000864"
+   },
+   {
+    "href": "http://scrapi.org/object/90000869"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90068187"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90068187"
+  }
+ }
+}

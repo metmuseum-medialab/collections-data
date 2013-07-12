@@ -1,0 +1,40 @@
+{
+ "Medium": "Etching",
+ "Dimensions": "Sheet 4 9/16 × 3 1/4 in. (11.6 × 8.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1924",
+ "Accession Number": "24.82.1",
+ "Who": "Albrecht Altdorfer",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Jews and the Arts in Medieval Europe",
+  "The Printed Image in the West History and Techniques",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90105747,
+ "related-artworks": [
+  90003246,
+  90043217,
+  90080499,
+  90080511,
+  90080506
+ ],
+ "Provenance": [
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90105747"
+  }
+ }
+}

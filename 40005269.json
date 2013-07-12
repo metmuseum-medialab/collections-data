@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1750",
+ "Culture": "French (Strasbourg)",
+ "Medium": "Engraving",
+ "Dimensions": "25¼ x 18¾ inches (64 x 47.5 cm) (plate size)",
+ "Classification": "Works on Paper",
+ "Credit Line": "Purchase, Jonathan and Elizabeth Roberts Gift, 2004",
+ "Accession Number": "2004.57",
+ "Who": "Perrier of Strasbourg",
+ "What": [
+  "Prints",
+  "Paper",
+  "Engraving",
+  "Arms",
+  "Firearms"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Alsace",
+  "Strasbourg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005269,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/sfsb2004.57(4-20-07)s1.JPG",
+ "related-artworks": [
+  40001154,
+  40003346,
+  40010862,
+  40011041,
+  40012484
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40005269"
+  }
+ }
+}

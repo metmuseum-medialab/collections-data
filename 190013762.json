@@ -1,0 +1,34 @@
+{
+ "Date": "1871",
+ "Medium": "Albumen silver print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Sterling Boyd, 1977",
+ "Accession Number": "1977.557.9",
+ "Who": "P. Loubère",
+ "What": [
+  "Photographs",
+  "Albumen silver prints",
+  "Card photographs",
+  "Maps",
+  "Cartes-de-visite"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190013762,
+ "related-artworks": [
+  190013746,
+  190013747,
+  190013752,
+  190013753,
+  190013755
+ ],
+ "Provenance": [
+  "Sterling Boyd"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190013762"
+  }
+ }
+}

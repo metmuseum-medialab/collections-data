@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1824",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "H. 7 in. (17.8 cm); W. 5 in. (12.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Estate of Samuel Isham, 1915",
+ "Accession Number": "JP1069",
+ "Who": "Keisai Eisen",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60026161,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP141359.jpg",
+ "related-artworks": [
+  60026158,
+  60026595,
+  60000796,
+  60000788,
+  60025110
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026161"
+  }
+ }
+}

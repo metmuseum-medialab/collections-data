@@ -1,0 +1,40 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Jade (nephrite)",
+ "Dimensions": "H. 1 7/8 in. (4.8 cm); W. 3 1/2 in. (8.9 cm)",
+ "Classification": "Jade",
+ "Credit Line": "The F.O. Matthiessen Collection, Gift of Mrs. Emma Matthiessen, in memory of her husband, 1903",
+ "Accession Number": "04.6.16a, b",
+ "What": [
+  "Jade",
+  "Boxes",
+  "Nephrite"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60009567,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/31633.jpg",
+ "related-artworks": [
+  60011548,
+  60009492,
+  60009556,
+  60009582,
+  60010871
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009567"
+  }
+ }
+}

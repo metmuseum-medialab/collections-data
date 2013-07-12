@@ -1,0 +1,41 @@
+{
+ "Date": "1880",
+ "Medium": "Etching",
+ "Dimensions": [
+  "sheet 13 1/8 x 5 7/8 in. (33.3 x 14.9 cm)",
+  "plate 13 x 5 7/8 in. (33 x 14.9 cm)",
+  "image 13 x 5 7/8 in. (33 x 14.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Otto H. Bacher, 1932",
+ "Accession Number": "32.96.13",
+ "Who": "Otto Henry Bacher",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90038380,
+ "related-artworks": [
+  90016911,
+  90038240,
+  90038242,
+  90038247,
+  90038248
+ ],
+ "Provenance": [
+  "Donor: Mrs. Otto H. Bacher"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90038380"
+  }
+ }
+}

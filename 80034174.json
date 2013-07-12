@@ -1,0 +1,41 @@
+{
+ "Date": "1917",
+ "Culture": "French",
+ "Medium": "wool, fur",
+ "Dimensions": [
+  "(a) Length at CB 30 in. (76.2 cm)",
+  "(b) Length at CB 37 in. (94 cm)"
+ ],
+ "Credit Line": "Purchase, Irene Lewisohn Bequest, 1951",
+ "Accession Number": "C.I.51.97.25a, b",
+ "Who": "Callot Soeurs",
+ "What": [
+  "Costume",
+  "Wool",
+  "Hair",
+  "Suits",
+  "Fur"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80034174,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI51.97.25ab_F.jpg",
+ "related-artworks": [
+  80033744,
+  80034042,
+  80033751,
+  80015290,
+  80007566
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80034174"
+  }
+ }
+}

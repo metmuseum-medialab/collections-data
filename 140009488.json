@@ -1,0 +1,72 @@
+{
+ "Artist": "Painting attributed to Sultan Muhammad (active first half 16th century)",
+ "Object Name": "Folio from an illustrated manuscript",
+ "Reign": "Shah Tamasp (1524–76)",
+ "Date": "ca. 1524",
+ "Geography": "Iran, Tabriz",
+ "Medium": "Opaque watercolor, ink, silver, and gold on paper",
+ "Dimensions": [
+  "Painting H. 7 3/8 in. (18.7 cm)",
+  "W. 12 15/16 in. (32.9 cm)",
+  "Page H. 12 9/16 in. (31.9 cm)",
+  "W. 18 1/2 in. (47 cm)",
+  "Mat H. 22 in. (55.9 cm)",
+  "W. 16 in. (40.6 cm)"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "Gift of Arthur A. Houghton Jr., 1970",
+ "Accession Number": "1970.301.4",
+ "Who": [
+  "Abu'l Qasim Firdausi",
+  "Sultan Muhammad"
+ ],
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Silver",
+  "Gold",
+  "Watercolors",
+  "Manuscripts",
+  "Codices",
+  "Folios",
+  "Illuminated manuscripts"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Tabriz"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Shahnama of Shah Tahmasp",
+  "Iran, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140009488,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP107120.jpg",
+ "related-artworks": [
+  140009494,
+  140009487,
+  140009511,
+  140009502,
+  140009538
+ ],
+ "Description": "The evil king Zahhak faints when his wise men reveal the meaning of his nightmare: that one Faridun, as yet unborn, will justly bring about his downfall and death. The logical disposition of figures in space reflects the influence of the late Timurid Herat School of painting, whereas the bending rosebush and snail-like clouds at the right derive from Turkmen painting as practiced at Tabriz. The animated characterizations, however, are typical of the work of Sultan Muhammad, head of the royal workshop.",
+ "Provenance": [
+  "Shah Tahmasp, Iran (until 1568)",
+  "Sultan Selim II, Istanbul (from 1568)",
+  "Sultan Selim III, Istanbul (by 1800)",
+  "Baron Edmond de Rothschild, Paris (by 1903–d. 1934)",
+  "his son, Baron Maurice de Rothschild, Paris and Pregny, near Geneva (by 1955–d. 1957)",
+  "[ Stiebel Ltd., New York, until 1959",
+  "sold to Houghton]",
+  "Arthur A. Houghton Jr., New York (1959–70)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009488"
+  }
+ }
+}

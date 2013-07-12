@@ -1,0 +1,45 @@
+{
+ "Object Name": "Rod or bobbin",
+ "Date": "5th–8th century",
+ "Geography": "Palestine, Sbaita",
+ "Medium": "Bone; carved",
+ "Dimensions": [
+  "H. 1 15/16 in. (5 cm)",
+  "Diam. 1/4 in. (0.6 cm)"
+ ],
+ "Classification": "Ivories and Bone",
+ "Credit Line": "Gift of H. Dunscombe Colt, 1937",
+ "Accession Number": "37.75.18",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Rods"
+ ],
+ "Where": [
+  "Asia",
+  "Palestine"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Eastern Mediterranean, 500–1000 A.D.",
+  "The Eastern Mediterranean, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140006454,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf37-75-18a.jpg",
+ "related-artworks": [
+  140006437,
+  140006438,
+  140006439,
+  140006440,
+  140006441
+ ],
+ "Provenance": [
+  "H. Dunscombe Colt, New York (until 1937)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140006454"
+  }
+ }
+}

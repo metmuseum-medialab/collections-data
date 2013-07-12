@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1945",
+ "Culture": "French",
+ "Medium": "wool",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Lillian T. Farley, 1974",
+ "Accession Number": "1974.246",
+ "Who": "Madame Grès (Alix Barton)",
+ "What": [
+  "Costume",
+  "Wool",
+  "Coats"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80005818,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1974.246_F.jpg",
+ "related-artworks": [
+  80097585,
+  80000233,
+  80000389,
+  80000647,
+  80000648
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80005818"
+  }
+ }
+}

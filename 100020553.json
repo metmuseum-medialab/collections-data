@@ -1,0 +1,42 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Reign": "reign of Amenemhat I, early",
+ "Date": "ca. 1981–1975 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Southern Asasif, Tomb of Meketre (TT 280, MMA 1101), MMA 1920",
+ "Medium": "Limestone, paint",
+ "Credit Line": "Rogers Fund and Edward S. Harkness Gift, 1920",
+ "Accession Number": "20.3.830",
+ "What": [
+  "Sculpture",
+  "Fragments",
+  "Limestone",
+  "Reliefs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100020553,
+ "related-artworks": [
+  100019813,
+  100020322,
+  100020304,
+  100020324,
+  100020307
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1920. Acquired by the Museum in the division of finds, 1920."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100020553"
+  }
+ }
+}

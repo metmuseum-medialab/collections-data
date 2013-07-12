@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1612",
+ "Medium": "Pen and brown ink, brush with brown and red wash, over red chalk and traces of black chalk; squared in black and red chalk",
+ "Dimensions": "sheet 9 13/16 x 7 1/16 in. (24.9 x 18 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Anonymous Gift, 2006",
+ "Accession Number": "2006.393.9",
+ "Who": "Anonymous, Italian, Florentine, second half of the 16th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90045000,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802136.jpg",
+ "related-artworks": [
+  90007084,
+  90013682,
+  90033969,
+  90007084
+ ],
+ "Provenance": [
+  "Christie's, London, December 11, 1979, lot 68 (as Passignano)",
+  "John and Alice F. Steiner (American, Larchmont, New York)",
+  "Steiner Family Collection by descent"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90045000"
+  }
+ }
+}

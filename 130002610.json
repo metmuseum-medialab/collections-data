@@ -1,0 +1,44 @@
+{
+ "Period": "Cypro-Archaic II",
+ "Date": "late 6th century B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Limestone",
+ "Dimensions": "Overall 15 1/2 x 9 x 7 1/4 in. (39.4 x 22.9 x 18.4 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2593",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Figures",
+  "Limestone",
+  "Statues"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130002610,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP274546.jpg",
+ "related-artworks": [
+  130002522,
+  130002533,
+  130002555,
+  130002581,
+  130002611
+ ],
+ "Description": "The figure carries a sword, bow, quiver, and a flask or bag.",
+ "Provenance": [
+  "Sanctuary of Golgoi–Ayios Photios"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002610"
+  }
+ }
+}

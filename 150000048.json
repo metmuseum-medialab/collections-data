@@ -1,0 +1,45 @@
+{
+ "Former Attribution": "Follower of Bernardo Daddi (Italian, Florentine, painted about 1335–40)",
+ "Culture": "Italian, Florence",
+ "Medium": "Tempera on wood, gold ground",
+ "Dimensions": "Overall, with engaged frame, 11 5/8 x 8 3/8 in. (29.5 x 21.3 cm); painted surface 8 1/2 x 6 7/8 in. (21.6 x 17.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.60",
+ "Who": [
+  "Maestro Daddesco",
+  "Follower of Bernardo Daddi (Italian, Florentine, painted about 1335–40)"
+ ],
+ "What": [
+  "Metal",
+  "Paintings",
+  "Gold",
+  "Tempera"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Florence"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 150000048,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3042.jpg",
+ "related-artworks": [
+  150008416,
+  150000053,
+  150000046,
+  150000050
+ ],
+ "Provenance": [
+  "Acquired by Robert Lehman in Florence in 1913."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150000048"
+  }
+ }
+}

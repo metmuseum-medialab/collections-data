@@ -1,0 +1,38 @@
+{
+ "Date": "7th–9th century",
+ "Culture": "India (Jammu & Kashmir, ancient kingdom of Kashmir)",
+ "Medium": "Stone",
+ "Dimensions": "H. 2 1/2 in. (6.4 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Samuel Eilenberg Collection, Gift of Samuel Eilenberg, 1987",
+ "Accession Number": "1987.142.91",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Jammu and Kashmir",
+  "Jammu"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia South, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005670,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1987_142_91.jpg",
+ "related-artworks": [
+  60005201,
+  60005549,
+  60005671,
+  60005069,
+  60005126
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005670"
+  }
+ }
+}

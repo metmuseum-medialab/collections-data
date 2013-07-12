@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1619–24",
+ "Medium": "Etching and engraving; first state of four (Lieure)",
+ "Dimensions": "Sheet 4 1/8 x 8 3/8 in. (10.5 x 21.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1917",
+ "Accession Number": "17.50.17-367",
+ "Who": "Jacques Callot",
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90092017,
+ "related-artworks": [
+  90010397,
+  90014436,
+  90028114,
+  90034063,
+  90034064
+ ],
+ "Provenance": [
+  "Earls of Pembroke (British, Wilton House, near Salisbury, Wiltshire)",
+  "Sotheby's, LondonWilton House Sale, July 1917",
+  "Colnaghi & Co. (London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90092017"
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "Date": "ca. 1886–88",
+ "Medium": "Pastel on light green wove paper, now discolored to warm gray, affixed to original pulpboard mount",
+ "Dimensions": "29 1/8 x 23 7/8 in. (74 x 60.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.35",
+ "Who": "Edgar Degas",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Wove paper",
+  "Pastels"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "Claude Monet (1840–1926)",
+  "The Lure of Montmartre, 1880–1900",
+  "The Print in the Nineteenth Century",
+  "Édouard Manet (1832–1883)",
+  "The Salon and The Royal Academy",
+  "Edgar Degas (1834–1917) Painting and Drawing",
+  "American Impressionism",
+  "Japonisme",
+  "Mary Stevenson Cassatt (1844–1926)",
+  "Edgar Degas (1834–1917) Bronze Sculpture",
+  "Impressionism Art and Modernity",
+  "Lithography in the Nineteenth Century",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110000612,
+ "gallery-id": 817,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP253480.jpg",
+ "related-artworks": [
+  90003798,
+  90011505,
+  110000609,
+  110000565,
+  110000610
+ ],
+ "Provenance": [
+  "?[Boussod, Valadon & Cie, Paris",
+  "probably bought from the artist and sold about 1888 to Dupuis]",
+  "Monsieur Dupuis, Paris (about 1888–d. 1890",
+  "sale, Hôtel Drouot, Paris, June 10, 1891, no. 13, as \"Jeune dame coiffée par sa femme de chambre,\" for Fr 2,600 to Mayer [probably Meyer])",
+  "[probably Salvador Meyer, from 1891]",
+  "Roger Marx, Paris (by 1906–d. 1913",
+  "his estate sale, Galerie Manzi-Joyant, Paris, May 11–12, 1914, no. 125, as \"La Toilette,\" for Fr 101,000 to Durand-Ruel [deposit no. 11710, May 19, 1914] for Havemeyer)",
+  "Mrs. H. O. (Louisine W.) Havemeyer, New York (1914–d. 1929",
+  "cat., 1931, pp. 130–31, ill.)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110000612"
+  }
+ }
+}

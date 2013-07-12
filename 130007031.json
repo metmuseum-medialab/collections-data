@@ -1,0 +1,63 @@
+{
+ "Period": "Late Classical",
+ "Date": "ca. 340–320 B.C.",
+ "Culture": "Greek, South Italian, Apulian",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": "diameter  11 13/16in. (30cm)",
+ "Classification": "Vases",
+ "Credit Line": "Purchase by subscription, 1896",
+ "Accession Number": "96.18.30",
+ "Who": "Bologna 585/Trieste S 403",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Lekanai"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130007031,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP114411.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/130016445",
+  "http://scrapi.org/object/130007736",
+  "http://scrapi.org/object/130009536",
+  "http://scrapi.org/object/130011057",
+  "http://scrapi.org/object/130012319"
+ ],
+ "related-images": [],
+ "Description": "Interior, Eros and deerExterior, obverse and reverse, woman's head",
+ "Provenance": [
+  "Said to be from Southern Italy"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130016445"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130007736"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130009536"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130011057"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130012319"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130007031"
+  }
+ }
+}

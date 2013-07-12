@@ -1,0 +1,42 @@
+{
+ "Date": "1803",
+ "Geography": "Paris, France",
+ "Medium": "Spruce, maple",
+ "Dimensions": "Total L. 59.0 cm (23-1/4 in.); Body L.: 35.8 cm (14-1/8 in.)",
+ "Classification": "Chordophone-Lute",
+ "Credit Line": "Bequest of Charles William Jones, 1997",
+ "Accession Number": "1997.237.2",
+ "Who": "François Louis Pique",
+ "What": [
+  "Wood",
+  "Musical instruments",
+  "Chordophones",
+  "Softwood",
+  "Lutes",
+  "Maple",
+  "Violins",
+  "Spruce"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180016357,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/264464.jpg",
+ "related-artworks": [
+  180015002,
+  180017371,
+  180013672,
+  180017553
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016357"
+  }
+ }
+}

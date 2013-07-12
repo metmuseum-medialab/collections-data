@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1872, printed ca. 1876",
+ "Medium": "Albumen silver print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Carole and Irwin Lainoff, Ruth P. Lasser and Joseph R. Lasser, Mr. and Mrs. John T. Marvin, Martin E. and Joan Messinger, Richard L. Yett and Sheri and Paul Siegel, 1986",
+ "Accession Number": "1986.1189.25",
+ "Who": "Carleton E. Watkins",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 190016698,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP152200.jpg",
+ "related-artworks": [
+  190011345,
+  190011432,
+  190011433,
+  190011434,
+  190011429
+ ],
+ "Provenance": [
+  "Ambroise Bernard",
+  "[...]",
+  "Armand Trampitsch",
+  "Peter Hastings Falk",
+  "Messers Lasser et al"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190016698"
+  }
+ }
+}

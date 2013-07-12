@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1550 (?)",
+ "Culture": "French (?)",
+ "Medium": "Steel",
+ "Classification": "Armor Parts",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.791",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Armor"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40000488,
+ "related-artworks": [
+  40000542,
+  40000378,
+  40000440,
+  40002905,
+  40003188
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000488"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1910",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length (leg) 28 in. (71.1 cm)",
+  "Length (foot) 10 in. (25.4 cm)"
+ ],
+ "Credit Line": "Gift of Mr. Laurent Oppenheim Jr., 1955",
+ "Accession Number": "C.I.X.55.26.4a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hosiery",
+  "Stockings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80027525,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CIX55.26.4ab.jpg",
+ "related-artworks": [
+  80001911,
+  80054709,
+  80001912,
+  80027523,
+  80027524
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80027525"
+  }
+ }
+}

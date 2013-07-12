@@ -1,0 +1,45 @@
+{
+ "Printer": "Imprimerie Photographique de H. de Fonteny et Cie",
+ "Date": "1851–52, printed 1853–54",
+ "Medium": "Salted paper print from paper negative",
+ "Dimensions": "24.5 x 30.1 cm. (9  5/8  x 11  7/8  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Lila Acheson Wallace Gift, 1976",
+ "Accession Number": "1976.607.42",
+ "Who": [
+  "Félix Teynard",
+  "Imprimerie Photographique de H. de Fonteny et Cie"
+ ],
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photographers in Egypt",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190013592,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP138578.jpg",
+ "related-artworks": [
+  190013563,
+  190013565,
+  190013567,
+  190013560,
+  190013557
+ ],
+ "Provenance": [
+  "Lucien Goldschmidt, Inc."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190013592"
+  }
+ }
+}

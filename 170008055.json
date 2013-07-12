@@ -1,0 +1,39 @@
+{
+ "Date": "8th–9th century",
+ "Culture": "Avar",
+ "Medium": "Copper alloy sheet, filigree, and granulation all with \"tinned\" surface",
+ "Dimensions": "Overall 3 3/4 x 2 7/16 x 1 3/16 in. (9.6 x 6.2 x 3 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1944",
+ "Accession Number": "44.73.1",
+ "What": [
+  "Metal",
+  "Costume",
+  "Metalwork",
+  "Jewelry",
+  "Copper",
+  "Ear ornaments",
+  "Earrings",
+  "Filigree"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170008055,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf44-73-1s4.jpg",
+ "related-artworks": [
+  170008056,
+  170005086,
+  170005087,
+  170004911,
+  170005038
+ ],
+ "Provenance": [
+  "[ Ephron Gallery, New York (sold 1944)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170008055"
+  }
+ }
+}

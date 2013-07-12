@@ -1,0 +1,44 @@
+{
+ "Period": "New Kingdom, Amarna Period",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Akhenaten",
+ "Date": "ca. 1353–1336 B.C.",
+ "Geography": "Country of Origin Egypt, Middle Egypt, el-Amarna (Akhetaten); inc. el-Hagg Qandil",
+ "Medium": "Limestone, paint (mostly modern)",
+ "Dimensions": "h. 22.2 cm (8 3/4 in); w. 25.4 cm (10 in)",
+ "Credit Line": "Gift of Mr. and Mrs. Jonathan P. Rosen, 1991",
+ "Accession Number": "1991.237.45",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Reliefs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Amarna"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100001372,
+ "gallery-id": 131,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsden53.jpg",
+ "related-artworks": [
+  100000995,
+  100001002,
+  100001333,
+  100001343,
+  100001441
+ ],
+ "Provenance": [
+  "Donated by Mr. and Mrs. Jonathan P. Rosen, New York, 1991.The relief is understood to have been previously with Jack Ogden, London.  Previously published by G. Roeder, Amarna-Reliefs aus Hermopolis (1969), pl. 207  PC (Private Collection) 262"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100001372"
+  }
+ }
+}

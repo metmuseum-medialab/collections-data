@@ -1,0 +1,42 @@
+{
+ "Object Name": "Fragment",
+ "Date": "6th–7th century",
+ "Geography": "Egypt, Saqqara",
+ "Medium": "Limestone",
+ "Dimensions": "D. 3 15/16 in. (10 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.175.105",
+ "What": [
+  "Sculpture",
+  "Fragments",
+  "Limestone"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Saqqara"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140014507,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/10.175.105.JPG",
+ "related-artworks": [
+  140014478,
+  140014517,
+  140014523,
+  140014536,
+  140003300
+ ],
+ "Provenance": [
+  "Government of Egypt(until 1910)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140014507"
+  }
+ }
+}

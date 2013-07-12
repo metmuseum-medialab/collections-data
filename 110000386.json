@@ -1,0 +1,39 @@
+{
+ "Medium": "Oil on wood",
+ "Dimensions": "5 1/4 x 4 3/8 in. (13.3 x 11.1 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+ "Accession Number": "32.100.129",
+ "Who": "Attributed to Corneille de Lyon",
+ "What": [
+  "Paintings",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110000386,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/EP1549.jpg",
+ "related-artworks": [
+  110000379,
+  110000380,
+  110000384,
+  110000385,
+  110000388
+ ],
+ "Provenance": [
+  "Georges, comte de Montbrison, château de Saint-Roch, near Auvillar, France",
+  "[Kleinberger, New York, until 1923]",
+  "Michael Friedsam, New York (1923–d. 1931)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110000386"
+  }
+ }
+}

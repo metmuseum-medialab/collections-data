@@ -1,0 +1,43 @@
+{
+ "Date": "1525–75",
+ "Culture": "Italian",
+ "Medium": "Bronze, dark brown patina.",
+ "Dimensions": "H. 6 in. (15.2 cm.); W. 4 in. (10.2 cm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.152.8",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes",
+  "Patina"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013255,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/116676.jpg",
+ "related-artworks": [
+  120013248,
+  120013257,
+  120005760,
+  120012701,
+  120012703
+ ],
+ "Provenance": [
+  "Herman Falkenberg (until 1938)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013255"
+  }
+ }
+}

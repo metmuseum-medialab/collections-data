@@ -1,0 +1,45 @@
+{
+ "Date": "1851",
+ "Culture": "Russian (Moscow)",
+ "Medium": "Silver gilt and niello",
+ "Dimensions": "L. 8 in.  (20.3 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Lisa Amman von Borowsky, 1975",
+ "Accession Number": "1975.438.2",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Flatware",
+  "Forks",
+  "Niellos"
+ ],
+ "Where": [
+  "Asia",
+  "Russia",
+  "Moscow"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120022441,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES4711.jpg",
+ "related-artworks": [
+  120022442,
+  120025441,
+  120022443,
+  120013102,
+  120022440
+ ],
+ "Provenance": [
+  "Lisa Amman von Borowsky (until 1975",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022441"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "1927",
+ "Culture": "American",
+ "Medium": "wool, leather",
+ "Dimensions": [
+  "Length at CB (a) 29 in. (73.7 cm)",
+  "Length at CB (b) 34 1/2 in. (87.6 cm)",
+  "Other ((c)) 11 1/2 in. (29.2 cm)"
+ ],
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. A. E. Laurencelle, 1956",
+ "Accession Number": "2009.300.220a–d",
+ "Who": ". & K.",
+ "What": [
+  "Costume",
+  "Wool",
+  "Leather",
+  "Uniforms",
+  "Military uniforms"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80094865,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/56.28.3a-d_CP4.jpg",
+ "related-artworks": [
+  80093693,
+  80095444,
+  80095727,
+  80115235,
+  80036578
+ ],
+ "Description": "The American Legion was founded in 1919 for veterans who served in the First World War. After the war, the Legion served to help integrate young men and women into civilian life following their tours abroad. This uniform, a woman's American Legion suit, marks the first war in which women actively participated in large numbers. It is likely that this uniform and that of a Yeomen (F) in the navy (2009.300.219a–d) were worn by the donor, Mrs. A. E. Laurencelle (née Ethel Redmond).",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80094865"
+  }
+ }
+}

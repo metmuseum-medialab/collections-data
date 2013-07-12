@@ -1,0 +1,36 @@
+{
+ "Date": "1800–1899",
+ "Culture": "French",
+ "Medium": "metal, strass",
+ "Dimensions": "[no dimension available]",
+ "Credit Line": "From the Hanna S. Kohn Collection, 1951",
+ "Accession Number": "50.231.243–.245",
+ "What": [
+  "Metal",
+  "Glass",
+  "Buttons",
+  "Glass paste"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80045909,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/50.231.243–.245.jpg",
+ "related-artworks": [
+  80046470,
+  80047076,
+  80045870,
+  80045911,
+  80046468
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80045909"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Date": "1854",
+ "Culture": "British",
+ "Medium": "Silver",
+ "Dimensions": "Diam. 2 3/16 in. (56 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Michael Hall Fine Arts Inc., 1969",
+ "Accession Number": "69.60.2",
+ "Who": "Henry Weigall",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Silver",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020911,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/191327.jpg",
+ "related-artworks": [
+  120005134,
+  120024686,
+  120027059,
+  120027087,
+  120027093
+ ],
+ "Provenance": [
+  "Michael Hall Fine Arts (until 1969",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120020911"
+  }
+ }
+}

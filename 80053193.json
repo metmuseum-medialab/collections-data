@@ -1,0 +1,30 @@
+{
+ "Date": "1700–1945",
+ "Culture": "American or European",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Estate of Mary Le Boutillier, 1945",
+ "Accession Number": "C.I.45.79.24a, b",
+ "What": [
+  "Sleeves",
+  "Undersleeves"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "id": 80053193,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI45.79.24ab.jpg",
+ "related-artworks": [
+  80053185,
+  80053194,
+  80053195,
+  80053198,
+  80053204
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80053193"
+  }
+ }
+}

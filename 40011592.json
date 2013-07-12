@@ -1,0 +1,31 @@
+{
+ "Date": "ca. 1920",
+ "Culture": "German",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Gift of Bashford Dean, 1920",
+ "Accession Number": "20.152.161",
+ "What": "Buckles",
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+  "Central Europe and Low Countries, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40011592,
+ "related-artworks": [
+  40011306,
+  40011308,
+  40011513,
+  40011514,
+  40011515
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40011592"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "1860–70",
+ "Geography": "United States, Alaska",
+ "Culture": "Tlingit",
+ "Medium": "Wood, pigment",
+ "Dimensions": "H. 3 x L. 26 in. (7.6 x 66 cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Ralph T. Coe Collection, Gift of Ralph T. Coe Foundation for the Arts, 2011",
+ "Accession Number": "2011.154.33",
+ "Who": "Tlingit",
+ "What": [
+  "Sculpture",
+  "Models",
+  "Canoes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Alaska"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50012186,
+ "gallery-id": 356,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DT260883.jpg",
+ "related-artworks": [
+  50012188,
+  50012491,
+  50003176,
+  50004818,
+  50011429
+ ],
+ "Provenance": [
+  "Ralph T. Coe, Santa Fe, NM, until (d.) 2010",
+  "Ralph T. Coe Foundation for the Arts, 2010–2011"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50012186"
+  }
+ }
+}

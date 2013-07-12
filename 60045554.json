@@ -1,0 +1,51 @@
+{
+ "Date": "17th century",
+ "Culture": "Japan",
+ "Medium": "Silk / Compound weave",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Kihei Hattori, in memory of his father, Kihei Hattori, 1920",
+ "Accession Number": "20.148.736",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60045554,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP15258.jpg",
+ "Provenance": [
+  "Kihei Hattori , Tokyo (until 1920)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60039223"
+   },
+   {
+    "href": "http://scrapi.org/object/60039237"
+   },
+   {
+    "href": "http://scrapi.org/object/60039249"
+   },
+   {
+    "href": "http://scrapi.org/object/60039258"
+   },
+   {
+    "href": "http://scrapi.org/object/60039314"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60045554"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60045554"
+  }
+ }
+}

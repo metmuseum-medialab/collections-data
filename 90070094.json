@@ -1,0 +1,57 @@
+{
+ "Artist": "After Anthony van Dyck (Flemish, Antwerp 1599–1641 London)",
+ "Date": "1770",
+ "Medium": "Etching; fourth state of five",
+ "Dimensions": [
+  "sheet 14 1/4 x 10 1/4 in. (36.2 x 26.1 cm)",
+  "plate 9 7/16 x 7 1/4 in. (23.9 x 18.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Algernon S. Sullivan, 1919",
+ "Accession Number": "19.56.43",
+ "Who": [
+  "Anthony van Dyck",
+  "Jean Jacques de Boissieu"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90070094,
+ "Provenance": [
+  "Donor: Mrs. Algernon S. Sullivan"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90006067"
+   },
+   {
+    "href": "http://scrapi.org/object/90009605"
+   },
+   {
+    "href": "http://scrapi.org/object/90009606"
+   },
+   {
+    "href": "http://scrapi.org/object/90009607"
+   },
+   {
+    "href": "http://scrapi.org/object/90009608"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90070094"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90070094"
+  }
+ }
+}

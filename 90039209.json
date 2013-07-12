@@ -1,0 +1,59 @@
+{
+ "Date": "ca. 1750–78",
+ "Medium": "Etching; second state of four (Hind)",
+ "Dimensions": [
+  "Sheet 20 1/16 x 28 15/16 in. (51 x 73.5 cm)",
+  "Plate 24 5/8 x 17 5/16 in. (62.5 x 44 cm) printed horizontally"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, transferred from the Library",
+ "Accession Number": "41.71.1.17",
+ "Who": "Giovanni Battista Piranesi",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The French Academy in Rome",
+  "Venice in the Eighteenth Century",
+  "Joseph Mallord William Turner (1775–1851)",
+  "The Grand Tour",
+  "Giovanni Battista Piranesi (1720–1778)",
+  "The Printed Image in the West History and Techniques",
+  "The Rediscovery of Classical Antiquity",
+  "Neoclassicism"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90039209,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90004085"
+   },
+   {
+    "href": "http://scrapi.org/object/90005810"
+   },
+   {
+    "href": "http://scrapi.org/object/90016288"
+   },
+   {
+    "href": "http://scrapi.org/object/90021747"
+   },
+   {
+    "href": "http://scrapi.org/object/90021748"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90039209"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90039209"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian",
+ "Medium": "leather",
+ "Dimensions": "Length 10 in. (25.4 cm)",
+ "Credit Line": "Rogers Fund, 1916",
+ "Accession Number": "16.154.16",
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Shoes",
+  "Slippers"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80039513,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/16.154.16_F.jpg",
+ "related-artworks": [
+  80005952,
+  80024532,
+  80028348,
+  80107824,
+  80046357
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80039513"
+  }
+ }
+}

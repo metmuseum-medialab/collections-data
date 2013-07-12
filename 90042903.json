@@ -1,0 +1,37 @@
+{
+ "Date": "17th century",
+ "Medium": "Etching",
+ "Dimensions": "sheet 11 5/8 x 10 1/16 in. (29.6 x 25.6 cm), thread margin on three sides.",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Kenneth Grebinar, 2005",
+ "Accession Number": "2005.377.49",
+ "Who": "Anthonie Waterloo",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90042903,
+ "related-artworks": [
+  90026742,
+  90026743,
+  90026744,
+  90032922,
+  90032923
+ ],
+ "Provenance": [
+  "Donor: Kenneth Grebinar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90042903"
+  }
+ }
+}

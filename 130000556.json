@@ -1,0 +1,41 @@
+{
+ "Period": "Cypro-Archaic I",
+ "Date": "ca. 750–600 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 9 15/16 in. (25.3 cm)",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.503",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jugs"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130000556,
+ "gallery-id": 174,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/GR663.jpg",
+ "related-artworks": [
+  130000670,
+  130000935,
+  130000914,
+  130000429,
+  130000431
+ ],
+ "Description": "Birds represent a frequent motif on this class of jugs with so-called free-field decoration. The variety in the birds' articulation is noteworthy, although the recurrent basic species is characterized by a rather large body, a long neck with pronounced beak, and wiry talons. Here the figure appears in front of a lotus flower.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130000556"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Date": "probably 1960s",
+ "Culture": "American or European",
+ "Medium": "wool",
+ "Dimensions": "Length 58 1/2 in. (148.6 cm)",
+ "Credit Line": "Gift of Leo Lerman, 1987",
+ "Accession Number": "1987.341.14",
+ "What": [
+  "Costume",
+  "Wool",
+  "Neckwear",
+  "Neckties"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80034740,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1987.341.14.jpg",
+ "related-artworks": [
+  80034732,
+  80034735,
+  80034736,
+  80056033,
+  80100439
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80034740"
+  }
+ }
+}

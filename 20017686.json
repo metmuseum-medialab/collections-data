@@ -1,0 +1,41 @@
+{
+ "Date": "1834, 1838",
+ "Medium": "Graphite on wove paper",
+ "Dimensions": "7 1/4 x 9 in. (18.4 x 22.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Morris K. Jesup Fund, 1998.",
+ "Accession Number": "1998.381.13 recto",
+ "Who": "John William Casilear",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite",
+  "Wove paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 20017686,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/265220.jpg",
+ "related-artworks": [
+  20017700,
+  20017676,
+  20017692,
+  20017677,
+  20017693
+ ],
+ "Provenance": [
+  "Alexander Acevedo, New York",
+  "Paul Worman, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20017686"
+  }
+ }
+}

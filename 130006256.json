@@ -1,0 +1,37 @@
+{
+ "Period": "Hellenistic or Early Imperial",
+ "Date": "2nd–1st century B.C.",
+ "Culture": "Greek or Roman",
+ "Medium": "Glass",
+ "Dimensions": "diameter  4 11/16in. (11.9cm)",
+ "Classification": "Glass",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1399",
+ "What": [
+  "Glass",
+  "Bowls",
+  "Millefiori glass"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006256,
+ "gallery-id": 163,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP105810.jpg",
+ "related-artworks": [
+  130000380,
+  130010213,
+  130010221,
+  130010217,
+  130010222
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006256"
+  }
+ }
+}

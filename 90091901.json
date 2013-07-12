@@ -1,0 +1,41 @@
+{
+ "Artist": "After Rembrandt (Rembrandt van Rijn) (Dutch, Leiden 1606–1669 Amsterdam)",
+ "Date": "1755",
+ "Medium": "Etching",
+ "Dimensions": "Sheet 12 3/16 x 9 1/2 in. (31 x 24.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.840",
+ "Who": [
+  "Rembrandt (Rembrandt van Rijn)",
+  "Antoine de Marcenay de Ghuy"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 90091901,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP831889.jpg",
+ "related-artworks": [
+  90000884,
+  90000885,
+  90000912,
+  90008630,
+  90010395
+ ],
+ "Provenance": [
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90091901"
+  }
+ }
+}

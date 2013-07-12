@@ -1,0 +1,42 @@
+{
+ "Date": "18th century",
+ "Culture": "Guatemalan",
+ "Medium": "Wood, polychromed and gilded",
+ "Dimensions": "H. 7 3/16 in. (18.3 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Loretta Hines Howard, 1964",
+ "Accession Number": "64.164.177",
+ "What": [
+  "Sculpture",
+  "Gilt",
+  "Wood",
+  "Statues",
+  "Figurines",
+  "Polychromy"
+ ],
+ "Where": [
+  "North and Central America",
+  "Guatemala"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America Native Peoples, 1600–1800 A.D.",
+  "Mexico and Central America, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120019917,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/231291.jpg",
+ "related-artworks": [
+  120019916,
+  120019918,
+  120019919,
+  120048630,
+  120019908
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019917"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Date": "late 18th century",
+ "Culture": "British",
+ "Medium": "Enamel on copper, brass",
+ "Dimensions": "Diam. 1 3/4 in. (4.5 cm.)",
+ "Classification": "Enamels",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1909",
+ "Accession Number": "10.125.583a, b",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Copper",
+  "Painting",
+  "Brass",
+  "Enamels",
+  "Enamel",
+  "Mirrors",
+  "Lugs"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 120006162,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/69003.jpg",
+ "related-artworks": [
+  120006168,
+  120006166,
+  120006167,
+  120006164,
+  120006163
+ ],
+ "Provenance": [
+  "H. Eugene Bolles",
+  "Mrs. Russell Sage (until 1909",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006162"
+  }
+ }
+}

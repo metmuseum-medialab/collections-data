@@ -1,0 +1,41 @@
+{
+ "Date": "1987",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "H. 23-5/8, W. 32 inches",
+  "(60 x 81.3 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Purchase, Mex-Am Cultural Foundation Inc. Gift, 1990",
+ "Accession Number": "1990.30.2",
+ "Who": "Jose Luis Romo",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America, 1900 A.D.–present",
+  "Mexico and Central America Native Peoples, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210005715,
+ "related-artworks": [
+  210003441,
+  210005617,
+  210005720,
+  210002876,
+  210005618
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210005715"
+  }
+ }
+}

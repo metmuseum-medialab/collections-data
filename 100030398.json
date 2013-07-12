@@ -1,0 +1,38 @@
+{
+ "Period": "Late Period–Ptolemaic Period",
+ "Date": "380–30 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Glass, bronze or copper alloy",
+ "Credit Line": "Rogers Fund, 1921",
+ "Accession Number": "21.2.2ff",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Glass",
+  "Bronze",
+  "Copper",
+  "Reliquaries"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "id": 100030398,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/21.2.2ff.jpg",
+ "related-artworks": [
+  100030376,
+  100030378,
+  100030403,
+  100030381,
+  100030406
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100030398"
+  }
+ }
+}

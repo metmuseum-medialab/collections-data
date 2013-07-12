@@ -1,0 +1,40 @@
+{
+ "Printer": "Morris & Bendien (American, New York)",
+ "Date": "1918",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Rita McNamara Fleet, 1982",
+ "Accession Number": "1982.1065.10",
+ "Who": [
+  "Morris & Bendien",
+  "C. Gilhousen"
+ ],
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190015136,
+ "related-artworks": [
+  190015138,
+  190015135,
+  190015139,
+  190015137,
+  190015141
+ ],
+ "Provenance": [
+  "Rita McNamara Fleet"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190015136"
+  }
+ }
+}

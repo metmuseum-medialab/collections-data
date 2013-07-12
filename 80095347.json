@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1955",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "17 in. (43.2 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Kay Kerr Uebel, 1987",
+ "Accession Number": "2009.300.2642a, b",
+ "Who": "Charles James",
+ "What": [
+  "Costume",
+  "Silk",
+  "Scarves"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80095347,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/87.11.8,87.11.16_CP4.jpg",
+ "related-artworks": [
+  80095354,
+  80095349,
+  80002036,
+  80005918,
+  80005921
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80095347"
+  }
+ }
+}

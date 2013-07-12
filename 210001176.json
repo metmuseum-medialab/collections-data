@@ -1,0 +1,51 @@
+{
+ "Date": "1906",
+ "Medium": "Conté crayon on paper",
+ "Dimensions": "24 1/2 x 14 1/4 in. (62.2 x 36.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Walter C. Baker, 1971",
+ "Accession Number": "1972.118.296",
+ "Rights and Reproduction": "© 2011 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+ "Who": "Pablo Picasso",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Crayons",
+  "Conté crayons"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "School of Paris",
+  "African Influences in Modern Art",
+  "Symbolism",
+  "The Lure of Montmartre, 1880–1900",
+  "Cubism",
+  "Pablo Picasso (1881–1973)",
+  "Geometric Abstraction",
+  "Surrealism",
+  "Paul Klee (1879–1940)",
+  "Iberian Peninsula, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210001176,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP219640.jpg",
+ "related-artworks": [
+  210003623,
+  210001688,
+  210010328,
+  210016992,
+  210002259
+ ],
+ "Description": "This young woman may be the granddaughter of Picasso's innkeeper, Josep Fondevila. She wears the characteristically modest dress of the women of Gósol, a small village in the Spanish Pyrenees not far from Andorra.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210001176"
+  }
+ }
+}

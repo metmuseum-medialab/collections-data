@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1810–15",
+ "Medium": "Watercolor on ivory",
+ "Dimensions": "3 3/4 x 2 3/4 in. (9.5 x 7 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Gloria Manney, 2006",
+ "Accession Number": "2006.235.316",
+ "What": [
+  "Paintings",
+  "Watercolors",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20016012,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DP217071.jpg",
+ "related-artworks": [
+  20010421,
+  20010472,
+  20010561,
+  20010562,
+  20010563
+ ],
+ "Provenance": [
+  "Bernard H. Cone, New York",
+  "Harry Fromke, New York",
+  "sale, Christie's  New York, 18 Oct. 1986, lot 380"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20016012"
+  }
+ }
+}

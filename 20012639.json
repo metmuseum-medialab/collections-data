@@ -1,0 +1,49 @@
+{
+ "Date": "1880–82",
+ "Medium": "Graphite on off-white wove paper",
+ "Dimensions": "3 9/16 x 6 5/16 in. (9 x 16 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mrs. Francis Ormond, 1950",
+ "Accession Number": "50.130.93 recto",
+ "Who": "John Singer Sargent",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite",
+  "Wove paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "Americans in Paris, 1860–1900",
+  "John Singer Sargent (1856–1925)",
+  "American Impressionism",
+  "America Comes of Age 1876–1900",
+  "Nineteenth–Century American Drawings",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20012639,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/186225.jpg",
+ "related-artworks": [
+  20001895,
+  20012468,
+  20012628,
+  20012629,
+  20012712
+ ],
+ "Provenance": [
+  "the artist, until d. 1925",
+  "his sisters, Mrs. Francis Ormond (Violet Sargent) and Miss Emily Sargent, until 1936 (Emily Sargent's death)",
+  "Mrs. Francis Ormond, until 1950"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20012639"
+  }
+ }
+}

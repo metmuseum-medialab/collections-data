@@ -1,0 +1,37 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Cotton",
+ "Dimensions": "70 x 60 3/4 in. (177.80 x 154.31 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Seymour Fund, 1985",
+ "Accession Number": "1985.17.2",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Painting",
+  "Dyeing"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60044533,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP277710.jpg",
+ "related-artworks": [
+  60021608,
+  60025024,
+  60025029,
+  60039176,
+  60030097
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044533"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "British, Buckinghamshire",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 86 1/2 x W. 1 1/2 inches (219.7 x 3.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase by subscription, 1909",
+ "Accession Number": "09.68.474",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Buckinghamshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036096,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP3670.jpg",
+ "related-artworks": [
+  120030300,
+  120030301,
+  120030417,
+  120030905,
+  120032081
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036096"
+  }
+ }
+}

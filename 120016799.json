@@ -1,0 +1,47 @@
+{
+ "Date": "19th century",
+ "Culture": "British, Birmingham after a Scandinavian original",
+ "Medium": "Plaster, painted red; \"Fictile ivory\"",
+ "Dimensions": "Overall (confirmed) 3 7/8 x 1 3/4 x 1 5/16 in. (9.8 x 4.4 x 3.4 cm)",
+ "Classification": "Chess Sets",
+ "Credit Line": "Gift of Gustavus A. Pfeiffer, 1953",
+ "Accession Number": "53.71.244",
+ "Who": "Elkington & Co.",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Painting",
+  "Plaster",
+  "Game pieces",
+  "Board games",
+  "Chess sets",
+  "Chessmen"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120016799,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/sf53-71-244s1.jpg",
+ "related-artworks": [
+  120016742,
+  120016783,
+  120016791,
+  120016784,
+  120016802
+ ],
+ "Provenance": [
+  "Gustavus A. Pfeiffer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120016799"
+  }
+ }
+}

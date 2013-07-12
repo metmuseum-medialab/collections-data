@@ -1,0 +1,50 @@
+{
+ "Maker": "Workmaster Viktor Aarne",
+ "Date": "before 1896",
+ "Culture": "Russian (St. Petersburg)",
+ "Medium": "Silver gilt, holly wood",
+ "Dimensions": "Overall 6 3/4 x 3 5/16 in. (17.1 x 8.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Louise and David Braver, 2008",
+ "Accession Number": "2008.652.5",
+ "Who": [
+  "House of Carl Fabergé",
+  "Viktor Aarne"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Wood",
+  "Frames",
+  "Holly"
+ ],
+ "Where": [
+  "Asia",
+  "Russia",
+  "Saint Petersburg"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120056821,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF2008_652_5_img1.jpg",
+ "related-artworks": [
+  120056820,
+  120056829,
+  120056825,
+  120056824,
+  120056814
+ ],
+ "Provenance": [
+  "Louise and David Braver (until 2008",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120056821"
+  }
+ }
+}

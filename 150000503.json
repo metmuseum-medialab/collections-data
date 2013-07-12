@@ -1,0 +1,47 @@
+{
+ "Former Attribution": "Jacopo Tintoretto (Jacopo Robusti) (Italian, Venice 1519–1594 Venice)",
+ "Date": "early 17th century",
+ "Medium": "Black and white chalk on blue paper",
+ "Dimensions": "7 13/16 x 11 1/4 in.  (19.9 x 28.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.534",
+ "Who": [
+  "Jacopo Tintoretto (Jacopo Robusti)",
+  "Domenico Tintoretto"
+ ],
+ "What": [
+  "Drawings",
+  "Paper",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Siena"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 150000503,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-534.JPG",
+ "related-artworks": [
+  150000507,
+  150000506,
+  150000508,
+  150000509,
+  150000504
+ ],
+ "Provenance": [
+  "Luigi Grassi, Florence (Lugt Suppl. 1171b)",
+  "Frits Lugt, Paris",
+  "Grassi sale 1924, lot 134.  Acquired by Robert Lehman in 1924."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150000503"
+  }
+ }
+}

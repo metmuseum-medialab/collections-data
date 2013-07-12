@@ -1,0 +1,60 @@
+{
+ "Date": "19th century (12th century style)",
+ "Culture": "French",
+ "Medium": "wood, paint",
+ "Dimensions": "Overall 25 x 13 in. (63.5 x 33 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Cloisters Collection, 1925",
+ "Accession Number": "25.120.254",
+ "What": [
+  "Sculpture",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Burgundy"
+ ],
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70014723,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi25-120-254.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/70006508",
+  "http://scrapi.org/object/70006509",
+  "http://scrapi.org/object/70009946",
+  "http://scrapi.org/object/70011508",
+  "http://scrapi.org/object/70011509"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/cl/original/cdi25-120-254.jpg",
+  "http://images.metmuseum.org/CRDImages/cl/original/cds25-120-254.jpg"
+ ],
+ "Provenance": [
+  "George Grey Barnard American, Bellefonte, Pennsylvania 1863–1938 New York , New York (until 1925)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70006508"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70006509"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70009946"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70011508"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70011509"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/70014723"
+  }
+ }
+}

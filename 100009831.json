@@ -1,0 +1,39 @@
+{
+ "Period": "New Kingdom ?",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Tomb of Nespakashuty (TT 312, MMA 509a), MMA 1922–1923",
+ "Medium": "Pottery",
+ "Dimensions": "14 x 9.5 cm",
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "26.3.191",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Jugs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100009831,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/26.3.191_EGDP010357.jpg",
+ "related-artworks": [
+  100003609,
+  100003663,
+  100005076,
+  100005645,
+  100009828
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100009831"
+  }
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "Artist": "Painting attributed to 'Abd al-Samad (Iranian, ca. 1505/15–ca. 1600)",
+ "Object Name": "Folio from an illustrated manuscript",
+ "Reign": "Shah Tahmasp (1524–76)",
+ "Date": "ca. 1535",
+ "Geography": "Iran, Tabriz",
+ "Medium": "Opaque watercolor, ink, silver, and gold on paper",
+ "Dimensions": [
+  "Painting Ht. 11 3/16 in. (28.4 cm)",
+  "W. 10 3/4 in. (27.3 cm)",
+  "Page Ht. 18 1/2 in. (47 cm)",
+  "W.12 1/2 in. (31.8 cm)",
+  "Mat Ht. 22 in. (55.9 cm)",
+  "W. 16 in. (40.6 cm)",
+  "Frame Ht. 23 in. (58.4 cm)",
+  "W. 17 in. (43.2 cm)"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "Gift of Arthur A. Houghton Jr., 1970",
+ "Accession Number": "1970.301.75",
+ "Who": [
+  "Abu'l Qasim Firdausi",
+  "'Abd al-Samad"
+ ],
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Silver",
+  "Gold",
+  "Watercolors",
+  "Manuscripts",
+  "Codices",
+  "Folios",
+  "Illuminated manuscripts"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Tabriz"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140009559,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP238053.jpg",
+ "related-artworks": [
+  140009494,
+  140009487,
+  140009511,
+  140009502,
+  140009538
+ ],
+ "Description": "After many years of honest rule, Khusrau Parviz became unjust and his chiefs plotted to overthrow him. The conspirators placed his eldest son, Shuriya, on the throne and imprisoned Khusrau with his beloved Shirin. However, the power of the deposed shah was still feared and Shuriya’s advisors pressed him to order his father’s assassination. A foulsmelling killer was found and soon he entered Khusrau’s chamber and stabbed him through the heart. This work is one of the few by the young artist 'Abd al-Samad, who left for India in the 1540s and was instrumental in founding the Mughal school of painting.",
+ "Provenance": [
+  "Shah Tahmasp, Iran (until 1568)",
+  "Sultan Selim II, Istanbul (from 1568)",
+  "Sultan Selim III, Istanbul (by 1800)",
+  "Baron Edmond de Rothschild, Paris (by 1903–d. 1934)",
+  "his son, Baron Maurice de Rothschild, Paris and Pregny, near Geneva (by 1955–d. 1957)",
+  "[ Stiebel Ltd., New York, until 1959",
+  "sold to Houghton]",
+  "Arthur A. Houghton Jr., New York (1959–70)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009559"
+  }
+ }
+}

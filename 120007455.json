@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1765",
+ "Culture": "British, Derby",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. 9 5/8 in. (24.4 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of John L. Cadwalader, 1914",
+ "Accession Number": "14.58.48",
+ "Who": "Derby",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Figures",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Derbyshire",
+  "Derby"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120007455,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/21909.jpg",
+ "related-artworks": [
+  120019102,
+  120007454,
+  120007458,
+  120007518,
+  120019111
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120007455"
+  }
+ }
+}

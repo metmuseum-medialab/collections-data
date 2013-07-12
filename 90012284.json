@@ -1,0 +1,71 @@
+{
+ "Author": "Written and translated by Charles Boner (British, Weston 1815–1870 Munich)",
+ "Illustrator": "Otto Speckter (German, Hamburg 1807–1871 Hamburg)",
+ "Designer": "Vignettes and initial letters by Graf Franz von Pocci (German, Munich 1807–1876 Munich)",
+ "Engraver": "Vignettes and initial letters by Dalziel Brothers (British)",
+ "Lithographer": "Frontispiece by M. & N. Hanhart (London)",
+ "Publisher": "Chapman and Hall (London)",
+ "Printer": "Levey, Robson and Franklyn (London)",
+ "Date": "1847",
+ "Medium": "Lithography and wood engraving",
+ "Dimensions": "7 x 4 3/4 in. (17.8 x 12.1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1970",
+ "Accession Number": "1970.565.266",
+ "Who": [
+  "Dalziel Brothers",
+  "Chapman  Hall",
+  "Hans Christian Andersen",
+  "M. & . Hanhart",
+  "Otto Speckter",
+  "Levey, Robson  Franklyn",
+  "Graf Franz von Pocci",
+  "Charles Boner"
+ ],
+ "What": [
+  "Prints",
+  "Engraving",
+  "Planographic prints",
+  "Lithographs",
+  "Books",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012284,
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90039078"
+   },
+   {
+    "href": "http://scrapi.org/object/90012275"
+   },
+   {
+    "href": "http://scrapi.org/object/90077759"
+   },
+   {
+    "href": "http://scrapi.org/object/90012274"
+   },
+   {
+    "href": "http://scrapi.org/object/90012277"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90012284"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90012284"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Culture": "British (after an Italian, Perugia original)",
+ "Medium": "Bronze",
+ "Dimensions": "H. 10 in. (25.4 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Henry G. Marquand, 1883",
+ "Accession Number": "83.18.121",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Printing plates",
+  "Electrotype",
+  "Doors",
+  "Door knockers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000782,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF83_18_121.jpg",
+ "related-artworks": [
+  120000855,
+  120000856,
+  120000857,
+  120000858,
+  120000832
+ ],
+ "Provenance": [
+  "Copy of an original from the Villa of Sixtus V."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000782"
+  }
+ }
+}

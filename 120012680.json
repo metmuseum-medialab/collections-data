@@ -1,0 +1,61 @@
+{
+ "Factory": "Tapestry by Beauvais",
+ "Factory director": "after designs by Jean-Baptiste Oudry (French, Paris 1686–1755 Beauvais)",
+ "Date": "ca. 1754–56",
+ "Culture": "French (Paris)",
+ "Medium": "Beechwood, gilded; tapestry",
+ "Dimensions": "40-1/4 x 31 x 25 in.  (102.2 x 78.7 x 63.5 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of John D. Rockefeller Jr., 1935",
+ "Accession Number": "35.145.4",
+ "Who": [
+  "Beauvais",
+  "Jean-Baptiste Oudry",
+  "Nicolas-Quinibert Foliot"
+ ],
+ "What": [
+  "Gilt",
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Tapestries",
+  "Seating furniture",
+  "Chairs",
+  "Armchairs",
+  "Beech"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120012680,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF35_145_4.jpg",
+ "related-artworks": [
+  120012678,
+  120012679,
+  120012681,
+  120012682,
+  120012683
+ ],
+ "Provenance": [
+  "Bernstorff Palace, Copenhagen, Denmark (Count Johann Hartvig Ernst Bernstorff)Count Johann Hartvig Ernst Bernstorff",
+  "Andreas Peter Bernstorff",
+  "Prince Frederick Ferdinand and Princess Caroline of Denmark",
+  "King Georg of the Hellenes",
+  "[ Charles Wertheimer ]",
+  "J. Pierpont Morgan",
+  "[ Duveen Brothers ]",
+  "John D. Rockefeller Jr. (until 1935",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120012680"
+  }
+ }
+}

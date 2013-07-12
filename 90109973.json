@@ -1,0 +1,40 @@
+{
+ "Date": "17th century",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Mount 8 1/2 × 20 1/2 in. (21.6 × 52 cm)",
+  "Sheet 4 5/16 × 16 11/16 in. (11 × 42.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.71",
+ "Who": "Jean Le Pautre",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90109973,
+ "related-artworks": [
+  90002908,
+  90006707,
+  90008864,
+  90050943,
+  90055313
+ ],
+ "Provenance": [
+  "Princes of Liechtenstein",
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90109973"
+  }
+ }
+}

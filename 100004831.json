@@ -1,0 +1,41 @@
+{
+ "Period": "Late Period, Saite",
+ "Dynasty": "Dynasty 26",
+ "Reign": "reign of Psamtik I",
+ "Date": "664–610 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Tomb of Nespekashuty (TT 312, MMA 509), 1st chamber W. wall; bottom register, MMA 1922–1923",
+ "Medium": "Limestone",
+ "Dimensions": "7.4/3.2 x 12.4 x 8.1",
+ "Credit Line": "Rogers Fund, 1923",
+ "Accession Number": "23.3.764",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Reliefs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100004831,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs23.3.764b.jpg.jpg",
+ "related-artworks": [
+  100004811,
+  100004819,
+  100004807,
+  100004814,
+  100004827
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100004831"
+  }
+ }
+}

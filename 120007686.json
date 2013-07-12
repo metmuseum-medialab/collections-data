@@ -1,0 +1,45 @@
+{
+ "Date": "1760–70",
+ "Culture": "probably British, Staffordshire",
+ "Medium": "Earthenware, glazed",
+ "Dimensions": "Diam. 9 in. (22.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Mrs. Mary Mandeville Johnston, 1914",
+ "Accession Number": "14.102.335",
+ "Who": "Whieldon type",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Plates",
+  "Glazing"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120007686,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/24710.jpg",
+ "related-artworks": [
+  120011219,
+  120014503,
+  120006181,
+  120011220,
+  120011221
+ ],
+ "Provenance": [
+  "Edward W. S. and Mary Mandeville Johnston"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120007686"
+  }
+ }
+}

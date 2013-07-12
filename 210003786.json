@@ -1,0 +1,42 @@
+{
+ "Manufacturer": "Gretchen Bellinger (American, born 1946)",
+ "Date": "1978",
+ "Medium": "Wool pile backed with wool and cotton",
+ "Dimensions": [
+  "H. 51, W. 51 inches",
+  "(129.5 x 129.5 cm.)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of designer, 1984",
+ "Accession Number": "1984.530.16",
+ "Who": "Gretchen Bellinger",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Woven",
+  "Wool",
+  "Samples"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210003786,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/1984.530.16.jpg",
+ "related-artworks": [
+  210003794,
+  210003780,
+  210003781,
+  210003785,
+  210003795
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003786"
+  }
+ }
+}

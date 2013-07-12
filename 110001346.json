@@ -1,0 +1,36 @@
+{
+ "Medium": "Oil on canvas",
+ "Dimensions": "41 1/2 x 42 3/4 in. (105.4 x 108.6 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Cornelius Vanderbilt, 1880",
+ "Accession Number": "80.3.245a",
+ "Who": "Aurelio Lomi",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "European Paintings",
+ "MetPublications": "Search for related Met publications",
+ "id": 110001346,
+ "gallery-id": 609,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/0184.jpg",
+ "related-artworks": [
+  90007376,
+  90007383,
+  90007376,
+  90007383
+ ],
+ "Provenance": [
+  "Cornelius Vanderbilt, New York (until 1880)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001346"
+  }
+ }
+}

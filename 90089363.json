@@ -1,0 +1,41 @@
+{
+ "Artist": "After François Boucher (French, Paris 1703–1770 Paris)",
+ "Date": "18th century",
+ "Medium": "Engraving",
+ "Dimensions": "Sheet 26 x 19 3/4 in. (66 x 50.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Regina Slatkin, 1955",
+ "Accession Number": "55.529.2",
+ "Who": [
+  "François Boucher",
+  "Anonymous"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90089363,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP826934.jpg",
+ "related-artworks": [
+  90020244,
+  90026323,
+  90060140,
+  90060135,
+  90060254
+ ],
+ "Provenance": [
+  "Donor: Regina Shoolman Slatkin"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90089363"
+  }
+ }
+}

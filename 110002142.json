@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1766",
+ "Medium": "Ivory",
+ "Dimensions": "Oval, 1 1/2 x 1 1/4 in. (37 x 32 mm)",
+ "Classification": "Miniatures",
+ "Credit Line": "Bequest of Mary Clark Thompson, 1923",
+ "Accession Number": "24.80.493",
+ "Who": "John Smart",
+ "What": [
+  "Paintings",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110002142,
+ "gallery-id": 690,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/ep24.80.493.R.jpg",
+ "related-artworks": [
+  110002145,
+  110002146,
+  110002143,
+  110002147,
+  110002144
+ ],
+ "Provenance": [
+  "Mary Clark Thompson, New York and Canandaigua, N.Y. (until d. 1923)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110002142"
+  }
+ }
+}

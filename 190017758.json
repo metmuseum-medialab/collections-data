@@ -1,0 +1,53 @@
+{
+ "Printer": "Ava Vargas",
+ "Date": "ca. 1857, printed 1987",
+ "Medium": "Gelatin silver print from glass negative",
+ "Dimensions": "18.0 x 23.0 cm. (7  1/16  x 9  1/16  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 1988",
+ "Accession Number": "1988.1118.10",
+ "Who": [
+  "Oscar Gustav Rejlander",
+  "Ava Vargas"
+ ],
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 190017758,
+ "Provenance": [
+  "Royal Photographic Society"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190017757"
+   },
+   {
+    "href": "http://scrapi.org/object/190017759"
+   },
+   {
+    "href": "http://scrapi.org/object/190017760"
+   },
+   {
+    "href": "http://scrapi.org/object/190017761"
+   },
+   {
+    "href": "http://scrapi.org/object/190017762"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190017758"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190017758"
+  }
+ }
+}

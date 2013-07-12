@@ -1,0 +1,48 @@
+{
+ "Period": "Classical",
+ "Date": "ca. 475 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": "Overall 2 3/8 x 3 3/16in. (6 x 8.1cm)",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "22.139.82",
+ "Who": "Douris",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups",
+  "Kylikes"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Scenes of Everyday Life in Ancient Greece",
+  "Ancient Greece, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130011742,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP21790.jpg",
+ "related-artworks": [
+  130016027,
+  130016028,
+  130016040,
+  130016021,
+  130016158
+ ],
+ "Description": "Interior, upper body of a satyr holding a lyreReverse, legs of three figuresWhile satyrs often display uncivilized behavior, this individual sits wrapt as he plays the lyre. He is, indeed, far more Apollonian than Dionysiac.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011742"
+  }
+ }
+}

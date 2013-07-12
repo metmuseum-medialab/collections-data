@@ -1,0 +1,56 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 23 x W. 10 1/2 inches (58.4 x 26.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.997",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "id": 120041777,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/116961.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120030702",
+  "http://scrapi.org/object/120030773",
+  "http://scrapi.org/object/120037767",
+  "http://scrapi.org/object/120042018",
+  "http://scrapi.org/object/120045479"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120030702"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120030773"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120037767"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120042018"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120045479"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120041777"
+  }
+ }
+}

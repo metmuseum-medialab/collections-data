@@ -1,0 +1,43 @@
+{
+ "Period": "Late Classical?",
+ "Date": "possibly 4th–3rd century B.C.",
+ "Culture": "Greek?",
+ "Medium": "Gold",
+ "Dimensions": "Other (each) 11/16 in. (1.7 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "Purchase, 1895",
+ "Accession Number": "95.16.15, .16",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Beads"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006556,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP136025.jpg",
+ "related-artworks": [
+  130006539,
+  130006540,
+  130006541,
+  130006542,
+  130006543
+ ],
+ "Description": "The cloisons were originally inlaid.",
+ "Provenance": [
+  "Said to be from Babylon"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006556"
+  }
+ }
+}

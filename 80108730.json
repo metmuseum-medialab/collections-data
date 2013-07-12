@@ -1,0 +1,31 @@
+{
+ "Date": "fourth quarter 19th century",
+ "Culture": "European",
+ "Medium": "Cotton",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009",
+ "Accession Number": "2009.300.6187",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Headcloths"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "id": 80108730,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CP539_CP1.jpg",
+ "related-artworks": [
+  80108728,
+  80095380,
+  80106645,
+  80108643,
+  80108729
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108730"
+  }
+ }
+}

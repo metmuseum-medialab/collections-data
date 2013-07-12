@@ -1,0 +1,47 @@
+{
+ "Date": "7th century",
+ "Geography": "Made in Burgundy",
+ "Culture": "Frankish or Burgundian",
+ "Medium": "Iron with silver inlay and copper-alloy",
+ "Dimensions": "Overall 4 15/16 x 2 9/16 x 13/16 in. (12.6 x 6.5 x 2 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.191.318a-c",
+ "What": [
+  "Metal",
+  "Costume",
+  "Metalwork",
+  "Silver",
+  "Iron and iron alloy",
+  "Copper",
+  "Iron",
+  "Buckles",
+  "Belts"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Burgundy"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004933,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/dp30400.jpg",
+ "related-artworks": [
+  170004941,
+  170004953,
+  170004931,
+  170004938,
+  170004966
+ ],
+ "Provenance": [
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004933"
+  }
+ }
+}

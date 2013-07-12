@@ -1,0 +1,40 @@
+{
+ "Period": "Classical",
+ "Date": "ca. 460 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": "H. 32.89 cm.",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.197",
+ "Who": "Oreithyia Painter",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jugs",
+  "Lekythoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011434,
+ "related-artworks": [
+  130005299,
+  130007700,
+  130007716,
+  130007742,
+  130007714
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011434"
+  }
+ }
+}

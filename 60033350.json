@@ -1,0 +1,38 @@
+{
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Jade",
+ "Dimensions": "Overall Height 12 7/8 in. (32.7 cm); Gr. W. 5 in. (12.7 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Alfred W. Hoyt Collection, Bequest of Rosina H. Hoppin, 1965",
+ "Accession Number": "65.86.73a–d",
+ "What": [
+  "Jade",
+  "Incense burners"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60033350,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/183479.jpg",
+ "related-artworks": [
+  60009581,
+  60009559,
+  60011404,
+  60011460,
+  60011485
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033350"
+  }
+ }
+}

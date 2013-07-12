@@ -1,0 +1,46 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep I",
+ "Date": "ca. 1525–1504 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, Tomb CC 43, Burial 12, Carnarvon 1912",
+ "Medium": "Glazed steatite",
+ "Dimensions": "1/2 in. (1.3 cm)",
+ "Credit Line": "Purchase, Edward S. Harkness Gift, 1926",
+ "Accession Number": "26.7.134",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Glazing",
+  "Talc",
+  "Steatite",
+  "Crowns"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100003626,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/26.7.134_bottom_ED.jpg",
+ "related-artworks": [
+  100006888,
+  100017824,
+  100017842,
+  100017911,
+  100000968
+ ],
+ "Provenance": [
+  "Excavated by Lord Carnarvon and Howard Carter, 1912. Acquired by Carnarvon in the division of finds. Carnarvon Collection purchased by the Museum from Lady Carnarvon, 1926."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003626"
+  }
+ }
+}

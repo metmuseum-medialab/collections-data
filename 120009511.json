@@ -1,0 +1,41 @@
+{
+ "Date": "18th century",
+ "Culture": "Dutch or Flemish",
+ "Medium": "Glass",
+ "Dimensions": "H. 6 1/8 in.  (15.6 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Edward Holbrook Collection, Gift of Mrs. Edward Holbrook and John S. Holbrook, 1921",
+ "Accession Number": "21.110.118",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Drinking glasses",
+  "Wine glasses"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009511,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/48522.jpg",
+ "related-artworks": [
+  120009432,
+  120009437,
+  120010254,
+  120010859,
+  120010898
+ ],
+ "Provenance": [
+  "R. H. Soden-Smith",
+  "William Biden"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009511"
+  }
+ }
+}

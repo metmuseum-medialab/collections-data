@@ -1,0 +1,43 @@
+{
+ "Date": "1825–35",
+ "Culture": "British",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 37 1/2 x W. 25 1/2 inches",
+  "95.3 x 64.8 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Cora Ginsburg, 1971",
+ "Accession Number": "1971.170.12",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120047022,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/197391.jpg",
+ "related-artworks": [
+  120018389,
+  120034254,
+  120036545,
+  120036792,
+  120036799
+ ],
+ "Provenance": [
+  "Cora Ginsburg (until 1971",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120047022"
+  }
+ }
+}

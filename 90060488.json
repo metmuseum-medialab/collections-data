@@ -1,0 +1,65 @@
+{
+ "Date": "ca. 1503",
+ "Medium": "Woodcut",
+ "Dimensions": "11 3/4 x 8 3/8 in. (29.8 x 21.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Charles Pratt, 1957",
+ "Accession Number": "57.531.7",
+ "Who": "Albrecht Dürer",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Portraiture in Renaissance and Baroque Europe",
+  "Europe and the Age of Exploration",
+  "The Rediscovery of Classical Antiquity",
+  "The Reformation",
+  "The Printed Image in the West History and Techniques",
+  "Rembrandt van Rijn (1606–1669) Prints",
+  "Jan Gossart (ca. 1478–1532) and His Circle",
+  "Albrecht Dürer (1471–1528)",
+  "Arms and Armor – Common Misconceptions and Frequently Asked Questions",
+  "The Decoration of Arms and Armor",
+  "Anselm Kiefer (born 1945)",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90060488,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP816274.jpg",
+ "Provenance": [
+  "Donor: Mrs. Charles Pratt"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90003201"
+   },
+   {
+    "href": "http://scrapi.org/object/90003203"
+   },
+   {
+    "href": "http://scrapi.org/object/90003205"
+   },
+   {
+    "href": "http://scrapi.org/object/90003579"
+   },
+   {
+    "href": "http://scrapi.org/object/90003661"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90060488"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90060488"
+  }
+ }
+}

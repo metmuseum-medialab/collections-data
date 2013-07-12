@@ -1,0 +1,49 @@
+{
+ "Date": "1952–53",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Elisha Whittelsey Collection, Elisha Whittelsey Fund, 1973",
+ "Accession Number": "1973.588.10",
+ "Who": "Nevill Johnson",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "Republic of Ireland"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190012567,
+ "Provenance": [
+  "Nevill Johnson"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190012574"
+   },
+   {
+    "href": "http://scrapi.org/object/190012577"
+   },
+   {
+    "href": "http://scrapi.org/object/190012573"
+   },
+   {
+    "href": "http://scrapi.org/object/190012584"
+   },
+   {
+    "href": "http://scrapi.org/object/190012591"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190012567"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190012567"
+  }
+ }
+}

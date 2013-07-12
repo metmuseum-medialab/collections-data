@@ -1,0 +1,40 @@
+{
+ "Period": "Early Hellenistic",
+ "Date": "late 4th–early 3rd century B.C.",
+ "Culture": "Greek, Cypriot",
+ "Medium": "Terracotta; mold-made",
+ "Dimensions": "H. 1 7/8 in. (4.8 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.1520",
+ "What": [
+  "Costume",
+  "Clay",
+  "Terracotta",
+  "Masks"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130001542,
+ "gallery-id": 161,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP101365.jpg",
+ "related-artworks": [
+  130001459,
+  130001541,
+  130008900,
+  130012239,
+  130012240
+ ],
+ "Description": "The mask corresponds to one of the types of a youth in so-called New Comedy at the end of the fourth century B.C. The two small holes at the top indicate that the piece was probably suspended.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130001542"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Date": "20th century",
+ "Culture": "French",
+ "Medium": "Gold, platinum, rubies, diamonds, enamel",
+ "Dimensions": "4-1/8 x 3-5/8 in.  (10.5 x 9.2 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Audrey Love, in memory of C. Ruxton Love Jr., 1977",
+ "Accession Number": "1977.436.1",
+ "What": [
+  "Metal",
+  "Costume",
+  "Metalwork",
+  "Gold",
+  "Jewelry",
+  "Enamel",
+  "Pins",
+  "Platinum",
+  "Brooches",
+  "Diamond",
+  "Ruby"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 120022809,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/212450.jpg",
+ "related-artworks": [
+  120014911,
+  120022891,
+  120008377,
+  120002343,
+  120014681
+ ],
+ "Provenance": [
+  "Audrey B. Love (until 1977",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022809"
+  }
+ }
+}

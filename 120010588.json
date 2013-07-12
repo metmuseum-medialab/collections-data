@@ -1,0 +1,51 @@
+{
+ "Former Attribution": "workshop of Nicola Pellipario",
+ "Date": "1522",
+ "Culture": "Italian, Castel Durante (lustred in Gubbio)",
+ "Medium": "Maiolica (tin-enameled earthenware)",
+ "Dimensions": "Diam. 9-7/8 in. (25.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of V. Everit Macy, in memory of his wife, Edith Carpenter Macy, 1927",
+ "Accession Number": "27.97.31",
+ "Who": [
+  "Maestro Giorgio",
+  "Nicola Pellipario"
+ ],
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Drinking vessels",
+  "Cups",
+  "Maiolica",
+  "Tazzas"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Urbania"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010588,
+ "gallery-id": 503,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF27_97_31.jpg",
+ "related-artworks": [
+  120010566,
+  120010594,
+  120000871,
+  120010582,
+  120010589
+ ],
+ "Description": "The figure is adapted from an engraving, The Death of Lucretia, by Marcantonio Raimondi (1480-1530) after Raphael.",
+ "Provenance": [
+  "V. Everit Macy (until 1927",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120010588"
+  }
+ }
+}

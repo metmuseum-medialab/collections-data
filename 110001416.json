@@ -1,0 +1,51 @@
+{
+ "Medium": "Oil on canvas",
+ "Dimensions": "24 1/2 x 32 1/2 in. (62.2 x 82.6 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Susan P. Colgate, in memory of her husband, Romulus R. Colgate, 1936",
+ "Accession Number": "36.162.2",
+ "Who": "Émile van Marcke",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Belgium"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110001416,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/ep36.162.2.bw.R.jpg",
+ "Provenance": [
+  "Susan P. Colgate, Sharon, Conn. (until d. 1936)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/110002207"
+   },
+   {
+    "href": "http://scrapi.org/object/110002209"
+   },
+   {
+    "href": "http://scrapi.org/object/110004325"
+   },
+   {
+    "href": "http://scrapi.org/object/110005323"
+   },
+   {
+    "href": "http://scrapi.org/object/110002208"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/110001416"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/110001416"
+  }
+ }
+}

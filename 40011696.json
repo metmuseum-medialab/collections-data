@@ -1,0 +1,28 @@
+{
+ "Date": "14th century",
+ "Culture": "French",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Gift of Bashford Dean, 1920",
+ "Accession Number": "20.152.67",
+ "What": "Buckles",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40011696,
+ "related-artworks": [
+  40004753,
+  40011307,
+  40011309,
+  40011310,
+  40011311
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40011696"
+  }
+ }
+}

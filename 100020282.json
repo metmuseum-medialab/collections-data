@@ -1,0 +1,37 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Reign": "reign of Amenemhat I, early",
+ "Date": "ca. 1981–1975 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Southern Asasif, Tomb of Meketre (TT 280, MMA 1101), Below surface of causeway, MMA 1920–1922",
+ "Medium": "Grass",
+ "Credit Line": "Rogers Fund, 1928",
+ "Accession Number": "28.3.1",
+ "What": [
+  "Grass",
+  "Brushes"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100020282,
+ "related-artworks": [
+  100020283,
+  100000538,
+  100009274,
+  100001017,
+  100000744
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100020282"
+  }
+ }
+}

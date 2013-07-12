@@ -1,0 +1,42 @@
+{
+ "Date": "1998",
+ "Medium": "Chromogenic print",
+ "Dimensions": [
+  "Image 71.8 x 90.2 cm (28 1/4 x 35 1/2 in.)",
+  "Sheet 90.2 x 110.5 cm (35 1/2 x 43 1/2 in.)",
+  "Frame 95.3 x 115.6 x 2.5 cm (37 1/2 x 45 1/2 x 1 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Edwin Cohen and The Blessing Way Foundation Inc. Gift, 2006",
+ "Accession Number": "2006.497",
+ "Rights and Reproduction": "copyright Mark Wyse",
+ "Who": "Mark Wyse",
+ "What": [
+  "Photographs",
+  "Chromogenic prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190041493,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP235572.jpg",
+ "related-artworks": [
+  190042240,
+  190042386,
+  190011498
+ ],
+ "Provenance": [
+  "the artist",
+  "[Danziger Projects, New York]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190041493"
+  }
+ }
+}

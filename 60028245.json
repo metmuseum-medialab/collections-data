@@ -1,0 +1,42 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "10 x 14 5/8 in. (25.4 x 37.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+ "Accession Number": "JP2838",
+ "Who": "Utagawa Hiroshige",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "id": 60028245,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP123268.jpg",
+ "related-artworks": [
+  60000553,
+  60000610,
+  60000617,
+  60000622,
+  60000625
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028245"
+  }
+ }
+}

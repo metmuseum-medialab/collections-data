@@ -1,0 +1,54 @@
+{
+ "Artist": "Photographed by Henry Fuermann (American, 1861?–1949)",
+ "Date": "n.d.",
+ "Medium": "Platinum print",
+ "Dimensions": [
+  "image 6 9/16 x 9 5/16 in. (16.6 x 23.6 cm)",
+  "mount 14 1/4 x 19 1/4 in. (36.2 x 48.9 cm)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Hermann G. Pundt Gift and Edward Pearse Casey, 1981",
+ "Accession Number": "1981.1005.15",
+ "Who": [
+  "Frank Lloyd Wright",
+  "Henry Fuermann"
+ ],
+ "What": [
+  "Prints",
+  "Metal",
+  "Photographs",
+  "Platinum prints",
+  "Platinum"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Arts and Crafts Movement in America",
+  "Art Nouveau",
+  "America Comes of Age 1876–1900",
+  "Frank Lloyd Wright (1867–1959)",
+  "Design, 1900–25",
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 90055563,
+ "related-artworks": [
+  90034058,
+  90050339,
+  90055551,
+  90055552,
+  90055553
+ ],
+ "Provenance": [
+  "Hermann G. Pundt (American)",
+  "Andrew C. P. Willatzen (American, 1876–1974)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90055563"
+  }
+ }
+}

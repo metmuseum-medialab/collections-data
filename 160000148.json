@@ -1,0 +1,36 @@
+{
+ "Date": "1842",
+ "Culture": "London J. Murray, 1842 (new ed.)",
+ "Medium": "Printed book",
+ "Dimensions": "2 vols.; H 9 in. (23 cm)",
+ "Credit Line": "Gift of the Dept. of Twentieth Century Art, 1998",
+ "Accession Number": "UD S83 1842 v.1",
+ "Who": "John Lloyd Stephens",
+ "What": [
+  "Books",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "The Libraries",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 160000148,
+ "image": "http://images.metmuseum.org/CRDImages/li/original/liUD s83 1842 v.1.R.jpg",
+ "related-artworks": [
+  160000149,
+  160000142,
+  160000130,
+  160000165
+ ],
+ "Description": "In this work and in \"Incidents of Travel in Yucatan\" (1843) author John Lloyd Stephens brings to life his discoveries, during expeditions between 1839 and 1842, of the ruined remains of the Maya civilization of Central America. His popular accounts are accompanied by engravings after watercolors made by his traveling companion, the English artist Frederick Catherwood, whose \"Views of Ancient Monuments in Central America, Chiapas, and Yucatan\" (New York, 1844) remains a landmark of architectural illustration.Illustrated: vol. 1, page 138, engraving of a stone monument from Copan",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/160000148"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "1830–75",
+ "Medium": "Graphite",
+ "Dimensions": "5 7/8 x 5 1/4 in. (15.0 x 13.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mark Brady, in honor of Jacob Bean, 1992",
+ "Accession Number": "1992.154",
+ "Who": "Isidore Pils",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90006733,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP807929.jpg",
+ "related-artworks": [
+  90006702,
+  90006731,
+  90006732,
+  90006689,
+  90000731
+ ],
+ "Provenance": [
+  "Donor: Mark Brady"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90006733"
+  }
+ }
+}

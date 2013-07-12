@@ -1,0 +1,49 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1790",
+ "Culture": "Japan",
+ "Medium": "One sheet of a diptych of polychrome woodblock prints; ink and color on paper",
+ "Dimensions": "14 3/4 x 9 7/8 in. (37.5 x 25.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "JP1369a, b",
+ "Who": "Kitagawa Utamaro",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japonisme",
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Japan, 1600–1800 A.D."
+ ],
+ "id": 60001429,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP144599.jpg",
+ "related-artworks": [
+  60026467,
+  60000728,
+  60000787,
+  60001373,
+  60001402
+ ],
+ "Provenance": [
+  "Frank Lloyd Wright , Richland Center, WI and Phoenix, AZ (before 1922",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60001429"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "1932",
+ "Medium": "Drypoint",
+ "Dimensions": "plate 7 3/4 x 6 in. (19.7 x 15.2 cm) sheet: 11 1/2 x 9 1/4 in. (29.2 x 23.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Ian Stewart, 1967",
+ "Accession Number": "67.825.43",
+ "Who": "Mortimer Borne",
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90047895,
+ "related-artworks": [
+  90047850,
+  90047882,
+  90047874,
+  90047907,
+  90047911
+ ],
+ "Provenance": [
+  "Donor: Ian Stewart"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90047895"
+  }
+ }
+}

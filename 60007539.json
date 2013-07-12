@@ -1,0 +1,38 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Matted painting; ink and color on silk",
+ "Dimensions": "13 15/16 x 21 7/16 in. (35.4 x 54.4 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Francis Lathrop, 1908",
+ "Accession Number": "08.148.6",
+ "Who": "Utagawa Hiroshige",
+ "What": [
+  "Silk",
+  "Ink",
+  "Paintings"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60007539,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/4082.jpg",
+ "related-artworks": [
+  60007537,
+  60007538,
+  60007540,
+  60007541,
+  60007542
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60007539"
+  }
+ }
+}

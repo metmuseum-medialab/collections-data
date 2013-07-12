@@ -1,0 +1,54 @@
+{
+ "Date": "20th century",
+ "Culture": "China",
+ "Medium": "Bound volume; ink on paper",
+ "Dimensions": "Overall 11 1/8 x 8 1/8 in. (28.3 x 20.6 cm)",
+ "Classification": "Calligraphy",
+ "Credit Line": "Gift of Sarah Shay, 2005",
+ "Accession Number": "2005.411.255",
+ "Who": "Xie Zhiliu",
+ "What": [
+  "Ink",
+  "Paper",
+  "Books",
+  "Calligraphy"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "id": 60047180,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP226568.jpg",
+ "Description": "In this manuscript, Xie constructed a chronology of the artist Shitao (1642–1707), including notes on his dated works. He also transcribed excerpts from three texts dating from markedly different time periods: Xiaotian jizhuan (1861), a history of the Southern Ming dynasty (1644–61) by Xu Nai (1810–1862); Qiufeng wenji, the collected writings of Li Lin (1634–1710); and Guixin zazhi, miscellany by Zhou Mi (1232–1298).",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60046833"
+   },
+   {
+    "href": "http://scrapi.org/object/60047183"
+   },
+   {
+    "href": "http://scrapi.org/object/60047185"
+   },
+   {
+    "href": "http://scrapi.org/object/60046707"
+   },
+   {
+    "href": "http://scrapi.org/object/60046825"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60047180"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60047180"
+  }
+ }
+}

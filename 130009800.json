@@ -1,0 +1,39 @@
+{
+ "Period": "Imperial",
+ "Date": "late 1st–early 3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown and tooled",
+ "Dimensions": "diameter    10.59 cm.",
+ "Classification": "Glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.75",
+ "What": [
+  "Glass",
+  "Bowls"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009800,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP107345.jpg",
+ "related-artworks": [
+  130000311,
+  130000318,
+  130000342,
+  130005667,
+  130005704
+ ],
+ "Provenance": [
+  "Said to be from Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009800"
+  }
+ }
+}

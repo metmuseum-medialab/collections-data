@@ -1,0 +1,38 @@
+{
+ "Date": "1855",
+ "Medium": "Salted paper print from paper negative",
+ "Dimensions": "Image 24.1 x 33.5 cm (9 1/2 x 13 3/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, Cynthia Hazen Polsky Gift, 2005",
+ "Accession Number": "2005.100.767",
+ "Who": "Linnaeus Tripe",
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 190038999,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP243413.jpg",
+ "related-artworks": [
+  190036671,
+  190038996,
+  190040529,
+  190035140,
+  190036355
+ ],
+ "Provenance": [
+  "[Robert Hershkowitz, Ltd.], March 28, 1981",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190038999"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Date": "ca. 1690",
+ "Culture": "French",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.274",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Staff weapons",
+  "Partisans"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40004995,
+ "related-artworks": [
+  40000140,
+  40000408,
+  40004211,
+  40004213,
+  40004978
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40004995"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "Date": "19th century",
+ "Medium": "Graphite on laid paper",
+ "Dimensions": "5 1/2 x 4 1/2 in.  (13.9 x 11.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1947",
+ "Accession Number": "47.100.1173",
+ "Who": "Anonymous, German, 19th century",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite",
+  "Laid paper"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002728,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803431.jpg",
+ "related-artworks": [
+  90002766,
+  90002742,
+  90002735,
+  90002739,
+  90002699
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002728"
+  }
+ }
+}

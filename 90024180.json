@@ -1,0 +1,48 @@
+{
+ "Artist": "Drawn on stone by John Scarlett Davis (British, Leominster, Hereford 1804–1845 London)",
+ "Publisher": "James Carpenter and Son (London)",
+ "Printer": "Charles Joseph Hullmandel (British, London 1789–1850 London)",
+ "Date": "1830",
+ "Medium": "Lithography",
+ "Dimensions": "12 1/16 x 9 13/16 x 13/16 in. (30.7 x 25 x 2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1940",
+ "Accession Number": "40.37.1",
+ "Who": [
+  "Charles Joseph Hullmandel",
+  "James Duffield Harding",
+  "Peter Frederick Robinson",
+  "James Carpenter  Son",
+  "John Scarlett Davis"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024180,
+ "related-artworks": [
+  90024173,
+  90024174,
+  90024175,
+  90024176,
+  90024177
+ ],
+ "Provenance": [
+  "Vendor: E. Weyhe (New York, NY)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024180"
+  }
+ }
+}

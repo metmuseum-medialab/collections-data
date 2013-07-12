@@ -1,0 +1,35 @@
+{
+ "Medium": "Engraving",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Marianne Khuner, 1984",
+ "Accession Number": "1984.1201.60",
+ "Who": "Sebald Beham",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90089769,
+ "related-artworks": [
+  90003257,
+  90003289,
+  90003291,
+  90003292,
+  90003293
+ ],
+ "Provenance": [
+  "Donor: Marianne Khuner (Mrs. George Khuner)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90089769"
+  }
+ }
+}

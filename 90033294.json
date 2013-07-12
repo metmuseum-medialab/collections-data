@@ -1,0 +1,44 @@
+{
+ "Artist": "Rodolphe Bresdin (French, Montrelais 1822–1885 Sèvres)",
+ "Publisher": "H. Floury",
+ "Date": "1913",
+ "Medium": "Reproductions of etchings and lithographs",
+ "Dimensions": "Overall 10 1/2 x 8 x 1/2 in. (26.7 x 20.3 x 1.3 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1968",
+ "Accession Number": "68.526.32",
+ "Who": [
+  "Rodolphe Bresdin",
+  "H. Floury",
+  "Robert de Montesquiou"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90033294,
+ "related-artworks": [
+  90016189,
+  90028157,
+  90105351
+ ],
+ "Description": "This book contains six reproductions of prints by Rodolphe Bresdin, as well as a hinged in etching: the frontispiece for La Revue Fantaisiste (68.526.32(a)).",
+ "Provenance": [
+  "Vendor: H. D. Lyon"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90033294"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1623",
+ "Medium": "Etching; first state of two (Lieure)",
+ "Dimensions": [
+  "Sheet 5 9/16 x 3 9/16 in. (14.1 x 9 cm)",
+  "Plate 5 7/16 x 3 7/16 in. (13.8 x 8.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Henry Walters, 1917",
+ "Accession Number": "17.37.143",
+ "Who": "Jacques Callot",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90094154,
+ "related-artworks": [
+  90008838,
+  90010396,
+  90027834,
+  90028114,
+  90028435
+ ],
+ "Provenance": [
+  "Donor: Henry Walters"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90094154"
+  }
+ }
+}

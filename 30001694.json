@@ -1,0 +1,41 @@
+{
+ "Period": "Sasanian",
+ "Date": "ca. 3rd–7th century A.D.",
+ "Geography": "Iran, Qasr-i Abu Nasr",
+ "Culture": "Sasanian",
+ "Medium": "Glass",
+ "Dimensions": "2.25 x 3.25 in. (5.72 x 8.26 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1934",
+ "Accession Number": "34.107.69",
+ "Who": "Sasanian",
+ "What": "Glass",
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 1–500A.D.",
+  "Iran, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 30001694,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/me34_107_69.jpg",
+ "related-artworks": [
+  30001696,
+  30001725,
+  30001729,
+  30001736,
+  30001896
+ ],
+ "Provenance": [
+  "1933–34, excavated by J.M. Upton, W. Hauser and C.K. Wilkinson on behalf of The Persian Expedition of the Metropolitan Museum of Art",
+  "acquired by the Museum in 1934, ceded in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30001694"
+  }
+ }
+}

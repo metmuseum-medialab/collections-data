@@ -1,0 +1,44 @@
+{
+ "Artist": "After Captain Thomas Howdell, of the Royal Artillery (British, 18th century)",
+ "Date": "1817–74",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "sheet 6 1/8 x 9 1/2 in. (15.6 x 24.1 cm)",
+  "image 4 1/8 x 6 11/16 in. (10.5 x 17 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Charles Allen Munn, 1924",
+ "Accession Number": "24.90.1192",
+ "Who": [
+  "Pierre Charles Canot",
+  "Captain Thomas Howdell, of the Royal Artillery",
+  "John E. Gavit"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90062600,
+ "related-artworks": [
+  90054488,
+  90058976,
+  90062563,
+  90080850
+ ],
+ "Provenance": [
+  "Donor: Charles Allen Munn"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90062600"
+  }
+ }
+}

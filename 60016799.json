@@ -1,0 +1,43 @@
+{
+ "Period": "Ming dynasty (1368–1644)",
+ "Culture": "China",
+ "Medium": "Porcelain with cream white glaze",
+ "Dimensions": "H. 7 in. (17.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.254",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Vases",
+  "Glaze"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1600–1800 A.D.",
+  "China, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60016799,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/75973.jpg",
+ "related-artworks": [
+  60016657,
+  60007188,
+  60009647,
+  60009649,
+  60009652
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60016799"
+  }
+ }
+}

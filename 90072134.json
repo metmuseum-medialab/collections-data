@@ -1,0 +1,44 @@
+{
+ "Artist": "After Ennemond Alexandre Petitot (French, Lyons 1727–1801 Parma)",
+ "Date": "1769",
+ "Medium": "Etching and engraving",
+ "Dimensions": [
+  "plate 6 7/8 x 12 in. (17.4 x 30.5 cm)",
+  "sheet 7 1/2 in. (19 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.116",
+ "Who": [
+  "Benigno Bossi",
+  "Ennemond Alexandre Petitot"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90072134,
+ "related-artworks": [
+  90054308,
+  90057043,
+  90072148,
+  90023122,
+  90023123
+ ],
+ "Provenance": [
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90072134"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "1967–68",
+ "Culture": "American",
+ "Medium": "synthetic",
+ "Dimensions": "Overall 34 x 35 in. (86.4 x 88.9 cm)",
+ "Credit Line": "Gift of Barbara and Gregory Reynolds, 1984",
+ "Accession Number": "1984.598.68",
+ "What": [
+  "Costume",
+  "Scarves"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80052152,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1984.598.68.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80048300"
+   },
+   {
+    "href": "http://scrapi.org/object/80052005"
+   },
+   {
+    "href": "http://scrapi.org/object/80052438"
+   },
+   {
+    "href": "http://scrapi.org/object/80058113"
+   },
+   {
+    "href": "http://scrapi.org/object/80062824"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80052152"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80052152"
+  }
+ }
+}

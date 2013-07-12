@@ -1,0 +1,47 @@
+{
+ "Date": "1893",
+ "Medium": "Lithograph printed in olive green on vellum",
+ "Dimensions": "Sheet 17 5/16 x 12 5/8 in. (43.99 x 32cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1923",
+ "Accession Number": "23.30.3.4",
+ "Who": "Henri de Toulouse-Lautrec",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Parchment",
+  "Vellum"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Japonisme",
+  "The Print in the Nineteenth Century",
+  "Art Nouveau",
+  "The Lure of Montmartre, 1880–1900",
+  "Post–Impressionism",
+  "Vincent van Gogh (1853–1890) The Drawings",
+  "Henri de Toulouse–Lautrec (1864–1901)",
+  "Lithography in the Nineteenth Century",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90000098,
+ "related-artworks": [
+  90000104,
+  90000099,
+  90000140,
+  90000443,
+  90000547
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90000098"
+  }
+ }
+}

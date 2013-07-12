@@ -1,0 +1,27 @@
+{
+ "Date": "ca. 1953",
+ "Medium": "Photograph",
+ "Dimensions": "6 3/4 x 8 1/2 in. (17.1 x 21.6 cm)",
+ "Classification": "Archives",
+ "Credit Line": "Gift of Lee Schoen, 1984",
+ "Accession Number": "1984.562.32",
+ "Who": "French, 19th Century",
+ "What": "Photographs",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 210020140,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/1984.562.32.jpg",
+ "related-artworks": [
+  210020063,
+  210020064,
+  210020065,
+  210020066,
+  210020067
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210020140"
+  }
+ }
+}

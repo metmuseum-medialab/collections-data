@@ -1,0 +1,45 @@
+{
+ "Date": "650–750",
+ "Geography": "Mexico",
+ "Culture": "Teotihuacan",
+ "Medium": "Lime plaster, paint",
+ "Dimensions": [
+  "H. 25 3/4 × W. 30 3/4 in. (65.41 × 78.11 cm)",
+  "Weight 69 lbs. (31.298 KG)"
+ ],
+ "Classification": "Paintings-Frescoes",
+ "Credit Line": "Gift of John and Marisol Stokes, 2012",
+ "Accession Number": "2012.517.1",
+ "What": [
+  "Paintings",
+  "Plaster",
+  "Lime",
+  "Frescoes"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Mexico, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50015809,
+ "gallery-id": 358,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/TR.451.1.2012.jpg",
+ "related-artworks": [
+  50009378,
+  50000216,
+  50001979,
+  50003055,
+  50005177
+ ],
+ "Provenance": [
+  "John and Marisol Stokes, Upper Nyack, NY, acquired by 1967, until 2012"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50015809"
+  }
+ }
+}

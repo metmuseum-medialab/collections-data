@@ -1,0 +1,45 @@
+{
+ "Date": "second half 18th century",
+ "Culture": "Italian (Naples)",
+ "Medium": "Polychromed terracotta body, lead ears and legs.",
+ "Dimensions": "H. 7 5/8 in. (19.4 cm.)",
+ "Classification": "Crèche",
+ "Credit Line": "Gift of Loretta Hines Howard, 1964",
+ "Accession Number": "64.164.123",
+ "What": [
+  "Metal",
+  "Clay",
+  "Terracotta",
+  "Figures",
+  "Lead",
+  "Polychromy",
+  "Crèches"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Naples"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120019865,
+ "gallery-id": 305,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/183122.jpg",
+ "related-artworks": [
+  120019861,
+  120019863,
+  120019868,
+  120022872,
+  120019749
+ ],
+ "Provenance": [
+  "Eugenio Catello , Naples, until ca. 1955"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019865"
+  }
+ }
+}

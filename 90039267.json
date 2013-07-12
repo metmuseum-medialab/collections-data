@@ -1,0 +1,56 @@
+{
+ "Date": "ca. 1740–60",
+ "Medium": "Black and white chalks, stumping, brown ink and graphite on blue laid paper, squared in graphite",
+ "Dimensions": "sheet 12 5/16 x 10 1/16 in. (31.2 x 25.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Jeffrey L. Berenson Gift, 2004",
+ "Accession Number": "2004.515",
+ "Who": "Joseph van Aken",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Graphite",
+  "Laid paper",
+  "Stumping"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90039267,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800730.jpg",
+ "Provenance": [
+  "Sotheby's, London, July 1, 2004, lot 131",
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90039268"
+   },
+   {
+    "href": "http://scrapi.org/object/90039270"
+   },
+   {
+    "href": "http://scrapi.org/object/90039269"
+   },
+   {
+    "href": "http://scrapi.org/object/90039265"
+   },
+   {
+    "href": "http://scrapi.org/object/90039266"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90039267"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90039267"
+  }
+ }
+}

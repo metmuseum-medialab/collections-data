@@ -1,0 +1,45 @@
+{
+ "Date": "1661",
+ "Medium": "Pen and brown ink, gray wash, white gouache; framing line in pen and black ink",
+ "Dimensions": "Sheet 10 13/16 x 15 in. (27.4 x 38.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Guy Wildenstein Gift, 2012",
+ "Accession Number": "2012.188",
+ "Who": "Hendrick van Minderhout",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90086312,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP826405.jpg",
+ "related-artworks": [
+  90002997,
+  90012413,
+  90015297,
+  90015300,
+  90015347
+ ],
+ "Provenance": [
+  "E. Woutermartens (Kortrijk)",
+  "Emmanuel Vierin (Kortrijk)",
+  "Louis Reckelbus (Belgian)",
+  "Palais des Beaux-Arts, Brussels, November 14, 1962, lot 489",
+  "Christie's, Paris, June 23, 2010, lot 12",
+  "Vendor: Bob P. Haboldt and Co., Inc."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90086312"
+  }
+ }
+}

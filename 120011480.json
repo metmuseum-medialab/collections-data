@@ -1,0 +1,33 @@
+{
+ "Date": "19th century",
+ "Culture": "Continental",
+ "Medium": "Glass",
+ "Dimensions": "H. 6 1/8 in.  (15.6 cm); Diam. 9 1/4 in. (23.5 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "The Sylmaris Collection, Gift of George Coe Graves, 1930",
+ "Accession Number": "30.120.190",
+ "What": [
+  "Glass",
+  "Bowls"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011480,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/80712.jpg",
+ "related-artworks": [
+  120000148,
+  120000193,
+  120000225,
+  120000295,
+  120000292
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011480"
+  }
+ }
+}

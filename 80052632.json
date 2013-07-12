@@ -1,0 +1,37 @@
+{
+ "Date": "1967",
+ "Culture": "American",
+ "Medium": "rayon",
+ "Dimensions": "Length (from shoulder) 57 1/4 in. (145.4 cm)",
+ "Credit Line": "Gift of John Kloss, 1980",
+ "Accession Number": "1980.134.2",
+ "Who": "John Kloss",
+ "What": [
+  "Costume",
+  "Dresses",
+  "Evening dresses",
+  "Rayon"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80052632,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1980.134.2_F.jpg",
+ "related-artworks": [
+  80052631,
+  80052633,
+  80025405,
+  80037528,
+  80008329
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052632"
+  }
+ }
+}

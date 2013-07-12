@@ -1,0 +1,48 @@
+{
+ "Maker": "Tiffany Studios (1902–32)",
+ "Date": "ca. 1908",
+ "Geography": "Mid-Atlantic, New York, United States",
+ "Culture": "American",
+ "Medium": "Watercolor and gouache on paper mounted on original matt board",
+ "Dimensions": [
+  "Overall 10 1/4 x 12 1/4 in. (26 x 31.1 cm)",
+  "Design, each lancet 7 5/8 x 3 3/4 in. (19.4 x 9.5 cm)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Walter Hoving and Julia T. Weld Gifts and Dodge Fund, 1967",
+ "Accession Number": "67.654.73",
+ "Who": [
+  "Tiffany Studios",
+  "Frederick Wilson, 1858-1932"
+ ],
+ "What": [
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Watercolors",
+  "Gouaches"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 10019074,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP265223.jpg",
+ "related-artworks": [
+  10017658,
+  10017659,
+  10018827,
+  10018848,
+  10018401
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10019074"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "12th century",
+ "Geography": "probably Iran",
+ "Medium": "Gold",
+ "Dimensions": [
+  "Diam. 5/8 in. (1.6 cm)",
+  "H. 5/8 in. (1.6 cm)"
+ ],
+ "Classification": "Jewelry",
+ "Credit Line": "Gift of Mrs. Jacob M. Kaplan, 1972",
+ "Accession Number": "1972.218.2a, b",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140009796,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/1972.218.2.jpg",
+ "related-artworks": [
+  140010335,
+  140004860,
+  140007128,
+  140008374,
+  140008376
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009796"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "16th century",
+ "Geography": "Spain",
+ "Medium": "Wood; carved, painted, and gilded",
+ "Dimensions": [
+  "H. 16 in. (40.6 cm)",
+  "W. 146 1/4 in. (371.5 cm)",
+  "D. 4 1/2 in. (11.4 cm)"
+ ],
+ "Classification": "Wood",
+ "Credit Line": "Gift of The Hearst Foundation, 1956",
+ "Accession Number": "56.234.35.9",
+ "What": [
+  "Gilt",
+  "Painting"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140014691,
+ "gallery-id": 459,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP104686.jpg",
+ "related-artworks": [
+  140008685,
+  140014689,
+  140014685,
+  140014687,
+  140014684
+ ],
+ "Description": "The ceiling covering gallery 459 is a testament to the resilience and persistence of traditional Islamic design in Andalusia after the Christian Reconquista. This so-called mudéjar style was especially prevalent in the Aragon and Castile-León regions of Spain, where many Christian churches incorporate similar ceilings. The ceiling is comprised of thirty carved, painted, and gilded pinewood panels. The ceiling originally was designed for a smaller space; it was later expanded, explaining its somewhat uneven geometric pattern. In addition to the Islamic-inspired star pattern, a whimsical frieze of gilded running animals, flying birds and swirling vine scrolls decorates the cornice.",
+ "Provenance": [
+  "[ Arthur Byne, Madrid, until 1930",
+  "sold to Hearst]",
+  "William Randolph Hearst, San Simeon, CA (1930–d. 1951)",
+  "William Randolph Hearst Foundation, New York (1951–56)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140014691"
+  }
+ }
+}

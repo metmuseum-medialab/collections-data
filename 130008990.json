@@ -1,0 +1,46 @@
+{
+ "Period": "Middle Minoan IIIB",
+ "Date": "ca. 1700–1600 B.C.",
+ "Culture": "Cycladic, Melian",
+ "Medium": "Terracotta",
+ "Dimensions": "H. as restored 54.41 cm",
+ "Classification": "Vases",
+ "Credit Line": "Gift of Ashmolean Museum, by exchange, 1911",
+ "Accession Number": "11.186.13",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jugs"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130008990,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP113066.jpg",
+ "related-artworks": [
+  130008119,
+  130008989,
+  130009343,
+  130012049,
+  130008199
+ ],
+ "Description": "On each side of the upper body, a bird",
+ "Provenance": [
+  "From Knossos, Crete"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130008990"
+  }
+ }
+}

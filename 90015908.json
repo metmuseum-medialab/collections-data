@@ -1,0 +1,27 @@
+{
+ "Publisher": "Published by A. Morel",
+ "Date": "1869",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1955",
+ "Accession Number": "55.584.1",
+ "Who": [
+  "A. Morel",
+  "Louis Degen"
+ ],
+ "What": "Books",
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90015908,
+ "related-artworks": [
+  90015909,
+  90014691,
+  90018986,
+  90020128
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90015908"
+  }
+ }
+}

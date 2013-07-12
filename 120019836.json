@@ -1,0 +1,53 @@
+{
+ "Date": "second half 18th century",
+ "Culture": "Italian (Naples)",
+ "Medium": "Polychromed terracotta head and wooden limbs; body of wire wrapped in tow; cotton and silk garments with gold buttons as well as buttons wrapped in silver thread",
+ "Dimensions": "H. 15 in. (38.1 cm.)",
+ "Classification": "Crèche",
+ "Credit Line": "Gift of Loretta Hines Howard, 1964",
+ "Accession Number": "64.164.94",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Clay",
+  "Silver",
+  "Cotton",
+  "Gold",
+  "Terracotta",
+  "Wood",
+  "Figures",
+  "Buttons",
+  "Polychromy",
+  "Wire",
+  "Crèches",
+  "Clothing"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Naples"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120019836,
+ "gallery-id": 305,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/183099.jpg",
+ "related-artworks": [
+  120019818,
+  120019843,
+  120019840,
+  120019827,
+  120019838
+ ],
+ "Provenance": [
+  "Eugenio Catello , Naples, until ca. 1955"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019836"
+  }
+ }
+}

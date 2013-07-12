@@ -1,0 +1,45 @@
+{
+ "Artist": "Possibly by Timothy H. O'Sullivan (American, born Ireland, 1840–1882)",
+ "Date": "1864",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "16.5 x 20.4 cm (6 1/2 x 8 1/16 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.65.441",
+ "Who": [
+  "Timothy H. O'Sullivan",
+  "Alexander Gardner"
+ ],
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photography and the Civil War, 1861–1865",
+  "Carleton Watkins (1829–1916) and the West 1860s–1870s",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190037079,
+ "related-artworks": [
+  190011346,
+  190011362,
+  190011347,
+  190011350,
+  190011357
+ ],
+ "Provenance": [
+  "Loyal Legion, The Commandery of the State of Massachusetts, Boston"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190037079"
+  }
+ }
+}

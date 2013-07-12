@@ -1,0 +1,44 @@
+{
+ "Date": "1780–90",
+ "Culture": "Danish (Copenhagen)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "L. 16-3/4 in. (42.5 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Hans Syz Collection, Gift of Stephan B. Syz and John D. Syz, 1995",
+ "Accession Number": "1995.268.323",
+ "Who": "Royal Porcelain Manufactory, Copenhagen",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Trays"
+ ],
+ "Where": [
+  "Europe",
+  "Denmark",
+  "Copenhagen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120024648,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES5492.jpg",
+ "related-artworks": [
+  120015937,
+  120021381,
+  120021382,
+  120021383,
+  120023232
+ ],
+ "Provenance": [
+  "Hans Syz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120024648"
+  }
+ }
+}

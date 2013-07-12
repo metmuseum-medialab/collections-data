@@ -1,0 +1,36 @@
+{
+ "Date": "c .1645",
+ "Medium": "Etching",
+ "Dimensions": "sheet 8 3/8 x 11 15/16 in. (21.2 x 30.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.4227",
+ "Who": "Pietro Testa",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Heroes in Italian Mythological Prints",
+  "Lovers in Italian Mythological Prints"
+ ],
+ "id": 90074739,
+ "related-artworks": [
+  90027816,
+  90027914,
+  90027948,
+  90028067,
+  90028127
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90074739"
+  }
+ }
+}

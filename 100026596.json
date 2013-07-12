@@ -1,0 +1,33 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 18–20",
+ "Date": "ca. 1550–1070 B.C.",
+ "Geography": "Country of Origin Egypt, Eastern Delta, Tell el-Yahudiya",
+ "Medium": "Frit",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.2320",
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100026596,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs17.194.2310b.jpg",
+ "related-artworks": [
+  100000004,
+  100000010,
+  100000013,
+  100000014,
+  100000035
+ ],
+ "Provenance": [
+  "Formerly Gréau Collection. Purchased by J. Pierpont Morgan before 1903. Donated to the Museum, 1917."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100026596"
+  }
+ }
+}

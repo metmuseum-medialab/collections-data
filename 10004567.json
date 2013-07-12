@@ -1,0 +1,42 @@
+{
+ "Date": "1700–1800",
+ "Geography": "England; United States",
+ "Culture": "American or British",
+ "Medium": "Brass",
+ "Dimensions": "4 1/2 x 3 7/8 in. (11.4 x 9.8 cm)",
+ "Classification": "Metal",
+ "Credit Line": "The Sylmaris Collection, Gift of George Coe Graves, 1930",
+ "Accession Number": "30.120.142",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Brass",
+  "Hooks",
+  "Jambs"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10004567,
+ "gallery-id": 774,
+ "related-artworks": [
+  10004575,
+  10004566,
+  10004574,
+  10004572,
+  10004573
+ ],
+ "Provenance": [
+  "George Coe Graves, Osterville, Massachusetts, until 1930"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10004567"
+  }
+ }
+}

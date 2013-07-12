@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Culture": "German",
+ "Medium": "Crochet",
+ "Dimensions": [
+  "L. 9 x W. 3 3/4 inches",
+  "22.9 x 9.5 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.3010",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Crochet"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 120035267,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP3047.jpg",
+ "related-artworks": [
+  120035284,
+  120035283,
+  120035285,
+  120035287,
+  120035262
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120035267"
+  }
+ }
+}

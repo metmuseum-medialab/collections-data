@@ -1,0 +1,44 @@
+{
+ "Period": "Northern Wei dynasty (386–534)",
+ "Date": "dated 524",
+ "Culture": "China",
+ "Medium": "Gilt bronze",
+ "Dimensions": "H. 30 1/4 (76.8 cm); W. 16 in. (40.6 cm); D. 9 3/4 in. (24.8 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.158.1a–n",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Gilt",
+  "Plate",
+  "Ormolu",
+  "Altarpieces"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "China, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60009593,
+ "gallery-id": 207,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP217575.jpg",
+ "related-artworks": [
+  60020244,
+  60032425,
+  60032890,
+  60033132,
+  60020245
+ ],
+ "Description": "This altarpiece is a rare, freestanding example illustrating a style—characterized by attenuated physiques and thick, concealing drapery—that developed at the Northern Wei court in the early sixth century. Maitreya (Mile fo), who played an important role in early Chinese practices, is understood as the Buddha who will become the teaching Buddha of the next cosmic era, when Buddhism, which will have been destroyed, is reinstated. He is identified on this altarpiece by an inscription stating that a certain individual commissioned the sculpture on behalf of his deceased son and expressing the hope that the son and other relatives will eventually be reunited in the presence of a Buddha.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009593"
+  }
+ }
+}

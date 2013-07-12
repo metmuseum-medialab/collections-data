@@ -1,0 +1,41 @@
+{
+ "Date": "17th century",
+ "Culture": "possibly Spanish",
+ "Medium": "Silk on silk",
+ "Dimensions": "L. 22 1/2 x W. 10 inches (57.2 x 25.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "26.231.3",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120039496,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/125446.jpg",
+ "related-artworks": [
+  120037189,
+  120037393,
+  120040166,
+  120045894,
+  120045889
+ ],
+ "Provenance": [
+  "[ Adolph Loewi , 1926",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120039496"
+  }
+ }
+}

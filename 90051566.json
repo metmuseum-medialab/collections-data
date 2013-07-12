@@ -1,0 +1,39 @@
+{
+ "Publisher": "Published by Melchior Tavernier",
+ "Date": "1632",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 11 15/16 x 8 3/4 x 5/16 in. (30.4 x 22.2 x 0.8 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.633.2",
+ "Who": [
+  "François Langlois alias Ciartres",
+  "Melchior Tavernier",
+  "Daniel Rabel"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90051566,
+ "related-artworks": [
+  90020737,
+  90023718,
+  90038678,
+  90023719,
+  90010445
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90051566"
+  }
+ }
+}

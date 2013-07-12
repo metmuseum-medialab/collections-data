@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1931",
+ "Medium": "Red chalk on paper",
+ "Dimensions": "16 15/16 x 13 13/16 in. (43 x 35.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Felicia Meyer Marsh, 1979",
+ "Accession Number": "1979.292.186",
+ "Who": "Reginald Marsh",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Chalk"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210018813,
+ "related-artworks": [
+  210013163,
+  210013168,
+  210013170,
+  210013150,
+  210013174
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210018813"
+  }
+ }
+}

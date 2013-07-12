@@ -1,0 +1,54 @@
+{
+ "Maker": "Tiffany Studios (1902–32)",
+ "Date": "1923",
+ "Geography": "Mid-Atlantic, New York, United States",
+ "Culture": "American",
+ "Medium": "Watercolor, ink, and gouache on paper",
+ "Dimensions": "18 1/4 x 13 1/2 in. (46.4 x 34.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Robert W. de Forest, 1925, transferred from Archives, 1958",
+ "Accession Number": "58.658",
+ "Who": [
+  "Louis Comfort Tiffany",
+  "Tiffany Studios"
+ ],
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Watercolors",
+  "Gouaches"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Art Nouveau",
+  "Louis Comfort Tiffany (1848–1933)",
+  "America Comes of Age 1876–1900",
+  "The Arts and Crafts Movement in America",
+  "Nineteenth–Century American Jewelry",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10017134,
+ "gallery-id": 743,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DT211614.jpg",
+ "related-artworks": [
+  10017730,
+  10017661,
+  10019000,
+  10019346,
+  10017635
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10017134"
+  }
+ }
+}

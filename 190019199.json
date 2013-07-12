@@ -1,0 +1,43 @@
+{
+ "Date": "1950",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "15.8 x 10.8 cm. (6  1/4  x 4  1/4  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Muriel Kallis Newman, 1996",
+ "Accession Number": "1996.58.14",
+ "Rights and Reproduction": "©Aaron Siskind Foundation.",
+ "Who": "Aaron Siskind",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Structure of Photographic Metaphors",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190019199,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP136478.jpg",
+ "related-artworks": [
+  190013894,
+  190013895,
+  190013890,
+  190013896,
+  190013897
+ ],
+ "Provenance": [
+  "Aaron Siskind",
+  "Muriel Kallis Newman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190019199"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Geography": "Indonesia, Sumatra, North Sumatra",
+ "Culture": "Nias people",
+ "Medium": "Wood",
+ "Dimensions": "Height 14-1/2 in.",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Gift of Fred and Rita Richman, 1988",
+ "Accession Number": "1988.143.66",
+ "What": [
+  "Sculpture",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Sumatra"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1900 A.D.–present",
+  "Southeast Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50008741,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1988.143.66_a.JPG",
+ "related-artworks": [
+  50008737,
+  50008814,
+  50008686,
+  50008684,
+  50008739
+ ],
+ "Provenance": [
+  "[M. Staegart, Brussels, Belgium, until 1977]",
+  "Fred and Rita Richman, New York, 1977–1988"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50008741"
+  }
+ }
+}

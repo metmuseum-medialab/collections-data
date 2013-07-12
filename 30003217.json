@@ -1,0 +1,46 @@
+{
+ "Period": "Dynasty 15-17, 2nd Intermediate Period, Hyksos",
+ "Date": "ca. 1700–1560 B.C.",
+ "Geography": "Levant, Lachish (modern Tell ed-Duweir)",
+ "Medium": "Stone, white",
+ "Dimensions": [
+  "Seal Face 1.74 x 2.44 cm",
+  "Height 1.06 cm",
+  "String Hole 0.2 cm"
+ ],
+ "Classification": "Stone",
+ "Credit Line": "Gift of Wellcome Trust, 1956",
+ "Accession Number": "56.152.1",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Scarabs",
+  "Seals"
+ ],
+ "Where": [
+  "Asia",
+  "Levant"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003217,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss56_152_1.jpg",
+ "related-artworks": [
+  30005676,
+  30001770,
+  30001771,
+  30001772,
+  30001794
+ ],
+ "Provenance": [
+  "1932–33, excavated by James Leslie Starkey on behalf of The Wellcome-Marston Archaeological Research Expedition",
+  "acquired by the Museum in 1956, gift of the Wellcome Trust (of the late Sir Henry Wellcome)."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003217"
+  }
+ }
+}

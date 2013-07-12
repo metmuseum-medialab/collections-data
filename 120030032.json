@@ -1,0 +1,42 @@
+{
+ "Date": "early 18th century",
+ "Culture": "Italian (Venice)",
+ "Medium": "Needle lace",
+ "Dimensions": "L. 18 x W. 3 1/4 inches (45.7 x 8.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Anonymous Gift, 1879",
+ "Accession Number": "79.1.164",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120030032,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/656.jpg",
+ "related-artworks": [
+  120030021,
+  120030039,
+  120030085,
+  120030086,
+  120030118
+ ],
+ "Provenance": [
+  "Andrew MacCallum"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120030032"
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "Date": "19th century",
+ "Culture": "Indian",
+ "Classification": "Firearms",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.2218",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Locks",
+  "Artillery",
+  "Matchlocks"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1800–1900 A.D.",
+ "id": 40008959,
+ "related-artworks": [
+  40008912,
+  40009003,
+  40009056,
+  40005647,
+  40005650
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40008959"
+  }
+ }
+}

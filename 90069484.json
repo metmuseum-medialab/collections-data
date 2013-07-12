@@ -1,0 +1,46 @@
+{
+ "Engraver": "Carl Gustav Amling (German, Nuremberg ca. 1650–1703)",
+ "Publisher": "Published by Johann Andreas Endterischen Handlung",
+ "Date": "1768–75",
+ "Medium": "Engravings",
+ "Dimensions": "Overall 15 7/8 x 10 15/16 x 2 1/16 in. (40.3 x 27.8 x 5.3 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1932",
+ "Accession Number": "32.80.3",
+ "Who": [
+  "Joachim von Sandrart",
+  "Johann Andreas Endterischen Handlung",
+  "Carl Gustav Amling"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Intaglio prints",
+  "Engravings"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90069484,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP236830.jpg",
+ "related-artworks": [
+  90069491,
+  90069482,
+  90011014,
+  90069489,
+  90069481
+ ],
+ "Provenance": [
+  "Vendor: Bernard Quaritch, Ltd. (London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90069484"
+  }
+ }
+}

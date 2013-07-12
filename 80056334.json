@@ -1,0 +1,33 @@
+{
+ "Date": "1915–41",
+ "Culture": "American or European",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. Carl Van Vechten, 1941",
+ "Accession Number": "C.I.41.105.108",
+ "What": [
+  "Costume",
+  "Neckwear",
+  "Neckties"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80056334,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI41.105.108.jpg",
+ "related-artworks": [
+  80000206,
+  80000293,
+  80000297,
+  80000335,
+  80000336
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80056334"
+  }
+ }
+}

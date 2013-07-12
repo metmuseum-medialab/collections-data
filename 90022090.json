@@ -1,0 +1,38 @@
+{
+ "Date": "n.d.",
+ "Medium": "LIthography, some colored",
+ "Dimensions": "5 3/16 x 6 15/16 in. (13.2 x 17.7 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.574.13",
+ "Who": "C. H. Moser & Co., Manufacturers of Economy Paints",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90022090,
+ "related-artworks": [
+  90006966,
+  90006963,
+  90011659,
+  90012217,
+  90012286
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90022090"
+  }
+ }
+}

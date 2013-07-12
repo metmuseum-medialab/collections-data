@@ -1,0 +1,35 @@
+{
+ "Subject of book": "About William Hay (British, 18th-19th centuries)",
+ "Date": "1821",
+ "Classification": "Books",
+ "Credit Line": "Gift of Mrs. Frederic F. Durand, 1933",
+ "Accession Number": "33.39.108bis",
+ "Who": [
+  "George Goodwin & Sons",
+  "William Hay"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 90027014,
+ "related-artworks": [
+  90019077,
+  90000024,
+  90000026,
+  90000027,
+  90000031
+ ],
+ "Provenance": [
+  "Donor: Mrs. Frederic F. Durand"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90027014"
+  }
+ }
+}

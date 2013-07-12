@@ -1,0 +1,35 @@
+{
+ "Date": "early 20th century",
+ "Culture": "Dutch",
+ "Medium": "cotton",
+ "Dimensions": "16 in. (40.6 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Rosalind Weiss, 1956",
+ "Accession Number": "2009.300.2440",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Caps"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1900 A.D.–present",
+ "id": 80095122,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/56.91.2_CP4.jpg",
+ "related-artworks": [
+  80094444,
+  80094288,
+  80011623,
+  80011625,
+  80011650
+ ],
+ "Description": "The Dutch hul reached exaggerated proportions in the 20th century, expanding both horizontally and vertically. It was worn for special occasions over the black conical caps worn for everyday use. The modern shape of the hul forced it into decline as the caps became very expensive and difficult to wear. The embroidery on this example is especially elaborate, with added textural intrest added by the crimping of the brim.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80095122"
+  }
+ }
+}

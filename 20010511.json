@@ -1,0 +1,41 @@
+{
+ "Date": "1893, cast by 1902",
+ "Medium": "Bronze",
+ "Dimensions": "27 1/2 x 13 1/2 x 16 3/4 in. (69.9 x 34.3 x 42.5 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of General John Watts de Peyster, 1906",
+ "Accession Number": "06.983",
+ "Who": "George Edwin Bissell",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20010511,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/06.983.jpg",
+ "related-artworks": [
+  120003371,
+  20010512,
+  20010512
+ ],
+ "Provenance": [
+  "John Watts de Peyster (until 1906)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20010511"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Date": "500–600",
+ "Geography": "Made in Thebes, Byzantine Egypt",
+ "Culture": "Coptic",
+ "Medium": "Woven grass or reed",
+ "Dimensions": [
+  "Overall (folded) 4 15/16 x 26 3/4 x 16 9/16 in. (12.5 x 68 x 42 cm)",
+  "Overall (approx.) 64 9/16 x 24 13/16 x 9/16 in. (164 x 63 x 1.5 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1914",
+ "Accession Number": "14.1.221",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Grass",
+  "Mats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Thebes",
+  "Arkansas",
+  "Ashley"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "North America, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170014194,
+ "gallery-id": 302,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf14-1-221s1.jpg",
+ "related-artworks": [
+  170016180,
+  170016081,
+  170016082,
+  170016179,
+  170016172
+ ],
+ "Description": "Tools and grass found at the monastery indicate that the monks wove mats and baskets both for their own use and for sale as one of their means of support.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170014194"
+  }
+ }
+}

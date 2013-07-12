@@ -1,0 +1,34 @@
+{
+ "Date": "19th century",
+ "Medium": "Graphite, pen and brown ink, brush and brown wash, heightened with white",
+ "Dimensions": "sheet 7 1/2 x 7 1/2 in. (19 x 19 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1970",
+ "Accession Number": "1970.736.15",
+ "Who": "Anonymous, French, 19th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90032799,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP809412.jpg",
+ "related-artworks": [
+  90011046,
+  90022844,
+  90023929,
+  90026842,
+  90032645
+ ],
+ "Provenance": [
+  "Donor: Charles and Jayne Wrightsman Vendor: W. R. Jeudwine (London)The Wrightsmans purchased this work from Jeudwine in 1968"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90032799"
+  }
+ }
+}

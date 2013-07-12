@@ -1,0 +1,35 @@
+{
+ "Date": "?",
+ "Medium": "Bronze",
+ "Dimensions": "5/16 in. (0.8 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.3128a–c",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Pendants"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Islamic Art",
+ "id": 140003284,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf10-130-3128abc.jpg",
+ "related-artworks": [
+  140003283,
+  140003443,
+  140003444,
+  140003248,
+  140003251
+ ],
+ "Provenance": [
+  "Chauncey Murch, Luxor, Egypt (until d. 1907)",
+  "Mrs. Chauncey Murch(1907–10)",
+  "Helen Miller Gould, New York (1910)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003284"
+  }
+ }
+}

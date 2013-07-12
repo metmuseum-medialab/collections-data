@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1880",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "14 1/2 x 9 3/8 in. (36.8 x 23.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Lincoln Kirstein, 1959",
+ "Accession Number": "JP3200",
+ "Who": "Hashimoto Chikanobu",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60026332,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP143056.jpg",
+ "related-artworks": [
+  60024365,
+  60026331,
+  60026357,
+  60026359,
+  60026397
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026332"
+  }
+ }
+}

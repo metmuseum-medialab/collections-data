@@ -1,0 +1,51 @@
+{
+ "Date": "possibly early 14th century",
+ "Culture": "German, Erfurt",
+ "Medium": "Wood, leather, gesso, silver foil, polychromy",
+ "Dimensions": [
+  "Weight, 49 lb. (22.226 kg)",
+  "Height, 67 1/2 in. (171.45 cm)",
+  "Width, 28 3/4 in. (73.03 cm)"
+ ],
+ "Classification": "Shields",
+ "Credit Line": "Gift of Bashford Dean, 1922",
+ "Accession Number": "22.164.1",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Leather",
+  "Armor",
+  "Polychromy",
+  "Shields",
+  "Gesso"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Thuringia",
+  "Erfurt"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40001063,
+ "gallery-id": 373,
+ "related-artworks": [
+  40001062,
+  40001549,
+  40006290,
+  40001083,
+  40005369
+ ],
+ "Description": "Shields of this exceptionally large size and weight (forty-nine pounds) were propped on the ground to form a wall to protect archers and infantrymen. This shield is decorated with the coat of arms of the city of Erfurt, a silver wheel on a red ground, and may have been made before 1324, when the coat of arms of the city was changed.",
+ "Provenance": [
+  "Town Hall of Erfurt"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40001063"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911), Daoguang period (1821–50)",
+ "Culture": "China",
+ "Medium": "Silk on silk",
+ "Dimensions": "41 x 41 in. (104.14 x 104.14 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Gift of Mrs. Charles Deall Nicoll, in memory of her husband, Charles Deall Nicoll, 1945",
+ "Accession Number": "45.116.3",
+ "What": [
+  "Costume",
+  "Silk",
+  "Needlework",
+  "Embroidery",
+  "Robes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043385,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/135162.jpg",
+ "related-artworks": [
+  60039270,
+  60042044,
+  60042658,
+  60042645,
+  60043371
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043385"
+  }
+ }
+}

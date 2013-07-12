@@ -1,0 +1,48 @@
+{
+ "Object Name": "Fragment of a molding",
+ "Date": "9th–10th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Plaster; carved and painted",
+ "Dimensions": [
+  "H. 7 3/8 in. (18.7 cm)",
+  "W. 4 5/16 in. (11 cm)",
+  "D 9/16 in. (1.4 cm)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1940",
+ "Accession Number": "40.170.688",
+ "What": [
+  "Sculpture",
+  "Fragments",
+  "Painting",
+  "Plaster",
+  "Moldings"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140007632,
+ "related-artworks": [
+  140007623,
+  140007620,
+  140007627,
+  140007622,
+  140014583
+ ],
+ "Provenance": [
+  "1937, excavated near Nasrullah's house in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1940, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007632"
+  }
+ }
+}

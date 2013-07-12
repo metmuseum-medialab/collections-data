@@ -1,0 +1,44 @@
+{
+ "Period": "Middle Kingdom–Early New Kingdom",
+ "Dynasty": "Dynasty 12, late–13 to 1700 B.C.",
+ "Date": "ca. 1850–1700 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, cemetery south of pyramid, not on map, Pit 467, MMA 1913–1914",
+ "Medium": "Glazed steatite",
+ "Dimensions": "l. 1.6 cm (5/8 in)",
+ "Credit Line": "Rogers Fund, 1915",
+ "Accession Number": "15.3.170",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Glazing",
+  "Talc",
+  "Steatite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100014942,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/15.3.170_bot.jpg",
+ "related-artworks": [
+  100000725,
+  100001609,
+  100001685,
+  100001697,
+  100001725
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100014942"
+  }
+ }
+}

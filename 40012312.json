@@ -1,0 +1,41 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian",
+ "Classification": "Combination Weapons",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.1343",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Locks",
+  "Small arms",
+  "Handguns",
+  "Pistols",
+  "Matchlocks",
+  "Hammers",
+  "War hammers"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40012312,
+ "related-artworks": [
+  40012314,
+  40010760,
+  40011763,
+  40001172,
+  40001259
+ ],
+ "Provenance": [
+  "Ex coll.:  Count Leopold, Dresden",
+  "Historical Museum, Dresden"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40012312"
+  }
+ }
+}

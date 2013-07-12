@@ -1,0 +1,56 @@
+{
+ "Date": "1851–52",
+ "Medium": "Oil on canvas",
+ "Dimensions": "76 3/4 x 102 3/4 in. (194.9 x 261 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Harry Payne Bingham, 1940",
+ "Accession Number": "40.175",
+ "Who": "Gustave Courbet",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "The Salon and The Royal Academy",
+  "Nineteenth–Century French Realism",
+  "Gustave Courbet (1819–1877)",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110003533,
+ "gallery-id": 812,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT1967.jpg",
+ "related-artworks": [
+  110000433,
+  110000434,
+  110000438,
+  110000439,
+  110000435
+ ],
+ "Provenance": [
+  "Charles-Auguste-Louis-Joseph Demorny, called comte de Morny, later duc de Morny, Paris (1852–d. 1865)",
+  "his widow, Sophie Troubetskoi, duchesse de Morny, Château de Nades, Allier (1865–78",
+  "sale, Hôtel Drouot, Paris, March 29, 1878, no. 17, as \"Les demoiselles de village,\" for Fr 5,000)",
+  "Thomas Wigglesworth, Boston (by 1879–at least 1888)",
+  "[Julius Oehme, New York, until 1901",
+  "sold in May to Durand-Ruel]",
+  "[Durand-Ruel, New York, from 1901]",
+  "[Durand-Ruel, Paris, until 1906",
+  "sold in June to Hébrard]",
+  "[A. A. Hébrard, Paris, from 1906]",
+  "Colonel Oliver H. Payne, New York (1909–d. 1917)",
+  "his nephew, Harry Payne Bingham, New York (1917–40)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110003533"
+  }
+ }
+}

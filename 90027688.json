@@ -1,0 +1,58 @@
+{
+ "Printer": "Printed by Imprimerie Arte",
+ "Author": "Written by Philippe Lacoue-Labarthe",
+ "Designer": "Designed by Malgorzata Paszko (born 1956)",
+ "Date": "1986",
+ "Medium": "Lithograph",
+ "Dimensions": "Overall 14 9/16 x 10 5/8 x 3/8 in. (37 x 27 x 1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Transferred from the Library, 1987",
+ "Accession Number": "1987.1196",
+ "Who": [
+  "André Derain",
+  "Maeght Editeur",
+  "Imprimerie Arte",
+  "Aki Kuroda",
+  "Andréa Zanzotto",
+  "Barry Flanagan",
+  "Didier Ottinger",
+  "Elizabeth Garouste",
+  "François Martin",
+  "Frédéric Paul",
+  "Graziella da Gioz",
+  "Jacques Perry",
+  "Malgorzata Paszko",
+  "Mattia Bonetti",
+  "Philippe Lacoue-Labarthe",
+  "Pierre Moignard",
+  "Werner Büttner",
+  "Witold Marian Gombrowicz"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90027688,
+ "related-artworks": [
+  90033676,
+  90020101,
+  90063749,
+  90019314,
+  90049611
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90027688"
+  }
+ }
+}

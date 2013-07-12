@@ -1,0 +1,33 @@
+{
+ "Date": "1829",
+ "Dimensions": "15-3/4 x 19-1/4",
+ "Classification": "Books",
+ "Credit Line": "Gift of Maitland F. Griggs, 1942",
+ "Accession Number": "42.67",
+ "Who": "Alessandro Sanquirico",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024537,
+ "related-artworks": [
+  90024533,
+  90024535,
+  90024536,
+  90024534,
+  90051489
+ ],
+ "Provenance": [
+  "Donor: Maitland Fuller Griggs"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024537"
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "Date": "early 18th century",
+ "Culture": "French",
+ "Medium": "Silk and wool on canvas; plain wood, silk damask; silk",
+ "Dimensions": ".11) 94-1/2 x 69-1/2 in.  (240.0 x 176.5 cm); .12) 81-3/4 x 65 x 11-1/2 in.  (207.6 x 165.1 x 29.2 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Irwin Untermyer, 1953",
+ "Accession Number": "53.2.11-.12",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Wool",
+  "Wood",
+  "Embroidery",
+  "Canvas",
+  "Bed coverings",
+  "Bedcovers",
+  "Curtains",
+  "Damask",
+  "Coverlets"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120049810,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/157897.jpg",
+ "related-artworks": [
+  120049737,
+  120047261,
+  120016670,
+  120045191,
+  120045502
+ ],
+ "Provenance": [
+  "Léon Dechoux , Sèvres, France",
+  "Cooper Union Museum for the Arts of Decoration , New York",
+  "William Randolph Hearst (until 1941",
+  "sale, Gimbel Bros., New York, 1941",
+  "sold to MMA)",
+  "Irwin Untermyer (until 1953",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120049810"
+  }
+ }
+}

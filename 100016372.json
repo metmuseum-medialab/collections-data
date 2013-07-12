@@ -1,0 +1,56 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 20",
+ "Reign": "reign of Ramesses III",
+ "Date": "ca. 1184–1153 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Dimensions": "L. 4.9cm (1 15/16 in), w. 4.3cm (1 11/16 in)",
+ "Credit Line": "Gift of Joseph W. Drexel, 1889",
+ "Accession Number": "89.2.271",
+ "What": "Faience",
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100016372,
+ "gallery-id": 124,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/89.2.270-279.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/100000122",
+  "http://scrapi.org/object/100000284",
+  "http://scrapi.org/object/100000304",
+  "http://scrapi.org/object/100000271",
+  "http://scrapi.org/object/100000314"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Donated by Joseph W. Drexel, Philadelphia, 1889."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000122"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000284"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000304"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000271"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000314"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100016372"
+  }
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "Date": "ca. 1290",
+ "Geography": "Made in Paris, France",
+ "Culture": "French",
+ "Medium": "Tempera and gold on parchment, brown ink; modern leather binding",
+ "Dimensions": [
+  "Overall 19 x 11 1/2 x 1/2in. (48.3 x 29.2 x 1.3cm)",
+  "open 18 9/16in. (47.2cm)"
+ ],
+ "Classification": "Manuscripts & Illuminations",
+ "Credit Line": "Gift of John Feldman, 1990",
+ "Accession Number": "1990.217",
+ "Who": "Master Honore",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paintings",
+  "Gold",
+  "Leather",
+  "Manuscripts",
+  "Tempera",
+  "Folios",
+  "Parchment",
+  "Illuminations",
+  "Bindings"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": [
+  "Gothic Art",
+  "The Art of the Book in the Middle Ages",
+  "France, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 170006093,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/DT202812.jpg",
+ "related-artworks": [
+  170009811,
+  170006213,
+  170007343,
+  170008955,
+  170008922
+ ],
+ "Provenance": [
+  "Franz Trau(sale, Vienna, 1905, lot. 92)",
+  "Dr. Arthur Simony, London(?)",
+  "[ Bernard Quaritch, London]",
+  "Sir Sydney Cockerell (1910 - 1957), Cambridge",
+  "Brian S. Cron, Kew, England (1957–?)",
+  "[ Bernard Quaritch, London]",
+  "[ Bruce Ferrini, Akron, Ohio (sold 1987)]",
+  "John L. Feldman, Egan, Minnesota (until 1990)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006093"
+  }
+ }
+}

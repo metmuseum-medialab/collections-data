@@ -1,0 +1,38 @@
+{
+ "Date": "1525–61",
+ "Medium": "Engraving",
+ "Dimensions": "Sheet 2 3/16 × 3 1/4 in. (5.6 × 8.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "27.23.75",
+ "Who": "Heinrich Aldegrever",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90097752,
+ "related-artworks": [
+  90003262,
+  90027973,
+  90032752,
+  90073866,
+  90104152
+ ],
+ "Description": "Ornament design with female triton or sea goddess and child at left.",
+ "Provenance": [
+  "Vendor: S. F. C. Smith"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90097752"
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "Manufacturer": "Attributed to Tiffany Glass and Decorating Company (1892–1902)",
+ "Maker": "Tiffany Studios (1902–32)",
+ "Date": "1893–1925",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Favrile glass",
+ "Dimensions": "H. 5 1/2 in. (14 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Louis Comfort Tiffany Foundation, 1951",
+ "Accession Number": "51.121.16",
+ "Who": [
+  "Louis Comfort Tiffany",
+  "Tiffany Studios",
+  "Tiffany Glass  Decorating Company"
+ ],
+ "What": [
+  "Vessels",
+  "Glass",
+  "Vases",
+  "Favrile glass (TM)"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Nineteenth–Century American Jewelry",
+  "Art Nouveau",
+  "Louis Comfort Tiffany (1848–1933)",
+  "The Arts and Crafts Movement in America",
+  "America Comes of Age 1876–1900",
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10009746,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/151662.jpg",
+ "related-artworks": [
+  10009753,
+  10009757,
+  10009732,
+  10009733,
+  10009734
+ ],
+ "Provenance": [
+  "Louis Comfort Tiffany Foundation, New York, until 1951."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10009746"
+  }
+ }
+}

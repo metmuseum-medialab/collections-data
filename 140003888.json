@@ -1,0 +1,62 @@
+{
+ "Date": "1336",
+ "Geography": "Syria",
+ "Medium": "Silk backed with heavy linen",
+ "Dimensions": [
+  "H. 55 in. (139. 7 cm)",
+  "W. 7 3/4 in. (19.7 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1914",
+ "Accession Number": "14.137",
+ "What": [
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Linen"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140003888,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DT217990.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/140002432",
+  "http://scrapi.org/object/140008030",
+  "http://scrapi.org/object/140008036",
+  "http://scrapi.org/object/140002844",
+  "http://scrapi.org/object/140002846"
+ ],
+ "related-images": [],
+ "Description": "This Syrian liturgical vestment, a batrashil, a stole worn by both bishops and priests, is one of the earliest surviving examples of this type of garment. Also found in the Coptic Church, the batrashil is most closely related to the Byzantine epitrachelion, a long embroidered stole that pulls over the head and hangs down the front. The Syrian batrashil, however, extends down the back as well as the front. When worn by a bishop, it would have been layered over his robes, girdle, hood, and another stole called a hamnikho. Liturgical texts tell us that during ordination or promotion ceremonies, the priest or bishop was led around the church by the batrashil to symbolically introduce him to the church.Down the front from top to bottom are nine scenes from the Gospels (Pentecost, Ascension into Heaven, Resurrection, Crucifixion, Entry into Jerusalem, Presentation in the Temple, Baptism, Nativity, and Annunciation). On the back are portraits of the Four Evangelists. The ornate embroidery decorating this stole distinguishes it as one for a bishop rather than for the lower office. The Arabic and Syriac inscriptions name the bishop, Athanasius Abraham Yaghmur, who, in the mid-sixteenth century, was a scribe in the region of Homs, Syria, and worked, among other places, at the famous Monastery of Mar Musa al-Habashi.The maker of this batrashil likely spoke Arabic, which she used to inscribe her name; Syriac was used primarily by Christians in church only at this time. The figures, with their frontal poses, round heads, and simplified noses and brows, imitate those on older, thirteenth- and fourteenth-century embroidered vestments, especially Coptic ones.",
+ "Provenance": [
+  "[ Beilouny, until 1914]"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140002432"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140008030"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140008036"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140002844"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140002846"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140003888"
+  }
+ }
+}

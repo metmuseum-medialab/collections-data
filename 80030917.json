@@ -1,0 +1,35 @@
+{
+ "Date": "early 19th century",
+ "Culture": "American",
+ "Medium": "linen",
+ "Dimensions": "Length at CF 6 3/4 in. (17.1 cm)",
+ "Credit Line": "Gift of Mrs. Samuel Cabot, 1946",
+ "Accession Number": "C.I.46.95.20",
+ "What": [
+  "Costume",
+  "Linen",
+  "Shirts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80030917,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI46.95.20.jpg",
+ "related-artworks": [
+  80013410,
+  80001858,
+  80003271,
+  80005752,
+  80013297
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80030917"
+  }
+ }
+}

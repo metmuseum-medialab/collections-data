@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1615–1868",
+ "Culture": "Japanese",
+ "Medium": "Leather, lacquer",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.3018",
+ "What": [
+  "Leather",
+  "Lacquer",
+  "Canteens"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1400–1600 A.D."
+ ],
+ "id": 40002825,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40002826"
+   },
+   {
+    "href": "http://scrapi.org/object/40002823"
+   },
+   {
+    "href": "http://scrapi.org/object/40002824"
+   },
+   {
+    "href": "http://scrapi.org/object/40000093"
+   },
+   {
+    "href": "http://scrapi.org/object/40000320"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40002825"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40002825"
+  }
+ }
+}

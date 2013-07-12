@@ -1,0 +1,56 @@
+{
+ "Date": "late 19th century",
+ "Culture": "European",
+ "Medium": "Silver, parcel-gilt",
+ "Dimensions": "L. 4 3/4 in. (12.1 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Sir William H. Redding, in memory of his wife, 1900",
+ "Accession Number": "00.19.79",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Flatware",
+  "Spoons",
+  "Souvenirs"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120029835,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF00_19_79.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/SF00_19_79.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/72802.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/72802list.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120028306"
+   },
+   {
+    "href": "http://scrapi.org/object/120002852"
+   },
+   {
+    "href": "http://scrapi.org/object/120028288"
+   },
+   {
+    "href": "http://scrapi.org/object/120028293"
+   },
+   {
+    "href": "http://scrapi.org/object/120028290"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120029835"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120029835"
+  }
+ }
+}

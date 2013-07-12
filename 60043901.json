@@ -1,0 +1,43 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Silk, metallic thread",
+ "Dimensions": [
+  "Overall (a) 68 1/2 x 12 1/2 in. (174 x 31.8 cm)",
+  "Overall (b) 44 x 90 1/4 in. (111.8 x 229.2 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Purchase, Gifts, Bequests, and Funds from various donors, by exchange, 1956",
+ "Accession Number": "56.38.1a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Outerwear",
+  "Robes",
+  "Stoles"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60043901,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/161176.jpg",
+ "related-artworks": [
+  60043791,
+  60043903,
+  60043789,
+  60043793,
+  60041903
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043901"
+  }
+ }
+}

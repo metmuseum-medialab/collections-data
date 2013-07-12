@@ -1,0 +1,43 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Gold leaf on plain-weave silk",
+ "Dimensions": "Overall 65 x 53 in. (165.1 x 134.6 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Rogers Fund, 1958",
+ "Accession Number": "58.97.1",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Gold",
+  "Gold leaf"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60032509,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DT204737.jpg",
+ "related-artworks": [
+  60031808,
+  60031805,
+  60021432,
+  60013184,
+  60038785
+ ],
+ "Description": "Noh robes patterned with metallic leaf are called surihaku, a term also used for the textiles from which they are made.  For this robe, the surihaku textile was decorated by applying paste through stencils, placing and pressing gold leaf onto the still-wet paste and finally, when the paste was dry, brushing away the excess gold leaf.  Some surihaku robes have static, repetitive patterns, but the artful arrangement of the stencils for this robe yielded a fluid, rhythmic design.The conventionalized flowing water beneith the plants is sometimes called kanze mizu (literally, \"Kanze water\"), a pattern associated with the Kanze troupe of Noh actors.  Kanze mizu later became the symbol for a particular Kabuki actor, Sawamura Sōjūrō III, who appears wearing clothing patterened with the motif in a woodblock print (JP2720) by Utagawa Toyokuni.",
+ "Provenance": [
+  "Isaac Delgado Museum of Art"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60032509"
+  }
+ }
+}

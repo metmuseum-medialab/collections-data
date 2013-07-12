@@ -1,0 +1,48 @@
+{
+ "Artist": "After Jean-Michel Moreau the Younger (French, Paris 1741–1814 Paris)",
+ "Author": "Pierre Jean-Baptiste Legrand d'Aussy (French, 1737–1800)",
+ "Publisher": "Jules Renouard (French, 19th century)",
+ "Date": "published in 1829",
+ "Medium": "Etching and engraving; second state of three (Bocher)",
+ "Dimensions": [
+  "Sheet 11 7/8 × 8 7/16 in. (30.2 × 21.4 cm)",
+  "Plate 8 11/16 × 5 13/16 in. (22.1 × 14.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.500.580",
+ "Who": [
+  "Jean-Michel Moreau the Younger",
+  "Barthélemy Joseph Fulcran Roger",
+  "Jules Renouard",
+  "Pierre Jean-Baptiste Legrand d'Aussy"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90098891,
+ "related-artworks": [
+  90068789,
+  90068790,
+  90068899,
+  90068901,
+  90069216
+ ],
+ "Provenance": [
+  "Vendor: M. Sloog (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90098891"
+  }
+ }
+}

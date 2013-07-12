@@ -1,0 +1,30 @@
+{
+ "Date": "1911–12",
+ "Classification": "Books",
+ "Credit Line": "Gift of A. Chapin Rogers, 1951",
+ "Accession Number": "51.612.5",
+ "Who": "Pierce Arrow Automobile Company",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023238,
+ "related-artworks": [
+  90023239,
+  90023237,
+  90000871
+ ],
+ "Provenance": [
+  "Donor: Alfred Chapin Rogers"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023238"
+  }
+ }
+}

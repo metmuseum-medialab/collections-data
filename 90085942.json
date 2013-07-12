@@ -1,0 +1,44 @@
+{
+ "Artist": "After Pieter Bruegel the Elder (Netherlandish, Breda (?) ca. 1525–1569 Brussels)",
+ "Publisher": "Hieronymus Cock (Netherlandish, Antwerp ca. 1510–1570 Antwerp)",
+ "Date": "ca. 1559-60",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "Sheet 10 1/4 x 13 3/16 in. (26 x 33.5 cm)",
+  "Plate 8 7/8 x 11 7/16 in. (22.5 x 29 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1928",
+ "Accession Number": "28.4",
+ "Who": [
+  "Philips Galle",
+  "Hieronymus Cock",
+  "Pieter Bruegel the Elder"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90085942,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP825752.jpg",
+ "related-artworks": [
+  90025570,
+  90039321,
+  90041480,
+  90041481,
+  90041483
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90085942"
+  }
+ }
+}

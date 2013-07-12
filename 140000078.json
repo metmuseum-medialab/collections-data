@@ -1,0 +1,45 @@
+{
+ "Object Name": "Fragment of a non-illustrated single work",
+ "Date": "8th–9th century",
+ "Geography": "Egypt",
+ "Medium": "Ink on papyrus",
+ "Dimensions": [
+  "Ht. 6 1/2 in. (16.5 cm)",
+  "W. 9 13/16 in. (24.9 cm)"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "x.433",
+ "What": [
+  "Ink",
+  "Fragments",
+  "Manuscripts",
+  "Codices",
+  "Papyrus"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140000078,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sfx-433.jpg",
+ "related-artworks": [
+  140000080,
+  140000079,
+  140000082,
+  140000081,
+  140000083
+ ],
+ "Provenance": [
+  "Acquired by Museum by 1975"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140000078"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Date": "1759",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 5 13/16 x 7 3/4 in. (14.8 x 19.7 cm)",
+  "sheet 6 3/8 x 8 7/16 in. (16.2 x 21.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.520",
+ "Who": "Captain William E. Baillie",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Republic of Ireland"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90058357,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90058358"
+   },
+   {
+    "href": "http://scrapi.org/object/90058355"
+   },
+   {
+    "href": "http://scrapi.org/object/90098307"
+   },
+   {
+    "href": "http://scrapi.org/object/90058356"
+   },
+   {
+    "href": "http://scrapi.org/object/90058354"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90058357"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90058357"
+  }
+ }
+}

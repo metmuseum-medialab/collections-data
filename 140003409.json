@@ -1,0 +1,50 @@
+{
+ "Date": "?",
+ "Geography": "Turkey",
+ "Medium": "Silk, gold thread, metal / ogival framework serge weave with gold thread lancé, gold thread consisting of gilded metal twisted around gold silk; tartar clouds in serge weave also; ground of medallions satin, designs in serge weave.",
+ "Dimensions": [
+  "H. 44.75 in. (113.7 cm)",
+  "W. 27 in.  (68.6 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.49.7",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Gold",
+  "Woven",
+  "Gilt",
+  "Medallions",
+  "Satin",
+  "Twill",
+  "Brocade",
+  "Serge"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Islamic Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 140003409,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/267097.jpg",
+ "related-artworks": [
+  140002450,
+  140004089,
+  140002439,
+  140003082,
+  140007755
+ ],
+ "Provenance": [
+  "[ Indjoudjian Frères, Paris, until 1912",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003409"
+  }
+ }
+}

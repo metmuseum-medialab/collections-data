@@ -1,0 +1,45 @@
+{
+ "Artist": "After Michiel Coxie I (Flemish, Mechelen, Southern Netherlands 1499–1592 Mechelen)",
+ "Publisher": "Antonio Salamanca (Salamanca 1478–1562 Rome)",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 7 11/16 x 8 7/8 in. (19.5 x 22.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry G. Friedman, 1962",
+ "Accession Number": "62.635.909",
+ "Who": [
+  "Master of the Die",
+  "Antonio Salamanca",
+  "Michiel Coxie I"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Lovers in Italian Mythological Prints",
+  "Poets in Italian Mythological Prints"
+ ],
+ "id": 90070968,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP824494.jpg",
+ "related-artworks": [
+  90015071,
+  90032407,
+  90034689,
+  90034687,
+  90039837
+ ],
+ "Provenance": [
+  "Donor: Harry G. Friedman Bequest"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90070968"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "4th century",
+ "Culture": "Byzantine",
+ "Medium": "Copper alloy",
+ "Dimensions": "Overall 4 1/2 x 3 13/16 x 1 in. (11.4 x 9.7 x 2.5 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Lawrence J. Majewski, 1963",
+ "Accession Number": "63.185.2",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Copper",
+  "Hilts"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170008586,
+ "gallery-id": 301,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf63-185-2s2.jpg",
+ "related-artworks": [
+  170010721,
+  170002798,
+  170003202,
+  170004814,
+  170004835
+ ],
+ "Description": "Roman and, later, Byzantine officials carried large swords that terminatedin eagle-headed hilts. On this small sword, the hilt has a guard displaying a bust of the goddess Athena. The combination of motifs identifies the work as belonging to someone loyal to the classical heritage.",
+ "Provenance": [
+  "Lawrence J. Majewski, New York (until 1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170008586"
+  }
+ }
+}

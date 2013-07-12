@@ -1,0 +1,60 @@
+{
+ "Date": "19th century",
+ "Culture": "German",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 4 3/4 x W. 6 3/4 inches (approx.)",
+  "12.1 x 17.1 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.902",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120033849,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP1388.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/DP1388.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP1388_09.50.902.jpg"
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120033363"
+   },
+   {
+    "href": "http://scrapi.org/object/120033364"
+   },
+   {
+    "href": "http://scrapi.org/object/120033367"
+   },
+   {
+    "href": "http://scrapi.org/object/120033369"
+   },
+   {
+    "href": "http://scrapi.org/object/120033370"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120033849"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120033849"
+  }
+ }
+}

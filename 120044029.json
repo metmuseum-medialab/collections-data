@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1797",
+ "Culture": "French (Lyons)",
+ "Medium": "Silk",
+ "Dimensions": [
+  "L. 19 1/2 x W. 18 inches",
+  "49.5 x 45.7 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.169a",
+ "Who": "Jean Démosthène Dugourc",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Panels",
+  "Upholstery"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Rhône",
+  "Lyon"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120044029,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/117606.jpg",
+ "related-artworks": [
+  120044030,
+  120044031,
+  120049471,
+  120012666,
+  120040660
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044029"
+  }
+ }
+}

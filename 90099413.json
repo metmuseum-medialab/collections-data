@@ -1,0 +1,45 @@
+{
+ "Artist": "After François Boucher (French, Paris 1703–1770 Paris)",
+ "Date": "ca. 1755",
+ "Medium": "Etching and engraving",
+ "Dimensions": "Sheet 5 3/16 × 4 5/16 in. (13.1 × 11 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Robert Hartshorne, 1924",
+ "Accession Number": "24.33",
+ "Who": [
+  "François Boucher",
+  "Madame la Marquise de Pompadour",
+  "Jacques Guay"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90099413,
+ "related-artworks": [
+  90099166,
+  90099363,
+  90099381,
+  90099429,
+  90099399
+ ],
+ "Provenance": [
+  "Mary Baroness Currie (British, Beauport Park 1843–1905 Harrogate)",
+  "Margaret Warrender",
+  "Donor: Robert Hartshorne (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90099413"
+  }
+ }
+}

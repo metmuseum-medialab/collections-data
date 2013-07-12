@@ -1,0 +1,51 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Hexaptych of polychrome woodblock prints; ink and color on paper",
+ "Dimensions": [
+  "Image (a) 14 1/4 x 9 3/4 in. (36.2 x 24.8 cm)",
+  "Image (b) 14 1/4 x 9 3/4 in. (36.2 x 24.8 cm)",
+  "Image (c) 14 1/4 x 9 5/8 in. (36.2 x 24.4 cm)",
+  "Image (d) 14 1/4 x 9 3/4 in. (36.2 x 24.8 cm)",
+  "Image (e) 14 1/4 x 9 7/8 in. (36.2 x 25.1 cm)",
+  "Image (f) 14 1/8 x 9 7/8 in. (35.9 x 25.1 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of William S. Lieberman, 2005",
+ "Accession Number": "2007.49.296a–f",
+ "Who": "Gountei Sadahide",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60047503,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP148149_CRD.jpg",
+ "related-artworks": [
+  60026276,
+  60026407,
+  60047502,
+  60047584,
+  60001500
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60047503"
+  }
+ }
+}

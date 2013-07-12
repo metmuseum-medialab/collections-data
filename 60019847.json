@@ -1,0 +1,43 @@
+{
+ "Period": "Tang dynasty (618–907)",
+ "Date": "ca. late 7th–first half of 8th century",
+ "Culture": "China",
+ "Medium": "Earthenware with three-color (sancai) glaze and pigments",
+ "Dimensions": "H. 33 in. (83.8 cm)",
+ "Classification": "Tomb Pottery",
+ "Credit Line": "Gift of Sadajiro Yamanaka, 1911",
+ "Accession Number": "11.83.2",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Sancai"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 500–1000 A.D.",
+  "China, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60019847,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/11_83_2.jpg",
+ "related-artworks": [
+  60009848,
+  60006527,
+  60006528,
+  60009855,
+  60019848
+ ],
+ "Description": "Despite the fact that they undoubtedly depict foreigners of Western origin, these officials are dressed in the typical Tang-dynasty Chinese court dress of a long, wide-sleeved tunic over a long gown. Their hats illustrate two varieties of the standard headgear of Tang-dynasty Chinese court officials.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60019847"
+  }
+ }
+}

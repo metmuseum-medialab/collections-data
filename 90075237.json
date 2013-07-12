@@ -1,0 +1,42 @@
+{
+ "Printer": "David Krut Print Workshop",
+ "Publisher": "David Krut Print Workshop",
+ "Date": "2011",
+ "Medium": "Drypoint",
+ "Dimensions": "28 1/8 x 39 in. (71.4 x 99.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of David Krut Print Workshop (DKW), Johannesburg, 2011",
+ "Accession Number": "2012.154",
+ "Who": [
+  "David Krut Print Workshop",
+  "Diane Victor"
+ ],
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "Africa"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90075237,
+ "related-artworks": [
+  90043804,
+  90003628,
+  90004615,
+  90004775,
+  90005040
+ ],
+ "Provenance": [
+  "Donor: David Krut Projects"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90075237"
+  }
+ }
+}

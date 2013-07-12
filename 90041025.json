@@ -1,0 +1,57 @@
+{
+ "Printer": "Printed by Hidalgo Arnéra",
+ "Publisher": "Published by Galerie Louise Leiris (Paris)",
+ "Date": "1959",
+ "Medium": "Linoleum cut",
+ "Dimensions": [
+  "block 20 7/8 x 25 1/8 in. (53 x 63.8 cm)",
+  "sheet 24 1/2 x 29 1/2 in. (62.2 x 74.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Mr. and Mrs. Charles Kramer Collection, Gift of Mr. and Mrs. Charles Kramer, 1979",
+ "Accession Number": "1979.620.8",
+ "Rights and Reproduction": "©2010 Estate of Pablo Picasso/Artists Rights Society (ARS), New York",
+ "Who": [
+  "Pablo Picasso",
+  "Galerie Louise Leiris",
+  "Hidalgo Arnéra"
+ ],
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Linoleum cuts"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Surrealism",
+  "Geometric Abstraction",
+  "Symbolism",
+  "Pablo Picasso (1881–1973)",
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "Paul Klee (1879–1940)",
+  "The Lure of Montmartre, 1880–1900",
+  "African Influences in Modern Art",
+  "Cubism",
+  "School of Paris",
+  "Iberian Peninsula, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90041025,
+ "related-artworks": [
+  90023219,
+  90028010,
+  90028195,
+  90028218,
+  90028219
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90041025"
+  }
+ }
+}

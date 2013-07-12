@@ -1,0 +1,47 @@
+{
+ "Object Name": "Towel end",
+ "Date": "19th century",
+ "Geography": "probably Turkey",
+ "Medium": "Linen, metal wrapped thread; plain weave, embroidered",
+ "Dimensions": [
+  "H. 6 3/4 in. (17.1 cm)",
+  "W. 27 in. (68.6 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2483",
+ "What": [
+  "Metal",
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Plain weave",
+  "Towels"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "id": 140003106,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/19728B.jpg",
+ "related-artworks": [
+  140000181,
+  140000199,
+  140000177,
+  140000201,
+  140000179
+ ],
+ "Provenance": [
+  "Friedrich FischbachCollection, Wiesbaden (until 1909",
+  "sold to Dr. Voos for MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003106"
+  }
+ }
+}

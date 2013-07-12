@@ -1,0 +1,44 @@
+{
+ "Designer": "Hubert de Givenchy (French, born Beauvais, 1927)",
+ "Date": "fall/winter 1962–63",
+ "Culture": "French",
+ "Medium": "silk, plastic, glass and metallic beads",
+ "Dimensions": [
+  "Length (a) 56 in. (142.2 cm)",
+  "Length (b) 13 1/2 in. (34.3 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. Charles B. Wrightsman, 1964",
+ "Accession Number": "C.I.64.59.1a, b",
+ "Who": [
+  "Hubert de Givenchy",
+  "House of Givenchy"
+ ],
+ "What": [
+  "Silk",
+  "Glass",
+  "Ensembles",
+  "Plastic"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80023138,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI64.59.1ab_F.jpg",
+ "related-artworks": [
+  80023766,
+  80019099,
+  80024429,
+  80024405,
+  80002612
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80023138"
+  }
+ }
+}

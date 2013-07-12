@@ -1,0 +1,42 @@
+{
+ "Date": "1909",
+ "Medium": "Offset lithograph",
+ "Dimensions": "Sheet 2 3/4 x 1 1/2 in. (7 x 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 308, D380.14",
+ "Who": "Clement Brothers Bread",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Baseball cards",
+  "Lithography",
+  "Offset lithography",
+  "Offset lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90092779,
+ "related-artworks": [
+  90092757,
+  90092765,
+  90092763,
+  90092767,
+  90092764
+ ],
+ "Description": "Trade cards from the \"Clement Bros. Bread\" series (D380 and D380-1), issued 1909-1910 to promote Clement Brothers Bread, Rochester, New York. The D380-1 series, produced in 1909, features players from the Rochester baseball team pictured in an oval image. The D380 series, issued in 1910, displays Major League and Rochester players in a rectangular image.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90092779"
+  }
+ }
+}

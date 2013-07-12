@@ -1,0 +1,46 @@
+{
+ "Date": "early 17th century",
+ "Culture": "Italian (Genoa)",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 15 7/8 inches (40.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Miss Margaret Taylor Johnstone, 1926. (Addition to Memorial  Coll. for Mrs. James Boerman Johnston)",
+ "Accession Number": "26.155",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace",
+  "Neckwear",
+  "Collars"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Liguria",
+  "Genoa"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120039475,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/63827.jpg",
+ "related-artworks": [
+  120031016,
+  120032545,
+  120032709,
+  120035686,
+  120035687
+ ],
+ "Provenance": [
+  "Margaret Taylor Johnstone (until 1926",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120039475"
+  }
+ }
+}

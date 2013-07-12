@@ -1,0 +1,39 @@
+{
+ "Date": "1886",
+ "Medium": "Graphite on off-white wove paper",
+ "Dimensions": "5 x 7 1/2 in. (12.7 x 19.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Gifts in memory of Stephen D. Rubin, 1992",
+ "Accession Number": "1992.2.1n verso",
+ "Who": "William Trost Richards",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite",
+  "Wove paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "Nineteenth–Century American Drawings",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "id": 20016726,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/257765.jpg",
+ "related-artworks": [
+  20012265,
+  20014105,
+  20016351,
+  20016357,
+  20016723
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20016726"
+  }
+ }
+}

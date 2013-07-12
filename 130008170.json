@@ -1,0 +1,39 @@
+{
+ "Period": "Early Minoan III",
+ "Culture": "Minoan",
+ "Medium": "Terracotta",
+ "Classification": "Vases",
+ "Credit Line": "Gift of the American Exploration Society, 1907",
+ "Accession Number": "07.232.79",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades",
+  "Minoa"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130008170,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP21192.jpg",
+ "related-artworks": [
+  130008125,
+  130008126,
+  130008127,
+  130008128,
+  130008129
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130008170"
+  }
+ }
+}

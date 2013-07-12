@@ -1,0 +1,38 @@
+{
+ "Period": "Early Dynastic Period",
+ "Date": "ca. 3100–2649 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Saqqara; includes the Serapeum",
+ "Medium": "Stone",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.181.95",
+ "What": [
+  "Stone",
+  "Bowls"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Saqqara"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100027426,
+ "related-artworks": [
+  100027727,
+  100027176,
+  100027178,
+  100027179,
+  100027180
+ ],
+ "Provenance": [
+  "Excavated by James Quibell at Saqqara. Purchased by the Museum from the Egyptian Government."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100027426"
+  }
+ }
+}

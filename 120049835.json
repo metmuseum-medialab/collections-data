@@ -1,0 +1,63 @@
+{
+ "Maker": "Gilder Presle",
+ "Date": "1784",
+ "Culture": "French (Paris)",
+ "Medium": "Carved and gilded walnut, pink silk moiré damask (not original)",
+ "Dimensions": "34 x 18-1/2 x 18 in.  (86.4 x 47.0 x 45.7 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1977",
+ "Accession Number": "1977.102.13",
+ "Who": [
+  "Georges Jacob",
+  "Jean -Siméon Rousseau de la Rottière",
+  "Jules-Hugues Rousseau",
+  "Presle"
+ ],
+ "What": [
+  "Silk",
+  "Gilt",
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Seating furniture",
+  "Chairs",
+  "Walnut",
+  "Side chairs",
+  "Damask",
+  "Moiré"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "French Furniture in the Eighteenth Century Seat Furniture",
+  "The Golden Age of French Furniture in the Eighteenth Century",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120049835,
+ "gallery-id": 546,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP105674.jpg",
+ "related-artworks": [
+  120049836,
+  120017488,
+  120056232,
+  120017480,
+  120017481
+ ],
+ "Provenance": [
+  "Marie Antoinette, Queen of France (from 1784)",
+  "Baroness Renée de Becker",
+  "Charles and Jayne Wrightsman (until 1977",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120049835"
+  }
+ }
+}

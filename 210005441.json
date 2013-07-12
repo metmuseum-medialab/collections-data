@@ -1,0 +1,41 @@
+{
+ "Date": "1987",
+ "Medium": "Copper and brass",
+ "Dimensions": [
+  ".a) H. 29-1/2, W. 13, D. 13 inches",
+  "(74.9 x 33 x 33 cm.)",
+  ".b) H. 24, W. 12, D. 12 inches",
+  "(61 x 30.5 x 30.5 cm.)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Marian François-Poncet Gift, 1988",
+ "Accession Number": "1988.7.2ab",
+ "Who": "George Dudding",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Copper",
+  "Brass"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210005441,
+ "related-artworks": [
+  210005440,
+  210007113,
+  210009637,
+  210002452
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210005441"
+  }
+ }
+}

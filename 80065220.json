@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 2003",
+ "Culture": "French",
+ "Medium": "wool",
+ "Dimensions": "Length at CB 45 in. (114.3 cm)",
+ "Credit Line": "Gift of Thomas L. Kempner, 2006",
+ "Accession Number": "2006.420.32",
+ "Who": "Christian Lacroix",
+ "What": [
+  "Costume",
+  "Wool",
+  "Coats"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Haute Couture",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80065220,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2006.420.32_F.jpg",
+ "related-artworks": [
+  80084041,
+  80001886,
+  80039529,
+  80004266,
+  80004264
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80065220"
+  }
+ }
+}

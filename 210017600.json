@@ -1,0 +1,63 @@
+{
+ "Artist": "Otto Schönthal (Austrian, Vienna 1878–1961 Vienna)",
+ "Date": "1911",
+ "Medium": "Graphite, color pencil, watercolor and gouache on paper",
+ "Dimensions": "H. 13 3/16 x W. 8 7/16 in. (33.5 x 21.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Jacqueline Loewe Fowler, 2009",
+ "Accession Number": "2009.122",
+ "Who": [
+  "Emil Hoppe",
+  "Marcel Kammerer",
+  "Otto Schönthal"
+ ],
+ "What": [
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Watercolors",
+  "Graphite",
+  "Gouaches",
+  "Pencil"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210017600,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/mod.hoppe.2007.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90063641",
+  "http://scrapi.org/object/90063648",
+  "http://scrapi.org/object/90063582",
+  "http://scrapi.org/object/90063583",
+  "http://scrapi.org/object/90063584"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90063641"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90063648"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90063582"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90063583"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90063584"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210017600"
+  }
+ }
+}

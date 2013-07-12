@@ -1,0 +1,36 @@
+{
+ "Date": "1860–96",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Roswell Skeel, Jr., 1939",
+ "Accession Number": "C.I.39.112.3",
+ "Who": "Emile Pingat",
+ "What": [
+  "Costume",
+  "Silk",
+  "Coats"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80033950,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.39.112.3_F.jpg",
+ "related-artworks": [
+  80097081,
+  80003838,
+  80003624,
+  80006776,
+  80034418
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80033950"
+  }
+ }
+}

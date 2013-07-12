@@ -1,0 +1,53 @@
+{
+ "Artist": "Nathu (Indian)",
+ "Date": "dated 1767",
+ "Culture": "India (Rajasthan, Mewar, Udaipur)",
+ "Medium": "Ink, opaque watercolor, and gold on paper",
+ "Dimensions": [
+  "Page 26 5/8 x 32 7/8 in. (67.6 x 83.5 cm)",
+  "Image 22 3/4 x 29 3/16 in. (57.8 x 74.1 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Purchase, Mr. and Mrs. Herbert Irving, Mr. and Mrs. Arthur Ochs Sulzberger, and Mr. and Mrs. Henry A. Grunwald Gifts, in honor of Mr. and Mrs. Gustavo Cisneros, 1994",
+ "Accession Number": "1994.116",
+ "Who": [
+  "Bhima",
+  "Bhopa",
+  "Kesu Ram",
+  "Nathu"
+ ],
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Gold",
+  "Watercolors"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Rajasthan",
+  "Udaipur"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60004949,
+ "gallery-id": 464,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DT3681.jpg",
+ "related-artworks": [
+  60004982,
+  60006951,
+  60032740,
+  60047179,
+  60038188
+ ],
+ "Description": "Udaipur, the capital of Mewar, is built around an artificial lake. At the center of the lake is Jagniwas, meaning \"water palace.\" The architectural style of Jagniwas bears an Islamic imprint in its curving, scalloped arches. Tiny wall paintings depicting erotic scenes and the ten avatars (manifestations) of Vishnu line the arcade to the left. The palaces of Udaipur provide the setting for countless Mewari paintings. They are typically shown from many perspectives, with walls tilting up and out to reveal inner chambers and courtyards that would otherwise be hidden to us. We see the palace in this painting as if both from above and from the ground, from the center and from the left. The multiple perspectives can be understood in relation to the multiple time frames contained within the picture. For example, the maharana is pictured three times here: watching a troupe of dancers with his courtiers at the center; above, in a small window; and to the left, in an arcade by a fish-filled pool.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60004949"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "1892–93",
+ "Culture": "Austrian",
+ "Medium": "silk, metallic thread, glass",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Marc Sevastopoulo, 1978",
+ "Accession Number": "1978.486",
+ "What": [
+  "Costume",
+  "Silk",
+  "Glass",
+  "Dresses",
+  "Court dress"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80036300,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.486_F.jpg",
+ "related-artworks": [
+  80036299,
+  80035739,
+  80038030,
+  80010247,
+  80095312
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80036300"
+  }
+ }
+}

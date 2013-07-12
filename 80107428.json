@@ -1,0 +1,38 @@
+{
+ "Date": "1890–1910",
+ "Culture": "Mexican",
+ "Medium": "Silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of John S. Roberts, 1958",
+ "Accession Number": "2009.300.4991",
+ "What": [
+  "Costume",
+  "Silk",
+  "Outerwear",
+  "Shawls"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America, 1900 A.D.–present",
+  "Mexico and Central America Native Peoples, 1900 A.D.–present",
+  "Mexico and Central America, 1800–1900 A.D.",
+  "Mexico and Central America Native Peoples, 1800–1900 A.D."
+ ],
+ "id": 80107428,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/58.24.10_front_CP1.jpg",
+ "related-artworks": [
+  80012464,
+  80012453,
+  80061248,
+  80095706,
+  80095948
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107428"
+  }
+ }
+}

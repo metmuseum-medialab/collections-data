@@ -1,0 +1,45 @@
+{
+ "Date": "late 18th century",
+ "Culture": "British, Chelsea",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. 6 7/8 in. (17.5 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of John L. Cadwalader, 1914",
+ "Accession Number": "14.58.127a, b",
+ "Who": "Chelsea Porcelain Factory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Soft paste porcelain",
+  "Casters",
+  "Sugar casters",
+  "Muffineers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London",
+  "Chelsea"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120007523,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/22051.jpg",
+ "related-artworks": [
+  120007461,
+  120007462,
+  120007463,
+  120007464,
+  120007489
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120007523"
+  }
+ }
+}

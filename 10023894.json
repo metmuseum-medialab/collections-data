@@ -1,0 +1,41 @@
+{
+ "Date": "1853",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Shell, gold",
+ "Dimensions": "2 1/16 in. (5.2 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Gift of Alice Northrop Robbins, 2009",
+ "Accession Number": "2009.492.3a, b",
+ "Who": ".H. Kinney",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Pins",
+  "Shell",
+  "Brooches"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 10023894,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/SF.ADA.3front.jpg",
+ "related-artworks": [
+  10003938,
+  10018083,
+  10005403,
+  10018444,
+  10018445
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10023894"
+  }
+ }
+}

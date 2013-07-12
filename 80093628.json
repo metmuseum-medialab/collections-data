@@ -1,0 +1,54 @@
+{
+ "Date": "second half 19th century",
+ "Culture": "French",
+ "Medium": "linen",
+ "Dimensions": "25 1/2 x 28 in. (64.8 x 71.1 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mr. and Mrs. Sterling Peters, 1928",
+ "Accession Number": "2009.300.1097",
+ "What": [
+  "Costume",
+  "Linen",
+  "Handkerchiefs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80093628,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/28.757_detail1_CP4.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/28.757_detail1_CP4.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/28.757_detail2_CP4.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/28.757_detail3_CP4.jpg"
+ ],
+ "Description": "The level of embroidery detail on this handkerchief is extraordinary. The workmanship is of a type commonly done by convent nuns. Each scene has a common theme of love and romance from mythology, including Narcissus gazing at his reflection in the water, and Cupid holding his arrow. The imagery is particularly charming for a man's accessory and reflects on the aristocratic status of the owner.",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80093622"
+   },
+   {
+    "href": "http://scrapi.org/object/80095589"
+   },
+   {
+    "href": "http://scrapi.org/object/80095604"
+   },
+   {
+    "href": "http://scrapi.org/object/80106541"
+   },
+   {
+    "href": "http://scrapi.org/object/80106571"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80093628"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80093628"
+  }
+ }
+}

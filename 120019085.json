@@ -1,0 +1,56 @@
+{
+ "Decorator": "Decoration attributed to James Giles",
+ "Date": "ca. 1765",
+ "Culture": "British, Bow",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "Each, Diam. 7 7/8 in. (20.0 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.734,735",
+ "Who": [
+  "Bow",
+  "James Giles"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Plates",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120019085,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/209911.jpg",
+ "related-artworks": [
+  120002981,
+  120003167,
+  120024567,
+  120009362,
+  120027118
+ ],
+ "Provenance": [
+  "Lt.-Col. E.W. Stanyforth (until 1931",
+  "sale, Sotheby's, London, March 27, 1931, no. 39",
+  "to Mallet)",
+  "Mallet (from 1931)",
+  "McDowell",
+  "Sir Bernard Eckstein (until 1949",
+  "sale, Sotheby's, London, March 29, 1949, no. 72, to H. Davis)",
+  "H. Davis (from 1949)",
+  "Irwin Untermyer , New York (until 1964",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019085"
+  }
+ }
+}

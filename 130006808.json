@@ -1,0 +1,31 @@
+{
+ "Medium": "Bronze",
+ "Dimensions": "Other 1 3/4 in. (4.4 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Purchase, 1896",
+ "Accession Number": "96.9.324",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Pins",
+  "Fibulae"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006808,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP20206.jpg",
+ "related-artworks": [
+  130004343,
+  130004342,
+  130004895,
+  130004896,
+  130004902
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006808"
+  }
+ }
+}

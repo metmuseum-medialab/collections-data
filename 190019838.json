@@ -1,0 +1,61 @@
+{
+ "Date": "ca. 1865",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "Image 16.3 × 21.4 cm (6 7/16 × 8 7/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.65.22",
+ "Who": "Alexander Gardner",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photography and the Civil War, 1861–1865",
+  "Carleton Watkins (1829–1916) and the West 1860s–1870s",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190019838,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP274781.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/190011346",
+  "http://scrapi.org/object/190011349",
+  "http://scrapi.org/object/190011351",
+  "http://scrapi.org/object/190011353",
+  "http://scrapi.org/object/190011356"
+ ],
+ "related-images": [],
+ "Description": "Alexander Gardner, John Reekie, and other members of Gardner’s corps of photographers were the first to document Richmond, Virginia, after its evacuation by the Confederate government on April 2, 1865. Gardner had not been in the field with his cameras since leaving Gettysburg in July 1863. He arrived in Richmond on April 6 and worked for five days producing dozens of stereo and large-format views of the destroyed bridges across the James River and in the twenty square blocks of the city that came to be known as the “Burnt District.” While recording the destruction of the Confederate capital, Gardner would learn of Robert E. Lee’s surrender at Appomattox and of war’s end.",
+ "Provenance": [
+  "Loyal Legion, Boston Chapter, Commandery of the State of Massachusetts"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011346"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011349"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011351"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011353"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011356"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190019838"
+  }
+ }
+}

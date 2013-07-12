@@ -1,0 +1,46 @@
+{
+ "Artist": "Engraved by Jean Dambrun (French, Paris 1741–after 1808)",
+ "Date": "1795",
+ "Medium": "Etching, third state",
+ "Dimensions": [
+  "sheet 12 1/8 x 10 1/2 in. (30.8 x 26.6 cm)",
+  "image 7 15/16 x 5 7/16 in. (20.2 x 13.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.29.7",
+ "Who": [
+  "Jean Honoré Fragonard",
+  "Jean de La Fontaine",
+  "Jean Dambrun"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90041969,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP813954.jpg",
+ "related-artworks": [
+  90020508,
+  90028016,
+  90041942,
+  90041943,
+  90041944
+ ],
+ "Provenance": [
+  "Vendor: Ferdinand Meder"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90041969"
+  }
+ }
+}

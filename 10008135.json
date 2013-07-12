@@ -1,0 +1,40 @@
+{
+ "Date": "1700–1800",
+ "Culture": "European",
+ "Medium": "Poplar",
+ "Dimensions": "23 3/4 x 7 3/4 in. (60.3 x 19.7 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Mrs. Robert W. de Forest, 1933",
+ "Accession Number": "34.100.54",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Flatware",
+  "Spoons",
+  "Poplar",
+  "Racks"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10008135,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/97162.jpg",
+ "related-artworks": [
+  10008134,
+  10008136,
+  10008361,
+  10007024,
+  10009064
+ ],
+ "Provenance": [
+  "Mrs. Robert W. de Forest, New York, until 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10008135"
+  }
+ }
+}

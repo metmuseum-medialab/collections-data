@@ -1,0 +1,38 @@
+{
+ "Period": "Neolithic Period",
+ "Date": "ca. 6900–3900 B.C.",
+ "Geography": "Country of Origin Egypt, Eastern Delta or Fayum, el-Dimayin or Kom Aushim (Ushim; Karanis)",
+ "Medium": "Flint",
+ "Dimensions": "L 9.3 cm (3 11/16 in.)",
+ "Credit Line": "Gift of Garrett Chatfield Pier, 1907",
+ "Accession Number": "07.291.9",
+ "What": [
+  "Flint",
+  "Blades"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Fayum"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100009359,
+ "gallery-id": 101,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs07.291.9c.jpg",
+ "related-artworks": [
+  100009541,
+  100009542,
+  100009360,
+  100009362,
+  100009366
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100009359"
+  }
+ }
+}

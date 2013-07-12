@@ -1,0 +1,46 @@
+{
+ "Artist and publisher": "Joseph Hearn (British, late 18th century)",
+ "Publisher": "Published by J. Dean (London)",
+ "Date": "1789",
+ "Medium": "Aquatint and etching",
+ "Dimensions": [
+  "plate 15 1/2 x 22 7/16 in. (39.4 x 57 cm)",
+  "sheet 18 5/16 x 24 3/16 in. (46.5 x 61.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Humanities Fund, Inc., The Boris Bakhmeteff Collection, 1972",
+ "Accession Number": "1972.744.44",
+ "Who": [
+  "Thomas Malton",
+  "J. Dean",
+  "Joseph Hearn"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Aquatint"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 90024651,
+ "related-artworks": [
+  90024771,
+  90067496,
+  90068043,
+  90068044,
+  90021378
+ ],
+ "Provenance": [
+  "Donor: The Humanities Fund, Inc. Donor: Mrs. Boris Bakhmeteff"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024651"
+  }
+ }
+}

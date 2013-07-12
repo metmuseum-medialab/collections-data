@@ -1,0 +1,43 @@
+{
+ "Lithographer": "The Gast Lithograph & Engraving Company (American, New York)",
+ "Date": "1891",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 x 1 1/2 in. (7 x 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 201, N20.23",
+ "Who": [
+  "Allen & Ginter",
+  "The Gast Lithograph & Engraving Company"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90084037,
+ "related-artworks": [
+  90081255,
+  90081258,
+  90081314,
+  90081305,
+  90081309
+ ],
+ "Description": "Trade cards from the \"Prize and Game Chickens\" series (N20), issued in 1891 in a set of 50 cards to promote Allen & Ginter brand cigarettes.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90084037"
+  }
+ }
+}

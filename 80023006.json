@@ -1,0 +1,40 @@
+{
+ "Date": "1956",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": "Length at CB 40 1/2 in. (102.9 cm)",
+ "Credit Line": "Gift of Julia A. Thompson, 1985",
+ "Accession Number": "1985.381.2",
+ "Who": "Mainbocher",
+ "What": [
+  "Costume",
+  "Wool",
+  "Outerwear",
+  "Capes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Le Colis de Trianon–Versailles and Paris Openings",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80023006,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1985.381.2_F.jpg",
+ "related-artworks": [
+  80115095,
+  80023003,
+  80116683,
+  80023005,
+  80038095
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80023006"
+  }
+ }
+}

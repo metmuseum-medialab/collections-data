@@ -1,0 +1,39 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian",
+ "Dimensions": "L. 10 1/2 inches (26.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Edward S. Harkness, 1930",
+ "Accession Number": "30.135.40",
+ "What": [
+  "Textiles",
+  "Cases",
+  "Needles",
+  "Sheaths"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120040086,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP7580.jpg",
+ "related-artworks": [
+  120040104,
+  120040106,
+  120040085,
+  120040087,
+  120040088
+ ],
+ "Provenance": [
+  "Mme Achille Jubinal"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120040086"
+  }
+ }
+}

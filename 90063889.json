@@ -1,0 +1,30 @@
+{
+ "Date": "17th century",
+ "Medium": "Red chalk, with white chalk highlighting (recto); Red chalk (verso)",
+ "Dimensions": "sheet 8 7/16 x 6 5/16 in. (21.4 x 16 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund",
+ "Accession Number": "60.620.200",
+ "Who": "Anonymous, Italian, 17th century",
+ "What": [
+  "Drawings",
+  "Chalk"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90063889,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802717.jpg",
+ "related-artworks": [
+  90005802,
+  90007076,
+  90007122,
+  90009290,
+  90009378
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90063889"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Date": "n.d.",
+ "Medium": "Etching",
+ "Dimensions": "sheet 6 1/4 x 4 5/16 in. (15.8 x 10.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.1430",
+ "Who": "Romeyn de Hooghe",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90050048,
+ "related-artworks": [
+  90008859,
+  90011395,
+  90033727,
+  90039941,
+  90039949
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050048"
+  }
+ }
+}

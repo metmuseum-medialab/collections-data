@@ -1,0 +1,33 @@
+{
+ "Date": "1940–49",
+ "Culture": "American or European",
+ "Medium": "cotton",
+ "Dimensions": "Length 13 1/4 in. (33.7 cm)",
+ "Credit Line": "Gift of Mrs. Samuel M.V. Hamilton from the Estate of Mrs. William Coxe Wright, 1978",
+ "Accession Number": "1978.161.8a, b",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Gloves"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80052678,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.161.8ab.jpg",
+ "related-artworks": [
+  80038093,
+  80038284,
+  80052855,
+  80052921,
+  80054414
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052678"
+  }
+ }
+}

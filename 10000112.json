@@ -1,0 +1,43 @@
+{
+ "Date": "1803–28",
+ "Geography": "New England, Boston, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Brass",
+ "Dimensions": "18 1/2 x 17 in. (47 x 43.2 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.160.374",
+ "Who": "James Davis",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Brass",
+  "Andirons"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Boston"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000112,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/126257.jpg",
+ "related-artworks": [
+  10000113,
+  90015829,
+  10000114
+ ],
+ "Provenance": [
+  "W. Gedney Beatty, Rye, New York, until died 1941"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000112"
+  }
+ }
+}

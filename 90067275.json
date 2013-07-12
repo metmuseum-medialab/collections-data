@@ -1,0 +1,47 @@
+{
+ "Date": "16th century",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 7 13/16 x 10 1/4 in. (19.8 x 26 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.4222",
+ "Who": "Giulio Bonasone",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Heroes in Italian Mythological Prints",
+ "id": 90067275,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP812464.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90013206"
+   },
+   {
+    "href": "http://scrapi.org/object/90018680"
+   },
+   {
+    "href": "http://scrapi.org/object/90022009"
+   },
+   {
+    "href": "http://scrapi.org/object/90024970"
+   },
+   {
+    "href": "http://scrapi.org/object/90032387"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90067275"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90067275"
+  }
+ }
+}

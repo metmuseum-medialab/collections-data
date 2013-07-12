@@ -1,0 +1,39 @@
+{
+ "Date": "mid-19th century",
+ "Culture": "Japan",
+ "Dimensions": "H. 1 1/4 in. (3.2 cm); W. 6 1/2 in. (16.5 cm)",
+ "Classification": "Lacquer",
+ "Credit Line": "Bequest of Stephen Whitney Phoenix, 1881",
+ "Accession Number": "81.1.563",
+ "What": [
+  "Drinking vessels",
+  "Cups",
+  "Lacquer",
+  "Wine cups"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60028926,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/81_1_563_T.jpg",
+ "related-artworks": [
+  60028930,
+  60028948,
+  60028957,
+  60028958,
+  60028925
+ ],
+ "Provenance": [
+  "Stephen Whitney Phoenix , New York (until d. 1881)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028926"
+  }
+ }
+}

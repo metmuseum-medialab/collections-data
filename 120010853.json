@@ -1,0 +1,57 @@
+{
+ "Date": "1730–40",
+ "Culture": "German, Silesia",
+ "Medium": "Glass",
+ "Dimensions": "H. 4 9/16 in.  (11.6 cm); Diam. 2 3/4 in. (7.0 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Munsey Fund, 1927",
+ "Accession Number": "27.185.259",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Beakers"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010853,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/69663.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120001525",
+  "http://scrapi.org/object/120001590",
+  "http://scrapi.org/object/120006356",
+  "http://scrapi.org/object/120010638",
+  "http://scrapi.org/object/120010639"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Jacques Mühsam (until 1927)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120001525"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120001590"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120006356"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120010638"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120010639"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120010853"
+  }
+ }
+}

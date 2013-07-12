@@ -1,0 +1,46 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19",
+ "Reign": "reign of Seti I",
+ "Date": "ca. 1294–1279 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes",
+ "Medium": "Tempera on paper",
+ "Dimensions": [
+  "Facsimile H. 66 cm (26 in); w. 102 cm (40 3/16 in)",
+  "scale 11",
+  "Framed H. 68.3 cm (26 7/8 in); w. 103.8 cm (40 7/8 in)"
+ ],
+ "Credit Line": "Rogers Fund, 1915",
+ "Accession Number": "15.5.18",
+ "Who": "Norman de Garis Davies",
+ "What": [
+  "Paper",
+  "Tempera",
+  "Facsimiles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100015662,
+ "gallery-id": 135,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs2908.jpg",
+ "related-artworks": [
+  100005334,
+  100015705,
+  100000872,
+  100000891,
+  100000900
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100015662"
+  }
+ }
+}

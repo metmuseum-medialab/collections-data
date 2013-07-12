@@ -1,0 +1,45 @@
+{
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1927",
+ "Accession Number": "27.78.2",
+ "Who": "Parmigianino (Girolamo Francesco Maria Mazzola)",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Lovers in Italian Mythological Prints",
+  "The Birth and Infancy of Christ in Italian Painting",
+  "Sixteenth–Century Painting in Emilia–Romagna",
+  "The Printed Image in the West History and Techniques",
+  "Leonardo da Vinci (1452–1519)",
+  "Renaissance Drawings Material and Function",
+  "Mannerism Bronzino (1503–1572) and his Contemporaries",
+  "Profane Love and Erotic Art in the Italian Renaissance",
+  "Portraiture in Renaissance and Baroque Europe"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90039017,
+ "related-artworks": [
+  90003731,
+  90003732,
+  90003733,
+  90003758,
+  90025961
+ ],
+ "Provenance": [
+  "Pierre Jean Mariette (French, Paris 1694–1774 Paris)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90039017"
+  }
+ }
+}

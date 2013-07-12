@@ -1,0 +1,39 @@
+{
+ "Date": "fourth quarter 19th century",
+ "Culture": "Italian (probably)",
+ "Medium": "mother-of-pearl, parchment, gouache, metal",
+ "Dimensions": "11 in. (27.9 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of George Arents in memory of Annie Walter Arents, 1949",
+ "Accession Number": "2009.300.1820",
+ "What": [
+  "Metal",
+  "Costume",
+  "Paintings",
+  "Fans",
+  "Gouaches",
+  "Pearl",
+  "Parchment"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80094433,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/49.22.71_front_CP4.jpg",
+ "related-artworks": [
+  80094428,
+  80094275,
+  80094252,
+  80094431,
+  80094422
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80094433"
+  }
+ }
+}

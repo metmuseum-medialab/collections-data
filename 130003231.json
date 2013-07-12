@@ -1,0 +1,42 @@
+{
+ "Period": "Classical",
+ "Date": "5th-4th century B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Gold",
+ "Dimensions": "Other 13/16 in. (2.1 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.3331",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Beads"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "id": 130003231,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP135985.jpg",
+ "related-artworks": [
+  130003086,
+  130003085,
+  130003087,
+  130003167,
+  130003187
+ ],
+ "Description": "The object may have been one of the finials of a bracelet with an animal's head at each end of the hoop. This type of jewelry was common through much of the Mediterranean world including Cyprus.",
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130003231"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Artist": "Graham Lusk",
+ "Date": "1891",
+ "Geography": "Mid-Atlantic, New York, New York",
+ "Culture": "American",
+ "Medium": "parchment and brass",
+ "Classification": "Natural Substances",
+ "Credit Line": "Anonymous Gift, 2010",
+ "Accession Number": "2010.286.2",
+ "Who": [
+  "Tiffany & Co.",
+  "Graham Lusk"
+ ],
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Brass",
+  "Scrolls",
+  "Parchment"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10024028,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP235582.jpg",
+ "related-artworks": [
+  10003962,
+  10008444,
+  10009092,
+  10005570,
+  10002146
+ ],
+ "Provenance": [
+  "Mr. and Mrs. Charles L. Tiffany",
+  "by descent to their great-great grandson, Graham Lusk."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10024028"
+  }
+ }
+}

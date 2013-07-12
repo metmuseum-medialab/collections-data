@@ -1,0 +1,50 @@
+{
+ "Editor": "Translated and edited by Marchese Luigi Marini (Italian)",
+ "Engraver": "Engraved by Francesco Troiani (Italian)",
+ "Publisher": "Published by Marchese Luigi Marini (Italian)",
+ "Date": "1836–37",
+ "Medium": "Printed book with engraved illustrations",
+ "Classification": "Books",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.100.420.1–.3",
+ "Who": [
+  "Marcus Pollio Vitruvius",
+  "Giacomo Fontana",
+  "Marchese Luigi Marini",
+  "A. Fornari",
+  "A. Pesenti",
+  "Carol. Ruspi",
+  "Francesco Troiani",
+  "Philippo Ferrari",
+  "Pietro Fontana"
+ ],
+ "What": [
+  "Engraving",
+  "Books",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90044608,
+ "related-artworks": [
+  90042410,
+  90042409,
+  90042542,
+  90044415,
+  90044411
+ ],
+ "Provenance": [
+  "William Gedney Beatty"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90044608"
+  }
+ }
+}

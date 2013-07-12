@@ -1,0 +1,39 @@
+{
+ "Design House": "Miyake Design Studio (Japanese)",
+ "Date": "1984",
+ "Culture": "Japanese",
+ "Medium": "cotton/synthetic blend",
+ "Dimensions": "Length at Side Seam 38 in. (96.5 cm)",
+ "Credit Line": "Gift of Susan K. Manno, 2005",
+ "Accession Number": "2005.173.15",
+ "Who": [
+  "Issey Miyake",
+  "Miyake Design Studio"
+ ],
+ "What": "Cotton",
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Miyake, Kawakubo, and Yamamoto Japanese Fashion in the Twentieth Century",
+  "Japan, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80051510,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2005.173.15_F.jpg",
+ "related-artworks": [
+  80000210,
+  80000289,
+  80001114,
+  80001533,
+  80001880
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80051510"
+  }
+ }
+}

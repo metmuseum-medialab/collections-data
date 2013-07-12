@@ -1,0 +1,42 @@
+{
+ "Date": "1919",
+ "Medium": "Silver",
+ "Dimensions": [
+  "H. 8-7/8, W. 9-7/8 inches",
+  "(22.5 x 25.1 cm)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, Edward C. Moore Jr. Gift, 1923",
+ "Accession Number": "23.179.1-2",
+ "Who": "Georg Jensen",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Lighting devices",
+  "Candleholders",
+  "Candelabras"
+ ],
+ "Where": [
+  "Europe",
+  "Denmark"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210007541,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf23.179.1-2.jpg",
+ "related-artworks": [
+  210009409,
+  210009410,
+  210009399,
+  210004413,
+  210007412
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210007541"
+  }
+ }
+}

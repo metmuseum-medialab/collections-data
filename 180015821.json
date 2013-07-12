@@ -1,0 +1,42 @@
+{
+ "Period": "Pre-Columbian",
+ "Date": "1300–1550",
+ "Geography": "Colombia?",
+ "Medium": "Ceramic",
+ "Dimensions": "L. 13.2 cm (5-1/4 in.); W. 5.3 cm (2-1/8 in.);  D. 5.1 cm (2 in.)",
+ "Classification": "Aerophone-Blow Hole",
+ "Credit Line": "Purchase, Robert Alonzo Lehman Bequest, 2002",
+ "Accession Number": "2002.109",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Musical instruments",
+  "Aerophones",
+  "Flutes",
+  "Vessel flutes",
+  "Ocarinas"
+ ],
+ "Where": [
+  "South America",
+  "Colombia"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": [
+  "Northern Andes, 1000–1400 A.D.",
+  "Northern Andes, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 180015821,
+ "related-artworks": [
+  180015011,
+  180015013,
+  180015015,
+  180015027,
+  180014925
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180015821"
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "Artist": "Giovanni Battista Tiepolo (Italian, Venice 1696–1770 Madrid)",
+ "Date": "ca. 1770",
+ "Medium": "Etching",
+ "Dimensions": "sheet 16 1/8 x 10 3/4 in. (41 x 27.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1917",
+ "Accession Number": "17.72.35",
+ "Who": [
+  "Giovanni Battista Tiepolo",
+  "Lorenzo Tiepolo"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002577,
+ "related-artworks": [
+  "http://scrapi.org/object/90002564",
+  "http://scrapi.org/object/90002566",
+  "http://scrapi.org/object/90002568",
+  "http://scrapi.org/object/90002570",
+  "http://scrapi.org/object/90002574"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002564"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002566"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002568"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002570"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002574"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90002577"
+  }
+ }
+}

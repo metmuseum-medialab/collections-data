@@ -1,0 +1,37 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Silk on silk",
+ "Dimensions": "L. 28 1/2 x W. 28 inches (72.4 x 71.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Source unknown",
+ "Accession Number": "X.367",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120048545,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/166229.jpg",
+ "related-artworks": [
+  120013696,
+  120014807,
+  120014810,
+  120014808,
+  120016670
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120048545"
+  }
+ }
+}

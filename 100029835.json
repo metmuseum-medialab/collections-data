@@ -1,0 +1,41 @@
+{
+ "Period": "Old Kingdom–New Kingdom",
+ "Dynasty": "Dynasty 8–18",
+ "Date": "ca. 2649–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, MMA",
+ "Medium": "Flint",
+ "Dimensions": "l. 11.8 cm (4 5/8 in)",
+ "Credit Line": "Rogers Fund and Edward S. Harkness Gift, 1922",
+ "Accession Number": "22.1.927",
+ "What": [
+  "Knives",
+  "Flint"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100029835,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/22.1.927jk.jpg",
+ "related-artworks": [
+  100029848,
+  100029849,
+  100034101,
+  100029858,
+  100029860
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100029835"
+  }
+ }
+}

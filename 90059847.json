@@ -1,0 +1,40 @@
+{
+ "Artist": "After Maerten de Vos (Netherlandish, Antwerp 1532–1603 Antwerp)",
+ "Date": "n.d.",
+ "Medium": "Engraving; first state",
+ "Dimensions": "10 7/8 x 8 3/4 in. (27.6 x 22.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.95.2002",
+ "Who": [
+  "Maerten de Vos",
+  "Nicolaes de Bruyn"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Low Countries, 1400–1600 A.D.",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90059847,
+ "related-artworks": [
+  90006063,
+  90008149,
+  90024380,
+  90040635,
+  90059568
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90059847"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "1800–1900",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": "L. 12 1/2 in. (31.8 cm)",
+ "Classification": "Silver",
+ "Credit Line": "Gift of Frederic Ashton de Peyster, 1946",
+ "Accession Number": "46.33.17",
+ "What": [
+  "Metal",
+  "Silver",
+  "Servers",
+  "Fish slices"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10003790,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/135958.jpg",
+ "related-artworks": [
+  10003789,
+  10000399,
+  10000400,
+  10000401,
+  10000376
+ ],
+ "Provenance": [
+  "Frederic Ashton de Peyster, New York, until 1946"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003790"
+  }
+ }
+}

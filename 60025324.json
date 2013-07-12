@@ -1,0 +1,48 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "probably 1821",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print (surimono); ink and color on paper",
+ "Dimensions": "7 3/4 x 6 7/8 in. (19.7 x 17.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Howard Mansfield Collection, Purchase, Rogers Fund, 1936",
+ "Accession Number": "JP2578",
+ "Who": "Katsushika Hokusai",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Surimono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japonisme",
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Art of the Pleasure Quarters and the Ukiyo–e Style",
+  "Art of the Edo Period (1615–1868)",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60025324,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP123641.jpg",
+ "related-artworks": [
+  60025244,
+  60025322,
+  60025221,
+  60025490,
+  60025572
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60025324"
+  }
+ }
+}

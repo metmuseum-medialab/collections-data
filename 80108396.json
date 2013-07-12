@@ -1,0 +1,36 @@
+{
+ "Date": "1930–35",
+ "Culture": "American",
+ "Medium": "Metal, glass, mineral",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Lauren Bacall, 1986",
+ "Accession Number": "2009.300.5988a, b",
+ "What": [
+  "Metal",
+  "Costume",
+  "Glass",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80108396,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/86.231.8a-b_CP1.jpg",
+ "related-artworks": [
+  80108733,
+  80000376,
+  80024233,
+  80024244,
+  80054467
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108396"
+  }
+ }
+}

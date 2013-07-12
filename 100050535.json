@@ -1,0 +1,43 @@
+{
+ "Period": "Third Intermediate Period",
+ "Dynasty": "Dynasty 21",
+ "Date": "ca. 990–970 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Tomb MMA 60, Chamber B, Burial of Henettawy C , MMA 1923–1924",
+ "Medium": "Faience",
+ "Dimensions": "H. 11.4 x W. 4 x D. 3.4 cm (4 1/2 x 1 9/16 x 1 5/16 in.)",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.3.19.89",
+ "What": [
+  "Sculpture",
+  "Faience",
+  "Shabti"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100050535,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/25.3.19.89_EGDP012512.jpg",
+ "related-artworks": [
+  100008103,
+  100008403,
+  100008404,
+  100011147,
+  100011143
+ ],
+ "Description": "See 25.3.19.",
+ "Provenance": [
+  "Museum excavations 1923–24. Acquired by the Museum in the division of finds, 1925."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100050535"
+  }
+ }
+}

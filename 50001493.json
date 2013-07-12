@@ -1,0 +1,40 @@
+{
+ "Geography": "Peru",
+ "Culture": "Peruvian; north coast (?)",
+ "Medium": "Ceramic",
+ "Dimensions": "Diameter 5/8 in. (1.7 cm)",
+ "Classification": "Ceramics-Implements",
+ "Credit Line": "Gift of Nathan Cummings, 1964",
+ "Accession Number": "64.228.413",
+ "Who": "Peruvian",
+ "What": [
+  "Ceramics",
+  "Spindles",
+  "Whorls"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "MetPublications": "Search for related Met publications",
+ "id": 50001493,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/64.228.413.jpg",
+ "related-artworks": [
+  50001490,
+  50001491,
+  50001480,
+  50001422,
+  50001421
+ ],
+ "Provenance": [
+  "Bruno J. Wassermann-San Blas Collection, Buenos Aires, Argentina, acquired by 1938, until 1954",
+  "Nathan Cummings, Chicago, 1954–1964"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50001493"
+  }
+ }
+}

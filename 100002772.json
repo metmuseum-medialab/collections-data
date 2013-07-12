@@ -1,0 +1,39 @@
+{
+ "Period": "Predynastic Period",
+ "Date": "ca. 3850–2960 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Pottery",
+ "Credit Line": "Gift of Albert Gallatin, 1942",
+ "Accession Number": "42.5.6",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Jars"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100002772,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/42.5.6_EGDP010257.jpg",
+ "related-artworks": [
+  100002327,
+  100002595,
+  100002775,
+  100002777,
+  100003772
+ ],
+ "Provenance": [
+  "Donated to the Museum by Albert Gallatin, 1942."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100002772"
+  }
+ }
+}

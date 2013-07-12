@@ -1,0 +1,39 @@
+{
+ "Date": "1930",
+ "Medium": "Eathenware with alkaline glaze",
+ "Dimensions": [
+  "H. 1-1/2, D. 3-1/4 inches",
+  "(3.8 x 8.3 cm.)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase, Edward C. Moore Jr. Gift, 1940",
+ "Accession Number": "40.35.2",
+ "Who": "Lea Henny Halpern",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Glaze",
+  "Bowls"
+ ],
+ "Where": [
+  "Europe",
+  "Denmark"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210008180,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf40.35.2.jpg",
+ "related-artworks": [
+  210008179,
+  210007441,
+  210021615,
+  210008103
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210008180"
+  }
+ }
+}

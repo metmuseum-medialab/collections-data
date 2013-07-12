@@ -1,0 +1,62 @@
+{
+ "Decorator": "Decorator Flower painting by Nicolas Bulidon (active 1763–92)",
+ "Maker": "Gilding by Michel-Barnabé Chauvaux (active 1752–88)",
+ "Date": "1777",
+ "Culture": "French, Sèvres",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "Bowl with cover (.136ab) H. 4 1/8 in. (10.5 cm.); Tray (.136c): L. 7 3/4 in. (19.7 cm.), W. 6 3/4 in. (17.1 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of John L. Cadwalader, 1914",
+ "Accession Number": "14.58.136a–c",
+ "Who": [
+  "Sèvres Manufactory",
+  "Michel-Barnabé Chauvaux",
+  "Nicolas Bulidon"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Furniture",
+  "Bowls",
+  "Soft paste porcelain",
+  "Stands",
+  "Plateaus",
+  "Écuelles"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Sèvres"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Jean–Baptiste Carpeaux (1827–1875)",
+  "French Furniture in the Eighteenth Century Case Furniture",
+  "Saint Petersburg",
+  "Sèvres Porcelain in the Nineteenth Century",
+  "Louis–Rémy Robert (1810–1882)",
+  "Exoticism in the Decorative Arts",
+  "Art Nouveau",
+  "Empire Style, 1800–1815",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120007529,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/22167.jpg",
+ "related-artworks": [
+  120022535,
+  120022550,
+  120022551,
+  120022533,
+  120022534
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120007529"
+  }
+ }
+}

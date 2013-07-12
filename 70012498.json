@@ -1,0 +1,46 @@
+{
+ "Date": "1150–75",
+ "Geography": "Made in Unciti, Navarre, Spain",
+ "Culture": "Spanish",
+ "Medium": "Limestone",
+ "Dimensions": "Overall 31 x 60 1/4 x 8 in. (78.7 x 153 x 20.3 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Cloisters Collection, 1965",
+ "Accession Number": "65.122.1",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Lintels"
+ ],
+ "Where": [
+  "Europe",
+  "Spain",
+  "Navarre"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70012498,
+ "gallery-id": 1,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi65-122-1-2.jpg",
+ "related-artworks": [
+  70012499,
+  70012001,
+  70011244,
+  70011742,
+  70010463
+ ],
+ "Provenance": [
+  "From the Church of Errondo, near Unciti[ James Montllor, Inc. , New York (by 1941–sold 1942)]",
+  "[ Brummer Gallery , Paris and New York (1942–sold 1949)]",
+  "Joseph Brummer Collection sale, Parke-Bernet Galleries , New York (part III, June 8-9, 1949, no. 523)",
+  "Paula de Koenigsberg , Buenos Aires (by 1951)",
+  "by descent, Nicolas de Koenigsberg II , New York (sold 1965)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70012498"
+  }
+ }
+}

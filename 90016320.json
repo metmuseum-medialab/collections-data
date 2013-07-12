@@ -1,0 +1,27 @@
+{
+ "Date": "May 1, 1901",
+ "Classification": "Books",
+ "Credit Line": "Gift of William Henry Riggs, 1914",
+ "Accession Number": "14.2",
+ "Who": "Louis Dourliac",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90016320,
+ "related-artworks": [
+  90000001,
+  90000402,
+  90000506,
+  90000530,
+  90000618
+ ],
+ "Provenance": [
+  "Donor: William Henry Riggs"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90016320"
+  }
+ }
+}

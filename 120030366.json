@@ -1,0 +1,40 @@
+{
+ "Date": "18th century",
+ "Culture": "Sicilian",
+ "Medium": "Drawnwork",
+ "Dimensions": [
+  "L. 63 x W. 13 1/2 inches",
+  "160.0 x 34.3 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Margaret Taylor Johnstone, 1906",
+ "Accession Number": "06.481",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Sicily"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120030366,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP5446.jpg",
+ "related-artworks": [
+  120036539,
+  120036540,
+  120029927,
+  120029928,
+  120033036
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120030366"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Period": "late Tang (618–907)–early Song (960–1279) dynasty",
+ "Culture": "China",
+ "Medium": "Wood",
+ "Dimensions": "H. 15 1/8 in. (38.4 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1928",
+ "Accession Number": "28.141",
+ "What": [
+  "Sculpture",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D.",
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60032864,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/28_141_TQ.JPG",
+ "related-artworks": [
+  60000102,
+  60004460,
+  60004539,
+  60004559,
+  60004575
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60032864"
+  }
+ }
+}

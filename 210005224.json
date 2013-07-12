@@ -1,0 +1,36 @@
+{
+ "Date": "1986",
+ "Medium": "Sterling silver",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Cleto Munari, 1988",
+ "Accession Number": "1988.191.8",
+ "Who": "Mario Botta",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Silver alloy",
+  "Sterling silver",
+  "Carafes"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210005224,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1988.191.8.9.jpg",
+ "related-artworks": [
+  210005225,
+  210005204,
+  210005267
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210005224"
+  }
+ }
+}

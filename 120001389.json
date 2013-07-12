@@ -1,0 +1,46 @@
+{
+ "Date": "1670–75",
+ "Culture": "German (Augsburg)",
+ "Medium": "Silver gilt",
+ "Dimensions": "7 5/8 in.  (19.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mrs. Lucy W. Drexel, 1889",
+ "Accession Number": "89.2.28",
+ "Who": "Hans Jacob Mair",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Drinking vessels",
+  "Tankards"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Augsburg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001389,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/17221.jpg",
+ "related-artworks": [
+  120006506,
+  120006504,
+  120006505,
+  120006364,
+  120007848
+ ],
+ "Provenance": [
+  "Lucy W. Drexel (until 1889",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001389"
+  }
+ }
+}

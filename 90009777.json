@@ -1,0 +1,49 @@
+{
+ "Artist": "After Raphael (Raffaello Sanzio or Santi) (Italian, Urbino 1483–1520 Rome)",
+ "Date": "ca. 1500–1534",
+ "Medium": "Engraving",
+ "Dimensions": "6 13/16 x 5 3/8 in.  (17.3 x 13.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "35.56.19",
+ "Who": [
+  "Raphael (Raffaello Sanzio  Santi)",
+  "Marcantonio Raimondi"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Profane Love and Erotic Art in the Italian Renaissance",
+  "The Papacy and the Vatican Palace",
+  "The Printed Image in the West History and Techniques",
+  "Lovers in Italian Mythological Prints",
+  "Poets in Italian Mythological Prints",
+  "The Rediscovery of Classical Antiquity",
+  "Heroes in Italian Mythological Prints"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90009777,
+ "related-artworks": [
+  90008249,
+  90009694,
+  90009696,
+  90009698,
+  90009699
+ ],
+ "Provenance": [
+  "George Hibbert (British, Manchester 1757–1837)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90009777"
+  }
+ }
+}

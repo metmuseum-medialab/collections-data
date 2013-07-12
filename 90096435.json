@@ -1,0 +1,59 @@
+{
+ "Date": "ca. 1889",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 5/8 x 1 7/16 in. (6.6 x 3.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 257, C190.3",
+ "Who": "American Cigarette Company, Ltd.",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "Canada"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90096435,
+ "gallery-id": 773,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP827520.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90096434",
+  "http://scrapi.org/object/90096431",
+  "http://scrapi.org/object/90096436",
+  "http://scrapi.org/object/90096437",
+  "http://scrapi.org/object/90096439"
+ ],
+ "related-images": [],
+ "Description": "Insert cards from the series \"Sports Girls\" (C190), issued ca. 1890 in Canada by the American Cigarette Company, Ltd., Montreal, to promote Gloria Cigarettes. The set has two variations of markings on verso and some card backs are blank. The Canadian issue (C190) is similar to the the American series \"Sports Girls\" (N463). Although entitled \"Sports Girls,\" the series depicts women playing sports as well as chorus girls in costume.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90096434"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90096431"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90096436"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90096437"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90096439"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90096435"
+  }
+ }
+}

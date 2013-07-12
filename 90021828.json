@@ -1,0 +1,29 @@
+{
+ "Date": "[1799]",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1940",
+ "Accession Number": "40.76.4",
+ "Who": "G. Millan",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021828,
+ "related-artworks": [
+  90024365,
+  90000025,
+  90000304,
+  90000317
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021828"
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "Date": "1845",
+ "Medium": "Woodcut",
+ "Dimensions": "6 15/16 x 5 9/16 x 7/8 in. (17.6 x 14.1 x 2.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Bella C. Landauer, 1925",
+ "Accession Number": "49.130.4",
+ "Who": "R. S. H. George",
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012165,
+ "Provenance": [
+  "Donor: Bella C. Landauer (American, New York 1874–1960)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90011631"
+   },
+   {
+    "href": "http://scrapi.org/object/90011632"
+   },
+   {
+    "href": "http://scrapi.org/object/90011635"
+   },
+   {
+    "href": "http://scrapi.org/object/90014735"
+   },
+   {
+    "href": "http://scrapi.org/object/90014920"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90012165"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90012165"
+  }
+ }
+}

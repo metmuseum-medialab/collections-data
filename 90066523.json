@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1650",
+ "Medium": "Etching and drypoint",
+ "Dimensions": "sheet 2 5/8 x 6 15/16 in. (6.7 x 17.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harold K. Hochschild, 1940",
+ "Accession Number": "40.63.2",
+ "Who": "Rembrandt (Rembrandt van Rijn)",
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90066523,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP814744.jpg",
+ "related-artworks": [
+  90004088,
+  90010392,
+  90010393,
+  90010394,
+  90010399
+ ],
+ "Provenance": [
+  "Donor: Harold K. Hochschild (New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90066523"
+  }
+ }
+}

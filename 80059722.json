@@ -1,0 +1,35 @@
+{
+ "Date": "1915–30",
+ "Culture": "French",
+ "Medium": "metal",
+ "Dimensions": "Length 2 1/2 in. (6.4 cm) x Width: 1 7/8 in. (4.8 cm)",
+ "Credit Line": "Gift of Marjorie B. Garfield, 1980",
+ "Accession Number": "1980.173.9a, b",
+ "What": [
+  "Metal",
+  "Shoes",
+  "Buckles"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80059722,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1980.173.9ab.jpg",
+ "related-artworks": [
+  80038475,
+  80038469,
+  80059711,
+  80059695,
+  80059696
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80059722"
+  }
+ }
+}

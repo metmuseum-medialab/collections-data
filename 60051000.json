@@ -1,0 +1,58 @@
+{
+ "Period": "Ming dynasty (1368–1644)",
+ "Date": "16th century",
+ "Culture": "China",
+ "Medium": "Silk and metallic(?) thread",
+ "Dimensions": "Overall 13 1/4 x 4 3/4 x 1/4 in. (33.7 x 12.1 x 0.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase, Friends of Asian Art Gifts, in honor of James C. Y. Watt, 2011",
+ "Accession Number": "2011.221.33",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1400–1600 A.D.",
+  "Central and North Asia, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60051000,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2011_221_33_Strm1.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/60006990",
+  "http://scrapi.org/object/60006997",
+  "http://scrapi.org/object/60010095",
+  "http://scrapi.org/object/60011695",
+  "http://scrapi.org/object/60011696"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60006990"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60006997"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60010095"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60011695"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60011696"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60051000"
+  }
+ }
+}

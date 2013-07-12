@@ -1,0 +1,49 @@
+{
+ "Date": "1904",
+ "Medium": "Graphite and watercolor on paper",
+ "Dimensions": "5 1/4 x 8 1/4 in. (13.3 x 21 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mrs. Francis Ormond, 1950",
+ "Accession Number": "50.130.150ff",
+ "Who": "Mary Newbold Sargent",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Graphite"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "id": 20012884,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/219402.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/20012846",
+  "http://scrapi.org/object/20012854",
+  "http://scrapi.org/object/20012857",
+  "http://scrapi.org/object/20012859",
+  "http://scrapi.org/object/20012860"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/20012846"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/20012854"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/20012857"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/20012859"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/20012860"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/20012884"
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "Date": "1757",
+ "Medium": "Oil on canvas",
+ "Dimensions": "67 3/4 x 91 3/4 in. (172.1 x 233 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gwynne Andrews Fund, 1952",
+ "Accession Number": "52.63.2",
+ "Who": "Giovanni Paolo Panini",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "The French Academy in Rome",
+  "The Grand Tour"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110001693,
+ "gallery-id": 620,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT1403.jpg",
+ "related-artworks": [
+  110001692,
+  110001694,
+  90004539,
+  90007544,
+  90007545
+ ],
+ "Provenance": [
+  "?Hubert Robert (until d. 1808",
+  "sale, Paillet, Paris, April 5, 1809, no. 9, as \"Rome antique\" and \"Rome moderne,\" each 64 x 74 pouces [68 x 77 in.], purchased by Paillet before auction for Fr 2,801)",
+  "?[Alexandre Paillet, Paris, 1809–14",
+  "posthumous sale, Paris, June 2, 1814, no. 47, as \"Rome antique\" and \"Rome moderne\", each 64 x 72 pouces, for Fr 1,000]",
+  "?Casimir Périer, Paris",
+  "Arnold Baruchson, Liverpool (in 1857)",
+  "A. Murray (until 1877",
+  "sale, Christie's, March 17, 1877, no. 115, \"Ancient Rome,\" £152.5.0 to Lesser",
+  "no. 116, \"Renaissance Rome,\" £189.0.0 to Waters)",
+  "[Sedelmeyer, Paris, in 1896]",
+  "Camille Groult, Paris (until d. 1908)",
+  "Groult collection (1908–52",
+  "sale, Galerie Charpentier, Paris, March 21, 1952, nos. 87 [\"Rome Antique,\" 52.63.1] and 88 [\"Rome au Temps de la Renaissance,\" 52.63.2], to Cailleux for MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001693"
+  }
+ }
+}

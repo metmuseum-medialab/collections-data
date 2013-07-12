@@ -1,0 +1,47 @@
+{
+ "Date": "7th–4th century BCE",
+ "Geography": "Peru",
+ "Culture": "Paracas",
+ "Medium": "Ceramic, post-fired paint",
+ "Dimensions": [
+  "Overall 6 3/8 in. (16.19 cm)",
+  "Other 4 15/16 in. (12.5 cm)"
+ ],
+ "Classification": "Ceramics-Containers",
+ "Credit Line": "Gift of Nathan Cummings, 1963",
+ "Accession Number": "63.232.8",
+ "Who": [
+  "Early horizon",
+  "Paracas"
+ ],
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Bottles"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50000993,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/63.232.8.jpg",
+ "related-artworks": [
+  50000186,
+  50000432,
+  50000434,
+  50000859,
+  50000861
+ ],
+ "Provenance": [
+  "Nathan Cummings, Chicago,  until 1963"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000993"
+  }
+ }
+}

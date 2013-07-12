@@ -1,0 +1,40 @@
+{
+ "Date": "probably 8th–12th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware; glazed",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1948",
+ "Accession Number": "48.101.79b",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Glazing",
+  "Beads"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 500–1000 A.D.",
+  "Iran, 1000–1400 A.D."
+ ],
+ "id": 140008123,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf48-101-191.jpg",
+ "related-artworks": [
+  140016460,
+  140016463,
+  140008168,
+  140016458,
+  140016459
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008123"
+  }
+ }
+}

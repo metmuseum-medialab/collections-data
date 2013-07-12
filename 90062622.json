@@ -1,0 +1,52 @@
+{
+ "Artist": "Anonymous, Flemish, 17th century",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 7 11/16 x 8 1/16 in. (19.5 x 20.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.601.339",
+ "Who": [
+  "Pieter Bruegel the Elder",
+  "Lucas Vorsterman I",
+  "Anonymous, Flemish, 17th century"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90062622,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818321.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90039639"
+   },
+   {
+    "href": "http://scrapi.org/object/90039651"
+   },
+   {
+    "href": "http://scrapi.org/object/90062044"
+   },
+   {
+    "href": "http://scrapi.org/object/90062027"
+   },
+   {
+    "href": "http://scrapi.org/object/90062057"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90062622"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90062622"
+  }
+ }
+}

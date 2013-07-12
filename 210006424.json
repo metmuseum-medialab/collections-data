@@ -1,0 +1,39 @@
+{
+ "Date": "1985",
+ "Medium": "Watercolor on paper",
+ "Dimensions": [
+  "H. 9-1/2, W. 9-3/4 inches",
+  "(24.1 x 24.8 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Joseph H. Hazen Foundation Purchase Fund, in honor of Cynthia Hazen Polsky, 1993",
+ "Accession Number": "1993.218.1",
+ "Who": "Francesco Clemente",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210006424,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1993.218.1.jpg",
+ "related-artworks": [
+  210006425,
+  210006426,
+  210006427,
+  210006428,
+  210012856
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006424"
+  }
+ }
+}

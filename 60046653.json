@@ -1,0 +1,45 @@
+{
+ "Period": "Republic period",
+ "Date": "dated 1968",
+ "Culture": "China",
+ "Medium": "Album leaf; ink on paper",
+ "Dimensions": [
+  "Image 10 13/16 x 23 1/16 in. (27.5 x 58.5 cm)",
+  "Framed 17 11/16 x 38 3/16 in. (45 x 97 cm)"
+ ],
+ "Classification": "Calligraphy",
+ "Credit Line": "The Lin Yutang Family Collection, Gift of Richard M. Lai, Jill Lai Miller, and Larry C. Lai, in memory of Taiyi Lin Lai, 2005",
+ "Accession Number": "2005.509.18",
+ "Who": "Lin Yutang",
+ "What": [
+  "Ink",
+  "Paper",
+  "Books",
+  "Albums",
+  "Calligraphy"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60046653,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP146972.jpg",
+ "related-artworks": [
+  60046652,
+  60046655,
+  60047060
+ ],
+ "Description": "In this piece written for his daughter Taiyi, Lin Yutang transcribes a poem by the renowned literatus Su Shi (1037–1101). This poem describes, in a humorous tone, an awkward situation Su Shi encountered when he was banished to Huangzhou(present-day Huanggang, Hubei) from 1080 to 1084. Being locked out of his own house late one night, he transformed his predicament into an aesthetic experience:After a drink at night at Dongpo [in Huangzhou],I wake up and get drunk again;By the time I come home it seems to be midnight.The boy servant is asleep, snoring like thunder,And does not answer the door.Resting on a cane I listen to the murmur of the river.I always regret that I am not master of my own life.When can I stop this hustling about?The night is late, the air is calm, and the water has a sheen of unruffled light.Let me take a small boat down the river hence,To spend beyond the seas the remainder of my days.(trans. after Lin Yutang)Su Shi's self-mockery certainly appealed to Lin Yutang, the Chinese master of humor. In his biography of Su, The Gay Genius: The Life and Times of Su Tungpo (1947), Lin describes him as \"an incorrigible optimist, a great humanitarian, a friend of the people, a prose master, an original painter, a great calligraphist, an experimenter in wine making, an engineer, a hater of Puritanism, a yogi, a Buddhist believer, a Confucian statesman, a secretary to the emperor, a confirmed winebibber, a humane judge, a dissenter in politics, a prowler in the moonlight, a poet, and a wag.\"",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60046653"
+  }
+ }
+}

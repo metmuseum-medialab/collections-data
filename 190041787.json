@@ -1,0 +1,50 @@
+{
+ "Date": "1870s",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "23.7 x 19.2 cm (9 5/16 x 7 9/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Museum Purchase, 2005",
+ "Accession Number": "2005.100.505 (6a)",
+ "Who": "Raimund von Stillfried",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 190041787,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP148484.jpg",
+ "Provenance": [
+  "(Sold, Christie's, South Kensington, June 27, 1985, lot 80)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190015534"
+   },
+   {
+    "href": "http://scrapi.org/object/190015535"
+   },
+   {
+    "href": "http://scrapi.org/object/190015536"
+   },
+   {
+    "href": "http://scrapi.org/object/190036363"
+   },
+   {
+    "href": "http://scrapi.org/object/190039392"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190041787"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190041787"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Cut shell with silver stopper and red stone",
+ "Dimensions": "H. 2 1/2 in. (6.4 cm); W. 2 1/4 in. (5.7 cm)",
+ "Classification": "Snuff Bottles",
+ "Credit Line": "Bequest of Edmund C. Converse, 1921",
+ "Accession Number": "21.175.324a, b",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Silver",
+  "Stone",
+  "Bottles",
+  "Shell",
+  "Snuff containers",
+  "Snuff bottles",
+  "Stoppers"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "id": 60008864,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/21_175_324_O2.JPG",
+ "related-artworks": [
+  60008865,
+  60008867,
+  60008659,
+  60008822,
+  60008868
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60008864"
+  }
+ }
+}

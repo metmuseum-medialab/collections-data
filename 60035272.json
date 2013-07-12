@@ -1,0 +1,41 @@
+{
+ "Period": "Kamakura period (1185–1333)",
+ "Date": "13th century",
+ "Culture": "Japan",
+ "Medium": "Stoneware with ash glaze, fused together in the kiln (Tokoname ware)",
+ "Dimensions": "L. 10 15/16 (27.8 cm); Diam. 6 3/8 in. (16.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase, Olive Lam Fund, 1980",
+ "Accession Number": "1980.152",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Glaze",
+  "Stoneware",
+  "Ceramic glaze",
+  "Ash glaze",
+  "Tokoname"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60035272,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/227566.jpg",
+ "related-artworks": [
+  60035121,
+  60013162,
+  60019921,
+  60035273,
+  60012307
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60035272"
+  }
+ }
+}

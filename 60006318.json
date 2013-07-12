@@ -1,0 +1,42 @@
+{
+ "Period": "Chola period (880–1279)",
+ "Date": "early 11th century",
+ "Culture": "India (Tamil Nadu)",
+ "Medium": "Copper alloy",
+ "Dimensions": "H. 29 7/8 in. (53 cm); W. 21 7/8 in. (55.6 cm); D. 10 1/4 in. (26.2 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Lita Annenberg Hazen Charitable Trust Gift, in honor of Cynthia Hazen and Leon B. Polsky, 1982",
+ "Accession Number": "1982.220.10",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Copper",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Tamil Nadu"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia South, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60006318,
+ "gallery-id": 240,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DT7390.jpg",
+ "related-artworks": [
+  60005922,
+  60006237,
+  60006322,
+  60046236,
+  60050312
+ ],
+ "Description": "Somaskandamurti is one of the most popular religious images in South India. The four-armed Shiva holds a battle-ax and a deer in his upper hands and a citron in his lower left hand. His lower right hand is raised in abhayamudra (the gesture that allays fear). His consort, Parvati, holds a water lily in her right hand. Between them stands Skanda, their infant son, bejeweled and holding a lotus in his right hand. Four rings at the lower corners of the pedestal allowed the sculpture to be secured to a platform in order to be carried in processions. This sculpture would have had a halo, which has not survived.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60006318"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19",
+ "Date": "ca. 1320–1237 B.C.",
+ "Geography": "Country of Origin Egypt, Fayum Entrance Area, Meidum (Maidum)",
+ "Medium": "Limestone",
+ "Dimensions": "H. 31 cm ( 12 3/16 in), W. 28 cm (11 in)",
+ "Credit Line": "Gift of Mrs. G. W. Neville and Miss Cardwell, 1906",
+ "Accession Number": "06.1232.20",
+ "What": [
+  "Figures",
+  "Limestone",
+  "Stelae"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Meidum"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100006764,
+ "gallery-id": 124,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs06.1231.20x.jpg",
+ "related-artworks": [
+  100011209,
+  100011210,
+  100012131,
+  100007971,
+  100030334
+ ],
+ "Description": "The upper part of a stela dedicated to Osiris by a \"servant\" whose name is lost and his wife, Henutnafret. They are accompanied by a row of worshipers depicted below; the last in line carries a tall-necked jar in the form of the Egyptian hieroglyph for good.\" Though much damaged, the stela is well executed in a fine, linear style.",
+ "Provenance": [
+  "Received with a group of material described as excavated at Meidum by John Cardwell 1886-1889 under a permit granted by Tawfik Pasha, and received in partage. Donated to the museum by his daughters in 1906."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100006764"
+  }
+ }
+}

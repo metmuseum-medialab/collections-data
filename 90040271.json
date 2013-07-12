@@ -1,0 +1,40 @@
+{
+ "Date": "1999–2001",
+ "Medium": "Etching and engraving",
+ "Dimensions": [
+  "Plate 6 x 4 inches (15.2 x 10.2 cm) each",
+  "Sheet 12 7/8 x 10 7/8 inches (32.7 x 27.6 cm) each"
+ ],
+ "Classification": "Portfolios",
+ "Credit Line": "John B. Turner Fund, 2005",
+ "Accession Number": "2005.67.1–.9",
+ "Who": "James Siena",
+ "What": [
+  "Etching",
+  "Engraving",
+  "Portfolios"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90040271,
+ "related-artworks": [
+  90075132,
+  90043286,
+  90008043,
+  90035222
+ ],
+ "Provenance": [
+  "Vendor: Harlan & Weaver, Inc. (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90040271"
+  }
+ }
+}

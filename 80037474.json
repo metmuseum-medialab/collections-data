@@ -1,0 +1,52 @@
+{
+ "Date": "1920s",
+ "Culture": "American or European",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Albert Gallatin, 1967",
+ "Accession Number": "C.I.67.48.3",
+ "What": [
+  "Costume",
+  "Negligees"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80037474,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI67.48.3_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/CI67.48.3_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI67.48.3_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI67.48.3_d2.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI67.48.3_d.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI67.48.3_label.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80006233"
+   },
+   {
+    "href": "http://scrapi.org/object/80006695"
+   },
+   {
+    "href": "http://scrapi.org/object/80033712"
+   },
+   {
+    "href": "http://scrapi.org/object/80033718"
+   },
+   {
+    "href": "http://scrapi.org/object/80033859"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80037474"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80037474"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "1662",
+ "Medium": "Etching; third state of three (Mannocci)",
+ "Dimensions": [
+  "sheet 9 13/16 x 13 1/2 in. (25 x 34.3 cm)",
+  "plate 6 3/8 x 8 3/4 in. (16.2 x 22.3 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of David Keppel, 1917",
+ "Accession Number": "17.21.9",
+ "Who": "Claude Lorrain (Claude Gellée)",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90058253,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP816346.jpg",
+ "related-artworks": [
+  90005472,
+  90027879,
+  90028116,
+  90035968,
+  90041799
+ ],
+ "Provenance": [
+  "Donor: David Keppel, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90058253"
+  }
+ }
+}

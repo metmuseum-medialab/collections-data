@@ -1,0 +1,52 @@
+{
+ "Culture": "Greek or Roman",
+ "Medium": "Glass, brown paste",
+ "Dimensions": "Other 7/8 x 7/8 x 1/4 in. (2.2 x 2.3 x 0.6 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.48",
+ "What": [
+  "Sculpture",
+  "Glass",
+  "Faience",
+  "Gems",
+  "Intaglios"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009773,
+ "related-artworks": [
+  "http://scrapi.org/object/130009771",
+  "http://scrapi.org/object/130009778",
+  "http://scrapi.org/object/130009779",
+  "http://scrapi.org/object/130009762",
+  "http://scrapi.org/object/130009769"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130009771"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130009778"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130009779"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130009762"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130009769"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130009773"
+  }
+ }
+}

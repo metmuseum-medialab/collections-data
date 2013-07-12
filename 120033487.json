@@ -1,0 +1,41 @@
+{
+ "Date": "17th century",
+ "Culture": "French",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "3 3/4 x 7 1/4 inches (9.5 x 18.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.431",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120033487,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/34522.jpg",
+ "related-artworks": [
+  120030781,
+  120030820,
+  120033293,
+  120033315,
+  120033956
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120033487"
+  }
+ }
+}

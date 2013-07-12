@@ -1,0 +1,35 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Nepalese",
+ "Classification": "Knives",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.831a, b",
+ "What": [
+  "Knives",
+  "Cases",
+  "Sheaths",
+  "Scabbards"
+ ],
+ "Where": [
+  "Asia",
+  "Nepal"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia and the Himalayan Region, 1800–1900 A.D.",
+  "Himalayan Region, 1600–1800 A.D."
+ ],
+ "id": 40010070,
+ "related-artworks": [
+  40010133,
+  40010208,
+  40012646,
+  40002536,
+  40009885
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40010070"
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "Date": "ca. 1860",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length at CB (a) 31 1/4 in. (79.4 cm)",
+  "Length (b) 47 3/4 in. (121.3 cm)"
+ ],
+ "Credit Line": "Purchase, Irene Lewisohn Bequest, 1975",
+ "Accession Number": "1975.34.13a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Suits",
+  "Lounges",
+  "Lounge suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80014229,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1975.34.13ab_F.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80005973",
+  "http://scrapi.org/object/80036715",
+  "http://scrapi.org/object/80036750",
+  "http://scrapi.org/object/80031978",
+  "http://scrapi.org/object/80031979"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1975.34.13ab_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1975.34.13ab_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1975.34.13a_d.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80005973"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80036715"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80036750"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80031978"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80031979"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80014229"
+  }
+ }
+}

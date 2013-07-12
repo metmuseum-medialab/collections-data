@@ -1,0 +1,33 @@
+{
+ "Date": "1933",
+ "Culture": "American",
+ "Medium": "Wool",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Charles M. Krekel, 1957",
+ "Accession Number": "2009.300.7032a–c",
+ "Who": "Saks Fifth Avenue",
+ "What": [
+  "Costume",
+  "Wool",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80115290,
+ "related-artworks": [
+  80015272,
+  80005847,
+  80006239,
+  80017293,
+  80017442
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80115290"
+  }
+ }
+}

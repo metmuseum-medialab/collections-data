@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Culture": "Tibet",
+ "Medium": "Silver and jade",
+ "Dimensions": "9 1/2 in. (24.1 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Gift of Mrs. Anne Archbold, 1954",
+ "Accession Number": "54.132.3",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Jewelry",
+  "Ear ornaments",
+  "Jade",
+  "Earrings"
+ ],
+ "Where": [
+  "Asia",
+  "China",
+  "Tibet"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60033807,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/54_132_3.JPG",
+ "related-artworks": [
+  60006477,
+  60006462,
+  60033804,
+  60004578,
+  60004540
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033807"
+  }
+ }
+}

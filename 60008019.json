@@ -1,0 +1,39 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Cloisonné enamel",
+ "Dimensions": "H. 34 3/4 in. (88.3 cm); W. 13 iin. (33 cm); D. 18 in. (45.7 cm)",
+ "Classification": "Cloisonné",
+ "Credit Line": "Gift of A. W. Bahr, in memory of his wife, Helen Marion Bahr, 1954",
+ "Accession Number": "54.154.2a, b",
+ "What": [
+  "Figures",
+  "Enamels",
+  "Cloisonné"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60008019,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP229009.jpg",
+ "related-artworks": [
+  60011907,
+  60032874,
+  60007948,
+  60008018,
+  60007927
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60008019"
+  }
+ }
+}

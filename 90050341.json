@@ -1,0 +1,50 @@
+{
+ "Artist": "Designed by Jean Desmarets de Saint-Sorlin (French, 1595–1676)",
+ "Publisher": "Published by Henri Le Gras (French)",
+ "Dedicatee": "Made for Louis XIV, King of France (French, Saint-Germain-en-Laye 1638–1715 Versailles)",
+ "Patron": "Commissioned by Cardinal Jules Mazarin (Italian, Piscina 1602–1661 Vincennes)",
+ "Date": "1644",
+ "Medium": "Etching, state i",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Robert Hartshorne, 1918",
+ "Accession Number": "18.48.2-53",
+ "Who": [
+  "Stefano della Bella",
+  "Louis XIV, King of France",
+  "Cardinal Jules Mazarin",
+  "Jean Desmarets de Saint-Sorlin",
+  "Henri Le Gras"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Printed Image in the West History and Techniques",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90050341,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP817668.jpg",
+ "related-artworks": [
+  90009182,
+  90039895,
+  90047318,
+  90047320,
+  90047321
+ ],
+ "Provenance": [
+  "Donor: Robert Hartshorne (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050341"
+  }
+ }
+}

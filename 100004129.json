@@ -1,0 +1,58 @@
+{
+ "Period": "Predynastic, Naqada III",
+ "Date": "ca. 3300–3100 B.C.",
+ "Geography": "Country of Origin Egypt, Northern Upper Egypt, el-Mahasna, Tomb H128",
+ "Medium": "Ivory",
+ "Dimensions": "l. 30.3 x w. 4.3 x h. 2 cm (11 15/16 x 1 11/16 x 13/16 in.)",
+ "Credit Line": "Gift of Egypt Exploration Fund, 1909",
+ "Accession Number": "09.182.9",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100004129,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DP249921.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/eg/original/DP249921.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/E2BW3867.jpg"
+ ],
+ "Provenance": [
+  "Excavated by E. Ayrton for The Egypt Exploration Fund, and granted to the EEF in the division of finds. Acquired by the Museum from the EEF by subscription, 1909."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100004112"
+   },
+   {
+    "href": "http://scrapi.org/object/100002566"
+   },
+   {
+    "href": "http://scrapi.org/object/100003742"
+   },
+   {
+    "href": "http://scrapi.org/object/100003744"
+   },
+   {
+    "href": "http://scrapi.org/object/100003765"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100004129"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100004129"
+  }
+ }
+}

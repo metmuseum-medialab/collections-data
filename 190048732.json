@@ -1,0 +1,43 @@
+{
+ "Date": "1936",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "Image 16.4 x 19.1 cm (6 7/16 x 7 1/2 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Steven E. and Phyllis Gross, 2010",
+ "Accession Number": "2010.462.6",
+ "Who": "Sid Grossman",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photography and Everyday Life in America, 1945–60",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190048732,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP242712.jpg",
+ "related-artworks": [
+  190016416,
+  190017713,
+  190018080,
+  190018081,
+  190048719
+ ],
+ "Provenance": [
+  "The artist",
+  "[Howard Greenberg Gallery, New York]",
+  "Steven E. Gross, New Jersey"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190048732"
+  }
+ }
+}

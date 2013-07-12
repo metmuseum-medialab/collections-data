@@ -1,0 +1,43 @@
+{
+ "Date": "1789",
+ "Culture": "French (Paris)",
+ "Medium": "Gold, lacquer",
+ "Dimensions": "4 x 2-1/8 in.  (10.2 x 5.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.1316 a-f",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Gold",
+  "Lacquer",
+  "Platinum",
+  "Souvenirs"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120008668,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/39127.jpg",
+ "related-artworks": [
+  120008632,
+  120008629,
+  120008630,
+  120008648,
+  120008667
+ ],
+ "Provenance": [
+  "Bernard Franck (acquired between 1875–1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120008668"
+  }
+ }
+}

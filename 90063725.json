@@ -1,0 +1,39 @@
+{
+ "Publisher": "Published by Wiener Werkstätte",
+ "Date": "ca. 1907/8–14",
+ "Medium": "Color lithograph",
+ "Dimensions": "sheet 5 1/2 x 3 9/16 in. (14 x 9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Museum Accession, transferred from the Library",
+ "Accession Number": "WW.184",
+ "Who": [
+  "Wiener Werkstätte",
+  "Josef Diveky"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "Hungary"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (not Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "id": 90063725,
+ "related-artworks": [
+  90063364,
+  90063586,
+  90063649,
+  90063705,
+  90063706
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90063725"
+  }
+ }
+}

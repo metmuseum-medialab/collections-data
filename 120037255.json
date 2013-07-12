@@ -1,0 +1,56 @@
+{
+ "Date": "first half 16th century",
+ "Culture": "Spanish",
+ "Medium": "Wool",
+ "Dimensions": [
+  "H. 99 x W. 53 inches",
+  "251.5 x 134.6 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.193.1",
+ "What": [
+  "Textiles",
+  "Wool",
+  "Rugs"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120037255,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/133786.jpg",
+ "Provenance": [
+  "Dr. F. Sarre , 1913",
+  "sold to MMA"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120037433"
+   },
+   {
+    "href": "http://scrapi.org/object/120039103"
+   },
+   {
+    "href": "http://scrapi.org/object/120039166"
+   },
+   {
+    "href": "http://scrapi.org/object/120039170"
+   },
+   {
+    "href": "http://scrapi.org/object/120039171"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120037255"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120037255"
+  }
+ }
+}

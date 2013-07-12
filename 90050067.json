@@ -1,0 +1,42 @@
+{
+ "Date": "1792",
+ "Medium": "Etching; second state of three",
+ "Dimensions": "sheet 17 5/8 x 23 1/4 in. (44.8 x 59.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "A. Hyatt Mayor Purchase Fund, Marjorie Phelps Starr Bequest, 2007",
+ "Accession Number": "2007.206",
+ "Who": "Johann Christian Reinhart",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Neoclassicism",
+  "Central Europe (including Germany), 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90050067,
+ "related-artworks": [
+  90009787,
+  90056368,
+  90009782,
+  90039465,
+  90039473
+ ],
+ "Provenance": [
+  "National Museum Utgallrad",
+  "Comte A. G. Bielke",
+  "Vendor: Nicolaas Teeuwisse (Dutch, active Berlin)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050067"
+  }
+ }
+}

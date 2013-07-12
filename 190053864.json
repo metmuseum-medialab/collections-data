@@ -1,0 +1,39 @@
+{
+ "Date": "1970s",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "35.6 x 27.9 cm (14 x 11 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of a private collector, 2011",
+ "Accession Number": "2011.551.38",
+ "Who": "Leon Levinstein",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 190053864,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/Levinstein.TR.469.38.2011.jpg",
+ "related-artworks": [
+  190016783,
+  190016856,
+  190016883,
+  190017508,
+  190017514
+ ],
+ "Provenance": [
+  "Levinstein Estate",
+  "[Howard Greenberg Gallery]",
+  "donor"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190053864"
+  }
+ }
+}

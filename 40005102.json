@@ -1,0 +1,35 @@
+{
+ "Date": "19th century",
+ "Culture": "African",
+ "Medium": "Wood",
+ "Classification": "Firearms Accessories",
+ "Credit Line": "Purchase, Rogers Fund, 1977",
+ "Accession Number": "1977.251.12",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Accessories",
+  "Flasks"
+ ],
+ "Where": [
+  "Africa"
+ ],
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005102,
+ "related-artworks": [
+  40008785,
+  40008837,
+  40008858,
+  40008898,
+  40008899
+ ],
+ "Provenance": [
+  "Ex. Coll.: Bill Wright"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40005102"
+  }
+ }
+}

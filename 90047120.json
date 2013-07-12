@@ -1,0 +1,43 @@
+{
+ "Printer": "Stefan Martin",
+ "Date": "1965",
+ "Medium": "Wood engraving",
+ "Dimensions": "block 9 1/2 x 7 3/4 inches (24.1 x 19.7 cm) sheet: 16 1/4 x 12 inches (41.3 x 30.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mr. and Mrs. John M. Powers, 1978",
+ "Accession Number": "1978.62",
+ "Who": [
+  "Ben Shahn",
+  "Stefan Martin"
+ ],
+ "What": [
+  "Prints",
+  "Engraving",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90047120,
+ "related-artworks": [
+  90047122,
+  90047118,
+  90004328,
+  90004329,
+  90004333
+ ],
+ "Provenance": [
+  "Donor: Mr. and Mrs. John Powers"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90047120"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "Middle Minoan III",
+ "Date": "ca. 1750-1600 B.C.",
+ "Culture": "Minoan",
+ "Medium": "Jasper",
+ "Dimensions": "L. 1.63 cm; W. of each side 0.95 cm",
+ "Classification": "Gems",
+ "Credit Line": "Bequest of Richard B. Seager, 1926",
+ "Accession Number": "26.31.115",
+ "What": [
+  "Chalcedony",
+  "Seals",
+  "Gems",
+  "Jasper"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades",
+  "Minoa"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130012556,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP111054.jpg",
+ "related-artworks": [
+  130011859,
+  130012570,
+  130012608,
+  130012602,
+  130012628
+ ],
+ "Description": "2 goats, dog and bull's head, man with 2 pithoi",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130012556"
+  }
+ }
+}

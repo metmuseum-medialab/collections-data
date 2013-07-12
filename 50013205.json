@@ -1,0 +1,49 @@
+{
+ "Date": "1972",
+ "Geography": "Papua New Guinea, New Britain, Walmetki; Papua New Guinea, New Britain",
+ "Culture": "Chachet Baining people",
+ "Medium": "Bamboo, barkcloth, paint",
+ "Dimensions": [
+  "H. 12 x W. 8 in. (30.5 x 20.3 cm)",
+  "L. 24 1/2 in. (62.2 cm)"
+ ],
+ "Classification": "Bark-Sculpture",
+ "Credit Line": "Gift of George and Sarah Corbin, 2005",
+ "Accession Number": "2005.460.3",
+ "What": [
+  "Costume",
+  "Sculpture",
+  "Masks",
+  "Grass",
+  "Bamboo",
+  "Ceremonial masks",
+  "Bark cloth"
+ ],
+ "Where": [
+  "Oceania",
+  "Papua New Guinea",
+  "New Britain"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Melanesia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50013205,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/2005.460.3.jpg",
+ "related-artworks": [
+  50013206,
+  50013617,
+  50013202,
+  50013203,
+  50013204
+ ],
+ "Provenance": [
+  "Collected in New Britain by George Corbin, between 1972 and 1973",
+  "George and Sarah Corbin, New York, by 1973–2005"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50013205"
+  }
+ }
+}

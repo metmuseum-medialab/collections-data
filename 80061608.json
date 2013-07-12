@@ -1,0 +1,49 @@
+{
+ "Date": "20th century",
+ "Culture": "Montenegrin",
+ "Medium": "silk, metallic",
+ "Dimensions": "Length at CB 16 1/2 in. (41.9 cm)",
+ "Credit Line": "Gift of Mr. E. L. Waid, 1955",
+ "Accession Number": "C.I.55.25.9",
+ "What": "Silk",
+ "Where": [
+  "Europe",
+  "Serbia and Montenegro",
+  "Montenegro"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80061608,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI55.25.9_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/CI55.25.9_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI55.25.9_B.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80061605"
+   },
+   {
+    "href": "http://scrapi.org/object/80008211"
+   },
+   {
+    "href": "http://scrapi.org/object/80011867"
+   },
+   {
+    "href": "http://scrapi.org/object/80061604"
+   },
+   {
+    "href": "http://scrapi.org/object/80007351"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80061608"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80061608"
+  }
+ }
+}

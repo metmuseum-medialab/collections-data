@@ -1,0 +1,54 @@
+{
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "11 7/8 x 5 1/4 in. (30.2 x 13.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+ "Accession Number": "JP2895",
+ "Who": "Katsukawa Shun'ei",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60027163,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP134598.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60000748"
+   },
+   {
+    "href": "http://scrapi.org/object/60000872"
+   },
+   {
+    "href": "http://scrapi.org/object/60000879"
+   },
+   {
+    "href": "http://scrapi.org/object/60000884"
+   },
+   {
+    "href": "http://scrapi.org/object/60000881"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60027163"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60027163"
+  }
+ }
+}

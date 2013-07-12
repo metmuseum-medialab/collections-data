@@ -1,0 +1,63 @@
+{
+ "Date": "1852–58",
+ "Geography": "New England, Bennington, Vermont, United States",
+ "Culture": "American",
+ "Medium": "Mottled brown earthenware",
+ "Dimensions": "H. 10 1/4 in. (26 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1913",
+ "Accession Number": "13.176",
+ "Who": "United States Pottery Company",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Earthenware",
+  "Pitchers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Vermont",
+  "Bennington"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10006015,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP257683.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ad/original/DP257683.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/DP257673.jpg"
+ ],
+ "Provenance": [
+  "Mrs. Russell Sage, New York, until 1913"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10006017"
+   },
+   {
+    "href": "http://scrapi.org/object/10006027"
+   },
+   {
+    "href": "http://scrapi.org/object/10006018"
+   },
+   {
+    "href": "http://scrapi.org/object/10006024"
+   },
+   {
+    "href": "http://scrapi.org/object/10006025"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10006015"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10006015"
+  }
+ }
+}

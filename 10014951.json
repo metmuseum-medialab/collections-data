@@ -1,0 +1,43 @@
+{
+ "Date": "1886",
+ "Geography": "New England, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Porcelain, overglaze enamel decoration",
+ "Dimensions": "Diam. 8 1/2 in. (21.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Florence I. Balasny-Barnes Collection, Gift of Florence I. Balasny-Barnes, 1991",
+ "Accession Number": "1991.370.4",
+ "Who": "Lizzie M. Fairchild",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Enamels",
+  "Overglazing"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10014951,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA6049.jpg",
+ "related-artworks": [
+  10014952,
+  10005935,
+  10002930,
+  10002931
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014951"
+  }
+ }
+}

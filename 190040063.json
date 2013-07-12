@@ -1,0 +1,55 @@
+{
+ "Date": "1955",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "Image 21.7 x 32.8 cm (8 9/16 x 12 15/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 2005",
+ "Accession Number": "2005.100.453",
+ "Who": "Robert Frank",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photography and Everyday Life in America, 1945–60",
+  "Kodak and the Rise of Amateur Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 190040063,
+ "Provenance": [
+  "Robert Frank",
+  "[Marlborough Gallery, New York]",
+  "The Gilman Paper Company Collection, New York, February 26, 1976"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190014430"
+   },
+   {
+    "href": "http://scrapi.org/object/190016617"
+   },
+   {
+    "href": "http://scrapi.org/object/190016800"
+   },
+   {
+    "href": "http://scrapi.org/object/190016791"
+   },
+   {
+    "href": "http://scrapi.org/object/190016792"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190040063"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190040063"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "May 1870",
+ "Culture": "Japan",
+ "Medium": "Triptych of polychrome woodblock prints; ink and color on paper",
+ "Dimensions": [
+  "Image (a) 14 1/2 x 9 5/8 in. (36.8 x 24.4 cm)",
+  "Image (b) 14 1/2 x 9 5/8 in. (36.8 x 24.4 cm)",
+  "Image (c) 14 1/2 x 9 5/8 in. (36.8 x 24.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of William S. Lieberman, 2005",
+ "Accession Number": "2007.49.151a–c",
+ "Who": "Hiroshige III",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Triptychs"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60047366,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP148007.jpg",
+ "related-artworks": [
+  60026705,
+  60047496,
+  60026475,
+  60026663,
+  60047365
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60047366"
+  }
+ }
+}

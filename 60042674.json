@@ -1,0 +1,40 @@
+{
+ "Period": "Qing dynasty (1644–1911), Yongzheng period (1723–35)",
+ "Culture": "China",
+ "Medium": "Silk, metallic thread on silk",
+ "Dimensions": "9 1/2 x 10 in. (24.13 x 25.40 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Fletcher Fund, 1936",
+ "Accession Number": "36.65.20",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Badges"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60042674,
+ "related-artworks": [
+  60043459,
+  60031785,
+  60031788,
+  60038445,
+  60042438
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60042674"
+  }
+ }
+}

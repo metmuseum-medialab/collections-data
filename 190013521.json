@@ -1,0 +1,50 @@
+{
+ "Date": "1975",
+ "Medium": "Chromogenic print",
+ "Dimensions": "40.4 x 60.8 cm (15 15/16 x 23 15/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 1976",
+ "Accession Number": "1976.550.7",
+ "Who": "Morton D. May",
+ "What": [
+  "Photographs",
+  "Chromogenic prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190013521,
+ "Provenance": [
+  "Morton D. May"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190013516"
+   },
+   {
+    "href": "http://scrapi.org/object/190013517"
+   },
+   {
+    "href": "http://scrapi.org/object/190013518"
+   },
+   {
+    "href": "http://scrapi.org/object/190013519"
+   },
+   {
+    "href": "http://scrapi.org/object/190013520"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190013521"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190013521"
+  }
+ }
+}

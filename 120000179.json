@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Culture": "Italian, Venice (Murano)",
+ "Medium": "Glass",
+ "Dimensions": "H. with cover 14 1/4 in.  (36.2 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of James Jackson Jarves, 1881",
+ "Accession Number": "81.8.48a, b",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Cups",
+  "Standing cups"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000179,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/40922.jpg",
+ "related-artworks": [
+  120000261,
+  120000247,
+  120000188,
+  120023164,
+  120000162
+ ],
+ "Provenance": [
+  "James Jackson Jarves (until 1881",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000179"
+  }
+ }
+}

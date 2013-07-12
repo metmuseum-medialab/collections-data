@@ -1,0 +1,36 @@
+{
+ "Date": "15th century",
+ "Culture": "European",
+ "Medium": "Steel",
+ "Classification": "Equestrian Equipment",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "25.135.83",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Spurs",
+  "Rowel spurs"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40011269,
+ "related-artworks": [
+  40007616,
+  40012136,
+  40000603,
+  40000605,
+  40011267
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40011269"
+  }
+ }
+}

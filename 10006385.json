@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1824–ca. 1828",
+ "Geography": "West Midlands, Stoke-on-Trent, England",
+ "Culture": "British (American market)",
+ "Medium": "Earthenware, transfer-printed",
+ "Dimensions": "Diam. 10 1/8 in. (25.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of May Leask, 1916",
+ "Accession Number": "16.83.7",
+ "Who": "Henshall, Williamson & Co.",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Printing",
+  "Plates",
+  "Transfer printing"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Stoke-on-Trent"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10006385,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP238082.jpg",
+ "related-artworks": [
+  10003036,
+  10006128,
+  10006129,
+  10006131,
+  10006132
+ ],
+ "Provenance": [
+  "Mrs. May Leask, New York, until 1916"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006385"
+  }
+ }
+}

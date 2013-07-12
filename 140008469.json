@@ -1,0 +1,45 @@
+{
+ "Object Name": "Dish",
+ "Date": "9th century",
+ "Geography": "Iraq",
+ "Medium": "Earthenware; molded and glazed",
+ "Dimensions": "Diam. 6 7/8 in. (17.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1953",
+ "Accession Number": "53.110",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Glazing"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iraq (Mesopotamia) 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140008469,
+ "gallery-id": 451,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/53.110.JPG",
+ "related-artworks": [
+  140005996,
+  140004603,
+  140004705,
+  140006134,
+  140010841
+ ],
+ "Description": "The rimless shape of this flat dish is probably based on metal prototypes. The abstract geometric decoration is an Islamic adaptation of an interlace design drawn from the Greco-Roman tradition. The green and turquoise accents add color to the otherwise plain, inscribed surface.",
+ "Provenance": [
+  "[Dikran G. Kelekian, Inc., New York, until 1953",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008469"
+  }
+ }
+}

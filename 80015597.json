@@ -1,0 +1,35 @@
+{
+ "Date": "spring/summer 1990",
+ "Culture": "American",
+ "Medium": "synthetic",
+ "Dimensions": "Length at CB 57 in. (144.8 cm)",
+ "Credit Line": "Gift of Martin F. Price, 1998",
+ "Accession Number": "1998.493.50",
+ "Who": "Giorgio di Sant'Angelo",
+ "What": [
+  "Costume",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80015597,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1998.493.50_F.jpg",
+ "related-artworks": [
+  80002289,
+  80010548,
+  80013319,
+  80015556,
+  80015557
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80015597"
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "Date": "1951",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "18.0 x 23.7 cm. (7  1/16  x 9  5/16  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Rogers Fund, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, and Mary Livingston Griggs and Mary Griggs Burke Foundation and Mrs. Vincent Astor Gifts, 1984",
+ "Accession Number": "1984.1083.52",
+ "Rights and Reproduction": "© The Estate of André Kertész / Higher Pictures",
+ "Who": "André Kertész",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Henri Cartier–Bresson (1908–2004)",
+  "Photography and Surrealism",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190015866,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/MM73835.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/190013712",
+  "http://scrapi.org/object/190014534",
+  "http://scrapi.org/object/190014662",
+  "http://scrapi.org/object/190014733",
+  "http://scrapi.org/object/190014738"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "André Kertész"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190013712"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190014534"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190014662"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190014733"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190014738"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190015866"
+  }
+ }
+}

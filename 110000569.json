@@ -1,0 +1,61 @@
+{
+ "Date": "ca. 1890",
+ "Medium": "Pastel and charcoal on blue laid paper, mounted at perimeter on backing board",
+ "Dimensions": "22 x 18 3/4 in. (55.9 x 47.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.190",
+ "Who": "Edgar Degas",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Charcoal",
+  "Laid paper",
+  "Pastels",
+  "Backing boards"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "The Salon and The Royal Academy",
+  "The Lure of Montmartre, 1880–1900",
+  "Impressionism Art and Modernity",
+  "Edgar Degas (1834–1917) Painting and Drawing",
+  "Édouard Manet (1832–1883)",
+  "Japonisme",
+  "Mary Stevenson Cassatt (1844–1926)",
+  "American Impressionism",
+  "Edgar Degas (1834–1917) Bronze Sculpture",
+  "Claude Monet (1840–1926)",
+  "The Print in the Nineteenth Century",
+  "Lithography in the Nineteenth Century",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110000569,
+ "gallery-id": 817,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP253484.jpg",
+ "related-artworks": [
+  90000045,
+  90000044,
+  110000598,
+  110000574,
+  90000046
+ ],
+ "Provenance": [
+  "Tadamasa Hayashi, Tokyo and Paris (by about 1890–d. 1906",
+  "his estate, 1906–13",
+  "his estate sale, American Art Association, New York, January 8–9, 1913, no. 85, for $3,100 to Durand-Ruel for Havemeyer)",
+  "Mrs. H. O. (Louisine W.) Havemeyer, New York (1913–d. 1929",
+  "cat., 1931, p. 133)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110000569"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Date": "1551",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 9 1/8 x 13 3/4 x 1/16 in. (23.1 x 34.9 x 0.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.46.55-60",
+ "Who": "Jacques Androuet Du Cerceau",
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90016521,
+ "related-artworks": [
+  90016518,
+  90016510,
+  90016511,
+  90016764,
+  90013337
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90016521"
+  }
+ }
+}

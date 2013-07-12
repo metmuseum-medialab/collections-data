@@ -1,0 +1,56 @@
+{
+ "Factory director": "Du Paquier period (1718–1744)",
+ "Date": "1730–35",
+ "Culture": "Austrian (Vienna)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": [
+  "Tureen with cover (.15ab) H. 5-1/8 in. (13 cm.); Diam. 8-1/2 in. (21.6 cm.);",
+  "Tray (.16) H. 1-1/8 in. (2.9 cm.); W. 11-7/8 in. (30.2 cm.)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1950",
+ "Accession Number": "50.211.15a, b, .16",
+ "Who": [
+  "Vienna",
+  "Du Paquier period"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Furniture",
+  "Hard paste porcelain",
+  "Stands",
+  "Tureens"
+ ],
+ "Where": [
+  "Europe",
+  "Austria",
+  "Vienna"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120015924,
+ "gallery-id": 533,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP229661.jpg",
+ "related-artworks": [
+  120014379,
+  120017011,
+  120015923,
+  120020839,
+  120023264
+ ],
+ "Description": "Imperial Privilege: Vienna Porcelain of Du Paquier, 1718-44:Although mostly used to ornament borders, Laub- und Bandelwerk designs could also be the principal decorative motif, as on this small tureen and stand, where the effect is almost that of cagework over the porcelain. Both gilding and silvering—another characteristic feature of Du Paquier porcelain—were employed to further enrich the object, and the cover is crowned with the figure of a Turk seated on a cushion and rug, a favorite motif of the manufactory.",
+ "Provenance": [
+  "Otto and Magdalena Blohm (until 1948",
+  "sale, Stoner and Partridge, January 1948)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120015924"
+  }
+ }
+}

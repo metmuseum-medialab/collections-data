@@ -1,0 +1,44 @@
+{
+ "Maker": "Catoir Silk Company (American, founded New York, 1889–1989)",
+ "Date": "1944",
+ "Geography": "Object place Mid-Atlantic, New York, New York, America",
+ "Culture": "American",
+ "Medium": "Bemberg rayon, printed",
+ "Dimensions": "31 x 28 in. (78.7 cm. x 71.1 cm. )",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Catoir Silk Company, 1945",
+ "Accession Number": "45.131.1a, b",
+ "Who": [
+  "Catoir Silk Company",
+  "Andre Flory"
+ ],
+ "What": [
+  "Textiles",
+  "Printing",
+  "Samples",
+  "Rayon"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210011876,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP10572.jpg",
+ "related-artworks": [
+  210011877,
+  210011916,
+  210011911,
+  210011908
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210011876"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Date": "ca. 1770",
+ "Culture": "French",
+ "Medium": "silk, metal",
+ "Dimensions": "Length at CB 25 in. (63.5 cm)",
+ "Credit Line": "Gift of Joseph Verner Reed Jr., 1977",
+ "Accession Number": "1977.208",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Vests"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80013497,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.208_S1.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1977.208_S1.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1977.208_S2.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80012689"
+   },
+   {
+    "href": "http://scrapi.org/object/80012004"
+   },
+   {
+    "href": "http://scrapi.org/object/80013208"
+   },
+   {
+    "href": "http://scrapi.org/object/80013520"
+   },
+   {
+    "href": "http://scrapi.org/object/80013492"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80013497"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80013497"
+  }
+ }
+}

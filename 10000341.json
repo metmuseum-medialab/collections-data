@@ -1,0 +1,50 @@
+{
+ "Date": "1700–1800",
+ "Medium": "Wood; Cedar, iron",
+ "Dimensions": "20 1/2 x 10 1/2 in. (52.1 x 26.7 cm)",
+ "Classification": "Natural Substances",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1909",
+ "Accession Number": "10.125.599z",
+ "What": [
+  "Metal",
+  "Wood",
+  "Iron and iron alloy",
+  "Iron",
+  "Softwood",
+  "Cedar",
+  "Kegs"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "id": 10000341,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/12905.jpg",
+ "Provenance": [
+  "H. Eugene Bolles, Boston, until 1909",
+  "[Mrs. Russell Sage, New York, 1909]"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10002047"
+   },
+   {
+    "href": "http://scrapi.org/object/10000953"
+   },
+   {
+    "href": "http://scrapi.org/object/10018329"
+   },
+   {
+    "href": "http://scrapi.org/object/10019047"
+   },
+   {
+    "href": "http://scrapi.org/object/10015020"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10000341"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10000341"
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "Date": "1850–60",
+ "Culture": "American or European",
+ "Medium": "hair",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Edward T. Hall Jr., 1941",
+ "Accession Number": "C.I.41.153.10",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Hair",
+  "Bracelets"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80051848,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI41.153.10.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80051849",
+  "http://scrapi.org/object/80029662",
+  "http://scrapi.org/object/80058846",
+  "http://scrapi.org/object/80058871",
+  "http://scrapi.org/object/80032058"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80051849"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80029662"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80058846"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80058871"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80032058"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80051848"
+  }
+ }
+}

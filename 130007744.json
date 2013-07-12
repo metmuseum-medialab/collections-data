@@ -1,0 +1,52 @@
+{
+ "Period": "Classical",
+ "Date": "late 5th century B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; black-glaze",
+ "Dimensions": "H. 8 1/16 in. (20.5 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1906",
+ "Accession Number": "06.1021.104",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Oinochoai"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130007744,
+ "gallery-id": 157,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130005301"
+   },
+   {
+    "href": "http://scrapi.org/object/130007699"
+   },
+   {
+    "href": "http://scrapi.org/object/130007746"
+   },
+   {
+    "href": "http://scrapi.org/object/130007838"
+   },
+   {
+    "href": "http://scrapi.org/object/130007839"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130007744"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130007744"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Date": "first half 14th century",
+ "Geography": "Egypt or Syria",
+ "Medium": "Brass; engraved and inlaid with silver",
+ "Classification": "Metal",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.562",
+ "What": [
+  "Metal",
+  "Engraving",
+  "Copper alloy",
+  "Silver",
+  "Brass",
+  "Lighting devices",
+  "Candleholders",
+  "Candlesticks"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140001734,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/91.1.562.JPG",
+ "related-artworks": [
+  140001741,
+  140001698,
+  140001700,
+  140001755,
+  140001771
+ ],
+ "Provenance": [
+  "Edward C. Moore, New York (until d. 1891)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140001734"
+  }
+ }
+}

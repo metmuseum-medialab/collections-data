@@ -1,0 +1,44 @@
+{
+ "Period": "Classical",
+ "Date": "mid-5th century B.C.",
+ "Culture": "Greek",
+ "Medium": "Chalcedony, yellow-gray, silver",
+ "Classification": "Gems",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.4198",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Silver",
+  "Scarabs",
+  "Chalcedony",
+  "Gems",
+  "Rings",
+  "Scaraboids"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "id": 130004081,
+ "gallery-id": 157,
+ "related-artworks": [
+  130004082,
+  130004106,
+  130004103,
+  130004107,
+  130011553
+ ],
+ "Description": "horse lying downThe prominence of the inscription suggests that the name is that of the owner.",
+ "Provenance": [
+  "Said to be from Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130004081"
+  }
+ }
+}

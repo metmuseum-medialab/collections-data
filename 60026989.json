@@ -1,0 +1,42 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "1895",
+ "Culture": "Japan",
+ "Medium": "Triptych of polychrome woodblock prints; ink and color on paper",
+ "Dimensions": "L. (page) 13 7/8 in. (35.2 cm); W. (page) 9 1/4 in. (23.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. W. Walton Butterworth, 1979",
+ "Accession Number": "JP3537",
+ "Who": "Hashimoto Chikanobu",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Triptychs"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60026989,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP149380.jpg",
+ "related-artworks": [
+  60024792,
+  60026412,
+  60026495,
+  60026640,
+  60026977
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026989"
+  }
+ }
+}

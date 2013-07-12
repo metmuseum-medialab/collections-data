@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1765",
+ "Culture": "British",
+ "Medium": "Ivory mounted on blue glass oval",
+ "Dimensions": "7.3 x 6.4 in.  (18.5 x 16.3 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Elna Linborg Friedman, 1986",
+ "Accession Number": "1986.94.2",
+ "What": [
+  "Sculpture",
+  "Glass",
+  "Bone",
+  "Ivory",
+  "Reliefs",
+  "Miniature"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120025914,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/240513.jpg",
+ "related-artworks": [
+  120023696,
+  120013535,
+  120013087,
+  120013112,
+  120013113
+ ],
+ "Provenance": [
+  "Elna Linborg Friedman (until 1986",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120025914"
+  }
+ }
+}

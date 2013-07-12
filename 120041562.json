@@ -1,0 +1,63 @@
+{
+ "Date": "late 19th century",
+ "Culture": "Russian",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 15 x W. 11 3/4 inches",
+  "38.1 x 29.8 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.773",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Anatolia and the Caucasus, 1800–1900 A.D.",
+  "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120041562,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP2711.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/DP2711.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP2711_36.90.773.jpg"
+ ],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120039746"
+   },
+   {
+    "href": "http://scrapi.org/object/120041489"
+   },
+   {
+    "href": "http://scrapi.org/object/120041491"
+   },
+   {
+    "href": "http://scrapi.org/object/120041492"
+   },
+   {
+    "href": "http://scrapi.org/object/120041493"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120041562"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120041562"
+  }
+ }
+}

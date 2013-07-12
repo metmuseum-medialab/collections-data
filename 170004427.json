@@ -1,0 +1,42 @@
+{
+ "Date": "11th century",
+ "Culture": "French",
+ "Medium": "Cloisonné enamel, gold",
+ "Dimensions": "Overall 1/4 x 1/4 x 1/16 in. (0.6 x 0.6 x 0.1 cm)",
+ "Classification": "Enamels",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.668",
+ "What": [
+  "Metal",
+  "Fragments",
+  "Gold",
+  "Enamels",
+  "Cloisonné"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004427,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-668s1.jpg",
+ "related-artworks": [
+  170004426,
+  170004425,
+  170004295,
+  170006019,
+  170004292
+ ],
+ "Provenance": [
+  "Alex W. von Zvenigorodskii (1837 - 1903)",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004427"
+  }
+ }
+}

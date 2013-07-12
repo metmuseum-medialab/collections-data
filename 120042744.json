@@ -1,0 +1,38 @@
+{
+ "Date": "18th century (?)",
+ "Culture": "European",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 14 x W. 5 inches (35.6 x 12.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.1975",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120042744,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP5188.jpg",
+ "related-artworks": [
+  120005697,
+  120030003,
+  120030004,
+  120030005,
+  120029994
+ ],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120042744"
+  }
+ }
+}

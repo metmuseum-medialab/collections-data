@@ -1,0 +1,38 @@
+{
+ "Artist": "Odoardo Fialetti (Italian, Bologna 1573–1637/38 Venice)",
+ "Date": "1625 ca.",
+ "Medium": "etching",
+ "Dimensions": "Plate 5 x 17 3/8 in. (12.7 x 44.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.20.13",
+ "Who": [
+  "Polifilo Giancarli",
+  "Odoardo Fialetti"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90087008,
+ "related-artworks": [
+  90085961,
+  90085964,
+  90085967,
+  90085970,
+  90085971
+ ],
+ "Description": "Design for a frieze filled with a meandering acanthus scroll and two main figure groups. On the left side of the frieze a large dragon is depicted together with a dog. The lower body of the dog morphs into the acanthus scroll. On the opposite side a young man is being attacked by a dragon which sits on his back, and is about to bite him. In the middle of the frieze two playful putti have been depicted of which one tries to pull one of the flowers over his head.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90087008"
+  }
+ }
+}

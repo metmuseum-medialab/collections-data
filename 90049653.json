@@ -1,0 +1,38 @@
+{
+ "Date": "n.d.",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 2 3/8 x 4 5/8 in. (6 x 11.8 cm)",
+  "sheet 6 3/8 x 10 in. (16.2 x 25.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of William S. Lieberman, 2005",
+ "Accession Number": "2007.49.667",
+ "Who": "David Aronson",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90049653,
+ "related-artworks": [
+  90049652,
+  90000841,
+  90004099,
+  90004243
+ ],
+ "Provenance": [
+  "Donor: William S. Lieberman (American, Paris 1923–2005 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90049653"
+  }
+ }
+}

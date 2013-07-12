@@ -1,0 +1,62 @@
+{
+ "Date": "second quarter 19th century",
+ "Culture": "Swiss (Geneva)",
+ "Medium": "Gold, enamel, steel",
+ "Dimensions": "Diam. 1-5/16 in. (3.3 cm)",
+ "Classification": "Horology",
+ "Credit Line": "Anonymous Gift, in memory of Lady May Fletcher-Moulton, 1926",
+ "Accession Number": "26.267.91 ab",
+ "Who": "S. Reymond",
+ "What": [
+  "Metal",
+  "Gold",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Enamel",
+  "Timepieces",
+  "Watches",
+  "Keys"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland",
+  "Geneva"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010474,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/66606.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120010388",
+  "http://scrapi.org/object/120010394",
+  "http://scrapi.org/object/120010408",
+  "http://scrapi.org/object/120010445",
+  "http://scrapi.org/object/120010447"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120010388"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120010394"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120010408"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120010445"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120010447"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120010474"
+  }
+ }
+}

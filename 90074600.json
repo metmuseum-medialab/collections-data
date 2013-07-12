@@ -1,0 +1,45 @@
+{
+ "Artist": "After Giovanni Battista Tiepolo (Italian, Venice 1696–1770 Madrid)",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 4 7/8 x 3 9/16 in. (12.4 x 9 cm)",
+  "sheet 6 15/16 x 5 1/4 in. (17.6 x 13.3 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "22.81.72",
+ "Who": [
+  "Giovanni Battista Tiepolo",
+  "Giovanni Domenico Tiepolo"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Grand Tour",
+  "Venice in the Eighteenth Century",
+  "Venice's Principal Muslim Trading Partners the Mamluks, the Ottomans, and the Safavids",
+  "Commedia dell'arte",
+  "Lovers in Italian Mythological Prints"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90074600,
+ "related-artworks": [
+  90002519,
+  90002520,
+  90020174,
+  90027838,
+  90027987
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90074600"
+  }
+ }
+}

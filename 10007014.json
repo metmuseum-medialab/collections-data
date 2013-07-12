@@ -1,0 +1,41 @@
+{
+ "Date": "1830–70",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Pressed glass",
+ "Dimensions": "H. 11 3/4 in. (29.8 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Emily Winthrop Miles, 1946",
+ "Accession Number": "46.140.153a, b",
+ "What": [
+  "Glass",
+  "Pressed glass",
+  "Decanters"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10007014,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP235411.jpg",
+ "related-artworks": [
+  10003156,
+  10004265,
+  10005804,
+  10005805,
+  10007009
+ ],
+ "Provenance": [
+  "Mrs. Emily Winthrop Miles, New York, until 1946"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10007014"
+  }
+ }
+}

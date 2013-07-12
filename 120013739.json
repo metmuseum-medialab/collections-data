@@ -1,0 +1,45 @@
+{
+ "Date": "16th century",
+ "Culture": "probably Italian, Venice",
+ "Medium": "Wrought iron",
+ "Dimensions": "Each H. 42 in.  (106.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of George Blumenthal, 1941",
+ "Accession Number": "41.100.93a, b, .94a, b",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Iron alloy",
+  "Wrought iron",
+  "Andirons"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013739,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/124871.jpg",
+ "related-artworks": [
+  120022388,
+  120022434,
+  120022423,
+  120023480,
+  120023801
+ ],
+ "Provenance": [
+  "M & Mme Chabrières-Arlès",
+  "George and Florence Blumenthal (before 1927–until her death in 1930)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013739"
+  }
+ }
+}

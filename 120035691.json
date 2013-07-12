@@ -1,0 +1,39 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian (Genoa)",
+ "Medium": "Bobbin lace",
+ "Dimensions": "60 x 5 in. (152.4 x 12.7cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase by subscription, 1909",
+ "Accession Number": "09.68.85",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Liguria",
+  "Genoa"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120035691,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP3805.jpg",
+ "related-artworks": [
+  120031016,
+  120032709,
+  120038616,
+  120038592,
+  120038626
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120035691"
+  }
+ }
+}

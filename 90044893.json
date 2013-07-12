@@ -1,0 +1,45 @@
+{
+ "Publisher": "WPA",
+ "Date": "1935–43",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "Sheet 15 7/8 x 11 1/2 in. (40.3 x 29.2 cm)",
+  "Image 10 1/2 x 9 1/8 in. (26.7 x 23.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, Pennsylvania, 1943",
+ "Accession Number": "43.46.84",
+ "Who": [
+  "WPA",
+  "Raymond Steth"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90044893,
+ "related-artworks": [
+  90044892,
+  90044889,
+  210012302,
+  90044895,
+  90044896
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90044893"
+  }
+ }
+}

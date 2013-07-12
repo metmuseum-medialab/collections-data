@@ -1,0 +1,38 @@
+{
+ "Artist": "After Anthony van Dyck (Flemish, Antwerp 1599–1641 London)",
+ "Sitter": "Portrait of Gerard Seghers (Antwerp 1591–1651 Antwerp)",
+ "Medium": "Engraving; third state of four",
+ "Dimensions": "sheet 9 7/16 x 6 5/16 in. (23.9 x 16 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.95.2746",
+ "Who": [
+  "Anthony van Dyck",
+  "Lucas Vorsterman I",
+  "Gerard Seghers"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 90062058,
+ "related-artworks": [
+  90032615,
+  90039637,
+  90039639,
+  90039640,
+  90039651
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90062058"
+  }
+ }
+}

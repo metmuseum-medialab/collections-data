@@ -1,0 +1,50 @@
+{
+ "Date": "1735–40",
+ "Culture": "French (Chantilly)",
+ "Medium": "Tin-glazed soft-paste porcelain, silver",
+ "Dimensions": "Overall (confirmed) 1 13/16 x 1 3/4 x 1 3/4 in. (4.6 x 4.4 x 4.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Catherine Hannon Auchincloss, 1993",
+ "Accession Number": "1993.58.2a, b",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Silver",
+  "Faience",
+  "Porcelain",
+  "Glazing",
+  "Soft paste porcelain",
+  "Pots"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Picardy",
+  "Chantilly"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120024269,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP239043.jpg",
+ "related-artworks": [
+  120024268,
+  120007451,
+  120007450,
+  120016940,
+  120003411
+ ],
+ "Description": "The widespread use of beauty products in eighteenth-century France inspired the creation of porcelain toilet jars, or pots à fard, in different sizes, sometimes provided with silver mounts.",
+ "Provenance": [
+  "Catherine Hannon Auchincloss (until 1993",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120024269"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "1450–1550",
+ "Geography": "Peru",
+ "Culture": "Inca",
+ "Medium": "Camelid hair",
+ "Dimensions": "H. 22 x W. 34 in. (55.9 x 86.4 cm)",
+ "Classification": "Textiles-Woven",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.954",
+ "Who": "Inca",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Woven",
+  "Hair",
+  "Camelidae",
+  "Tunics"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50005814,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DP244273.jpg",
+ "related-artworks": [
+  50000687,
+  50007194,
+  50013274,
+  50005986,
+  50009606
+ ],
+ "Provenance": [
+  "[Delacorte Gallery, New York, until 1961]",
+  "Nelson A. Rockefeller, New York, 1961, on loan to the Museum of Primivite Art, New York, 1961–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50005814"
+  }
+ }
+}

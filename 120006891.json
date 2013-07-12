@@ -1,0 +1,42 @@
+{
+ "Date": "1752",
+ "Culture": "Swedish (Törshalla)",
+ "Medium": "Silver",
+ "Dimensions": "5 x 2 1/8 in.  (12.7 x 5.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.42.104",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "Europe",
+  "Sweden"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120006891,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES1002.jpg",
+ "related-artworks": [
+  120002555,
+  120006931,
+  120002427,
+  120002500,
+  120002556
+ ],
+ "Provenance": [
+  "George S. Palmer (until 1913",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006891"
+  }
+ }
+}

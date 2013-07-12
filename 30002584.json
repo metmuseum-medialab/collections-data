@@ -1,0 +1,57 @@
+{
+ "Period": "Iron Age",
+ "Date": "ca. 7th–6th century B.C.",
+ "Geography": "Syria or Anatolia",
+ "Medium": "Agate, banded gray white",
+ "Dimensions": [
+  "Diameter 1.6 - 1.62 cm",
+  "Height 0.94 cm"
+ ],
+ "Classification": "Stone",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.160.532",
+ "What": [
+  "Stone",
+  "Chalcedony",
+  "Seals",
+  "Agate"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30002584,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss41_160_532.jpg",
+ "Provenance": [
+  "Acquired by the Museum in 1941, bequest of W. Gedney Beatty."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/30000272"
+   },
+   {
+    "href": "http://scrapi.org/object/30000952"
+   },
+   {
+    "href": "http://scrapi.org/object/30005381"
+   },
+   {
+    "href": "http://scrapi.org/object/30005831"
+   },
+   {
+    "href": "http://scrapi.org/object/30005851"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/30002584"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/30002584"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "n.d.",
+ "Medium": "Pen and brown ink, brush and gray wash, indented for transfer",
+ "Dimensions": "sheet 3 3/4 x 5 3/16 in. (9.6 x 13.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisah Whittelsey Fund, 2006",
+ "Accession Number": "2006.301",
+ "Who": "Arnold Houbraken",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90044866,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800431.jpg",
+ "related-artworks": [
+  90011393,
+  90001978,
+  90002003,
+  90002156
+ ],
+ "Provenance": [
+  "Amédée-Paul-Emil Gasc (born Paris, 1817)",
+  "Einar Perman (Stockholm)",
+  "Sotheby's, Amsterdam, November 16, 2005, lot 92",
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90044866"
+  }
+ }
+}

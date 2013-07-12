@@ -1,0 +1,53 @@
+{
+ "Date": "first half 18th century",
+ "Culture": "French",
+ "Medium": "Carved oak",
+ "Dimensions": "115 x 65 in.  (292.1 x 165.1 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+ "Accession Number": "07.225.77",
+ "What": [
+  "Wood",
+  "Panels",
+  "Woodwork",
+  "Oak"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003804,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/5096.jpg",
+ "Provenance": [
+  "Georges Hoentschel"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120003339"
+   },
+   {
+    "href": "http://scrapi.org/object/120003340"
+   },
+   {
+    "href": "http://scrapi.org/object/120003345"
+   },
+   {
+    "href": "http://scrapi.org/object/120003346"
+   },
+   {
+    "href": "http://scrapi.org/object/120003357"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120003804"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120003804"
+  }
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "Date": "1970, printed 1979",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "50.8 x 60.0 cm. (20  x 23  5/8  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 1994",
+ "Accession Number": "1994.186.1",
+ "Rights and Reproduction": "© Vito Acconci",
+ "Who": "Vito Acconci",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Body/Landscape Photography and the Reconfiguration of the Sculptural Object",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190018824,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP273694.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ph/original/DP273694.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP273695.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP273696.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP273697.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP273698.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP273699.jpg"
+ ],
+ "Provenance": [
+  "Vito Acconci",
+  "Addison Thompson"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190018661"
+   },
+   {
+    "href": "http://scrapi.org/object/190018741"
+   },
+   {
+    "href": "http://scrapi.org/object/190018825"
+   },
+   {
+    "href": "http://scrapi.org/object/190036953"
+   },
+   {
+    "href": "http://scrapi.org/object/190037007"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190018824"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190018824"
+  }
+ }
+}

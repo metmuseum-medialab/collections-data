@@ -1,0 +1,40 @@
+{
+ "Period": "Qing dynasty (1644–1911), Yongzheng period (1723–35)",
+ "Culture": "China",
+ "Medium": "Silk, metallic thread on silk",
+ "Dimensions": "55 x 48 in. (139.70 x 121.92 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Fletcher Fund, 1944",
+ "Accession Number": "44.133.3",
+ "What": [
+  "Costume",
+  "Silk",
+  "Needlework",
+  "Embroidery",
+  "Robes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043332,
+ "related-artworks": [
+  60009536,
+  60024796,
+  60038659,
+  60042090,
+  60042564
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043332"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "Before 1626",
+ "Medium": "Etching",
+ "Dimensions": "sheet 2 3/4 x 9 13/16 in. (7 x 25 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.251.1",
+ "Who": "Pierre Brebiette",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90072402,
+ "related-artworks": [
+  90000028,
+  90000029,
+  90000059,
+  90000110,
+  90000112
+ ],
+ "Provenance": [
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90072402"
+  }
+ }
+}

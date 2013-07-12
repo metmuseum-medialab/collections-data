@@ -1,0 +1,46 @@
+{
+ "Date": "1800–1900",
+ "Geography": "New England, Boston, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Gilt bronze",
+ "Dimensions": "19 3/4 x 15 1/4 in. (50.2 x 38.7 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Rogers Fund, 1967",
+ "Accession Number": "67.14.1",
+ "Who": ". Hooper",
+ "What": [
+  "Metal",
+  "Plate",
+  "Lighting devices",
+  "Ormolu",
+  "Candleholders",
+  "Candelabras"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Boston"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001184,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/187101.jpg",
+ "related-artworks": [
+  10001185,
+  10001208,
+  10001381,
+  10001357,
+  10001382
+ ],
+ "Provenance": [
+  "David and David Gallery, Philadelphia, until 1967"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001184"
+  }
+ }
+}

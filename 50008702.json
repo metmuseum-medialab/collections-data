@@ -1,0 +1,47 @@
+{
+ "Date": "19th–early 20th century",
+ "Geography": "Indonesia, Java",
+ "Culture": "Javanese",
+ "Medium": "Metal, wood, ivory",
+ "Dimensions": "Height 26 in.",
+ "Classification": "Metal-Implements",
+ "Credit Line": "Gift of Fred and Rita Richman, 1988",
+ "Accession Number": "1988.143.22a, b",
+ "What": [
+  "Metal",
+  "Arms",
+  "Edged weapons",
+  "Bone",
+  "Ivory",
+  "Daggers"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1800–1900 A.D.",
+  "Southeast Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50008702,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1988_143_22.jpg",
+ "related-artworks": [
+  50003850,
+  50003851,
+  50004357,
+  50004358,
+  50004360
+ ],
+ "Provenance": [
+  "[Ben Tursch, Brussels, Belgium, until 1976]",
+  "Fred and Rita Richman, New York, 1976–1988"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50008702"
+  }
+ }
+}

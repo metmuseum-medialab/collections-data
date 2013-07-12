@@ -1,0 +1,56 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Steatite (glazed)",
+ "Dimensions": "L. 1.7 cm (11/6 in)",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.8.783",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Glazing",
+  "Talc",
+  "Steatite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100011773,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs30.8.783b.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/eg/original/vs30.8.783b.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/vs30.8.783a.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/vs30.8.783c.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100002201"
+   },
+   {
+    "href": "http://scrapi.org/object/100011770"
+   },
+   {
+    "href": "http://scrapi.org/object/100012394"
+   },
+   {
+    "href": "http://scrapi.org/object/100014888"
+   },
+   {
+    "href": "http://scrapi.org/object/100000445"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100011773"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100011773"
+  }
+ }
+}

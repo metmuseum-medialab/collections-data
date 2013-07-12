@@ -1,0 +1,45 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1794",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "H. 14 5/8 in. (37.1 cm); W. 9 5/8 in. (24.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Estate of Samuel Isham, 1914",
+ "Accession Number": "JP977",
+ "Who": "Kitagawa Utamaro",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Japonisme",
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "id": 60012760,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP135606.jpg",
+ "related-artworks": [
+  60000717,
+  60000719,
+  60000722,
+  60000724,
+  60000725
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60012760"
+  }
+ }
+}

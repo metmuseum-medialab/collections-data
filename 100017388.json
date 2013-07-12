@@ -1,0 +1,37 @@
+{
+ "Period": "Middle Kingdom–Second Intermediate Period",
+ "Dynasty": "Dynasty 12–17",
+ "Date": "ca. 1981–1550 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Ivory or bone",
+ "Credit Line": "Gift of Bashford Dean, 1916",
+ "Accession Number": "16.7.22",
+ "What": [
+  "Bone",
+  "Ivory"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100017388,
+ "related-artworks": [
+  100000013,
+  100000127,
+  100000251,
+  100000268,
+  100000294
+ ],
+ "Provenance": [
+  "Donated to the Museum by Bashford Dean, 1916."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100017388"
+  }
+ }
+}

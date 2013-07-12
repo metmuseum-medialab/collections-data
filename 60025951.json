@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1783",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "H. 10 1/8 in. (25.7 cm); W. 7 1/4 in. (18.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Estate of Samuel Isham, 1914",
+ "Accession Number": "JP937",
+ "Who": "Santō Kyōden",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60025951,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP130215.jpg",
+ "related-artworks": [
+  60028274,
+  60028275,
+  60013063,
+  60029056,
+  60028986
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60025951"
+  }
+ }
+}

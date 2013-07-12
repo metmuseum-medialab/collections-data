@@ -1,0 +1,35 @@
+{
+ "Date": "1900–1925",
+ "Culture": "French",
+ "Medium": "metal",
+ "Dimensions": "Width 2 3/8 in. (6 cm)",
+ "Credit Line": "Gift of Dorrelle Moulton Tanner, 1975",
+ "Accession Number": "1975.261.2a, b",
+ "What": [
+  "Metal",
+  "Shoes",
+  "Buckles"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80059695,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1975.261.2ab.jpg",
+ "related-artworks": [
+  80059722,
+  80059698,
+  80059717,
+  80059719,
+  80094128
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80059695"
+  }
+ }
+}

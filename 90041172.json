@@ -1,0 +1,47 @@
+{
+ "Artist": "After Francesco Primaticcio (Italian, Bologna 1504/5–1570 Paris)",
+ "Publisher": "Published by Antonio Salamanca (Salamanca 1478–1562 Rome)",
+ "Date": "1541",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "plate 10 5/8 x 4 7/16 in. (27 x 11.2 cm)",
+  "sheet 15 15/16 x 10 13/16 in. (40.5 x 27.5 cm) printed on full sheet"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "26.50.1",
+ "Who": [
+  "Enea Vico",
+  "Francesco Primaticcio",
+  "Antonio Salamanca"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Woodcut Book Illustration in Renaissance Italy Venice in the Sixteenth Century",
+  "Lovers in Italian Mythological Prints",
+  "Anatomy in the Renaissance"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90041172,
+ "related-artworks": [
+  90041066,
+  90043189,
+  90043258,
+  90043351,
+  90043353
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90041172"
+  }
+ }
+}

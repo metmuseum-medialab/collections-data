@@ -1,0 +1,40 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Album leaf; ink and color on silk",
+ "Dimensions": "14 1/4 x 10 1/2 in. (36.2 x 26.7 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Charles Stewart Smith Collection, Gift of Mrs. Charles Stewart Smith, Charles Stewart Smith Jr., and Howard Caswell Smith, in memory of Charles Stewart Smith, 1914",
+ "Accession Number": "14.76.61.24",
+ "Who": "Kawanabe Kyōsai",
+ "What": [
+  "Silk",
+  "Ink",
+  "Books",
+  "Paintings",
+  "Albums"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60025773,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP211805.jpg",
+ "related-artworks": [
+  60013353,
+  60025764,
+  60025766,
+  60025754,
+  60025756
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60025773"
+  }
+ }
+}

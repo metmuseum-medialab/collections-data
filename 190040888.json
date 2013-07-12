@@ -1,0 +1,38 @@
+{
+ "Date": "1854–56",
+ "Medium": "Salted paper print from paper negative",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+ "Accession Number": "2005.100.372.6",
+ "Who": "Louis-Pierre-Théophile Dubois de Nehaut",
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "Belgium"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190040888,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP132555.jpg",
+ "related-artworks": [
+  190036319,
+  190036320,
+  190036321,
+  190039476,
+  190040398
+ ],
+ "Provenance": [
+  "[Tristan Schwilden]",
+  "Gilman Paper Company Collection, New York, June 2, 1989"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190040888"
+  }
+ }
+}

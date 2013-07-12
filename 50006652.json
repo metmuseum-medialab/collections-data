@@ -1,0 +1,46 @@
+{
+ "Date": "mid to late 19th century",
+ "Geography": "Solomon Islands",
+ "Culture": "Solomon Islander",
+ "Medium": "Wood, chambered nautilus shell",
+ "Dimensions": "L.18 in. (45.7 cm)",
+ "Classification": "Wood-Containers",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.1773",
+ "What": [
+  "Bowls",
+  "Shell",
+  "Sea shell",
+  "Nautilus shell"
+ ],
+ "Where": [
+  "Oceania",
+  "Solomon Islands"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Melanesia, 1900 A.D.–present",
+  "Melanesia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50006652,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_206_1773.jpg",
+ "related-artworks": [
+  50006436,
+  50006276,
+  50006488,
+  50008528,
+  50008526
+ ],
+ "Provenance": [
+  "W. D. Webster, London",
+  "Hyams",
+  "[Matthias Komor, New York, until 1967]",
+  "Nelson  A. Rockefeller, New York, 1967, on loan to The Museum of Primitive Art, New York, 1967–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50006652"
+  }
+ }
+}

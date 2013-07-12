@@ -1,0 +1,38 @@
+{
+ "Date": "1890–93",
+ "Culture": "American (probably)",
+ "Medium": "silk",
+ "Dimensions": [
+  "(a) Length at CB 21 1/2 in. (54.6 cm)",
+  "(b) Length at CB 42 1/2 in. (108 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. Howard Ellis Cox, 1979",
+ "Accession Number": "1979.231.1a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80015435,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1979.231.1a_F.jpg",
+ "related-artworks": [
+  80001060,
+  80001238,
+  80001241,
+  80002105,
+  80002276
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80015435"
+  }
+ }
+}

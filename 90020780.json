@@ -1,0 +1,29 @@
+{
+ "Date": "1872",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1924",
+ "Accession Number": "24.66.129",
+ "Who": "Leavitt & Co.",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90020780,
+ "related-artworks": [
+  90000882,
+  90003457,
+  90006966,
+  90006963,
+  90006988
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90020780"
+  }
+ }
+}

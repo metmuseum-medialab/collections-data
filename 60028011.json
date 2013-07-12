@@ -1,0 +1,43 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1790",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "14 5/8 x 9 3/4 in. (37.1 x 24.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Howard Mansfield Collection, Purchase, Rogers Fund, 1936",
+ "Accession Number": "JP2655",
+ "Who": "Kitao Shigemasa",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60028011,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP130262.jpg",
+ "related-artworks": [
+  60000769,
+  60001245,
+  60000768,
+  60001211,
+  60013008
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028011"
+  }
+ }
+}

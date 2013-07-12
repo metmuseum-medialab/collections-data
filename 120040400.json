@@ -1,0 +1,40 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian",
+ "Medium": "Needle lace",
+ "Dimensions": "L. 15 1/2  x W. 5 inches (39.4 x 12.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "The Mabel Metcalf Fahnestock Collection, the gift of Ruth Fahnestock Schermerhorn and Faith Fahnestock, 1933",
+ "Accession Number": "33.90.23",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace",
+  "Neckwear",
+  "Collars"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120040400,
+ "related-artworks": [
+  120030057,
+  120039785,
+  120039786,
+  120040158,
+  120048492
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120040400"
+  }
+ }
+}

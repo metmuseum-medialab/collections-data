@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Dimensions": [
+  "12 x 1 1/4 inches",
+  "30.5 x 3.2 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.103.449",
+ "What": [
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Galloon"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120031610,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP6350.jpg",
+ "related-artworks": [
+  120031439,
+  120031437,
+  120031482,
+  120031483,
+  120031484
+ ],
+ "Provenance": [
+  "Samuel B. Dean (until 1908",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120031610"
+  }
+ }
+}

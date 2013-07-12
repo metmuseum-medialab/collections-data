@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Silk, metallic thread;  on silk",
+ "Dimensions": "86 x 14 1/2 in. (218.44 x 36.83 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Susan Dwight Bliss, 1944",
+ "Accession Number": "44.35.28",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Panels"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043165,
+ "related-artworks": [
+  60006840,
+  60006841,
+  60006843,
+  60042299,
+  60042300
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043165"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "Imperial",
+ "Date": "2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Gold",
+ "Dimensions": "Other 1 1/8 in. (2.8 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.3915",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "id": 130003803,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP135927.jpg",
+ "related-artworks": [
+  130003152,
+  130003156,
+  130003608,
+  130003628,
+  130003629
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130003803"
+  }
+ }
+}

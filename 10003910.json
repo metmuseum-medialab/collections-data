@@ -1,0 +1,32 @@
+{
+ "Date": "1830–70",
+ "Medium": "Wood, gilt",
+ "Dimensions": "22 1/8 x 18 3/8 in. (56.2 x 46.7 cm)",
+ "Classification": "Frames",
+ "Credit Line": "Gift of Robert Fridenberg, 1926",
+ "Accession Number": "26.174.2",
+ "What": [
+  "Gilt",
+  "Frames"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10003910,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/64180.jpg",
+ "related-artworks": [
+  10003909,
+  10003911,
+  10000132,
+  10003908,
+  10003933
+ ],
+ "Provenance": [
+  "Robert Fridenberg, New York, until 1926"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003910"
+  }
+ }
+}

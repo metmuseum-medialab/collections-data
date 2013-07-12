@@ -1,0 +1,40 @@
+{
+ "Period": "Late Period–Ptolemaic Period",
+ "Date": "400–200 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region; possibly from Memphis (Mit Rahina)",
+ "Medium": "Limestone",
+ "Dimensions": "H. 21 cm",
+ "Credit Line": "Purchase, Edward S. Harkness Gift, 1926",
+ "Accession Number": "26.7.1402",
+ "What": [
+  "Limestone",
+  "Models"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008674,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DP243431.jpg",
+ "related-artworks": [
+  100008903,
+  100016296,
+  100000334,
+  100001660,
+  100001657
+ ],
+ "Description": "Small Late Period and Ptolemaic reliefs or sculptures that depict a subject in a partial or unfinished way but are themselves finished objects constitute a special class of object. Guidelines like those for artists are often prominently exhibited as part of the object, although, in fact, many instances can be noted where the object simply could not serve as a suitable model for a traditional formal Egyptian representation. Personifications of kingship, figures that may represent the now emerging demigods Imhotep and Amenhotep Son of Hapu, and popular gods like Harpokrates or Isis, are heavily represented within the corpus. Taken together, the figures represented and the other features indicate the reliefs and sculptures of this class, sometimes called by Egyptologists \"sculptor’s models / votives,\" were the material of a donation practice, perhaps connected with the prolific temple building of these centuries. Unfortunately there is little to illuminate us about the mechanics of such a donation practice.The identity of the female with the elaborate bobbed hairstyle, her head terminating prematurely just above the brow - is puzzling. There is no named figure or deity with whom she can be associated, although the figure type may have precursors among female figurines of the Third Intermediate Period and Late Period.",
+ "Provenance": [
+  "Formerly Carnarvon Collection, purchased in Cairo before 1923. Carnarvon Collection purchased by the Museum from Lady Carnarvon, 1926."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008674"
+  }
+ }
+}

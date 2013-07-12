@@ -1,0 +1,36 @@
+{
+ "Publisher": "Stringer & Townsend (New York, NY)",
+ "Date": "1857",
+ "Classification": "Books",
+ "Credit Line": "Gift of A. Hyatt Mayor, 1969",
+ "Accession Number": "69.635.3",
+ "Who": [
+  "Stringer & Townsend",
+  "M. Lafayette Byrn"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90014327,
+ "related-artworks": [
+  90025676,
+  90000882,
+  90003457,
+  90004101,
+  90004257
+ ],
+ "Provenance": [
+  "Donor: A. Hyatt Mayor (American, 1901–1980)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90014327"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1775",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "image 5 11/16 x 3 1/2 in. (14.4 x 8.9 cm)",
+  "sheet 8 1/4 x 4 3/4 in. (21 x 12 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of William H. Huntington, 1883",
+ "Accession Number": "83.2.1007",
+ "Who": "Anonymous, British, 18th century",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90063523,
+ "related-artworks": [
+  90042943,
+  90062563,
+  90062602,
+  90063445,
+  90063471
+ ],
+ "Provenance": [
+  "Donor: William Henry Huntington"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90063523"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Architect": "Charles W. Clinton (American, New York 1838–1910)",
+ "Date": "before 1880",
+ "Medium": "Photograph",
+ "Dimensions": [
+  "Sheet 10 13/16 × 16 9/16 in. (27.5 × 42 cm)",
+  "Mount 15 5/16 × 20 1/16 in. (38.9 × 51 cm)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Museum Accession, 1954",
+ "Accession Number": "54.667.1",
+ "Who": [
+  "Charles W. Clinton",
+  "J. Reid"
+ ],
+ "What": "Photographs",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90102953,
+ "related-artworks": [
+  90102955,
+  90017297,
+  90042305,
+  90052003
+ ],
+ "Provenance": [
+  "Donor: Museum Accession"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90102953"
+  }
+ }
+}

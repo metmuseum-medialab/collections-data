@@ -1,0 +1,55 @@
+{
+ "Date": "1690–1710",
+ "Geography": "England",
+ "Culture": "British",
+ "Medium": "Beech",
+ "Dimensions": "47 x 17 x 14 3/4 in. (119.4 x 43.2 x 37.5 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1909",
+ "Accession Number": "10.125.209",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Side chairs",
+  "Beech"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001588,
+ "gallery-id": 711,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/17647.jpg",
+ "related-artworks": [
+  10001586,
+  10001653,
+  10001611,
+  10001589,
+  10000173
+ ],
+ "Provenance": [
+  "Governor John Wentworth, Portsmouth, New Hampshire",
+  "his son, Governor John Wentworth, Portsmouth, New Hampshire, until 1775",
+  "cousin of Colonel Edward G. Baker, New England, ca. 1820",
+  "Colonel Edward G. Baker, California",
+  "his daughter and son-in-law, Caroline Baker Stevens and Colonel Robert J. Stevens, Washington, D. C., until 1882",
+  "Thomas Donaldson, Philadelphia, 1882",
+  "his son, Thomas Blaine Donaldson, Philadelphia, after 1882–1900",
+  "John W. Schell, Philadelphia, 1900",
+  "Joel Koopman, Boston, 1900",
+  "H. Eugene Bolles, Boston, until 1909",
+  "[Mrs. Russell Sage, New York, 1909]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001588"
+  }
+ }
+}

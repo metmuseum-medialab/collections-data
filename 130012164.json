@@ -1,0 +1,44 @@
+{
+ "Period": "Archaic",
+ "Date": "6th–5th century B.C.",
+ "Culture": "Greek, Laconian",
+ "Medium": "Lead",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Gift of A. J. B. Wace, 1924",
+ "Accession Number": "24.195.110",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Statues",
+  "Figurines",
+  "Lead"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Peloponnese",
+  "Laconia"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130012164,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP118313.jpg",
+ "related-artworks": [
+  130012058,
+  130012066,
+  130012075,
+  130012079,
+  130012055
+ ],
+ "Provenance": [
+  "From Sparta, the sanctuary of Artemis Orthia"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130012164"
+  }
+ }
+}

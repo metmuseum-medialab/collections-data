@@ -1,0 +1,52 @@
+{
+ "Period": "Tang dynasty (618–907)",
+ "Culture": "China",
+ "Medium": "Stone, paint traces",
+ "Dimensions": "H. 19 5/8 in. (49.8 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.37.152",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 500–1000 A.D.",
+  "China, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60032819,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/12_37_152_F.JPG",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60032853"
+   },
+   {
+    "href": "http://scrapi.org/object/60025430"
+   },
+   {
+    "href": "http://scrapi.org/object/60033000"
+   },
+   {
+    "href": "http://scrapi.org/object/60033001"
+   },
+   {
+    "href": "http://scrapi.org/object/60033091"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60032819"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60032819"
+  }
+ }
+}

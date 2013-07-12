@@ -1,0 +1,46 @@
+{
+ "Date": "mid-19th century",
+ "Culture": "British",
+ "Medium": "Linen and cotton, applied",
+ "Dimensions": [
+  "L. 15 1/5 x W. 14 1/2 inches",
+  "38.6 x 36.8 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.48.17",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Needlework",
+  "Linen",
+  "Lace"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120031018,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP3276.jpg",
+ "related-artworks": [
+  120031017,
+  120032976,
+  120045061,
+  120045951,
+  120046003
+ ],
+ "Provenance": [
+  "sold to MMA through Margaret Taylor Johnstone , 1908"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120031018"
+  }
+ }
+}

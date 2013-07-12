@@ -1,0 +1,46 @@
+{
+ "Date": "1851",
+ "Culture": "British",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 44 mm.",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Assunta Sommella Peluso, Ada Peluso, and Romano I. Peluso, in memory of Ignazio Peluso, 2000",
+ "Accession Number": "2000.323.7",
+ "Who": "William Wyon",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120027065,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP100475.jpg",
+ "related-artworks": [
+  120024936,
+  120024937,
+  120048644,
+  120005190,
+  120005254
+ ],
+ "Provenance": [
+  "Assunta Sommella Peluso",
+  "and Ada Peluso",
+  "and Romano I. Peluso (until 2000",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120027065"
+  }
+ }
+}

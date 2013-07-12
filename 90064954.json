@@ -1,0 +1,43 @@
+{
+ "Date": "1800–1900",
+ "Dimensions": "12-3/4 x 9-1/4 in",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1962",
+ "Accession Number": "62.537.5",
+ "Who": "Anonymous, Italian, 19th century",
+ "What": "Drawings",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90064954,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803948.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90003949",
+  "http://scrapi.org/object/90007294",
+  "http://scrapi.org/object/90007299",
+  "http://scrapi.org/object/90009001",
+  "http://scrapi.org/object/90009144"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90003949"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90007294"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90007299"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90009001"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90009144"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90064954"
+  }
+ }
+}

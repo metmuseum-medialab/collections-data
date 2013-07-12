@@ -1,0 +1,42 @@
+{
+ "Date": "1870",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "35.1 x 27.3 cm (13 13/16 x 10 3/4 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1969",
+ "Accession Number": "69.607.11",
+ "Who": "Julia Margaret Cameron",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Julia Margaret Cameron (1815–1879)",
+  "The Industrialization of French Photography after 1860",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190023341,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/MM89430_69.607.11.jpg",
+ "related-artworks": [
+  190012110,
+  190012482,
+  190018039,
+  190018040,
+  190018041
+ ],
+ "Provenance": [
+  "[Colnaghi & Co., London]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190023341"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "fall/winter 1987–88",
+ "Culture": "American",
+ "Medium": "(a, e) plastic; (b–d) wool",
+ "Dimensions": [
+  "Length at CB (a) 57 3/4 in. (146.7 cm)",
+  "Length at CB (b) 22 3/4 in. (57.8 cm)",
+  "Total Length (c) 20 1/4 in. (51.4 cm)",
+  "Length at Side Seam (d) 44 1/4 in. (112.4 cm)",
+  "Total Length (e) 91 in. (231.1 cm)"
+ ],
+ "Credit Line": "Gift of Martin F. Price, 1998",
+ "Accession Number": "1998.493.106a–e",
+ "Who": "Giorgio di Sant'Angelo",
+ "What": [
+  "Wool",
+  "Ensembles",
+  "Plastic"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80015652,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1998.493.106ace_F.jpg",
+ "related-artworks": [
+  80032935,
+  80015730,
+  80016254,
+  80016095,
+  80016315
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80015652"
+  }
+ }
+}

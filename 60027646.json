@@ -1,0 +1,40 @@
+{
+ "Period": "Bronze and Iron Age period",
+ "Date": "500 B.C.–A.D. 300",
+ "Culture": "Thailand",
+ "Medium": "Bronze",
+ "Dimensions": "H. 3 3/4 in. (9.5 cm); W. 3 1/8 in. (7.9 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Samuel Eilenberg Collection, Bequest of Samuel Eilenberg, 1998",
+ "Accession Number": "2001.433.155",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Hooks"
+ ],
+ "Where": [
+  "Asia",
+  "Thailand"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1000 B.C.–1 A.D.",
+  "Southeast Asia, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60027646,
+ "related-artworks": [
+  60027645,
+  60027643,
+  60006186,
+  60027647,
+  60027644
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60027646"
+  }
+ }
+}

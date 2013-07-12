@@ -1,0 +1,41 @@
+{
+ "Date": "1700",
+ "Culture": "Japan",
+ "Medium": "Clay with a crackled transparent glaze decorated with  enamels and gold (Hizen ware, Kutani type)",
+ "Dimensions": "Diam. 8 1/2 in. (21.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Charles Stewart Smith, 1893",
+ "Accession Number": "93.3.274",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Gold",
+  "Dishes",
+  "Glaze",
+  "Enamels",
+  "Kutani"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60015908,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/30449.jpg",
+ "related-artworks": [
+  60015932,
+  60034199,
+  60015837,
+  60023363,
+  60023390
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60015908"
+  }
+ }
+}

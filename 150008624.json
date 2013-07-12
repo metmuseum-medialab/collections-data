@@ -1,0 +1,42 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian",
+ "Medium": "Linen; silk",
+ "Dimensions": "27 1/2 (to bottom of fringe) x 82 in. (69.9 x 208.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.1783",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Lace",
+  "Valances",
+  "Frontal"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Siena"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 150008624,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975.1.1783.jpg",
+ "related-artworks": [
+  150007272,
+  150007275,
+  150007395,
+  150008330,
+  150008329
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008624"
+  }
+ }
+}

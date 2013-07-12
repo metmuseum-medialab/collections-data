@@ -1,0 +1,50 @@
+{
+ "Publisher": "Published London by Henry G. Bohn",
+ "Printer": "H. C. Maguire (British, 19th century)",
+ "Date": "1849",
+ "Medium": "Color lithography",
+ "Dimensions": "13 x 10 7/16 x 1 in. (33 x 26.5 x 2.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1970",
+ "Accession Number": "1970.565.53",
+ "Who": [
+  "Augustus Welby Northmore Pugin",
+  "Henry G. Bohn",
+  "M. & . Hanhart",
+  "H. C. Maguire"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Design Reform",
+  "European Revivalism",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90023632,
+ "related-artworks": [
+  90019103,
+  90023631,
+  90023633,
+  90026999,
+  90014074
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023632"
+  }
+ }
+}

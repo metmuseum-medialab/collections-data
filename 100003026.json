@@ -1,0 +1,43 @@
+{
+ "Period": "Late Middle Kingdom–Second Intermediate Period",
+ "Dynasty": "Dynasty 13–SIP",
+ "Date": "ca. 1802–1550 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht South, west of mastaba of Senwosretankh, surface deposit, MMA 1932–1933",
+ "Medium": "Clay (unfired)",
+ "Dimensions": "h. 4.6 cm (1 13/16 in); w. 3.6 cm (1 7/16 in)",
+ "Credit Line": "Rogers Fund, 1933",
+ "Accession Number": "33.1.144",
+ "What": [
+  "Clay",
+  "Figures",
+  "Tablets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100003026,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsgal10tablets.jpg",
+ "related-artworks": [
+  100000585,
+  100002950,
+  100002952,
+  100002951,
+  100002953
+ ],
+ "Description": "These  tablets of unfired clay with attached crude faces were found as a group by the Museum's excavators at Lisht South in loose surface sand west of the mastaba of  Senwosretankh, a high official and possibly the architect of the pyramid complex of Senwosret I (ca. 1961–1917 B. C.), east of which he erected his own very elaborate mastaba tomb (see acc. nos. 33.1.2 and other pieces).  The mud figures and little coffin (acc. no. 33.1.66) that had contained some of them must have been buried, however, considerably later than the early twelfth dynasty tomb close to which they were found.  In fact, during the thirteenth and following dynasties people deposited a number of objects in the by then sacred area around a legendary ruler's pyramid and its dependant monuments, believing conceivably that potent magical powers could thus be released. These flat mud figures, for instance, are inscribed in now much-faded red paint with the names of men identified as enemies (most of them Egyptians but some with foreign names).  Their deposition may have been thought to effect their destruction.",
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003026"
+  }
+ }
+}

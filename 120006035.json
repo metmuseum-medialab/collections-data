@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Culture": "French (?)",
+ "Medium": "Iron",
+ "Dimensions": "L. 2 1/4 in. (5.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.100.97",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Keys"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120006035,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/7945.jpg",
+ "related-artworks": [
+  120020477,
+  120006031,
+  120020461,
+  120006034,
+  120001225
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006035"
+  }
+ }
+}

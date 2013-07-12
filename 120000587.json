@@ -1,0 +1,39 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Glass",
+ "Dimensions": "H. 13 1/4 in. (33.7 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Henry G. Marquand, 1883",
+ "Accession Number": "83.7.132",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000587,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF83_7_132_img1.jpg",
+ "related-artworks": [
+  120000132,
+  120000134,
+  120000138,
+  120000137,
+  120000157
+ ],
+ "Provenance": [
+  "Henry G. Marquand until 1883"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000587"
+  }
+ }
+}

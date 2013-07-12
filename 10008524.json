@@ -1,0 +1,45 @@
+{
+ "Date": "1764–98",
+ "Geography": "Mid-Atlantic, Philadelphia, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Pewter",
+ "Dimensions": "H. 8 1/8 in. (20.6 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Mrs. J. Insley Blair, 1939",
+ "Accession Number": "39.185.7",
+ "Who": "William Will",
+ "What": [
+  "Metal",
+  "Drinking vessels",
+  "Pewter",
+  "Tankards"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Philadelphia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10008524,
+ "gallery-id": 704,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/120267.jpg",
+ "related-artworks": [
+  10005523,
+  10003401,
+  10008258,
+  10008686,
+  10008687
+ ],
+ "Provenance": [
+  "Mrs. J. Insley Blair, Tuxedo Park, New York, until 1939"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10008524"
+  }
+ }
+}

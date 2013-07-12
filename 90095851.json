@@ -1,0 +1,38 @@
+{
+ "Date": "1879",
+ "Medium": "Hand-colored lithograph",
+ "Dimensions": "Sheet 9 1/16 x 13 3/8 in. (23 x 34 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Adele S. Colgate, 1962",
+ "Accession Number": "63.550.142",
+ "Who": "Currier & Ives",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90095851,
+ "related-artworks": [
+  90008904,
+  90026873,
+  90027157,
+  90032281,
+  90034584
+ ],
+ "Provenance": [
+  "Donor: Adele S. Colgate (American, died 1962)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90095851"
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Reign": "reign of Amenemhat I, early",
+ "Date": "ca. 1981–1975 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Southern Asasif, Tomb of Wah (MMA 1107), Mummy, over crossed wrists, MMA 1920",
+ "Medium": "Silver, gold, glazed steatite, linen cord",
+ "Dimensions": "L. 2.7cm (1 1/16 in) x H. 1.2 cm (1/2 in) x H. 1.9 cm (3/4 in.)",
+ "Credit Line": "Rogers Fund and Edward S. Harkness Gift, 1940",
+ "Accession Number": "40.3.13",
+ "What": [
+  "Metal",
+  "Costume",
+  "Sculpture",
+  "Silver",
+  "Gold",
+  "Linen",
+  "Jewelry",
+  "Scarabs",
+  "Glazing",
+  "Talc",
+  "Steatite",
+  "Bracelets",
+  "Cord"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100001617,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/40.3.13_top_view_1.JPG",
+ "related-artworks": [
+  100000445,
+  100005814,
+  100001536,
+  100006918,
+  100008549
+ ],
+ "Description": "This silver scarab was manufactured in the same fashion as Wah's larger example (40.3.12). On its base are interlocking spirals and three hieroglyphs. Before burial, the heads of both scarabs were intentionally damaged by forceful scratching, possibly an instance of magical \"killing.\"",
+ "Provenance": [
+  "Mummy of Wah excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1920. Acquired by the Museum in the division of finds, 1920. Mummy unwrapped in New York, 1940."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100001617"
+  }
+ }
+}

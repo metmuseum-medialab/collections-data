@@ -1,0 +1,48 @@
+{
+ "Date": "1575",
+ "Culture": "Italian",
+ "Classification": "Helmets",
+ "Credit Line": "Bashford Dean Memorial Collection, Funds from various donors, 1929",
+ "Accession Number": "29.158.19",
+ "What": [
+  "Costume",
+  "Armor",
+  "Body armor",
+  "Helmets",
+  "Morions",
+  "Cabassets"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40012727,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40005504"
+   },
+   {
+    "href": "http://scrapi.org/object/40005509"
+   },
+   {
+    "href": "http://scrapi.org/object/40005506"
+   },
+   {
+    "href": "http://scrapi.org/object/40011263"
+   },
+   {
+    "href": "http://scrapi.org/object/40012726"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40012727"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40012727"
+  }
+ }
+}

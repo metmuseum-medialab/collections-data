@@ -1,0 +1,60 @@
+{
+ "Printer": "Cole Weston (American, 1919–2003)",
+ "Date": "1939, printed ca. 1954",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "David Hunter McAlpin Fund, 1957",
+ "Accession Number": "57.519.3",
+ "Rights and Reproduction": "©1981 Center for Creative Photography, Arizona Board of Regents",
+ "Who": [
+  "Edward Weston",
+  "Brett Weston",
+  "Cole Weston"
+ ],
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Group f/64",
+  "Paul Strand (1890–1976)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190021750,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP237367.jpg",
+ "Provenance": [
+  "Edward Weston"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190011773"
+   },
+   {
+    "href": "http://scrapi.org/object/190011774"
+   },
+   {
+    "href": "http://scrapi.org/object/190011775"
+   },
+   {
+    "href": "http://scrapi.org/object/190011776"
+   },
+   {
+    "href": "http://scrapi.org/object/190011777"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190021750"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190021750"
+  }
+ }
+}

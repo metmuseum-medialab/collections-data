@@ -1,0 +1,41 @@
+{
+ "Artist": "After Giovanni Domenico Ferretti (Italian, Florence 1692–after 1768 Florence)",
+ "Date": "1760",
+ "Medium": "Etching and engraving; first? state of two",
+ "Dimensions": "15 11/16 x 10 11/16 in.  (39.8 x 27.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1963",
+ "Accession Number": "63.630.1",
+ "Who": [
+  "Francesco Bartolozzi",
+  "Giovanni Domenico Ferretti"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002144,
+ "related-artworks": [
+  90000857,
+  90002147,
+  90002148,
+  90002145,
+  90002146
+ ],
+ "Provenance": [
+  "Vendor: C. E. Rappaport (Italian)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002144"
+  }
+ }
+}

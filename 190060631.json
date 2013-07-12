@@ -1,0 +1,40 @@
+{
+ "Date": "1864",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": [
+  "Image 19 × 24.7 cm (7 1/2 × 9 3/4 in.)",
+  "Mount 27.7 × 35.7 cm (10 7/8 × 14 1/16 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Susan and Thomas Dunn Gift, 2013",
+ "Accession Number": "2013.187",
+ "Who": "Louis Vignes",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190060631,
+ "related-artworks": [
+  190045243,
+  190056676,
+  190061116
+ ],
+ "Provenance": [
+  "[...]",
+  "Private collector, France",
+  "[Galerie Michèle Chomette, Paris, before 1985–2013]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190060631"
+  }
+ }
+}

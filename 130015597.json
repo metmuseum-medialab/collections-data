@@ -1,0 +1,45 @@
+{
+ "Period": "Imperial",
+ "Date": "1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Bronze",
+ "Dimensions": [
+  "W. as preserved 2 11/32 in. (5.94 cm.)",
+  "H. 2 3/8 in. (6.0 cm.)"
+ ],
+ "Classification": "Bronzes",
+ "Credit Line": "Gift of A. Hyatt Mayor, 1960",
+ "Accession Number": "60.117.9",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Amulets"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130015597,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP20797.jpg",
+ "related-artworks": [
+  130015593,
+  130015595,
+  130015596,
+  130015589,
+  130015590
+ ],
+ "Description": "Flat-backed, with many holes for attachment, this ornament was likely intended to be fastened to another, larger object.",
+ "Provenance": [
+  "Said to be from Italica (near modern Sevilla, southern Spain)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130015597"
+  }
+ }
+}

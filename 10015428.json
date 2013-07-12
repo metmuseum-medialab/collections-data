@@ -1,0 +1,62 @@
+{
+ "Date": "ca. 1825",
+ "Culture": "American",
+ "Medium": "Embroidered silk, canvas",
+ "Dimensions": "19 1/2 x 15 in. (49.5 x 38.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mr. and Mrs. Harcourt Amory, 1963",
+ "Accession Number": "Inst.63.7.13",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Furniture",
+  "Embroidery",
+  "Canvas",
+  "Seating furniture",
+  "Chairs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10015428,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/AR307.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/10013972",
+  "http://scrapi.org/object/10013973",
+  "http://scrapi.org/object/10018819",
+  "http://scrapi.org/object/10013965",
+  "http://scrapi.org/object/10013966"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ad/original/AR307.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/184055.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10013972"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10013973"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10018819"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10013965"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10013966"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10015428"
+  }
+ }
+}

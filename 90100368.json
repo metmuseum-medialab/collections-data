@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1588",
+ "Medium": "Engraving",
+ "Dimensions": "Sheet 5 × 5 1/8 in. (12.7 × 13 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1923",
+ "Accession Number": "23.84.20",
+ "Who": "Theodor de Bry",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90100368,
+ "related-artworks": [
+  90099362,
+  90100628,
+  90100549,
+  90099367,
+  90099372
+ ],
+ "Description": "Design for a dish with medallions containing the portraits of three Roman Emperors – Vetllius (top), Domitian (left), and Augustus (right) – around a central medallion with the title. Between the medallions, ornament with three scenes of jesters misbehaving. From a series of four plates.",
+ "Provenance": [
+  "Vendor: S. F. C. Smith"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90100368"
+  }
+ }
+}

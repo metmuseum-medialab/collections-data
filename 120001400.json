@@ -1,0 +1,49 @@
+{
+ "Date": "mid-18th century",
+ "Culture": "French (Paris)",
+ "Medium": "Shagreen, gold, enamel, steel",
+ "Dimensions": "Diam. 2 in. (5.1 cm)",
+ "Classification": "Horology",
+ "Credit Line": "Gift of Mrs. Lucy W. Drexel, 1889",
+ "Accession Number": "89.2.67a, b",
+ "Who": "Jean Baptiste Baillon",
+ "What": [
+  "Metal",
+  "Gold",
+  "Iron and iron alloy",
+  "Leather",
+  "Iron alloy",
+  "Steel",
+  "Enamel",
+  "Timepieces",
+  "Watches",
+  "Shagreen"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001400,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/17331.jpg",
+ "related-artworks": [
+  120008103,
+  120008860,
+  120008927,
+  120023683,
+  120022937
+ ],
+ "Provenance": [
+  "Lucy W. Drexel (until 1889",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001400"
+  }
+ }
+}

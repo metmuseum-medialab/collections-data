@@ -1,0 +1,43 @@
+{
+ "Date": "1981",
+ "Medium": "Ink on paper",
+ "Dimensions": [
+  "H. 10-5/8, W. 16-5/8 inches",
+  "(27 x 42.2 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of J. M. Tasende, 1985",
+ "Accession Number": "1985.452.51",
+ "Rights and Reproduction": "© 2011 Artists Rights Society (ARS), New York",
+ "Who": "José Luis Cuevas",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America, 1900 A.D.–present",
+  "Mexico and Central America Native Peoples, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210004542,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1985.452.51.jpg",
+ "related-artworks": [
+  210004496,
+  210004497,
+  210004498,
+  210004499,
+  210004500
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210004542"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1753–56",
+ "Culture": "British, Battersea, London",
+ "Medium": "Enamel on copper, transfer printed and overenameled",
+ "Dimensions": "H. 3 in. (7.6 cm.); W. 3-1/4 in. (8.1 cm.)",
+ "Classification": "Enamels",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.803",
+ "What": [
+  "Metal",
+  "Copper",
+  "Painting",
+  "Printing",
+  "Enamels",
+  "Plaques",
+  "Enamel"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London",
+  "Battersea",
+  "Wandsworth"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120019152,
+ "gallery-id": 510,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES2032.jpg",
+ "related-artworks": [
+  120019153,
+  120019151,
+  120019155,
+  120019154,
+  120022768
+ ],
+ "Provenance": [
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019152"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Artist": "After Charles Nicolas Cochin II (French, Paris 1715–1790 Paris)",
+ "Date": "1775",
+ "Medium": "Etching and engraving; third state of three (Bocher)",
+ "Dimensions": [
+  "Sheet 8 1/8 × 5 11/16 in. (20.6 × 14.4 cm)",
+  "Plate 7 9/16 × 5 1/4 in. (19.2 × 13.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Joseph Verner Reed, 1950",
+ "Accession Number": "50.576.171",
+ "Who": [
+  "Augustin de Saint-Aubin",
+  "Charles Nicolas Cochin II"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90098787,
+ "related-artworks": [
+  90098149,
+  90098170,
+  90098174,
+  90098282,
+  90098283
+ ],
+ "Provenance": [
+  "Donor: Joseph Verner Reed (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90098787"
+  }
+ }
+}

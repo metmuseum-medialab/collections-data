@@ -1,0 +1,56 @@
+{
+ "Date": "10th–16th century",
+ "Geography": "Colombia",
+ "Culture": "Muisca",
+ "Medium": "Gold (cast)",
+ "Dimensions": "H. 4 x W. 4 3/8 x D. 3/4 in. (10.2 x 11.1 x 1.9 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.509",
+ "Who": "Chibcha",
+ "What": [
+  "Metal",
+  "Gold",
+  "Pendants"
+ ],
+ "Where": [
+  "South America",
+  "Colombia"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Northern Andes, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50005381,
+ "gallery-id": 357,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DP102178.jpg",
+ "Description": "The Muisca people lived in the fertile basins in the high mountains of the eastern Andes near the present capital of Colombia, Santa Fe de Bogotá. As there were no sources of gold in their territory, they bartered emeralds, cotton cloth, and salt for the precious material. Muisca gold objects differ from other Precolumbian gold works in function and manufacture. Many are votive offerings rather than wearable objects. They are invariably lost-wax casts of tumbaga, an alloy that could contain as much as 70 percent copper, and their surfaces are not as smooth. They were often left unpolished, as was this pendant.Bird-form pendants were popular in Precolumbian America, particularly in the region of the Isthmus of Panama, where their basic form—head and spread wings and tail—was quite consistent. In adjacent Colombia, however, bird pendants vary greatly in design and composition. This example displays a typical Isthmian morphology, but it is more ornate and detailed than Isthmian ones. It features cut-out motifs, dangles, a relief human face, and incised geometric designs on the bird's chest. The wax model for the human face was worked over a stone matrix. The bird species depicted here cannot be determined.",
+ "Provenance": [
+  "[John Wise, Ltd., New York, until 1957]",
+  "Nelson A. Rockefeller, New York, 1957, on loan to The Museum of Primitive Art, New York, 1957–1978"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50005397"
+   },
+   {
+    "href": "http://scrapi.org/object/50007271"
+   },
+   {
+    "href": "http://scrapi.org/object/50009395"
+   },
+   {
+    "href": "http://scrapi.org/object/50002004"
+   },
+   {
+    "href": "http://scrapi.org/object/50002530"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50005381"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50005381"
+  }
+ }
+}

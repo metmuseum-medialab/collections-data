@@ -1,0 +1,43 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "French (Paris)",
+ "Medium": "Gold, enamel",
+ "Dimensions": "2-5/8 x 2 in.  (6.7 x 5.1 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.1112",
+ "Who": "Mathieu Coiny fils",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Gold",
+  "Enamel",
+  "Snuff containers",
+  "Platinum",
+  "Snuffboxes"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1600–1800 A.D."
+ ],
+ "id": 120008516,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/39550.jpg",
+ "related-artworks": [
+  120008578,
+  120013007,
+  120015594,
+  120015595,
+  120013026
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120008516"
+  }
+ }
+}

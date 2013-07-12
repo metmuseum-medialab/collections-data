@@ -1,0 +1,39 @@
+{
+ "Period": "Early Imperial",
+ "Date": "ca. 1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; drawn and tooled",
+ "Dimensions": "Other 6 3/4 in. (17.2 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Bequest of Mary Anna Palmer Draper, 1914",
+ "Accession Number": "15.43.261",
+ "What": [
+  "Glass",
+  "Needles"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009490,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP166242.jpg",
+ "related-artworks": [
+  130000207,
+  130006929,
+  130000056,
+  130000053,
+  130000055
+ ],
+ "Provenance": [
+  "Said to be from Scythopolis (Beit She'an, Israel)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009490"
+  }
+ }
+}

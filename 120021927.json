@@ -1,0 +1,48 @@
+{
+ "Date": "19th century",
+ "Culture": "German (Meissen) (?)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 5-3/4 in. (14.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+ "Accession Number": "1974.356.357",
+ "Who": "Meissen Manufactory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Figures",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Saxony",
+  "Meissen"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021927,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/205092.jpg",
+ "related-artworks": [
+  120021943,
+  120023318,
+  120018563,
+  120018590,
+  120018611
+ ],
+ "Provenance": [
+  "[ Otto Buel , Lucerne (until 1949",
+  "sold to Sheafer) ]",
+  "Lesley and Emma Sheafer (1949–73",
+  "bequeathed by Emma to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021927"
+  }
+ }
+}

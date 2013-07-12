@@ -1,0 +1,39 @@
+{
+ "Date": "1827–29",
+ "Medium": "Oil on paper, laid down on canvas",
+ "Dimensions": "10 1/2 x 15 in. (26.7 x 38.1 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+ "Accession Number": "2009.400.61",
+ "Who": "Léon Fleury",
+ "What": [
+  "Paper",
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110005337,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/sfEVT_424.jpg",
+ "related-artworks": [
+  110004346,
+  110004345,
+  110005406
+ ],
+ "Provenance": [
+  "[Chantal Kiener, Paris]",
+  "Eugene V. Thaw, New York (by 2007–9)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110005337"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Date": "n.d.",
+ "Medium": "Engraving",
+ "Dimensions": "Sheet 4 1/2 × 4 in. (11.4 × 10.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Fletcher Fund, 1919",
+ "Accession Number": "19.73.104",
+ "Who": "Albrecht Dürer",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Arms and Armor – Common Misconceptions and Frequently Asked Questions",
+  "The Decoration of Arms and Armor",
+  "The Reformation",
+  "The Printed Image in the West History and Techniques",
+  "Europe and the Age of Exploration",
+  "Portraiture in Renaissance and Baroque Europe",
+  "Rembrandt van Rijn (1606–1669) Prints",
+  "Anselm Kiefer (born 1945)",
+  "Jan Gossart (ca. 1478–1532) and His Circle",
+  "The Rediscovery of Classical Antiquity",
+  "Albrecht Dürer (1471–1528)",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90065602,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP815292.jpg",
+ "related-artworks": [
+  90003217,
+  90003218,
+  90003220,
+  90003208,
+  90003209
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90065602"
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "Date": "late 19th century",
+ "Culture": "American",
+ "Medium": "wool, metal",
+ "Dimensions": "Length at CB 35 3/4 in. (90.8 cm)",
+ "Credit Line": "Gift of Jessie Leonard Hill, 1979",
+ "Accession Number": "1979.152.3",
+ "What": [
+  "Metal",
+  "Costume",
+  "Wool",
+  "Coats",
+  "Cutaway coat"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80014946,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1979.152.3_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1979.152.3_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1979.152.3_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1979.152.3_d.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80014858"
+   },
+   {
+    "href": "http://scrapi.org/object/80014854"
+   },
+   {
+    "href": "http://scrapi.org/object/80013973"
+   },
+   {
+    "href": "http://scrapi.org/object/80005782"
+   },
+   {
+    "href": "http://scrapi.org/object/80006078"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80014946"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80014946"
+  }
+ }
+}

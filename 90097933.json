@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1888",
+ "Medium": "Photolithograph",
+ "Dimensions": "Sheet 2 5/8 × 1 1/2 in. (6.7 × 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 202, N67.12",
+ "Who": "Allen & Ginter",
+ "What": [
+  "Prints",
+  "Photomechanical reproductions",
+  "Photolithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90097933,
+ "related-artworks": [
+  90097417,
+  90097423,
+  90097424,
+  90097425,
+  90097427
+ ],
+ "Description": "Trade cards from the \"Actresses\" series (N67), issued ca. 1888 to promote Virginia Brights and Dixie Cigarettes distributed by Allen & Ginter Tobacco Manufacturers.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90097933"
+  }
+ }
+}

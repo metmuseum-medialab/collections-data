@@ -1,0 +1,51 @@
+{
+ "Date": "ca. 1510–20",
+ "Culture": "Italian (probably Milan)",
+ "Medium": "Steel and leather",
+ "Dimensions": "L. 24 in. (61 cm)",
+ "Classification": "Armor Parts",
+ "Credit Line": "Rogers Fund, 2000",
+ "Accession Number": "2000.268",
+ "What": [
+  "Metal",
+  "Costume",
+  "Arms",
+  "Iron and iron alloy",
+  "Leather",
+  "Iron alloy",
+  "Steel",
+  "Armor",
+  "Body armor",
+  "Vambraces"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Lombardy",
+  "Milan"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40004837,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/269662.jpg",
+ "related-artworks": [
+  40014362,
+  40014363,
+  40004724,
+  40000173,
+  40000428
+ ],
+ "Provenance": [
+  "Ex coll.:  [Samuel L. Pratt, London]",
+  "Marquis of Breadalbane, Taymouth Castle, Perthshire, Scotland",
+  "[Peter Dale Ltd., London]",
+  "Ian Eaves, London."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40004837"
+  }
+ }
+}

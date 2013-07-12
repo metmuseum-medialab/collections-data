@@ -1,0 +1,46 @@
+{
+ "Date": "1778-80",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Sheet 21 5/8 x 31 1/2 in. (55 x 80 cm)",
+  "Plate 25 3/8 x 15 15/16 in. (64.5 x 40.5 cm) printed horizontally"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, transferred from the Library",
+ "Accession Number": "41.71.1.12",
+ "Who": "Giovanni Battista Piranesi",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Joseph Mallord William Turner (1775–1851)",
+  "The Rediscovery of Classical Antiquity",
+  "The Grand Tour",
+  "The Printed Image in the West History and Techniques",
+  "The French Academy in Rome",
+  "Neoclassicism",
+  "Giovanni Battista Piranesi (1720–1778)",
+  "Venice in the Eighteenth Century"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90081070,
+ "related-artworks": [
+  90004085,
+  90004773,
+  90016288,
+  90025589,
+  90027820
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90081070"
+  }
+ }
+}

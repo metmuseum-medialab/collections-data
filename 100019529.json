@@ -1,0 +1,43 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19–20",
+ "Date": "ca 1186–1170 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Valley of the Kings",
+ "Medium": "Limestone, ink",
+ "Dimensions": "h. 15.5 cm (6 1/8 in); w. 15 cm (5 7/8 in)",
+ "Credit Line": "Gift of Theodore M. Davis, 1909",
+ "Accession Number": "09.184.706",
+ "What": [
+  "Ink",
+  "Limestone",
+  "Ostraka"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100019529,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs09.184.706yy.jpg",
+ "related-artworks": [
+  100002084,
+  100000743,
+  100001042,
+  100001043,
+  100001044
+ ],
+ "Provenance": [
+  "Excavated in the Valley of the Kings by Theodore M. Davis",
+  "acquired by Davis in the division of finds. Donated to the Museum by Davis, 1909."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100019529"
+  }
+ }
+}

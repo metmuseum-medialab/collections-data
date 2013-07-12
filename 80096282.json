@@ -1,0 +1,36 @@
+{
+ "Date": "1948",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "31 in. (78.7 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Edgar C. Hyman Company, 1948",
+ "Accession Number": "2009.300.3485",
+ "Who": "Echo Scarfs",
+ "What": [
+  "Costume",
+  "Silk",
+  "Scarves"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80096282,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/48.213.3_CP4.jpg",
+ "related-artworks": [
+  80096760,
+  80096759,
+  80106952,
+  80108626,
+  80108627
+ ],
+ "Description": "The design for this scarf was taken from a group of Brussels lace doilies in the Brooklyn Museum collection. It is an excellent example of the interest in using museum objects for creative design endeavors, promoted by Stewart Culin and M.D.C. Crawford at the Brooklyn Museum in their development of the Design Lab.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80096282"
+  }
+ }
+}

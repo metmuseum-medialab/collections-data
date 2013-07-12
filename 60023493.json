@@ -1,0 +1,43 @@
+{
+ "Date": "1780",
+ "Culture": "Japan",
+ "Medium": "White porcelain; the outside blue under the glaze, covered with design painted in gold; the inside decorated in blue under the glaze, polychrome enamels (Arita kiln)",
+ "Dimensions": "H. 2 1/2 in. (6.4 cm); Diam. 5 3/8 in. (13.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Charles Stewart Smith, 1893",
+ "Accession Number": "93.3.385",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Gold",
+  "Porcelain",
+  "Painting",
+  "Glaze",
+  "Bowls",
+  "Enamels",
+  "Arita"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60023493,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/93_3_385.JPG",
+ "related-artworks": [
+  60023492,
+  60023503,
+  60034163,
+  60016362,
+  60016375
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60023493"
+  }
+ }
+}

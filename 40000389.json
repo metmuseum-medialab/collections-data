@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1525",
+ "Culture": "Italian",
+ "Medium": "Steel, etched and gilt; textile; wood",
+ "Dimensions": [
+  "Height. 26 3/4 in. (68 cm)",
+  "Width, 5 29/32 in. (15.01 cm)"
+ ],
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.256",
+ "What": [
+  "Metal",
+  "Textiles",
+  "Etching",
+  "Arms",
+  "Gilt",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40000389,
+ "gallery-id": 371,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/20998.jpg",
+ "related-artworks": [
+  40000392,
+  40001427,
+  40000576,
+  40003138,
+  40014221
+ ],
+ "Provenance": [
+  "Ex. coll.: Marignoni, Milan",
+  "William H. Riggs, Paris."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000389"
+  }
+ }
+}

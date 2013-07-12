@@ -1,0 +1,39 @@
+{
+ "Date": "17th century",
+ "Culture": "possibly German or Central European",
+ "Dimensions": "L. 14 3/4 x W. 3 inches (37.5 x 7.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.76",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Embroidery"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120033142,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP4252_09.50.76.jpg",
+ "related-artworks": [
+  120030683,
+  120030788,
+  120031990,
+  120033055,
+  120033083
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120033142"
+  }
+ }
+}

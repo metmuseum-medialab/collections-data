@@ -1,0 +1,52 @@
+{
+ "Object Name": "Album leaf",
+ "Date": "ca. 1600",
+ "Geography": "Iran",
+ "Medium": "Ink, opaque watercolor, and gold on paper",
+ "Dimensions": [
+  "Painting H. 8 3/8 in. (21.3 cm)",
+  "W. 4 3/8 in. (11.1 cm)",
+  "Page H. 17 7/8 in. (45.4 cm)",
+  "W. 12 5/8 in. (32.1 cm)",
+  "Binding H. 18 3/16 in. (46.2 cm)",
+  "W. 13 7/8 in. (35.2 cm)",
+  "D. 7/8 in. (2.2 cm)"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "Louis V. Bell Fund, 1967",
+ "Accession Number": "67.266.7.6v",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Books",
+  "Gold",
+  "Watercolors",
+  "Albums",
+  "Manuscripts",
+  "Codices"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 1400–1600 A.D.",
+  "Iran, 1600–1800 A.D."
+ ],
+ "id": 140009348,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf66-266-7-6b.jpg",
+ "related-artworks": [
+  140003349,
+  140003376,
+  140003473,
+  140003472,
+  140005632
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009348"
+  }
+ }
+}

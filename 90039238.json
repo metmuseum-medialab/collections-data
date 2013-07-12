@@ -1,0 +1,47 @@
+{
+ "Date": "1917",
+ "Medium": "Etching",
+ "Dimensions": [
+  "sheet 7 5/8 x 8 in. (19.4 x 20.3 cm)",
+  "plate 5 15/16 x 5 7/8 in. (15.1 x 15 cm)",
+  "image 5 15/16 x 5 7/8 in. (15.1 x 15 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Childe Hassam, 1940",
+ "Accession Number": "40.30.4",
+ "Who": "Childe Hassam",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "American Impressionism",
+  "Americans in Paris, 1860–1900",
+  "Childe Hassam (1859–1935)",
+  "Nineteenth–Century American Drawings",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90039238,
+ "related-artworks": [
+  90006521,
+  90007687,
+  90007689,
+  90007691,
+  90007671
+ ],
+ "Provenance": [
+  "Donor: Mrs. Childe Hassam"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90039238"
+  }
+ }
+}

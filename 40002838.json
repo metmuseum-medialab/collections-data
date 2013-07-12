@@ -1,0 +1,56 @@
+{
+ "Date": "19th century",
+ "Culture": "Japanese",
+ "Dimensions": [
+  "(c) L. 30 3/8 in.  ( 77.14 cm)",
+  "(d) L. 29 1/4 in. ( 74.3 cm)",
+  "(e) L. 28 1/2 in. ( 72.39 cm)",
+  "(a) L. 36-1/4 (Blade 28 in.); (b) L. 29-1/4 in.; con't ..."
+ ],
+ "Classification": "Swords",
+ "Credit Line": "The Howard Mansfield Collection, Gift of Howard Mansfield, 1936",
+ "Accession Number": "36.120.428a–e",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Blades"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 40002838,
+ "related-artworks": [
+  "http://scrapi.org/object/40000001",
+  "http://scrapi.org/object/40000075",
+  "http://scrapi.org/object/40000079",
+  "http://scrapi.org/object/40000285",
+  "http://scrapi.org/object/40000287"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000001"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000075"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000079"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000285"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000287"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40002838"
+  }
+ }
+}

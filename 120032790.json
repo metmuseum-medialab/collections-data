@@ -1,0 +1,37 @@
+{
+ "Date": "18th century",
+ "Culture": "Spanish",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 9 x W. 2 1/2 inches (22.9 x 6.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.774",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "id": 120032790,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP4225.jpg",
+ "related-artworks": [
+  120030505,
+  120032792,
+  120038470,
+  120030044,
+  120030586
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032790"
+  }
+ }
+}

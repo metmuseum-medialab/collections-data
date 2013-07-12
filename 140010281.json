@@ -1,0 +1,39 @@
+{
+ "Date": "late 10th–early 11th century",
+ "Geography": "Egypt",
+ "Medium": "Leather, gilt, linen, paper",
+ "Dimensions": "4 1/2 x 5 x 1/4 in. (11.4 x 12.7 x 0.6 cm)",
+ "Classification": "Leather",
+ "Credit Line": "Gift of Nelly, Violet and Elie Abemayor, in memory of Michel Abemayor, 1978",
+ "Accession Number": "1978.546.18",
+ "What": [
+  "Paper",
+  "Fragments",
+  "Gilt",
+  "Linen",
+  "Leather"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1000–1400 A.D.",
+  "Egypt, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140010281,
+ "related-artworks": [
+  140010288,
+  140010278,
+  140010279,
+  140010287,
+  140010286
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010281"
+  }
+ }
+}

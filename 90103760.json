@@ -1,0 +1,39 @@
+{
+ "Date": "1529",
+ "Medium": "Engraving",
+ "Dimensions": "Sheet (trimmed) 3 1/16 × 1 13/16 in. (7.8 × 4.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.1377",
+ "Who": "Heinrich Aldegrever",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90103760,
+ "related-artworks": [
+  90003262,
+  90027973,
+  90032752,
+  90073866,
+  90104152
+ ],
+ "Description": "Adam, facing slightly towards the right and with his head in profile, holds an apple in his right hand. Behind him, a bear biting its foot.",
+ "Provenance": [
+  "Würtemberg, Danzig",
+  "Vendor: Dick Estate, U.S. Trust"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90103760"
+  }
+ }
+}

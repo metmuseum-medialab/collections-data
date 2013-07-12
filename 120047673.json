@@ -1,0 +1,48 @@
+{
+ "Date": "late 19th century",
+ "Culture": "Italian (Veneto Burano, probably)",
+ "Medium": "Cotton, needle lace",
+ "Dimensions": [
+  "L. 114 x D. 3 3/4 inches",
+  "289.6 x 9.5 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Edwin L. Jacobs and Mrs. Charles L. Rolland, 1990",
+ "Accession Number": "1990.216.15",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Burano"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120047673,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP16652.jpg",
+ "related-artworks": [
+  120047681,
+  120047678,
+  120047679,
+  120047674,
+  120047671
+ ],
+ "Provenance": [
+  "Mrs. Edwin L. Jacobs",
+  "and Mrs. Charles L. Rolland (until 1990",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120047673"
+  }
+ }
+}

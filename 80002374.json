@@ -1,0 +1,39 @@
+{
+ "Date": "1978",
+ "Culture": "American",
+ "Medium": "Lucite, silver",
+ "Dimensions": "Length (a,b) 1 3/4 in. (4.4 cm)",
+ "Credit Line": "Gift of Patricia von Musulin, 1999",
+ "Accession Number": "1999.59.15a, b",
+ "Who": "Patricia von Musulin",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80002374,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1999.59.15ab.JPG",
+ "related-artworks": [
+  80002372,
+  80001004,
+  80001005,
+  80001006,
+  80001007
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002374"
+  }
+ }
+}

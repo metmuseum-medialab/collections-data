@@ -1,0 +1,33 @@
+{
+ "Date": "early 20th century",
+ "Culture": "Japan",
+ "Medium": "Wood",
+ "Classification": "Netsuke",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1910",
+ "Accession Number": "10.211.2319",
+ "Who": "Sanshō",
+ "What": [
+  "Sculpture",
+  "Netsukes"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 60030638,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/10_211_2319_O1.jpg",
+ "related-artworks": [
+  60030641,
+  60030662,
+  60030888
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030638"
+  }
+ }
+}

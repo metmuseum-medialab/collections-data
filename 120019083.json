@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1760",
+ "Culture": "British, Bow",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": [
+  "Candelabra H. 13 3/4 in. (34.9 cm.) x W. 12 1/2 in. (31.8 cm.)",
+  "Birds H. 3 1/2 in. (8.9 cm.) x L. 4 in. (10.2 cm.)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.732, .733",
+ "Who": "Bow",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Lighting devices",
+  "Soft paste porcelain",
+  "Candleholders",
+  "Candelabras"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120019083,
+ "gallery-id": 509,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/210274.jpg",
+ "related-artworks": [
+  120019062,
+  120019063,
+  120019064,
+  120002048,
+  120002928
+ ],
+ "Description": "Porcelain flowers, a specialty of the Sèvres porcelain factory, were imitated by many other factories.",
+ "Provenance": [
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019083"
+  }
+ }
+}

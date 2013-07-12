@@ -1,0 +1,36 @@
+{
+ "Date": "early 20th century",
+ "Culture": "American or European",
+ "Medium": "metal, glass",
+ "Dimensions": "Length 2 in. (5.1 cm)",
+ "Credit Line": "Gift of Carl F. Fayen and Margaret E. Fayan, in memory of Mr. & Mrs. F.G.H. Fayen (Montclair, NJ) and Mr. & Mrs. George C. Lehmann (Watertown, WI), 1977",
+ "Accession Number": "1977.327.8",
+ "What": [
+  "Metal",
+  "Costume",
+  "Glass",
+  "Jewelry",
+  "Pins",
+  "Brooches"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80058886,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.327.8.jpg",
+ "related-artworks": [
+  80028520,
+  80028521,
+  80028516,
+  80028519,
+  80038542
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80058886"
+  }
+ }
+}

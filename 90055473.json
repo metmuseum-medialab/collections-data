@@ -1,0 +1,51 @@
+{
+ "Publisher": "Ernst Wasmuth (Berlin)",
+ "Date": "1910",
+ "Medium": "Lithographic print with dark grey ink",
+ "Dimensions": "sheet 25 1/4 x 17 5/8 in. (64.1 x 44.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Emily Crane Chadbourne Bequest, 1972",
+ "Accession Number": "1972.607.49",
+ "Who": [
+  "Frank Lloyd Wright",
+  "Ernst Wasmuth"
+ ],
+ "What": [
+  "Prints",
+  "Ink",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Frank Lloyd Wright (1867–1959)",
+  "America Comes of Age 1876–1900",
+  "Design, 1900–25",
+  "Art Nouveau",
+  "The Arts and Crafts Movement in America",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90055473,
+ "related-artworks": [
+  90055295,
+  90055350,
+  90055421,
+  90055413,
+  90055467
+ ],
+ "Provenance": [
+  "Mr. and Mrs. Raymond V. Stevenson",
+  "Francis W. Little (American, 19th–20th century)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90055473"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Culture": "Cypriot",
+ "Medium": "Gold",
+ "Dimensions": "Diameter 1/2 x 1/16 in. (1.2 x 0.2 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.3192",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Pendants"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130003091,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/sf74513192.jpg",
+ "related-artworks": [
+  130003061,
+  130003081,
+  130003089,
+  130003114,
+  130003111
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130003091"
+  }
+ }
+}

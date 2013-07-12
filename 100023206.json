@@ -1,0 +1,56 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Reign": "early reign of Amenemhat I",
+ "Date": "ca. 1981–1975 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Southern Asasif, Tomb of Wah (MMA 1107), part of shawl 20.3.203vvvv, MMA 1920",
+ "Medium": "Linen",
+ "Credit Line": "Rogers Fund and Edward S. Harkness Gift, 1940",
+ "Accession Number": "40.3.32",
+ "What": "Linen",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100023206,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DP274373.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/100001752",
+  "http://scrapi.org/object/100005978",
+  "http://scrapi.org/object/100012524",
+  "http://scrapi.org/object/100019631",
+  "http://scrapi.org/object/100019614"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Mummy of Wah excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1920. Acquired by the Museum in the division of finds, 1920. Mummy unwrapped in New York, 1940."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100001752"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100005978"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100012524"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100019631"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100019614"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100023206"
+  }
+ }
+}

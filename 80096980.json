@@ -1,0 +1,38 @@
+{
+ "Date": "late 19th century",
+ "Culture": "Spanish",
+ "Medium": "leather, metal, silk",
+ "Dimensions": "17 in. (43.2 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Museum Expedition 1922, Robert B. Woodward Memorial Fund, 1922",
+ "Accession Number": "2009.300.57a, b",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Leather",
+  "Gaiters"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80096980,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/22.1751a-b_view1_CP4.jpg",
+ "related-artworks": [
+  80096947,
+  80116763,
+  80005879,
+  80005880,
+  80115579
+ ],
+ "Description": "This object was collected by Stewart Culin (1858-1929) during a collection expedition in 1922. Culin was the Brooklyn Museum's first Curator of Ethnology, serving from 1903 to 1929. Possessing an insatiable curiosity and appetite for collecting objects of all kinds, Culin conducted over twenty worldwide collecting expeditions between 1901 and 1928. The trips covered American Indian territories, New England, Asia, India, Great Britain, and all of Eastern and Western Europe. The seven expeditions between 1917 and 1928 were specifically focused on collecting regional textiles and costumes from Eastern and Western Europe and, to a lesser extent, New England. Culin's goals for these trips were not just to expand the Museum's holdings, but also to preserve their cultural contexts. He did so through amassing photographs, notebooks, and ephemera which documented the social, commercial, and cultural circumstances surrounding their acquisition. His collecting philosophy embraced both rare and high-quality pieces as well as those which represented daily life or were of particular social or historical interest.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80096980"
+  }
+ }
+}

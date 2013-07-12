@@ -1,0 +1,40 @@
+{
+ "Period": "Late Period–Ptolemaic Period",
+ "Date": "522–30 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Wood",
+ "Dimensions": "h. 31.1 cm (12 1/4 in); w. 12.4 cm (4 7/8 in); th. 6.4 cm (2 1/2 in)",
+ "Credit Line": "Gift of Egypt Exploration Fund, 1969",
+ "Accession Number": "INST.69.7",
+ "What": [
+  "Wood",
+  "Idiophones",
+  "Rattles",
+  "Sistra"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100030364,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/INST69-7.JPG",
+ "related-artworks": [
+  100002600,
+  100002522,
+  100005212,
+  100006600,
+  100008187
+ ],
+ "Provenance": [
+  "Given to the Museum by the Egypt Exploration Society, 1969."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100030364"
+  }
+ }
+}

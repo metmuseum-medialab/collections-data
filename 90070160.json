@@ -1,0 +1,46 @@
+{
+ "Publisher": "Samuel Robinson (Philadelphia, Pennsylvania)",
+ "Lithographer": "Rosenthal (Philadelphia, Pennsylvania)",
+ "Date": "1851",
+ "Medium": "Color lithography with watercolor and gum",
+ "Dimensions": "sheet 7 3/16 x 11 in. (18.2 x 28 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Lincoln Kirstein, 1964",
+ "Accession Number": "64.629.47",
+ "Who": [
+  "Henry Louis Stephens",
+  "Rosenthal",
+  "Samuel Robinson"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Watercolors"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90070160,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP813081.jpg",
+ "related-artworks": [
+  90025514,
+  90070131,
+  90070159,
+  90070152,
+  90070153
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90070160"
+  }
+ }
+}

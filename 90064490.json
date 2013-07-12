@@ -1,0 +1,38 @@
+{
+ "Artist": "After Maerten de Vos (Netherlandish, Antwerp 1532–1603 Antwerp)",
+ "Medium": "Etching and engraving",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.95.2048",
+ "Who": [
+  "Maerten de Vos",
+  "Raphael Sadeler I"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Low Countries, 1600–1800 A.D.",
+  "Low Countries, 1400–1600 A.D."
+ ],
+ "id": 90064490,
+ "related-artworks": [
+  90024474,
+  90040907,
+  90040908,
+  90040910,
+  90040912
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90064490"
+  }
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "Period": "Sasanian",
+ "Date": "ca. early 4th century A.D.",
+ "Geography": "Iran or Mesopotamia",
+ "Culture": "Sasanian",
+ "Medium": "Carnelian",
+ "Dimensions": "0.39 x 0.12 x 0.43 in. (0.99 x 0.3 x 1.09 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Gift of John Taylor Johnston, 1881",
+ "Accession Number": "81.6.273",
+ "Who": "Sasanian",
+ "What": [
+  "Stone",
+  "Chalcedony",
+  "Seals",
+  "Carnelian"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30000194,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss81_6_273.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/30000200",
+  "http://scrapi.org/object/30000203",
+  "http://scrapi.org/object/30000957",
+  "http://scrapi.org/object/30002394",
+  "http://scrapi.org/object/30002596"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Until 1839, Praun collection formed before 1616 by Paulus Praun, Nürnberg",
+  "from 1839, collection of Mrs. Mertens-Schaaffhausen, Bonn (until d. 1857)",
+  "1859, purchased by George Eastwood from the estate of Mrs. Mertens-Schaaffhausen",
+  "before 1866, purchased by Rev. Charles W. King, Trinity College, Cambridge, England",
+  "1881, purchased by John Taylor Johnston, New York, from Rev. Charles W. King, through Gaston L. Feuardent",
+  "acquired by the Museum in 1881, gift of John Taylor Johnston."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000200"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000203"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000957"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30002394"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30002596"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/30000194"
+  }
+ }
+}

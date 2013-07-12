@@ -1,0 +1,34 @@
+{
+ "Date": "19th century",
+ "Culture": "Turkish",
+ "Classification": "Daggers",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.722a, b",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Cases",
+  "Sheaths",
+  "Daggers",
+  "Scabbards"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "id": 40010142,
+ "related-artworks": [
+  40009878,
+  40010023,
+  40010180,
+  40010273,
+  40010151
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40010142"
+  }
+ }
+}

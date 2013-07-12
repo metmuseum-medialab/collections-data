@@ -1,0 +1,47 @@
+{
+ "Designer": "Christian Dior (French, Granville 1905–1957 Montecatini)",
+ "Date": "fall/winter 1956–57",
+ "Culture": "French",
+ "Medium": "(a) silk; (b) wool; (c) wool, fur",
+ "Dimensions": [
+  "Length (a) 16 1/4 in. (41.3 cm)",
+  "Length at CB (b) 27 in. (68.6 cm)",
+  "Length (c) 17 1/2 in. (44.5 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. Irene Stone, 1962",
+ "Accession Number": "C.I.62.52.2a–c",
+ "Who": [
+  "House of Dior",
+  "Christian Dior"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Wool",
+  "Hair",
+  "Suits",
+  "Fur"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80004574,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/264097.jpg",
+ "related-artworks": [
+  80004555,
+  80018073,
+  80004538,
+  80018196,
+  80027441
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80004574"
+  }
+ }
+}

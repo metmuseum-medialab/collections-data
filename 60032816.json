@@ -1,0 +1,39 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "China",
+ "Medium": "Marble",
+ "Dimensions": "H. 26 in. (66 cm); W. 8 in. (20.3 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of James R. Sutton, 1883",
+ "Accession Number": "83.19.5a, b",
+ "What": [
+  "Sculpture",
+  "Marble",
+  "Balusters"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60032816,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/83_19_5.JPG",
+ "related-artworks": [
+  60032814,
+  60032815,
+  60032812,
+  60032813,
+  60000550
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60032816"
+  }
+ }
+}

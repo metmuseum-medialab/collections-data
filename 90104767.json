@@ -1,0 +1,38 @@
+{
+ "Date": "1927-28",
+ "Medium": "Photolithograph",
+ "Dimensions": "Sheet 2 1/2 × 1 3/8 in. (6.4 × 3.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 315, E210.1",
+ "Who": "York Caramel Company, York, Pennsylvania",
+ "What": [
+  "Prints",
+  "Photomechanical reproductions",
+  "Photolithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90104767,
+ "related-artworks": [
+  90104789,
+  90104790,
+  90104815,
+  90104795,
+  90104797
+ ],
+ "Description": "Trade cards from the \"York Caramels\" series (E210), issued 1927-28 to promote York Caramels for the York Caramel Company of York, Pennsylvania. The baseball cards were issued with two printed types of versos, one type printed in 1927 and the other in 1928. The museum set is affixed to the original album pages, so the versos are not visible and the verso types are unknown.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104767"
+  }
+ }
+}

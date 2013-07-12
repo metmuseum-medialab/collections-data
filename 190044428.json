@@ -1,0 +1,42 @@
+{
+ "Date": "1900s–1930s",
+ "Medium": "Photomechanical reproduction",
+ "Dimensions": "approx. 9 x 14 cm (3 9/16 x 5 1/2 in. )",
+ "Classification": "Prints",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.264.46.85",
+ "What": [
+  "Prints",
+  "Photomechanical reproductions",
+  "Postcards"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190044428,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190018046"
+   },
+   {
+    "href": "http://scrapi.org/object/190037708"
+   },
+   {
+    "href": "http://scrapi.org/object/190043985"
+   },
+   {
+    "href": "http://scrapi.org/object/190043986"
+   },
+   {
+    "href": "http://scrapi.org/object/190044006"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190044428"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190044428"
+  }
+ }
+}

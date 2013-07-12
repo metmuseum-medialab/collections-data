@@ -1,0 +1,57 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Silk / Compound weave",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Kihei Hattori, in memory of his father, Kihei Hattori, 1920",
+ "Accession Number": "20.148.662",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60045479,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP15324.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/60039249",
+  "http://scrapi.org/object/60039258",
+  "http://scrapi.org/object/60039327",
+  "http://scrapi.org/object/60039328",
+  "http://scrapi.org/object/60039330"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Kihei Hattori , Tokyo (until 1920)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60039249"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60039258"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60039327"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60039328"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60039330"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60045479"
+  }
+ }
+}

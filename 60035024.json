@@ -1,0 +1,35 @@
+{
+ "Culture": "China",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1941",
+ "Accession Number": "CP317",
+ "Who": "Liu Yongnian",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "id": 60035024,
+ "related-artworks": [
+  60035014,
+  60034536,
+  60034543,
+  60034563
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60035024"
+  }
+ }
+}

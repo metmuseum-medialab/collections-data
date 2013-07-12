@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1850",
+ "Geography": "England",
+ "Culture": "British, probably",
+ "Medium": "Wool, woven",
+ "Dimensions": "67 x 68 in. (170.2 x 172.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase, Mrs. Roger Brunschwig Gift, 1985",
+ "Accession Number": "Inst.1985.3",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Wool"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10014714,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA6296.jpg",
+ "related-artworks": [
+  10014317,
+  10014507,
+  10014589,
+  10013960,
+  10015564
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014714"
+  }
+ }
+}

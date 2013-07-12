@@ -1,0 +1,36 @@
+{
+ "Date": "19th century",
+ "Geography": "France?",
+ "Medium": "Carved ivory",
+ "Dimensions": "Total L. 55.3cm (21 3/4in.); Handle L. 23.2cm (9 1/8in); Rod L including screw 34.8cm (13 11/16in)",
+ "Classification": "Accessory",
+ "Credit Line": "Gift of Gene Young and Linda Surridge, 2006",
+ "Accession Number": "2006.577.1a, b",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Batons"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 180017621,
+ "gallery-id": 684,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DP148477-4.jpg",
+ "related-artworks": [
+  180017624,
+  180013248,
+  180015317,
+  180016055,
+  180012649
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180017621"
+  }
+ }
+}

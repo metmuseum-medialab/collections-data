@@ -1,0 +1,58 @@
+{
+ "Date": "1834",
+ "Culture": "Russian (St. Petersburg)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "Each, Gr. Diam. 3-3/4 in. (9.5 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Jean Rolston Peacock, 1969",
+ "Accession Number": "69.162.6-17",
+ "Who": "Imperial Porcelain Manufactory, St. Petersburg",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Drinking vessels",
+  "Cups",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Asia",
+  "Russia",
+  "Saint Petersburg"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020939,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/191803.jpg",
+ "Provenance": [
+  "John Rolston Peacock (until 1969; bequeathed to MMA)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120016165"
+   },
+   {
+    "href": "http://scrapi.org/object/120023201"
+   },
+   {
+    "href": "http://scrapi.org/object/120024720"
+   },
+   {
+    "href": "http://scrapi.org/object/120016166"
+   },
+   {
+    "href": "http://scrapi.org/object/120023200"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120020939"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120020939"
+  }
+ }
+}

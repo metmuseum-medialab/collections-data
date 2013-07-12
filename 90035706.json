@@ -1,0 +1,43 @@
+{
+ "Date": "1530",
+ "Medium": "Engraving; first state",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry G. Friedman, 1962",
+ "Accession Number": "62.635.882",
+ "Who": "Lucas van Leyden",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Johannes Vermeer (1632–1675) and The Milkmaid",
+  "Rembrandt van Rijn (1606–1669) Paintings",
+  "Jan Gossart (ca. 1478–1532) and His Circle",
+  "Northern Mannerism in the Early Sixteenth Century",
+  "Rembrandt van Rijn (1606–1669) Prints",
+  "Low Countries, 1400–1600 A.D."
+ ],
+ "id": 90035706,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP819005.jpg",
+ "related-artworks": [
+  90003238,
+  90003240,
+  90003243,
+  90019025,
+  90019028
+ ],
+ "Provenance": [
+  "Donor: Harry G. Friedman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90035706"
+  }
+ }
+}

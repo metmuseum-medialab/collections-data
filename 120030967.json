@@ -1,0 +1,43 @@
+{
+ "Date": "early 19th century",
+ "Culture": "British",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 14 x W. 3 3/4 inches (35.6 x 9.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Miss Eva Morris, 1908",
+ "Accession Number": "08.47.4",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120030967,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP16694.jpg",
+ "related-artworks": [
+  120032048,
+  120032086,
+  120032116,
+  120032124,
+  120032125
+ ],
+ "Provenance": [
+  "Miss Eva Morris (until 1908",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120030967"
+  }
+ }
+}

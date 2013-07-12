@@ -1,0 +1,37 @@
+{
+ "Date": "early 20th Century",
+ "Geography": "Bhutan",
+ "Medium": "Rattan",
+ "Classification": "Accessory",
+ "Credit Line": "Rogers Fund, 1987",
+ "Accession Number": "1987.393.3",
+ "What": [
+  "Cases",
+  "Idiophones",
+  "Cane",
+  "Rattan",
+  "Cymbals"
+ ],
+ "Where": [
+  "Asia",
+  "Bhutan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 180017395,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/243913.jpg",
+ "related-artworks": [
+  180015992,
+  180016852,
+  180015029,
+  180015030,
+  180015844
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180017395"
+  }
+ }
+}

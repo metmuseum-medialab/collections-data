@@ -1,0 +1,59 @@
+{
+ "Date": "probably modeled before 1881, cast in 1920",
+ "Culture": "French",
+ "Medium": "Bronze",
+ "Dimensions": "8-3/8 x 10-1/2 x 3-7/8 in.  (21.3 x 26.7 x 9.8 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.431",
+ "Who": "Edgar Degas",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Édouard Manet (1832–1883)",
+  "Japonisme",
+  "Lithography in the Nineteenth Century",
+  "The Lure of Montmartre, 1880–1900",
+  "The Salon and The Royal Academy",
+  "Edgar Degas (1834–1917) Painting and Drawing",
+  "The Print in the Nineteenth Century",
+  "Claude Monet (1840–1926)",
+  "Mary Stevenson Cassatt (1844–1926)",
+  "American Impressionism",
+  "Impressionism Art and Modernity",
+  "Edgar Degas (1834–1917) Bronze Sculpture",
+  "France, 1900 A.D.–present",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120011346,
+ "gallery-id": 814,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/76498.jpg",
+ "related-artworks": [
+  120011310,
+  120011339,
+  120011343,
+  120011347,
+  120011287
+ ],
+ "Provenance": [
+  "Mrs. H. O. Havemeyer (until 1929",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011346"
+  }
+ }
+}

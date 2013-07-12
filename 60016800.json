@@ -1,0 +1,61 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Cup porcelain with \"powder-blue\" glaze, painted in gilt; Cover: white porcelain openwork, decorated with blue under the glaze (Hirado ware)",
+ "Dimensions": "H. with cover 5 1/2 in. (14 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.152a, b",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Gilt",
+  "Drinking vessels",
+  "Painting",
+  "Glaze",
+  "Cups",
+  "Hirado"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60016800,
+ "Provenance": [
+  "Samuel Putnam Avery Sr."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60016197"
+   },
+   {
+    "href": "http://scrapi.org/object/60018676"
+   },
+   {
+    "href": "http://scrapi.org/object/60015731"
+   },
+   {
+    "href": "http://scrapi.org/object/60016218"
+   },
+   {
+    "href": "http://scrapi.org/object/60021726"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60016800"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60016800"
+  }
+ }
+}

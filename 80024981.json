@@ -1,0 +1,33 @@
+{
+ "Date": "late 18th–early 19th century",
+ "Culture": "Italian",
+ "Medium": "[no medium available]",
+ "Dimensions": "Height 6 1/2 x 18 in. (16.5 x 45.7 cm)",
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "26.56.84",
+ "What": [
+  "Costume",
+  "Hats"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80024981,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/26.56.84.jpg",
+ "related-artworks": [
+  80001304,
+  80001391,
+  80001392,
+  80002058,
+  80002329
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80024981"
+  }
+ }
+}

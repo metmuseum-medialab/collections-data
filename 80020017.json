@@ -1,0 +1,39 @@
+{
+ "Date": "1970",
+ "Culture": "French",
+ "Medium": "wool, leather",
+ "Dimensions": "Height (c, d) 19 in. (48.3 cm)",
+ "Credit Line": "Gift of Pierre Cardin, 1977",
+ "Accession Number": "1977.25.6a–d",
+ "Who": "Pierre Cardin",
+ "What": [
+  "Wool",
+  "Leather",
+  "Ensembles"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Shoes in The Costume Institute",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80020017,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.25.6ab_F.jpg",
+ "related-artworks": [
+  80006734,
+  80036726,
+  80015054,
+  80015160,
+  80015186
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80020017"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1391–1353 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Pottery, paint",
+ "Dimensions": [
+  "a) 3-1/2 in.",
+  "b) 2 in.",
+  "c) 1-3/8 in."
+ ],
+ "Credit Line": "Purchase, Lila Acheson Wallace Gift, 1992",
+ "Accession Number": "1992.347a–c",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Vases"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100001444,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/wb01992.347.jpg",
+ "related-artworks": [
+  100002312,
+  100005345,
+  100014711,
+  100018765,
+  100028560
+ ],
+ "Provenance": [
+  "Purchased from Peter Sharrer, New Jersey, 1992, who had it from a European collector."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100001444"
+  }
+ }
+}

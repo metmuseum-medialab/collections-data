@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1800",
+ "Geography": "Mexico",
+ "Culture": "Mexican",
+ "Medium": "Majolica earthenware",
+ "Dimensions": "H. 6 in. (15.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Robert W. de Forest, 1911",
+ "Accession Number": "17.108.10a, b",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Earthenware",
+  "Jars",
+  "Maiolica"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America, 1600–1800 A.D.",
+  "Mexico and Central America Native Peoples, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10002457,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP248991.jpg",
+ "related-artworks": [
+  10003557,
+  10002349,
+  10003547,
+  10003548,
+  10003549
+ ],
+ "Provenance": [
+  "Albert Pepper Collection",
+  "Mrs. Robert W. de Forest, New York, until 1917"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10002457"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Date": "1943",
+ "Medium": "Tempera on paper",
+ "Dimensions": [
+  "H. 3, W. 4 inches",
+  "(7.9 x 10.8 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of William C. Dove, 1984",
+ "Accession Number": "1984.536.34ab",
+ "Who": "Arthur Dove",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Tempera"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "Arthur Dove (1880–1946)",
+  "Georgia O'Keeffe (1887–1986)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 210003836,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/1984.536.34a.jpg",
+ "related-artworks": [
+  210003826,
+  210003809,
+  210003810,
+  210003811,
+  210003812
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003836"
+  }
+ }
+}

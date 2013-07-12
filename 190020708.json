@@ -1,0 +1,39 @@
+{
+ "Date": "1850s",
+ "Medium": "Salted paper print from paper negative",
+ "Dimensions": "Image 21.7 x 17.4 cm (8 9/16 x 6 7/8 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "David Hunter McAlpin Fund, 1946",
+ "Accession Number": "46.1.109",
+ "Who": "Calvert Richard Jones",
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Wales"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190020708,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP115250.jpg",
+ "related-artworks": [
+  190039260,
+  190018660,
+  190020832,
+  190020845,
+  190020846
+ ],
+ "Provenance": [
+  "E. Weil, London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190020708"
+  }
+ }
+}

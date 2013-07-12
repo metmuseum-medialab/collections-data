@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1540",
+ "Medium": "Oil on wood",
+ "Dimensions": "17 1/2 x 13 3/8 in. (44.5 x 34 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.646",
+ "Who": "Hans Holbein the Younger",
+ "What": [
+  "Paintings",
+  "Oil paint"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Paintings",
+ "MetPublications": "Search for related Met publications",
+ "id": 110001112,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP280377.jpg",
+ "related-artworks": [
+  110001108,
+  110001100,
+  110001101,
+  110001102,
+  110001111
+ ],
+ "Provenance": [
+  "Rt. Rev. Herbert Croft, Bishop of Hereford, Croft Castle, Herefordshire (until d. 1691)",
+  "Sir Herbert Croft, 1st Baronet, Croft Castle (1691–d. 1720)",
+  "Sir Archer Croft, 2nd Baronet, Croft Castle (1720–d. 1753)",
+  "Sir Archer Croft, 3rd Baronet, Croft Castle (1753–d. 1792)",
+  "his cousin, Walter Michael Moseley, Buildwas Abbey, Iron Bridge, Salop, Shropshire (1792–d. 1827)",
+  "Walter Moseley, Buildwas Abbey (1827–d. 1850)",
+  "Walter Moseley, Buildwas Abbey (1850–d. 1887)",
+  "his nephew, Captain Herbert Richard Moseley, Buildwas Abbey (1887–1912",
+  "sold to Duveen)",
+  "[Duveen, London and New York, 1912",
+  "sold for $205,000 to Altman]",
+  "Benjamin Altman, New York (1912–d. 1913)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001112"
+  }
+ }
+}

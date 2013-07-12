@@ -1,0 +1,40 @@
+{
+ "Publisher": "Grossman Publishers",
+ "Date": "1974",
+ "Medium": "Lithography",
+ "Dimensions": "Overall 14 3/8 x 9 13/16 in. (36.5 x 25 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lawrence Fleischman, 1974",
+ "Accession Number": "1974.594",
+ "Who": [
+  "Leonard Baskin",
+  "Grossman Publishers"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90019034,
+ "related-artworks": [
+  90062842,
+  90012963,
+  90015516,
+  90043788,
+  90012964
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90019034"
+  }
+ }
+}

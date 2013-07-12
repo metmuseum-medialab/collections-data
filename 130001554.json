@@ -1,0 +1,50 @@
+{
+ "Period": "Classical",
+ "Date": "mid–5th century B.C.",
+ "Medium": "Terracotta; mold-made",
+ "Dimensions": "H. 2 1/4 in. (5.7 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.1532",
+ "What": [
+  "Clay",
+  "Terracotta"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130001554,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP101376.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/gr/original/DP101376.jpg",
+  "http://images.metmuseum.org/CRDImages/gr/original/DP101620.jpg"
+ ],
+ "Provenance": [
+  "From Cyprus\r\nSaid to be from Kition or the Salt Lake near Larnaca, Cyprus"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130000405"
+   },
+   {
+    "href": "http://scrapi.org/object/130000430"
+   },
+   {
+    "href": "http://scrapi.org/object/130000431"
+   },
+   {
+    "href": "http://scrapi.org/object/130000417"
+   },
+   {
+    "href": "http://scrapi.org/object/130000437"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130001554"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130001554"
+  }
+ }
+}

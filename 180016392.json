@@ -1,0 +1,42 @@
+{
+ "Date": "19th century",
+ "Geography": "France",
+ "Medium": "Bronze",
+ "Dimensions": "H. 9.3 cm (3-3/4 in.); Diam.: 7.9 cm (3-1/8 in.); Wt.: 337 gm",
+ "Classification": "Idiophone-Shaken",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2157",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Musical instruments",
+  "Idiophones",
+  "Bells",
+  "Rattles",
+  "Vessel rattles",
+  "Pellet",
+  "Pellet bells"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180016392,
+ "related-artworks": [
+  180016393,
+  180016390,
+  180016391,
+  180013695,
+  180016389
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016392"
+  }
+ }
+}

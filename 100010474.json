@@ -1,0 +1,42 @@
+{
+ "Period": "Late Period",
+ "Dynasty": "Dynasty 13, mid",
+ "Date": "ca. 1750 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, cemetery south of pyramid below House A11, Pit 885, MMA 1920–1921",
+ "Medium": "Faience",
+ "Dimensions": "h. 1.7 cm (11/16 in)",
+ "Credit Line": "Rogers Fund and Edward S. Harkness Gift, 1922",
+ "Accession Number": "22.1.169",
+ "What": [
+  "Faience",
+  "Amulets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100010474,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs12.1.169b.jpg",
+ "related-artworks": [
+  100000300,
+  100003032,
+  100003082,
+  100003471,
+  100003487
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100010474"
+  }
+ }
+}

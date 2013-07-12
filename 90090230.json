@@ -1,0 +1,42 @@
+{
+ "Publisher": "Pierre Firens (1597-1636/9)",
+ "Date": "1614-1619 ca.",
+ "Medium": "Blackwork and engraving",
+ "Dimensions": "Sheet 3 7/8 x 2 13/16 in. (9.8 x 7.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Rogers Fund, 1922",
+ "Accession Number": "22.114.4",
+ "Who": [
+  "Pierre Firens",
+  "Jacques Hurtu"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90090230,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP826391.jpg",
+ "related-artworks": [
+  90085235,
+  90085787,
+  90090232,
+  90090234
+ ],
+ "Description": "Part of a series of 6 with goldsmiths designs executed in the blackwork technique. Design for a pendant shaped like a Latin cross, decorated with Schweifwerk. The cross is surrounded by smaller motifs, including two ring bezels and two rectangular designs in blackwork. Other decorative elements, such as fruit garlands and a rooster and turkey, have been added in engraving.",
+ "Provenance": [
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90090230"
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "Date": "18th century",
+ "Culture": "German",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 3 1/4 x W. 3 inches (8.3 x 7.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2193",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Scapulars"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "id": 120034655,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP2841.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120034656",
+  "http://scrapi.org/object/120034654",
+  "http://scrapi.org/object/120047125",
+  "http://scrapi.org/object/120033282",
+  "http://scrapi.org/object/120033285"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/DP2841.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP2841_09.50.2193.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/2193.jpg"
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120034656"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120034654"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120047125"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120033282"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120033285"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120034655"
+  }
+ }
+}

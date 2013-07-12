@@ -1,0 +1,41 @@
+{
+ "Artist": "Engraved by Rebel (French, active 19th century)",
+ "Date": "1858",
+ "Medium": "Commercial process illustration with hand-coloring",
+ "Dimensions": "sheet 10 15/16 x 10 3/4 in. (27.8 x 27.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1940",
+ "Accession Number": "40.121.17",
+ "Who": [
+  "Anonymous, French, 19th century",
+  "Rebel"
+ ],
+ "What": [
+  "Prints",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90060493,
+ "related-artworks": [
+  90053077,
+  90053078,
+  90062480,
+  90066885,
+  90066905
+ ],
+ "Provenance": [
+  "Vendor: E. Weyhe (New York, NY)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060493"
+  }
+ }
+}

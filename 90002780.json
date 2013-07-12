@@ -1,0 +1,38 @@
+{
+ "Date": "1715–74",
+ "Medium": "Pen and black and touches of brown ink, brush and grey and touches of pink wash.",
+ "Dimensions": "18 7/8 x 13 7/16 in.  (48 x 34.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Whittelsey Fund, 1967",
+ "Accession Number": "67.536",
+ "Who": "Johann Baptist Modler",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002780,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804357.jpg",
+ "related-artworks": [
+  90001627,
+  90001625,
+  90001820,
+  90001811,
+  90001856
+ ],
+ "Provenance": [
+  "Vendor: Karl & Faber, Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002780"
+  }
+ }
+}

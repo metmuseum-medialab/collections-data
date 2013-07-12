@@ -1,0 +1,39 @@
+{
+ "Date": "1888",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 x 1 1/2 in. (7 x 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 204, N84.57",
+ "Who": "W. Duke, Sons & Co.",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90100096,
+ "related-artworks": [
+  90096235,
+  90096238,
+  90096236,
+  90096249,
+  90096250
+ ],
+ "Description": "Trade cards from the \"Playing Cards\" series (N84), issued in a set of 53 cards in 1888 to promote Turkish Cross-Cut Cigarettes produced by W. Duke Sons & Co. The versos across the set display a matching abstract floral pattern. The Joker advertises Duke brand cigarettes and the Ace of Spades displays an ad for Turkish Cross-Cut Cigarettes. Besides Turkish Cross-Cut, a version of the same set of playing cards was also released to promote the overall W. Duke Sons & Co. brand.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90100096"
+  }
+ }
+}

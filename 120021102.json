@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1767",
+ "Culture": "French (carved in Rome)",
+ "Medium": "Marble",
+ "Dimensions": [
+  "H. 28-1/2 in. (72.4 cm)",
+  "H. (socle) 7 in. (17.5 cm)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Josephine Bay Paul and C. Michael Paul Foundation Inc. Gift and Charles Ulrick and Josephine Bay Foundation Inc. Gift, 1970",
+ "Accession Number": "1970.265",
+ "Who": "André Jean Lebrun",
+ "What": [
+  "Sculpture",
+  "Figures",
+  "Marble",
+  "Busts"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021102,
+ "gallery-id": 549,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/195246.jpg",
+ "related-artworks": [
+  120014772,
+  120003726,
+  120003960,
+  120007362,
+  120010338
+ ],
+ "Provenance": [
+  "[ Stefano Bardini (until 1918",
+  "sale, American Art Galleries, April 18, 1918, no. ? ) ]",
+  "Oliver Gould Jennings , New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021102"
+  }
+ }
+}

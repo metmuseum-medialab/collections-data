@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1795",
+ "Medium": "Watercolor on ivory",
+ "Dimensions": "2 1/4 x 1 3/4 in. (5.6 x 4.4 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mrs. Alexander G. Cummins, 1939",
+ "Accession Number": "39.132",
+ "Who": "William Verstille",
+ "What": [
+  "Paintings",
+  "Watercolors",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "American Portrait Miniatures of the Eighteenth Century",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20013450,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap39.132.jpg",
+ "related-artworks": [
+  20012203,
+  20013451,
+  20016303,
+  20016041,
+  20016042
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20013450"
+  }
+ }
+}

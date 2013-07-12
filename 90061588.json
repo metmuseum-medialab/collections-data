@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1900",
+ "Medium": "Photomechanical process",
+ "Dimensions": "8 15/16 x 12 in. (22.7 x 30.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.653.16",
+ "Who": "Gordon - Van Tine Co.",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90061588,
+ "related-artworks": [
+  90018714,
+  90018713,
+  90061589,
+  90061840
+ ],
+ "Provenance": [
+  "Donor: Elisha Whittelsey Fund"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90061588"
+  }
+ }
+}

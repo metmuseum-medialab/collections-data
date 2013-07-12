@@ -1,0 +1,53 @@
+{
+ "Artist": "After Zheng Xie (Chinese, 1693–1765)",
+ "Date": "19th–20th century",
+ "Culture": "China",
+ "Medium": "Hanging scroll; ink on paper",
+ "Dimensions": [
+  "Image 53 7/16 x 26 in. (135.7 x 66 cm)",
+  "Overall 53 3/8 x 26in. (135.6 x 66cm)",
+  "Overall with knobs 84 1/4 x 34 5/8 in. (214 x 87.9 cm)"
+ ],
+ "Classification": "Calligraphy",
+ "Credit Line": "Bequest of John M. Crawford Jr., 1988",
+ "Accession Number": "1989.363.201",
+ "Who": [
+  "Unidentified Artist",
+  "Zheng Xie"
+ ],
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls",
+  "Calligraphy"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1800–1900 A.D.",
+  "China, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60022822,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1989_363_201_O.jpg",
+ "related-artworks": [
+  60019533,
+  60007747,
+  60019542,
+  60013642,
+  60022737
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60022822"
+  }
+ }
+}

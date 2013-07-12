@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1927",
+ "Medium": "Gelatin silver print",
+ "Dimensions": [
+  "Image 15.7 x 22.5 cm (6 3/16 x 8 7/8 in.)",
+  "Mount 17.9 x 27.9 cm (7 1/16 x 11 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Mary Beth Clark Gift, in honor of Sally Pearson, 2009",
+ "Accession Number": "2009.223",
+ "Rights and Reproduction": "© Stefan Grotz",
+ "Who": "Paul Grotz",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190043719,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/Grotz2009.223.recto.jpg",
+ "related-artworks": [
+  190017948,
+  190018964,
+  190028549,
+  190035986,
+  190036034
+ ],
+ "Provenance": [
+  "Paul Grotz",
+  "?",
+  "[George Rinhart]",
+  "[Mack Lee]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190043719"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Culture": "Cypriot",
+ "Medium": "Bronze",
+ "Dimensions": "length    14.10 cm.",
+ "Classification": "Bronzes",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.5504",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Needles"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130004854,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP20002.jpg",
+ "related-artworks": [
+  130004846,
+  130004848,
+  130004836,
+  130004849,
+  130004850
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130004854"
+  }
+ }
+}

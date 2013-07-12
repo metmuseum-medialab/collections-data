@@ -1,0 +1,65 @@
+{
+ "Date": "ca. 1535",
+ "Culture": "German, Nuremberg",
+ "Medium": "Steel",
+ "Dimensions": "37 1/2 x 11 3/4 in. (95.2 x 29.9 cm), wt. 6 lb. 14 oz. (3,070 g)",
+ "Classification": "Armor for Horse",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.1655",
+ "Who": "Valentin Siebenbürger",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Armor",
+  "Horse armor",
+  "Crinets"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Nuremberg"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005533,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/DP108798.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/aa/original/DP108798.jpg",
+  "http://images.metmuseum.org/CRDImages/aa/original/DP111368.jpg",
+  "http://images.metmuseum.org/CRDImages/aa/original/DP111369.jpg"
+ ],
+ "Description": "Decorated with narrow bands etched with delicate foliate scrolls, this crinet once formed part of a horse armor made for one of the co-ruling counts palatine; Ottheinrich (1502–1559) and Philipp (1503–1548).",
+ "Provenance": [
+  "Ex Coll.: Armory of the Counts Palatine of the Rhine, Neuburg Castle, Bavaria",
+  "Marquis de Pérignon, near Montaubon, France",
+  "William H. Riggs, Paris"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40004866"
+   },
+   {
+    "href": "http://scrapi.org/object/40004870"
+   },
+   {
+    "href": "http://scrapi.org/object/40000518"
+   },
+   {
+    "href": "http://scrapi.org/object/40001577"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40005533"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40005533"
+  }
+ }
+}

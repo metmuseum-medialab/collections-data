@@ -1,0 +1,44 @@
+{
+ "Period": "Early Bronze Age",
+ "Date": "ca. early 3rd millennium B.C.",
+ "Geography": "Syria",
+ "Medium": "Siliceous sandstone",
+ "Dimensions": "H. 2 cm x Diam. 2.3 cm",
+ "Classification": "Stone",
+ "Credit Line": "Bequest of Lester Wolfe, 1983",
+ "Accession Number": "1984.175.21",
+ "What": [
+  "Stone",
+  "Seals",
+  "Cylinder seals",
+  "Sandstone",
+  "Siliceous sandstone"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30005605,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/SS1984_175_21.jpg",
+ "related-artworks": [
+  30005592,
+  30005136,
+  30005591,
+  30005606,
+  30005614
+ ],
+ "Provenance": [
+  "Formerly collection of Lester Wolfe, New York (until d. 1983)",
+  "from 1968, on loan to the Museum by Lester Wolfe (L.68.169.21)",
+  "acquired by the Museum in 1983, bequest of Lester Wolfe."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30005605"
+  }
+ }
+}

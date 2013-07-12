@@ -1,0 +1,44 @@
+{
+ "Design House": "Capezio Inc. (American, founded 1887)",
+ "Date": "fall/winter 1963–64",
+ "Culture": "American",
+ "Medium": "(a, b) rayon, metallic; (c, d) rayon, metallic, leather",
+ "Dimensions": [
+  "Length (a) 39 1/4 in. (99.7 cm)",
+  "Length (b) 39 1/2 in. (100.3 cm)",
+  "Length (c, d) 9 1/2 in. (24.1 cm)"
+ ],
+ "Credit Line": "Gift of Anne Fogarty, Inc., 1964",
+ "Accession Number": "C.I.64.8a–d",
+ "Who": [
+  "Anne Fogarty",
+  "Capezio Inc."
+ ],
+ "What": [
+  "Leather",
+  "Ensembles",
+  "Rayon"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80017815,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI64.8ab_F.jpg",
+ "related-artworks": [
+  80005433,
+  80019027,
+  80017840,
+  80017817,
+  80018206
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80017815"
+  }
+ }
+}

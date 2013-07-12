@@ -1,0 +1,60 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Stone",
+ "Dimensions": "H. 5/8 in. (1.6 cm); W. 9/16 in. (1.5 cm)",
+ "Classification": "Ojime",
+ "Credit Line": "Bequest of Stephen Whitney Phoenix, 1881",
+ "Accession Number": "81.1.424.85",
+ "What": [
+  "Stone",
+  "Beads",
+  "Ojime"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60048475,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/81_1_424_85_O1.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/as/original/81_1_424_85_O1.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/81_1_424_85_O2.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/81_1_424_85_O3.jpg"
+ ],
+ "Provenance": [
+  "Stephen Whitney Phoenix , New York (until d. 1881)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60013301"
+   },
+   {
+    "href": "http://scrapi.org/object/60013399"
+   },
+   {
+    "href": "http://scrapi.org/object/60029697"
+   },
+   {
+    "href": "http://scrapi.org/object/60013254"
+   },
+   {
+    "href": "http://scrapi.org/object/60013329"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60048475"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60048475"
+  }
+ }
+}

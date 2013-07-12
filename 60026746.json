@@ -1,0 +1,40 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "15 x 10 1/4 in. (38.1 x 26 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Julia H. Manges, 1960",
+ "Accession Number": "JP3408",
+ "Who": "Isoda Koryūsai",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60026746,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP124249.jpg",
+ "related-artworks": [
+  60001249,
+  60025727,
+  60000714,
+  60025716,
+  60025717
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026746"
+  }
+ }
+}

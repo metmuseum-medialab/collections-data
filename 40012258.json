@@ -1,0 +1,36 @@
+{
+ "Date": "early 17th century",
+ "Culture": "French",
+ "Classification": "Firearms Accessories",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.1461",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Accessories"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 40012258,
+ "related-artworks": [
+  40003053,
+  40011746,
+  40012150,
+  40012151,
+  40012153
+ ],
+ "Provenance": [
+  "Ex coll.:  Count Leopold, Dresden",
+  "Historical Museum, Dresden"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40012258"
+  }
+ }
+}

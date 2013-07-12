@@ -1,0 +1,36 @@
+{
+ "Culture": "Cypriot",
+ "Medium": "Limestone",
+ "Dimensions": "Overall 6 x 4 1/8 x 5 1/16 in. (15.2 x 10.5 x 12.9 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2657",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Limestone"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130002674,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP158518.jpg",
+ "related-artworks": [
+  130002470,
+  130002474,
+  130002475,
+  130002476,
+  130002477
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002674"
+  }
+ }
+}

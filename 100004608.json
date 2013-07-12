@@ -1,0 +1,47 @@
+{
+ "Period": "Third Intermediate Period",
+ "Dynasty": "Dynasty 21",
+ "Date": "ca. 1000–945 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Tomb MMA 60, Pit, burial 4, MMA 1922–1924",
+ "Medium": "Papyrus, ink",
+ "Dimensions": [
+  "l. 119.5 cm (47 1/16 in); w. 24 cm (9 7/16 in)",
+  "Frame 123.2 cm (48 in); w. 27.9 cm (11 in); th. 2.5 cm (1 in)"
+ ],
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.3.31",
+ "What": [
+  "Ink",
+  "Papyrus"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 2000–1000 B.C.",
+  "Egypt, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100004608,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsgautpapc.jpg",
+ "related-artworks": [
+  100011282,
+  100019163,
+  100006804,
+  100008196,
+  100008195
+ ],
+ "Provenance": [
+  "Museum excavations 1923–24. Acquired by the Museum in the division of finds, 1925."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100004608"
+  }
+ }
+}

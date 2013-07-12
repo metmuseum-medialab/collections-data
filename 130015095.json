@@ -1,0 +1,44 @@
+{
+ "Period": "Late Classical",
+ "Date": "mid-4th century B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Marble",
+ "Dimensions": "H. 48 1/16 in. (122 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "Harris Brisbane Dick Fund, 1948",
+ "Accession Number": "48.11.4",
+ "What": [
+  "Sculpture",
+  "Fragments",
+  "Stone",
+  "Reliefs",
+  "Marble"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130015095,
+ "gallery-id": 158,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DT11995.jpg",
+ "related-artworks": [
+  130015926,
+  130011204,
+  130011254,
+  130012007,
+  130012014
+ ],
+ "Description": "This noble image of a woman brings to mind the philosopher Aristotle's description of commonly held beliefs about the dead: \"In addition to believing that those who have ended this life are blessed and happy, we also think that to say anything false or slanderous against them is impious, from our feeling that it is directed against those who have already become our betters and superiors\" (Of the Soul, quoted in Plutarch, A Letter to Apollonius 27).  Larger than life and seated on a thronelike chair, this figure assumes almost heroic proportions.",
+ "Provenance": [
+  "Found at  Acharnae, Menidi, in Attica before 1827"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130015095"
+  }
+ }
+}

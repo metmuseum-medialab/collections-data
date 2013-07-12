@@ -1,0 +1,39 @@
+{
+ "Design House": "Miyake Design Studio (Japanese)",
+ "Date": "fall/winter 1976–77",
+ "Culture": "Japanese",
+ "Medium": "cotton",
+ "Dimensions": "Length (from shoulder) 62 3/4 in. (159.4 cm)",
+ "Credit Line": "Gift of Issey Miyake, 1977",
+ "Accession Number": "1977.405.5a, b",
+ "Who": [
+  "Issey Miyake",
+  "Miyake Design Studio"
+ ],
+ "What": "Cotton",
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Miyake, Kawakubo, and Yamamoto Japanese Fashion in the Twentieth Century",
+  "Japan, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80006737,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.405.5ab_F2.jpg",
+ "related-artworks": [
+  80000210,
+  80000289,
+  80001114,
+  80001533,
+  80001880
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80006737"
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "Date": "1912",
+ "Classification": "Books",
+ "Credit Line": "Gift of A. Chapin Rogers, 1951",
+ "Accession Number": "51.612.6",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021217,
+ "related-artworks": [
+  90000001,
+  90000402,
+  90000506,
+  90000530,
+  90000618
+ ],
+ "Provenance": [
+  "Donor: Alfred Chapin Rogers"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021217"
+  }
+ }
+}

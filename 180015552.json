@@ -1,0 +1,55 @@
+{
+ "Date": "1870–75",
+ "Geography": "Boston, Massachusetts, United States",
+ "Medium": "Metal, silver plated",
+ "Dimensions": "H. 35.4 cm (14 in.); Bell Dam. 11.7 cm (4-5/8 in.)",
+ "Classification": "Aerophone-Lip Vibrated",
+ "Credit Line": "Purchase, Bequest of Robert Alonzo Lehman, by exchange, and Bequest of Olive Huber, by exchange, 2001",
+ "Accession Number": "2001.256a-c",
+ "Who": "Hall & Quinby",
+ "What": [
+  "Metal",
+  "Silver",
+  "Musical instruments",
+  "Aerophones",
+  "Cornets",
+  "Valves"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Boston"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180015552,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DP145581.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/180015325"
+   },
+   {
+    "href": "http://scrapi.org/object/180015595"
+   },
+   {
+    "href": "http://scrapi.org/object/180015000"
+   },
+   {
+    "href": "http://scrapi.org/object/180015816"
+   },
+   {
+    "href": "http://scrapi.org/object/180015601"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/180015552"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/180015552"
+  }
+ }
+}

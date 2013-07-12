@@ -1,0 +1,44 @@
+{
+ "Printer": "Aubert et Cie (Paris)",
+ "Publisher": "Bauger et Cie (Paris)",
+ "Date": "December 19, 1839",
+ "Medium": "Lithograph; second state of two (Armelhault & Bocher)",
+ "Dimensions": "Sheet 11 x 7 9/16 in. (28 x 19.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Howard Carter, 1949",
+ "Accession Number": "49.74.119",
+ "Who": [
+  "Paul Gavarni [Chevalier]",
+  "Aubert et Cie",
+  "Bauger et Cie"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90083619,
+ "related-artworks": [
+  90018048,
+  90024410,
+  90028473,
+  90032320,
+  90049446
+ ],
+ "Provenance": [
+  "Donor: Howard Carter (British, London 1873–1939 London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90083619"
+  }
+ }
+}

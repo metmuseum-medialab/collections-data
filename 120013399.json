@@ -1,0 +1,56 @@
+{
+ "Engraver": "Robert Hancock (British, Burslem 1730–1817 Bristol)",
+ "Artist": "After a painting by Antoine Pesne (French, Paris 1683–1757 Berlin)",
+ "Date": "1757",
+ "Culture": "British, Worcester",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. 5 7/8 in. (14.9 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Luke Vincent Lockwood, 1939",
+ "Accession Number": "39.140.29",
+ "Who": [
+  "Worcester",
+  "Robert Hancock",
+  "Antoine Pesne"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Faience",
+  "Porcelain",
+  "Soft paste porcelain",
+  "Jugs"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Worcestershire",
+  "Worcester"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013399,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/119698.jpg",
+ "related-artworks": [
+  120013380,
+  120013402,
+  120013384,
+  120013414,
+  120013431
+ ],
+ "Provenance": [
+  "Thomas G. Cannon (until 1927",
+  "sale, Anderson Galleries, New York, January 12, 1927, no. 327)",
+  "[ Ginsburg & Levy, Inc. , New York, before 1939",
+  "sold to Lockwood ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013399"
+  }
+ }
+}

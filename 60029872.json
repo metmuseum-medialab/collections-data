@@ -1,0 +1,39 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Lacquer, roiro, nashiji, gold silver and coloured hiramakie, foil; Interior gyobu nashiji and fundame",
+ "Dimensions": "3 1/16 x 3 1/8 x 13/16 in. (7.7 x 8 x 2 cm)",
+ "Classification": "Inrō",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.744",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Lacquer",
+  "Inro",
+  "Sagemono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60029872,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/29_100_744_O3.JPG",
+ "related-artworks": [
+  60007097,
+  60013262,
+  60013259,
+  60013266,
+  60013418
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029872"
+  }
+ }
+}

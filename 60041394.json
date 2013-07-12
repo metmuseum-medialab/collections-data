@@ -1,0 +1,37 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Silk",
+ "Dimensions": "83 1/2 x 53 1/2 in. (212.09 x 135.89 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1906",
+ "Accession Number": "06.83",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Panels"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60041394,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/33142.jpg",
+ "related-artworks": [
+  60044494,
+  60044196,
+  60042735,
+  60042047,
+  60038403
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60041394"
+  }
+ }
+}

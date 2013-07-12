@@ -1,0 +1,63 @@
+{
+ "Designer": "Gabrielle \"Coco\" Chanel (French, Saumur 1883–1971 Paris)",
+ "Date": "mid to late 1950s",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "Length 36 in. (91.4 cm)",
+ "Credit Line": "Gift of Bradford Dillman, 2004",
+ "Accession Number": "2004.333.27",
+ "Who": [
+  "House of Chanel",
+  "Gabrielle \"Coco\" Chanel"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Scarves"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Gabrielle \"Coco\" Chanel (1883–1971) and the House of Chanel",
+  "Costume in The Metropolitan Museum of Art",
+  "Dressing for the Cocktail Hour",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80032704,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2004.333.27.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/2004.333.27.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/TR.299.38.2004.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/TR.299.38.2004_d.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80032705"
+   },
+   {
+    "href": "http://scrapi.org/object/80032702"
+   },
+   {
+    "href": "http://scrapi.org/object/80000460"
+   },
+   {
+    "href": "http://scrapi.org/object/80000462"
+   },
+   {
+    "href": "http://scrapi.org/object/80000509"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80032704"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80032704"
+  }
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "Date": "ca. 1790",
+ "Culture": "British, Burslem, Staffordshire",
+ "Medium": "Lead-glazed earthenware",
+ "Dimensions": "H. 11 3/4 in.  (29.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1943",
+ "Accession Number": "43.100.19",
+ "Who": "Ralph Wood the Younger",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Figures",
+  "Ceramic glaze",
+  "Lead glaze"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120014396,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/134193.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120012940",
+  "http://scrapi.org/object/120013658",
+  "http://scrapi.org/object/120014118",
+  "http://scrapi.org/object/120014537",
+  "http://scrapi.org/object/120014684"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "[ Frank Stoner (until 1941; sold to Wilson) ]"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120012940"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120013658"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120014118"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120014537"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120014684"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120014396"
+  }
+ }
+}

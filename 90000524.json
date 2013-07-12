@@ -1,0 +1,59 @@
+{
+ "Illustrator": "Catherine Lucy Wilhelmina Powlett Cleveland (British, 1819–1901)",
+ "Lithographer": "Lowes Cato Dickinson (British, London 1819–1908 London)",
+ "Publisher": "Dickinson & Son (London)",
+ "Date": "1846",
+ "Medium": "Lithograph, hand colored illuminations and calligraphies",
+ "Dimensions": "Book 21 5/16 x 14 9/16 x 13/16 in. (54.1 x 37 x 2cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Fund, 1966",
+ "Accession Number": "66.541.44",
+ "Who": [
+  "Catherine Lucy Wilhelmina Powlett Cleveland",
+  "Dickinson & Son",
+  "Lowes Cato Dickinson",
+  "Thomas Deloney"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books",
+  "Paintings",
+  "Illuminations"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90000524,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90000087"
+   },
+   {
+    "href": "http://scrapi.org/object/90000089"
+   },
+   {
+    "href": "http://scrapi.org/object/90000245"
+   },
+   {
+    "href": "http://scrapi.org/object/90000248"
+   },
+   {
+    "href": "http://scrapi.org/object/90000303"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90000524"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90000524"
+  }
+ }
+}

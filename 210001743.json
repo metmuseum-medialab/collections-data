@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1953",
+ "Medium": "Box construction painted wood and printed paper",
+ "Dimensions": "H. 18-1/8, W. 11-7/8, D. 4-1/2 inches (46 x 30.2 x 11.4 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Mr. and Mrs. Alan M. May, 1976",
+ "Accession Number": "1976.416",
+ "Who": "Joseph Cornell",
+ "What": [
+  "Sculpture",
+  "Paper",
+  "Painting",
+  "Printing",
+  "Boxes",
+  "Printing paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210001743,
+ "related-artworks": [
+  210010428,
+  210010427,
+  210014658,
+  210003014,
+  210003015
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210001743"
+  }
+ }
+}

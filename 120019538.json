@@ -1,0 +1,64 @@
+{
+ "Date": "ca.1500",
+ "Culture": "Italian (Padua)",
+ "Medium": "Bronze",
+ "Dimensions": "H. 14-1/4 in. (36.2 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.1425",
+ "Who": "Severo Calzetta da Ravenna",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Padua"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120019538,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/201451.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120009948",
+  "http://scrapi.org/object/120011943",
+  "http://scrapi.org/object/120013726",
+  "http://scrapi.org/object/120023131",
+  "http://scrapi.org/object/150007960"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "O. Schuster , Amsterdam",
+  "Ernst Rosenfeld",
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120009948"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120011943"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120013726"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120023131"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/150007960"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120019538"
+  }
+ }
+}

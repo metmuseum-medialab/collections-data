@@ -1,0 +1,42 @@
+{
+ "Date": "1752–55",
+ "Culture": "French, Lyon",
+ "Medium": "Oak lower moldings and feather keys; lime upper moldings. Carved, gilt; orange bole.",
+ "Dimensions": "Overall, 83.3 x 96.7 cm; sight, 56.2 x 70.2 cm; rebate, 60.7 x 74.6 cm.",
+ "Classification": "Frames",
+ "Accession Number": "1975.1.2267",
+ "What": [
+  "Gilt",
+  "Wood",
+  "Oak",
+  "Frames",
+  "Lime",
+  "Moldings"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Rhône",
+  "Lyon"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 150008062,
+ "gallery-id": 957,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-2267.jpg",
+ "related-artworks": [
+  150008545,
+  150008328,
+  150007361,
+  150007667,
+  150008254
+ ],
+ "Description": "The sight-edge rocaille has a particular elegance on this horizontal frame in the style of Jean-Baptiste Pillement (1728-1808), a painter and ornamental designer who worked in Lyon.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008062"
+  }
+ }
+}

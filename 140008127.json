@@ -1,0 +1,38 @@
+{
+ "Date": "9th–12th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Glass; marvered",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1948",
+ "Accession Number": "48.101.84 ach",
+ "What": [
+  "Glass",
+  "Beads"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 1000–1400 A.D.",
+  "Iran, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140008127,
+ "gallery-id": 453,
+ "related-artworks": [
+  140007644,
+  140007645,
+  140008052,
+  140008132,
+  140008128
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008127"
+  }
+ }
+}

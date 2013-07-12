@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Culture": "British (after a Portuguese original)",
+ "Medium": "Silver on base metal",
+ "Dimensions": "H. 7 1/2 in. (19.1 cm.); Diam. 13 1/2 in. (34.3 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Henry G. Marquand, 1883",
+ "Accession Number": "83.18.112",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Drinking vessels",
+  "Cups",
+  "Printing plates",
+  "Electrotype",
+  "Tazzas"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000773,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP22560.jpg",
+ "related-artworks": [
+  120000014,
+  120000035,
+  120000043,
+  120000843,
+  120000011
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000773"
+  }
+ }
+}

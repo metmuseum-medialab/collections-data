@@ -1,0 +1,45 @@
+{
+ "Period": "Song dynasty (960–1279)",
+ "Culture": "China",
+ "Medium": "Dark brown clay burnt black, with heavy purplish-black glaze and silver rim (Jian ware)",
+ "Dimensions": "H. 3 in. (7.6 cm); Diam. 5 in. (12.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.230",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Silver",
+  "Glaze",
+  "Bowls",
+  "Ritual vessels",
+  "Jian"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 500–1000 A.D.",
+  "China, 1000–1400 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60021895,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/75968.jpg",
+ "related-artworks": [
+  60018698,
+  60018696,
+  60018703,
+  60019114,
+  60018691
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60021895"
+  }
+ }
+}

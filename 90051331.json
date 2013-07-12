@@ -1,0 +1,69 @@
+{
+ "Author": "Written and translated by Claude Perrault (French, 1613–1688)",
+ "Designer": "Designs by Louis Eugène Thomas Tardieu (French)",
+ "Engraver": "Engraved by Emile-Edmond Ollivier (French, Versailles 1800–1864 Paris)",
+ "Editor": "Edited by Louis Ambroise Coussin (French)",
+ "Publisher": "Published by Louis Eugène Thomas Tardieu (French)",
+ "Date": "1837",
+ "Medium": "Printed book with engraved illustrations",
+ "Classification": "Books",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.100.284.2",
+ "Who": [
+  "Marcus Pollio Vitruvius",
+  "Claude Perrault",
+  "Berardo Galiani",
+  "August Hibon",
+  "Emile-Edmond Ollivier",
+  "J. J. Ollivier de Castres",
+  "Louis Ambroise Coussin",
+  "Louis Eugène Thomas Tardieu"
+ ],
+ "What": [
+  "Engraving",
+  "Books",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90051331,
+ "related-artworks": [
+  "http://scrapi.org/object/90051330",
+  "http://scrapi.org/object/90051329",
+  "http://scrapi.org/object/90051332",
+  "http://scrapi.org/object/90051333",
+  "http://scrapi.org/object/90051334"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "William Gedney Beatty"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90051330"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90051329"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90051332"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90051333"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90051334"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90051331"
+  }
+ }
+}

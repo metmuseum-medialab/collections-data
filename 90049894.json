@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1739",
+ "Medium": "Ink and wash",
+ "Dimensions": "sheet 14 11/16 x 21 1/16 in. (37.3 x 53.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1942",
+ "Accession Number": "42.79",
+ "Who": "Jacques Rigaud",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Eighteenth Century From Geometric to Informal Gardens",
+  "The Grand Tour",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90049894,
+ "related-artworks": [
+  90032682,
+  90049885,
+  90049889,
+  90049892,
+  90049899
+ ],
+ "Provenance": [
+  "Thomas Grenville (British, 1755–1846), according to Peter Willis, Thomas Grenville was either Viscount Cobham's nephew (1719-1747), a brother-in-law of William Pitt",
+  "or else Cobham's great-nephew Thomas Grenville (1755-1846) a book collector and donor of the Grenville Library at the British Museum.",
+  "Sir Thomas Phillipps, 1st Baronet (British, 1792–1872)",
+  "Edwards (London), (?) Peter Willis writes that the album was purchased at the Phillips sale by \"Edwards\" for £14.0s.0d",
+  "Vendor: F. & G. Staack"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90049894"
+  }
+ }
+}

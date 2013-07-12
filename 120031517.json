@@ -1,0 +1,40 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "Unknown",
+ "Medium": "Metal thread",
+ "Dimensions": [
+  "12 x 2 1/2 inches",
+  "30.5 x 6.4 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.103.356",
+ "What": [
+  "Metal",
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Galloon"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120031517,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP5796.jpg",
+ "related-artworks": [
+  120031432,
+  120031443,
+  120031444,
+  120031447,
+  120031461
+ ],
+ "Provenance": [
+  "Samuel B. Dean (until 1908",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120031517"
+  }
+ }
+}

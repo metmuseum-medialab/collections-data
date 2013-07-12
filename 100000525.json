@@ -1,0 +1,52 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Reign": "reign of Amenemhat I, early",
+ "Date": "ca. 1981–1975 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Southern Asasif, Tomb of Meketre (TT 280, MMA 1101), Serdab, carpenter's shop, tool chest, MMA 1920",
+ "Medium": [
+  "Bronze or copper alloy, wood, linen string",
+  "Wood"
+ ],
+ "Dimensions": "L. of handle 12 cm (4 3/4 in); w. of blade 3.1 cm (1 1/4 in)",
+ "Credit Line": "Rogers Fund and Edward S. Harkness Gift, 1920",
+ "Accession Number": "20.3.91",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Arms",
+  "Wood",
+  "Linen",
+  "Edged weapons",
+  "Copper",
+  "Axes"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100000525,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/20.3.91.jpg",
+ "related-artworks": [
+  100003650,
+  100004255,
+  100005177,
+  100005702,
+  100032455
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1920. Acquired by the Museum in the division of finds, 1920."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100000525"
+  }
+ }
+}

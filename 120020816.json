@@ -1,0 +1,60 @@
+{
+ "Maker": "(Maker of cutlery) E. H., London",
+ "Date": "1709/10",
+ "Culture": "British, London",
+ "Medium": "Silver; wood case covered with shagreen; removable wooden fitting lined with velvet, silver braid",
+ "Dimensions": [
+  "Overall (case) H. 5 5/16 x W. 4 1/4 x D. 3 1/2 in. (13.5 x 10.8 x 8.9 cm);",
+  "Height of cup 3 1/2in. (8.9cm)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1968",
+ "Accession Number": "68.141.256a–j",
+ "Who": [
+  "T. T., England",
+  "Charles Overing",
+  "E. H., London"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Wood",
+  "Leather",
+  "Trimming",
+  "Cases",
+  "Braid",
+  "Pockets",
+  "Shagreen",
+  "Canteens"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020816,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP239058.jpg",
+ "related-artworks": [
+  120013864,
+  120014779,
+  120020213,
+  120012309,
+  120017924
+ ],
+ "Description": "The conical case is fitted with a silver beaker and a knife, fork, spoon, and marrow spoon with removable handles. The hunting scenes of a stag and boar hunt engraved on the beaker likely suggest that the beaker was intended for use during a hunt.",
+ "Provenance": [
+  "Sir John Noble (until 1951",
+  "sale, Christie's, December 12, 1951, no. 100)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120020816"
+  }
+ }
+}

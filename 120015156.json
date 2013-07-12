@@ -1,0 +1,56 @@
+{
+ "Date": "19th century",
+ "Culture": "American Eskimo",
+ "Medium": "Walrus ivory and horn",
+ "Dimensions": "King each, H. 2 1/8 in.  (5.4 cm); Pawn: each, H. 7/8 in. (2.2 cm.); Only the tallest and shortest examples of chessmen measured for basic record.",
+ "Classification": "Chess Sets",
+ "Credit Line": "Gift of Gustavus A. Pfeiffer, 1948",
+ "Accession Number": "48.174.162a–p, aa–pp",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Game pieces",
+  "Horn",
+  "Board games",
+  "Chess sets",
+  "Chessmen"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "id": 120015156,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/145156.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120015151",
+  "http://scrapi.org/object/120015161",
+  "http://scrapi.org/object/120014994",
+  "http://scrapi.org/object/120015007",
+  "http://scrapi.org/object/120015098"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Alexander Hammond",
+  "Gustavus A. Pfeiffer"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120015151"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120015161"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120014994"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120015007"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120015098"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120015156"
+  }
+ }
+}

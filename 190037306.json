@@ -1,0 +1,54 @@
+{
+ "Date": "1864 (?)",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "25.5 x 32.6 cm (10 1/16 x 12 13/16 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.65.590",
+ "Who": "George . Barnard",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photography and the Civil War, 1861–1865",
+  "The Industrialization of French Photography after 1860",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190037306,
+ "Provenance": [
+  "Loyal Legion, The Commandery of the State of Massachusetts, Boston"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190019715"
+   },
+   {
+    "href": "http://scrapi.org/object/190019731"
+   },
+   {
+    "href": "http://scrapi.org/object/190019742"
+   },
+   {
+    "href": "http://scrapi.org/object/190019743"
+   },
+   {
+    "href": "http://scrapi.org/object/190020025"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190037306"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190037306"
+  }
+ }
+}

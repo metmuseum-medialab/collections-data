@@ -1,0 +1,50 @@
+{
+ "Object Name": "Album leaf",
+ "Reign": "Shah Jahan (1628–58)",
+ "Date": "17th century",
+ "Geography": "India",
+ "Medium": "Ink, opaque watercolor, and gold on paper",
+ "Dimensions": [
+  "H. 12 in. (30.5 cm)",
+  "W. 8 in. (20.3 cm)"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "Gift of George D. Pratt, 1925",
+ "Accession Number": "25.83.3",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Books",
+  "Gold",
+  "Watercolors",
+  "Albums",
+  "Manuscripts",
+  "Codices"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005051,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf25-83-3r.jpg",
+ "related-artworks": [
+  140005736,
+  140008581,
+  140010136,
+  140003169,
+  140003797
+ ],
+ "Provenance": [
+  "George D. Pratt, New York (until 1925)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005051"
+  }
+ }
+}

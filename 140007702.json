@@ -1,0 +1,55 @@
+{
+ "Object Name": "Bottle",
+ "Date": "late 13th century",
+ "Geography": "Egypt, possibly Cairo",
+ "Medium": "Glass, greenish; blown, folded foot; enameled and gilded",
+ "Dimensions": [
+  "H. 17 1/8 in. (43.5 cm)",
+  "Max. Diam. 11 in. (27.9 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1941",
+ "Accession Number": "41.150",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Gilt",
+  "Bottles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Cairo"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Art of the Mamluk Period (1250–1517)",
+  "The Eastern Mediterranean, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140007702,
+ "gallery-id": 450,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP170374.jpg",
+ "related-artworks": [
+  140004233,
+  140004706,
+  140009940,
+  140001774,
+  140001777
+ ],
+ "Description": "The size and delicate decoration of this bottle are remarkable; few such large or painterly examples of enameled glass are known. The polychrome phoenix on the neck soars above the central scene of mounted warriors wielding maces, swords, and bows. The warriors might well be participants in a horsemanship exercise, outfitted as combatants from the rival Ilkhanid and Mamluk states.",
+ "Provenance": [
+  "M. Champion, Austrian Vice-Consul, Cairo (until 1825",
+  "to Habsburg Emperor)",
+  "Kunsthistorisches Museum, Vienna(1825–1938",
+  "to Brummer)",
+  "[ Brummer Gallery, New York, 1938–41",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007702"
+  }
+ }
+}

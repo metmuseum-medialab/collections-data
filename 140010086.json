@@ -1,0 +1,39 @@
+{
+ "Date": "9th century",
+ "Geography": "Egypt or Iraq",
+ "Medium": "Glass; stained and luster-painted",
+ "Dimensions": [
+  "H. 1/4\" (0.6 cm)",
+  "L. 1 5/16\" (3.4 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Gift of Saeed Motamed, 1974",
+ "Accession Number": "1974.371.14",
+ "What": [
+  "Glass",
+  "Fragments",
+  "Painting"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140010086,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf1974-371-14.jpg",
+ "related-artworks": [
+  140010075,
+  140010077,
+  140010073,
+  140010076,
+  140010078
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010086"
+  }
+ }
+}

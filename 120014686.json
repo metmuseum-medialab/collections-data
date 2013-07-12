@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1780–90",
+ "Culture": "British, Burslem, Staffordshire",
+ "Medium": "Lead-glazed earthenware",
+ "Dimensions": "H. 5 in.  (12.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Helen Hay Whitney, 1944",
+ "Accession Number": "45.35.35",
+ "Who": "Ralph Wood the Younger",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Ceramic glaze",
+  "Lead glaze"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120014686,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/134143.jpg",
+ "related-artworks": [
+  120006610,
+  120012769,
+  120012970,
+  120013659,
+  120013660
+ ],
+ "Provenance": [
+  "Helen Hay Whitney (until 1944",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120014686"
+  }
+ }
+}

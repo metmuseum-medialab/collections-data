@@ -1,0 +1,47 @@
+{
+ "Artist": "After François Boucher (French, Paris 1703–1770 Paris)",
+ "Publisher": "Chez Huquier (French, 18th century)",
+ "Medium": "Etching and Engraving",
+ "Dimensions": [
+  "sheet 17 1/2 x 12 in. (44.4 x 30.5 cm)",
+  "plate 10 9/16 x 9 3/4 in. (26.9 x 24.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1957",
+ "Accession Number": "57.559.37",
+ "Who": [
+  "François Boucher",
+  "Gabriel Huquier",
+  "Chez Huquier"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90069068,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP826224.jpg",
+ "related-artworks": [
+  90013891,
+  90013892,
+  90013889,
+  90013893,
+  90013890
+ ],
+ "Provenance": [
+  "Vendor: August J. Fries"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90069068"
+  }
+ }
+}

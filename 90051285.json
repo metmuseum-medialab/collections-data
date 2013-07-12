@@ -1,0 +1,41 @@
+{
+ "Date": "1923",
+ "Medium": "Linoleum cut",
+ "Dimensions": [
+  "block 8 15/16 x 11 13/16 in. (22.7 x 30 cm)",
+  "sheet 9 11/16 x 12 1/4 in. (24.6 x 31.1 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Johanna and Leslie Garfield, 2005",
+ "Accession Number": "2005.470.1",
+ "Who": "Claude Flight",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Linoleum cuts"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90051285,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/SC178923.jpg",
+ "related-artworks": [
+  90051286,
+  90049632,
+  90049633,
+  90049634
+ ],
+ "Provenance": [
+  "Donor: Leslie J. Garfield"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90051285"
+  }
+ }
+}

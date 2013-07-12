@@ -1,0 +1,45 @@
+{
+ "Date": "2nd–7th century",
+ "Geography": "Peru",
+ "Culture": "Moche",
+ "Medium": "Copper",
+ "Dimensions": "Height 4-1/8 in. (10.5 cm)",
+ "Classification": "Metal-Sculpture",
+ "Credit Line": "Bequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986",
+ "Accession Number": "1987.394.570",
+ "Who": "Moche",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper",
+  "Figures"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 500–1000 A.D.",
+  "Central and Southern Andes, 1–500A.D."
+ ],
+ "id": 50008296,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1987_394_570.jpg",
+ "related-artworks": [
+  50005219,
+  50005735,
+  50001706,
+  50003271,
+  50008025
+ ],
+ "Provenance": [
+  "[Lee Moore, New York, until 1974]",
+  "Arnold I. Goldberg, New York, 1974–(d.)1976",
+  "Jane Costello Goldberg, New York, 1976– (d.)1986"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50008296"
+  }
+ }
+}

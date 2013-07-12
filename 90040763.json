@@ -1,0 +1,38 @@
+{
+ "Date": "1817",
+ "Medium": "Etching; fifth state?",
+ "Dimensions": [
+  "plate 4 x 5 5/8 in.",
+  "sheet 5 1/8 x 6 13/16 in."
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.21.7",
+ "Who": "Johann Christoph Erhard",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90040763,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP824234.jpg",
+ "related-artworks": [
+  90024922,
+  90040744,
+  90040762,
+  90040746,
+  90040765
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90040763"
+  }
+ }
+}

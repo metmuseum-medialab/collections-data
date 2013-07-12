@@ -1,0 +1,45 @@
+{
+ "Date": "2009",
+ "Medium": "Glass and polymer",
+ "Dimensions": [
+  "Irregular, larger form 17 x 45 x 27 in. (43.2 x 114.3 x 68.6 cm)",
+  "Irregular, smaller form 16 x 27 x 27 in. (40.6 x 68.6 x 68.6 cm)"
+ ],
+ "Classification": "Lighting",
+ "Credit Line": "Gift of Ayala Serfaty and Cristina Grajales Gallery, 2012",
+ "Accession Number": "2012.158.2a, b",
+ "Who": "Ayala Serfaty",
+ "What": [
+  "Glass",
+  "Lighting devices",
+  "Lamps",
+  "Lighting",
+  "Polymers"
+ ],
+ "Where": [
+  "Asia",
+  "Israel"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Arabian Peninsula and the Eastern Mediterranean, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210021726,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/Serfaty.2012.1.jpg",
+ "related-artworks": [
+  210021691,
+  210005260,
+  210005273,
+  210014484
+ ],
+ "Provenance": [
+  "The artist, Tel Aviv (2009–2011)",
+  "[Cristina Grajales, New York, 2011–12",
+  "her gift to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210021726"
+  }
+ }
+}

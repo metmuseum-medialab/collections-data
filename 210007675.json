@@ -1,0 +1,37 @@
+{
+ "Date": "1917",
+ "Medium": "Bronze",
+ "Dimensions": "H. 13-1/2, W. 10-1/4, D. 5-5/8 inches (34.3 x 26 x 14.3 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Mrs. Harry Payne Bingham, 1925",
+ "Accession Number": "25.88",
+ "Who": "Guiseppe Enea Biafora",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210007675,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sfee25.88.jpg",
+ "related-artworks": [
+  210000026,
+  210000704,
+  210000713,
+  210000731,
+  210000751
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210007675"
+  }
+ }
+}

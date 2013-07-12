@@ -1,0 +1,42 @@
+{
+ "Artist": "After Jean-Michel Moreau the Younger (French, Paris 1741–1814 Paris)",
+ "Date": "1774",
+ "Medium": "Etching and engraving; second state of four (Bocher)",
+ "Dimensions": "Sheet 5 1/2 × 7 1/16 in. (14 × 18 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Henry W. Kent, transferred from the Printing Office, 1941",
+ "Accession Number": "41.44.1533",
+ "Who": [
+  "Jean-Michel Moreau the Younger",
+  "Louis Simon Lempereur"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90101220,
+ "related-artworks": [
+  90070524,
+  90098969,
+  90100839,
+  90100894,
+  90100811
+ ],
+ "Provenance": [
+  "Donor: Henry W. Kent"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90101220"
+  }
+ }
+}

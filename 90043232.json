@@ -1,0 +1,50 @@
+{
+ "Architect": "Designed by Jacopo [Giacomo] Barozzi da Vignola (Italian, Vignola 1507–1573 Rome)",
+ "Date": "1746–48",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 18 1/2 x 28 in. (47 x 71.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.601.327",
+ "Who": [
+  "Jacopo [Giacomo] Barozzi da Vignola",
+  "Giuseppe Vasi"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90043232,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90043228"
+   },
+   {
+    "href": "http://scrapi.org/object/90043229"
+   },
+   {
+    "href": "http://scrapi.org/object/90043231"
+   },
+   {
+    "href": "http://scrapi.org/object/90043230"
+   },
+   {
+    "href": "http://scrapi.org/object/90043233"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90043232"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90043232"
+  }
+ }
+}

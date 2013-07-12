@@ -1,0 +1,46 @@
+{
+ "Date": "1785–90",
+ "Geography": "China",
+ "Culture": "Chinese, for American market",
+ "Medium": "Porcelain",
+ "Dimensions": "Diam. 9 in. (22.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of James T. Woodward, 1910",
+ "Accession Number": "10.149.46",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Plates"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10006467,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA2657.jpg",
+ "related-artworks": [
+  10001015,
+  10001016,
+  10001023,
+  10001024,
+  10001031
+ ],
+ "Provenance": [
+  "James T. Woodward, New York, until 1910"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006467"
+  }
+ }
+}

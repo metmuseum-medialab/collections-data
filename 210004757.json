@@ -1,0 +1,58 @@
+{
+ "Date": "1982",
+ "Medium": "Marble",
+ "Dimensions": "74 3/4 x 54 x 45 3/4 in., 11000lb. (189.9 x 137.2 x 116.2 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Anonymous Gift, 1986",
+ "Accession Number": "1986.397",
+ "Rights and Reproduction": "© Louise Bourgeois/Licensed by VAGA, New York, NY",
+ "Who": "Louise Bourgeois",
+ "What": [
+  "Sculpture",
+  "Marble"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210004757,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT8504.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/210001345",
+  "http://scrapi.org/object/210006842",
+  "http://scrapi.org/object/210002723",
+  "http://scrapi.org/object/210011220",
+  "http://scrapi.org/object/210020013"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ma/original/DT8504.jpg",
+  "http://images.metmuseum.org/CRDImages/ma/original/DT8505.jpg"
+ ],
+ "Description": "Louise Bourgeois began her career as a painter and engraver, turning to sculpture in the late 1940s.  Born in Paris, she studied art at various schools there, including the École du Louvre, Académie des Beaux-Arts, Académie Julian, and Atelier Fernand Léger.  In 1938 she emigrated to the United States and continued her studies at the Art Students League in New York.  During the latter 1940s she produced prints at Atelier 17 in New York where she became friendly with the artists Le Corbusier, Joan Miró, and Yves Tanguy.  Since about 1947–49, when she produced her first sculptural works, her imagery has been influenced by Surrealism, a movement that attracted her attention when a great number of European artists came to the New York area during World War II.  In 1949 Peridot Gallery in New York exhibited these works for the first time.  Her sculptures of the 1940s were composed groupings of elongated, carved wood totems, abstract in shape and painted in a uniform color.  In the 1960s her work, which retained its Surrealist undertones, expanded in size and was executed in bronze, carved stone, and rubber latex.  Bourgeois's highly idiosyncratic style relies on an intensely personal vocabulary of anthropomorphic forms charged with sexual allusions. \"Eyes\" is a large marble sculpture that shows the persistence of Surrealist iconography in her late work.  The eye, a recurring motif in Surrealism, served as both a symbol for the act of perception and as an allusion to female sexual anatomy.  Perched on top of a massive marble block chiseled in various places to resemble a house (a recurring theme in her work) are two highly polished round balls with a carved circular opening at each center.  As a unit they suggest a bold abstract head, a female torso, or the symbolic marriage of woman to home and family.",
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210001345"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210006842"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210002723"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210011220"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210020013"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210004757"
+  }
+ }
+}

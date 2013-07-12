@@ -1,0 +1,49 @@
+{
+ "Date": "ca. 1938",
+ "Medium": "Pen and india ink on paper",
+ "Dimensions": "8 7/8 x 11 15/16 in. (22.5 x 30.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Felicia Meyer Marsh, 1979",
+ "Accession Number": "1979.292.512",
+ "Who": "Reginald Marsh",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "India ink"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210019161,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210013158"
+   },
+   {
+    "href": "http://scrapi.org/object/210013189"
+   },
+   {
+    "href": "http://scrapi.org/object/210013170"
+   },
+   {
+    "href": "http://scrapi.org/object/210013172"
+   },
+   {
+    "href": "http://scrapi.org/object/210013175"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210019161"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210019161"
+  }
+ }
+}

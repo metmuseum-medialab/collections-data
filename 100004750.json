@@ -1,0 +1,44 @@
+{
+ "Period": "Roman Period",
+ "Date": "A.D. 2nd century",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "gold, onyx, green stone or glass",
+ "Dimensions": "27.3 cm (10 3/4 in.)",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.1527",
+ "What": [
+  "Metal",
+  "Glass",
+  "Gold",
+  "Stone",
+  "Chalcedony",
+  "Pendants",
+  "Onyx",
+  "Chains"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1–500A.D.",
+ "id": 100004750,
+ "gallery-id": 138,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs10.130.1527.jpg",
+ "related-artworks": [
+  100002655,
+  100004748,
+  100002654,
+  100004740,
+  100004752
+ ],
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100004750"
+  }
+ }
+}

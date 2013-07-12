@@ -1,0 +1,23 @@
+{
+ "Date": "ca. 1495",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1925",
+ "Accession Number": "25.30.124",
+ "What": "Books",
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024261,
+ "related-artworks": [
+  90001585,
+  90001586,
+  90001587,
+  90003660,
+  90003661
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024261"
+  }
+ }
+}

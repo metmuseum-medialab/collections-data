@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1918",
+ "Medium": "Chalk and watercolor on paper",
+ "Dimensions": [
+  "H. 18-1/8, W. 23-1/4 inches",
+  "(46.1 x 59.1 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Alexandrine Sinsheimer, 1958",
+ "Accession Number": "59.23.58",
+ "Who": "Herman Jensen",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Denmark"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009300,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf59.23.58.jpg",
+ "related-artworks": [
+  210009299,
+  210004713,
+  210004754,
+  210003613
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009300"
+  }
+ }
+}

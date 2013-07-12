@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 600",
+ "Culture": "Langobardic",
+ "Medium": "Gold",
+ "Dimensions": "Overall 2 5/16 x 1 x 9/16 in. (5.9 x 2.5 x 1.5 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, 1895",
+ "Accession Number": "95.15.99",
+ "What": [
+  "Metal",
+  "Costume",
+  "Metalwork",
+  "Gold",
+  "Buckles",
+  "Belts"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170009016,
+ "gallery-id": 301,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/DP30212.jpg",
+ "related-artworks": [
+  170004952,
+  170009015,
+  170006201,
+  170004827,
+  170004920
+ ],
+ "Description": "This group of objects was found in the grave of a Langobardic horseman, who was buried in his warrior dress, with weapons, shield, helmet, and the fittings for his horse. What remains are the many gold pieces that would have ornamented his clothing and equipment, and they attest to the great wealth of the Langobardic aristocracy within a generation of settling in Italy.",
+ "Provenance": [
+  "Samuel T. Baxter, Florence (from at least 1876-1895)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170009016"
+  }
+ }
+}

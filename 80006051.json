@@ -1,0 +1,44 @@
+{
+ "Date": "1930–43",
+ "Culture": "French",
+ "Medium": "leather, plastic",
+ "Dimensions": "Length 29 in. (73.7 cm)",
+ "Credit Line": "Gift of Esmé O'Brien Hammond, 1977",
+ "Accession Number": "1977.201.31",
+ "Who": "Elsa Schiaparelli",
+ "What": [
+  "Costume",
+  "Leather",
+  "Plastic",
+  "Belts"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Twentieth–Century Silhouette and Support",
+  "Elsa Schiaparelli (1890–1973)",
+  "Dressing for the Cocktail Hour",
+  "Costume in The Metropolitan Museum of Art",
+  "Le Colis de Trianon–Versailles and Paris Openings",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80006051,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.201.31.jpg",
+ "related-artworks": [
+  80006047,
+  80107279,
+  80006048,
+  80006050,
+  80096327
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80006051"
+  }
+ }
+}

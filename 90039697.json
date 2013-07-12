@@ -1,0 +1,36 @@
+{
+ "Date": "17th century",
+ "Medium": "Etching; second state",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Dr. Franz H. Hirschland",
+ "Accession Number": "47.96.8",
+ "Who": "Jan Lievens",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90039697,
+ "related-artworks": [
+  90027857,
+  90027984,
+  90039710,
+  90039711,
+  90039700
+ ],
+ "Provenance": [
+  "Donor: Dr. Franz H. Hirschland"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90039697"
+  }
+ }
+}

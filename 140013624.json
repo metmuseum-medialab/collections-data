@@ -1,0 +1,50 @@
+{
+ "Object Name": "Pendant",
+ "Date": "late 19th–early 20th century",
+ "Geography": "Central Asia or Northern Afghanistan",
+ "Medium": "Silver with applied decoration, decorative wire, synthetic resin inlays, blue and red glass beads, and table-cut and cabochon cornelians.",
+ "Dimensions": "12 x 7 in. (30.5 x 17.8 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Marshall and Marilyn R. Wolf, 2006",
+ "Accession Number": "2006.544.2",
+ "What": [
+  "Metal",
+  "Glass",
+  "Silver",
+  "Furniture",
+  "Pendants",
+  "Beads",
+  "Tables",
+  "Resin",
+  "Wire",
+  "Cabochons",
+  "Synthetic"
+ ],
+ "Where": [
+  "Asia",
+  "Afghanistan"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140013624,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP145174.jpg",
+ "related-artworks": [
+  140013723,
+  140013722,
+  140013682,
+  140013661,
+  140013538
+ ],
+ "Provenance": [
+  "Marshall and Marilyn R. Wolf, New York (until 2006)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140013624"
+  }
+ }
+}

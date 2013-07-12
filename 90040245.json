@@ -1,0 +1,39 @@
+{
+ "Date": "by 1575",
+ "Medium": "Engraving",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.3486",
+ "Who": "Giorgio Ghisi",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Poets in Italian Mythological Prints",
+  "Lovers in Italian Mythological Prints"
+ ],
+ "id": 90040245,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821366.jpg",
+ "related-artworks": [
+  90028464,
+  90032370,
+  90032418,
+  90039870,
+  90039877
+ ],
+ "Provenance": [
+  "Princes of Liechtenstein, Vaduz and Vienna"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90040245"
+  }
+ }
+}

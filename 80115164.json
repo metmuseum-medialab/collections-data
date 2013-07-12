@@ -1,0 +1,33 @@
+{
+ "Date": "1945–48",
+ "Culture": "American",
+ "Medium": "Cotton",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Anonymous gift, 1955",
+ "Accession Number": "2009.300.6886a, b",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Hosiery",
+  "Socks"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80115164,
+ "related-artworks": [
+  80115165,
+  80048303,
+  80048301,
+  80056157,
+  80056156
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80115164"
+  }
+ }
+}

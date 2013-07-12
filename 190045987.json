@@ -1,0 +1,38 @@
+{
+ "Date": "2004, printed 2009",
+ "Medium": "Inkjet print",
+ "Dimensions": [
+  "Image 40.6 x 61 cm (16 x 24 in.)",
+  "Sheet 50.8 x 71.1 cm (20 x 28 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Anonymous Gift, 2009",
+ "Accession Number": "2009.462.1",
+ "Rights and Reproduction": "© Adam Raphael Photography, LLC",
+ "Who": "Adam Raphael",
+ "What": [
+  "Prints",
+  "Photographs",
+  "Inkjet prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190045987,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP266447.jpg",
+ "related-artworks": [
+  190045989,
+  190045988,
+  190042997
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190045987"
+  }
+ }
+}

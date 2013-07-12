@@ -1,0 +1,33 @@
+{
+ "Date": "1850–99",
+ "Culture": "American or European",
+ "Medium": "cotton",
+ "Dimensions": "Length 11 in. (27.9 cm)",
+ "Credit Line": "Gift of Mrs. Henry C. Taylor, 1979",
+ "Accession Number": "1979.165.13a, b",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Mittens"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80052741,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1979.165.13ab.jpg",
+ "related-artworks": [
+  80094366,
+  80052742,
+  80052743,
+  80052738,
+  80054481
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052741"
+  }
+ }
+}

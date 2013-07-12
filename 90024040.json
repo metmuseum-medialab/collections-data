@@ -1,0 +1,56 @@
+{
+ "Publisher": "Published by Librairie de la Collection des Dix",
+ "Illustrator": "Illustrated by Auguste-Louis Lepère (French, Paris 1849–1918 Domme)",
+ "Date": "1900",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1923",
+ "Accession Number": "23.96",
+ "Who": [
+  "Auguste-Louis Lepère",
+  "Jean Richepin",
+  "Librairie de la Collection des Dix"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90024040,
+ "related-artworks": [
+  "http://scrapi.org/object/90026997",
+  "http://scrapi.org/object/90014954",
+  "http://scrapi.org/object/90019645",
+  "http://scrapi.org/object/90024551",
+  "http://scrapi.org/object/90027117"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90026997"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90014954"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90019645"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90024551"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90027117"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90024040"
+  }
+ }
+}

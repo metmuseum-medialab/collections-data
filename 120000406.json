@@ -1,0 +1,41 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "Italian, Venice (Murano)",
+ "Medium": "Glass",
+ "Dimensions": "4 3/4 x 5 1/4 in.  (12.1 x 13.3 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of James Jackson Jarves, 1881",
+ "Accession Number": "81.8.275",
+ "What": [
+  "Glass",
+  "Painting",
+  "Panels"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000406,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/9988.jpg",
+ "related-artworks": [
+  120000405,
+  120001365,
+  120001362,
+  120001352,
+  120000410
+ ],
+ "Provenance": [
+  "James Jackson Jarves (until 1881)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000406"
+  }
+ }
+}

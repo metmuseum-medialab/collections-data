@@ -1,0 +1,41 @@
+{
+ "Period": "First Intermediate Period",
+ "Dynasty": "Dynasty 9–10",
+ "Date": "ca. 2100–2030 B.C.",
+ "Geography": "Country of Origin Egypt, Fayum Entrance Area, Sidmant el-Gebel (Sedment)",
+ "Medium": "Terracotta, hematite wash",
+ "Dimensions": "Diam. 16 cm",
+ "Credit Line": "Gift of British School of Archaeology, 1921",
+ "Accession Number": "21.10.25",
+ "What": [
+  "Clay",
+  "Terracotta",
+  "Dishes",
+  "Hematite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100009434,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/MMA21.10.25.jpg",
+ "related-artworks": [
+  100001167,
+  100005285,
+  100013570,
+  100014438,
+  100014439
+ ],
+ "Provenance": [
+  "Excavated by the British School of Archaeology at Sedment. Received by the School from the Egyptian government in the division of finds. Allotted by the School to the Museum for its support."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100009434"
+  }
+ }
+}

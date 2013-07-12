@@ -1,0 +1,38 @@
+{
+ "Geography": "Turkey or Azerbaijan",
+ "Medium": "wood, shells, ivory",
+ "Dimensions": "W. 21 x D. 23 x L. 117cm (8 1/4 x 9 1/16 x 46 1/16in.); Soundbox L. 36 cm (14 3/16in); Fingerboard W. 6 cm (2 3/8in)",
+ "Classification": "Chordophone-Lute",
+ "Credit Line": "Gift of Miss Alice Getty, 1946",
+ "Accession Number": "46.34.69",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Musical instruments",
+  "Chordophones",
+  "Shell",
+  "Lutes"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Musical Instruments",
+ "MetPublications": "Search for related Met publications",
+ "id": 180017181,
+ "gallery-id": 681,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/140693.jpg",
+ "related-artworks": [
+  180012712,
+  180015797,
+  180017693,
+  180012708,
+  180012702
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180017181"
+  }
+ }
+}

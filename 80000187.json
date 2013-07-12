@@ -1,0 +1,39 @@
+{
+ "Date": "18th century–19th century",
+ "Culture": "German",
+ "Medium": "silk, gold thread",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Ridgley Hunt in memory of William Cruger Pell, 1906",
+ "Accession Number": "06.985",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Gold",
+  "Caps"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe (including Germany), 1600–1800 A.D.",
+  "Central Europe and Low Countries, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80000187,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/06.985_S.jpg",
+ "related-artworks": [
+  80000188,
+  80000191,
+  80000221,
+  80000223,
+  80000189
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80000187"
+  }
+ }
+}

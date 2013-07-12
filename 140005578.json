@@ -1,0 +1,64 @@
+{
+ "Date": "10th century",
+ "Geography": "Egypt",
+ "Medium": "Linen, silk; plain weave, embroidered",
+ "Dimensions": [
+  "H. 8 in. (20.3 cm)",
+  "W. 10 3/4 in. (27.3 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of George D. Pratt, 1929",
+ "Accession Number": "29.179.36",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Plain weave"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005578,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/77281.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/140005577",
+  "http://scrapi.org/object/140000764",
+  "http://scrapi.org/object/140000769",
+  "http://scrapi.org/object/140000762",
+  "http://scrapi.org/object/140000772"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "George D. Pratt, New York (until 1929)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140005577"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140000764"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140000769"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140000762"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140000772"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140005578"
+  }
+ }
+}

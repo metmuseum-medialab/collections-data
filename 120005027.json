@@ -1,0 +1,56 @@
+{
+ "Factory director": "Marcolini Period (1774–1814)",
+ "Date": "1774–1814",
+ "Culture": "German (Meissen)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "Cup (.10a) H. 2 1/2 in. (6.3 cm.); Saucer (.10b): Diam. 2 3/4 in. (7.0 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Margarette A. Jones, 1906",
+ "Accession Number": "07.233.10a, b",
+ "Who": [
+  "Meissen Manufactory",
+  "Marcolini Period"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Drinking vessels",
+  "Cups",
+  "Plates",
+  "Hard paste porcelain",
+  "Saucers"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Saxony",
+  "Meissen"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe (including Germany), 1600–1800 A.D.",
+  "Central Europe and Low Countries, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120005027,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/2802(det.jpg",
+ "related-artworks": [
+  120006187,
+  120006945,
+  120014218,
+  120014249,
+  120014253
+ ],
+ "Provenance": [
+  "Margarette A. Jones (until 1906",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120005027"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Period": "First Intermediate Period",
+ "Dynasty": "Dynasty 9",
+ "Date": "ca. 2100–2030 B.C.",
+ "Geography": "Country of Origin Egypt, Northern Upper Egypt, Dendera (Dandara; Tentyra), Tomb of Mereri, Behind Temple of Hathor",
+ "Medium": "Limestone",
+ "Credit Line": "Gift of Egypt Exploration Fund, 1898",
+ "Accession Number": "98.4.3c",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Reliefs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "id": 100036379,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/98.4.3c-jk.jpg",
+ "related-artworks": [
+  100000027,
+  100000075,
+  100000074,
+  100000179,
+  100000177
+ ],
+ "Provenance": [
+  "Excavated by the Egypt Exploration fund at Dendera. Received by the E.E.F. from the Egyptian government in the division of finds. Allotted to the Metropolitan Museum, 1898."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100036379"
+  }
+ }
+}

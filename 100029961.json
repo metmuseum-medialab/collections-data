@@ -1,0 +1,36 @@
+{
+ "Period": "Predynastic–Old Kingdom",
+ "Date": "ca. 3850–2100 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, MMA",
+ "Medium": "Flint",
+ "Dimensions": "l. 4 cm (1 9/16 in); w. 2.2 cm (7/8 in)",
+ "Credit Line": "Rogers Fund, 1948",
+ "Accession Number": "48.105.45b",
+ "What": "Flint",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "id": 100029961,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs48.105.45b.jpg",
+ "related-artworks": [
+  100027789,
+  100027804,
+  100029806,
+  100029857,
+  100029835
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100029961"
+  }
+ }
+}

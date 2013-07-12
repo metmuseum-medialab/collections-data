@@ -1,0 +1,51 @@
+{
+ "Date": "ca. 1420–25",
+ "Culture": "South Netherlandish or German",
+ "Medium": "Alabaster",
+ "Dimensions": "H. 9 7/16 in. (24 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Cloisters Collection, 1995",
+ "Accession Number": "1995.412",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Statues",
+  "Figurines",
+  "Gypsum",
+  "Alabaster"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": [
+  "Late Medieval German Sculpture Materials and Techniques",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 70006200,
+ "gallery-id": 16,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/DT3935.jpg",
+ "related-artworks": [
+  70008459,
+  70012504,
+  70012903,
+  70012436,
+  70006209
+ ],
+ "Description": "This figure of John the Baptist is a particularly accomplished example of alabaster carving in the first half of the fifteenth century.  The saint's attribute-a book or a lamb, or both-once held in his right hand, is now missing. The original context of the figure is uncertain, but the rather flattened appearance of its proper left side suggests that it was placed against an element in a larger ensemble; two apostles of comparable size and quality are at the Skulpturensammlung in Berlin and the Memlingmuseum in Bruges.  The style of carving relates to that of the kneeling angel in this case (65.215.3), suggesting that the mode of work influenced or best exemplified by the Master of Rimini was widespread at the time.",
+ "Provenance": [
+  "Ozenfant Collection , France (from 1864)",
+  "Chanoine Paul Bernard , Lille (?) (by descent–1962)",
+  "Dr. Albert Habart , Calais (until 1971)",
+  "Private Collection , USA (by 1973)",
+  "[ Julius Böhler Kunsthandlung , Munich (sold 1995)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70006200"
+  }
+ }
+}

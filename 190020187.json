@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1850",
+ "Medium": "Daguerreotype",
+ "Dimensions": "21.6 x 16.5 cm (8 1/2 x 6 1/2 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of I. N. Phelps Stokes, Edward S. Hawes, Alice Mary Hawes, and Marion Augusta Hawes, 1937",
+ "Accession Number": "37.14.8",
+ "Who": "Albert Sands Southworth",
+ "What": [
+  "Photographs",
+  "Daguerreotypes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Daguerreian Era and Early American Photography on Paper, 1839–1860",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190020187,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/PH241.jpg",
+ "related-artworks": [
+  190020138,
+  190020137,
+  190020150,
+  190020151,
+  190020134
+ ],
+ "Description": "The Boston partnership of Southworth and Hawes produced the finest portrait daguerreotypes in America for a clientele that included leading political, intellectual, and artistic figures. This full-plate daguerreotype shows the students of the most prominent school for young women in Boston, established in 1823 by George Barrell Emerson, second cousin of the poet and philosopher Ralph Waldo Emerson. Although there are over thirty figures in this portrait, the subtle variations in posture, gesture, and facial expression-especially among the seated students in the center-create the impression of a group made up of vivid and distinct individuals.",
+ "Provenance": [
+  "Edward S. Hawes, Alice Mary Hawes, and Marion Augusta Hawes, or Edward S. Hawes, Alice Mary Hawes, and Marion Augusta Hawes",
+  "[Holman's Print Shop, Boston]",
+  "I.N. Phelps Stokes, New York, 1937"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190020187"
+  }
+ }
+}

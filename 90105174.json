@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Mount 7 1/16 × 6 7/16 in. (17.9 × 16.4 cm)",
+  "Sheet 2 13/16 × 2 5/16 in. (7.1 × 5.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The J. B. Neumann Collection, Gift of Dr. Franz H. Hirschland, 1950",
+ "Accession Number": "50.575.37",
+ "Who": "Rodolphe Bresdin",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90105174,
+ "related-artworks": [
+  90036042,
+  90074095,
+  90074097,
+  90105183,
+  90105179
+ ],
+ "Provenance": [
+  "J. B. Neumann (New York, NY)",
+  "Donor: Dr. Franz H. Hirschland"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90105174"
+  }
+ }
+}

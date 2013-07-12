@@ -1,0 +1,33 @@
+{
+ "Date": "16th century",
+ "Culture": "Turkish",
+ "Classification": "Mail",
+ "Credit Line": "Gift of Mrs. Bashford Dean, in memory of Alexander McMillan Welch, 1949",
+ "Accession Number": "49.120.4",
+ "What": [
+  "Metal",
+  "Costume",
+  "Shirts",
+  "Mail"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40006014,
+ "related-artworks": [
+  40010548,
+  40012194,
+  40010534,
+  40010552,
+  40010402
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40006014"
+  }
+ }
+}

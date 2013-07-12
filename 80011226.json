@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1740",
+ "Culture": "British",
+ "Medium": "silk",
+ "Dimensions": "Length 47 in. (119.4 cm)",
+ "Credit Line": "Purchase, The German Fur Federation Gift, 1981",
+ "Accession Number": "1981.352.4",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Gowns",
+  "Leather dressing",
+  "Dressing gowns"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80011226,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1981.352.4_F2.jpg",
+ "related-artworks": [
+  80014977,
+  80031485,
+  80096967,
+  80116519,
+  80014230
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80011226"
+  }
+ }
+}

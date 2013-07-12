@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1780–1784",
+ "Medium": "Pen and brush and brown ink; framing line in pen and brown ink, by the artist",
+ "Dimensions": "sheet 5 3/4 x 8 1/16 in. (14.6 x 20.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Charles and Jessie Price Gift, 2011",
+ "Accession Number": "2011.260",
+ "Who": "Erik Pauelsen",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Denmark"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90071565,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP830540.jpg",
+ "related-artworks": [
+  90070497,
+  90056299,
+  90063865,
+  90071439
+ ],
+ "Provenance": [
+  "Bruun Rasmussen, CopenhagenNovember 29, 2010, part of lot 815/187",
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90071565"
+  }
+ }
+}

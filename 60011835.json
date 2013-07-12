@@ -1,0 +1,39 @@
+{
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Jade",
+ "Dimensions": "H. 4 1/2 in. (11.4 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Bequest of Mary Stillman Harkness, 1950",
+ "Accession Number": "50.145.89",
+ "What": [
+  "Vessels",
+  "Vases",
+  "Jade"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60011835,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/148396.jpg",
+ "related-artworks": [
+  60010811,
+  60010911,
+  60011530,
+  60033355,
+  60009314
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60011835"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "1912",
+ "Medium": "Etching",
+ "Dimensions": "sheet 6 1/2 x 8 7/8 in. (16.5 x 22.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.70.97",
+ "Who": "Giorgio Morandi",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90057313,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP164583.jpg",
+ "related-artworks": [
+  90049639,
+  90047381,
+  90057215,
+  90057314,
+  90057401
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90057313"
+  }
+ }
+}

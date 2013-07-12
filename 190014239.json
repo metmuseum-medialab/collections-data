@@ -1,0 +1,52 @@
+{
+ "Date": "1970s",
+ "Medium": "Chromogenic print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Ken Lieberman, 1978",
+ "Accession Number": "1978.686.4",
+ "Who": "Dennis Stock",
+ "What": [
+  "Photographs",
+  "Chromogenic prints",
+  "Contact prints",
+  "Contact sheets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190014239,
+ "related-artworks": [
+  "http://scrapi.org/object/190014236",
+  "http://scrapi.org/object/190014238",
+  "http://scrapi.org/object/190014240",
+  "http://scrapi.org/object/190014237"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Ken Lieberman"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190014236"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190014238"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190014240"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190014237"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190014239"
+  }
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "Date": "1601",
+ "Culture": "Norwegian",
+ "Medium": "Silver gilt originally",
+ "Dimensions": "6 1/8 x 2 1/4 in.  (15.6 x 5.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.41.4",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "Europe",
+  "Norway"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120006699,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/15552.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120002627",
+  "http://scrapi.org/object/120006722",
+  "http://scrapi.org/object/120006723",
+  "http://scrapi.org/object/120006753",
+  "http://scrapi.org/object/120006899"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120002627"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120006722"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120006723"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120006753"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120006899"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120006699"
+  }
+ }
+}

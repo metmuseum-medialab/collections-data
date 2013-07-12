@@ -1,0 +1,44 @@
+{
+ "Artist": "In the Style of Yoden (Chinese, active early Yuan period (1279–1368))",
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Hanging scroll; ink on silk",
+ "Dimensions": "37 1/2 x 17 1/4 in. (95.3 x 43.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "The Howard Mansfield Collection, Purchase, Rogers Fund, 1936",
+ "Accession Number": "36.100.63",
+ "Who": [
+  "Kano Osanobu",
+  "Yoden"
+ ],
+ "What": [
+  "Silk",
+  "Ink",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60019741,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/36_100_63_108883.jpg",
+ "related-artworks": [
+  60013581,
+  60006755,
+  60013583,
+  60013584
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60019741"
+  }
+ }
+}

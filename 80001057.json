@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1910",
+ "Culture": "American (probably)",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 49 in. (124.5 cm)",
+ "Credit Line": "Gift of Mr. and Mrs. O. D. Filley, 1995",
+ "Accession Number": "1995.341.17",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80001057,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1995.341.17_F.jpg",
+ "related-artworks": [
+  80000083,
+  80000160,
+  80000229,
+  80000199,
+  80000356
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001057"
+  }
+ }
+}

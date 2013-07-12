@@ -1,0 +1,44 @@
+{
+ "Date": "18th–19th century",
+ "Medium": "Pen and ink over graphite on yellow tracing paper",
+ "Dimensions": "sheet 10 1/8 x 8 3/4 in. (25.7 x 22.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1923",
+ "Accession Number": "23.68.1",
+ "Who": "John Flaxman",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Neoclassicism",
+  "The Neoclassical Temple",
+  "Great Britain and Ireland, 1600–1800 A.D.",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90065540,
+ "related-artworks": [
+  90065479,
+  90065478,
+  90065547,
+  90065548,
+  90065552
+ ],
+ "Provenance": [
+  "John Bridge (British, Piddletrenthide, Dorset 1755–1834 Piddletrenthide, Dorset)",
+  "Vendor: Maggs Brothers Limited"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90065540"
+  }
+ }
+}

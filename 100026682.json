@@ -1,0 +1,42 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 20",
+ "Reign": "reign of Ramesses IV",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, MMA 1935–1936",
+ "Medium": "Faience",
+ "Credit Line": "Rogers Fund, 1935",
+ "Accession Number": "35.3.195",
+ "What": [
+  "Faience",
+  "Plaques",
+  "Cartouches"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100026682,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsbluedish4.jpg",
+ "related-artworks": [
+  100006304,
+  100007372,
+  100026655,
+  100026662,
+  100026686
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1934–1935. Acquired by the Museum in the division of finds, 1935."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100026682"
+  }
+ }
+}

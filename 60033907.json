@@ -1,0 +1,38 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Clay covered with black glaze (Kyoto ware)",
+ "Dimensions": "Diam. 7 1/2 in. (19.1 cm); H. 5 1/2 in. (14 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.310",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Glaze",
+  "Kyoto"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60033907,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/91_1_310_o.jpg",
+ "related-artworks": [
+  60016186,
+  60027311,
+  60027316,
+  60034120,
+  60012068
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033907"
+  }
+ }
+}

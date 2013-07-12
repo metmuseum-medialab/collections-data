@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 600",
+ "Geography": "Egypt, Thebes",
+ "Medium": "Fine red ware",
+ "Dimensions": "2 15/16 in. (7.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1914",
+ "Accession Number": "14.1.379",
+ "What": [
+  "Ceramics",
+  "Lighting devices",
+  "Lamps"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140003840,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf14-1-379.jpg",
+ "related-artworks": [
+  140003839,
+  140003841,
+  140003847,
+  140003849,
+  140003850
+ ],
+ "Provenance": [
+  "Egyption Expedition of the MMA, 1913–14.  Acquired by the Museum in the division of finds and accessioned, 1914"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003840"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1915",
+ "Culture": "Dutch",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "H. 16-1/2, W. 23-1/2 inches",
+  "(41.9 x 59.7 cm.)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Jane D. Kaufmann, 1997",
+ "Accession Number": "1997.208.7",
+ "Who": "Designer Unknown",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Woven",
+  "Samples"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210007089,
+ "related-artworks": [
+  210007085,
+  210007079,
+  210007080,
+  210007081,
+  210007083
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210007089"
+  }
+ }
+}

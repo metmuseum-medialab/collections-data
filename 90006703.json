@@ -1,0 +1,36 @@
+{
+ "Date": "19th century",
+ "Medium": "Red, white, and black chalk, on blue-gray paper",
+ "Dimensions": "18 13/16 x 12 1/8 in. (47.8 x 30.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Karen B. Cohen Gift, 1989",
+ "Accession Number": "1989.122.20",
+ "Who": "Isidore Pils",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90006703,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP812051.jpg",
+ "related-artworks": [
+  90006702,
+  90006705,
+  90006708,
+  90006709,
+  90006684
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90006703"
+  }
+ }
+}

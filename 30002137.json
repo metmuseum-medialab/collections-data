@@ -1,0 +1,44 @@
+{
+ "Period": "early Islamic",
+ "Date": "ca. A.D. 688–9",
+ "Geography": "Iran, Qasr-i Abu Nasr",
+ "Culture": "Islamic",
+ "Medium": "Silver",
+ "Dimensions": "1 5/16 in. (3.3 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1936",
+ "Accession Number": "36.30.304",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Money",
+  "Coins"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30002137,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME36_30_304.jpg",
+ "related-artworks": [
+  30002135,
+  30002138,
+  30002139,
+  30002140,
+  30002156
+ ],
+ "Provenance": [
+  "1935, excavated by J.M. Upton, W. Hauser and C.K. Wilkinson on behalf of The Persian Expedition of the Metropolitan Museum of Art",
+  "acquired by the Museum in 1936, ceded in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30002137"
+  }
+ }
+}

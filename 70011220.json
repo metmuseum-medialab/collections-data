@@ -1,0 +1,44 @@
+{
+ "Date": "16th century",
+ "Culture": "Spanish (?)",
+ "Medium": "Brass",
+ "Dimensions": [
+  "Overall (w/ chain) 25 1/2 in. (64.8 cm)",
+  "Overall 8 3/8 x 4 3/8 in. (21.2 x 11.1 cm)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "The Cloisters Collection, 1925",
+ "Accession Number": "25.120.550",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Brass",
+  "Censers"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011220,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi25-120-550.jpg",
+ "related-artworks": [
+  70006532,
+  70011221,
+  70011224,
+  70011217,
+  70011218
+ ],
+ "Provenance": [
+  "George Grey Barnard American, Bellefonte, Pennsylvania 1863–1938 New York , New York (until 1925)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011220"
+  }
+ }
+}

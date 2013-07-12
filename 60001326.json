@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1840",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "Overall 8 3/4 x 13 3/4in. (22.2 x 34.9cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Francis Lathrop Collection, Purchase, Frederick C. Hewitt Fund, 1911",
+ "Accession Number": "JP780",
+ "Who": "Utagawa Hiroshige",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60001326,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP122910.jpg",
+ "related-artworks": [
+  60000671,
+  60000683,
+  60000813,
+  60000820,
+  60000846
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60001326"
+  }
+ }
+}

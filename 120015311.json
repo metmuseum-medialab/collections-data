@@ -1,0 +1,42 @@
+{
+ "Date": "1819–38",
+ "Culture": "French (Mâcon) (Dijon Mint)",
+ "Medium": "Silver",
+ "Dimensions": "H. 1-1/8 in. (2.9 cm.); Diam. 3 in. (7.6 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+ "Accession Number": "48.187.154",
+ "Who": ".. Gravillon",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Drinking vessels",
+  "Cups",
+  "Wine tasters"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Burgundy",
+  "Mâcon"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120015311,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/145696.jpg",
+ "related-artworks": [
+  120013068,
+  120015445,
+  120015309,
+  120015305,
+  120011897
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120015311"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Period": "late Ming (1368–1644) or early Qing (1644–1911) dynasty",
+ "Date": "17th century",
+ "Culture": "China",
+ "Medium": "Purple sandalwood (zitan)",
+ "Dimensions": "H. 40 1/8 In. (101.9 cm); W. 22 3/8 in. (56.8 cm); D. 18 1/8 in. (45.7 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Purchase, The Vincent Astor Foundation Gift, 1976",
+ "Accession Number": "1976.193.2a, b",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Softwood",
+  "Armchairs",
+  "Sandalwood"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60025423,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1976_193_2.JPG",
+ "related-artworks": [
+  60010301,
+  60025424,
+  60025425,
+  60021872,
+  60006493
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60025423"
+  }
+ }
+}

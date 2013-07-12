@@ -1,0 +1,48 @@
+{
+ "Date": "17th century",
+ "Medium": "Pen and brown ink, brush and brown wash, over traces of red chalk (recto); pen and brown ink",
+ "Dimensions": "sheet 6 5/8 x 1 7/8 in. (16.8 x 4.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1952",
+ "Accession Number": "52.570.175",
+ "Who": "Anonymous, Italian, 17th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90063856,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802657.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP802657.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/DP802658.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90005802"
+   },
+   {
+    "href": "http://scrapi.org/object/90007076"
+   },
+   {
+    "href": "http://scrapi.org/object/90007122"
+   },
+   {
+    "href": "http://scrapi.org/object/90009498"
+   },
+   {
+    "href": "http://scrapi.org/object/90013680"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90063856"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90063856"
+  }
+ }
+}

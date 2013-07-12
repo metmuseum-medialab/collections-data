@@ -1,0 +1,46 @@
+{
+ "Date": "20th century",
+ "Culture": "Armenian",
+ "Medium": "Cotton, needle lace",
+ "Dimensions": [
+  "Diam. 2 5/8 inches",
+  "6.7 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Ruth Hellmann ?",
+ "Accession Number": "1984.200.32",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace",
+  "Roundels"
+ ],
+ "Where": [
+  "Asia",
+  "Armenia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Anatolia and the Caucasus, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 120047530,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP4733.jpg",
+ "related-artworks": [
+  120047531,
+  120047536,
+  120047537,
+  120047539,
+  120047535
+ ],
+ "Provenance": [
+  "possibly Ruth Hellmann"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120047530"
+  }
+ }
+}

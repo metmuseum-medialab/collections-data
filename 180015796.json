@@ -1,0 +1,35 @@
+{
+ "Geography": "Liberia",
+ "Medium": "Wood, cord",
+ "Dimensions": "Overall H. 35.6 x W. 21.6cm (14 x 8 1/2in.)",
+ "Classification": "Idiophone-Struck",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2135",
+ "What": [
+  "Musical instruments",
+  "Idiophones",
+  "Bells",
+  "Cord",
+  "Clappers"
+ ],
+ "Where": [
+  "Africa",
+  "Liberia"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Musical Instruments",
+ "id": 180015796,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/202449.jpg",
+ "related-artworks": [
+  180015827,
+  180015835,
+  180015853,
+  180014203,
+  180015794
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180015796"
+  }
+ }
+}

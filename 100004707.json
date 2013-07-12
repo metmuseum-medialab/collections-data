@@ -1,0 +1,40 @@
+{
+ "Period": "Late Middle Kingdom–Early New Kingdom",
+ "Dynasty": "Dynasty 13–18, early",
+ "Date": "ca. 1802–1450 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Cemetery south of pyramid, House A1, so-called \"faience factory\", MMA 1920–1922",
+ "Medium": "Low-fired whitish clay",
+ "Credit Line": "Rogers Fund and Edward S. Harkness Gift, 1922",
+ "Accession Number": "22.1.1932",
+ "What": [
+  "Clay",
+  "Fragments"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100004707,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs22.1.1232.jpg",
+ "related-artworks": [
+  100004703,
+  100004706,
+  100004708,
+  100004702,
+  100004712
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100004707"
+  }
+ }
+}

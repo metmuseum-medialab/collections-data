@@ -1,0 +1,41 @@
+{
+ "Date": "mid-18th century",
+ "Culture": "German",
+ "Medium": "Bronze-gilt",
+ "Dimensions": "H. 5 1/4 in.  (13.3 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Henry G. Marquand, 1887",
+ "Accession Number": "87.11.639",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Gilt",
+  "Plate",
+  "Ormolu",
+  "Keys"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001316,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF87_11_639_img1.jpg",
+ "related-artworks": [
+  120001315,
+  120001313,
+  120001314,
+  120004322,
+  120005625
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001316"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Manufacturer": "Simmons Furniture Company, Chicago, Illinois",
+ "Date": "ca. 1932",
+ "Medium": "Enameled and chrome-plated steel",
+ "Dimensions": [
+  "H. 29-5/8, W. 44, D. 19 inches",
+  "(75.2 x 111.8 x 48.3 cm.)"
+ ],
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Paul F. Walter, 1984",
+ "Accession Number": "1984.263",
+ "Who": [
+  "Norman Bel Geddes",
+  "Simmons Furniture Company, Chicago, Illinois"
+ ],
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Furniture",
+  "Iron alloy",
+  "Steel",
+  "Tables",
+  "Leather dressing",
+  "Plated metal",
+  "Chromium",
+  "Dressing tables"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1925–50",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210003318,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP32,035.jpg",
+ "related-artworks": [
+  210004909,
+  210004131,
+  210007350,
+  210011318,
+  210011410
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003318"
+  }
+ }
+}

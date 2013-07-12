@@ -1,0 +1,36 @@
+{
+ "Date": "17th century",
+ "Medium": "Mezzotint; third state of four",
+ "Dimensions": "11 3/16 x 14 7/16 in. (28.4 x 36.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1962",
+ "Accession Number": "62.600.215",
+ "Who": "Wallerant Vaillant",
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Mezzotints"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90063601,
+ "related-artworks": [
+  90056539,
+  90056540,
+  90062475,
+  90062607,
+  90063358
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90063601"
+  }
+ }
+}

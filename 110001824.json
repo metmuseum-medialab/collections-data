@@ -1,0 +1,38 @@
+{
+ "Date": "1635",
+ "Medium": "Oil on wood",
+ "Dimensions": "26 7/8 x 22 7/8 in. (68.3 x 58.1 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Henry Goldman, 1912",
+ "Accession Number": "12.202",
+ "Who": "Jan van Ravesteyn",
+ "What": [
+  "Paintings",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110001824,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP143159.jpg",
+ "related-artworks": [
+  110001084,
+  110002001,
+  110002331,
+  110002373,
+  110003036
+ ],
+ "Provenance": [
+  "Henry Goldman, New York (until 1912)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001824"
+  }
+ }
+}

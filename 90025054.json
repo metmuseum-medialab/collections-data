@@ -1,0 +1,37 @@
+{
+ "Date": "1860–90",
+ "Medium": "Wood engraving",
+ "Dimensions": "6 1/8 x 8 5/16 in. (15.5 x 21.1 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.597.3",
+ "Who": "Shaw, Applin & Co.",
+ "What": [
+  "Prints",
+  "Engraving",
+  "Books",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90025054,
+ "related-artworks": [
+  90012161,
+  90012297,
+  90012903,
+  90013549,
+  90014192
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90025054"
+  }
+ }
+}

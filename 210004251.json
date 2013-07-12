@@ -1,0 +1,31 @@
+{
+ "Date": "1920s–30s",
+ "Medium": "Silk taffeta",
+ "Dimensions": "48 1/4 x 51 3/8 in. (122.6 x 130.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Jack Lenor Larsen Incorporated, 1985",
+ "Accession Number": "1985.198.153",
+ "Who": "Designer Unknown",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Taffeta"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 210004251,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP8481.jpg",
+ "related-artworks": [
+  210000798,
+  210000042,
+  210000043,
+  210000044,
+  210000039
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210004251"
+  }
+ }
+}

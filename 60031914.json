@@ -1,0 +1,35 @@
+{
+ "Period": "Tang dynasty (618–907)",
+ "Culture": "China",
+ "Medium": "Glass",
+ "Dimensions": "H. 3/4 in. (1.9 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1924",
+ "Accession Number": "24.100.14",
+ "What": "Glass",
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60031914,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/24_100_14_57009.jpg",
+ "related-artworks": [
+  60031913,
+  60049485,
+  60032105,
+  60032192,
+  60032643
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60031914"
+  }
+ }
+}

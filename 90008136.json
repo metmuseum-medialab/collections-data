@@ -1,0 +1,39 @@
+{
+ "Medium": "Etching",
+ "Dimensions": [
+  "sheet  23.6 x 15.9 cm.",
+  "plate 22.5 x 13.7 cm."
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry G. Friedman, 1960",
+ "Accession Number": "60.708.189",
+ "Who": "Johann Georg Bergmüller",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "id": 90008136,
+ "related-artworks": [
+  90075483,
+  90075485,
+  90100367,
+  90075347,
+  90075486
+ ],
+ "Provenance": [
+  "Harry G. Friedman",
+  "Donor: Harry G. Friedman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90008136"
+  }
+ }
+}

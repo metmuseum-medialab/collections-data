@@ -1,0 +1,39 @@
+{
+ "Date": "1978",
+ "Culture": "American",
+ "Medium": "Leather, metal",
+ "Dimensions": [
+  "1 7/8 x 3 1/2 in. (4.8 x 8.9 cm)",
+  "Overall L. 55 1/2 in. (141 cm)"
+ ],
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Tess Sholom, 1988",
+ "Accession Number": "2009.300.6014",
+ "Who": "Tess Sholom",
+ "What": [
+  "Metal",
+  "Costume",
+  "Leather",
+  "Belts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80108421,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/88.101.6_CP2.jpg",
+ "related-artworks": [
+  80024231,
+  80024230,
+  80056160,
+  80056163,
+  80056161
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108421"
+  }
+ }
+}

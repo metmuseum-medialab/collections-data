@@ -1,0 +1,36 @@
+{
+ "Date": "first half 19th century",
+ "Culture": "French",
+ "Medium": "Cotton",
+ "Dimensions": "L. 28 1/2 x W. 18 1/2 inches (72.4 x 47.0 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Source unknown",
+ "Accession Number": "X.294",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120048526,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP2493.jpg",
+ "related-artworks": [
+  120025003,
+  120033950,
+  120037127,
+  120037142,
+  120037130
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120048526"
+  }
+ }
+}

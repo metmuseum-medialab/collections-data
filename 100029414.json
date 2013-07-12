@@ -1,0 +1,36 @@
+{
+ "Period": "Early Dynastic Period",
+ "Date": "ca. 2960–2649 B.C.",
+ "Geography": "Country of Origin Egypt, Fayum, Dimê, Petrie excavations 1926",
+ "Medium": "Flint",
+ "Credit Line": "Gift of The British School of Archaeology, 1926",
+ "Accession Number": "26.253.75",
+ "What": "Flint",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Fayum"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100029414,
+ "related-artworks": [
+  100029748,
+  100009366,
+  100009538,
+  100029411,
+  100029741
+ ],
+ "Provenance": [
+  "Petrie excavations",
+  "acquired by Petrie in the division of finds, 1926. Acquired by the Museum through subscription, 1926."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100029414"
+  }
+ }
+}

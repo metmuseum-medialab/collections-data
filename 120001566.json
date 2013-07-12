@@ -1,0 +1,42 @@
+{
+ "Date": "probably 17th century",
+ "Culture": "Italian, Venice (Murano) or French",
+ "Medium": "Glass",
+ "Dimensions": "H. 3 1/4 in.  (8.3 cm); Diam. 3 1/2 in. (8.9 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1461",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Drinking glasses",
+  "Tumblers"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001566,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/16668.jpg",
+ "related-artworks": [
+  120000231,
+  120000221,
+  120000280,
+  120000471,
+  120000507
+ ],
+ "Provenance": [
+  "Edward C. Moore"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001566"
+  }
+ }
+}

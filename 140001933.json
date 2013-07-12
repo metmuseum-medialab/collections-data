@@ -1,0 +1,44 @@
+{
+ "Date": "probably 18th century",
+ "Geography": "Iran",
+ "Medium": "Applied glass",
+ "Dimensions": [
+  "H. 7 7/16 in. (18.9 cm)",
+  "Max. W. 6 1/8 in. (15.6 cm)",
+  "Diam. 3 7/8 in. (9.8 cm)",
+  "Wt. 8.344 oz (236.548 g)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1583",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Ewers"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140001933,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf91-1-1583a.jpg",
+ "related-artworks": [
+  140001916,
+  140001956,
+  140004312,
+  140000300,
+  140000278
+ ],
+ "Provenance": [
+  "Edward C. Moore, New York (until d. 1891)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140001933"
+  }
+ }
+}

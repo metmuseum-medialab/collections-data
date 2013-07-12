@@ -1,0 +1,37 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Fayum Entrance Area, Herakleopolis (Ihnasya el-Medina, Ehnasya)",
+ "Medium": "Faience, gold leaf",
+ "Credit Line": "Gift of Egypt Exploration Fund, 1905",
+ "Accession Number": "05.4.252",
+ "What": [
+  "Metal",
+  "Gold",
+  "Faience",
+  "Gold leaf"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100026311,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsoc2607yy.jpg",
+ "related-artworks": [
+  100002885,
+  100013490,
+  100013472,
+  100036002,
+  100000618
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100026311"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Date": "1822",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "sheet 23 5/16 x 16 11/16 in. (59.2 x 42.4 cm)",
+  "plate 13 7/16 x 11 1/4 in. (34.1 x 28.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.17.3",
+ "Who": "Théodore Gericault",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Lithography in the Nineteenth Century",
+  "The Aesthetic of the Sketch in Nineteenth–Century France",
+  "Romanticism",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90026023,
+ "related-artworks": [
+  90025946,
+  90025948,
+  90025955,
+  90025958,
+  90025949
+ ],
+ "Provenance": [
+  "Vendor: Maurice Gobin"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026023"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1840",
+ "Medium": "Watercolor and gouache on white wove paper",
+ "Dimensions": "8 3/8 x 13 5/8 in. (21.3 x 34.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Maria DeWitt Jesup Fund and Morris K. Jesup Funds, 1991",
+ "Accession Number": "1991.206",
+ "Who": "George Harvey",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Watercolors",
+  "Wove paper",
+  "Gouaches"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20014785,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap1991.206.jpg",
+ "related-artworks": [
+  20015435,
+  20011369,
+  20013868,
+  20015898,
+  20015899
+ ],
+ "Provenance": [
+  "Private Collection, Boston, until 1991"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20014785"
+  }
+ }
+}

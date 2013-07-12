@@ -1,0 +1,50 @@
+{
+ "Period": "Sasanian",
+ "Date": "ca. 3rd–7th century A.D.",
+ "Geography": "Iran",
+ "Culture": "Sasanian",
+ "Medium": "Bronze (speculum)",
+ "Dimensions": [
+  "H. 4 cm",
+  "Diam. 18.6 cm"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1958",
+ "Accession Number": "58.101",
+ "Who": "Sasanian",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Bowls"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 1–500A.D.",
+  "Iran, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 30003468,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME58_101.jpg",
+ "related-artworks": [
+  30001708,
+  30002742,
+  30001082,
+  30006170,
+  30010515
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1958, purchased from Edward Safani, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003468"
+  }
+ }
+}

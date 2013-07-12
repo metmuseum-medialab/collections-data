@@ -1,0 +1,40 @@
+{
+ "Date": "6th century",
+ "Culture": "Visigothic",
+ "Medium": "Leaded brass",
+ "Dimensions": "Overall 3 1/2 x 3 x 3/16 in. (8.9 x 7.6 x 0.5 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, Rogers Fund, Stephen K. Scher, Mrs. Maxime Hermanos, and Anonymous Gifts, Gift and Bequest of George Blumenthal, by exchange, and funds from various donors, 1990",
+ "Accession Number": "1990.52",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Brass",
+  "Pendants",
+  "Harnesses"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170006097,
+ "gallery-id": 301,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/DP30278.jpg",
+ "related-artworks": [
+  170006099,
+  170005035,
+  170005679,
+  170006027,
+  170008345
+ ],
+ "Description": "The Visigoths enjoyed lively commercial contacts with lands all around the Mediterranean. This pendant reveals the familiarity of their artists with motifs from Greece and the Near East. Above the heads of the beasts is the loop through which a harness strap passed.",
+ "Provenance": [
+  "[ Robin Symes Limited, London (sold 1990)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006097"
+  }
+ }
+}

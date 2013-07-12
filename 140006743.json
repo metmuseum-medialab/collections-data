@@ -1,0 +1,44 @@
+{
+ "Date": "11th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware; glazed",
+ "Dimensions": "H. 1 11/16 in. (4.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.40.257",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Glazing",
+  "Pendants"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140006743,
+ "gallery-id": 453,
+ "related-artworks": [
+  140006742,
+  140010889,
+  140006773,
+  140007503,
+  140007497
+ ],
+ "Provenance": [
+  "1937, excavated at Tepe Madrasa in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1938, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140006743"
+  }
+ }
+}

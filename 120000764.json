@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Culture": "British (after a German, possibly Augsburg original)",
+ "Medium": "Silver on base metal, glass",
+ "Dimensions": "H. 11 1/4 in. (28.6 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Henry G. Marquand, 1883",
+ "Accession Number": "83.18.101",
+ "What": [
+  "Metal",
+  "Glass",
+  "Metalwork",
+  "Silver",
+  "Drinking vessels",
+  "Printing plates",
+  "Electrotype",
+  "Tankards"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000764,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP22561.jpg",
+ "related-artworks": [
+  120000769,
+  120005808,
+  120000016,
+  120000059,
+  120000676
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000764"
+  }
+ }
+}

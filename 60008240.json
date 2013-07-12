@@ -1,0 +1,38 @@
+{
+ "Period": "Han dynasty (206 B.C.–A.D. 220)",
+ "Culture": "China",
+ "Medium": "Jade",
+ "Classification": "Seals",
+ "Credit Line": "Gift of Samuel T. Peters, 1913",
+ "Accession Number": "13.40.103",
+ "What": [
+  "Seals",
+  "Jade"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1–500A.D.",
+  "Central and North Asia, 1–500A.D.",
+  "Central and North Asia, 1000 B.C.–1 A.D.",
+  "China, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60008240,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/13_40_103_O1.jpg",
+ "related-artworks": [
+  60008236,
+  60008237,
+  60008238,
+  60008239,
+  60008234
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60008240"
+  }
+ }
+}

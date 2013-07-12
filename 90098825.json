@@ -1,0 +1,44 @@
+{
+ "Date": "1923",
+ "Medium": "Etching, drypoint",
+ "Dimensions": [
+  "Plate 1 15/16 × 6 in. (4.9 × 15.3 cm)",
+  "Sheet 6 3/8 × 10 11/16 in. (16.2 × 27.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1966",
+ "Accession Number": "66.603.9",
+ "Who": "Vadim Falileev",
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Eastern Europe and Scandinavia, 1900 A.D.–present",
+  "Anatolia and the Caucasus, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90098825,
+ "related-artworks": [
+  90027626,
+  90102646,
+  90103002,
+  90086190,
+  90096931
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90098825"
+  }
+ }
+}

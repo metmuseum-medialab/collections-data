@@ -1,0 +1,47 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "first half of the 19th century",
+ "Culture": "China",
+ "Medium": "Porcelain painted in underglaze blue",
+ "Dimensions": "H. 9 1/4 in. (23.5 cm); W. 7 1/2 in. (19.1 cm).",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.399",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Painting",
+  "Bottles",
+  "Underglazing",
+  "Pilgrim bottles"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60019069,
+ "related-artworks": [
+  60015585,
+  60018466,
+  60009867,
+  60016951,
+  60018815
+ ],
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60019069"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Object Name": "Illustrated  album leaf",
+ "Date": "18th century",
+ "Geography": "India",
+ "Medium": "Ink, opaque watercolor, and gold on paper",
+ "Dimensions": "13.12 in. high 8.25 in. wide (33.3 cm high 21 cm wide)",
+ "Classification": "Codices",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.95.174.30",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Books",
+  "Gold",
+  "Watercolors",
+  "Albums",
+  "Manuscripts",
+  "Codices"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005747,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf30-95-174-29a.jpg",
+ "related-artworks": [
+  140003169,
+  140005051,
+  140005739,
+  140005740,
+  140003153
+ ],
+ "Provenance": [
+  "Theodore M. Davis, New York (by 1914–d. 1915)",
+  "On loan from his estateduring settlement of estate (1915–30)",
+  "In permanent possession of The Metropolitan Museum of Artsince 1930"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005747"
+  }
+ }
+}

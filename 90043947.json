@@ -1,0 +1,38 @@
+{
+ "Artist": "Engraved by Jonas Suyderhoef (Dutch, ca. 1613–1686)",
+ "Date": "1643",
+ "Medium": "Engraving and etching; second state of three",
+ "Dimensions": "sheet 17 1/2 x 14 1/4 in. (44.4 x 36.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.6675",
+ "Who": [
+  "Pieter Soutman",
+  "Jonas Suyderhoef"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 90043947,
+ "related-artworks": [
+  90043860,
+  90043859,
+  90043862,
+  90043864,
+  90043867
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90043947"
+  }
+ }
+}

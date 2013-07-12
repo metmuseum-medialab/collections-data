@@ -1,0 +1,45 @@
+{
+ "Period": "Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "Date": "1696",
+ "Culture": "China",
+ "Medium": "Printed from metal blocks; copper engraved plates; contained in an 18th century brocade cover",
+ "Dimensions": "12 x 14 1/2 in. (30.5 x 36.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Marion B. Huggins, 1959",
+ "Accession Number": "CIB19",
+ "What": [
+  "Prints",
+  "Metal",
+  "Engraving",
+  "Books",
+  "Copper",
+  "Printing blocks",
+  "Printing",
+  "Plates",
+  "Brocade"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "id": 60021902,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/CIB19_MM66714.jpg",
+ "related-artworks": [
+  60032054,
+  60032053,
+  60032059,
+  60032060,
+  60032055
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60021902"
+  }
+ }
+}

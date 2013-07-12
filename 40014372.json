@@ -1,0 +1,41 @@
+{
+ "Date": "1850",
+ "Culture": "British",
+ "Medium": "Steel, silver, gold, wood, and textile",
+ "Dimensions": "Overall L. 39 1/2 inches (100.3 cm)",
+ "Classification": "Swords",
+ "Credit Line": "Bequest of William Delafield, Sr., 2012",
+ "Accession Number": "2012.204a, b",
+ "What": [
+  "Metal",
+  "Textiles",
+  "Silver",
+  "Gold",
+  "Arms",
+  "Iron and iron alloy",
+  "Edged weapons",
+  "Swords",
+  "Iron alloy",
+  "Steel"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 40014372,
+ "related-artworks": [
+  40000567,
+  40013838,
+  40003142,
+  40006363,
+  40001139
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40014372"
+  }
+ }
+}

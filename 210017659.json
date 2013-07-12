@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1970",
+ "Medium": "White resin",
+ "Dimensions": "L. 2 3/4 x Diam. 2 1/2 in. (7 x 6.4 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Gift of Donna Schneier, 2007",
+ "Accession Number": "2007.384.55",
+ "Who": "Emmy Van Leersum",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Resin",
+  "Armbands"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210017659,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP166461.jpg",
+ "related-artworks": [
+  210017623,
+  210006164,
+  210006166,
+  210017609,
+  210006165
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210017659"
+  }
+ }
+}

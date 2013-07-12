@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 4th century B.C.–3rd century A.D.",
+ "Culture": "Japanese",
+ "Medium": "Bronze",
+ "Dimensions": "L. 33-1/2\"; W. 5-1/4\"",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Gift of Bashford Dean, by exchange, 1906",
+ "Accession Number": "06.310.23",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Arms",
+  "Spearheads"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1–500A.D.",
+  "Japan, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40000291,
+ "related-artworks": [
+  40000657,
+  40001292,
+  40002118,
+  40002659,
+  40002689
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000291"
+  }
+ }
+}

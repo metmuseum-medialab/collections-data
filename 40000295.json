@@ -1,0 +1,46 @@
+{
+ "Date": "17th century",
+ "Culture": "Japanese",
+ "Medium": "Lacquered iron, silver, gold, leather, silk",
+ "Dimensions": [
+  "7 in. (17.78 cm)",
+  "14 in. (35.56 cm)"
+ ],
+ "Classification": "Helmets",
+ "Credit Line": "Rogers Fund, 1907",
+ "Accession Number": "07.48",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Silver",
+  "Gold",
+  "Iron and iron alloy",
+  "Leather",
+  "Iron",
+  "Helmets"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40000295,
+ "gallery-id": 377,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/DP219907.jpg",
+ "related-artworks": [
+  40014277,
+  40000715,
+  40002314,
+  40000879,
+  40005624
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000295"
+  }
+ }
+}

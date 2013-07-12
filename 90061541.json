@@ -1,0 +1,42 @@
+{
+ "Artist": "After Jean de Saint-Igny (French, Rouen ca. 1595/1600–1647 Paris)",
+ "Date": "1629",
+ "Medium": "Etching",
+ "Dimensions": "sheet 5 9/16 x 3 3/4 in. (14.2 x 9.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.1565",
+ "Who": [
+  "Abraham Bosse",
+  "Jean de Saint-Igny"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90061541,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818061.jpg",
+ "related-artworks": [
+  90015712,
+  90018505,
+  90018525,
+  90018526,
+  90018507
+ ],
+ "Provenance": [
+  "Princes of Liechtenstein, Vaduz and Vienna",
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90061541"
+  }
+ }
+}

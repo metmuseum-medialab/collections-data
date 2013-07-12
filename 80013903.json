@@ -1,0 +1,57 @@
+{
+ "Date": "1857",
+ "Culture": "American",
+ "Medium": "silk, cotton",
+ "Dimensions": "Length at CB 19 1/2 in. (49.5 cm)",
+ "Credit Line": "Purchase, Friends of The Costume Institute Gifts, 1978",
+ "Accession Number": "1978.88.8",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Vests"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80013903,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.88.8_F.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80013866",
+  "http://scrapi.org/object/80013871",
+  "http://scrapi.org/object/80013877",
+  "http://scrapi.org/object/80013898",
+  "http://scrapi.org/object/80013894"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1978.88.8_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1978.88.8_B.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80013866"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80013871"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80013877"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80013898"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80013894"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80013903"
+  }
+ }
+}

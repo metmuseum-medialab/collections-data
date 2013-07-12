@@ -1,0 +1,45 @@
+{
+ "Period": "Second Intermediate Period",
+ "Dynasty": "Dynasty 13, late–18, early",
+ "Date": "ca. 1700–1550 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Tomb of Nakht , outside NE corner, Pit 468, MMA 1913–1914",
+ "Medium": "Egyptian Alabaster",
+ "Dimensions": "h. 12.5 cm (4 15/16 in); diam. 13.8 cm (5 7/16 in)",
+ "Credit Line": "Rogers Fund, 1915",
+ "Accession Number": "15.3.174",
+ "What": [
+  "Vessels",
+  "Jars",
+  "Gypsum",
+  "Alabaster",
+  "Funerary containers",
+  "Lids"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100003209,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vse14-2z3.jpg",
+ "related-artworks": [
+  100003207,
+  100003208,
+  100014686,
+  100014683,
+  100014698
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003209"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Date": "19th century",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1969",
+ "Accession Number": "69.558.34",
+ "Who": "C. H. McKenny & Co.",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90021598,
+ "related-artworks": [
+  90000871,
+  90000872,
+  90000873,
+  90000874,
+  90000875
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021598"
+  }
+ }
+}

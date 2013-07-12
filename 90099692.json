@@ -1,0 +1,45 @@
+{
+ "Artist": "After Guido Reni (Italian, Bologna 1575–1642 Bologna)",
+ "Date": "1762–63",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Mount 12 15/16 × 16 13/16 in. (32.8 × 42.7 cm)",
+  "Sheet 4 3/16 × 6 1/16 in. (10.6 × 15.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.4558",
+ "Who": [
+  "Guido Reni",
+  "Jean Jacques Lagrenée"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90099692,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP829315.jpg",
+ "related-artworks": [
+  90036022,
+  90059597,
+  90059598,
+  90099489,
+  90099523
+ ],
+ "Provenance": [
+  "Princes of Liechtenstein, Vaduz and Vienna",
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90099692"
+  }
+ }
+}

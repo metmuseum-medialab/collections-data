@@ -1,0 +1,42 @@
+{
+ "Artist": "After Giorgio Vasari (Italian, Arezzo 1511–1574 Florence)",
+ "Date": "1542",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 8 9/16 x 5 7/8 in. (21.8 x 15 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.97.355",
+ "Who": [
+  "Enea Vico",
+  "Giorgio Vasari"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Lovers in Italian Mythological Prints",
+  "Anatomy in the Renaissance",
+  "Woodcut Book Illustration in Renaissance Italy Venice in the Sixteenth Century"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90041170,
+ "related-artworks": [
+  90041066,
+  90043189,
+  90043258,
+  90043351,
+  90043353
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90041170"
+  }
+ }
+}

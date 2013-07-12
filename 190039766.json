@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1860",
+ "Medium": "Albumen silver print",
+ "Dimensions": "7 15/16 x 6 1/16",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 2005",
+ "Accession Number": "2005.100.1132",
+ "Who": "Henry Peach Robinson",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "International Pictorialism",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "id": 190039766,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP281277.jpg",
+ "related-artworks": [
+  190014989,
+  190021485,
+  190036281,
+  190042955,
+  190017913
+ ],
+ "Provenance": [
+  "(Sotheby's London, Lot 187, June 29, 1984, Rinhart Galleries acting as agent)",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190039766"
+  }
+ }
+}

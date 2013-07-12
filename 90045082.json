@@ -1,0 +1,41 @@
+{
+ "Date": "1937",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "image 11 1/2 x 14 1/2 inches (29.2 x 36.8 cm)",
+  "sheet 15 3/4 x 18 inches (40 x 45.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of James E. Allen Family and Mary Ryan, 1984",
+ "Accession Number": "1984.1200.9",
+ "Who": "James Edward Allen",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90045082,
+ "related-artworks": [
+  90045078,
+  90045084,
+  90045080,
+  90045081,
+  90045085
+ ],
+ "Provenance": [
+  "Donor: Mary Ryan Gallery Donor: James E. Allen Family"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90045082"
+  }
+ }
+}

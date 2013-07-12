@@ -1,0 +1,44 @@
+{
+ "Date": "before 16th century",
+ "Geography": "Mexico, Mesoamerica",
+ "Culture": "Mexican",
+ "Medium": "Stone",
+ "Dimensions": "Height 2-1/8 in.",
+ "Classification": "Stone-Ornaments",
+ "Credit Line": "Bequest of Arthur M. Bullowa, 1993",
+ "Accession Number": "1994.35.585",
+ "What": [
+  "Costume",
+  "Stone",
+  "Jewelry",
+  "Ear ornaments"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico, 1400–1600 A.D.",
+  "Mexico, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50010091,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/VS1994_35_585.JPG",
+ "related-artworks": [
+  50005943,
+  50005944,
+  50009778,
+  50009779,
+  50009781
+ ],
+ "Provenance": [
+  "George Pepper, Mexico City and Philadelphia",
+  "Arthur M. Bullowa, New York, until (d.)1993"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50010091"
+  }
+ }
+}

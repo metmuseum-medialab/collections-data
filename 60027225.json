@@ -1,0 +1,40 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "12 1/2 × 8 7/8 in. (31.8 × 22.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "JP1767",
+ "Who": "Katsukawa Shunchō",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60027225,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP130278.jpg",
+ "related-artworks": [
+  60000750,
+  60022927,
+  60025962,
+  60025970,
+  60025964
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60027225"
+  }
+ }
+}

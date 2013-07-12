@@ -1,0 +1,37 @@
+{
+ "Date": "late 19th century",
+ "Culture": "Indian",
+ "Medium": "metal",
+ "Dimensions": "Length 15 1/2 x 5 x 1 1/2 in. (39.4 cm)",
+ "Credit Line": "Gift of Muriel Kallis Newman, 2008",
+ "Accession Number": "2008.190.142",
+ "What": [
+  "Metal",
+  "Costume",
+  "Jewelry",
+  "Necklaces"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80079281,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2008.190.142_F.jpg",
+ "related-artworks": [
+  80079182,
+  80012574,
+  80012572,
+  80012573,
+  80012571
+ ],
+ "Description": "This collection of largely ethnographic jewelry includes examples from cultures in South America, North America, Europe, Asia, and Africa and dates from the Pre-Columbian period to the twentieth century. Owned by renowned art collector and fashion enthusiast Muriel Kallis Newman, the collection represents her knowledge and appreciation of a wide range of jewelry design and making traditions.  Numerous items in her collection are composite artifacts made from various cultures and time periods reappropriated as modern jewelry creations by or for Muriel.  It is important to note that Newman wore many of the pieces in the collection, interpreting them to suit and express her own singular, often avant-garde style.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80079281"
+  }
+ }
+}

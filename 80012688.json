@@ -1,0 +1,34 @@
+{
+ "Date": "ca. 1760",
+ "Culture": "French",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.51.8",
+ "What": [
+  "Costume",
+  "Vests"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80012688,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/11.51.8_F.jpg",
+ "related-artworks": [
+  80003648,
+  80005881,
+  80005910,
+  80005922,
+  80005923
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80012688"
+  }
+ }
+}

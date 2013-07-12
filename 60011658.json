@@ -1,0 +1,42 @@
+{
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Rock crystal",
+ "Dimensions": "H. 8 1/4 in. (21 cm)",
+ "Classification": "Hardstone",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.820",
+ "What": [
+  "Vessels",
+  "Vases",
+  "Crystal",
+  "Quartz crystal"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "id": 60011658,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/12249.jpg",
+ "related-artworks": [
+  60011684,
+  60011661,
+  60011667,
+  60011668,
+  60011669
+ ],
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60011658"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Period": "Late Antique",
+ "Date": "5th century A.D.",
+ "Culture": "Roman",
+ "Medium": "Terracotta; mold-made",
+ "Dimensions": "H. 1 1/4 x 3 5/16 in. (3.2 x 8.4 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2039",
+ "What": [
+  "Clay",
+  "Terracotta",
+  "Lighting devices",
+  "Lamps"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "id": 130002058,
+ "gallery-id": 169,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP486.jpg",
+ "related-artworks": [
+  130001850,
+  130001958,
+  130001961,
+  130001993,
+  130002034
+ ],
+ "Description": "On the discus is the Christian chi-rho monogram. The shape and decoration of this lamp, made somewhere in the Greek East, are related to and probably copied from those of African red-slip ware lamps.",
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002058"
+  }
+ }
+}

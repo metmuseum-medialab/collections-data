@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Culture": "Indian",
+ "Medium": "cotton, metallic gold, linen",
+ "Dimensions": "Length 224 in. (569 cm)",
+ "Credit Line": "Purchase, Irene Lewisohn and Alice L. Crowley Bequests, 1985",
+ "Accession Number": "1985.326",
+ "What": [
+  "Metal",
+  "Costume",
+  "Cotton",
+  "Gold",
+  "Linen",
+  "Turbans"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80061739,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1985.326.jpg",
+ "related-artworks": [
+  80011916,
+  80079200,
+  80079182,
+  80012560,
+  80061212
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80061739"
+  }
+ }
+}

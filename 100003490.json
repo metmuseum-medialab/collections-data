@@ -1,0 +1,48 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12, late–early 13",
+ "Date": "ca. 1850–1775 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Tomb of Senwosret , Pit 763, burial of Senebtisi, MMA 1906–1907",
+ "Medium": "Carnelian, also possibly ivory (restored), turquoise, lapis-lazuli, gold",
+ "Dimensions": "l. 41 cm (16 1/8 in)",
+ "Credit Line": "Rogers Fund, 1907",
+ "Accession Number": "07.227.13",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Bone",
+  "Ivory",
+  "Chalcedony",
+  "Carnelian",
+  "Turquoise",
+  "Girdles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100003490,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs07.227.13.jpg",
+ "related-artworks": [
+  100003488,
+  100000380,
+  100003487,
+  100001575,
+  100003439
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003490"
+  }
+ }
+}

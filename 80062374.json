@@ -1,0 +1,37 @@
+{
+ "Date": "1700–1951",
+ "Culture": "Chinese",
+ "Medium": "bone",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "From the Hanna S. Kohn Collection, 1951",
+ "Accession Number": "51.47.2892–.2896",
+ "What": [
+  "Bone",
+  "Buttons"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D.",
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1900 A.D.–present"
+ ],
+ "id": 80062374,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/51.47.2895.jpg",
+ "related-artworks": [
+  80062375,
+  80062373,
+  80046473,
+  80046474,
+  80005414
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80062374"
+  }
+ }
+}

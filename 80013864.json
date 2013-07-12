@@ -1,0 +1,33 @@
+{
+ "Date": "late 1840s",
+ "Culture": "European",
+ "Medium": "silk",
+ "Dimensions": "Length (shoulder seam to front lower edge) 20 1/4 in. (51.4 cm)",
+ "Credit Line": "Gift of Mr. Lincoln Kirstein, 1946",
+ "Accession Number": "C.I.46.87.8",
+ "What": [
+  "Costume",
+  "Silk",
+  "Vests"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80013864,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI46.87.8_F.jpg",
+ "related-artworks": [
+  80005516,
+  80005911,
+  80013485,
+  80013521,
+  80013541
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80013864"
+  }
+ }
+}

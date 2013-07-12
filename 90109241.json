@@ -1,0 +1,47 @@
+{
+ "Publisher": "Le Charivari",
+ "Date": "April 8, 1838",
+ "Medium": "Lithograph with coloring; third of four states",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Georgina W. Sargent in memory of John Osborne Sargent",
+ "Accession Number": "24.63.516",
+ "Who": [
+  "Honoré Daumier",
+  "Le Charivari"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Nineteenth–Century French Realism",
+  "Lithography in the Nineteenth Century",
+  "The Print in the Nineteenth Century",
+  "Vincent van Gogh (1853–1890) The Drawings",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90109241,
+ "related-artworks": [
+  90000157,
+  90000514,
+  90001678,
+  90001677,
+  90003040
+ ],
+ "Provenance": [
+  "Donor: Georgiana W. Sargent"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90109241"
+  }
+ }
+}

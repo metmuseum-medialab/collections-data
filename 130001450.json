@@ -1,0 +1,40 @@
+{
+ "Period": "Protocorinthian",
+ "Date": "ca. 675–640 B.C.",
+ "Culture": "Greek, Corinthian",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 9.19 cm.",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.1421",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Aryballoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "id": 130001450,
+ "related-artworks": [
+  130000890,
+  130001446,
+  130005251,
+  130005250,
+  130007190
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130001450"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "Pre-Columbian",
+ "Date": "ca. 600–900",
+ "Geography": "Mexico",
+ "Medium": "Pottery, polychrome",
+ "Dimensions": "12.1 x 2.7 x 28.9 cm (W. applied figure 4-3/4 x Tube Diam. 1-1/16 x L. 11-3/8 in.)",
+ "Classification": "Aerophone-Whistle Flute",
+ "Credit Line": "Purchase, Clara Mertens Bequest, in memory of André Mertens, and Purchase by Subscription, by exchange, 2002",
+ "Accession Number": "2002.188",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Musical instruments",
+  "Aerophones",
+  "Flutes",
+  "Duct flutes",
+  "Whistles",
+  "Fipple flutes",
+  "Recorders"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Mexico, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180015312,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DT5395a.jpg",
+ "related-artworks": [
+  180013005,
+  180013015,
+  180013013,
+  180013011,
+  180013608
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180015312"
+  }
+ }
+}

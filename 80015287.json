@@ -1,0 +1,39 @@
+{
+ "Date": "1971",
+ "Culture": "American",
+ "Medium": "leather",
+ "Dimensions": [
+  "Length at CB (a) 48 1/4 in. (122.6 cm)",
+  "Length (b) 34 1/2 in. (87.6 cm)"
+ ],
+ "Credit Line": "Gift of Muriel Kallis Newman, 1987",
+ "Accession Number": "1987.136.18a, b",
+ "Who": "Stephen Burrows",
+ "What": [
+  "Costume",
+  "Leather",
+  "Coats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80015287,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1987.136.18ab_F.jpg",
+ "related-artworks": [
+  80005738,
+  80000148,
+  80005742,
+  80000355,
+  80002136
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80015287"
+  }
+ }
+}

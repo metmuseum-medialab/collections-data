@@ -1,0 +1,40 @@
+{
+ "Designer": "Hubert de Givenchy (French, born Beauvais, 1927)",
+ "Date": "spring/summer 1963",
+ "Culture": "French",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 38 in. (96.5 cm)",
+ "Credit Line": "Gift of Mrs. Charles Wrightsman, 1967",
+ "Accession Number": "C.I.67.53.9",
+ "Who": [
+  "Hubert de Givenchy",
+  "House of Givenchy"
+ ],
+ "What": [
+  "Costume",
+  "Cotton",
+  "Coats"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80023125,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI67.53.9_F.jpg",
+ "related-artworks": [
+  80001427,
+  80023109,
+  80023121,
+  80023126,
+  80023129
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80023125"
+  }
+ }
+}

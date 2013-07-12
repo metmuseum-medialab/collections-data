@@ -1,0 +1,47 @@
+{
+ "Date": "1498–1561",
+ "Medium": "Pen and brown ink with pale grey washes",
+ "Dimensions": "12-1/2 x 21-1/2 in.  (31.8 x 54.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.605.7",
+ "Who": "Battista Franco",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012359,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820299.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90005878"
+   },
+   {
+    "href": "http://scrapi.org/object/90005879"
+   },
+   {
+    "href": "http://scrapi.org/object/90005881"
+   },
+   {
+    "href": "http://scrapi.org/object/90005882"
+   },
+   {
+    "href": "http://scrapi.org/object/90005883"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90012359"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90012359"
+  }
+ }
+}

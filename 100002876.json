@@ -1,0 +1,48 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Date": "ca. 1981–1802 B.C.",
+ "Geography": "Country of Origin Egypt, Middle Egypt, Asyut (Assiut, Siut; Lykopolis), Khashaba",
+ "Medium": "Wood, copper",
+ "Dimensions": "L. 40.2 cm (15 13/16 in); l. of blade 11.2 cm (4 7/16 in)",
+ "Credit Line": "Gift of Edward S. Harkness, 1917",
+ "Accession Number": "17.9.11",
+ "What": [
+  "Metal",
+  "Arms",
+  "Wood",
+  "Edged weapons",
+  "Copper",
+  "Models",
+  "Staff weapons",
+  "Spears"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Asyut"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100002876,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DP112589.jpg",
+ "related-artworks": [
+  100002875,
+  100002871,
+  100002873,
+  100002869,
+  100002874
+ ],
+ "Description": "See 17.9.3 and 17.9.4",
+ "Provenance": [
+  "Excavated by Sayyid Pasha Khashaba (Said Bey). Acquired by Khashaba in the division of finds. Purchased from Khashaba, 1917."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100002876"
+  }
+ }
+}

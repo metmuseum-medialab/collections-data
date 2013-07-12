@@ -1,0 +1,52 @@
+{
+ "Date": "19th–early 20th century",
+ "Culture": "Japan",
+ "Medium": "Silk / Ikat",
+ "Dimensions": "23 1/2 x 11 in. (59.69 x 27.94 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mr. Paul A. J. Spheeris, 1975",
+ "Accession Number": "1975.166b",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Resist dyeing",
+  "Ikat"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1900 A.D.–present",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60044329,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP14233.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60052701"
+   },
+   {
+    "href": "http://scrapi.org/object/60013209"
+   },
+   {
+    "href": "http://scrapi.org/object/60013210"
+   },
+   {
+    "href": "http://scrapi.org/object/60013208"
+   },
+   {
+    "href": "http://scrapi.org/object/60039088"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60044329"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60044329"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "mid-19th century",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Dimensions": [
+  "L. 8 x W. 3 1/4 inches",
+  "20.3 x 8.3 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.1828",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Fringe"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120042603,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP5211.jpg",
+ "related-artworks": [
+  120042600,
+  120042798,
+  120042792,
+  120031414,
+  120042602
+ ],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120042603"
+  }
+ }
+}

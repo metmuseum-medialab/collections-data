@@ -1,0 +1,46 @@
+{
+ "Date": "late 15th-early 16th century",
+ "Medium": "Tempera and gold on wood",
+ "Dimensions": "Overall 15 3/4 x 27 3/4 in. (40 x 70.5 cm); painted surface 15 1/8 x 27 1/2 in. (38.4 x 69.9 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.75",
+ "Who": "Master of Marradi",
+ "What": [
+  "Metal",
+  "Paintings",
+  "Gold",
+  "Tempera"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Siena"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 150000065,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/ep1975.1.75.bw.R.jpg",
+ "related-artworks": [
+  150000066,
+  150000025,
+  150000039,
+  150000010
+ ],
+ "Provenance": [
+  "Artaud de Montor, Paris, by 1811",
+  "Artaud de Moontor sale, Hôtel des Ventes Mobilières, Paris, January 16-17, 1851, no. 98-100 (as Andrea Orcagna), bt. Louvisille",
+  "Comte Pourtalès-Gorgier, Paris",
+  "Pourtalès sale, Hôtel Drouot, Paris, February 21-22, 1867, no. 230 (as Orcagna)",
+  "Mlle. G. de V. sale, Hôtel Drouot, Paris, March 29, 1922, no. 9, 10 (as School of Benozzo Gozzoli, bt. Bacri",
+  "F. Kleinberger, Paris, by 1923.  Acquired by Philip Lehman before 1928."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150000065"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Manufacturer": "Pincus Brothers - Maxwell",
+ "Retailer": "Bonwit Teller & Co. (American, founded 1907)",
+ "Date": "ca. 1970",
+ "Culture": "American",
+ "Medium": "Cotton",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Michael Kan, 1976",
+ "Accession Number": "2009.300.7899a, b",
+ "Who": [
+  "Bonwit Teller & Co.",
+  "Bill Blass",
+  "Pincus Brothers - Maxwell"
+ ],
+ "What": [
+  "Costume",
+  "Cotton",
+  "Suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80116187,
+ "related-artworks": [
+  80014712,
+  80093581,
+  80096938,
+  80002548,
+  80004404
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80116187"
+  }
+ }
+}

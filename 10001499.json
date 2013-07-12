@@ -1,0 +1,46 @@
+{
+ "Date": "1600–1700",
+ "Geography": "New England, Princeton, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Pine, glass, and lead",
+ "Dimensions": "23 3/4 x 20 1/4 in. (60.3 x 51.4 cm)",
+ "Classification": "Architecture",
+ "Credit Line": "Rogers Fund, 1937",
+ "Accession Number": "37.100.3",
+ "What": [
+  "Metal",
+  "Glass",
+  "Wood",
+  "Softwood",
+  "Lead",
+  "Pine",
+  "Windows",
+  "Casement windows"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Princeton"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001499,
+ "related-artworks": [
+  10001498,
+  10001501,
+  10001502,
+  10001500,
+  10010187
+ ],
+ "Provenance": [
+  "L. P. Goulding, Sudbury, Massachusetts, until 1937"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001499"
+  }
+ }
+}

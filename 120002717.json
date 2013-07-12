@@ -1,0 +1,42 @@
+{
+ "Date": "19th century",
+ "Culture": "British, Longport",
+ "Medium": "Black printed ware",
+ "Dimensions": "H. 9 in.  (22.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Isaac Gibson Jaffray, in memory of her husband,1898",
+ "Accession Number": "98.1.35 a-c",
+ "Who": "Davenport, Longport",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Printing",
+  "Trays",
+  "Sauceboats"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Stoke-on-Trent",
+  "Longport"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120002717,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/6285.jpg",
+ "related-artworks": [
+  120002722,
+  120002720,
+  120002723,
+  120002934,
+  120002721
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120002717"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "1920s",
+ "Culture": "Italian",
+ "Medium": "silk, glass",
+ "Dimensions": "Length at CB 39 in. (99.1 cm)",
+ "Credit Line": "Gift of Mrs. Paxton T. Dunn in memory of her mother, Hildreth Meiere, 1991",
+ "Accession Number": "1991.187.2",
+ "Who": "Maria Gallenga",
+ "What": [
+  "Costume",
+  "Silk",
+  "Glass",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80002803,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1991.187.2_F.jpg",
+ "related-artworks": [
+  80002680,
+  80002757,
+  80002802,
+  80002804,
+  80095887
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002803"
+  }
+ }
+}

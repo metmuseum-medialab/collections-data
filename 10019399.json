@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1900",
+ "Geography": "France",
+ "Medium": "Silk and metallic thread, woven",
+ "Dimensions": "51 1/2 x 22 1/2 in. (130.8 x 57.2 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Rose Lynn Mangan, 2003",
+ "Accession Number": "2003.141",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "West Midlands"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1800–1900 A.D.",
+  "Great Britain and Ireland, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10019399,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP168692.jpg",
+ "related-artworks": [
+  10014336,
+  10014748,
+  10014366,
+  10014055,
+  10014057
+ ],
+ "Provenance": [
+  "Rose Lynn Mangan, the donor of this fabric, was given the piece by her friend Margery Hill, who lived in the Blacker House until she sold it in 1984.  The silk panel was given to Mrs. Hill by Henry Winter.  Henry Winter's brother William worked for L. C. Tiffany in the interior design department, and Henry had met Tiffany as well, and was a great admirer of his."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10019399"
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "Object Name": "Fragment of a cover",
+ "Date": "5th century",
+ "Geography": "Egypt",
+ "Medium": "Wool, linen; plain weave, tapestry weave",
+ "Dimensions": [
+  "Textile L. 25 9/16 in. (64.9 cm)",
+  "W. 38 3/16 in. (97 cm)",
+  "Mount L. 30 in. (76.2 cm)",
+  "W. 43 1/2 in. (110.5 cm)",
+  "D. 1 1/4 in. (3.2 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of George F. Baker, 1890",
+ "Accession Number": "90.5.807",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Wool",
+  "Linen",
+  "Tapestries",
+  "Plain weave"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140001455,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP230060.JPG",
+ "related-artworks": [
+  140000376,
+  140000381,
+  140000382,
+  140000403,
+  140000387
+ ],
+ "Description": "This fragment was perhaps part of a cover originally decorated with identical ornamentation at each end. The richly colored geometric patterns are filled with plant forms reminiscent of Dionysian imagery. The eight-pointed stars formed from overlaid squares may have been meant to offer magical protection to its owner.",
+ "Provenance": [
+  "Emil Brugsch-Bey(until 1890",
+  "sold to Baker)",
+  "George F. Baker, New York (1890)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140001455"
+  }
+ }
+}

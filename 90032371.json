@@ -1,0 +1,38 @@
+{
+ "Date": "mid-16th century",
+ "Medium": "Woodcut",
+ "Dimensions": "sheet 10 x 11 5/8 in. (25.4 x 29.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Henry Walters, 1917",
+ "Accession Number": "17.37.33",
+ "Who": "Luca Cambiaso",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Lovers in Italian Mythological Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90032371,
+ "related-artworks": [
+  90002613,
+  90018679,
+  90005386,
+  90005393,
+  90005390
+ ],
+ "Provenance": [
+  "Donor: Henry Walters"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90032371"
+  }
+ }
+}

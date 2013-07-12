@@ -1,0 +1,29 @@
+{
+ "Date": "ca. 1740",
+ "Culture": "French",
+ "Classification": "Equestrian Equipment",
+ "Credit Line": "Rogers Fund, 1904",
+ "Accession Number": "04.3.471a-c",
+ "What": "Harnesses",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40003860,
+ "related-artworks": [
+  40006280,
+  40012629,
+  40014144,
+  40000116,
+  40000119
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40003860"
+  }
+ }
+}

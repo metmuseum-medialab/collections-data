@@ -1,0 +1,44 @@
+{
+ "Sitter": "Portrait of Madame Réjane (1857–1920)",
+ "Date": "1894",
+ "Medium": "Pen and black (India?) ink",
+ "Dimensions": "sheet 14 x 9 1/16 in. (35.6 x 23 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1952",
+ "Accession Number": "52.64",
+ "Who": [
+  "Aubrey Vincent Beardsley",
+  "Madame Réjane"
+ ],
+ "What": [
+  "Ink",
+  "Drawings",
+  "India ink"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90007969,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800796.jpg",
+ "related-artworks": [
+  90007970,
+  90007971,
+  90107968,
+  90007972,
+  90016850
+ ],
+ "Provenance": [
+  "James Mann (British (born Scotland))",
+  "Vendor: Walker"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90007969"
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "Decorator": "Decorated in the manner of Abraham Seuter (Augsburg)",
+ "Date": "ca. 1725, decorated ca. 1740",
+ "Culture": "German (Meissen and Augsburg)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "Diam. 5 1/16 in. (12.9 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+ "Accession Number": "1974.356.510",
+ "Who": [
+  "Meissen Manufactory",
+  "Abraham Seuter"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Hard paste porcelain",
+  "Saucers"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Augsburg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120026885,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/239484.jpg",
+ "related-artworks": [
+  120014207,
+  120014208,
+  120014206,
+  120022019,
+  120012598
+ ],
+ "Provenance": [
+  "Dr. Strauss",
+  "Lesley and Emma Sheafer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120026885"
+  }
+ }
+}

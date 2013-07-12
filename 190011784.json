@@ -1,0 +1,41 @@
+{
+ "Date": "1959, printed 1963",
+ "Medium": "Dye transfer print",
+ "Dimensions": "19.7 x 25.8 cm. (7  3/4  x 10  3/16  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1972",
+ "Accession Number": "1972.527.12",
+ "Rights and Reproduction": "© 1990 Amon Carter Museum, Fort Worth, Texas",
+ "Who": "Eliot Porter",
+ "What": [
+  "Photographs",
+  "Photomechanical reproductions",
+  "Dye",
+  "Dye transfer prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190011784,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP121892.jpg",
+ "related-artworks": [
+  190011783,
+  190011785,
+  190011786,
+  190011787,
+  190011788
+ ],
+ "Provenance": [
+  "Witkin Gallery"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190011784"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Geography": "Vanuatu",
+ "Culture": "Vanuatu",
+ "Medium": "Shell beads, fiber",
+ "Dimensions": "H. 1 13/16 x Diam. 8 in. (4.6 x 20.3 cm)",
+ "Classification": "Beads-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Gift of Mr. and Mrs. Robert W. Campbell, 1966",
+ "Accession Number": "1978.412.1501",
+ "Who": "Vanuatu",
+ "What": [
+  "Costume",
+  "Shell",
+  "Armbands"
+ ],
+ "Where": [
+  "Oceania",
+  "Vanuatu"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Melanesia, 1900 A.D.–present",
+  "Melanesia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50004522,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1978.412.1501a.jpg",
+ "related-artworks": [
+  50004523,
+  50003749,
+  50002574,
+  50003795,
+  50003918
+ ],
+ "Provenance": [
+  "Robert W. Campbell, Oregon, until 1966",
+  "The Museum of Primitive Art, New York, 1966–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50004522"
+  }
+ }
+}

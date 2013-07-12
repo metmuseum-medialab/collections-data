@@ -1,0 +1,38 @@
+{
+ "Medium": "Black ink wash on off-white wove paper",
+ "Dimensions": "11 1/16 x 7 5/8 in. (28.1 x 19.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of A. W. Bahr, 1958",
+ "Accession Number": "58.21.4",
+ "Who": "Arthur . Davies",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Wove paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20011006,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DP158122.jpg",
+ "related-artworks": [
+  20011013,
+  20011014,
+  20010980,
+  20010981,
+  20010984
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20011006"
+  }
+ }
+}

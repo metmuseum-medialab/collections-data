@@ -1,0 +1,65 @@
+{
+ "Date": "ca. 1760",
+ "Culture": "British, Worcester",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. 3-1/4 in. (8.3 cm.); L. 5 3/4 in. (14.6 cm.); W. 3 3/4 in. (9.5 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1927",
+ "Accession Number": "27.17.9 ab",
+ "Who": "Worcester",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Soft paste porcelain",
+  "Butter dishes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Worcestershire",
+  "Worcester"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010510,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/66494.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120013517",
+  "http://scrapi.org/object/120014074",
+  "http://scrapi.org/object/120014096",
+  "http://scrapi.org/object/120001944",
+  "http://scrapi.org/object/120001945"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Thomas G. Cannon (until 1927; sale, Anderson Galleries, New York, January 12, 1927, no. 246)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120013517"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120014074"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120014096"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120001944"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120001945"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120010510"
+  }
+ }
+}

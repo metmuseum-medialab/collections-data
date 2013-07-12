@@ -1,0 +1,39 @@
+{
+ "Date": "13th–14th century",
+ "Culture": "French (?)",
+ "Medium": "Colorless glass",
+ "Dimensions": "Overall 3 x 2 3/4 inches (7.5 x 7 cm)",
+ "Classification": "Glass-Stained",
+ "Credit Line": "Gift of George D. Pratt, 1930",
+ "Accession Number": "30.73.213",
+ "What": [
+  "Glass",
+  "Fragments",
+  "Stained glass"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170007130,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cdi30-73-213.jpg",
+ "related-artworks": [
+  170005901,
+  170005902,
+  170005906,
+  170005907,
+  170005911
+ ],
+ "Provenance": [
+  "George D. Pratt, Glen Cove, NY (until 1930)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170007130"
+  }
+ }
+}

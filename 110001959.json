@@ -1,0 +1,58 @@
+{
+ "Date": "ca. 1647",
+ "Medium": "Oil on canvas",
+ "Dimensions": "39 x 31 1/4 in. (99.1 x 79.4 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Mary L. Harrison, 1921",
+ "Accession Number": "21.105",
+ "Who": "Salvator Rosa",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Art of the Seventeenth and Eighteenth Centuries in Naples",
+ "MetPublications": "Search for related Met publications",
+ "id": 110001959,
+ "gallery-id": 621,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT512.jpg",
+ "Provenance": [
+  "Giovanni Battista Ricciardi, Florence and palazzo Strozzavolpe, near Poggibonsi (until d. 1686; inv. April 22, 1687, folio 180, \"un quadro grande . . . dipintovi un filosofo che scrive sopra una testa di morto\")",
+  "by descent to Francesco Ricciardi, ?Florence (by 1729)",
+  "by descent to Niccolò Ricciardi Serguido, palazzo Strozzavolpe (by 1767)",
+  "James Thomson, New York (bought in Florence; about 1836–48; sale, Dumont, New York, March 22, 1848, to Livingston)",
+  "Anson Livingston, New York (1848–d. 1873)",
+  "his daughter, Mary Livingston Harrison, New York (1873–d. 1921)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/110001958"
+   },
+   {
+    "href": "http://scrapi.org/object/110001957"
+   },
+   {
+    "href": "http://scrapi.org/object/90007755"
+   },
+   {
+    "href": "http://scrapi.org/object/90007756"
+   },
+   {
+    "href": "http://scrapi.org/object/90007757"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/110001959"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/110001959"
+  }
+ }
+}

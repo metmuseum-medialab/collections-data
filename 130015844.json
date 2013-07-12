@@ -1,0 +1,42 @@
+{
+ "Period": "Early Cycladic II",
+ "Date": "2300–2200 B.C.",
+ "Culture": "Cycladic",
+ "Medium": "Marble",
+ "Dimensions": "preserved H. 3 9/16 in. (9 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "Gift of Alastair Bradley Martin, 1971",
+ "Accession Number": "1971.258.1",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Statues",
+  "Figurines",
+  "Marble"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130015844,
+ "gallery-id": 151,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/197189.jpg",
+ "related-artworks": [
+  130013915,
+  130015085,
+  130015557,
+  130015022,
+  130015030
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130015844"
+  }
+ }
+}

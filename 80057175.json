@@ -1,0 +1,36 @@
+{
+ "Date": "early 19th century",
+ "Culture": "British (probably)",
+ "Medium": "cotton",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Museum Purchase, 1938",
+ "Accession Number": "C.I.39.2.2",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Outerwear",
+  "Capes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80057175,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.39.2.2_F1.jpg",
+ "related-artworks": [
+  80052100,
+  80031133,
+  80054132,
+  80096981,
+  80000018
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80057175"
+  }
+ }
+}

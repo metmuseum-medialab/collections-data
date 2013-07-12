@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Bronze-gilt",
+ "Dimensions": "H. 3 1/8 in.  (7.9 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+ "Accession Number": "07.225.510.295",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Gilt",
+  "Plate",
+  "Ormolu",
+  "Hooks"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120004581,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/4030.jpg",
+ "related-artworks": [
+  120004614,
+  120004939,
+  120004301,
+  120009294,
+  120004892
+ ],
+ "Provenance": [
+  "Georges Hoentschel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120004581"
+  }
+ }
+}

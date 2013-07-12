@@ -1,0 +1,38 @@
+{
+ "Period": "Iron Age",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 3 5/16 in. (8.4 cm)",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.630",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130000683,
+ "related-artworks": [
+  130000453,
+  130000518,
+  130000550,
+  130000805,
+  130000412
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130000683"
+  }
+ }
+}

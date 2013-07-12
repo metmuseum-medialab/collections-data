@@ -1,0 +1,47 @@
+{
+ "Date": "9th–10th century",
+ "Geography": "Iran",
+ "Medium": "Earthenware; white slip, incised and glazed",
+ "Dimensions": [
+  "H. 1 3/4 in. (4.4 cm)",
+  "Diam. 13 7/8 in. (35.2 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Henry Walters, 1924",
+ "Accession Number": "24.159.5",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Metalwork",
+  "Pottery",
+  "Earthenware",
+  "Glazing",
+  "Plate",
+  "Slip"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140012696,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/wb-24.159.5.JPG",
+ "related-artworks": [
+  140009316,
+  140006602,
+  140006648,
+  140006617,
+  140007008
+ ],
+ "Provenance": [
+  "Henry Walters, New York (until 1924)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140012696"
+  }
+ }
+}

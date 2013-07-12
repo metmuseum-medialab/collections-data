@@ -1,0 +1,31 @@
+{
+ "Date": "December 22, 1516 colophon December 22, 1506",
+ "Medium": "Printed on paper",
+ "Dimensions": "8vo (170 x 107 mm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "22.66.3",
+ "Who": "Thielman Kerver",
+ "What": [
+  "Paper",
+  "Books"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90005366,
+ "related-artworks": [
+  90005364,
+  90019541,
+  90019541
+ ],
+ "Provenance": [
+  "William Mitchell(armorial bookplate)",
+  "Vendor: Bernard Quaritch, Ltd. (London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005366"
+  }
+ }
+}

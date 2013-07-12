@@ -1,0 +1,58 @@
+{
+ "Period": "Late Period, Saite",
+ "Dynasty": "Dynasty 26",
+ "Reign": "reign of Psamtik I",
+ "Date": "664–610 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Tomb of Nespekashuty (TT 312, MMA 509), MMA 1922–1923",
+ "Medium": "Blue faience",
+ "Dimensions": "L. 2 to 8 cm",
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "26.3.356.10",
+ "What": "Faience",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100049905,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs26.3.356.10.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/100050449",
+  "http://scrapi.org/object/100050451",
+  "http://scrapi.org/object/100050479",
+  "http://scrapi.org/object/100050454",
+  "http://scrapi.org/object/100050455"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum at Thebes, 1922–23. Received from the Egyptian Governement in the division of finds."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100050449"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100050451"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100050479"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100050454"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100050455"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100049905"
+  }
+ }
+}

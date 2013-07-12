@@ -1,0 +1,44 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19–20",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Cemetery, MMA 1921–1922",
+ "Medium": "Bronze",
+ "Dimensions": "l. 8.4 cm (3 5/16 in)",
+ "Credit Line": "Rogers Fund and Edward S. Harkness Gift, 1922",
+ "Accession Number": "22.1.979",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Fragments",
+  "Bronze",
+  "Tweezers"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100026921,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/22.1.979_EGDP014808.jpg",
+ "related-artworks": [
+  100026922,
+  100026918,
+  100026917,
+  100026919,
+  100027676
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100026921"
+  }
+ }
+}

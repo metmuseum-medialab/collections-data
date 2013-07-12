@@ -1,0 +1,38 @@
+{
+ "Engraver": "Engraved by Georges Tournier (French, active 17th century)",
+ "Date": "17th century",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 14 1/16 x 10 1/4 x 1/16 in. (35.7 x 26.1 x 0.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1966",
+ "Accession Number": "66.702.3(1-13)",
+ "Who": [
+  "Charles Errard le fils",
+  "Georges Tournier"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017007,
+ "related-artworks": [
+  90017773,
+  90017774,
+  90072261,
+  90072260,
+  90072262
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017007"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Object Name": "Tile panel",
+ "Date": "second half 13th century",
+ "Geography": "Iran, Kashan",
+ "Medium": "Stonepaste; molded and luster-painted on an opaque white glaze under a transparent glaze",
+ "Dimensions": "6 x 10 3/4 in. (15.2 x 27.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "H.O. Havemeyer Collection, Gift of Horace Havemeyer, 1940",
+ "Accession Number": "40.181.15",
+ "What": [
+  "Ceramics",
+  "Painting",
+  "Glaze",
+  "Panels",
+  "Tile"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Kashan"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140007662,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP251470.jpg",
+ "related-artworks": [
+  140007661,
+  140003399,
+  140001631,
+  140002461,
+  140002462
+ ],
+ "Provenance": [
+  "H. O. Havemeyer Collection, New York (by 1930–40)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007662"
+  }
+ }
+}

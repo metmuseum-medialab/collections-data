@@ -1,0 +1,46 @@
+{
+ "Artist": "After Carlo Maratti (Italian, Camerano 1625–1713 Rome)",
+ "Date": "18th century",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "sheet 20 1/16 x 15 3/16 in. (51 x 38.6 cm)",
+  "plate 15 15/16 x 11 7/16 in. (40.5 x 29 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.2650",
+ "Who": [
+  "Carlo Maratti",
+  "Robert Strange"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 90075504,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP822645.jpg",
+ "related-artworks": [
+  90032940,
+  90036212,
+  90041892,
+  90083688,
+  90075361
+ ],
+ "Provenance": [
+  "P. & D. Colnaghi & Co., Ltd., London",
+  "Princes of Liechtenstein, Vaduz and Vienna"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90075504"
+  }
+ }
+}

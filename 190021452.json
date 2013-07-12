@@ -1,0 +1,43 @@
+{
+ "Artist": "Philip Henry Delamotte (British, 1821–1889)",
+ "Author": "William Jones (British, 1817–1885)",
+ "Date": "1850s",
+ "Dimensions": "45.3 x 31.8 x 3.4 cm (17 13/16 x 12 1/2 x 1 5/16 in.), closed",
+ "Classification": "Books",
+ "Credit Line": "David Hunter McAlpin Fund, 1952",
+ "Accession Number": "52.640",
+ "Who": [
+  "Philip Henry Delamotte",
+  "Joseph Cundall",
+  "William Jones",
+  "John Richard Walbran"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190021452,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP209882.jpg",
+ "related-artworks": [
+  90000027,
+  190015030,
+  190015032,
+  190021405,
+  190022651
+ ],
+ "Provenance": [
+  "[...]",
+  "Albert E. Marshall",
+  "[Swann Galleries, sale 311, 1952, lot 104]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190021452"
+  }
+ }
+}

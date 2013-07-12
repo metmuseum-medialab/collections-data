@@ -1,0 +1,38 @@
+{
+ "Date": "1905–8",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": "Length 42 in. (106.7 cm)",
+ "Credit Line": "Gift of Mrs. William R. Witherell, 1953",
+ "Accession Number": "C.I.53.72.28a, b",
+ "What": [
+  "Costume",
+  "Wool",
+  "Suits",
+  "Sports clothing",
+  "Beachwear",
+  "Bathing suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80008029,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI53.72.28ab_F.jpg",
+ "related-artworks": [
+  80001393,
+  80001394,
+  80001396,
+  80002891,
+  80002983
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80008029"
+  }
+ }
+}

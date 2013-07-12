@@ -1,0 +1,40 @@
+{
+ "Date": "early 19th century",
+ "Culture": "German or Austrian",
+ "Medium": "Silk, metal thread and chenille on silk",
+ "Dimensions": "H. 17 x W. 25 1/2 inches (43.2 x 64.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "From the Collection of Mrs. Lathrop Colgate Harper, Bequest of Mabel Herbert Harper, 1957",
+ "Accession Number": "57.122.227",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Samplers",
+  "Chenille"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120045848,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/165030.jpg",
+ "related-artworks": [
+  120045847,
+  120045920,
+  120045943,
+  120046061,
+  120046253
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120045848"
+  }
+ }
+}

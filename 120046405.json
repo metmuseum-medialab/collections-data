@@ -1,0 +1,41 @@
+{
+ "Date": "1797",
+ "Culture": "British",
+ "Medium": "Silk on cotton",
+ "Dimensions": "H. 14 3/8 x W. 14 1/8 inches (36.5 x 35.9 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "From the Collection of Mrs. Lathrop Colgate Harper, Bequest of Mabel Herbert Harper, 1957",
+ "Accession Number": "57.122.796",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Cotton",
+  "Needlework",
+  "Embroidery",
+  "Samplers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120046405,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/164838.jpg",
+ "related-artworks": [
+  120046406,
+  120045932,
+  120046407,
+  120045931,
+  120046403
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046405"
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "Date": "ca. 1685–1730",
+ "Classification": "Books",
+ "Accession Number": "57.618",
+ "Who": "Luca Carlevaris",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90042998,
+ "related-artworks": [
+  90002247,
+  90042996,
+  90042997,
+  90042999,
+  90072349
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90042998"
+  }
+ }
+}

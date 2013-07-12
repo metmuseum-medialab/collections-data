@@ -1,0 +1,44 @@
+{
+ "Period": "Late Period",
+ "Dynasty": "Dynasty 26–30",
+ "Date": "664–332 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Saqqara; includes the Serapeum",
+ "Medium": "Linen",
+ "Dimensions": "0.67m x 0.75 m",
+ "Credit Line": "Gift of George F. Baker, 1890",
+ "Accession Number": "90.5.107",
+ "What": [
+  "Fragments",
+  "Linen",
+  "Cloth",
+  "Mummies"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Saqqara"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100005723,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsn1a.jpg",
+ "related-artworks": [
+  100005722,
+  100005724,
+  100005725,
+  100012521,
+  100013216
+ ],
+ "Provenance": [
+  "Previously collection of Emil Brugsch Bey, Cairo. Purchased from Brugsch and donated to the museum in 1890 by George F. Baker, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100005723"
+  }
+ }
+}

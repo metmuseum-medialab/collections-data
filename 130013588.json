@@ -1,0 +1,34 @@
+{
+ "Period": "Late Imperial",
+ "Date": "4th century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": "H. 7 1/16 in. (18 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.115.46",
+ "What": [
+  "Glass",
+  "Flasks"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013588,
+ "related-artworks": [
+  130017214,
+  130000082,
+  130000080,
+  130000075,
+  130000099
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013588"
+  }
+ }
+}

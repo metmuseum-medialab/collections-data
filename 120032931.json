@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "Belgian",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 14 x W. 14 inches (35.6 x 35.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.917",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace",
+  "Handkerchiefs"
+ ],
+ "Where": [
+  "Europe",
+  "Belgium"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120032931,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP18288.jpg",
+ "related-artworks": [
+  120038460,
+  120030201,
+  120030639,
+  120032929,
+  120032934
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032931"
+  }
+ }
+}

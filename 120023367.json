@@ -1,0 +1,50 @@
+{
+ "Decorator": "Decoration in the style of Adam Friedrich von Löwenfinck (1714–1754)",
+ "Date": "ca. 1730–35",
+ "Culture": "German (Meissen)",
+ "Medium": "Hard-paste porcelain, gold",
+ "Dimensions": "D. 2 1/4 in. (5.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+ "Accession Number": "1982.60.359",
+ "Who": [
+  "Meissen Manufactory",
+  "Adam Friedrich von Löwenfinck"
+ ],
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Gold",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Snuff containers",
+  "Snuffboxes"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Saxony",
+  "Meissen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120023367,
+ "gallery-id": 538,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/232972.jpg",
+ "related-artworks": [
+  120021878,
+  120017141,
+  120021880,
+  120021881,
+  120021882
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120023367"
+  }
+ }
+}

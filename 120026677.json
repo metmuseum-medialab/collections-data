@@ -1,0 +1,58 @@
+{
+ "Date": "early 19th century",
+ "Culture": "Italian",
+ "Medium": "Parchment, paint, ivory, gold, silver",
+ "Dimensions": "16 1/2 x 9 in. (41.9 x 22.9 cm)",
+ "Classification": "Fans",
+ "Credit Line": "Gift of Mrs. William Randolph Hearst, 1963",
+ "Accession Number": "63.90.79",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Gold",
+  "Bone",
+  "Ivory",
+  "Fans",
+  "Parchment"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120026677,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/AR1221.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/AR1221.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/AR1222.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120026555"
+   },
+   {
+    "href": "http://scrapi.org/object/120026581"
+   },
+   {
+    "href": "http://scrapi.org/object/120026589"
+   },
+   {
+    "href": "http://scrapi.org/object/120026665"
+   },
+   {
+    "href": "http://scrapi.org/object/120026674"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120026677"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120026677"
+  }
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "Date": "1878",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund",
+ "Accession Number": "51.558.5",
+ "Who": "C. Gourdin",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018740,
+ "related-artworks": [
+  90000521,
+  90000505,
+  90000578,
+  90000770,
+  90000763
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90018740"
+  }
+ }
+}

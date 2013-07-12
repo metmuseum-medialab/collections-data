@@ -1,0 +1,48 @@
+{
+ "Date": "1780–1800",
+ "Geography": "England; Mid-Atlantic, Philadelphia, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Walnut veneer, gilt gesso",
+ "Dimensions": "45 x 24 in. (114.3 x 61 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1909",
+ "Accession Number": "10.125.352",
+ "What": [
+  "Glass",
+  "Gilt",
+  "Wood",
+  "Furniture",
+  "Walnut",
+  "Mirrors",
+  "Gesso",
+  "Veneer",
+  "Looking glasses"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10004961,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/7845.jpg",
+ "related-artworks": [
+  10005633,
+  10004991,
+  10004965,
+  10004997,
+  10004987
+ ],
+ "Provenance": [
+  "H. Eugene Bolles, Boston, until 1909",
+  "[Mrs. Russell Sage, New York, 1909]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10004961"
+  }
+ }
+}

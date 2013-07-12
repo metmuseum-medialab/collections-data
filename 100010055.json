@@ -1,0 +1,41 @@
+{
+ "Period": "Third Intermediate Period–Late Period",
+ "Dynasty": "Dynasty 21–26",
+ "Date": "ca. 1070–525 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Khokha, Tomb of Roma (TT MMA 835), MMA",
+ "Medium": "Faience",
+ "Dimensions": "W. 15 cm",
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "28.3.138a–c",
+ "What": [
+  "Sculpture",
+  "Faience",
+  "Scarabs",
+  "Amulets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100010055,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs26.3.138.jpg",
+ "related-artworks": [
+  100008419,
+  100008549,
+  100010116,
+  100017091,
+  100017092
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100010055"
+  }
+ }
+}

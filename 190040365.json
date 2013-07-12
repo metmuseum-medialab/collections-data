@@ -1,0 +1,39 @@
+{
+ "Date": "1976",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "Image 20.3 x 25.4 cm (8 x 10 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Kerstin and Robert Adams, 2004",
+ "Accession Number": "2004.543.5",
+ "Rights and Reproduction": "© Nicholas Nixon",
+ "Who": "Nicholas Nixon",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190040365,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/Nixon2004.543.5.jpg",
+ "related-artworks": [
+  190015404,
+  190017659,
+  190017660,
+  190017664,
+  190017665
+ ],
+ "Provenance": [
+  "Robert Adams"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190040365"
+  }
+ }
+}

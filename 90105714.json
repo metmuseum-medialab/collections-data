@@ -1,0 +1,47 @@
+{
+ "Date": "1910",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 1 7/16 × 2 3/4 in. (3.7 × 7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 314, E32.42",
+ "Who": "The Philadelphia Confections Co.",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90105714,
+ "Description": "Trade cards from the \"Zoo Fish\" series (E32), issued in 1910 by The Philadelphia Confections Company to promote Zoo Caramels.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90105824"
+   },
+   {
+    "href": "http://scrapi.org/object/90105508"
+   },
+   {
+    "href": "http://scrapi.org/object/90105507"
+   },
+   {
+    "href": "http://scrapi.org/object/90105509"
+   },
+   {
+    "href": "http://scrapi.org/object/90105500"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90105714"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90105714"
+  }
+ }
+}

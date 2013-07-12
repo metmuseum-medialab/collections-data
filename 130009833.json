@@ -1,0 +1,40 @@
+{
+ "Period": "Early Imperial",
+ "Date": "1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": "H. 1 5/8 in. (4.1 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.108",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles",
+  "Miniature",
+  "Perfume bottles"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Italian Peninsula, 1–500A.D.",
+  "Italian Peninsula, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130009833,
+ "related-artworks": [
+  130000056,
+  130000053,
+  130000055,
+  130000057,
+  130000063
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009833"
+  }
+ }
+}

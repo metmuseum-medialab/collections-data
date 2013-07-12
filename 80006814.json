@@ -1,0 +1,36 @@
+{
+ "Date": "1874",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of the Misses Faith and Delia Leavens, 1941",
+ "Accession Number": "C.I.41.58.1a, b",
+ "Who": "James McCreary  Co., .Y.",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80006814,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.41.58.1ab_F.jpg",
+ "related-artworks": [
+  80002794,
+  80033979,
+  80001060,
+  80001241,
+  80001733
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80006814"
+  }
+ }
+}

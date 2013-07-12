@@ -1,0 +1,52 @@
+{
+ "Date": "1911",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 5/8 × 1 1/2 in. (6.7 × 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 246, T212.240",
+ "Who": "American Tobacco Company",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90109598,
+ "related-artworks": [
+  "http://scrapi.org/object/90081161",
+  "http://scrapi.org/object/90081163",
+  "http://scrapi.org/object/90081171",
+  "http://scrapi.org/object/90081148",
+  "http://scrapi.org/object/90081169"
+ ],
+ "related-images": [],
+ "Description": "Trade cards from the \"Obak Baseball Players\" series (T212), distributed by the California branch of the American Tobacco Company to promote their Obak Mouthpiece Cigarettes brand. The set was released in three separate subsets, one per year from 1909 through 1911. This card is from subset 3, released in 1911.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90081161"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90081163"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90081171"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90081148"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90081169"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90109598"
+  }
+ }
+}

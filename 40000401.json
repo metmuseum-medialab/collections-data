@@ -1,0 +1,46 @@
+{
+ "Date": "dated 1558",
+ "Culture": "German",
+ "Medium": "Etched steel, wood, textile",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.371",
+ "What": [
+  "Metal",
+  "Textiles",
+  "Etching",
+  "Arms",
+  "Iron and iron alloy",
+  "Edged weapons",
+  "Iron alloy",
+  "Steel",
+  "Staff weapons",
+  "Spears"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40000401,
+ "gallery-id": 371,
+ "related-artworks": [
+  40000406,
+  40000484,
+  40000555,
+  40002940,
+  40004871
+ ],
+ "Description": "This spear was carried by the bodyguards of the Holy Roman Emperor Ferdinand I (reigned 1558–64).",
+ "Provenance": [
+  "Vienna, Austria."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000401"
+  }
+ }
+}

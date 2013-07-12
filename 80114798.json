@@ -1,0 +1,32 @@
+{
+ "Date": "1900–1910",
+ "Culture": "American",
+ "Medium": "Wool",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. J. W. Post, 1944",
+ "Accession Number": "2009.300.6527a, b",
+ "What": [
+  "Costume",
+  "Wool",
+  "Leggings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80114798,
+ "related-artworks": [
+  80114578,
+  80116314,
+  80032612,
+  80030241,
+  80116536
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80114798"
+  }
+ }
+}

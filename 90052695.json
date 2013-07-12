@@ -1,0 +1,42 @@
+{
+ "Artist": "Herman Stahmer (American, 1857–1894)",
+ "Date": "1892",
+ "Medium": "Pen and black ind watercolor and gouache",
+ "Dimensions": "Sheet 5 13/16 x 9 3/8 in. (14.8 x 23.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of William Brewster, 1923",
+ "Accession Number": "23.112.982",
+ "Who": [
+  "Brewster & Co.",
+  "Herman Stahmer"
+ ],
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90052695,
+ "related-artworks": [
+  90034786,
+  90034793,
+  90051741,
+  90051744,
+  90051746
+ ],
+ "Provenance": [
+  "Donor: William Brewster"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90052695"
+  }
+ }
+}

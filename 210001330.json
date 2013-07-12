@@ -1,0 +1,37 @@
+{
+ "Date": "1959",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "H. 70, W. 68 inches",
+  "(177.8 x 172.7 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mr. and Mrs. Samuel Kootz, 1973",
+ "Accession Number": "1973.214.3",
+ "Who": "Raymond Parker",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210001330,
+ "related-artworks": [
+  210001977,
+  210000746,
+  210000931,
+  210001106
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210001330"
+  }
+ }
+}

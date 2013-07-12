@@ -1,0 +1,37 @@
+{
+ "Date": "1800–1941",
+ "Culture": "Philippine",
+ "Medium": "abaca",
+ "Dimensions": "Length 14 1/4 in. (36.2 cm)",
+ "Credit Line": "Gift of Mrs. Van S. Merle-Smith, 1941",
+ "Accession Number": "C.I.41.110.48",
+ "What": [
+  "Plant fiber",
+  "Hemp",
+  "Abaca"
+ ],
+ "Where": [
+  "Asia",
+  "Philippines"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1800–1900 A.D.",
+  "Southeast Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80007239,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI41.110.48_B.jpg",
+ "related-artworks": [
+  80007238,
+  80007241,
+  80007243,
+  80061397,
+  80062864
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007239"
+  }
+ }
+}

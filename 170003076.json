@@ -1,0 +1,46 @@
+{
+ "Date": "14th century",
+ "Geography": "Made in Venice?, Italy",
+ "Culture": "Italian",
+ "Medium": "Silk, gold thread",
+ "Dimensions": [
+  "Overall 6 5/16 × 4 1/8 in. (16.1 × 10.5 cm)",
+  "Storage (Mat) 13 × 8 1/2 in. (33 × 21.6 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.1024",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Gold",
+  "Woven",
+  "Brocade"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000–1400 A.D.",
+ "id": 170003076,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf09-50-1024s1.jpg",
+ "related-artworks": [
+  170003149,
+  170003148,
+  170003071,
+  170008098,
+  170008101
+ ],
+ "Provenance": [
+  "Friedrich Fischbach, Wiesbaden, Germany (sold 1909)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170003076"
+  }
+ }
+}

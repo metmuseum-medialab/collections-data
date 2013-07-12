@@ -1,0 +1,39 @@
+{
+ "Period": "Second Intermediate Period",
+ "Dynasty": "Late Dynasty 13-early Dynasty 17",
+ "Date": "ca. 1700 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Tomb of Iuy (MMA 61), On surface near tomb, MMA 1922–1923",
+ "Medium": "Limestone",
+ "Dimensions": "H. 16.3 cm (6 7/16 in.)",
+ "Credit Line": "Rogers Fund, 1923",
+ "Accession Number": "23.3.38",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Statues"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100014517,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs23.3.38a.jpg",
+ "related-artworks": [
+  100000736,
+  100000739,
+  100001177,
+  100003354,
+  100004246
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100014517"
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "Date": "1891",
+ "Medium": "Oil on canvas",
+ "Dimensions": "25 3/4 x 36 1/4 in. (65.4 x 92.1 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.109",
+ "Who": "Claude Monet",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "Claude Monet (1840–1926)",
+  "The Transformation of Landscape Painting in France",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110001570,
+ "gallery-id": 819,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT1035.jpg",
+ "related-artworks": [
+  110001571,
+  110001574,
+  110001572,
+  110001575,
+  110001573
+ ],
+ "Provenance": [
+  "Potter Palmer, Chicago (until 1893",
+  "sold on January 24, 1893 to Durand-Ruel)",
+  "[Durand-Ruel, New York, 1893–94",
+  "stock no. 1016",
+  "sold on January 16, 1894 to Havemeyer]",
+  "Mr. and Mrs. H. O. Havemeyer, New York (1894–his d. 1907)",
+  "Mrs. H. O. (Louisine W.) Havemeyer, New York (1907–d. 1929",
+  "cat., 1931, pp. 158–59, ill., as \"Landscape—Meules, effet de neige\")"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001570"
+  }
+ }
+}

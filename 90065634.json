@@ -1,0 +1,47 @@
+{
+ "Date": "n.d.",
+ "Medium": "Engraving",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Henry Walters, 1917",
+ "Accession Number": "17.37.111",
+ "Who": "Albrecht Dürer",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Reformation",
+  "Arms and Armor – Common Misconceptions and Frequently Asked Questions",
+  "Jan Gossart (ca. 1478–1532) and His Circle",
+  "Europe and the Age of Exploration",
+  "Portraiture in Renaissance and Baroque Europe",
+  "Rembrandt van Rijn (1606–1669) Prints",
+  "Albrecht Dürer (1471–1528)",
+  "Anselm Kiefer (born 1945)",
+  "The Decoration of Arms and Armor",
+  "The Printed Image in the West History and Techniques",
+  "The Rediscovery of Classical Antiquity",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90065634,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP815381.jpg",
+ "related-artworks": [
+  90003217,
+  90003218,
+  90003220,
+  90003208,
+  90003209
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90065634"
+  }
+ }
+}

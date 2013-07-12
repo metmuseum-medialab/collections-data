@@ -1,0 +1,41 @@
+{
+ "Date": "1750–1850",
+ "Culture": "American",
+ "Medium": "Cotton, woven and embroidered",
+ "Dimensions": "24 x 38 in. (61 x 96.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Albert Gallatin, 1917",
+ "Accession Number": "17.107.9",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Cotton",
+  "Woven",
+  "Needlework",
+  "Embroidery"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The United States, 1600–1800 A.D.",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10014076,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/36229.jpg",
+ "related-artworks": [
+  10015501,
+  10013990,
+  10013993,
+  10014004,
+  10014375
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014076"
+  }
+ }
+}

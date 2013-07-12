@@ -1,0 +1,45 @@
+{
+ "Period": "Archaic",
+ "Date": "6th century B.C.",
+ "Culture": "Lydian",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 4 1/8 in. (10.5 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Gift of The American Society for the Excavation of Sardis, 1926",
+ "Accession Number": "26.164.27",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Lydia"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey",
+  "Lydia"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013080,
+ "gallery-id": 152,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP109256.jpg",
+ "related-artworks": [
+  130009564,
+  130013124,
+  130018357,
+  130009299,
+  130009302
+ ],
+ "Description": "Great numbers of these jars have been found at Sardis as well as around the Mediterranean. Because they seem to have been a specialty of Lydia, modern scholars call this type of vase a lydion. Such jars probably contained baccaris, a perfume for which Sardis was noted in antiquity.",
+ "Provenance": [
+  "Excavated at Sardis"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013080"
+  }
+ }
+}

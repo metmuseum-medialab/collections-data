@@ -1,0 +1,47 @@
+{
+ "Object Name": "Fragment",
+ "Date": "6th–7th century",
+ "Geography": "Egypt, Bawit",
+ "Medium": "Limestone",
+ "Dimensions": [
+  "H. 21 11/16 in. (55.1 cm)",
+  "W. 13 3/16 in. (33.5 cm)",
+  "D. 3 3/16 in. (8.1 cm)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.176.3",
+ "What": [
+  "Sculpture",
+  "Fragments",
+  "Limestone"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Bawiti"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140014406,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/10.176.3.JPG",
+ "related-artworks": [
+  140003329,
+  140011059,
+  140011321,
+  140014410,
+  140014408
+ ],
+ "Provenance": [
+  "[ Michael Casira, Cairo, until 1910",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140014406"
+  }
+ }
+}

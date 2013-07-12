@@ -1,0 +1,40 @@
+{
+ "Date": "1666",
+ "Culture": "Italian (Roman)",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 1 5/8 in. (41 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Bequest of Rupert L. Joseph, 1959",
+ "Accession Number": "60.55.25",
+ "Who": "Gasparo Morone",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Rome"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120017789,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/171145.jpg",
+ "related-artworks": [
+  120017787,
+  120017788,
+  120012717,
+  40003646
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120017789"
+  }
+ }
+}

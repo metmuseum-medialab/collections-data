@@ -1,0 +1,32 @@
+{
+ "Culture": "Roman",
+ "Medium": "Glass, blue",
+ "Dimensions": "Other 5/16 x 3/8 x 1/16 in. (0.8 x 1 x 0.2 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.160.894",
+ "What": [
+  "Sculpture",
+  "Glass",
+  "Gems",
+  "Intaglios"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130014478,
+ "related-artworks": [
+  130009766,
+  130009769,
+  130009773,
+  130009778,
+  130009779
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130014478"
+  }
+ }
+}

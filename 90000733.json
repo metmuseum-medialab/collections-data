@@ -1,0 +1,60 @@
+{
+ "Date": "19th century",
+ "Medium": "Graphite, pen and bown ink (recto); graphite (verso)",
+ "Dimensions": "8 7/16 x 11 in.  (21.4 x 28 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Karen B. Cohen Gift, 1989",
+ "Accession Number": "1989.286.1",
+ "Who": "Pierre Jean David d'Angers",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90000733,
+ "related-artworks": [
+  "http://scrapi.org/object/90000734",
+  "http://scrapi.org/object/90000735",
+  "http://scrapi.org/object/20012559",
+  "http://scrapi.org/object/90051573",
+  "http://scrapi.org/object/120001706"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP805795.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/1989.286.1.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/DP805796.jpg"
+ ],
+ "Provenance": [
+  "Vendor: Eric G. Carlson"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000734"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000735"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/20012559"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90051573"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120001706"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90000733"
+  }
+ }
+}

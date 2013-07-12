@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1973",
+ "Culture": "French",
+ "Medium": "a-r) silk; (s, t) metal",
+ "Dimensions": [
+  "a) Length at CB 23 1/4 in. (59.1 cm)",
+  "b) Length at CB 20 1/2 in. (52.1 cm)",
+  "e) Length at CB 3 in. (7.6 cm)",
+  "g) Length at CB 20 in. (50.8 cm)"
+ ],
+ "Credit Line": "Gift of Marti Stevens, 2003",
+ "Accession Number": "2003.77.3a–t",
+ "Who": "House of Chanel",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Suits"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Dressing for the Cocktail Hour",
+  "Costume in The Metropolitan Museum of Art",
+  "Gabrielle \"Coco\" Chanel (1883–1971) and the House of Chanel",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80009932,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2003.77.3a–dfg_F.jpg",
+ "related-artworks": [
+  80004907,
+  80004918,
+  80027649,
+  80028500,
+  80028501
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80009932"
+  }
+ }
+}

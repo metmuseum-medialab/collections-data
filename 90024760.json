@@ -1,0 +1,39 @@
+{
+ "Date": "1794",
+ "Medium": "Watercolor over graphite",
+ "Dimensions": "sheet 7 5/16 x 10 5/8 in. (18.5 x 27 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Susan H. Seidel Gift, 2002",
+ "Accession Number": "2002.424",
+ "Who": "John Glover",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024760,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804273.jpg",
+ "related-artworks": [
+  90096885,
+  90073988,
+  90008767
+ ],
+ "Provenance": [
+  "Spink-Leger Galleries, London, exh. March-April, 2002, no. 27",
+  "Christie's, London, June 6, 2002, lot 56",
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024760"
+  }
+ }
+}

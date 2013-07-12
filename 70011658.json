@@ -1,0 +1,39 @@
+{
+ "Date": "15th century",
+ "Geography": "Made in Froville, Lorraine, France",
+ "Culture": "French",
+ "Medium": "Limestone",
+ "Dimensions": "(each) H. 6'10-11/16\",  W. (center to center) 36-1/4 in.",
+ "Classification": "Installations",
+ "Credit Line": "Gift of George Blumenthal, 1935",
+ "Accession Number": "35.35.7",
+ "What": "Limestone",
+ "Where": [
+  "Europe",
+  "France",
+  "Lorraine",
+  "Froville"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011658,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi35-35-5-13.jpg",
+ "related-artworks": [
+  70011656,
+  70011663,
+  70011657,
+  70011664,
+  70011659
+ ],
+ "Provenance": [
+  "from the cloister of the Benedictine priory at FrovilleBaron Jean de L'Espée (owner of the priory at Froville), until 1920",
+  "George Blumenthal ,1920-1935"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011658"
+  }
+ }
+}

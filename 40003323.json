@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1630",
+ "Culture": "German (Solingen)",
+ "Classification": "Swords",
+ "Credit Line": "Rogers Fund, 1904",
+ "Accession Number": "04.3.1",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Rapiers"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Düsseldorf",
+  "Solingen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40003323,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/6005.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40001253"
+   },
+   {
+    "href": "http://scrapi.org/object/40001434"
+   },
+   {
+    "href": "http://scrapi.org/object/40001436"
+   },
+   {
+    "href": "http://scrapi.org/object/40006317"
+   },
+   {
+    "href": "http://scrapi.org/object/40012747"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40003323"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40003323"
+  }
+ }
+}

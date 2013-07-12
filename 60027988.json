@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1769",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "Hosoe; 12 x 5 3/4 in. (30.5 x 14.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Howard Mansfield Collection, Purchase, Rogers Fund, 1936",
+ "Accession Number": "JP2408",
+ "Who": "Ippitsusai Bunchō",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60027988,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP114870.jpg",
+ "related-artworks": [
+  60001251,
+  60026185,
+  60026296,
+  60026297,
+  60026358
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60027988"
+  }
+ }
+}

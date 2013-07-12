@@ -1,0 +1,41 @@
+{
+ "Date": "1836",
+ "Culture": "French",
+ "Medium": "bronze, cast - single",
+ "Dimensions": "Dia 6 5/8 in. (168 mm)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Samuel P. Avery, 1898",
+ "Accession Number": "98.7.35",
+ "Who": "Pierre Jean David d'Angers",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes",
+  "Medallions"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120002794,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/31578.jpg",
+ "related-artworks": [
+  120002824,
+  120027123,
+  120048959,
+  120002764,
+  120002788
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120002794"
+  }
+ }
+}

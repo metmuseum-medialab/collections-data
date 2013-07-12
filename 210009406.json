@@ -1,0 +1,48 @@
+{
+ "Manufacturer": "Georg Jensen (Danish, Rådvad 1866–1935 Hellerup)",
+ "Date": "post WWII",
+ "Medium": "Silver",
+ "Dimensions": [
+  "L. 7-15/16 in.",
+  "(20.2 cm)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, Edward C. Moore Jr. Gift, 1961",
+ "Accession Number": "61.7.18",
+ "Who": [
+  "Georg Jensen",
+  "Henning Koppel"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Flatware",
+  "Forks"
+ ],
+ "Where": [
+  "Europe",
+  "Denmark"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009406,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf61.7.18.jpg",
+ "related-artworks": [
+  210009409,
+  210009407,
+  210009404,
+  210009410,
+  210009405
+ ],
+ "Provenance": [
+  "Danish Society of Arts & Crafts & Industrial Design"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009406"
+  }
+ }
+}

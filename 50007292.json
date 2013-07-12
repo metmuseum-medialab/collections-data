@@ -1,0 +1,46 @@
+{
+ "Date": "12th–9th century BCE",
+ "Geography": "Mexico, Mesoamerica",
+ "Culture": "Tlatilco",
+ "Medium": "Ceramic",
+ "Dimensions": [
+  "Height 10-1/4 in. (26 cm)",
+  "Diameter 8 1/4 in."
+ ],
+ "Classification": "Ceramics-Containers",
+ "Credit Line": "Gift of Arthur M. Bullowa, 1983",
+ "Accession Number": "1983.497.9",
+ "Who": "Tlatilco",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Bottles"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mesoamerica and Central America, 2000–1000 B.C.",
+  "Mexico, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50007292,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1983.497.9.JPG",
+ "related-artworks": [
+  50007293,
+  50007294,
+  50002935,
+  50003296,
+  50003175
+ ],
+ "Provenance": [
+  "Arthur M. Bullowa, New York, until 1983"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50007292"
+  }
+ }
+}

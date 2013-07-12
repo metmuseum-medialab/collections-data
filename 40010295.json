@@ -1,0 +1,32 @@
+{
+ "Date": "19th century",
+ "Culture": "Turkish",
+ "Classification": "Knives",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.685a, b",
+ "What": [
+  "Knives",
+  "Cases",
+  "Sheaths",
+  "Scabbards"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "id": 40010295,
+ "related-artworks": [
+  40010179,
+  40009921,
+  40010147,
+  40010150,
+  40010180
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40010295"
+  }
+ }
+}

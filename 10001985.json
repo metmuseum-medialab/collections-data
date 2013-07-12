@@ -1,0 +1,46 @@
+{
+ "Date": "1830–40",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Blown lead glass",
+ "Dimensions": "H. 6 13/16 in. (17.3 cm); Diam. 2 9/16 in. (6.5 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mr. and Mrs. William Katzenbach, 1969",
+ "Accession Number": "69.205.11",
+ "What": [
+  "Metal",
+  "Glass",
+  "Drinking vessels",
+  "Blown glass",
+  "Lead",
+  "Drinking glasses",
+  "Wine glasses",
+  "Champagne glasses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001985,
+ "gallery-id": 774,
+ "related-artworks": [
+  10001984,
+  10001990,
+  10001991,
+  10001992,
+  10001993
+ ],
+ "Provenance": [
+  "Samuel Foot",
+  "Mr. and Mrs. William Katzenbach, Snedens Landing, Palisades, New York, until 1969"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001985"
+  }
+ }
+}

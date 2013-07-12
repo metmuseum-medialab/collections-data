@@ -1,0 +1,48 @@
+{
+ "Date": "4th–3rd century BCE",
+ "Geography": "Peru",
+ "Culture": "Paracas",
+ "Medium": "Ceramic, slip",
+ "Dimensions": [
+  "Overall 3 in. (7.62 cm)",
+  "Other 7 5/8 in. (19.41 cm)"
+ ],
+ "Classification": "Ceramics-Containers",
+ "Credit Line": "Gift of Nathan Cummings, 1962",
+ "Accession Number": "62.266.54",
+ "Who": [
+  "Early horizon",
+  "Paracas"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Bowls",
+  "Slip"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50000913,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/62.266.54.JPG",
+ "related-artworks": [
+  50000914,
+  50001010,
+  50001223,
+  50001225,
+  50001230
+ ],
+ "Provenance": [
+  "Nathan Cummings, Chicago, until 1962"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000913"
+  }
+ }
+}

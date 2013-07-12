@@ -1,0 +1,46 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Cloisonné enamel, copper, and bronze",
+ "Dimensions": "H. 15 1/2 in. (39.4 cm); W. 8 3/4 in. (22.2 cm)",
+ "Classification": "Cloisonné",
+ "Credit Line": "Bequest of Stephen Whitney Phoenix, 1881",
+ "Accession Number": "81.1.625a, b",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Copper",
+  "Enamels",
+  "Cloisonné",
+  "Incense burners"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "id": 60007864,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/81_1_625ab_O1.jpg",
+ "related-artworks": [
+  60007971,
+  60008006,
+  60007865,
+  60008007,
+  60008022
+ ],
+ "Description": "Vessels from China's ancient Bronze Age cultures, such as the Shang (ca. 1600–ca. 1050 B.C.) and Zhou (ca. 1046–256 B.C.) dynasties, often served as prototypes for later metalwork, particularly those with ritual or ceremonial functions. The shape of this incense burner is based on an archaic tripod vessel known as a ding, which was used for holding or serving food and other offerings. The floral scrolls in the background are embellished by the raised gilt-bronze band at the center, which is decorated with a pattern loosely based on the taotie, a masklike design ubiquitous in the imagery of the Bronze Age.",
+ "Provenance": [
+  "Stephen Whitney Phoenix , New York (until d. 1881)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60007864"
+  }
+ }
+}

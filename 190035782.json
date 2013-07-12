@@ -1,0 +1,55 @@
+{
+ "Author": "Aiden Brady (American)",
+ "Date": "1992",
+ "Medium": "Book",
+ "Dimensions": "28.6 x 20.3 x 2.5 cm (11.25 x 8 x 1 in. )",
+ "Classification": "Books",
+ "Credit Line": "Purchase, Peter Hay Halpert Gift, 1998",
+ "Accession Number": "1998.313",
+ "Rights and Reproduction": "© S. Mark Beard",
+ "Who": [
+  "Mark Beard",
+  "Aiden Brady"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190035782,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP263947.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90043285",
+  "http://scrapi.org/object/190011331",
+  "http://scrapi.org/object/190011770",
+  "http://scrapi.org/object/190011836"
+ ],
+ "related-images": [],
+ "Description": "This book documents the artist’s experience of living with Aiden, a male prostitute he met while working in London as a set designer. It consists of Beard’s text, his intimate—sometimes explicit—photographs of Aiden, and Aiden’s own words, interwoven Rashomon-like to reveal the coinciding ties and disconnects between sex and desire.",
+ "Provenance": [
+  "From the artist, through Wessel O'Connor gallery."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90043285"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011331"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011770"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011836"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190035782"
+  }
+ }
+}

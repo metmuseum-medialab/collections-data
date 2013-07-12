@@ -1,0 +1,38 @@
+{
+ "Date": "1965–75",
+ "Culture": "American",
+ "Medium": "fur",
+ "Dimensions": [
+  "Length at CB (a) 40 1/2 in. (102.9 cm)",
+  "Length (b) 50 in. (127 cm)"
+ ],
+ "Credit Line": "Gift of Julian W. Glass, Jr., 1987",
+ "Accession Number": "1987.132.1a, b",
+ "Who": "Esther Dorothy",
+ "What": [
+  "Costume",
+  "Hair",
+  "Coats",
+  "Fur"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80057403,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1987.132.1ab_F.jpg",
+ "related-artworks": [
+  80057404,
+  80038602,
+  80049424
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80057403"
+  }
+ }
+}

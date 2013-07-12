@@ -1,0 +1,44 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1353 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Malqata, Palace of Amenhotep III",
+ "Medium": "Pottery, paint",
+ "Dimensions": "h. 4.1 cm (1 5/8 in); w. 6.8 cm (2 11/16 in)",
+ "Credit Line": "Gift of James H. Schwartz, 2006",
+ "Accession Number": "2006.82.13",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Fragments",
+  "Pottery"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100035557,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/2006.82.13.jpg",
+ "related-artworks": [
+  100004604,
+  100012514,
+  100035558,
+  100035560,
+  100035561
+ ],
+ "Provenance": [
+  "Excavated by the museum, acquired by the museum in the division of finds before 1936. Not accessioned. Released in the 1960s. Donated to the museum by Dr. James H. Schwartz, who had received from a friend who purchased it at that time."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100035557"
+  }
+ }
+}

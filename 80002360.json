@@ -1,0 +1,36 @@
+{
+ "Date": "1978",
+ "Culture": "American",
+ "Medium": "Lucite",
+ "Dimensions": "Length 4 in. (10.2 cm)",
+ "Credit Line": "Gift of Patricia von Musulin, 1999",
+ "Accession Number": "1999.59.2",
+ "Who": "Patricia von Musulin",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Bracelets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80002360,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1999.59.2.JPG",
+ "related-artworks": [
+  80001001,
+  80002359,
+  80002366,
+  80002373,
+  80002362
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002360"
+  }
+ }
+}

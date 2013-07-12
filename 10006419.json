@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1838",
+ "Geography": "Mid-Atlantic, Philadelphia, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Porcelain",
+ "Dimensions": "Diam. 6 3/16 in. (15.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1963",
+ "Accession Number": "63.88.4",
+ "Who": "Tucker  Hemphill",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Plates"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Philadelphia"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10006419,
+ "gallery-id": 774,
+ "related-artworks": [
+  10006418,
+  10006420,
+  10006416,
+  10006417,
+  10006421
+ ],
+ "Provenance": [
+  "Mrs. K. T. Hilliard, Ocean City, New Jersey and Mrs. C. R. Laubenfels, Glendale, California, until 1963"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006419"
+  }
+ }
+}

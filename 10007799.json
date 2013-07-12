@@ -1,0 +1,35 @@
+{
+ "Date": "18th–19th century",
+ "Medium": "Iron",
+ "Dimensions": "H. 7 1/4 in. (18.4 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1909",
+ "Accession Number": "10.125.599w",
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Iron",
+  "Cookware",
+  "Skillets"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "id": 10007799,
+ "gallery-id": 709,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/251417.jpg",
+ "related-artworks": [
+  10007800,
+  10007638,
+  10025171,
+  10000050,
+  10000051
+ ],
+ "Provenance": [
+  "H. Eugene Bolles, Boston, until 1909",
+  "[Mrs. Russell Sage, New York, 1909]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10007799"
+  }
+ }
+}

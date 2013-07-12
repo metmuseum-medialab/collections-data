@@ -1,0 +1,50 @@
+{
+ "Publisher": "Robert Sayer (London, 1725–1794)",
+ "Date": "February 1725",
+ "Medium": "Etching and engraving; fourth state of four",
+ "Dimensions": [
+  "plate 10 7/16 x 13 7/8 in. (26.5 x 35.2 cm)",
+  "sheet 11 7/16 x 14 11/16 in. (29.1 x 37.3 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Sarah Lazarus, 1891",
+ "Accession Number": "91.1.95",
+ "Who": [
+  "William Hogarth",
+  "Robert Sayer"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Portrait Painting in England, 1600–1800",
+  "The Kilt",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90075603,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP826944.jpg",
+ "related-artworks": [
+  90036163,
+  90037738,
+  90049367,
+  90049368,
+  90049369
+ ],
+ "Provenance": [
+  "Donor: Sarah Lazarus , 1891"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90075603"
+  }
+ }
+}

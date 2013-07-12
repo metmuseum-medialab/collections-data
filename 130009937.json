@@ -1,0 +1,35 @@
+{
+ "Period": "Early to Mid Imperial",
+ "Date": "1st–2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": "H. 4 3/16 in. (10.7 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.213",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Jugs"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009937,
+ "related-artworks": [
+  130000156,
+  130000166,
+  130000167,
+  130000169,
+  130000168
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009937"
+  }
+ }
+}

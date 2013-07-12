@@ -1,0 +1,46 @@
+{
+ "Publisher": "Mary Darly (British, 1760–1781)",
+ "Date": "July 1, 1771",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 5 7/8 x 4 5/16 in. (14.9 x 10.9 cm)",
+  "sheet 8 13/16 x 5 7/16 in. (22.4 x 13.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 2011",
+ "Accession Number": "2011.88",
+ "Who": [
+  "Matthew Darly",
+  "Mary Darly",
+  "Sir Henry William Bunbury"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90070221,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP243015.jpg",
+ "related-artworks": [
+  90067066,
+  90070219,
+  90067094,
+  90067067,
+  90070212
+ ],
+ "Provenance": [
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90070221"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 2003",
+ "Culture": "British",
+ "Medium": "synthetic, feathers, elastic, plastic, silk",
+ "Dimensions": [
+  "Height 16 in. (40.6 cm)",
+  "Diameter 4 3/4 in. (12.1 cm)"
+ ],
+ "Credit Line": "Gift of Caroline Rennolds Milbank, 2004",
+ "Accession Number": "2004.153.1",
+ "Who": "Philip Treacy",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Plastic",
+  "Feather"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80028655,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2004.153.1.jpg",
+ "related-artworks": [
+  80000142,
+  80066467,
+  80066468,
+  80066463,
+  80109556
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80028655"
+  }
+ }
+}

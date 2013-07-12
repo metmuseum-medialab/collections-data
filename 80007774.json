@@ -1,0 +1,37 @@
+{
+ "Date": "1800–1941",
+ "Culture": "Indian",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Agnes Clarke, 1941",
+ "Accession Number": "C.I.41.124.46",
+ "What": [
+  "Costume",
+  "Silk",
+  "Blouses"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia and the Himalayan Region, 1800–1900 A.D.",
+  "South Asia and the Himalayan Region, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80007774,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI41.124.46_F.jpg",
+ "related-artworks": [
+  80007775,
+  80007784,
+  80007778,
+  80007791,
+  80007792
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007774"
+  }
+ }
+}

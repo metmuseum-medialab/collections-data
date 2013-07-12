@@ -1,0 +1,36 @@
+{
+ "Date": "18th century",
+ "Medium": "Engravings",
+ "Dimensions": "Overall 6 5/16 x 5 5/16 x 13/16 in. (16 x 13.5 x 2 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1964",
+ "Accession Number": "64.654.2",
+ "Who": "Anonymous, German, 18th century",
+ "What": [
+  "Prints",
+  "Books",
+  "Intaglio prints",
+  "Engravings"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90027356,
+ "related-artworks": [
+  90018136,
+  90010969,
+  90010973,
+  90008627,
+  90002713
+ ],
+ "Provenance": [
+  "Paul Éluard (French, Saint-Denis 1895–1952 Charenton-le-Pont)book plate: \"Après moi le Sommeil\"",
+  "Knight of Morar",
+  "Vendor: Lucien Goldschmidt"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90027356"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "1662–1722",
+ "Medium": "Porcelain with \"powder-blue\" glaze, painted in overglaze gilt",
+ "Dimensions": "Height  5 7/8 in. (15cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.1705",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Gilt",
+  "Glaze",
+  "Overglazing",
+  "Teapots"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Robert Lehman Collection",
+ "MetPublications": "Search for related Met publications",
+ "id": 150007841,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/SLP1705_1704-1.jpg",
+ "related-artworks": [
+  150008192,
+  150008230,
+  150008188,
+  150007681,
+  150007682
+ ],
+ "Provenance": [
+  "(?) J.P. Morgan"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150007841"
+  }
+ }
+}

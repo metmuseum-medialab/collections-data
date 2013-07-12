@@ -1,0 +1,56 @@
+{
+ "Date": "1885",
+ "Medium": "Etching, drypoint, and aquatint on laid paper (Van Gelder); sixth state of six",
+ "Dimensions": [
+  "sheet 11 1/8 x 17 3/4 in. (28.3 x 45.1 cm)",
+  "plate 6 1/8 x 9 7/16 in. (15.6 x 23.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of W.L. Andrews, 1917",
+ "Accession Number": "17.70.2",
+ "Who": "Camille Pissarro",
+ "What": [
+  "Prints",
+  "Etching",
+  "Paper",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints",
+  "Aquatint",
+  "Laid paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Claude Monet (1840–1926)",
+  "Paul Cézanne (1839–1906)",
+  "Georges Seurat (1859–1891) and Neo–Impressionism",
+  "Impressionism Art and Modernity",
+  "Vincent van Gogh (1853–1890) The Drawings",
+  "The Print in the Nineteenth Century",
+  "The Transformation of Landscape Painting in France",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90026684,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821713.jpg",
+ "related-artworks": [
+  90026687,
+  90026685,
+  90026714,
+  90026695,
+  90026696
+ ],
+ "Provenance": [
+  "Donor: William Loring Andrews (American, 1837–1920)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026684"
+  }
+ }
+}

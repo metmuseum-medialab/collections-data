@@ -1,0 +1,41 @@
+{
+ "Period": "Eastern Zhou dynasty (770–256 B.C.)",
+ "Culture": "China",
+ "Medium": "Grey earthenware",
+ "Dimensions": "H. 8 3/4 in. (22.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Dr. Benjamin Pasamanick and Dr. Hilda Knobloch, 1972",
+ "Accession Number": "1972.275.2",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Earthenware",
+  "Jars"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000 B.C.–1 A.D.",
+  "Central and North Asia, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60021299,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1972_275_2_199237.jpg",
+ "related-artworks": [
+  60012099,
+  60009837,
+  60009801,
+  60012101,
+  60019788
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60021299"
+  }
+ }
+}

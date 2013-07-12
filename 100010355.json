@@ -1,0 +1,39 @@
+{
+ "Period": "Late Period",
+ "Dynasty": "Dynasty 26–30",
+ "Date": "664–332 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Glass",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.2608",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Vases"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "id": 100010355,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs17.194.2608a.jpg",
+ "related-artworks": [
+  100009446,
+  100009463,
+  100010356,
+  100010813,
+  100009464
+ ],
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100010355"
+  }
+ }
+}

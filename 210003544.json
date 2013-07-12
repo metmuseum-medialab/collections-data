@@ -1,0 +1,50 @@
+{
+ "Date": "1912",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "H. 28-1/2, W. 39-1/2 inches",
+  "(72.4 x 100.3 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Scofield Thayer, 1982",
+ "Accession Number": "1984.433.20",
+ "Rights and Reproduction": "© 2011 Artists Rights Society (ARS), New York",
+ "Who": "Edvard Munch",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "Europe",
+  "Norway"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Art Nouveau",
+  "Symbolism",
+  "Eastern Europe and Scandinavia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210003544,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT7880.jpg",
+ "related-artworks": [
+  90028246,
+  90035275,
+  90041710,
+  90041712,
+  90041714
+ ],
+ "Provenance": [
+  "[Galerie Lutz, Berlin, until 1922",
+  "sold in autumn to Thayer]",
+  "Scofield Thayer, New York (1922-d. 1982",
+  "his bequest to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003544"
+  }
+ }
+}

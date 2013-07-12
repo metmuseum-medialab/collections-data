@@ -1,0 +1,48 @@
+{
+ "Date": "16th century",
+ "Medium": "Pen and brown ink, brush and gray wash.  Incised",
+ "Dimensions": "Diameter 9 in. (22.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.620.204",
+ "Who": "Anonymous, Netherlandish, 16th century",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002853,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP801695.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90001626",
+  "http://scrapi.org/object/90002062",
+  "http://scrapi.org/object/90002215",
+  "http://scrapi.org/object/90002467",
+  "http://scrapi.org/object/90002456"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90001626"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002062"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002215"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002467"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002456"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90002853"
+  }
+ }
+}

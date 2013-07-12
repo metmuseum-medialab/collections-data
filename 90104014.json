@@ -1,0 +1,44 @@
+{
+ "Date": "1700-1730 ca.",
+ "Medium": "Pen and black ink, gray wash.",
+ "Dimensions": "Sheet 10 15/16 × 7 7/8 in. (27.8 × 20 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, the Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.608.104",
+ "Who": "Anonymous, 18th century",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90104014,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP830816.jpg",
+ "Description": "Design for a system for porcelain display, often found over the mantel of a chimneypiece or attached to the wall paneling. The design accomodates 14 pieces of porcelain.",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90056941"
+   },
+   {
+    "href": "http://scrapi.org/object/90083985"
+   },
+   {
+    "href": "http://scrapi.org/object/90104015"
+   },
+   {
+    "href": "http://scrapi.org/object/90056921"
+   },
+   {
+    "href": "http://scrapi.org/object/90056999"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90104014"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90104014"
+  }
+ }
+}

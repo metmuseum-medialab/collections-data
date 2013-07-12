@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Culture": "Japanese",
+ "Medium": "brass and shakudo",
+ "Dimensions": "2-3/8 x 2 in.",
+ "Classification": "Sword Furniture",
+ "Credit Line": "Funds from various donors, 1946",
+ "Accession Number": "46.122.183",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Brass",
+  "Guards"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40004677,
+ "related-artworks": [
+  40002847,
+  40004653,
+  40004503,
+  40004506,
+  40004517
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40004677"
+  }
+ }
+}

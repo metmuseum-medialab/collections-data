@@ -1,0 +1,49 @@
+{
+ "Date": "ca. 1615–1868",
+ "Culture": "Japanese",
+ "Classification": "Sword Furniture",
+ "Credit Line": "Funds from various donors, 1946",
+ "Accession Number": "46.122.168",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Guards"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1400–1600 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40013728,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40000640"
+   },
+   {
+    "href": "http://scrapi.org/object/40002848"
+   },
+   {
+    "href": "http://scrapi.org/object/40002852"
+   },
+   {
+    "href": "http://scrapi.org/object/40003016"
+   },
+   {
+    "href": "http://scrapi.org/object/40003260"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40013728"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40013728"
+  }
+ }
+}

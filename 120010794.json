@@ -1,0 +1,41 @@
+{
+ "Date": "early 18th century",
+ "Culture": "German, Stuttgart",
+ "Medium": "Glass",
+ "Dimensions": "H. 2 7/8 in.  (7.3 cm); Diam. 2 3/4 in. (7.0 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Munsey Fund, 1927",
+ "Accession Number": "27.185.184",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Beakers"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Baden-Württemberg",
+  "Stuttgart"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010794,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/69863.jpg",
+ "related-artworks": [
+  120020976,
+  120058058,
+  120002575,
+  120002629,
+  120049015
+ ],
+ "Provenance": [
+  "Jacques Mühsam (until 1927)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120010794"
+  }
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "Date": "17th century",
+ "Culture": "Flemish",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Bashford Dean Memorial Collection, Funds from various donors, 1929",
+ "Accession Number": "29.158.756",
+ "What": "Paintings",
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40012482,
+ "related-artworks": [
+  40000121,
+  40003305,
+  40004128,
+  40004374,
+  40004376
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40012482"
+  }
+ }
+}

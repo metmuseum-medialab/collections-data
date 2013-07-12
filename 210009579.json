@@ -1,0 +1,41 @@
+{
+ "Date": "1911",
+ "Medium": "Watercolor on paper",
+ "Dimensions": "14 1/8 x 16 1/4 in. (35.9 x 41.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Charles F. Iklé, 1963",
+ "Accession Number": "64.27.1",
+ "Rights and Reproduction": "© 2011 Artists Rights Society (ARS), New York",
+ "Who": "John Marin",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "Georgia O'Keeffe (1887–1986)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210009579,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf 64.27.1.jpg",
+ "related-artworks": [
+  210007106,
+  210007400,
+  210008030,
+  210008552,
+  210008568
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009579"
+  }
+ }
+}

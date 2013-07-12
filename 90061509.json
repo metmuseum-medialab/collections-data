@@ -1,0 +1,38 @@
+{
+ "Date": "n.d.",
+ "Medium": "Etching and drypoint, proof",
+ "Dimensions": [
+  "sheet 10 1/2 x 8 1/4 in. (26.7 x 21 cm)",
+  "plate 7 x 5 7/8 in. (17.8 x 14.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1924",
+ "Accession Number": "24.12.3",
+ "Who": "Emil Orlik",
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints",
+  "Proofs"
+ ],
+ "Where": [
+  "Austria-Hungary"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90061509,
+ "related-artworks": [
+  90061505,
+  90061511,
+  90061512,
+  90061513,
+  90061508
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90061509"
+  }
+ }
+}

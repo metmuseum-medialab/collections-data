@@ -1,0 +1,41 @@
+{
+ "Date": "1928",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 5 7/16 x 7 1/16 in. (13.8 x 17.9 cm)",
+  "sheet 7 7/16 x 9 5/8 in. (18.9 x 24.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1950",
+ "Accession Number": "50.584.1",
+ "Who": "Giorgio de Chirico",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Surrealism",
+  "School of Paris",
+  "Italian Peninsula, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90072585,
+ "related-artworks": [
+  90008047,
+  90072582,
+  90047346,
+  90049569,
+  90072567
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90072585"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Publisher": "WPA",
+ "Date": "1935–43",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "sheet 12 9/16 x 16 in. (31.9 x 40.6 cm)",
+  "image 10 11/16 x 14 1/2 in. (27.2 x 36.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, New York, 1943",
+ "Accession Number": "43.33.210",
+ "Who": [
+  "WPA",
+  "Harry LeRoy Taskey"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90072956,
+ "related-artworks": [
+  90072881,
+  90072882,
+  90072884,
+  90072885,
+  90072886
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90072956"
+  }
+ }
+}

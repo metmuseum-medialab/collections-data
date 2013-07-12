@@ -1,0 +1,38 @@
+{
+ "Date": "1985",
+ "Culture": "American",
+ "Medium": "Ultrasuede",
+ "Dimensions": [
+  "Length at CB (a) 25 in. (63.5 cm)",
+  "Length at CB (b) 24 1/2 in. (62.2 cm)"
+ ],
+ "Credit Line": "Gift of Gabriele Knecht, 1995",
+ "Accession Number": "1995.450.3a, b",
+ "Who": "Gabriele Knecht",
+ "What": [
+  "Costume",
+  "Suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80001204,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1995.450.3ab_F.jpg",
+ "related-artworks": [
+  80001202,
+  80001205,
+  80001206,
+  80001209,
+  80001208
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001204"
+  }
+ }
+}

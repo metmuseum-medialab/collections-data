@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1862, printed 1877",
+ "Medium": "Woodburytype",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 1992",
+ "Accession Number": "1992.5148.54",
+ "Who": "Étienne Carjat",
+ "What": [
+  "Photographs",
+  "Photomechanical reproductions",
+  "Woodburytypes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Industrialization of French Photography after 1860",
+  "France, 1800–1900 A.D."
+ ],
+ "id": 190018620,
+ "related-artworks": [
+  190018573,
+  190018574,
+  190018578,
+  190018592,
+  190018586
+ ],
+ "Provenance": [
+  "Beaussant Lefèvre"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190018620"
+  }
+ }
+}

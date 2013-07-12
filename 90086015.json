@@ -1,0 +1,47 @@
+{
+ "Printer": "Aubert et Cie (Paris)",
+ "Publisher": "Pannier et Cie. (Paris)",
+ "Date": "1843",
+ "Medium": "Colored lithograph; third state of three (Armelhault & Bocher)",
+ "Dimensions": [
+  "Sheet 12 15/16 x 9 7/16 in. (32.8 x 24 cm)",
+  "Image 8 x 6 1/4 in. (20.3 x 15.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.57",
+ "Who": [
+  "Paul Gavarni [Chevalier]",
+  "Aubert et Cie",
+  "Pannier et Cie."
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90086015,
+ "related-artworks": [
+  90018048,
+  90024410,
+  90028473,
+  90032320,
+  90049446
+ ],
+ "Provenance": [
+  "Vendor: E. Weyhe (New York, NY)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90086015"
+  }
+ }
+}

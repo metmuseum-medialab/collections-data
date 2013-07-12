@@ -1,0 +1,45 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Geography": "Philippines (?)",
+ "Culture": "Philippines (?)",
+ "Medium": "Fiber",
+ "Dimensions": [
+  "Overall 11 1/2 x 12 in. (29.21 x 30.48 cm)",
+  "Other 11 1/2 in. (29.21 cm)"
+ ],
+ "Classification": "Textiles-Woven",
+ "Credit Line": "Anonymous Gift, 1949",
+ "Accession Number": "49.32.150",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Napkins"
+ ],
+ "Where": [
+  "Asia",
+  "Philippines"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1900 A.D.–present",
+  "Southeast Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50000798,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/49.32.150.JPG",
+ "related-artworks": [
+  50000801,
+  50000800,
+  50000802,
+  50000799,
+  50000423
+ ],
+ "Provenance": [
+  "Private collection, New York, until 1949"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000798"
+  }
+ }
+}

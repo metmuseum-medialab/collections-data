@@ -1,0 +1,43 @@
+{
+ "Date": "1919",
+ "Medium": "Drypoint",
+ "Dimensions": [
+  "plate  18-3/4 x 12-1/2 inches (47.7 x 32 cm)",
+  "sheet  20-1/2 x 15-1/2 inches (52.3 x 38.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Scofield Thayer, 1982",
+ "Accession Number": "1984.1203.198.4",
+ "Who": "Egon Schiele",
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90034298,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP275007.jpg",
+ "related-artworks": [
+  90028252,
+  90034299,
+  90034300,
+  90034301,
+  90034302
+ ],
+ "Provenance": [
+  "Donor: Scofield Thayer (American, Worcester, Massachusetts 1889–1982 Providence, Rhode Island)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90034298"
+  }
+ }
+}

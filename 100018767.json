@@ -1,0 +1,43 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 11",
+ "Date": "ca. 2124–1981 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Maspero 1885–1886",
+ "Medium": "Wood",
+ "Dimensions": "l. 114 cm (44 7/8 in)",
+ "Credit Line": "Funds from various donors, 1886",
+ "Accession Number": "86.1.38",
+ "What": [
+  "Wood",
+  "Staffs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 8000–2000 B.C.",
+  "Egypt, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100018767,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/86.1.38_acc.jpg",
+ "related-artworks": [
+  100006012,
+  100009902,
+  100011959,
+  100012194,
+  100017127
+ ],
+ "Provenance": [
+  "Excavated at Gebelein by Gaston Maspero on behalf of the Egyptian Antiquities Service. Purchased from the Egyptian Government, 1886."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100018767"
+  }
+ }
+}

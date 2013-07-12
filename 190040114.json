@@ -1,0 +1,62 @@
+{
+ "Date": "1908–10",
+ "Medium": "Autochrome",
+ "Dimensions": "18 x 24.1 cm (7 1/8 x 9 1/2 in.)",
+ "Classification": "Transparencies",
+ "Credit Line": "Gilman Collection, Purchase, Mr. and Mrs. Henry R. Kravis Gift, 2005",
+ "Accession Number": "2005.100.736",
+ "Rights and Reproduction": "© Estate of Heinrich Kühn/Courtesy Gallery Kicken Berlin",
+ "Who": "Heinrich Kühn",
+ "What": [
+  "Photographs",
+  "Transparencies",
+  "Autochromes"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "id": 190040114,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP170723.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/190039701",
+  "http://scrapi.org/object/190039702",
+  "http://scrapi.org/object/190039911",
+  "http://scrapi.org/object/190039912",
+  "http://scrapi.org/object/190039913"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ph/original/DP170723.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP170724.jpg"
+ ],
+ "Provenance": [
+  "The artist's son",
+  "[Graphics International, Ltd., Washington, DC]",
+  "Gilman Paper Company Collection, New York, May 4, 1979"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190039701"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190039702"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190039911"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190039912"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190039913"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190040114"
+  }
+ }
+}

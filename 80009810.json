@@ -1,0 +1,42 @@
+{
+ "Design House": "Gibo (Italian)",
+ "Date": "ca. 1995",
+ "Culture": "Spanish",
+ "Medium": "(a) wool, rayon; (b) wool",
+ "Dimensions": [
+  "Length at CB (a) 28 in. (71.1 cm)",
+  "Length at CB (b) 35 in. (88.9 cm)"
+ ],
+ "Credit Line": "Gift of Holly Brubach, 2002",
+ "Accession Number": "2002.561.22a, b",
+ "Who": [
+  "Sybilla",
+  "Gibo"
+ ],
+ "What": [
+  "Wool",
+  "Ensembles",
+  "Rayon"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "id": 80009810,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2002.561.22ab_F.JPG",
+ "related-artworks": [
+  80009759,
+  80043520,
+  80043528,
+  80001584,
+  80009703
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80009810"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Date": "20th century",
+ "Geography": "Mali or Niger",
+ "Culture": "Tuareg peoples",
+ "Medium": "Wood",
+ "Dimensions": "Height 44 in.",
+ "Classification": "Wood-Implements",
+ "Credit Line": "Gift of Marilyn Johnson, 1998",
+ "Accession Number": "1998.390.4",
+ "Who": [
+  "Berber",
+  "Tuareg"
+ ],
+ "Where": [
+  "Africa",
+  "Mali"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Western and Central Sudan, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50010582,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/VS1998.390.1-4C.JPG",
+ "Provenance": [
+  "A Tuareg family, Niger",
+  "Marilyn Johnson, Bethlehem, NH, until 1998"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50010579"
+   },
+   {
+    "href": "http://scrapi.org/object/50010580"
+   },
+   {
+    "href": "http://scrapi.org/object/50010581"
+   },
+   {
+    "href": "http://scrapi.org/object/50011583"
+   },
+   {
+    "href": "http://scrapi.org/object/50011615"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50010582"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50010582"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Period": "Archaic",
+ "Date": "ca. 535-500 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; black-figure",
+ "Dimensions": [
+  "H. 2 11/16 in. (6.8 cm.)",
+  "Diameter  7 3/16 in. (18.3 cm.)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.250",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups",
+  "Kylikes"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011482,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP229111.jpg",
+ "related-artworks": [
+  130001416,
+  130007120,
+  130008602,
+  130014925,
+  130015461
+ ],
+ "Description": "This cup shares some of the characteristics of both band cups and eye cups but also represents individual features, creating an unusual hybrid. As is typical of eye cups, a gorgoneion is depicted on the interior of the vase, and eyes, intended to ward away evil, are placed at the handles instead of palmettes. As is common on band cups, on the handle zone, a figural scene depicts a nude youth chasing a lion. But unlike either eye or band cups, the foot of the vase is without a stem and in the form of a disk.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011482"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1970",
+ "Medium": "Bronze",
+ "Dimensions": "Diameter 2 7/8 in.  (7.3 cm)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of the Society of Medalists, 1971",
+ "Accession Number": "1971.55.1,2",
+ "Who": "Tom Allen, Jr.",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210001153,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1971.55.1, .2.jpg",
+ "related-artworks": [
+  210000704,
+  210000785,
+  210000862,
+  210007830,
+  210007922
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210001153"
+  }
+ }
+}

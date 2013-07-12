@@ -1,0 +1,44 @@
+{
+ "Date": "middle of 6th century",
+ "Geography": "Made in Niederbreisig, Germany",
+ "Culture": "Frankish",
+ "Medium": "Copper alloy",
+ "Dimensions": "Overall 1 3/16 x 13/16 x 5/16 in. (3 x 2 x 0.8 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.193.152",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Copper",
+  "Plaques"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170005372,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-193-152s1.jpg",
+ "related-artworks": [
+  170005462,
+  170005370,
+  170005371,
+  170005441,
+  170005430
+ ],
+ "Provenance": [
+  "Friedrich Queckenberg, Niederbreisig, Germany",
+  "Joseph Queckenberg, Niederbreisig, Germany",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005372"
+  }
+ }
+}

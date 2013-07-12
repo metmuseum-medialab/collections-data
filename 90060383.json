@@ -1,0 +1,37 @@
+{
+ "Artist": "Eugène-Pierre Gourdet (French, born Paris, 1820)",
+ "Date": "second half 19th century",
+ "Medium": "graphite on laid paper",
+ "Classification": "Drawings",
+ "Credit Line": "Dodge Fund, 1967",
+ "Accession Number": "67.827.415",
+ "Who": [
+  "Jules-Edmond-Charles Lachaise",
+  "Eugène-Pierre Gourdet"
+ ],
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite",
+  "Laid paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90060383,
+ "related-artworks": [
+  90058878,
+  90058909,
+  90058916,
+  90058890,
+  90059007
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060383"
+  }
+ }
+}

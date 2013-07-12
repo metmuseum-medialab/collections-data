@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Silk",
+ "Dimensions": "16 1/4 x 27 1/4 in. (41.27 x 69.22 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.119",
+ "What": [
+  "Costume",
+  "Silk",
+  "Tapestries",
+  "Robes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60041826,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/13230.jpg",
+ "related-artworks": [
+  60037790,
+  60038559,
+  60042081,
+  60042156,
+  60042738
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60041826"
+  }
+ }
+}

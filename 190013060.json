@@ -1,0 +1,48 @@
+{
+ "Date": "1860s",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "9.8 x 13.3 cm. (3  7/8  x 5  1/4  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "David Hunter McAlpin Fund, 1975",
+ "Accession Number": "1975.548.136",
+ "Who": "Pierre-Louis Pierson",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Industrialization of French Photography after 1860",
+  "Haute Couture",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190013060,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP232180.jpg",
+ "related-artworks": [
+  190013022,
+  190013028,
+  190013052,
+  190013054,
+  190013056
+ ],
+ "Provenance": [
+  "La Comtesse de Castiglione",
+  "[...]",
+  "Robert de Montesquiou",
+  "[...]",
+  "Madame Walska",
+  "[...]",
+  "Philip Kaplan"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190013060"
+  }
+ }
+}

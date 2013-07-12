@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1655–57",
+ "Medium": "Oil on wood",
+ "Dimensions": "Arched top, 10 x 9 in. (25.4 x 22.9 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Lillian M. Ellis, 1940",
+ "Accession Number": "40.64",
+ "Who": "Gerrit Dou",
+ "What": [
+  "Paintings",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "Genre Painting in Northern Europe",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110000649,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP101529.jpg",
+ "related-artworks": [
+  110000650,
+  90058460,
+  90062337,
+  90058353,
+  90062339
+ ],
+ "Provenance": [
+  "Sir Gregory Page, 2nd Baronet, Wricklemarsh, Blackheath, near London (by 1761–d. 1775)",
+  "his great-nephew, Sir Gregory Page Turner, 3rd Baronet, Battlesden Park, Battlesden, Bedfordshire (1775–86",
+  "sale, Paillet, Paris, March 27–28, 1786, no. 9, with a \"pendant\" by Schalcken)",
+  "Charles T. Yerkes, Chicago and New York (until d. 1905",
+  "his estate, 1905–10",
+  "his estate sale, American Art Association, New York, April 5–8, 1910, no. 91 [no. 20 in deluxe catalogue], for $2,500 to Ellis)",
+  "Lillian M. Ellis, New York (1910–d. 1940)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110000649"
+  }
+ }
+}

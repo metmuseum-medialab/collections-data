@@ -1,0 +1,63 @@
+{
+ "Date": "ca. 1430–1470",
+ "Geography": "Made in probably Manises, Valencia, Spain",
+ "Culture": "Spanish",
+ "Medium": "Tin-glazed earthenware",
+ "Dimensions": "Overall 17 3/4 x 3 in. (45.1 x 7.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Cloisters Collection, 1956",
+ "Accession Number": "56.171.137",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Dishes",
+  "Glazing"
+ ],
+ "Where": [
+  "Europe",
+  "Spain",
+  "Valencia",
+  "Manises"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70012344,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/DP157712.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/cl/original/DP157712.jpg",
+  "http://images.metmuseum.org/CRDImages/cl/original/cdi56-171-137s2.jpg"
+ ],
+ "Provenance": [
+  "[ Arnold Seligmann, Rey & Co., Inc. , Paris and New York (sold 1916]",
+  "William Randolph Hearst American, 1863–1951 , New York and San Simeon (1916-1951)",
+  "William Randolph Hearst Foundation , New York (1951–1956)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/70012301"
+   },
+   {
+    "href": "http://scrapi.org/object/70012330"
+   },
+   {
+    "href": "http://scrapi.org/object/70012331"
+   },
+   {
+    "href": "http://scrapi.org/object/70012315"
+   },
+   {
+    "href": "http://scrapi.org/object/70012323"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/70012344"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/70012344"
+  }
+ }
+}

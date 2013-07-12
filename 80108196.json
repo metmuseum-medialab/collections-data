@@ -1,0 +1,52 @@
+{
+ "Department Store": "Bergdorf Goodman (American, founded 1899)",
+ "Date": "ca. 1937",
+ "Culture": "American",
+ "Medium": "Leather, metallic",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the children of Dr. and Mrs. Hyman Ratnoff, 1970",
+ "Accession Number": "2009.300.5777a, b",
+ "Who": [
+  "Bergdorf Goodman",
+  "Delman"
+ ],
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80108196,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/70.128.7a-b_CP2.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80093751"
+   },
+   {
+    "href": "http://scrapi.org/object/80108198"
+   },
+   {
+    "href": "http://scrapi.org/object/80044886"
+   },
+   {
+    "href": "http://scrapi.org/object/80046177"
+   },
+   {
+    "href": "http://scrapi.org/object/80093749"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80108196"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80108196"
+  }
+ }
+}

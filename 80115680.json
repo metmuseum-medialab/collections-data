@@ -1,0 +1,38 @@
+{
+ "Designer": "Jean Patou (French, 1887–1936)",
+ "Date": "1928–30",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Anthony Wilson, 1963",
+ "Accession Number": "2009.300.7308a, b",
+ "Who": [
+  "House of Patou",
+  "Jean Patou"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80115680,
+ "related-artworks": [
+  80001509,
+  80002162,
+  80003659,
+  80003804,
+  80023490
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80115680"
+  }
+ }
+}

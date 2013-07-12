@@ -1,0 +1,38 @@
+{
+ "Date": "mid-19th century",
+ "Culture": "Swiss (?)",
+ "Medium": "Gold, enamel",
+ "Dimensions": "Diam. 1-3/4 in. (4.4 cm)",
+ "Classification": "Horology",
+ "Credit Line": "Anonymous Gift, in memory of Lady May Fletcher-Moulton, 1926",
+ "Accession Number": "26.267.37",
+ "What": [
+  "Metal",
+  "Gold",
+  "Enamel",
+  "Timepieces",
+  "Watches"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010420,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/66557.jpg",
+ "related-artworks": [
+  120001409,
+  120008929,
+  120010427,
+  120001410,
+  120001404
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120010420"
+  }
+ }
+}

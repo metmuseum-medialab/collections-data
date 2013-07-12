@@ -1,0 +1,55 @@
+{
+ "Date": "1641",
+ "Medium": "Oil on canvas",
+ "Dimensions": "96 x 76 1/2 in. (243.8 x 194.3 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Purchase, Enid A. Haupt Gift and Gwynne Andrews Fund, 1981",
+ "Accession Number": "1981.317",
+ "Who": "Andrea Sacchi",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "Botanical Imagery in European Painting",
+  "Baroque Rome",
+  "Rome and Southern Italy, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110002046,
+ "gallery-id": 601,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT1450.jpg",
+ "related-artworks": [
+  90008258,
+  90008261,
+  90008264,
+  90008268,
+  90008271
+ ],
+ "Provenance": [
+  "?cardinal Giulio Rospigliosi, later Pope Clement IX, Rome (until d. 1669)",
+  "marchese Niccolò Maria Pallavicini, Palazzo Pallavicini, Rome (until d. 1714",
+  "inv., 1714, no. 381",
+  "his estate, 1714–at least 1720)",
+  "Sir Robert Furnese, 2nd Baronet, Waldershare Park, Kent (by 1728–d. 1733)",
+  "his cousin, Henry Furnese, Gunnersbury Park, Middlesex (until d. 1756",
+  "his estate, 1756–58",
+  "sold privately with Guido Reni's \"Liberality and Modesty\" to Spencer)",
+  "John, 1st Earl Spencer, Wimbledon, Surrey (1758–d. 1783)",
+  "the Earls Spencer, Spencer House, St. James's Place, London and Althorp, Northampton (1783–1975)",
+  "[Wildenstein, New York, until 1981",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110002046"
+  }
+ }
+}

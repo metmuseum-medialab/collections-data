@@ -1,0 +1,64 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Albanian or Montenegrin",
+ "Medium": "Wool on canvas",
+ "Dimensions": "L. 3 3/8 x W. 5 1/4 inches (8.6 x 13.3 cm)(",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.176",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Wool",
+  "Embroidery",
+  "Canvas"
+ ],
+ "Where": [
+  "Europe",
+  "Albania"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Balkan Peninsula, 1600–1800 A.D.",
+  "Southern Europe, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120033242,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/85665.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120033237",
+  "http://scrapi.org/object/120033238",
+  "http://scrapi.org/object/120033241",
+  "http://scrapi.org/object/120033233",
+  "http://scrapi.org/object/120033272"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120033237"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120033238"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120033241"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120033233"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120033272"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120033242"
+  }
+ }
+}

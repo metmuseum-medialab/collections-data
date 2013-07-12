@@ -1,0 +1,48 @@
+{
+ "Period": "Sasanian",
+ "Date": "ca. 3rd–7th century A.D.",
+ "Geography": "Iran, Qasr-i Abu Nasr",
+ "Culture": "Sasanian",
+ "Medium": "Bronze",
+ "Dimensions": "0.87 x 1.12 in. (2.21 x 2.84 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1934",
+ "Accession Number": "34.107.85",
+ "Who": "Sasanian",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 500–1000 A.D.",
+  "Iran, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 30001710,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/me34_107_85.jpg",
+ "related-artworks": [
+  30001631,
+  30004677,
+  30003241,
+  30003242,
+  30003493
+ ],
+ "Provenance": [
+  "1933–34, excavated by J.M. Upton, W. Hauser and C.K. Wilkinson on behalf of The Persian Expedition of the Metropolitan Museum of Art",
+  "acquired by the Museum in 1934, ceded in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30001710"
+  }
+ }
+}

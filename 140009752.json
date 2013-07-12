@@ -1,0 +1,43 @@
+{
+ "Date": "17th century",
+ "Geography": "Turkey",
+ "Medium": "Wool (warp, weft and pile); symmetrically knotted pile",
+ "Dimensions": [
+  "H. 60 1/4 in. (153 cm)",
+  "W. 40 1/2 in. (102.9 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Joseph V. McMullan, 1972",
+ "Accession Number": "1972.80.7",
+ "What": [
+  "Textiles",
+  "Wool",
+  "Rugs",
+  "Carpets"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140009752,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/RT259.jpg",
+ "related-artworks": [
+  140004787,
+  140004817,
+  140009960,
+  140009953,
+  140015317
+ ],
+ "Provenance": [
+  "Joseph V. McMullan, New York (by 1965–72)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009752"
+  }
+ }
+}

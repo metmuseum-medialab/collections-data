@@ -1,0 +1,54 @@
+{
+ "Period": "Early Dynastic Period",
+ "Dynasty": "Dynasty 1",
+ "Date": "ca. 3100–2649 B.C.",
+ "Geography": "Country of Origin Egypt, Northern Upper Egypt, Abydos, EEF excavations",
+ "Medium": "Flint",
+ "Credit Line": "Gift of Egypt Exploration Fund, 1902",
+ "Accession Number": "02.4.80",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Bracelets",
+  "Flint"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Abydos"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100029473,
+ "Provenance": [
+  "Egypt Exploration Fund excavations. Acquired by the EEF in the division of finds. Acquired by the Museum through subscription to the EEF, 1902."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100031211"
+   },
+   {
+    "href": "http://scrapi.org/object/100029470"
+   },
+   {
+    "href": "http://scrapi.org/object/100029471"
+   },
+   {
+    "href": "http://scrapi.org/object/100031210"
+   },
+   {
+    "href": "http://scrapi.org/object/100031212"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100029473"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100029473"
+  }
+ }
+}

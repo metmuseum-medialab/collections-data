@@ -1,0 +1,62 @@
+{
+ "Artist": "Attributed to Channing Britton (American, active second half 19th century)",
+ "Date": "1850–70",
+ "Medium": "Pen and black ink, watercolor and gouache with gum arabic and metallic paint",
+ "Dimensions": "6 3/8 x 9 in. (16.2 x 22.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of William Brewster, 1923",
+ "Accession Number": "23.112.1539",
+ "Who": [
+  "Brewster & Co.",
+  "Channing Britton"
+ ],
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Gouache",
+  "Gum arabic",
+  "Metallic paint"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90053243,
+ "related-artworks": [
+  "http://scrapi.org/object/90052742",
+  "http://scrapi.org/object/90053086",
+  "http://scrapi.org/object/90053159",
+  "http://scrapi.org/object/90053236",
+  "http://scrapi.org/object/90053224"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Donor: William Brewster"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90052742"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90053086"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90053159"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90053236"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90053224"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90053243"
+  }
+ }
+}

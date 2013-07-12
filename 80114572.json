@@ -1,0 +1,32 @@
+{
+ "Date": "1850–99",
+ "Culture": "Swiss",
+ "Medium": "Straw",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; A. Augustus Healy Fund, 1926",
+ "Accession Number": "2009.300.6267",
+ "What": [
+  "Costume",
+  "Hats",
+  "Straw"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 80114572,
+ "related-artworks": [
+  80094383,
+  80095369,
+  80049522,
+  80093964,
+  80095159
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80114572"
+  }
+ }
+}

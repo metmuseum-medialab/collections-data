@@ -1,0 +1,48 @@
+{
+ "Date": "1848–49",
+ "Culture": "Russian",
+ "Medium": "Steel",
+ "Dimensions": "3 3/4 x 1 5/8 in.  (9.5 x 4.1 cm)",
+ "Classification": "Metalwork",
+ "Accession Number": "68.33.28",
+ "Who": "J. Hobson & Son, England",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Scissors"
+ ],
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Anatolia and the Caucasus, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D.",
+  "Eastern Europe and Scandinavia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120026839,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/189781.jpg",
+ "related-artworks": [
+  120026838,
+  120026841,
+  120026840,
+  120026843
+ ],
+ "Provenance": [
+  "Colin Macrae Ingersoll",
+  "Colin Macrae Ingersoll",
+  "Ralph McAllister Ingersoll (until 1968)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120026839"
+  }
+ }
+}

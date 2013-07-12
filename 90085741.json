@@ -1,0 +1,44 @@
+{
+ "Printer": "Aubert et Cie (Paris)",
+ "Publisher": "Pannier et Cie. (Paris)",
+ "Date": "September 23, 1843",
+ "Medium": "Lithograph; second state of three (Armelhault & Bocher)",
+ "Dimensions": "Sheet 11 3/16 x 8 1/16 in. (28.4 x 20.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Michael G. Wilson, 1982",
+ "Accession Number": "1982.1174.118",
+ "Who": [
+  "Paul Gavarni [Chevalier]",
+  "Aubert et Cie",
+  "Pannier et Cie."
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90085741,
+ "related-artworks": [
+  90018048,
+  90024410,
+  90028473,
+  90032320,
+  90049446
+ ],
+ "Provenance": [
+  "Albert Maroni (French, 1852–1923)",
+  "Donor: Michael G. Wilson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90085741"
+  }
+ }
+}

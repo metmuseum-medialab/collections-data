@@ -1,0 +1,44 @@
+{
+ "Date": "1490–1505",
+ "Medium": "Pen and brown ink, over leadpoint(?)",
+ "Dimensions": "8 3/4 x 5 5/8 in. (22.2 x 14.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Cornelius Vanderbilt, 1880",
+ "Accession Number": "80.3.199",
+ "Who": "Perugino (Pietro di Cristoforo Vannucci)",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Renaissance Drawings Material and Function",
+  "The Papacy and the Vatican Palace",
+  "Portraiture in Renaissance and Baroque Europe"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90007588,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811073.jpg",
+ "related-artworks": [
+  90007586,
+  90007585,
+  90007587,
+  110001720,
+  110001721
+ ],
+ "Provenance": [
+  "James Jackson Jarves",
+  "Cornelius Vanderbilt (American, Staten Island, New York 1843–1899 New York)",
+  "Donor: Cornelius Vanderbilt (American, Staten Island, New York 1843–1899 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90007588"
+  }
+ }
+}

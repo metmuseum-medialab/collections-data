@@ -1,0 +1,46 @@
+{
+ "Object Name": "Earring",
+ "Date": "18th–19th century",
+ "Geography": "India",
+ "Medium": "Gold",
+ "Dimensions": "L. 1 1/8 in. (2.9 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "John Stewart Kennedy Fund, 1915",
+ "Accession Number": "15.95.116",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia, 1600–1800 A.D.",
+  "South Asia and the Himalayan Region, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140004004,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/15.95.113_114_115_116_117.jpg",
+ "related-artworks": [
+  140004002,
+  140004008,
+  140001850,
+  140004005,
+  140004006
+ ],
+ "Provenance": [
+  "Lockwood de Forest (American, New York 1850–1932 Santa Barbara, California), New York (until 1915",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004004"
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "Date": "1st century B.C.–3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Carnelian",
+ "Dimensions": "Other 9/16 x 3/16 in. (1.4 x 0.4 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Gift of John Taylor Johnston, 1881",
+ "Accession Number": "81.6.148",
+ "What": [
+  "Sculpture",
+  "Chalcedony",
+  "Gems",
+  "Carnelian",
+  "Intaglios"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Italian Peninsula, 1–500A.D.",
+  "Italian Peninsula, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130005490,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130005432"
+   },
+   {
+    "href": "http://scrapi.org/object/130006374"
+   },
+   {
+    "href": "http://scrapi.org/object/130014234"
+   },
+   {
+    "href": "http://scrapi.org/object/130014636"
+   },
+   {
+    "href": "http://scrapi.org/object/130014613"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130005490"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130005490"
+  }
+ }
+}

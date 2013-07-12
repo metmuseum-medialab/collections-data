@@ -1,0 +1,37 @@
+{
+ "Date": "1908",
+ "Medium": "Watercolor over graphite with touches of gouache",
+ "Dimensions": "sheet 11 5/8 x 7 1/4 in. (29.5 x 18.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1967",
+ "Accession Number": "67.710.4",
+ "Who": "Charles Edmund Brock",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Graphite",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90038268,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800818.jpg",
+ "related-artworks": [
+  90038271,
+  90038272,
+  90038273,
+  90038266,
+  90038267
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90038268"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1938–42",
+ "Medium": "Lithograph",
+ "Dimensions": "Sheet 11 7/8 x 8 13/16 in. (30.1 x 22.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, Allocation Unit, Chicago, 1943",
+ "Accession Number": "43.47.354",
+ "Who": [
+  "WPA",
+  "James F. Jones"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90048572,
+ "related-artworks": [
+  90014430,
+  90048568,
+  90048569,
+  90048574,
+  90048576
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90048572"
+  }
+ }
+}

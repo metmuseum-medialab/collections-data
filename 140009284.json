@@ -1,0 +1,37 @@
+{
+ "Date": "19th–20th century",
+ "Geography": "Morocco",
+ "Medium": "Silver",
+ "Classification": "Jewelry",
+ "Accession Number": "67.145.2",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Jewelry",
+  "Anklets"
+ ],
+ "Where": [
+  "Africa",
+  "Morocco"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt and North Africa, 1800–1900 A.D.",
+  "Egypt and North Africa, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140009284,
+ "related-artworks": [
+  140009283,
+  140009285,
+  140008557,
+  140009286,
+  140009287
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009284"
+  }
+ }
+}

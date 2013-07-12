@@ -1,0 +1,40 @@
+{
+ "Date": "spring/summer 2002",
+ "Culture": "British",
+ "Medium": "a) synthetic; b) cotton, synthetic; c,d) cotton, metal, glass",
+ "Dimensions": [
+  "Length at CB (a) 21 in. (53.3 cm)",
+  "Length at CB (b) 50 1/2 in. (128.3 cm)",
+  "Length (c,d) 27 in. (68.6 cm)"
+ ],
+ "Credit Line": "Gift of Hamish Morrow, 2006",
+ "Accession Number": "2006.367a–d",
+ "Who": "Hamish Morrow",
+ "What": [
+  "Metal",
+  "Glass",
+  "Cotton",
+  "Ensembles"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "id": 80059307,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DP153985.jpg",
+ "related-artworks": [
+  80010522,
+  80063550,
+  80064861,
+  80015073,
+  80025156
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80059307"
+  }
+ }
+}

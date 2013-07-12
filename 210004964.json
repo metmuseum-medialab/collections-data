@@ -1,0 +1,47 @@
+{
+ "Date": "1984",
+ "Medium": "Painted bronze",
+ "Dimensions": [
+  "H. 48, W. 37-1/2 inches",
+  "(121.9 x 94 cm.)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Mr. and Mrs. Milton Petrie Gift, 1987",
+ "Accession Number": "1987.225",
+ "Rights and Reproduction": "© 2010 Jim Dine / Artists Rights Society (ARS), New York",
+ "Who": "Jim Dine",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Painting"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210004964,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT5732.jpg",
+ "related-artworks": [
+  210005166,
+  210005010,
+  210006806,
+  210017726,
+  210015830
+ ],
+ "Provenance": [
+  "The artist, New York and Walla Walla, WA (1984-87)",
+  "[The Pace Gallery, New York, 1987",
+  "their sale to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210004964"
+  }
+ }
+}

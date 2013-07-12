@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1615–1868",
+ "Culture": "Japanese",
+ "Classification": "Sword Furniture",
+ "Credit Line": "Gift of Herman A. E. and Paul C. Jaehne, 1943",
+ "Accession Number": "43.120.1218a, b",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1400–1600 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 40007268,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40000015"
+   },
+   {
+    "href": "http://scrapi.org/object/40000017"
+   },
+   {
+    "href": "http://scrapi.org/object/40000020"
+   },
+   {
+    "href": "http://scrapi.org/object/40000001"
+   },
+   {
+    "href": "http://scrapi.org/object/40000013"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40007268"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40007268"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1847",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "13 5/8 x 4 1/2 in. (34.6 x 11.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Howard Mansfield Collection, Purchase, Rogers Fund, 1936",
+ "Accession Number": "JP2527",
+ "Who": "Utagawa Hiroshige",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60028119,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP120480.jpg",
+ "related-artworks": [
+  60000553,
+  60000608,
+  60000616,
+  60000629,
+  60000626
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028119"
+  }
+ }
+}

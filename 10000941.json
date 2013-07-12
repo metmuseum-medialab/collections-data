@@ -1,0 +1,46 @@
+{
+ "Date": "1660–1700",
+ "Geography": "New England, Connecticut, United States",
+ "Culture": "American",
+ "Medium": "Oak, white pine",
+ "Dimensions": "7 x 26 1/4 x 17 in. (17.8 x 66.7 x 43.2 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1909",
+ "Accession Number": "10.125.5",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Boxes",
+  "Softwood",
+  "Oak",
+  "Pine"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Connecticut"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000941,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/85H_ACF3071R9.jpg",
+ "related-artworks": [
+  10000967,
+  10000972,
+  10000942,
+  10002038,
+  10002091
+ ],
+ "Provenance": [
+  "H. Eugene Bolles, Boston, until 1909",
+  "[Mrs. Russell Sage, New York, 1909]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000941"
+  }
+ }
+}

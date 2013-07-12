@@ -1,0 +1,46 @@
+{
+ "Date": "1800–1943",
+ "Culture": "Burmese",
+ "Medium": [
+  "(a) cotton",
+  "(b) silk",
+  "(c, d) silk, leather"
+ ],
+ "Dimensions": [
+  "(a) Length 20 3/4 in. (52.7 cm)",
+  "(b) Length 35 3/4 in. (90.8 cm)",
+  "(c, d) Length 9 1/2 in. (24.1 cm)"
+ ],
+ "Credit Line": "Gift of Mr. Beaumont Newhall, 1943",
+ "Accession Number": "C.I.43.12.81a–d",
+ "What": [
+  "Silk",
+  "Cotton",
+  "Leather",
+  "Ensembles"
+ ],
+ "Where": [
+  "Asia",
+  "Myanmar"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1800–1900 A.D.",
+  "Southeast Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80007281,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI43.12.81a.jpg",
+ "related-artworks": [
+  80003903,
+  80003905,
+  80006663,
+  80019613,
+  80006655
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007281"
+  }
+ }
+}

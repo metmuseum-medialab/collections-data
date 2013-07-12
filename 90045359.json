@@ -1,0 +1,71 @@
+{
+ "Date": "1860",
+ "Medium": "Etching and drypoint; cancelled plate",
+ "Dimensions": [
+  "plate 10 3/4 x 7 13/16 in. (27.3 x 19.8 cm)",
+  "sheet 14 3/4 x 10 5/8 in. (37.5 x 27 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.50",
+ "Who": "James McNeill Whistler",
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Lithography in the Nineteenth Century",
+  "The Print in the Nineteenth Century",
+  "Nineteenth–Century American Drawings",
+  "Americans in Paris, 1860–1900",
+  "James McNeill Whistler (1834–1903)",
+  "Japonisme",
+  "Design Reform",
+  "William Merritt Chase (1849–1916)",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90045359,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP813347.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP813347.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/DP813351.jpg"
+ ],
+ "Provenance": [
+  "Vendor: Dick Estate, U.S. Trust"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90015986"
+   },
+   {
+    "href": "http://scrapi.org/object/90038364"
+   },
+   {
+    "href": "http://scrapi.org/object/90039314"
+   },
+   {
+    "href": "http://scrapi.org/object/90045325"
+   },
+   {
+    "href": "http://scrapi.org/object/90045339"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90045359"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90045359"
+  }
+ }
+}

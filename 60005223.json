@@ -1,0 +1,37 @@
+{
+ "Period": "Central Javanese period",
+ "Date": "second half of the 9th century",
+ "Culture": "Indonesia (Java)",
+ "Medium": "Andesite",
+ "Dimensions": "H. 6 7/8 in. (17.5 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Samuel Eilenberg Collection, Gift of Samuel Eilenberg, 1987",
+ "Accession Number": "1987.142.285",
+ "What": [
+  "Sculpture",
+  "Andesite"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005223,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1987_142_285.jpg",
+ "related-artworks": [
+  60005221,
+  60005222,
+  60005438,
+  60005563,
+  60005620
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005223"
+  }
+ }
+}

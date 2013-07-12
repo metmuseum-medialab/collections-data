@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1735",
+ "Culture": "Irish (Dublin)",
+ "Medium": "Silver",
+ "Dimensions": "H. 1 1/2 in. (3.8 cm); Diam. 8 13/16 in. (22.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Bequest of Mary Strong Shattuck, 1935",
+ "Accession Number": "35.80.135",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Dishes"
+ ],
+ "Where": [
+  "Europe",
+  "Republic of Ireland",
+  "Dublin",
+  "Leinster"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120012656,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/100752.jpg",
+ "related-artworks": [
+  120010359,
+  120017122,
+  120020644,
+  120020777,
+  120005272
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120012656"
+  }
+ }
+}

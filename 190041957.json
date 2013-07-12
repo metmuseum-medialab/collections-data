@@ -1,0 +1,43 @@
+{
+ "Artist": "Painted and retouched by Marck",
+ "Date": "before 1865",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+ "Accession Number": "2005.100.410 (5a-d)",
+ "Who": [
+  "Pierre-Louis Pierson",
+  "Marck"
+ ],
+ "What": "Photographs",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Haute Couture",
+  "The Industrialization of French Photography after 1860",
+  "France, 1800–1900 A.D."
+ ],
+ "id": 190041957,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP221426.jpg",
+ "related-artworks": [
+  190013034,
+  190013036,
+  190013035,
+  190013038,
+  190013037
+ ],
+ "Provenance": [
+  "Descendants of Adolphe Braun",
+  "[Galerie Texbraun, Paris]",
+  "[François Lepage]",
+  "Gilman Paper Company Collection, New York, December 23, 1997"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190041957"
+  }
+ }
+}

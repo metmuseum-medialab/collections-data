@@ -1,0 +1,43 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "Image 28 x 15 1/4 in. (71.1 x 38.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1941",
+ "Accession Number": "CP355",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "id": 60035120,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/CP355_O.jpg",
+ "related-artworks": [
+  60034520,
+  60035119,
+  60035125,
+  60034412,
+  60034510
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60035120"
+  }
+ }
+}

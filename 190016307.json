@@ -1,0 +1,33 @@
+{
+ "Date": "1860s–70s",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "20.7 x 27.5 cm (8 1/8 x 10 13/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Matthew Dontzin, 1985",
+ "Accession Number": "1985.1168.16",
+ "Who": "Unknown",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190016307,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP71240.jpg",
+ "related-artworks": [
+  190011576,
+  190011793,
+  190011794,
+  190012616,
+  190012631
+ ],
+ "Provenance": [
+  "Matthew Dontzin"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190016307"
+  }
+ }
+}

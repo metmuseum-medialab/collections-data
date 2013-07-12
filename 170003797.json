@@ -1,0 +1,44 @@
+{
+ "Date": "13th–14th century",
+ "Culture": "French",
+ "Medium": "Marble",
+ "Dimensions": [
+  "Overall (a Capital): 16 1/4 x 21 3/4 x 13 in. (41.3 x 55.2 x 33 cm)",
+  "Overall (b Base): 8 7/8 x 19 1/4 x 10 1/2 in. (22.5 x 48.9 x 26.7 cm)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1916",
+ "Accession Number": "16.32.7a, b",
+ "What": [
+  "Sculpture",
+  "Marble"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170003797,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cdi16-32-7a.jpg",
+ "related-artworks": [
+  170003602,
+  170003583,
+  170003572,
+  170003789,
+  170003803
+ ],
+ "Provenance": [
+  "George Grey Barnard (American, Bellefonte, Pennsylvania 1863–1938 New York)",
+  "[ Jacques Seligmann, Paris]",
+  "Georges Hoentschel (French, Paris 1855–1915)",
+  "J. Pierpont Morgan, London and New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170003797"
+  }
+ }
+}

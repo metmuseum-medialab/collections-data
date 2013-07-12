@@ -1,0 +1,50 @@
+{
+ "Manufacturer": "J. & L. Lobmeyr, Vienna, Austria",
+ "Date": "ca. 1910",
+ "Medium": "Glass",
+ "Dimensions": [
+  "H. 7 3/4, Diam. 3 in.",
+  "(19.7 x 7.6 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Cynthia Hazen Polsky and Leon B. Polsky Fund, 2001",
+ "Accession Number": "2001.555",
+ "Who": [
+  "Josef Hoffmann",
+  "J. & L. Lobmeyr, Vienna, Austria"
+ ],
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Drinking glasses",
+  "Goblets"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1900–25",
+  "Art Nouveau",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "id": 210013880,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT5017.jpg",
+ "related-artworks": [
+  210006467,
+  210007665,
+  210002326,
+  210004115,
+  210001889
+ ],
+ "Provenance": [
+  "Acquired from Historical Design Inc., New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210013880"
+  }
+ }
+}

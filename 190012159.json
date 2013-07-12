@@ -1,0 +1,46 @@
+{
+ "Printer": "Library of Congress",
+ "Date": "1935, printed 1971",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Phyllis D. Massar, 1972",
+ "Accession Number": "1972.737.6",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": [
+  "Walker Evans",
+  "Library of Congress"
+ ],
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Walker Evans (1903–1975)",
+  "Early Documentary Photography",
+  "Kodak and the Rise of Amateur Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190012159,
+ "related-artworks": [
+  190011718,
+  190011719,
+  190011721,
+  190011722,
+  190011750
+ ],
+ "Provenance": [
+  "Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190012159"
+  }
+ }
+}

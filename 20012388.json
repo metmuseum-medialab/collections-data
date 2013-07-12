@@ -1,0 +1,53 @@
+{
+ "Date": "ca. 1882, cast 1914",
+ "Medium": "Bronze",
+ "Dimensions": "43 1/4 x 12 x 19 1/4 in. (109.9 x 30.5 x 48.9 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1914",
+ "Accession Number": "14.119",
+ "Who": "Louis St. Gaudens",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze"
+ ],
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20012388,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/14.119.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/20012387",
+  "http://scrapi.org/object/20015122",
+  "http://scrapi.org/object/20012387",
+  "http://scrapi.org/object/20012388",
+  "http://scrapi.org/object/20015122"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "the artist's wife, Annette St. Gaudens, until 1914"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/20012387"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/20015122"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/20012387"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/20012388"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/20015122"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/20012388"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1970",
+ "Medium": "Silk, chiffon",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Vogue Magazine, 1971",
+ "Accession Number": "1971.119.3",
+ "Who": "Will  Eileen Richardson",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Printing",
+  "Chiffon"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210001098,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/205815.jpg",
+ "related-artworks": [
+  210001361,
+  210001362,
+  210001641,
+  210002322,
+  210002323
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210001098"
+  }
+ }
+}

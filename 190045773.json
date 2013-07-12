@@ -1,0 +1,44 @@
+{
+ "Author": "James Agee (American, Knoxville, Tennessee 1909–1955 New York)",
+ "Date": "1941",
+ "Medium": "Book",
+ "Classification": "Books",
+ "Credit Line": "Purchase, The Buddy Taub Foundation Gift, Dennis A. Roach and Jill Roach, Directors, 2009",
+ "Accession Number": "2009.218",
+ "Who": [
+  "Walker Evans",
+  "James Agee"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Kodak and the Rise of Amateur Photography",
+  "Walker Evans (1903–1975)",
+  "Early Documentary Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190045773,
+ "related-artworks": [
+  190017383,
+  190017767,
+  190028741,
+  190028780,
+  190028860
+ ],
+ "Provenance": [
+  "The artist",
+  "Arnold Crane, Chicago",
+  "[Harper's Books, East Hampton, NY]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190045773"
+  }
+ }
+}

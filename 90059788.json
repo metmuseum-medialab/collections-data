@@ -1,0 +1,36 @@
+{
+ "Date": "n.d.",
+ "Medium": "Woodblock",
+ "Dimensions": "block 7 5/8 x 4 3/8 x 7/8 in. (19.4 x 11.1 x 2.2 cm)",
+ "Classification": "Blocks",
+ "Credit Line": "Harris Brisbane Dick Fund, 1946",
+ "Accession Number": "46.49.56",
+ "Who": "Edwin Austin Abbey",
+ "What": [
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90059788,
+ "related-artworks": [
+  90059596,
+  90059766,
+  90059771,
+  90059772,
+  90059774
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90059788"
+  }
+ }
+}

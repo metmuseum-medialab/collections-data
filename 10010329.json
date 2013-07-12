@@ -1,0 +1,44 @@
+{
+ "Date": "1765–69",
+ "Geography": "Mid-Atlantic, Albany, New York, United States",
+ "Culture": "American",
+ "Medium": "Wood, paper, and paint",
+ "Dimensions": "Dimensions unavailable",
+ "Classification": "Architecture",
+ "Credit Line": "Gift of Mrs. William Bayard Van Rensselaer, in memory of her husband, 1928",
+ "Accession Number": "28.143",
+ "What": "Paper",
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "Albany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The New York Dutch Room",
+  "American Georgian Interiors (Mid–Eighteenth–Century Period Rooms)",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10010329,
+ "gallery-id": 752,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DT2511.jpg",
+ "related-artworks": [
+  10000438,
+  10000439,
+  10002771,
+  10003439,
+  10003440
+ ],
+ "Provenance": [
+  "Stephen Van Rensselaer II, Albany, New York, 1769",
+  "Mrs. William Bayard Van Rensselaer, Albany, New York, until 1928"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10010329"
+  }
+ }
+}

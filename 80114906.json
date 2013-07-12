@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1912",
+ "Culture": "American",
+ "Medium": "Cotton",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Jeannette R. Wilson, 1950",
+ "Accession Number": "2009.300.6627",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Suits",
+  "Sports clothing",
+  "Beachwear",
+  "Bathing suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80114906,
+ "related-artworks": [
+  80093702,
+  80093716,
+  80093717,
+  80093786,
+  80114951
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80114906"
+  }
+ }
+}

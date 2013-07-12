@@ -1,0 +1,35 @@
+{
+ "Date": "1929",
+ "Medium": "Oil on canvas",
+ "Dimensions": "52 x 42in. (132.1 x 106.7cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Stephen C. Clark, 1960",
+ "Accession Number": "61.101.24",
+ "Who": "Eugene Speicher",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009363,
+ "related-artworks": [
+  210007824,
+  210000762,
+  210000932,
+  210007979,
+  210000931
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009363"
+  }
+ }
+}

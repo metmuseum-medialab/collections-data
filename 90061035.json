@@ -1,0 +1,34 @@
+{
+ "Date": "early 19th century",
+ "Medium": "Ink, watercolor and wash",
+ "Dimensions": "sheet 8 11/16 x 12 1/4 in. (22 x 31.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1938",
+ "Accession Number": "38.37.71",
+ "Who": "Anonymous, British, 19th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90061035,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP807163.jpg",
+ "related-artworks": [
+  90033920,
+  90060594,
+  90060628,
+  90060704,
+  90060705
+ ],
+ "Provenance": [
+  "Vendor: Hannington & Rutherford"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90061035"
+  }
+ }
+}

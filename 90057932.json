@@ -1,0 +1,36 @@
+{
+ "Date": "1844",
+ "Medium": "Cut paper silhouette mounted on board",
+ "Classification": "Cut Paper",
+ "Credit Line": "Gift of Philip S. P. and Elisabeth W. Fell, 1976",
+ "Accession Number": "1976.652.8",
+ "Who": "Auguste Edouart",
+ "What": "Paper",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90057932,
+ "related-artworks": [
+  90004095,
+  90036231,
+  90037740,
+  90043594,
+  90057930
+ ],
+ "Provenance": [
+  "Auguste Edouart (French, 1789–1861), business collection",
+  "Mrs. F. Nevill Jackson",
+  "Vernay Galleries, 1913 (for Mrs. Jackson)",
+  "Donor: Phillip S. P and Elizabeth W. Fell"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90057932"
+  }
+ }
+}

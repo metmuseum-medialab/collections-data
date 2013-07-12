@@ -1,0 +1,43 @@
+{
+ "Date": "1800–1825",
+ "Culture": "French (Lorraine) (?)",
+ "Dimensions": "Diam. 5 1/4 in. (13.3 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Barton L. Keen, 1920",
+ "Accession Number": "20.170.2",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Saucers"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Lorraine"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009358,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/47244.jpg",
+ "related-artworks": [
+  120049624,
+  120049625,
+  120009126,
+  120009357,
+  120009060
+ ],
+ "Provenance": [
+  "Mrs. Barton L. Keen (until 1920",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009358"
+  }
+ }
+}

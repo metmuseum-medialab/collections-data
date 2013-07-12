@@ -1,0 +1,42 @@
+{
+ "Period": "Early Imperial",
+ "Date": "1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Plaster",
+ "Dimensions": "Diam. 4 5/16 in. (11 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Fletcher Fund, 1931",
+ "Accession Number": "31.11.15",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Reliefs",
+  "Plaster",
+  "Molds"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013845,
+ "gallery-id": 164,
+ "related-artworks": [
+  130013847,
+  130013846,
+  130006303,
+  130006307,
+  130005212
+ ],
+ "Description": "Cast from a Greek metal relief of the 3rd century B.C.Below, youth with phiale and cornucopia, seated woman crowned by flying Eros, woman with cornucopiaAbove, stars and caps of the DioskouroiThe plaster reliefs displayed in this case likely served as models for Roman copies of Greek metalware. Such casts undoubtedly also inspired other kinds of Roman works, including intaglios, relief-decorated stone sarcophagi, and terracotta lamps.",
+ "Provenance": [
+  "Said to be from Egypt"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013845"
+  }
+ }
+}

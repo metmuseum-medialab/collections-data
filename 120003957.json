@@ -1,0 +1,46 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Plaster, gilded wood",
+ "Dimensions": "Each, H. 67 in. (170.2 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+ "Accession Number": "07.225.195a",
+ "Who": "Augustin Pajou",
+ "What": [
+  "Sculpture",
+  "Gilt",
+  "Wood",
+  "Figures",
+  "Lighting devices",
+  "Lamps",
+  "Plaster",
+  "Torchères"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003957,
+ "gallery-id": 692,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/176235.jpg",
+ "related-artworks": [
+  120059769,
+  120014461,
+  120013943,
+  120017158,
+  120029148
+ ],
+ "Provenance": [
+  "Georges Hoentschel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120003957"
+  }
+ }
+}

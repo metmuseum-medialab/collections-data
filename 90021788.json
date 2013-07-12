@@ -1,0 +1,33 @@
+{
+ "Date": "1679",
+ "Medium": "plates engraving, woodcut",
+ "Dimensions": "Overall 6 5/16 x 3 11/16 x 1 3/8 in. (16 x 9.3 x 3.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1954",
+ "Accession Number": "54.545",
+ "Who": "Joh. Chr. Mieth",
+ "What": [
+  "Prints",
+  "Engraving",
+  "Books",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing plates"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021788,
+ "related-artworks": [
+  90011662,
+  90011917,
+  90012292,
+  90012535,
+  90012536
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021788"
+  }
+ }
+}

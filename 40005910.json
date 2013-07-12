@@ -1,0 +1,28 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian",
+ "Classification": "Knives",
+ "Credit Line": "Bequest of Alan Rutherfurd Stuyvesant, 1954",
+ "Accession Number": "54.46.35",
+ "What": "Knives",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005910,
+ "related-artworks": [
+  40005900,
+  40005912,
+  40005915,
+  40005918,
+  40010941
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40005910"
+  }
+ }
+}

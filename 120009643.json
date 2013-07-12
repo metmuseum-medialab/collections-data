@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1765",
+ "Culture": "German (Berlin)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "L. 14 1/8 in. (35.9 cm.); W. 10 1/2 in. (26.7 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Joint Bequest of Harriet K. and Grace Wilkes, 1922",
+ "Accession Number": "22.45.23",
+ "Who": "Royal Porcelain Manufactory, Berlin",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Trays"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Berlin"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009643,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES673.jpg",
+ "related-artworks": [
+  120003030,
+  120002051,
+  120003027,
+  120003033,
+  120003031
+ ],
+ "Provenance": [
+  "Harriet K. Wilkes",
+  "and Grace Wilkes (until 1922",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009643"
+  }
+ }
+}

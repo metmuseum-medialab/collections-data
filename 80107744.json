@@ -1,0 +1,38 @@
+{
+ "Designer": "Mazane (American)",
+ "Date": "1954",
+ "Culture": "American",
+ "Medium": "Silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. William Randolph Hearst, Jr., 1963",
+ "Accession Number": "2009.300.5312a, b",
+ "Who": [
+  "Mazane",
+  "Frank Mazane"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Footwear",
+  "Shoes",
+  "Pumps"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80107744,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/63.71.1a-b_CP2.jpg",
+ "related-artworks": [
+  80094126,
+  80107631,
+  80116072
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107744"
+  }
+ }
+}

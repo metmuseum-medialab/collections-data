@@ -1,0 +1,59 @@
+{
+ "Period": "Imperial",
+ "Date": "1st–2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Bronze",
+ "Dimensions": "H. 14.8 cm",
+ "Classification": "Bronzes",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.202",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011439,
+ "gallery-id": 164,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP20561.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/130006764",
+  "http://scrapi.org/object/130011273",
+  "http://scrapi.org/object/130011412",
+  "http://scrapi.org/object/130011703",
+  "http://scrapi.org/object/130017158"
+ ],
+ "related-images": [],
+ "Description": "Adaptation of a Greek work of the 4th or 3rd century B.C.Hermes was known to the Romans as Mercury. While his principal character is that of the divine herald, for which he is often represented with the kerykeion (herald's staff), here he holds a purse in his hand, indicating his role as the god of commerce.",
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130006764"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130011273"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130011412"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130011703"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130017158"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130011439"
+  }
+ }
+}

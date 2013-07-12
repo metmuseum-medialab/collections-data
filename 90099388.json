@@ -1,0 +1,56 @@
+{
+ "Lithographer": "Lithography by Schumacher & Ettlinger (New York)",
+ "Date": "1888",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 x 1 1/2 in. (7 x 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 204, N82.36",
+ "Who": [
+  "W. Duke, Sons & Co.",
+  "Schumacher & Ettlinger"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90099388,
+ "Description": "Trade cards from the \"Musical Instruments\" series (N82), issued in a set of 50 cards in 1888 to promote W. Duke Sons & Co. brand cigarettes.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90096249"
+   },
+   {
+    "href": "http://scrapi.org/object/90096248"
+   },
+   {
+    "href": "http://scrapi.org/object/90096233"
+   },
+   {
+    "href": "http://scrapi.org/object/90096250"
+   },
+   {
+    "href": "http://scrapi.org/object/90096252"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90099388"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90099388"
+  }
+ }
+}

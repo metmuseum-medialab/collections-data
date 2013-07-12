@@ -1,0 +1,42 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Lacquer, kinji, gold and silver hiramakie, metal inlay, kirigane; Interior gyobu nashiji and fundame",
+ "Dimensions": "3 9/16 x 1 15/16 x 1 in. (9.1 x 5 x 2.6 cm)",
+ "Classification": "Inrō",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.766",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Lacquer",
+  "Inro",
+  "Sagemono",
+  "Lacquerware",
+  "Kinji"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60029893,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/29_100_766_O3.JPG",
+ "related-artworks": [
+  60030143,
+  60029585,
+  60029583,
+  60029597,
+  60029598
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029893"
+  }
+ }
+}

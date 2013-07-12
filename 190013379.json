@@ -1,0 +1,44 @@
+{
+ "Date": "1941",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "18.4 x 19.7 cm. (7  1/4  x 7  3/4  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Arnold Crane, in memory of John J. McKendry, 1975",
+ "Accession Number": "1975.642.3",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": "Walker Evans",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Walker Evans (1903–1975)",
+  "Early Documentary Photography",
+  "Kodak and the Rise of Amateur Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190013379,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP110013.jpg",
+ "related-artworks": [
+  190011718,
+  190011719,
+  190011721,
+  190011722,
+  190011750
+ ],
+ "Provenance": [
+  "Arnold Crane"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190013379"
+  }
+ }
+}

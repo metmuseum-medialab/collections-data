@@ -1,0 +1,33 @@
+{
+ "Date": "17th century",
+ "Culture": "German",
+ "Classification": "Equestrian Equipment",
+ "Credit Line": "Gift of Stephen V. Grancsay, 1942",
+ "Accession Number": "42.50.311",
+ "What": [
+  "Costume",
+  "Spurs",
+  "Rowel spurs"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40007642,
+ "related-artworks": [
+  40007640,
+  40007630,
+  40007641,
+  40007632,
+  40007650
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40007642"
+  }
+ }
+}

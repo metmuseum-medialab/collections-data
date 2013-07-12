@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1840",
+ "Culture": "British",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 14 x W. 25 inches",
+  "35.6 x 63.5 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of William Sloane Coffin, 1926",
+ "Accession Number": "26.265.102",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120039683,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/66205.jpg",
+ "related-artworks": [
+  120036545,
+  120036810,
+  120036811,
+  120036812,
+  120036813
+ ],
+ "Provenance": [
+  "Frances Morris"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120039683"
+  }
+ }
+}

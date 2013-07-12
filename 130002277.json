@@ -1,0 +1,36 @@
+{
+ "Culture": "Roman",
+ "Medium": "Terracotta",
+ "Dimensions": "Overall 1 x 4 1/8 in. (2.5 x 10.5 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2258",
+ "What": [
+  "Clay",
+  "Terracotta",
+  "Lighting devices",
+  "Lamps"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130002277,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP430.jpg",
+ "related-artworks": [
+  130001896,
+  130001898,
+  130001899,
+  130001909,
+  130001907
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002277"
+  }
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "Author": "Written by Claude de Saumaise (French, 1588–1653)",
+ "Editor": "Edited by Jan de Laet (Flemish, 1593–1645)",
+ "Publisher": "Published by Lodewyk Elzevier (Dutch, 1604–1670)",
+ "Date": "1649",
+ "Medium": "Printed book with woodcut illustrations and engraved title page",
+ "Dimensions": "Overall 12 1/4 x 8 1/8 x 1 15/16 in. (31.1 x 20.6 x 4.9 cm)",
+ "Classification": "Books",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.100.245",
+ "Who": [
+  "Marcus Pollio Vitruvius",
+  "Leon Battista Alberti",
+  "Daniele Barbaro",
+  "Guillaume Philander",
+  "Giorgio Agricola",
+  "Sir Henry Wotton",
+  "Bernardino Baldi",
+  "Lodewyk Elzevier",
+  "Nikolaus Goldmann",
+  "Claude de Saumaise",
+  "Jan de Laet",
+  "Pomponio Gauricus"
+ ],
+ "What": [
+  "Prints",
+  "Engraving",
+  "Books",
+  "Relief prints",
+  "Woodblock prints",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90043679,
+ "Provenance": [
+  "William Gedney Beatty"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90044908"
+   },
+   {
+    "href": "http://scrapi.org/object/90043676"
+   },
+   {
+    "href": "http://scrapi.org/object/90044883"
+   },
+   {
+    "href": "http://scrapi.org/object/90044903"
+   },
+   {
+    "href": "http://scrapi.org/object/90044906"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90043679"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90043679"
+  }
+ }
+}

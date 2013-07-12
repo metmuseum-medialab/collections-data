@@ -1,0 +1,48 @@
+{
+ "Date": "1765–66",
+ "Culture": "British, London",
+ "Medium": "Silver",
+ "Dimensions": "9 3/4 x 13 x 11 in.  (24.8 x 33.0 x 27.9 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Bequest of Rev. Alfred Duane Pell, 1925",
+ "Accession Number": "25.15.33",
+ "Who": "William Plummer",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Baskets",
+  "Cake baskets"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010024,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/59170.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120012289"
+   },
+   {
+    "href": "http://scrapi.org/object/120012650"
+   },
+   {
+    "href": "http://scrapi.org/object/120010268"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120010024"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120010024"
+  }
+ }
+}

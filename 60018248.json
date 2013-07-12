@@ -1,0 +1,40 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Clay covered with black glaze over a reddish-brown glaze (Seto ware)",
+ "Dimensions": "H. 10 1/2 in. (26.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Samuel Colman, 1893",
+ "Accession Number": "93.1.7",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Glaze",
+  "Jars",
+  "Seto"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60018248,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/16063.jpg",
+ "related-artworks": [
+  60018190,
+  60018330,
+  60018394,
+  60033875,
+  60033942
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60018248"
+  }
+ }
+}

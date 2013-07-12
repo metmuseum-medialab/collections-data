@@ -1,0 +1,45 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian",
+ "Medium": "Embroidered net",
+ "Dimensions": [
+  "L. 31 x W. 6 1/4 inches",
+  "78.7 x 15.9 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2484",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Embroidery",
+  "Lace",
+  "Net"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "id": 120034815,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP4124.jpg",
+ "related-artworks": [
+  120030472,
+  120032452,
+  120032588,
+  120034894,
+  120035464
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120034815"
+  }
+ }
+}

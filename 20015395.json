@@ -1,0 +1,35 @@
+{
+ "Medium": "Graphite on illustration board",
+ "Dimensions": "14 5/8 x 14 7/8 in. (37.1 x 37.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Sheila and Richard J. Schwartz Fund and Maria DeWitt Jesup Fund, 1992",
+ "Accession Number": "1992.351.5",
+ "Who": "Charles R. Knight",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite",
+  "Illustrations",
+  "Cardboard",
+  "Illustration board"
+ ],
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20015395,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap1992.351.5.jpg",
+ "related-artworks": [
+  20015175,
+  20015176,
+  20015393,
+  20015394,
+  20015395
+ ],
+ "Provenance": [
+  "descended through the artist's family to his grandaughter"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20015395"
+  }
+ }
+}

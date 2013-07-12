@@ -1,0 +1,42 @@
+{
+ "Date": "1800–1900",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Blown molded glass",
+ "Dimensions": "H. 2 7/8 in. (7.3 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Henry G. Schiff, 1980",
+ "Accession Number": "1980.502.19",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Blown glass",
+  "Drinking glasses",
+  "Tumblers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10009435,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/253854.jpg",
+ "related-artworks": [
+  10009288,
+  10009291,
+  10009293,
+  10009308,
+  10009294
+ ],
+ "Provenance": [
+  "Henry G. Schiff, South Salem, New York, until 1980"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10009435"
+  }
+ }
+}

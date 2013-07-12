@@ -1,0 +1,47 @@
+{
+ "Date": "10th–16th century (?)",
+ "Geography": "Peru",
+ "Culture": "Peruvian",
+ "Medium": "Wood, camelid hair",
+ "Dimensions": [
+  "Overall 8 x 1/4 in. (20.32 x 0.64 cm)",
+  "Other 1/4 in. (0.64 cm)"
+ ],
+ "Classification": "Textiles-Implements",
+ "Credit Line": "Gift of George D. Pratt, 1933",
+ "Accession Number": "33.149.153",
+ "Who": "Peruvian",
+ "What": [
+  "Textiles",
+  "Hair",
+  "Camelidae",
+  "Spindles"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1400–1600 A.D.",
+  "Central and Southern Andes, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50000740,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/97409.jpg",
+ "related-artworks": [
+  50000720,
+  50000724,
+  50000731,
+  50000738,
+  50000742
+ ],
+ "Provenance": [
+  "George D. Pratt, Glen Cove, N.Y., until 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000740"
+  }
+ }
+}

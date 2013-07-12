@@ -1,0 +1,31 @@
+{
+ "Date": "1800–1960",
+ "Culture": "European, Eastern",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of International Business Machines Corporation, 1960",
+ "Accession Number": "C.I.60.22.63",
+ "What": [
+  "Costume",
+  "Aprons"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80060272,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI60.22.63.jpg",
+ "related-artworks": [
+  80000164,
+  80001982,
+  80002726,
+  80007272,
+  80007346
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80060272"
+  }
+ }
+}

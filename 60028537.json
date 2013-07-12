@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1954",
+ "Culture": "Japan",
+ "Medium": "Brush and black ink on paper",
+ "Dimensions": "18 1/2 x 5 5/16 in. (47 x 13.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Suizan Miki, 1954",
+ "Accession Number": "54.157",
+ "Who": "Suizan Miki",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Sketches",
+  "Brushes"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 60028537,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/54_157_158315.jpg",
+ "related-artworks": [
+  60028530,
+  60028545,
+  60025509,
+  60028536,
+  60028518
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028537"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Object Name": "Carpet",
+ "Date": "17th century",
+ "Geography": "Turkey",
+ "Medium": "Wool (warp, weft and pile); symmetrically knotted pile",
+ "Dimensions": [
+  "Rug H. 234 1/2 in. (595.6 cm)",
+  "W. 132 in. (335.3 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.173.13",
+ "What": [
+  "Textiles",
+  "Wool",
+  "Rugs",
+  "Carpets"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Islamic Carpets in European Paintings",
+  "Balkan Peninsula, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140002497,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/08.173.13a.JPG",
+ "related-artworks": [
+  140004787,
+  140004817,
+  140009960,
+  140009953,
+  140015317
+ ],
+ "Provenance": [
+  "[ Indjoudjian Frères, Paris, until 1908",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140002497"
+  }
+ }
+}

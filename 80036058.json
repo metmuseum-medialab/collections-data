@@ -1,0 +1,37 @@
+{
+ "Date": "1804–14",
+ "Culture": "American (probably)",
+ "Medium": "[no medium available]",
+ "Dimensions": [
+  "Length at CF 51 1/2 x CB: 54 in. (130.8 x 137.2 cm)",
+  "Width at Bottom 143 1/2 in. (364.5 cm)"
+ ],
+ "Credit Line": "Gift of Miss Ethel Frankau, 1939",
+ "Accession Number": "C.I.39.32",
+ "What": [
+  "Costume",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80036058,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.39.32_F.JPG",
+ "related-artworks": [
+  80001733,
+  80001913,
+  80002104,
+  80002105,
+  80002276
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80036058"
+  }
+ }
+}

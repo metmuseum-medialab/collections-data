@@ -1,0 +1,45 @@
+{
+ "Period": "Late Imperial",
+ "Date": "3rd century A.D.",
+ "Culture": "Roman, Cypriot",
+ "Medium": "Gold, pearl",
+ "Dimensions": "Other 1 1/2 in. (3.8 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.3854",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings",
+  "Pearl"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130003743,
+ "gallery-id": 176,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/GR589.jpg",
+ "related-artworks": [
+  130003742,
+  130011468,
+  130011467,
+  130003070,
+  130003071
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130003743"
+  }
+ }
+}

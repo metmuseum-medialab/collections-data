@@ -1,0 +1,40 @@
+{
+ "Artist": "Sidney Waintrob (American, born 1903)",
+ "Date": "ca. 1957",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Sidney Waintrob, 1957",
+ "Accession Number": "57.678.3",
+ "Who": [
+  "Budd Studio",
+  "Sidney Waintrob"
+ ],
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190021793,
+ "related-artworks": [
+  190021791,
+  190021792,
+  190023521,
+  190023523,
+  190012960
+ ],
+ "Provenance": [
+  "Sidney Waintrob"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190021793"
+  }
+ }
+}

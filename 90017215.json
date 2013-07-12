@@ -1,0 +1,43 @@
+{
+ "Artist": "Eugène-Pierre Gourdet (French, born Paris, 1820)",
+ "Date": "second half 19th century",
+ "Medium": "Pen and brown ink, watercolor, gouache, and gilt.",
+ "Dimensions": "14 9/16 x 10 3/16 in. (37 x 25.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Dodge Fund, 1967",
+ "Accession Number": "67.827.39",
+ "Who": [
+  "Jules-Edmond-Charles Lachaise",
+  "Eugène-Pierre Gourdet"
+ ],
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Gilt",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90017215,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811112.jpg",
+ "related-artworks": [
+  90010300,
+  90012772,
+  90012775,
+  90012777,
+  90012810
+ ],
+ "Provenance": [
+  "Vendor: Benjamin Weinreb (London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017215"
+  }
+ }
+}

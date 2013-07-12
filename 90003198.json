@@ -1,0 +1,49 @@
+{
+ "Date": "1746–99",
+ "Medium": "Pen and black ink on off-white paper",
+ "Dimensions": "11-1/8 x 8-1/8 in.  (28.3 x 20.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1961",
+ "Accession Number": "61.76",
+ "Who": "Luis Paret y Alcazar",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90003198,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800243.jpg",
+ "Provenance": [
+  "F. Kleinberger Galleries"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90003202"
+   },
+   {
+    "href": "http://scrapi.org/object/90003206"
+   },
+   {
+    "href": "http://scrapi.org/object/90026004"
+   },
+   {
+    "href": "http://scrapi.org/object/90026007"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90003198"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90003198"
+  }
+ }
+}

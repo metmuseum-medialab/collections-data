@@ -1,0 +1,49 @@
+{
+ "Founder": "Cast by Eck et Durand",
+ "Date": "modeled ca. 1830; cast before 1844",
+ "Culture": "French",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 6 3/4 in. (17.1 cm)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Joseph G. Reinis, 2000",
+ "Accession Number": "2000.455.2",
+ "Who": [
+  "Pierre Jean David d'Angers",
+  "Eck et Durand"
+ ],
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes",
+  "Medallions"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120027450,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/268348.jpg",
+ "related-artworks": [
+  120002824,
+  120027123,
+  120048959,
+  120002764,
+  120002788
+ ],
+ "Provenance": [
+  "Joseph G. Reinis (until 2000",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120027450"
+  }
+ }
+}

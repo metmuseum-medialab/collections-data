@@ -1,0 +1,57 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Thutmose III",
+ "Date": "ca. 1479–1425 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Stone",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.78",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100012237,
+ "related-artworks": [
+  "http://scrapi.org/object/100000987",
+  "http://scrapi.org/object/100001695",
+  "http://scrapi.org/object/100001717",
+  "http://scrapi.org/object/100001917",
+  "http://scrapi.org/object/100002428"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000987"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100001695"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100001717"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100001917"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100002428"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100012237"
+  }
+ }
+}

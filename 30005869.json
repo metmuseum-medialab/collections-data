@@ -1,0 +1,43 @@
+{
+ "Period": "Early Dynastic I",
+ "Date": "ca. 2900–2700 B.C.",
+ "Geography": "Mesopotamia",
+ "Medium": "Chalcedony (?)",
+ "Dimensions": "1.24 in. (3.15 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Gift of The Right Reverend Paul Moore Jr., 1985",
+ "Accession Number": "1985.357.2",
+ "What": [
+  "Stone",
+  "Chalcedony",
+  "Seals",
+  "Cylinder seals"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30005869,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss1985_357_2.jpg",
+ "related-artworks": [
+  30003613,
+  30005654,
+  30005925,
+  30006291,
+  30001418
+ ],
+ "Provenance": [
+  "By the 1930s, collection of Mrs. William H. Moore, New York (until d. 1955)",
+  "from 1955, on loan to the Museum by her grandson, The Right Reverend Paul Moore, Jr.",
+  "acquired by the Museum in 1985, gift of The Right Reverend Paul Moore, Jr., New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30005869"
+  }
+ }
+}

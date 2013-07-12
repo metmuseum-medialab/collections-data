@@ -1,0 +1,31 @@
+{
+ "Medium": "Oak",
+ "Dimensions": "Overall 23 3/4 x 15 1/2",
+ "Classification": "Frames",
+ "Accession Number": "1975.1.2192",
+ "What": [
+  "Wood",
+  "Oak",
+  "Frames"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Robert Lehman Collection",
+ "MetPublications": "Search for related Met publications",
+ "id": 150008664,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/86AG_285r3m-1.jpg",
+ "related-artworks": [
+  150007255,
+  150007258,
+  150007296,
+  150007308,
+  150007313
+ ],
+ "Provenance": [
+  "[Mindak, Rome, May 1948, List 2, No.33]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008664"
+  }
+ }
+}

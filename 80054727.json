@@ -1,0 +1,53 @@
+{
+ "Date": "1925",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. Beale J. Faucette, Vice-President Scott & Williams Knitting Machinery, 1947",
+ "Accession Number": "C.I.47.30.9",
+ "What": [
+  "Costume",
+  "Hosiery",
+  "Stockings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80054727,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI47.30.9.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80001911",
+  "http://scrapi.org/object/80032698",
+  "http://scrapi.org/object/80034858",
+  "http://scrapi.org/object/80051734",
+  "http://scrapi.org/object/80054602"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80001911"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80032698"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80034858"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80051734"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80054602"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80054727"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1719; preface dated 1718",
+ "Culture": "Japan",
+ "Medium": "Set of two woodblock printed books; ink on paper",
+ "Dimensions": [
+  "Overall (vol. 1) 11 1/16 × 10 3/16 × 9/16 in. (28.1 × 25.8 × 1.5 cm)",
+  "Overall (vol. 2) 11 1/16 × 10 1/8 × 13/16 in. (28.1 × 25.7 × 2 cm)"
+ ],
+ "Classification": "Illustrated Books",
+ "Credit Line": "The Howard Mansfield Collection, Gift of Howard Mansfield, 1936",
+ "Accession Number": "JIB121a, b",
+ "Who": "Tachibana Yūzei",
+ "What": [
+  "Ink",
+  "Paper",
+  "Books",
+  "Printing blocks",
+  "Wood blocks",
+  "Printing"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60029013,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/JIB121_1_001.jpg",
+ "related-artworks": [
+  60001378,
+  60012817,
+  60013058,
+  60013112,
+  60013113
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029013"
+  }
+ }
+}

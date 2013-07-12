@@ -1,0 +1,41 @@
+{
+ "Designer": "Pierre Balmain (French, St. Jean de Maurienne 1914–1982 Paris)",
+ "Date": "ca. 1969",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "Length 54 in. (137.2 cm)",
+ "Credit Line": "Gift of Bernice Chrysler Garbisch, 1977",
+ "Accession Number": "1977.108.6",
+ "Who": [
+  "House of Balmain",
+  "Pierre Balmain"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80019988,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.108.6_F.jpg",
+ "related-artworks": [
+  80019920,
+  80002987,
+  80003380,
+  80003835,
+  80004748
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80019988"
+  }
+ }
+}

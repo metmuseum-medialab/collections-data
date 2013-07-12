@@ -1,0 +1,42 @@
+{
+ "Period": "Second Intermediate Period",
+ "Dynasty": "Dynasty 14–17",
+ "Date": "ca. 1640–1550 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Antler, bone, paint",
+ "Dimensions": "overall h. 24.1 (9 1/2 in); h. of skull 18.3 cm (7 3/16 in); w. of antlers 23.8 cm (9 3/8 in)",
+ "Credit Line": "Rogers Fund, 1916",
+ "Accession Number": "16.2.33",
+ "What": [
+  "Bone",
+  "Pans",
+  "Antler",
+  "Bucrania"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100012036,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DP276421.jpg",
+ "related-artworks": [
+  100003381,
+  100005241,
+  100017381,
+  100017382,
+  100017384
+ ],
+ "Provenance": [
+  "Formerly Rufstafjael Collection (sold at auction, 1915). Purchased by the Museum from Anderson Gallery [Rustafjael sale 1915]",
+  "accessioned,1916"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100012036"
+  }
+ }
+}

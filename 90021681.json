@@ -1,0 +1,40 @@
+{
+ "Date": "1851–57",
+ "Medium": "Lithograph",
+ "Dimensions": "Overall 15 1/2 x 11 1/2 x 13/16 in. (39.4 x 29.2 x 2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1931",
+ "Accession Number": "31.86.116-140",
+ "Who": "Adolph Menzel",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021681,
+ "related-artworks": [
+  90021683,
+  90064163,
+  90026969,
+  90014715,
+  90020326
+ ],
+ "Provenance": [
+  "Paul Davidsohn (German, born 1839)",
+  "Vendor: C. G. Boerner, Leipzig"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021681"
+  }
+ }
+}

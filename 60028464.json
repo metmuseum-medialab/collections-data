@@ -1,0 +1,44 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Japan",
+ "Medium": "Ink and color on brown prepared paper",
+ "Dimensions": "11 x 16 in. (27.9 x 40.6 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Annette Young, in memory of her brother, Innis Young, 1956",
+ "Accession Number": "56.121.18",
+ "Who": "Katsushika Hokusai",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Paintings"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Art of the Edo Period (1615–1868)",
+  "Japonisme",
+  "Art of the Pleasure Quarters and the Ukiyo–e Style",
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60028464,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/56_121_18_162308.jpg",
+ "related-artworks": [
+  60019514,
+  60028452,
+  60028453,
+  60028448,
+  60028454
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028464"
+  }
+ }
+}

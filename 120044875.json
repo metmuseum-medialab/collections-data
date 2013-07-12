@@ -1,0 +1,44 @@
+{
+ "Date": "16th–17th century",
+ "Culture": "Italian",
+ "Medium": "Silk",
+ "Dimensions": "10 1/4 x 8 inches (26.0 x 20.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Fletcher Fund, 1946",
+ "Accession Number": "46.156.91",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Panels"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Florence and Central Italy, 1600–1800 A.D.",
+  "Florence and Central Italy, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120044875,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/137345.jpg",
+ "related-artworks": [
+  120037434,
+  120037435,
+  120037438,
+  120040297,
+  120044752
+ ],
+ "Provenance": [
+  "Giorgio Sangiorgi , Rome",
+  "[ Adolph Loewi , 1946",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044875"
+  }
+ }
+}

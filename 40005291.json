@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1810 (?)",
+ "Culture": "Austrian",
+ "Medium": "Silk",
+ "Dimensions": "59 x 57 in. (149.8 x 144.7 cm)",
+ "Classification": "Banners",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.1830",
+ "What": [
+  "Silk",
+  "Banners"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005291,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/21498.jpg",
+ "related-artworks": [
+  40005327,
+  40005279,
+  40005295,
+  40005325,
+  40003949
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40005291"
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "Period": "Classical",
+ "Date": "5th century B.C.",
+ "Culture": "Greek",
+ "Medium": "Bronze",
+ "Dimensions": "H. 2 1/2 in. (6.4 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Rogers Fund, 1921",
+ "Accession Number": "21.88.22",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011536,
+ "gallery-id": 157,
+ "Description": "During the sixth and fifth century B.C., Eros, the personification of love, appeared primarily as the \"assistant\" to Aphrodite. Erotes also were used in decorative contexts without particular mythological or narrative significance. This figure once decorated the disk of a caryatid mirror (mirror supported by a figure).",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130009134"
+   },
+   {
+    "href": "http://scrapi.org/object/130009230"
+   },
+   {
+    "href": "http://scrapi.org/object/130009515"
+   },
+   {
+    "href": "http://scrapi.org/object/130011023"
+   },
+   {
+    "href": "http://scrapi.org/object/130011633"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130011536"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130011536"
+  }
+ }
+}

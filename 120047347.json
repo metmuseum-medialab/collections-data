@@ -1,0 +1,38 @@
+{
+ "Date": "third quarter 18th century",
+ "Culture": "Franco-Flemish",
+ "Medium": "Linen, bobbin lace",
+ "Dimensions": "L. 44 1/2 x W. 3 1/4 inches (113.0 x 8.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Donald P. Spence in memory of her mother Mrs. William Redmond Cross, 1979",
+ "Accession Number": "1979.311.16a, b",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Lace",
+  "Bobbin lace",
+  "Lappets"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120047347,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/GT39e.jpg",
+ "related-artworks": [
+  120035865,
+  120047340,
+  120047339,
+  120047348,
+  120047337
+ ],
+ "Provenance": [
+  "Mrs. Donald Spence (until 1979",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120047347"
+  }
+ }
+}

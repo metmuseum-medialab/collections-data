@@ -1,0 +1,51 @@
+{
+ "Date": "1780–90",
+ "Culture": "British, Etruria, Staffordshire",
+ "Medium": "Black basalt ware with \"encaustic\" decoration",
+ "Dimensions": "Diam. 13 5/8 in. (34.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1931",
+ "Accession Number": "31.84.2",
+ "Who": "Josiah Wedgwood",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Plaques",
+  "Basalt"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The Grand Tour",
+  "The Neoclassical Temple",
+  "Cameo Appearances",
+  "Neoclassicism",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120011712,
+ "gallery-id": 509,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/84926.jpg",
+ "related-artworks": [
+  120011711,
+  120007834,
+  120007839,
+  120011919,
+  120014158
+ ],
+ "Description": "In his attempt to imitate ancient Greek vase painting, Wedgwood developed this type of decoration, known as encaustic painting, which he patented in 1769.",
+ "Provenance": [
+  "Lieut. Francis Blower Gibbes Sr. (from 1812)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011712"
+  }
+ }
+}

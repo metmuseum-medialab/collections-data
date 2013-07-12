@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1890",
+ "Culture": "French",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 41 in. (104.1 cm)",
+ "Credit Line": "Gift of Mrs. Jan Juta, 1950",
+ "Accession Number": "C.I.50.23.2",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Underwear",
+  "Chemises"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80037391,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DP269005.jpg",
+ "related-artworks": [
+  80093722,
+  80029780,
+  80037140,
+  80037468,
+  80093721
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80037391"
+  }
+ }
+}

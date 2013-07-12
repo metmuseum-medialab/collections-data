@@ -1,0 +1,39 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "China",
+ "Medium": "Wood",
+ "Dimensions": "W. 15 in. (38.1 cm); L. 25 in. (63.5 cm)",
+ "Classification": "Woodblocks",
+ "Credit Line": "Fletcher Fund, 1942",
+ "Accession Number": "42.74.35",
+ "What": [
+  "Panels",
+  "Idiophones",
+  "Slit drums",
+  "Woodblocks"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60033210,
+ "related-artworks": [
+  60033185,
+  60033186,
+  60033189,
+  60033201,
+  60033197
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033210"
+  }
+ }
+}

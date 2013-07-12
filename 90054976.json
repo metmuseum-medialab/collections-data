@@ -1,0 +1,43 @@
+{
+ "Artist": "After William Russell Birch (American (born England), Warwick 1755–1834 Philadelphia, Pennsylvania)",
+ "Publisher": "William Russell Birch (American (born England), Warwick 1755–1834 Philadelphia, Pennsylvania)",
+ "Date": "January 1, 1803",
+ "Medium": "Hand-colored etching and engraving; second state of three",
+ "Dimensions": [
+  "plate 18 13/16 x 23 7/8 in. (47.8 x 60.7 cm)",
+  "sheet 26 9/16 x 27 1/8 in. (67.5 x 68.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954",
+ "Accession Number": "54.90.1209",
+ "Who": [
+  "William Russell Birch",
+  "Samuel Seymour"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90054976,
+ "related-artworks": [
+  90054410,
+  90057111,
+  90012471
+ ],
+ "Provenance": [
+  "Donor: Edward W. C. Arnold"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90054976"
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "Printer": "Faunce & Spinney (Lynn, Massachusetts)",
+ "Date": "1904",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1952",
+ "Accession Number": "52.574.3",
+ "Who": [
+  "E. Holbrook",
+  "Faunce & Spinney"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90022991,
+ "related-artworks": [
+  90000871,
+  90000872,
+  90000873,
+  90000874,
+  90000875
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90022991"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Designer": "Jules François Crahay (French, 1917–1988)",
+ "Date": "ca. 1974",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 56 in. (142.2 cm)",
+ "Credit Line": "Gift of Mrs. Charles C. Paterson, 1982",
+ "Accession Number": "1982.528.6",
+ "Who": [
+  "House of Lanvin",
+  "Jules François Crahay"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80017890,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1982.528.6_F.jpg",
+ "related-artworks": [
+  80006173,
+  80002642,
+  80003292,
+  80006170,
+  80006258
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80017890"
+  }
+ }
+}

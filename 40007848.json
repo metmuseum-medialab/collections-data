@@ -1,0 +1,32 @@
+{
+ "Date": "18th century",
+ "Culture": "Japanese",
+ "Classification": "Sword Furniture",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1938",
+ "Accession Number": "38.55.15a, b",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40007848,
+ "related-artworks": [
+  40000001,
+  40000006,
+  40000009,
+  40000015,
+  40000017
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40007848"
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "Medium": "Bronze",
+ "Dimensions": "H. 2 11/16 in. (6.8 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Purchase, 1896",
+ "Accession Number": "96.9.280",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006768,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP21053.jpg",
+ "related-artworks": [
+  130006752,
+  130006776,
+  130004885,
+  130004927,
+  130004931
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006768"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "second half 18th century",
+ "Culture": "probably Ecuadoran, Quito",
+ "Medium": "Wood, polychromed and gilt",
+ "Dimensions": "H. ca. 4 in. (10.2 cm)",
+ "Classification": "Crèche",
+ "Credit Line": "Gift of Loretta Hines Howard, 1964",
+ "Accession Number": "64.164.198",
+ "What": [
+  "Gilt",
+  "Wood",
+  "Figures",
+  "Polychromy",
+  "Crèches"
+ ],
+ "Where": [
+  "South America",
+  "Ecuador",
+  "Quito"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "South America, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120019938,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/180753.jpg",
+ "related-artworks": [
+  120018478,
+  120019957,
+  120019942,
+  120019963,
+  120019921
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019938"
+  }
+ }
+}

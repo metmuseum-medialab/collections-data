@@ -1,0 +1,38 @@
+{
+ "Date": "17th century",
+ "Culture": "German",
+ "Classification": "Archery Equipment",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.1595",
+ "What": [
+  "Arms",
+  "Archery",
+  "Bows",
+  "Crossbows"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40012216,
+ "related-artworks": [
+  40001552,
+  40003158,
+  40003160,
+  40005732,
+  40012102
+ ],
+ "Provenance": [
+  "Ex coll.:  Count Leopold, Dresden",
+  "Historical Museum, Dresden"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40012216"
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "Author": "Robert Frank (American, born Zurich, 1924)",
+ "Date": "1954",
+ "Medium": "Pencil on paper (manuscript)",
+ "Dimensions": [
+  "Sheet 1 27.8 x 21.6 cm (10 15/16 x 8 1/2 in.)",
+  "Sheet 2a 10.8 x 21.6 cm (4 1/4 x 8 1/2 in.)",
+  "Sheet 2b 27.8 x 21.6 cm (10 15/16 x 8 1/2 in.)",
+  "Sheet 3 27.8 x 21.6 cm (10 15/16 x 8 1/2 in.)",
+  "Sheet 4 27.8 x 21.6 cm (10 15/16 x 8 1/2 in.)"
+ ],
+ "Classification": "Manuscript Materials",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.250.5.13.1–.4",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": [
+  "Walker Evans",
+  "Robert Frank"
+ ],
+ "What": [
+  "Paper",
+  "Manuscripts",
+  "Pencil"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Early Documentary Photography",
+  "Walker Evans (1903–1975)",
+  "Kodak and the Rise of Amateur Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190043001,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP76704.jpg",
+ "related-artworks": [
+  190034854,
+  190034878,
+  190034917,
+  190036578,
+  190036580
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190043001"
+  }
+ }
+}

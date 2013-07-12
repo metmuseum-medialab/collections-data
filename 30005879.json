@@ -1,0 +1,43 @@
+{
+ "Period": "Mitanni or Old Babylonian",
+ "Date": "ca. 19th–16th century B.C.",
+ "Geography": "Mesopotamia",
+ "Medium": "Hematite",
+ "Dimensions": "0.71 in. (1.8 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Gift of The Right Reverend Paul Moore Jr., 1985",
+ "Accession Number": "1985.357.12",
+ "What": [
+  "Stone",
+  "Seals",
+  "Cylinder seals",
+  "Hematite"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30005879,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss1985_357_12.jpg",
+ "related-artworks": [
+  30000024,
+  30000026,
+  30000034,
+  30001021,
+  30001022
+ ],
+ "Provenance": [
+  "By the 1930s, collection of Mrs. William H. Moore, New York (until d. 1955)",
+  "from 1955, on loan to the Museum by her grandson, The Right Reverend Paul Moore, Jr.",
+  "acquired by the Museum in 1985, gift of The Right Reverend Paul Moore, Jr., New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30005879"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1850",
+ "Culture": "American",
+ "Medium": "straw, horsehair, silk",
+ "Dimensions": "Height 11 1/4 in. (28.6 cm)",
+ "Credit Line": "Gift of Mrs. Pierre S. du Pont III, 1960",
+ "Accession Number": "C.I.60.20.2",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Hair",
+  "Straw",
+  "Bonnets",
+  "Horsehair"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80032188,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI60.20.2_S.jpg",
+ "related-artworks": [
+  80044629,
+  80106589,
+  80108088,
+  80010831,
+  80044668
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80032188"
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "Date": "1615–73",
+ "Medium": "Pen and brown ink, brown wash over black chalk, highlighted with white on off-white paper. Squared in red chalk and traces of construction lines in black chalk, close to borders",
+ "Dimensions": "17-7/8 x 13-3/16 in.  (45.4 x 33.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Harry G. Sperling, 1971",
+ "Accession Number": "1975.131.203",
+ "Who": "Francisco Camilo",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002268,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800316.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90002304",
+  "http://scrapi.org/object/90002269",
+  "http://scrapi.org/object/90002270",
+  "http://scrapi.org/object/90002271",
+  "http://scrapi.org/object/90002302"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Harry G. Sperling"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002304"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002269"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002270"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002271"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002302"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90002268"
+  }
+ }
+}

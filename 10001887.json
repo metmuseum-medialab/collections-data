@@ -1,0 +1,52 @@
+{
+ "Date": "1837",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Mahogany, ash, poplar",
+ "Dimensions": "30 1/4 x 16 1/2 in. (76.8 x 41.9 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Purchase, L. E. Katzenbach Fund Gift, 1966",
+ "Accession Number": "66.221.6",
+ "Who": "Duncan Phyfe",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Mahogany",
+  "Side chairs",
+  "Poplar"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Duncan Phyfe (1768–1854) and Charles–Honoré Lannuier (1779–1819)",
+  "American Federal Era Period Rooms",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10001887,
+ "gallery-id": 738,
+ "related-artworks": [
+  10001827,
+  10001828,
+  10001829,
+  10001884,
+  10001886
+ ],
+ "Provenance": [
+  "descended in the Katzenbach family, New Canaan, Connecticut",
+  "William E. Katzenbach, New York, until 1966"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001887"
+  }
+ }
+}

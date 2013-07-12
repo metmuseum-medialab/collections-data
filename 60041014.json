@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "18th-19th century",
+ "Culture": "China",
+ "Medium": "Silk",
+ "Dimensions": "7 3/4 x 3 1/4 in. (19.68 x 8.26 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mr. and Mrs. H. O. Havemeyer, 1896",
+ "Accession Number": "96.14.1758",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Tapestries"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60041014,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP13035.jpg",
+ "related-artworks": [
+  60004542,
+  60006495,
+  60006660,
+  60006758,
+  60006768
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60041014"
+  }
+ }
+}

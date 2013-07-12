@@ -1,0 +1,51 @@
+{
+ "Date": "1550",
+ "Culture": "German",
+ "Classification": "Armor Parts",
+ "Credit Line": "Rogers Fund, 1932",
+ "Accession Number": "32.109.3a–c",
+ "What": [
+  "Costume",
+  "Armor",
+  "Body armor"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40010659,
+ "related-artworks": [
+  "http://scrapi.org/object/40000150",
+  "http://scrapi.org/object/40000437",
+  "http://scrapi.org/object/40000983",
+  "http://scrapi.org/object/40000984",
+  "http://scrapi.org/object/40001044"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000150"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000437"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000983"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000984"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40001044"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40010659"
+  }
+ }
+}

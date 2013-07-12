@@ -1,0 +1,33 @@
+{
+ "Date": "4th–7th century",
+ "Geography": "Made in Kharga Oasis, Byzantine Egypt",
+ "Culture": "Coptic",
+ "Medium": "Earthenware, slip decoration",
+ "Dimensions": "Overall 2 1/4 x 6 11/16 in. (5.7 x 17 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.10.20.253",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Bowls",
+  "Slip decoration"
+ ],
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170020848,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cop0406s1.jpg",
+ "related-artworks": [
+  170019279,
+  170019280,
+  170019282,
+  170019281,
+  170019285
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170020848"
+  }
+ }
+}

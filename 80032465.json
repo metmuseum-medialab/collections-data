@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1971",
+ "Culture": "Italian",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 29 1/2 in. (74.9 cm)",
+ "Credit Line": "Gift of Judith Leiber, 1981",
+ "Accession Number": "1981.340.3a, b",
+ "Who": "Missoni",
+ "What": [
+  "Silk",
+  "Ensembles"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Made in Italy Italian Fashion from 1950 to Now",
+  "Italian Peninsula, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80032465,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1981.340.3ab_F.jpg",
+ "related-artworks": [
+  80032827,
+  80032813,
+  80032814,
+  80000877,
+  80000878
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80032465"
+  }
+ }
+}

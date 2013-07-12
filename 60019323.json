@@ -1,0 +1,44 @@
+{
+ "Date": "1800",
+ "Culture": "Japan",
+ "Medium": "White porcelain decorated with blue under the glaze, and polychrome enamels (Arita ware)",
+ "Dimensions": "H. 25 in. (63.5 cm); Diam. 9 in. (22.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Charles Stewart Smith, 1893",
+ "Accession Number": "93.3.230",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Vases",
+  "Glaze",
+  "Enamels",
+  "Arita"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60019323,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/29988.jpg",
+ "related-artworks": [
+  60019250,
+  60016336,
+  60016334,
+  60019365,
+  60015154
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60019323"
+  }
+ }
+}

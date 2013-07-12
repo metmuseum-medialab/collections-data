@@ -1,0 +1,38 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1625",
+ "Culture": "Japan",
+ "Medium": "Silk, metallic thread",
+ "Dimensions": "23 x 27 in. (58.42 x 68.58 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1919",
+ "Accession Number": "19.93.51",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Altar cloths"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60041914,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/44030.jpg",
+ "related-artworks": [
+  60041514,
+  60041898,
+  60041902,
+  60041904,
+  60041905
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60041914"
+  }
+ }
+}

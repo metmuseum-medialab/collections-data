@@ -1,0 +1,31 @@
+{
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry G. Friedman, 1962",
+ "Accession Number": "62.635.902",
+ "Who": "Giovanni Benedetto Castiglione (Il Grechetto)",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "id": 90068146,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP816524.jpg",
+ "related-artworks": [
+  90002637,
+  90002632,
+  90068119,
+  90068150,
+  90068134
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90068146"
+  }
+ }
+}

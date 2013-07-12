@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Terracotta",
+ "Dimensions": "l. 2.75 cm (1 1/16 in.)",
+ "Credit Line": "Gift of Joseph W. Drexel, 1889",
+ "Accession Number": "89.2.250",
+ "What": [
+  "Clay",
+  "Terracotta",
+  "Molds"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100016367,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/89.2.250_acc.jpg",
+ "related-artworks": [
+  100007596,
+  100008521,
+  100008522,
+  100008567,
+  100016365
+ ],
+ "Provenance": [
+  "Donated by Joseph W. Drexel, Philadelphia, 1889."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100016367"
+  }
+ }
+}

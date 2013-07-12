@@ -1,0 +1,46 @@
+{
+ "Period": "Archaic",
+ "Date": "6th century B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Limestone",
+ "Dimensions": "Overall 10 1/4 x 4 x 2 1/4in. (26 x 10.2 x 5.7cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2538",
+ "What": [
+  "Costume",
+  "Sculpture",
+  "Stone",
+  "Figures",
+  "Limestone",
+  "Statues",
+  "Figurines",
+  "Masks"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "id": 130002555,
+ "gallery-id": 174,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP215170.jpg",
+ "related-artworks": [
+  130002532,
+  130002581,
+  130002687,
+  130002522,
+  130001641
+ ],
+ "Description": "The figure is holding the mask of a stag's head with both hands, as if to put on or remove it. He may be a priest or worshiper participating in a ritual.",
+ "Provenance": [
+  "Sanctuary of Golgoi–Ayios Photios"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002555"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "New Kingdom, Amarna Period",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Akhenaten",
+ "Date": "ca. 1353–1336 B.C.",
+ "Geography": "Country of Origin Egypt, Middle Egypt, el-Amarna (Akhetaten); inc. el-Hagg Qandil, Town manufactories, Petrie/Carter 1891–1892",
+ "Medium": "Pottery",
+ "Dimensions": "l. 2.7 cm (1 1/16 in.)",
+ "Credit Line": "Gift of Edward S. Harkness, 1921",
+ "Accession Number": "21.9.34",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Molds"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Amarna"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100028480,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DP261901.jpg",
+ "related-artworks": [
+  100026376,
+  100026377,
+  100026381,
+  100028481,
+  100028482
+ ],
+ "Provenance": [
+  "Petrie excavations 1891-1892. Acquired by Petrie in the division of finds. Acquired by Lord Amherst for his support. Purchased by the Museum at the Amherst Sale, Sotheby's, 1921."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100028480"
+  }
+ }
+}

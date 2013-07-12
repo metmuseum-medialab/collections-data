@@ -1,0 +1,38 @@
+{
+ "Date": "9th–10th century",
+ "Geography": "Afghanistan or Northeastern Iran",
+ "Medium": "Bronze",
+ "Classification": "Metal",
+ "Credit Line": "Anonymous Gift, 1973",
+ "Accession Number": "1973.338.8",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Bowls"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140014665,
+ "related-artworks": [
+  140006393,
+  140006416,
+  140006417,
+  140006620,
+  140006862
+ ],
+ "Provenance": [
+  "Private collection(until 1973)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140014665"
+  }
+ }
+}

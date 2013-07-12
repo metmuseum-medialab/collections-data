@@ -1,0 +1,50 @@
+{
+ "Artist": "Unknown Unknown Spanish",
+ "Date": "model 16th century (cast 17th century or later)",
+ "Culture": "Spanish or Northern Italian",
+ "Medium": "Copper alloy with gilt obverse and reverse with reddish brown patina; integrally cast suspension loop at the top.",
+ "Dimensions": "11.2 x 7 cm, wt. 148.45 g.",
+ "Classification": "Plaquettes",
+ "Credit Line": [
+  "Robert Lehman Collection, 1975",
+  "1975.1.1359"
+ ],
+ "Accession Number": "1975.1.1359",
+ "Who": [
+  "Italian",
+  "Unknown Spanish"
+ ],
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Gilt",
+  "Copper",
+  "Plaquettes",
+  "Patina"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 150008345,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/1359r.jpg",
+ "related-artworks": [
+  150007912,
+  150007940,
+  150008076,
+  150008501,
+  150008507
+ ],
+ "Provenance": [
+  "Not established."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008345"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "fall/winter 2000–2001",
+ "Culture": "American",
+ "Medium": "wool, synthetic",
+ "Dimensions": "Length at CB 47 1/2 in. (120.7 cm)",
+ "Credit Line": "Gift of Geoffrey Beene, 2001",
+ "Accession Number": "2001.393.161",
+ "Who": "Geoffrey Beene",
+ "What": [
+  "Costume",
+  "Wool",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80004066,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2001.393.161_F.jpg",
+ "related-artworks": [
+  80000229,
+  80000445,
+  80000589,
+  80000590,
+  80000594
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80004066"
+  }
+ }
+}

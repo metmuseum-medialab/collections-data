@@ -1,0 +1,49 @@
+{
+ "Date": "late 18th century",
+ "Culture": "French (Munster)",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 45 x W. 32 3/4 inches",
+  "114.3 x 83.2 cm",
+  "33 3/4 inches (loom width)",
+  "85.7 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1958",
+ "Accession Number": "58.70.2",
+ "Who": "Pourtalès",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Alsace",
+  "Haut-Rhin",
+  "Munster"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120046414,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SC146343.jpg",
+ "related-artworks": [
+  120039626,
+  120037194,
+  120039876,
+  120045292,
+  120046602
+ ],
+ "Provenance": [
+  "Elinor Merrell , 1958",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046414"
+  }
+ }
+}

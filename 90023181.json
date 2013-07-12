@@ -1,0 +1,35 @@
+{
+ "Date": "19th century",
+ "Medium": "Watercolor and gouache, over graphite",
+ "Dimensions": "13 x 18 9/16 in. (33 x 47.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Leon Lowenstein Foundation Inc. Gift, 1977",
+ "Accession Number": "1977.585.1",
+ "Who": "Anonymous, French, 19th century",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Graphite",
+  "Gouache"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023181,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP812930.jpg",
+ "related-artworks": [
+  90007029,
+  90022861,
+  90023184,
+  90023253,
+  90023350
+ ],
+ "Provenance": [
+  "Vendor: Jean-Louis Barbéry (French)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023181"
+  }
+ }
+}

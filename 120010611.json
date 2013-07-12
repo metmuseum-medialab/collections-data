@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1764–88",
+ "Culture": "Dutch (Delft)",
+ "Medium": "Tin-enameled earthenware",
+ "Dimensions": "Diam. 9-1/16 in. (23 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Cornelius Vanderbilt, 1927",
+ "Accession Number": "27.143.9",
+ "Who": "Porcelain Axe (de Porceleyne Bijl)",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Plates"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands",
+  "Delft"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010611,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/68581.jpg",
+ "related-artworks": [
+  120010604,
+  120010607,
+  120010608,
+  120010612,
+  120008053
+ ],
+ "Provenance": [
+  "Mrs. Cornelius Vanderbilt (until 1927",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120010611"
+  }
+ }
+}

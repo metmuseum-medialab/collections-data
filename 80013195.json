@@ -1,0 +1,34 @@
+{
+ "Date": "1900",
+ "Culture": "French",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Conway L. Atwater, 1942",
+ "Accession Number": "C.I.42.24.1a–c",
+ "What": "Ensembles",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80013195,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.42.24.1ab_F.jpg",
+ "related-artworks": [
+  80000045,
+  80000056,
+  80000057,
+  80000055,
+  80000058
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80013195"
+  }
+ }
+}

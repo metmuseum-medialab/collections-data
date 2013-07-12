@@ -1,0 +1,41 @@
+{
+ "Date": "1935",
+ "Medium": "Bronze",
+ "Dimensions": "3 1/2 x 2 1/4 in. (8.9 x 5.7 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of the Society of Medalists, 1950",
+ "Accession Number": "50.193",
+ "Who": "John Flanagan",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 20015384,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/APS1469.jpg",
+ "related-artworks": [
+  20015278,
+  20015279,
+  20015364,
+  20015365,
+  20015368
+ ],
+ "Provenance": [
+  "the Society of Medalists, until 1950"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20015384"
+  }
+ }
+}

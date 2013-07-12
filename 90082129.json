@@ -1,0 +1,45 @@
+{
+ "Artist": "After Agostino Veneziano (Agostino dei Musi) (Italian, Venice ca. 1490–after 1536 Rome)",
+ "Date": "1540 after",
+ "Medium": "Pen and black ink, brush and gray wash",
+ "Dimensions": "Overall 14 7/8 x 10 15/16 x 3/16 in. (37.8 x 27.8 x 0.5 cm)",
+ "Classification": "Albums",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.643.4(1-14)",
+ "Who": [
+  "Anonymous, Italian, 16th century",
+  "Agostino Veneziano (Agostino dei Musi)",
+  "Cornelis Bos",
+  "Cornelis Metsys"
+ ],
+ "What": [
+  "Ink",
+  "Books",
+  "Albums"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90082129,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804950.jpg",
+ "related-artworks": [
+  90019824,
+  90019825,
+  90038761,
+  90007874,
+  90009454
+ ],
+ "Description": "Modern album or scrapbook containing 14 drawings by the same hand, after prints by Cornelis Bos, Cornelis Metsys and Agostino Veneziano.",
+ "Provenance": [
+  "Vendor: Walter Schatzki"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90082129"
+  }
+ }
+}

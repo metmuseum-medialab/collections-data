@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1790",
+ "Culture": "British, Staffordshire",
+ "Dimensions": "Diam. 7 13/16 in. (19.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Bernice Chrysler Garbisch, 1952",
+ "Accession Number": "52.206.3",
+ "Who": "John Turner",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Plates"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120027052,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/154360.jpg",
+ "related-artworks": [
+  120027054,
+  120016663,
+  120027051,
+  120027053,
+  120027055
+ ],
+ "Provenance": [
+  "George McKearin (sold to Mrs. Garbisch)",
+  "Mrs. Bernice Chrysler Garbisch (until 1952",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120027052"
+  }
+ }
+}

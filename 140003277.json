@@ -1,0 +1,42 @@
+{
+ "Date": "early 20th century",
+ "Geography": "Palestine, Hebron",
+ "Medium": "Applied glass",
+ "Dimensions": "H. 4 7/8 in.",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.2645",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Ewers"
+ ],
+ "Where": [
+  "Asia",
+  "Israel",
+  "Hebron",
+  "West Bank"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Arabian Peninsula and the Eastern Mediterranean, 1900 A.D.–present",
+ "id": 140003277,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf10-130-2645a.jpg",
+ "related-artworks": [
+  140003278,
+  140003279,
+  140002504,
+  140004291,
+  140006960
+ ],
+ "Provenance": [
+  "Chauncey Murch, Luxor, Egypt (until d. 1907)",
+  "Mrs. Chauncey Murch(1907–10)",
+  "Helen Miller Gould, New York (1910)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003277"
+  }
+ }
+}

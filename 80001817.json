@@ -1,0 +1,44 @@
+{
+ "Designer": "Yves Saint Laurent (French (born Algeria) Oran 1936–2008 Paris)",
+ "Date": "1980s",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length at CB (a) 21 in. (53.3 cm)",
+  "Length at CB (b) 33 in. (83.8 cm)"
+ ],
+ "Credit Line": "Anonymous Gift, 1993",
+ "Accession Number": "1993.137.5a–c",
+ "Who": [
+  "Yves Saint Laurent",
+  "Yves Saint Laurent, Paris"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Cocktail dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80001817,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1993.137.5a–c_F.jpg",
+ "related-artworks": [
+  80001354,
+  80001821,
+  80001374,
+  80001469,
+  80023574
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001817"
+  }
+ }
+}

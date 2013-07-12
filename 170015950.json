@@ -1,0 +1,42 @@
+{
+ "Date": "600",
+ "Geography": "Made in Thebes, Byzantine Egypt",
+ "Culture": "Coptic",
+ "Medium": "Pottery fragment with ink inscription",
+ "Dimensions": "2 3/8 x 2 5/16 in. (6 x 5.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1914",
+ "Accession Number": "14.1.105",
+ "What": [
+  "Ceramics",
+  "Ink",
+  "Fragments",
+  "Pottery",
+  "Ostraka"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Thebes",
+  "Arkansas",
+  "Ashley"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "North America, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170015950,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf14-1-105s1.jpg",
+ "related-artworks": [
+  170014203,
+  170015861,
+  170015852,
+  170015870,
+  170015897
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170015950"
+  }
+ }
+}

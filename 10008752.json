@@ -1,0 +1,48 @@
+{
+ "Date": "1745–60",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": "L. 4 7/16 in. (11.3 cm); 6 dwt. (9.4 g)",
+ "Classification": "Silver",
+ "Credit Line": "Gift of Mrs. Harry G. Friedman, 1952",
+ "Accession Number": "52.210.1",
+ "Who": "Myer Myers",
+ "What": [
+  "Metal",
+  "Silver",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "American Rococo",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10008752,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/154415.jpg",
+ "related-artworks": [
+  10008750,
+  10008751,
+  10008753,
+  10008076,
+  10008985
+ ],
+ "Provenance": [
+  "Mrs. Harry G. Friedman, New York, until 1952"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10008752"
+  }
+ }
+}

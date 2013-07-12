@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1830",
+ "Culture": "probably French, Paris",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 11 in. (27.9 cm.); W. 8 1/4 in. (21.0 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. William A. Moore, 1923",
+ "Accession Number": "23.80.69",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Urns"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009779,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/52523.jpg",
+ "related-artworks": [
+  120009192,
+  120009191,
+  120011206,
+  120014102,
+  120016049
+ ],
+ "Provenance": [
+  "Mr. and Mrs. William A. Moore (until 1923",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009779"
+  }
+ }
+}

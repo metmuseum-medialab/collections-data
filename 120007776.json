@@ -1,0 +1,61 @@
+{
+ "Date": "1904",
+ "Culture": "French",
+ "Medium": "bronze, struck",
+ "Dimensions": "Dia 2 in. (51 mm)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of W. W. Nisbet, 1914",
+ "Accession Number": "14.113.1",
+ "Who": "Alexis Joseph Depaulis",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 120007776,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/27302.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120005082",
+  "http://scrapi.org/object/120000892",
+  "http://scrapi.org/object/120024144",
+  "http://scrapi.org/object/120000908",
+  "http://scrapi.org/object/120000896"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "W. W. Nisbet (until 1914; to MMA)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120005082"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000892"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120024144"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000908"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000896"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120007776"
+  }
+ }
+}

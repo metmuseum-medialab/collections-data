@@ -1,0 +1,39 @@
+{
+ "Publisher": "Published by Wiener Werkstätte",
+ "Date": "ca. 1907/8–14",
+ "Medium": "Color lithograph",
+ "Dimensions": "sheet 5 9/16 x 3 9/16 in. (14.2 x 9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Museum Accession, transferred from the Library",
+ "Accession Number": "WW.36",
+ "Who": [
+  "Wiener Werkstätte",
+  "Leopoldine Kolbe"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "id": 90063226,
+ "related-artworks": [
+  90063228,
+  90066438,
+  90063186,
+  90063187,
+  90063174
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90063226"
+  }
+ }
+}

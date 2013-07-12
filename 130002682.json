@@ -1,0 +1,53 @@
+{
+ "Period": "Classical ?",
+ "Date": "480–310 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Limestone",
+ "Dimensions": "H. 4 x 5 2/4 x 1 3/4 in.  (10.2 x 14.0 x 4.4 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2665",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Limestone",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "id": 130002682,
+ "Provenance": [
+  "Sanctuary of Golgoi–Ayios Photios"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130002477"
+   },
+   {
+    "href": "http://scrapi.org/object/130002520"
+   },
+   {
+    "href": "http://scrapi.org/object/130002527"
+   },
+   {
+    "href": "http://scrapi.org/object/130002539"
+   },
+   {
+    "href": "http://scrapi.org/object/130002545"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130002682"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130002682"
+  }
+ }
+}

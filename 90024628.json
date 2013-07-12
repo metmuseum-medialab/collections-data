@@ -1,0 +1,45 @@
+{
+ "Engraver": "Johann Bernhard Hattinger (German, active 18th century)",
+ "Publisher": "Published by Jeremias Wolff heirs (German)",
+ "Date": "ca. 1740",
+ "Medium": "Engravings",
+ "Dimensions": "Overall 16 3/4 x 10 5/8 x 1/16 in. (42.5 x 27 x 0.1 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.703.12.1-.5",
+ "Who": [
+  "Jeremias Wolff heirs",
+  "Johann Bernhard Hattinger",
+  "Johann Claudius Sarron"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Intaglio prints",
+  "Engravings"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024628,
+ "related-artworks": [
+  90038109,
+  90020317,
+  90020325,
+  90023746,
+  90011177
+ ],
+ "Provenance": [
+  "Vendor: Emil Hirsch"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024628"
+  }
+ }
+}

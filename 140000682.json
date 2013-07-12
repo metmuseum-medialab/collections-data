@@ -1,0 +1,43 @@
+{
+ "Date": "4th century",
+ "Geography": "Egypt",
+ "Medium": "Wool, linen; plain weave, tapestry weave",
+ "Dimensions": "14.62 in. high 13.87 in. wide (37 cm high 35 cm wide)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase by subscription, 1889",
+ "Accession Number": "89.18.301",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Wool",
+  "Linen",
+  "Tapestries",
+  "Plain weave"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140000682,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/TP270.jpg",
+ "related-artworks": [
+  140000376,
+  140000381,
+  140000382,
+  140000403,
+  140000387
+ ],
+ "Provenance": [
+  "[ Theodor Graf, by 1887–89",
+  "sold to R.W. Eltzner for MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140000682"
+  }
+ }
+}

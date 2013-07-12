@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Porcelain (Export ware)",
+ "Dimensions": "H. 9 1/4 in. (23.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Mary Stillman Harkness, 1950",
+ "Accession Number": "50.145.242",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Vases"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60015951,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/50_145_242_O1_sf.jpg",
+ "related-artworks": [
+  60009658,
+  60023827,
+  60009627,
+  60009647,
+  60009654
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60015951"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "Date": "20th century",
+ "Medium": "Photomechanical process",
+ "Dimensions": "7 9/16 x 9 1/2 in. (19.2 x 24.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1965",
+ "Accession Number": "65.658.29",
+ "Who": "Western Pine Association",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018414,
+ "related-artworks": [
+  90000871,
+  90000872,
+  90000873,
+  90000874,
+  90000875
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90018414"
+  }
+ }
+}

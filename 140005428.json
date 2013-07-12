@@ -1,0 +1,39 @@
+{
+ "Object Name": "Wall panel",
+ "Date": "20th century",
+ "Geography": "Iraq, Samarra",
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Edward C. Moore Jr. Gift, 1927",
+ "Accession Number": "27.229.4",
+ "What": [
+  "Sculpture",
+  "Panels"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Samarra"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Arabian Peninsula and the Eastern Mediterranean, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005428,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf27-229-4a.jpg",
+ "related-artworks": [
+  140005427,
+  140005426,
+  140005425,
+  140005916,
+  140004879
+ ],
+ "Provenance": [
+  "Kaiser Friedrich Museum, Berlin (1927",
+  "sold to Friedrich Sarre for MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005428"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "1825–30",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 13 in. (33 cm)",
+ "Credit Line": "Gift of Mrs. Marion W. Putnam, 1963",
+ "Accession Number": "C.I.63.40",
+ "What": [
+  "Costume",
+  "Silk",
+  "Outerwear",
+  "Capes",
+  "Pelerines"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80013189,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.63.40_F.jpg",
+ "related-artworks": [
+  80026987,
+  80036239,
+  80036243,
+  80035890,
+  80035896
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80013189"
+  }
+ }
+}

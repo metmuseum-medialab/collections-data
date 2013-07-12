@@ -1,0 +1,39 @@
+{
+ "Date": "late 19th century",
+ "Geography": "Borneo or China?",
+ "Medium": "Brass",
+ "Dimensions": "L. 2 ft. 1 in. (L. 63.1 cm, D. +/-2.0 cm --Richard Campbell '80)",
+ "Classification": "Aerophone-Blow Hole",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.1732",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Musical instruments",
+  "Brass",
+  "Aerophones",
+  "Flutes",
+  "Transverse flutes"
+ ],
+ "Where": [
+  "Asia",
+  "Borneo"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180012618,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS584A.jpg",
+ "related-artworks": [
+  180013166,
+  180013176,
+  180013979,
+  180017393,
+  180013181
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180012618"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "n.d.",
+ "Medium": "Pen and black ink over graphite",
+ "Dimensions": "10 9/16 x 8 1/4 in.  (26.8 x 21 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Howard Mansfield, 1931",
+ "Accession Number": "31.20.15",
+ "Who": "Henri Somm",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1900 A.D.–present",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90010556,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP808372.jpg",
+ "related-artworks": [
+  90050485,
+  90050486,
+  90013270,
+  90062726,
+  90062727
+ ],
+ "Provenance": [
+  "Howard Mansfield",
+  "Donor: Howard Mansfield"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010556"
+  }
+ }
+}

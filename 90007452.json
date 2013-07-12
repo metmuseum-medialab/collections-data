@@ -1,0 +1,38 @@
+{
+ "Date": "17th century",
+ "Medium": "Black chalk, brush and blue wash, highlighted with white gouache on cream paper",
+ "Dimensions": "5-1/2 x 16-5/16 in.  (13.9 x 41.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Cornelius Vanderbilt, 1880",
+ "Accession Number": "80.3.28",
+ "Who": "Anonymous, Italian, Roman-Bolognese, 17th century",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Chalk",
+  "Gouache"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90007452,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802185.jpg",
+ "related-artworks": [
+  90007190,
+  90007193,
+  90003363,
+  90006845,
+  90007179
+ ],
+ "Provenance": [
+  "James Jackson Jarves",
+  "Cornelius Vanderbilt (American, Staten Island, New York 1843–1899 New York)",
+  "Donor: Cornelius Vanderbilt (American, Staten Island, New York 1843–1899 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90007452"
+  }
+ }
+}

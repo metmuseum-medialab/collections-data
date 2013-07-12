@@ -1,0 +1,41 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 20",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, MMA 1935–1936",
+ "Medium": "Faience",
+ "Credit Line": "Rogers Fund, 1935",
+ "Accession Number": "35.3.155",
+ "What": [
+  "Faience",
+  "Plaques",
+  "Legs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100026646,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsbluedish6.jpg",
+ "related-artworks": [
+  100026648,
+  100026647,
+  100001068,
+  100006316,
+  100012039
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1934–1935. Acquired by the Museum in the division of finds, 1935."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100026646"
+  }
+ }
+}

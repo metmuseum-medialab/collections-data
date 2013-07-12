@@ -1,0 +1,38 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1935–43",
+ "Medium": "Serigraph",
+ "Dimensions": "image 14 3/4 x 11 3/4 in. (37.5 x 29.8 cm) sheet: 19 x 14 1/2 in. (48.3 x 36.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, New York, 1943",
+ "Accession Number": "43.33.934",
+ "Who": [
+  "WPA",
+  "David Burke"
+ ],
+ "What": "Prints",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90048081,
+ "related-artworks": [
+  90048077,
+  90048078,
+  90048079,
+  90048074,
+  90048080
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90048081"
+  }
+ }
+}

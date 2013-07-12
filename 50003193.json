@@ -1,0 +1,45 @@
+{
+ "Date": "12th–15th century",
+ "Geography": "Peru",
+ "Culture": "Chimú",
+ "Medium": "Silver",
+ "Dimensions": "H x W x D 6 3/4 x 4 1/4 x 9 3/4 in. (17.1 x 10.8 x 24.8 cm)",
+ "Classification": "Metal-Containers",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Gift of Nelson A. Rockefeller, 1969",
+ "Accession Number": "1978.412.164",
+ "Who": "Chimú",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Silver"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1400–1600 A.D.",
+  "Central and Southern Andes, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50003193,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1978.412.164_a.JPG",
+ "related-artworks": [
+  50001495,
+  50000042,
+  50000043,
+  50000044,
+  50000045
+ ],
+ "Provenance": [
+  "[Andre Emmerich Gallery, New York, until 1967]",
+  "Nelson A. Rockefeller, New York,  1967, on loan to The Museum of Primitive Art, 1967–1969",
+  "The Museum of Primitive Art, New York, 1969–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50003193"
+  }
+ }
+}

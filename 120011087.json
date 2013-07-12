@@ -1,0 +1,42 @@
+{
+ "Date": "1640–60",
+ "Culture": "Dutch",
+ "Medium": "Delftware (tin-enameled earthenware)",
+ "Dimensions": "5-3/8 x 5-3/8 x 7/16 in.  (13.7 x 13.7 x 1.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Fletcher Fund, 1927",
+ "Accession Number": "27.199.172",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Tile",
+  "Delftware"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011087,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES5269.jpg",
+ "related-artworks": [
+  120005417,
+  120005447,
+  120005584,
+  120011083,
+  120011084
+ ],
+ "Provenance": [
+  "Eelco M. Vis (until 1927",
+  "Eelco M. Vis sale, American Art Association, 1927, no. 191)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011087"
+  }
+ }
+}

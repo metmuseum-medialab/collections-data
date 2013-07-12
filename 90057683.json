@@ -1,0 +1,34 @@
+{
+ "Date": "1834",
+ "Medium": "Watercolor",
+ "Dimensions": "sheet 13 x 10 in. (33 x 25.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1924",
+ "Accession Number": "24.66.865",
+ "Who": "Alexander Jackson Davis",
+ "What": [
+  "Drawings",
+  "Watercolors"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90057683,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP169712.jpg",
+ "related-artworks": [
+  90005765,
+  90005766,
+  90006943,
+  90006948,
+  90006969
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90057683"
+  }
+ }
+}

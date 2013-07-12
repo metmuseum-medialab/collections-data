@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1744",
+ "Culture": "Austrian (Vienna)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 5-1/2 in. (14.0 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.270",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Figures",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "Austria",
+  "Vienna"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120018697,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP166664.jpg",
+ "related-artworks": [
+  120013676,
+  120015912,
+  120017018,
+  120018699,
+  120018700
+ ],
+ "Provenance": [
+  "Anton Redlich",
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120018697"
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "Date": "late 17th century",
+ "Culture": "possibly Portuguese",
+ "Medium": "Steel, horn",
+ "Dimensions": "Length, 12 7/8 in. (32.7 cm)",
+ "Classification": "Knives",
+ "Credit Line": "Gift of Rutherfurd Stuyvesant, 1893",
+ "Accession Number": "93.13.74",
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Knives",
+  "Horn",
+  "Dirks"
+ ],
+ "Where": [
+  "Europe",
+  "Portugal"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40013632,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/SF93_13_74.JPG",
+ "related-artworks": [
+  "http://scrapi.org/object/40013627",
+  "http://scrapi.org/object/40013629",
+  "http://scrapi.org/object/40001121",
+  "http://scrapi.org/object/40013624",
+  "http://scrapi.org/object/40013633"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40013627"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40013629"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40001121"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40013624"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40013633"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40013632"
+  }
+ }
+}

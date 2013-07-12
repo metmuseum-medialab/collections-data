@@ -1,0 +1,67 @@
+{
+ "Artist": "Suzi",
+ "Object Name": "Illustrated manuscript",
+ "Date": "dated A.H. 904/A.D. 1498–99",
+ "Geography": "Turkey, probably Istanbul or Amasya",
+ "Medium": "Main support ink, opaque watercolor, and gold on paper; binding: leather",
+ "Dimensions": [
+  "Entire sheet",
+  "9 7/16 x 6 7/16 inches (24 x 16.4 cm.)"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "Harris Brisbane Dick Fund, 1969",
+ "Accession Number": "69.27",
+ "Who": [
+  "Hatifi",
+  "Suzi"
+ ],
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Gold",
+  "Watercolors",
+  "Leather",
+  "Manuscripts",
+  "Codices",
+  "Illuminated manuscripts",
+  "Binding"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey",
+  "Marmara",
+  "Istanbul"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Art of the Ottomans before 1600",
+  "Balkan Peninsula, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140009411,
+ "gallery-id": 458,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP234022.jpg",
+ "related-artworks": [
+  140010572,
+  140010760,
+  140006810,
+  140008631,
+  140006811
+ ],
+ "Description": "Ottoman taste for Persian poetry led to the production of manuscripts such as this copy of the tale of Khusrau and Shirin by the poet Hatifi. The calligraphy, illumination, gilding, and painting of this manuscript were completed by a single artist calling himself Suzi (\"the burning one\"). His distinctive painting style exhibits elements borrowed from Aq Quyunlu painting of western Iran and European sources—such as the incorporation of  architectural perspective seen here.",
+ "Provenance": [
+  "Osman Ata'ullah, Turkey",
+  "Sir Gregory O. Page-Turner, England(until 1827",
+  "his sale, March 1827, lot 190,to Phillips)",
+  "Sir Thomas Phillipps, 1st Baronet, England (1827–d. 1872)",
+  "Bibliotheca Phillippica, England(1872–1968",
+  "its sale, Sotheby's, London,November 25–26, 1968, MS 3127, to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009411"
+  }
+ }
+}

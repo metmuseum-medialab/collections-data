@@ -1,0 +1,33 @@
+{
+ "Date": "17th century",
+ "Culture": "Indian",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.1842a, b",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Axes",
+  "Stilettos"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "South Asia, 1600–1800 A.D.",
+ "id": 40009247,
+ "related-artworks": [
+  40009248,
+  40009332,
+  40009215,
+  40009211,
+  40009250
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40009247"
+  }
+ }
+}

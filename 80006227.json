@@ -1,0 +1,61 @@
+{
+ "Date": "1938",
+ "Culture": "American",
+ "Medium": "nylon, silk",
+ "Dimensions": [
+  "Length at CB (a) 52 in. (132.1 cm)",
+  "Total Length (b) 85 1/2 in. (217.2 cm)"
+ ],
+ "Credit Line": "Gift of Muriel Kallis Newman, 1987",
+ "Accession Number": "1987.136.15a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Plastic",
+  "Nylon",
+  "Nightgowns"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80006227,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1987.136.15ab_B.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80037631",
+  "http://scrapi.org/object/80005297",
+  "http://scrapi.org/object/80024256",
+  "http://scrapi.org/object/80004841",
+  "http://scrapi.org/object/80005207"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1987.136.15ab_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1987.136.15ab_F.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80037631"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80005297"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80024256"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80004841"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80005207"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80006227"
+  }
+ }
+}

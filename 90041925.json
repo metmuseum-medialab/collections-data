@@ -1,0 +1,47 @@
+{
+ "Artist": "Engraved by Gilles Demarteau (French, Liège 1722–1776 Paris)",
+ "Date": "n.d.",
+ "Medium": "Etching",
+ "Dimensions": [
+  "sheet 18 7/8 x 14 5/16 in. (48 x 36.4 cm)",
+  "image 15 1/4 x 11 5/16 in. (38.8 x 28.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1947",
+ "Accession Number": "47.100.408",
+ "Who": [
+  "Jean Honoré Fragonard",
+  "Gilles Demarteau"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1600–1800 A.D.",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90041925,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP813962.jpg",
+ "related-artworks": [
+  90000899,
+  90000901,
+  90000902,
+  90000900,
+  90011446
+ ],
+ "Provenance": [
+  "Vendor: Charles Stehlin (active New York, 1947)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90041925"
+  }
+ }
+}

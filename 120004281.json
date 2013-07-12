@@ -1,0 +1,40 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Carved and gilded wood",
+ "Dimensions": "H. 24 in. (61 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+ "Accession Number": "07.225.491",
+ "What": [
+  "Gilt",
+  "Wood",
+  "Woodwork",
+  "Balusters"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120004281,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/4967.jpg",
+ "related-artworks": [
+  120004270,
+  120003954,
+  120012145,
+  120012163,
+  120012166
+ ],
+ "Provenance": [
+  "Georges Hoentschel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120004281"
+  }
+ }
+}

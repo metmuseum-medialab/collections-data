@@ -1,0 +1,45 @@
+{
+ "Date": "1798",
+ "Culture": "British",
+ "Medium": "Silk on wool",
+ "Dimensions": "10 5/8 x 10 3/8in. (27 x 26.4cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Katharine deB. Parsons and her brother Livingston Parsons, 1941",
+ "Accession Number": "41.27.4",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Wool",
+  "Embroidery",
+  "Samplers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044223,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/123343.jpg",
+ "related-artworks": [
+  120044222,
+  120045921,
+  120045925,
+  120045947,
+  120045926
+ ],
+ "Provenance": [
+  "Frances Walker Parsons",
+  "Katharine de B. Parsons",
+  "and Livingston Parsons (until 1941",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044223"
+  }
+ }
+}

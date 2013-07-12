@@ -1,0 +1,39 @@
+{
+ "Date": "1888",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 × 1 1/2 in. (7 × 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 204, N76.47",
+ "Who": "W. Duke, Sons & Co.",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90098807,
+ "related-artworks": [
+  90096235,
+  90096238,
+  90096236,
+  90096249,
+  90096250
+ ],
+ "Description": "Trade cards from the \"Great Americans\" series (N76), issued in a set of 50 cards in 1888 to promote W. Duke Sons & Co. brand cigarettes. There are two variations of the Beecher card, one where he faces left and one where he faces right. This is the left-facing variation.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90098807"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "early 1930s",
+ "Culture": "American",
+ "Medium": "plastic, metal",
+ "Dimensions": "Diameter 2 3/8 in. (6 cm)",
+ "Credit Line": "Gift of Barbara and Gregory Reynolds, 1984",
+ "Accession Number": "1984.598.11",
+ "What": [
+  "Metal",
+  "Costume",
+  "Jewelry",
+  "Plastic",
+  "Bracelets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80058858,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1984.598.11.jpg",
+ "related-artworks": [
+  80058857,
+  80079216,
+  80058881,
+  80031896,
+  80058860
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80058858"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "1814",
+ "Culture": "German",
+ "Medium": "Silk",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.1141",
+ "What": [
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Furniture",
+  "Embroidery",
+  "Fans",
+  "Screens",
+  "Fixed fans"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 120033974,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP2623.jpg",
+ "related-artworks": [
+  120046764,
+  120046735,
+  120006120,
+  120059353,
+  120026075
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120033974"
+  }
+ }
+}

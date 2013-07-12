@@ -1,0 +1,34 @@
+{
+ "Date": "late 18th century",
+ "Culture": "Italian",
+ "Medium": "leather",
+ "Dimensions": "Length 16 1/2 in. (41.9 cm)",
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "26.56.95",
+ "What": [
+  "Costume",
+  "Leather",
+  "Gloves"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80019999,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/26.56.95.jpg",
+ "related-artworks": [
+  80020000,
+  80024987,
+  80024986,
+  80024988,
+  80024989
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80019999"
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "Period": "Sasanian",
+ "Date": "ca. 3rd–7th century A.D.",
+ "Geography": "Iran or Mesopotamia",
+ "Culture": "Sasanian",
+ "Medium": "Hematite",
+ "Dimensions": "0.47 x 0.47 x 0.55 in. (1.19 x 1.19 x 1.4 cm)",
+ "Classification": "Stone",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.4414",
+ "Who": "Sasanian",
+ "What": [
+  "Stone",
+  "Seals",
+  "Hematite"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 500–1000 A.D.",
+  "Iran, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 30000116,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss74_51_4414.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/30000292",
+  "http://scrapi.org/object/30003632",
+  "http://scrapi.org/object/30000113",
+  "http://scrapi.org/object/30000207",
+  "http://scrapi.org/object/30000818"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "1865–1872, probably purchased in Cyprus by General Luigi Palma di Cesnola",
+  "acquired by the Museum in 1874, purchased from General Luigi Palma di Cesnola."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000292"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30003632"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000113"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000207"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000818"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/30000116"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1795",
+ "Culture": "British",
+ "Medium": "metal",
+ "Dimensions": "3 x 2 7/8 in.",
+ "Credit Line": "Gift of Frederick Bradbury, 1925",
+ "Accession Number": "25.25.22",
+ "What": [
+  "Metal",
+  "Shoes",
+  "Buckles"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80038075,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/25.25.22.jpg",
+ "related-artworks": [
+  80000006,
+  80012751,
+  80012752,
+  80012754,
+  80012755
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80038075"
+  }
+ }
+}

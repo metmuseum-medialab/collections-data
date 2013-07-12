@@ -1,0 +1,39 @@
+{
+ "Date": "18th century",
+ "Culture": "Japanese",
+ "Medium": "Boiled leather",
+ "Dimensions": [
+  "L 22 in.  ( 55.88 cm)",
+  "W 21 1/4 in. ( 53.98 cm)",
+  "L.22\"; W.21-1/4"
+ ],
+ "Classification": "Armor for Horse",
+ "Credit Line": "Rogers Fund, 1904",
+ "Accession Number": "04.4.80a, b",
+ "What": [
+  "Costume",
+  "Leather",
+  "Armor",
+  "Horse armor"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 40000238,
+ "related-artworks": [
+  40000644,
+  40002474,
+  40013640,
+  40002475,
+  40002221
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000238"
+  }
+ }
+}

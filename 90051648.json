@@ -1,0 +1,43 @@
+{
+ "Date": "1855",
+ "Medium": "Etching printed on two plates, on laid paper; only state (proof)",
+ "Dimensions": "plate 4 5/8  x 3 3/16 in. (11.7  x 8.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1917",
+ "Accession Number": "17.78.55",
+ "Who": "Charles Meryon",
+ "What": [
+  "Prints",
+  "Etching",
+  "Paper",
+  "Printing plates",
+  "Laid paper",
+  "Proofs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90051648,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP813220.jpg",
+ "related-artworks": [
+  90051529,
+  90051584,
+  90051582,
+  90051583,
+  90028258
+ ],
+ "Provenance": [
+  "Rev. J. J. Heywood (British, died London, 1887)",
+  "Bernard Buchanan MacGeorge (British, died Glasgow, Scotland 1924)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90051648"
+  }
+ }
+}

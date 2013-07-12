@@ -1,0 +1,43 @@
+{
+ "Date": "1719–20",
+ "Culture": "British, London",
+ "Medium": "Silver",
+ "Dimensions": "L. 8 15/16 in.  (22.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of George D. Widener and Mrs. Eleanor Widener Dixon, 1958",
+ "Accession Number": "58.7.104",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120017427,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/166759.jpg",
+ "related-artworks": [
+  120002382,
+  120006844,
+  120012364,
+  120017425,
+  120017370
+ ],
+ "Provenance": [
+  "Mrs. Eleanor Elkins Rice"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120017427"
+  }
+ }
+}

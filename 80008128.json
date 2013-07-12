@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1973",
+ "Culture": "American",
+ "Medium": "synthetic",
+ "Dimensions": "Length at CB 24 in. (61 cm)",
+ "Credit Line": "Gift of Rudi Gernreich Revocable Trust, 1985",
+ "Accession Number": "1985.374.11",
+ "Who": "Rudi Gernreich",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Twentieth–Century Silhouette and Support",
+  "Costume in The Metropolitan Museum of Art",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80008128,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1985.374.11_F.jpg",
+ "related-artworks": [
+  80000044,
+  80000047,
+  80000138,
+  80000147,
+  80000251
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80008128"
+  }
+ }
+}

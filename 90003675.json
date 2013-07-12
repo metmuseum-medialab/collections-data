@@ -1,0 +1,50 @@
+{
+ "Sitter": "Portrait of Julie Manet (French, 1878–1966)",
+ "Date": "1889",
+ "Medium": "Drypoint on wove paper",
+ "Dimensions": [
+  "sheet 14 1/16 x 10 15/16 in. (35.7 x 27.8 cm)",
+  "plate 7 1/2 x 5 1/2 in. (19 x 13.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Rogers Fund and Jacob H. Schiff Bequest, 1922",
+ "Accession Number": "22.60.93",
+ "Who": [
+  "Berthe Morisot",
+  "Julie Manet"
+ ],
+ "What": [
+  "Prints",
+  "Paper",
+  "Intaglio prints",
+  "Engravings",
+  "Wove paper",
+  "Drypoints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Impressionism Art and Modernity",
+  "Women Artists in Nineteenth–Century France",
+  "Édouard Manet (1832–1883)",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90003675,
+ "related-artworks": [
+  90003384,
+  90003387,
+  90003674,
+  90003677,
+  90003386
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90003675"
+  }
+ }
+}

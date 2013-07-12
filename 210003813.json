@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1946",
+ "Medium": "Tempera, gouache, and ink on paper",
+ "Dimensions": [
+  "H. 3, W. 4 inches",
+  "(7.6 x 10.2 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of William C. Dove, 1984",
+ "Accession Number": "1984.536.13",
+ "Who": "Arthur Dove",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Tempera",
+  "Gouaches"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Georgia O'Keeffe (1887–1986)",
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "Arthur Dove (1880–1946)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210003813,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/1984.536.13.jpg",
+ "related-artworks": [
+  210003812,
+  210003817,
+  210003837,
+  210008757,
+  210008758
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003813"
+  }
+ }
+}

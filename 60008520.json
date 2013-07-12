@@ -1,0 +1,62 @@
+{
+ "Period": "Qing dynasty",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Agalmatolite",
+ "Dimensions": "H. 3 9/16 in. (9 cm)",
+ "Classification": "Snuff Bottles",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.472a, b",
+ "What": [
+  "Vessels",
+  "Bottles",
+  "Marble",
+  "Snuff containers",
+  "Snuff bottles",
+  "Agalmatolite",
+  "Forest marble"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60008520,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/14_40_472.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/60008460",
+  "http://scrapi.org/object/60008485",
+  "http://scrapi.org/object/60008491",
+  "http://scrapi.org/object/60008503",
+  "http://scrapi.org/object/60008513"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60008460"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60008485"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60008491"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60008503"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60008513"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60008520"
+  }
+ }
+}

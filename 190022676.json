@@ -1,0 +1,50 @@
+{
+ "Date": "1857",
+ "Medium": "Albumen silver print",
+ "Classification": "Photographs",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1963",
+ "Accession Number": "63.606.1.31",
+ "Who": "William Harcourt Ranking",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190022676,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP209253.jpg",
+ "Provenance": [
+  "Hugh Welch Diamond",
+  "Miss Mackinlay",
+  "...",
+  "Maggs Bros. Ltd., London"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190022651"
+   },
+   {
+    "href": "http://scrapi.org/object/190012722"
+   },
+   {
+    "href": "http://scrapi.org/object/190036270"
+   },
+   {
+    "href": "http://scrapi.org/object/190040909"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190022676"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190022676"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "probably 15th century",
+ "Culture": "European",
+ "Medium": "Metalwork- Iron",
+ "Dimensions": "H. 60 in.",
+ "Classification": "Metalwork",
+ "Credit Line": "The Cloisters Collection, 1938",
+ "Accession Number": "38.168.7",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Lighting devices",
+  "Candleholders",
+  "Candlesticks"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011739,
+ "gallery-id": 1,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi38-168-7.jpg",
+ "related-artworks": [
+  70012138,
+  70011740,
+  70011835,
+  70012140,
+  70012285
+ ],
+ "Provenance": [
+  "[ Brummer Gallery , Paris and New York (sold 1938)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011739"
+  }
+ }
+}

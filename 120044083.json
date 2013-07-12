@@ -1,0 +1,42 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian (Venice)",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 7 1/8 x W. 3 3/4 (18.1 x 9.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Marian Hague, 1938",
+ "Accession Number": "38.185.16",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044083,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP7731.jpg",
+ "related-artworks": [
+  120038569,
+  120038582,
+  120038577,
+  120038578,
+  120038636
+ ],
+ "Provenance": [
+  "Marian Hague (until 1938",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044083"
+  }
+ }
+}

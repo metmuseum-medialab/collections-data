@@ -1,0 +1,33 @@
+{
+ "Date": "1830–50",
+ "Culture": "French",
+ "Medium": "Linen",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. William Sterling Peters, 1925",
+ "Accession Number": "2009.300.4091",
+ "What": [
+  "Costume",
+  "Linen",
+  "Handkerchiefs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 80106551,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/25.875_CP1.jpg",
+ "related-artworks": [
+  80093622,
+  80093628,
+  80095589,
+  80095603,
+  80106571
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80106551"
+  }
+ }
+}

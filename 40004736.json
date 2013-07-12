@@ -1,0 +1,52 @@
+{
+ "Date": "ca. 1580–90",
+ "Culture": "Austrian, Innsbruck",
+ "Medium": "Steel, leather, textile",
+ "Dimensions": "Weight, 7 lb. 5 oz. (3321 g)",
+ "Classification": "Helmets",
+ "Credit Line": "Bequest of George D. Pratt, 1935",
+ "Accession Number": "48.149.30",
+ "What": [
+  "Metal",
+  "Costume",
+  "Textiles",
+  "Iron and iron alloy",
+  "Leather",
+  "Iron alloy",
+  "Steel",
+  "Helmets",
+  "Armors",
+  "Tournament armors",
+  "Tilt armors"
+ ],
+ "Where": [
+  "Europe",
+  "Austria",
+  "Tyrol",
+  "Innsbruck"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe (including Germany), 1400–1600 A.D.",
+  "Central Europe (including Germany), 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40004736,
+ "related-artworks": [
+  40000959,
+  40014237,
+  40001449,
+  40000176,
+  40004797
+ ],
+ "Provenance": [
+  "Ex colls.:  C.A. de Cosson",
+  "Henry G. Keasbey, Eastbourne, England",
+  "George D. Pratt, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40004736"
+  }
+ }
+}

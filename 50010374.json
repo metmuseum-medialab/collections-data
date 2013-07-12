@@ -1,0 +1,44 @@
+{
+ "Date": "2nd–1st millennium BCE",
+ "Geography": "Ecuador",
+ "Culture": "Machalilla",
+ "Medium": "Ceramic",
+ "Dimensions": "Height 3-3/4 in.",
+ "Classification": "Ceramics-Sculpture",
+ "Credit Line": "Gift of Joyce R. Strauss, 1994",
+ "Accession Number": "1994.389.5",
+ "Who": "Machalilla",
+ "What": [
+  "Ceramics",
+  "Sculpture",
+  "Fragments",
+  "Figures"
+ ],
+ "Where": [
+  "South America",
+  "Ecuador"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "South America, 2000–1000 B.C.",
+  "Northern Andes, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50010374,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1994_389_5.jpg",
+ "related-artworks": [
+  50006851,
+  50005140,
+  50006220,
+  50006827,
+  50006828
+ ],
+ "Provenance": [
+  "Joyce R. Strauss, Solana Beach, CA, until 1994"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50010374"
+  }
+ }
+}

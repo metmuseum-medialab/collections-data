@@ -1,0 +1,42 @@
+{
+ "Date": "second quarter 15th century",
+ "Geography": "Made in probably Mainz, Germany",
+ "Culture": "German",
+ "Medium": "Tempera, ink, and metal leaf on parchment",
+ "Dimensions": "19 5/8 x 14 3/16 in.  (49.9 x 36.1 cm)",
+ "Classification": "Manuscripts & Illuminations",
+ "Credit Line": "Gift of Miss Alice M. Dike, in memory of her father, Henry A. Dike, 1928",
+ "Accession Number": "28.225.23",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paintings",
+  "Manuscripts",
+  "Tempera",
+  "Parchment",
+  "Illuminations"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Mainz"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170006646,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/temp2822523r.jpg",
+ "related-artworks": [
+  170006633,
+  170006636,
+  170006641,
+  170006643,
+  170006660
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006646"
+  }
+ }
+}

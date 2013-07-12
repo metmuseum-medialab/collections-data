@@ -1,0 +1,38 @@
+{
+ "Date": "17th century",
+ "Medium": "Red chalk",
+ "Dimensions": "sheet 12 9/16 x 7 15/16 in. (31.9 x 20.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Van Day Truex Fund, 2005",
+ "Accession Number": "2005.491",
+ "Who": "Joachim von Sandrart",
+ "What": [
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90043565,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803229.jpg",
+ "related-artworks": [
+  90054032,
+  90001902,
+  90011014,
+  90054160,
+  90055108
+ ],
+ "Provenance": [
+  "Vendor: Lutz Riester (Freiburg)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90043565"
+  }
+ }
+}

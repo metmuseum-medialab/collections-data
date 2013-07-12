@@ -1,0 +1,36 @@
+{
+ "Period": "Third Intermediate Period–Late Period",
+ "Dynasty": "Dynasty 23–25",
+ "Date": "ca. 818–664 B.C.",
+ "Geography": "Country of Origin Egypt, Fayum Entrance Area, Kafr Tarkhan (Tarkhan)",
+ "Medium": "Linen",
+ "Credit Line": "Gift of the Egyptian Research Account and British School of Archaeology in Egypt, 1914",
+ "Accession Number": "14.4.98",
+ "What": [
+  "Fragments",
+  "Linen"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100013231,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs14.4.98.jpg",
+ "related-artworks": [
+  100005732,
+  100005722,
+  100005723,
+  100005725,
+  100005750
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100013231"
+  }
+ }
+}

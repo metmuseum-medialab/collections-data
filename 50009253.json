@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Geography": "Nigeria, Court of Benin",
+ "Culture": "Edo peoples",
+ "Medium": "Brass",
+ "Dimensions": "Height 2-7/8 in.",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Gift of Mr. and Mrs. Klaus G. Perls, 1991",
+ "Accession Number": "1991.17.118",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Brass",
+  "Pendants"
+ ],
+ "Where": [
+  "Africa",
+  "Nigeria"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Guinea Coast, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50009253,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1991.17.118.JPG",
+ "related-artworks": [
+  50005105,
+  50009184,
+  50009176,
+  50009185,
+  50009177
+ ],
+ "Provenance": [
+  "Martin Lerner, Croton-on-Hudson, NY",
+  "Mr. and Mrs. Klaus G. Perls, New York, until 1991"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50009253"
+  }
+ }
+}

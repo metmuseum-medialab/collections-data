@@ -1,0 +1,32 @@
+{
+ "Date": "1930s",
+ "Culture": "American or European",
+ "Medium": "metal",
+ "Dimensions": "Height 3 in. (7.6 cm)",
+ "Credit Line": "Gift of Mrs. Harold J. Cohen, 1975",
+ "Accession Number": "1975.379.5",
+ "What": [
+  "Metal",
+  "Pins"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80059129,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1975.379.5.jpg",
+ "related-artworks": [
+  80000574,
+  80000583,
+  80000580,
+  80017742,
+  80027421
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80059129"
+  }
+ }
+}

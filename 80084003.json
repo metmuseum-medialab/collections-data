@@ -1,0 +1,35 @@
+{
+ "Date": "1948",
+ "Culture": "French",
+ "Medium": "antelope, metal",
+ "Dimensions": "Height 4 in. (10.2 cm)",
+ "Credit Line": "Gift of Henrie Jo Barth, 2009",
+ "Accession Number": "2009.304.2a–d",
+ "What": [
+  "Metal",
+  "Costume",
+  "Bags",
+  "Purses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80084003,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/TR.389.2.2008_F.jpg",
+ "related-artworks": [
+  80006710,
+  80000317,
+  80006035,
+  80006711,
+  80006757
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80084003"
+  }
+ }
+}

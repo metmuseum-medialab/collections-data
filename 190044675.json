@@ -1,0 +1,51 @@
+{
+ "Person in photograph": "Benjamin Bailar",
+ "Date": "1976",
+ "Medium": "Gelatin silver print",
+ "Dimensions": [
+  "Image 25.4 x 20.3 cm (10 x 8 in.)",
+  "Sheet 35.6 x 27.9 cm (14 x 11 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Alfred Stieglitz Society Gifts, 2009",
+ "Accession Number": "2009.5.52",
+ "Rights and Reproduction": "© THE RICHARD AVEDON FOUNDATION",
+ "Who": [
+  "Richard Avedon",
+  "Benjamin Bailar"
+ ],
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photography and Everyday Life in America, 1945–60",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190044675,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP213481.jpg",
+ "related-artworks": [
+  190014248,
+  190014249,
+  190014252,
+  190014250,
+  190014253
+ ],
+ "Provenance": [
+  "The artist",
+  "Richard Avedon Foundation, New York",
+  "[Fraenkel Gallery, San Francisco]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190044675"
+  }
+ }
+}

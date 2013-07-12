@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Silk;  on silk",
+ "Dimensions": "7 1/2 x 10 1/2 in. (19.05 x 26.67 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Edna Bahr, 1962",
+ "Accession Number": "62.97.11",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Pillows"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60044057,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/176614.jpg",
+ "related-artworks": [
+  60043587,
+  60043588,
+  60044056,
+  60035769,
+  60042038
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044057"
+  }
+ }
+}

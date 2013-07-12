@@ -1,0 +1,46 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Hungarian, Lubina",
+ "Medium": "Linen",
+ "Dimensions": "L. 18 x W. 3 3/4 inches (45.7 x 9.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.84",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Caps"
+ ],
+ "Where": [
+  "Europe",
+  "Hungary"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe and Low Countries, 1800–1900 A.D.",
+  "Central Europe (including Germany), 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120033150,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP2578.jpg",
+ "related-artworks": [
+  120033148,
+  120035389,
+  120033151,
+  120033149,
+  120039051
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120033150"
+  }
+ }
+}

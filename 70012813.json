@@ -1,0 +1,43 @@
+{
+ "Date": "12th–13th century",
+ "Culture": "South French",
+ "Medium": "Stone",
+ "Dimensions": [
+  "Overall 12 1/4 x 6 3/4 in. (31.1 x 17.1 cm)",
+  "Depth 7 7/8 - 11 in. (20 - 28 cm.)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "The Cloisters Collection, 1925",
+ "Accession Number": "25.120.122",
+ "What": [
+  "Sculpture",
+  "Stone"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Burgundy"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70012813,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi25-120-122.jpg",
+ "related-artworks": [
+  70010343,
+  70010739,
+  70011210,
+  70011258,
+  70011375
+ ],
+ "Provenance": [
+  "Abbey of Siant-Guilhem-le-Désert (Hérault)George Grey Barnard American, Bellefonte, Pennsylvania 1863–1938 New York , New York (until 1925)",
+  "Pierre-Yvon Verniere , Aniane, France"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70012813"
+  }
+ }
+}

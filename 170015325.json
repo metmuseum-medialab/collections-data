@@ -1,0 +1,32 @@
+{
+ "Date": "4th–6th century",
+ "Culture": "Byzantine",
+ "Medium": "Linen, wool",
+ "Dimensions": "Overall 2 5/8 x 2 1/2in. (6.6 x 6.4cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of  Nanette B. Kelekian, in honor of Nobuko Kajitani, 2002",
+ "Accession Number": "2002.239.6",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Woven",
+  "Wool",
+  "Linen"
+ ],
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170015325,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/KEL11.jpg",
+ "related-artworks": [
+  170015336,
+  170015338,
+  170015324,
+  170015319,
+  170016235
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170015325"
+  }
+ }
+}

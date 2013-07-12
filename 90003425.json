@@ -1,0 +1,38 @@
+{
+ "Date": "early 17th century",
+ "Medium": "Pen and bistre",
+ "Dimensions": "2 7/16 x 3 7/16 in.  (6.2 x 8.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Fletcher Fund, 1941",
+ "Accession Number": "41.110.1",
+ "Who": "Jacques Callot",
+ "What": [
+  "Drawings",
+  "Bister"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90003425,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/41.110.1.jpg",
+ "related-artworks": [
+  90001958,
+  90001959,
+  90001960,
+  90001963,
+  90001989
+ ],
+ "Provenance": [
+  "Vendor: Durlacher Brothers, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90003425"
+  }
+ }
+}

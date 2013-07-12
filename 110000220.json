@@ -1,0 +1,48 @@
+{
+ "Medium": "Ivory",
+ "Dimensions": "Oval, 1 3/8 x 1 1/4 in. (36 x 30 mm)",
+ "Classification": "Miniatures",
+ "Credit Line": "The Collection of Giovanni P. Morosini, presented by his daughter Giulia, 1932",
+ "Accession Number": "32.75.28",
+ "Who": "British Painter, ca. 1770",
+ "What": [
+  "Paintings",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "MetPublications": "Search for related Met publications",
+ "id": 110000220,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/89182.jpg",
+ "Provenance": [
+  "Giovanni Pertinax Morosini, Riverdale-on-Hudson, N.Y. (until d. 1908)",
+  "his daughter, Giulia Morosini, Riverdale-on-Hudson (1908–d. 1932)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/110000018"
+   },
+   {
+    "href": "http://scrapi.org/object/110000041"
+   },
+   {
+    "href": "http://scrapi.org/object/110000042"
+   },
+   {
+    "href": "http://scrapi.org/object/110000044"
+   },
+   {
+    "href": "http://scrapi.org/object/110000043"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/110000220"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/110000220"
+  }
+ }
+}

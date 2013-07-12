@@ -1,0 +1,53 @@
+{
+ "Date": "1926",
+ "Medium": "Gouache, watercolor, and ink on paper",
+ "Dimensions": [
+  "H. 11-1/4, W. 19 inches",
+  "(28.6 x 48.3 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+ "Accession Number": "67.187.39",
+ "Rights and Reproduction": "© 2011 Artists Rights Society (ARS), New York",
+ "Who": "Henri Vergé-Sarrat",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Watercolors",
+  "Gouaches"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009849,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf67.187.39.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210009850"
+   },
+   {
+    "href": "http://scrapi.org/object/210003681"
+   },
+   {
+    "href": "http://scrapi.org/object/210003721"
+   },
+   {
+    "href": "http://scrapi.org/object/210008621"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210009849"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210009849"
+  }
+ }
+}

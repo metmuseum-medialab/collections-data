@@ -1,0 +1,64 @@
+{
+ "Date": "ca. 1600",
+ "Culture": "Italian, Venice (Murano) or French",
+ "Medium": "Glass",
+ "Dimensions": "H. 9 1/8 in.  (23.2 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of James Jackson Jarves, 1881",
+ "Accession Number": "81.8.210",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Venice and Northern Italy, 1600–1800 A.D.",
+  "Venice and Northern Italy, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120000341,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES7754.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120000196",
+  "http://scrapi.org/object/120000206",
+  "http://scrapi.org/object/120000215",
+  "http://scrapi.org/object/120000337",
+  "http://scrapi.org/object/120000521"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/ES7754.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/7326.jpg"
+ ],
+ "Provenance": [
+  "James Jackson Jarves (until 1881)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000196"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000206"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000215"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000337"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000521"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120000341"
+  }
+ }
+}

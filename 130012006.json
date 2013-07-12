@@ -1,0 +1,39 @@
+{
+ "Period": "Late Hellenistic or Imperial",
+ "Date": "1st century B.C.–2nd century A.D.",
+ "Culture": "Greek or Roman",
+ "Medium": "Marble",
+ "Dimensions": "Overall 5 1/8 x 3 1/2 in. (13 x 8.9 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "Fletcher Fund, 1924",
+ "Accession Number": "24.97.91",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Marble"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Italian Peninsula, 1000 B.C.–1 A.D.",
+  "Italian Peninsula, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130012006,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP231909.jpg",
+ "related-artworks": [
+  130000050,
+  130006056,
+  130006301,
+  130006739,
+  130007475
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130012006"
+  }
+ }
+}

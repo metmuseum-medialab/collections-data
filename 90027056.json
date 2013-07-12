@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1860",
+ "Medium": "Woodcut",
+ "Dimensions": "sheet 17 1/2 x 12 1/2 in. (44.5 x 31.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Max D. Wildnauer Fund, 1978",
+ "Accession Number": "1978.643.26",
+ "Who": "Juan Llorens",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90027056,
+ "related-artworks": [
+  90025782,
+  90025798,
+  90025808,
+  90025811,
+  90025812
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90027056"
+  }
+ }
+}

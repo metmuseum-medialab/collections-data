@@ -1,0 +1,41 @@
+{
+ "Date": "1894",
+ "Medium": "Pastel on off-white wove paper",
+ "Dimensions": "18 x 24 in. (45.7 x 61 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Fenton L. B. Brown, 1980",
+ "Accession Number": "1980.513",
+ "Who": "Daniel Chester French",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Wove paper",
+  "Pastels"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "American Relief Sculpture",
+  "From Model to Monument American Public Sculpture, 1865–1915",
+  "Daniel Chester French (1850–1931)",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20010745,
+ "related-artworks": [
+  20011264,
+  20022374,
+  20025425,
+  20025426,
+  20011263
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20010745"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1817",
+ "Culture": "Japan",
+ "Medium": "Set of two woodblock printed books; ink and color on paper",
+ "Dimensions": [
+  "Image (a) 10 1/16 x 7 3/16 x 5/16 in. (25.5 x 18.2 x 0.8 cm)",
+  "Image (b) 10 1/16 x 7 3/16 x 5/16 in. (25.6 x 18.3 x 0.8 cm)",
+  "Overall 13 3/4 in. (35 cm) (open for both volumes)"
+ ],
+ "Classification": "Illustrated Books",
+ "Credit Line": "The Howard Mansfield Collection, Gift of Howard Mansfield, 1936",
+ "Accession Number": "JIB98a, b",
+ "Who": "Ikeda Koson",
+ "What": [
+  "Ink",
+  "Paper",
+  "Books",
+  "Printing blocks",
+  "Wood blocks",
+  "Printing"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60028985,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP262744_CRD.jpg",
+ "related-artworks": [
+  60028967,
+  60039197,
+  60047528,
+  60013111,
+  60028588
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028985"
+  }
+ }
+}

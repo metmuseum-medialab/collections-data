@@ -1,0 +1,30 @@
+{
+ "Medium": "Engraving",
+ "Dimensions": "Sheet 4 5/8 x 6 15/16 in. (11.7 x 17.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.827",
+ "Who": "Anonymous, French, 16th century",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "id": 90090409,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP831518.jpg",
+ "related-artworks": [
+  90041168,
+  90058749,
+  90058750,
+  90072053,
+  90097278
+ ],
+ "Provenance": [
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90090409"
+  }
+ }
+}

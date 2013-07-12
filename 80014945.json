@@ -1,0 +1,36 @@
+{
+ "Date": "1860s",
+ "Culture": "American or European",
+ "Medium": "wool, silk",
+ "Dimensions": "Length at CB 28 in. (71.1 cm)",
+ "Credit Line": "Gift of Jessie Leonard Hill, Charles R. Leonard, Jr., and Laura Leonard Ault, 1978",
+ "Accession Number": "1978.477.23",
+ "What": [
+  "Costume",
+  "Silk",
+  "Wool",
+  "Coats",
+  "Dinner jackets",
+  "Smoking jackets"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80014945,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.477.23_F.jpg",
+ "related-artworks": [
+  80005988,
+  80014939,
+  80013540,
+  80014940,
+  80115716
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80014945"
+  }
+ }
+}

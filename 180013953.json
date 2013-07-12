@@ -1,0 +1,50 @@
+{
+ "Date": "19th century",
+ "Geography": "France",
+ "Dimensions": "L. 1 ft. 11 in.",
+ "Classification": "Aerophone-Lip Vibrated",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.1627",
+ "What": [
+  "Musical instruments",
+  "Aerophones",
+  "Trumpets",
+  "Trombones",
+  "Megaphones",
+  "Speaking trumpets"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180013953,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS477A4.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/180016601"
+   },
+   {
+    "href": "http://scrapi.org/object/180016583"
+   },
+   {
+    "href": "http://scrapi.org/object/180013440"
+   },
+   {
+    "href": "http://scrapi.org/object/180013466"
+   },
+   {
+    "href": "http://scrapi.org/object/180013468"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/180013953"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/180013953"
+  }
+ }
+}

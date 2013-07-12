@@ -1,0 +1,45 @@
+{
+ "Date": "1820–40",
+ "Geography": "Mid-Atlantic, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Blown molded lead glass",
+ "Dimensions": "H. 2 3/4 in. (7 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.31.14a",
+ "What": [
+  "Metal",
+  "Glass",
+  "Figures",
+  "Blown glass",
+  "Lead"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10004373,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/15046.jpg",
+ "related-artworks": [
+  10000722,
+  10001544,
+  10001540,
+  10003138,
+  10003710
+ ],
+ "Provenance": [
+  "Frederick W. Hunter, New York, until 1913",
+  "American Art Galleries, New York, 1913"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10004373"
+  }
+ }
+}

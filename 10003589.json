@@ -1,0 +1,54 @@
+{
+ "Date": "1790–1810",
+ "Geography": "Mid-Atlantic, New Jersey, United States",
+ "Culture": "American",
+ "Medium": "Black cherry, yellow pine, yellow poplar, basswood, pine",
+ "Dimensions": "47 1/4 x 35 3/4 x 27 3/4 in. (120 x 90.8 x 70.5 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Bequest of Edith Holden, 1967",
+ "Accession Number": "67.53.1",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Softwood",
+  "Pine",
+  "Poplar",
+  "Tulipwood",
+  "Cherry",
+  "Linden",
+  "Easy chairs",
+  "American cherry"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New Jersey"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The United States, 1600–1800 A.D.",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10003589,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/195766.jpg",
+ "related-artworks": [
+  10008438,
+  10003586,
+  10003582,
+  10003583,
+  10003588
+ ],
+ "Provenance": [
+  "descended in the Rynier Veghte family, Somerville, New Jersey",
+  "Edith Holden, Greenwich, Connecticut, until died 1967"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003589"
+  }
+ }
+}

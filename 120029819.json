@@ -1,0 +1,39 @@
+{
+ "Date": "late 19th century",
+ "Culture": "European",
+ "Medium": "Silver-gilt and enamel",
+ "Dimensions": "L. 4 1/2 in. (11.4 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Sir William H. Redding, in memory of his wife, 1900",
+ "Accession Number": "00.19.33",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Flatware",
+  "Spoons",
+  "Enamel",
+  "Souvenirs"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120029819,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SFES2791D.jpg",
+ "related-artworks": [
+  120028299,
+  120028311,
+  120028293,
+  120028290,
+  120028292
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120029819"
+  }
+ }
+}

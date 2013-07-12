@@ -1,0 +1,36 @@
+{
+ "Period": "Mid Imperial",
+ "Date": "2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": "H. 7 in. (17.8 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Elias Kempner, 1934",
+ "Accession Number": "34.132.43",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles",
+  "Perfume bottles"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013961,
+ "related-artworks": [
+  130000063,
+  130000085,
+  130000067,
+  130000071,
+  130000108
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013961"
+  }
+ }
+}

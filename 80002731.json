@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1878",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length at CB (a) 22 1/2 in. (57.2 cm)",
+  "(b) [dimensions not available]"
+ ],
+ "Credit Line": "Gift of Mrs. George R. Galbraith, 1992",
+ "Accession Number": "1992.295.1a, b",
+ "Who": "Madame Dellac",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80002731,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1992.295.1ab_F.jpg",
+ "related-artworks": [
+  80001060,
+  80001238,
+  80001241,
+  80002105,
+  80002276
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002731"
+  }
+ }
+}

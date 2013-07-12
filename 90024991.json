@@ -1,0 +1,40 @@
+{
+ "Artist": "Attributed to Johann Grüninger (1482–1531)",
+ "Date": "1529",
+ "Medium": "Woodcuts",
+ "Dimensions": "Overall 12 7/16 x 8 11/16 x 2 3/16 in. (31.6 x 22.1 x 5.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, transferred from the Library, 1921",
+ "Accession Number": "21.36.129",
+ "Who": [
+  "Johann Grüninger",
+  "Jean Crespin"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024991,
+ "related-artworks": [
+  90015554,
+  90011107,
+  90011113,
+  90018094,
+  90026392
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024991"
+  }
+ }
+}

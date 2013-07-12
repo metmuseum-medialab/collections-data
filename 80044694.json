@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1853",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Edgar J. Lorie, Inc., in memory of Laddie Northridge, 1960",
+ "Accession Number": "C.I.60.23.14",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Bonnets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80044694,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI60.23.14_S.jpg",
+ "related-artworks": [
+  80049721,
+  80094023,
+  80094601,
+  80005915,
+  80005991
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80044694"
+  }
+ }
+}

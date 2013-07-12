@@ -1,0 +1,48 @@
+{
+ "Artist": "William Langenheim (American, born Germany, 1807–1874)",
+ "Date": "July 1845",
+ "Medium": "Daguerreotype",
+ "Dimensions": "Each plate, visible 31/2 x 2 3/4; Unframed: 12 x 18; Framed: 13 x 193/8",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+ "Accession Number": "2005.100.495",
+ "Who": [
+  "William Langenheim",
+  "Frederick Langenheim"
+ ],
+ "What": [
+  "Photographs",
+  "Daguerreotypes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Daguerreian Era and Early American Photography on Paper, 1839–1860",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190039870,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP285627.jpg",
+ "related-artworks": [
+  190036371,
+  190036372,
+  190039113,
+  190039848,
+  190039114
+ ],
+ "Description": "In 1841-42 William and Frederick Langenheim opened a daguerreotype studio in Philadelphia. Known for their technical innovations, the former journalists were not the city's first but were certainly its most celebrated photographers.  In 1845 the brothers traveled to Niagara Falls where they made the first ever photographs of the natural wonder.  The panorama of five separate plates, assembled in an decorative mat to suggest the view from a colonnaded terrace, captures tremendous detail in the falling water, the figures, and the carriages in the foreground.  The brothers produced eight sets of the panorama and sent them to the medium's inventor, Louis Daguerre, and to Queen Victoria, President Polk, the Duke of Brunswick, and the kings of Prussia, Saxony, and Wurtemberg.  The recipients were duly impressed with their remarkable accomplishment, and the brothers received numerous citations and medals to acknowledge their achievement.",
+ "Provenance": [
+  "Langenheim Family",
+  "[Rinhart Galleries, Inc.]",
+  "Gilman Paper Collection, New York, August 4, 1983"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190039870"
+  }
+ }
+}

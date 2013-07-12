@@ -1,0 +1,41 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Geography": "Indonesia, Java",
+ "Culture": "Javanese",
+ "Medium": "Cotton",
+ "Dimensions": "H x W 42 x 111 in. (106.7 x 281.9 cm)",
+ "Classification": "Textiles-Woven",
+ "Credit Line": "Gift of John W. Bateman, 1968",
+ "Accession Number": "68.28",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Woven",
+  "Panels"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50002102,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/68-28A.JPG",
+ "related-artworks": [
+  50000455,
+  50000548,
+  50001870,
+  50008646,
+  50010790
+ ],
+ "Provenance": [
+  "John W. Bateman, until 1968"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50002102"
+  }
+ }
+}

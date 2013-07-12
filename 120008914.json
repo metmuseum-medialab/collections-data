@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1650",
+ "Culture": "French (Clermont)",
+ "Medium": "Metal, enamel, rock crystal",
+ "Dimensions": "1-5/8 x 1-1/8 in.  (4.1 x 2.9 cm)",
+ "Classification": "Horology",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.1614",
+ "Who": "Mallet",
+ "What": [
+  "Metal",
+  "Enamel",
+  "Timepieces",
+  "Watches",
+  "Crystal",
+  "Quartz crystal"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Auvergne",
+  "Puy-de-Dôme",
+  "Clermont-Ferrand"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120008914,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/40618.jpg",
+ "related-artworks": [
+  120011897,
+  120008896,
+  120008921,
+  120008918,
+  120008882
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120008914"
+  }
+ }
+}

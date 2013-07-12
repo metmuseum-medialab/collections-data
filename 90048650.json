@@ -1,0 +1,38 @@
+{
+ "Date": "1937",
+ "Medium": "Etching, Watercolor",
+ "Dimensions": "plate 8 x 6 in. (20.3 x 15.2 cm) sheet: 13 x 10 3/4 in. (33 x 27.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of J.B. Neuman",
+ "Accession Number": "58.637.9",
+ "Who": "Benjamin D. Kopman",
+ "What": [
+  "Prints",
+  "Etching",
+  "Watercolors"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90048650,
+ "related-artworks": [
+  90048649,
+  90048647,
+  90048648,
+  90048651,
+  90048646
+ ],
+ "Provenance": [
+  "Donor: J. B. Neumann (New York, NY)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90048650"
+  }
+ }
+}

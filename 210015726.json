@@ -1,0 +1,37 @@
+{
+ "Date": "2003",
+ "Medium": "Watercolor and gouache on paper",
+ "Dimensions": "23 x 30 1/2 in. (58.4 x 77.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, The Gerta Foundation Gift, 2005",
+ "Accession Number": "2005.133.2",
+ "Who": "Graham Nickson",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Watercolors",
+  "Gouaches"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210015726,
+ "related-artworks": [
+  210015728,
+  210015708,
+  210015724,
+  210017500,
+  210017499
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210015726"
+  }
+ }
+}

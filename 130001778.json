@@ -1,0 +1,39 @@
+{
+ "Period": "Cypro-Archaic II",
+ "Date": "ca. 600–480 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta; hand-made",
+ "Dimensions": "H. 5 1/8 in. (13 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.1757",
+ "What": [
+  "Clay",
+  "Terracotta"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130001778,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP101799.jpg",
+ "related-artworks": [
+  130000412,
+  130000423,
+  130000441,
+  130000430,
+  130000456
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130001778"
+  }
+ }
+}

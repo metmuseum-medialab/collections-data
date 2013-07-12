@@ -1,0 +1,52 @@
+{
+ "Engraver": "Henry Roberts (British, before 1710–after 1790)",
+ "Publisher": "Published London John Bowles (British, 1701?–1779)",
+ "Date": "1740–49",
+ "Medium": "Engraving, etching",
+ "Dimensions": "13 9/16 x 9 7/16 x 1/16 in. (34.5 x 24 x 0.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1929",
+ "Accession Number": "29.58.19-.24",
+ "Who": [
+  "John Bowles",
+  "Henry Roberts",
+  "J. Couse",
+  "P. Glazier"
+ ],
+ "What": [
+  "Etching",
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018307,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90021118"
+   },
+   {
+    "href": "http://scrapi.org/object/90058976"
+   },
+   {
+    "href": "http://scrapi.org/object/90080850"
+   },
+   {
+    "href": "http://scrapi.org/object/90022752"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90018307"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90018307"
+  }
+ }
+}

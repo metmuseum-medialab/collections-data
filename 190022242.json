@@ -1,0 +1,36 @@
+{
+ "Date": "1910s",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 1961",
+ "Accession Number": "61.608.4",
+ "Who": "Elma Loines",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190022242,
+ "related-artworks": [
+  190022228,
+  190022232,
+  190022229,
+  190022230,
+  190022231
+ ],
+ "Provenance": [
+  "Elma Loines"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190022242"
+  }
+ }
+}

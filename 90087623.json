@@ -1,0 +1,40 @@
+{
+ "Date": "1934",
+ "Medium": "Commercial lithograph",
+ "Dimensions": "Sheet 2 7/8 x 2 3/8 in. (7.3 x 6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 325, R320.37",
+ "Who": "Goudey Gum Company",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Baseball cards"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90087623,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP824699.jpg",
+ "related-artworks": [
+  90082579,
+  90082585,
+  90082587,
+  90082588,
+  90082589
+ ],
+ "Description": "Trade cards from the \"Big League Chewing Gum\" series (R320), part of a 96-card set issued in 1934 by Goudey Gum Company.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90087623"
+  }
+ }
+}

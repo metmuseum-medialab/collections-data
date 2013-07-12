@@ -1,0 +1,39 @@
+{
+ "Designer": "Lamine Kouyaté (French, born Mali, ca. 1963)",
+ "Date": "1993",
+ "Culture": "French",
+ "Medium": "synthetics",
+ "Dimensions": "Length at CB 47 1/2 in. (120.7 cm)",
+ "Credit Line": "Gift of Amy M. Spindler, 1995",
+ "Accession Number": "1995.391.4",
+ "Who": [
+  "Lamine Kouyaté",
+  "Xüly Bet"
+ ],
+ "What": [
+  "Costume",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80001118,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DT3929.jpg",
+ "related-artworks": [
+  80001119,
+  80001122,
+  80001117,
+  80001115,
+  80001121
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001118"
+  }
+ }
+}

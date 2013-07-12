@@ -1,0 +1,33 @@
+{
+ "Period": "Late Old Kingdom",
+ "Date": "ca. 2150–2100 B.C.",
+ "Geography": "Country of Origin Egypt, Southern Upper Egypt, Aswan (Syene); Elephantine, Nag el-Gezira",
+ "Medium": [],
+ "Credit Line": "Rogers Fund, 1959",
+ "Accession Number": "59.103.16",
+ "What": "Amulets",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Aswan"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100029564,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/59-103-16.jpg",
+ "related-artworks": [
+  100029567,
+  100009449,
+  100013299,
+  100013301,
+  100013305
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100029564"
+  }
+ }
+}

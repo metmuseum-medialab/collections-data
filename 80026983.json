@@ -1,0 +1,40 @@
+{
+ "Date": "1860s",
+ "Culture": "American",
+ "Medium": "wool, glass",
+ "Dimensions": [
+  "Length 68 1/2 in. (174 cm)",
+  "Width 15 1/2 in. (39.4 cm)"
+ ],
+ "Credit Line": "Gift of Stella Wilcox, 1951",
+ "Accession Number": "C.I.X.51.20",
+ "What": [
+  "Costume",
+  "Glass",
+  "Wool",
+  "Headcloths",
+  "Fascinators"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80026983,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CIX51.20_F.jpg",
+ "related-artworks": [
+  80108660,
+  80108659,
+  80108661,
+  80024542,
+  80024620
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80026983"
+  }
+ }
+}

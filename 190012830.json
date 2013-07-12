@@ -1,0 +1,38 @@
+{
+ "Date": "1969",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the Hundredth Anniversary Committee, 1974",
+ "Accession Number": "1974.513.42",
+ "Rights and Reproduction": "© Bruce Davidson, Magnum Photos",
+ "Who": "Bruce Davidson",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190012830,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP116854.jpg",
+ "related-artworks": [
+  190011805,
+  190011806,
+  190012798,
+  190012794,
+  190012795
+ ],
+ "Provenance": [
+  "Hundredth Anniversary Committee"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190012830"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Ink with gold",
+ "Dimensions": "Diam. 6 5/8 in. (16.8 cm)",
+ "Classification": "Ink",
+ "Credit Line": "Purchase, Friends of Asian Art Gifts, in honor of Douglas Dillon, 2001",
+ "Accession Number": "2001.591",
+ "What": [
+  "Metal",
+  "Ink",
+  "Gold"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60034171,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP158795.jpg",
+ "related-artworks": [
+  60000032,
+  60000036,
+  60000038,
+  60000042,
+  60000049
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60034171"
+  }
+ }
+}

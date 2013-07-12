@@ -1,0 +1,48 @@
+{
+ "Manufacturer": "Falkirk Iron Company",
+ "Date": "designed 1899–1900, manufactured 1902",
+ "Medium": "Cast iron",
+ "Dimensions": [
+  "H. 54-3/8, W. 37-1/4, D. 7 inches",
+  "(138.1 x 94.6 x 17.8 cm.)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "The Cynthia Hazen Polsky Fund, 1994",
+ "Accession Number": "1994.272",
+ "Who": [
+  "Charles F. A. Voysey",
+  "Falkirk Iron Company"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Iron alloy",
+  "Cast iron"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1800–1900 A.D.",
+  "Great Britain and Ireland, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210006587,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/1994.272.jpg",
+ "related-artworks": [
+  210005229,
+  210017115,
+  210003399,
+  210003804,
+  210004069
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006587"
+  }
+ }
+}

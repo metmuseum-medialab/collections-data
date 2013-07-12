@@ -1,0 +1,56 @@
+{
+ "Artist": "Caspar Luyken (Dutch, 1672–1708)",
+ "Publisher": "Published by Pieter Arentsz. II. widow and Cornelis van der Sys",
+ "Date": "1708",
+ "Medium": "Engraving",
+ "Dimensions": "7 5/16 x 4 13/16 x 1 3/4 in.  (18.5 x 12.3 x 4.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Samuel P. Avery, transferred from Library, 1921",
+ "Accession Number": "21.36.49",
+ "Who": [
+  "Jan Luyken",
+  "Caspar Luyken",
+  "Pieter Arentsz. II. widow  Cornelis van der Sys"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90011394,
+ "Provenance": [
+  "Donor: Samuel Putnam Avery Sr. (American, New York 1822–1904 New York)Donor: Thomas J. Watson Library"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90013818"
+   },
+   {
+    "href": "http://scrapi.org/object/90020617"
+   },
+   {
+    "href": "http://scrapi.org/object/90021260"
+   },
+   {
+    "href": "http://scrapi.org/object/90000859"
+   },
+   {
+    "href": "http://scrapi.org/object/90028336"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90011394"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90011394"
+  }
+ }
+}

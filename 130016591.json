@@ -1,0 +1,50 @@
+{
+ "Period": "Classical or later",
+ "Date": "5th century B.C. or later",
+ "Culture": "Italic or Etruscan",
+ "Medium": "Amber",
+ "Dimensions": "Other 3 5/16 in. (8.4 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Purchase, Renée E. and Robert A. Belfer, Patti Cadby Birch and The Joseph Rosen Foundation Inc. Gifts, and Harris Brisbane Dick Fund, 1992",
+ "Accession Number": "1992.11.20",
+ "What": [
+  "Pendants",
+  "Resin",
+  "Amber"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130016591,
+ "gallery-id": 170,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130016570"
+   },
+   {
+    "href": "http://scrapi.org/object/130016598"
+   },
+   {
+    "href": "http://scrapi.org/object/130016589"
+   },
+   {
+    "href": "http://scrapi.org/object/130016595"
+   },
+   {
+    "href": "http://scrapi.org/object/130016614"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130016591"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130016591"
+  }
+ }
+}

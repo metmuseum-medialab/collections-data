@@ -1,0 +1,36 @@
+{
+ "Date": "after 1511",
+ "Medium": "Woodcut, hand-colored",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry Friedman, 1961",
+ "Accession Number": "61.663.372",
+ "Who": "Hans Baldung (called Hans Baldung Grien)",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "id": 90091775,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP826718.jpg",
+ "related-artworks": [
+  90005841,
+  90018141,
+  90019747,
+  90055116,
+  90067737
+ ],
+ "Provenance": [
+  "Donor: Harry G. Friedman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90091775"
+  }
+ }
+}

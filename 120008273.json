@@ -1,0 +1,48 @@
+{
+ "Date": "16th century",
+ "Culture": "German",
+ "Medium": "Silver-gilt, agate, jewels",
+ "Dimensions": "H. 4 in. (10.2 cm); Diam.  3-7/8 in. ( 9.8 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.587",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gold",
+  "Gilt",
+  "Drinking vessels",
+  "Cups",
+  "Chalcedony",
+  "Gems",
+  "Platinum",
+  "Agate"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120008273,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/38537.jpg",
+ "related-artworks": [
+  120008277,
+  120011994,
+  120022181,
+  120008263,
+  120014876
+ ],
+ "Provenance": [
+  "possibly Dimitri Schevitch (until 1906",
+  "sale, Galerie Georges Petit, Paris, April 4–7, 1906, no. 59)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120008273"
+  }
+ }
+}

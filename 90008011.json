@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1485?/90–1576",
+ "Medium": "Pen and brown ink",
+ "Dimensions": "3-13/16 x 6 in.  (9.7 x 15.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mr. and Mrs. Paul L. Herring and Mr. John D. Herring, 1991",
+ "Accession Number": "1991.462",
+ "Who": "Titian (Tiziano Vecellio)",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Titian (ca. 1488–1576)",
+ "MetPublications": "Search for related Met publications",
+ "id": 90008011,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811852.jpg",
+ "related-artworks": [
+  90008009,
+  90004092,
+  90008010,
+  150000488,
+  90008250
+ ],
+ "Provenance": [
+  "William Esdaile (British, 1758–1837 London)",
+  "Sir Thomas Lawrence (British, Bristol 1769–1830 London)",
+  "Mr. and Mrs. Paul L. Herringand Mr. John D. Herring",
+  "Donor: Mr. and Mrs. Paul L. Herring Donor: Mr. John Herring"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90008011"
+  }
+ }
+}

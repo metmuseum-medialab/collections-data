@@ -1,0 +1,59 @@
+{
+ "Date": "1861–65",
+ "Medium": "Albumen silver print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.65.320",
+ "Who": "Mathew . Brady",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Daguerreian Era and Early American Photography on Paper, 1839–1860",
+  "Photography and the Civil War, 1861–1865",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190019950,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP70744.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/190019729",
+  "http://scrapi.org/object/190019732",
+  "http://scrapi.org/object/190019736",
+  "http://scrapi.org/object/190019786",
+  "http://scrapi.org/object/190019808"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Loyal Legion, Boston Chapter, Commandery of the State of Massachusetts"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190019729"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190019732"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190019736"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190019786"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190019808"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190019950"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "late 17th century",
+ "Culture": "Italian (Venice)",
+ "Medium": "Needle lace",
+ "Dimensions": "L. 153 x W. 12 1/4 inches (388.6 x 31.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Anonymous Gift, in memory of Mrs. William H. Herriman, 1910",
+ "Accession Number": "10.143.1",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036550,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP5407.jpg",
+ "related-artworks": [
+  120030039,
+  120030032,
+  120030086,
+  120030122,
+  120030123
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036550"
+  }
+ }
+}

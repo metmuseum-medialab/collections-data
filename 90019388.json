@@ -1,0 +1,34 @@
+{
+ "Date": "1877",
+ "Medium": "Lithographs",
+ "Dimensions": "Overall 5 7/8 x 4 1/8 x 3/8 in. (15 x 10.5 x 1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Mrs. Alfred G. Mayor, 1956",
+ "Accession Number": "56.551.1",
+ "Who": "D. Walcher und Ferd. Haderer",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90019388,
+ "related-artworks": [
+  90000756,
+  90000761,
+  90011061,
+  90011141,
+  90011194
+ ],
+ "Provenance": [
+  "Donor: Mrs. Alfred G. Mayor"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90019388"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "15th–early 16th century",
+ "Geography": "Mexico, Mesoamerica",
+ "Culture": "Aztec",
+ "Medium": "Obsidian",
+ "Dimensions": "Height 1-5/8 in.",
+ "Classification": "Stone-Ornaments",
+ "Credit Line": "Bequest of Arthur M. Bullowa, 1993",
+ "Accession Number": "1994.35.550",
+ "Who": "Aztec",
+ "What": [
+  "Costume",
+  "Stone",
+  "Jewelry",
+  "Ear ornaments",
+  "Obsidian",
+  "Earspools"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Mexico, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50010067,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/VS1994_35_550.JPG",
+ "related-artworks": [
+  50010068,
+  50010069,
+  50010071,
+  50010072,
+  50010073
+ ],
+ "Provenance": [
+  "[R. Hauswaldt, New York]",
+  "Arthur M. Bullowa, New York, until (d.)1993"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50010067"
+  }
+ }
+}

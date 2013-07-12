@@ -1,0 +1,39 @@
+{
+ "Date": "18th century",
+ "Medium": "Pen and brown ink, brush and gray wash, over traces of graphite; framing outlines in pen and black ink, brush and light pink wash.",
+ "Dimensions": "sheet 5 3/8 x 3 11/16 in. (13.6 x 9.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1948",
+ "Accession Number": "48.148(12b)",
+ "Who": "Giuseppe Galli Bibiena",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90016052,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP808021.jpg",
+ "related-artworks": [
+  90011689,
+  90016050,
+  90007285,
+  90007288,
+  90007352
+ ],
+ "Provenance": [
+  "Hippolyte-Alexandre-Gabriel-Walter Destailleur (French, Paris, 1822–1893)",
+  "Vendor: Album sold by Martin Breslauer, London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90016052"
+  }
+ }
+}

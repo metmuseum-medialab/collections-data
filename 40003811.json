@@ -1,0 +1,28 @@
+{
+ "Date": "14th century",
+ "Culture": "Spanish",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Rogers Fund, 1904",
+ "Accession Number": "04.3.412",
+ "What": "Badges",
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40003811,
+ "related-artworks": [
+  40000203,
+  40000202,
+  40000204,
+  40000198,
+  40000199
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40003811"
+  }
+ }
+}

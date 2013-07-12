@@ -1,0 +1,43 @@
+{
+ "Manufacturer": "Morgantown Glassware Guild (Morgantown, West Virginia)",
+ "Date": "ca. 1951",
+ "Medium": "Glass",
+ "Dimensions": "H. 3-7/8, Diam. 3-7/8 inches",
+ "Classification": "Glass",
+ "Credit Line": "Gift of the artist, 1976",
+ "Accession Number": "1976.67.46",
+ "Who": [
+  "Russel Wright",
+  "Morgantown Glassware Guild"
+ ],
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Drinking glasses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1925–50",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210001789,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/1976.67.46.jpg",
+ "related-artworks": [
+  210001786,
+  210001787,
+  210001785,
+  210001788,
+  210001792
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210001789"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "probably 18th century",
+ "Culture": "Indian",
+ "Classification": "Mail",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.37",
+ "What": [
+  "Metal",
+  "Costume",
+  "Helmets",
+  "Mail"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia, 1600–1800 A.D.",
+  "South Asia and the Himalayan Region, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40010537,
+ "related-artworks": [
+  40005099,
+  40010403,
+  40010530,
+  40002238,
+  40010408
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40010537"
+  }
+ }
+}

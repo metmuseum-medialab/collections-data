@@ -1,0 +1,50 @@
+{
+ "Artist": "John Vallance (American, 1770–1823)",
+ "Sitter": "George Washington (American, 1732–1799)",
+ "Binder": "Stikeman and Co. (New York, NY)",
+ "Date": "September 1786–87",
+ "Medium": "plates engraving",
+ "Dimensions": "Overall 8 1/4 x 5 1/8 in. (21 x 13 cm)",
+ "Classification": "Books",
+ "Credit Line": "Bequest of Charles Allen Munn, 1924",
+ "Accession Number": "24.90.1931",
+ "Who": [
+  "Charles Willson Peale",
+  "George Washington",
+  "James Trenchard",
+  "T. Seddon, W. Spotswood, C. Cist & J. Trenchard",
+  "Major General Nathanael Greene",
+  "Stikeman  Co.",
+  "James Thakara",
+  "John Vallance"
+ ],
+ "What": [
+  "Engraving",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90041029,
+ "related-artworks": [
+  90041031,
+  90041030,
+  90057952,
+  90057954,
+  90057955
+ ],
+ "Provenance": [
+  "Donor: Charles Allen Munn"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90041029"
+  }
+ }
+}

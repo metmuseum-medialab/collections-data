@@ -1,0 +1,43 @@
+{
+ "Period": "Ptolemaic Period",
+ "Date": "306–30 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Saqqara; includes the Serapeum",
+ "Medium": "Limestone",
+ "Dimensions": "l. 206 cm (81 1/8 in); w. 73 cm (28 3/4 in); th. 35 cm (13 3/4 in)",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.181.194",
+ "What": [
+  "Limestone",
+  "Funerary containers",
+  "Coffins",
+  "Lids",
+  "Sarcophagi"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Saqqara"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100016250,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/12.181.194.jpg",
+ "related-artworks": [
+  100008459,
+  100016217,
+  100009270,
+  100005052,
+  100006623
+ ],
+ "Provenance": [
+  "Excavated by James Quibell at Saqqara. Purchased by the Museum from the Egyptian Government."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100016250"
+  }
+ }
+}

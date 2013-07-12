@@ -1,0 +1,38 @@
+{
+ "Date": "1899–1902",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 21 in. (53.3 cm)",
+ "Credit Line": "Gift of Mrs. Earl Rowe, 1951",
+ "Accession Number": "C.I.51.15.16a, b",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Blouses",
+  "Shirtwaists"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80037531,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI51.15.16a_F.jpg",
+ "related-artworks": [
+  80037684,
+  80037771,
+  80007600,
+  80007603,
+  80007607
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80037531"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Reign": "reign of Senwosret I",
+ "Date": "ca. 1961–1917 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht South, Pyramid Temple of Senwosret I, Causeway, MMA 1908–1909",
+ "Medium": "Limestone",
+ "Dimensions": "h. 97.8 cm (38 1/2 in); w. 96.5 cm (38 in)",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.180.87",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Reliefs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100018840,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/image-number-only.jpg",
+ "related-artworks": [
+  100013374,
+  100000349,
+  100000350,
+  100000351,
+  100001856
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100018840"
+  }
+ }
+}

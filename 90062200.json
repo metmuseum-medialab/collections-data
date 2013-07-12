@@ -1,0 +1,36 @@
+{
+ "Date": "1859",
+ "Medium": "Etching on wove paper",
+ "Dimensions": "plate 1 11/16 x 2 3/4 in. (4.3 x 7 cm) semi-circular",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1961",
+ "Accession Number": "61.590.10",
+ "Who": "Emmanuel Phélippes-Beaulieux",
+ "What": [
+  "Prints",
+  "Etching",
+  "Paper",
+  "Wove paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90062200,
+ "related-artworks": [
+  90062197,
+  90062198,
+  90062199,
+  90062201,
+  90062194
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90062200"
+  }
+ }
+}

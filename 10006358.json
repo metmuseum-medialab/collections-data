@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1825–ca. 1832",
+ "Geography": "West Midlands, Stoke-on-Trent, England",
+ "Culture": "British (American market)",
+ "Medium": "Earthenware, transfer-printed",
+ "Dimensions": "Diam. 6 7/8 in. (17.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Mary Mandeville Johnston, 1914",
+ "Accession Number": "14.102.7",
+ "Who": "Ralph Stevenson",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Printing",
+  "Plates",
+  "Transfer printing"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Stoke-on-Trent"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10006358,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/24273.jpg",
+ "related-artworks": [
+  10004699,
+  10006357,
+  120005283,
+  120007637
+ ],
+ "Provenance": [
+  "Mrs. Mary Mandeville Johnston, New York, until 1914"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006358"
+  }
+ }
+}

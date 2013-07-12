@@ -1,0 +1,51 @@
+{
+ "Date": "1865–69",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": [
+  "Image 31.1 x 41.8 cm (12 1/4 x 16 7/16 in.)",
+  "Mount 45.9 x 62.5 cm (18 1/16 x 24 5/8 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Robert Shapazian, 2009",
+ "Accession Number": "2009.440.2",
+ "Who": "Gustave Le Gray",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Louis–Rémy Robert (1810–1882)",
+  "Mission Héliographique, 1851",
+  "Nadar (1820–1910)",
+  "The Rise of Paper Photography in 1850s France",
+  "Gustave Le Gray (1820–1884)",
+  "France, 1800–1900 A.D."
+ ],
+ "id": 190046002,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP261159.jpg",
+ "related-artworks": [
+  190013688,
+  190013692,
+  190016063,
+  190016064,
+  190016054
+ ],
+ "Provenance": [
+  "Félix Paponot",
+  "[...]",
+  "[sold Rieunier & Bailly--Pommery (Hotel Drouot), Paris, March 19, 2001]",
+  "[Baudoin Lebon, Paris]",
+  "Robert Shapazian"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190046002"
+  }
+ }
+}

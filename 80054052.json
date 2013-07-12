@@ -1,0 +1,35 @@
+{
+ "Date": "1920s",
+ "Culture": "French (probably)",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. B. Brewster Jennings, 1977",
+ "Accession Number": "1977.151.1",
+ "What": [
+  "Costume",
+  "Outerwear",
+  "Capes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80054052,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.151.1.jpg",
+ "related-artworks": [
+  80000605,
+  80000780,
+  80001405,
+  80001786,
+  80001928
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80054052"
+  }
+ }
+}

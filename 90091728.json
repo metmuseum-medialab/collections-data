@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1505",
+ "Medium": "Woodcut",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.17.2-35",
+ "Who": "Hans Baldung (called Hans Baldung Grien)",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90091728,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP826618.jpg",
+ "related-artworks": [
+  90003224,
+  90003227,
+  90005841,
+  90010381,
+  90010382
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90091728"
+  }
+ }
+}

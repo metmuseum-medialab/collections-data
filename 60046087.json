@@ -1,0 +1,44 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "dated 1646",
+ "Culture": "China",
+ "Medium": "Album of eight leaves; ink and color on paper",
+ "Dimensions": "Each leaf 6 5/8 x 8 in. (16.8 x 20.3 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "The Sackler Fund, 1969",
+ "Accession Number": "69.242.8–.15",
+ "Who": "Fan Qi",
+ "What": [
+  "Ink",
+  "Paper",
+  "Books",
+  "Paintings",
+  "Albums"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Qing Dynasty (1644–1911) Loyalists and Individualists",
+  "The Qing Dynasty (1644–1911) Painting",
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60046087,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP160995.jpg",
+ "related-artworks": [
+  60019776,
+  60000032,
+  60000521,
+  60008773
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60046087"
+  }
+ }
+}

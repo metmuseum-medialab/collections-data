@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1856–85",
+ "Geography": "Mid-Atlantic, White Mills, Pennsylvania, United States; Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Blown lead glass",
+ "Dimensions": "H. 7/8 in. (2.2 cm); Diam. 6 1/16 in. (15.4 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Edwin M. Berol, 1978",
+ "Accession Number": "1978.339.2",
+ "Who": "Christian Dorflinger",
+ "What": [
+  "Metal",
+  "Glass",
+  "Dishes",
+  "Plates",
+  "Blown glass",
+  "Lead"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "White Mills"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10006289,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/218915.jpg",
+ "related-artworks": [
+  10003710,
+  10010090,
+  10001351,
+  10001352,
+  10002269
+ ],
+ "Provenance": [
+  "Mrs. Edwin M. Berol, Bedford Hills, New York, until 1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006289"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Culture": "French (?)",
+ "Medium": "Silk",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Maria P. James, 1911",
+ "Accession Number": "11.60.363",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036727,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP2320.jpg",
+ "related-artworks": [
+  120036711,
+  120036712,
+  120036715,
+  120036718,
+  120036719
+ ],
+ "Provenance": [
+  "Maria P. James (until 1911",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036727"
+  }
+ }
+}

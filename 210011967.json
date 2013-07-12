@@ -1,0 +1,45 @@
+{
+ "Maker": "Edmund A. Stirn (American (born Germany ?), 1868– (?))",
+ "Date": "1925",
+ "Geography": "Object place Mid-Atlantic, New York, New York, America",
+ "Culture": "American",
+ "Medium": "Silk, printed",
+ "Dimensions": "Dimensions unrecorded",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Miss M. K. Overbeck, 1943",
+ "Accession Number": "43.42.7",
+ "Who": [
+  "Edmund A. Stirn",
+  "Louis A. Stirn"
+ ],
+ "What": [
+  "Silk",
+  "Textiles",
+  "Printing",
+  "Samples"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210011967,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP8126.jpg",
+ "related-artworks": [
+  210011973,
+  210011958,
+  210011961,
+  210011962,
+  210011971
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210011967"
+  }
+ }
+}

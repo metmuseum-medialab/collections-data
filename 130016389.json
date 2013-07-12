@@ -1,0 +1,41 @@
+{
+ "Period": "Archaic",
+ "Date": "ca. 540 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; black-figure",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1987",
+ "Accession Number": "1987.11.4a–d",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups",
+  "Kylikes"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "id": 130016389,
+ "gallery-id": 155,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP2016.jpg",
+ "related-artworks": [
+  130009136,
+  130009385,
+  130016102,
+  130016147,
+  130016195
+ ],
+ "Description": "Obverse, woman and egg-laying goose, between geeseReverse, ridersThe vignette of a woman among geese was surely observed by the painter firsthand. It is impossible for us to know, however, whether the scene alludes to a story—such as a goose that lays golden eggs—or simply presents a woman at home in contrast to the men riding out on horseback depicted on the other side.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130016389"
+  }
+ }
+}

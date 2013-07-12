@@ -1,0 +1,40 @@
+{
+ "Date": "early 18th century",
+ "Medium": "Red chalk, heightened with a little white, on beige paper",
+ "Dimensions": "7 3/4 x 6 1/4 in.  (19.7 x 15.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mrs. O'Donnell Hoover, 1959, subject to life interest.",
+ "Accession Number": "59.205",
+ "Who": "Nicolas Lancret",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90004570,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP807094.jpg",
+ "related-artworks": [
+  90004568,
+  90004571,
+  90079402,
+  90004567,
+  90006246
+ ],
+ "Provenance": [
+  "Emile Calando (Paris, 1850–1900)",
+  "Donor: Mrs. O'Donnell Hoover"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90004570"
+  }
+ }
+}

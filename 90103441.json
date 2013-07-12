@@ -1,0 +1,39 @@
+{
+ "Date": "1554",
+ "Medium": "Engraving",
+ "Dimensions": "Sheet 3 1/8 × 4 5/16 in. (7.9 × 10.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry G. Friedman, 1957",
+ "Accession Number": "57.658.71",
+ "Who": "Heinrich Aldegrever",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90103441,
+ "related-artworks": [
+  90003259,
+  90003262,
+  90003298,
+  90003299,
+  90003301
+ ],
+ "Description": "At left, the Good Samaritan lifts the limp body of the traveller onto the donkey. In the background at right, the inn with figures out front and a well. Plate 3 from a series of four engravings depicting Luke 10:30–35.",
+ "Provenance": [
+  "Friedrich Hasselmann (German, ca. 1847–?ca. 1921)",
+  "Donor: Harry G. Friedman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90103441"
+  }
+ }
+}

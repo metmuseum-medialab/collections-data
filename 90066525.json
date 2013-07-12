@@ -1,0 +1,34 @@
+{
+ "Date": "1651",
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Henry Walters, 1917",
+ "Accession Number": "17.37.6",
+ "Who": "Rembrandt (Rembrandt van Rijn)",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90066525,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP814769.jpg",
+ "related-artworks": [
+  90000884,
+  90000912,
+  90010392,
+  90022436,
+  90022429
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90066525"
+  }
+ }
+}

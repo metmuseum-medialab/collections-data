@@ -1,0 +1,44 @@
+{
+ "Date": "1805–15",
+ "Culture": "French (Lyons)",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "Overall 19 x 18 1/2 in. (48.3 x 47 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.182.34",
+ "Who": "Séguin et Cie (Jean-Pierre Séguin)",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Borders"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Rhône",
+  "Lyon"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044064,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/117386.jpg",
+ "related-artworks": [
+  120039814,
+  120013646,
+  120044062,
+  120044063,
+  120040791
+ ],
+ "Provenance": [
+  "possibly Fontainebleau"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044064"
+  }
+ }
+}

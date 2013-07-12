@@ -1,0 +1,40 @@
+{
+ "Date": "1704",
+ "Medium": "Engraving",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1936",
+ "Accession Number": "36.78",
+ "Who": "Simon Gribelin II",
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018901,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90000001"
+   },
+   {
+    "href": "http://scrapi.org/object/90000466"
+   },
+   {
+    "href": "http://scrapi.org/object/90017914"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90018901"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90018901"
+  }
+ }
+}

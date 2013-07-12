@@ -1,0 +1,63 @@
+{
+ "Artist": "After Jean-Michel Moreau the Younger (French, Paris 1741–1814 Paris)",
+ "Author": "Jean-Baptiste Poquelin Molière (French, 1622–1673)",
+ "Editor": "Edited by M. Bret",
+ "Printer": "L'Imprimerie de Baudouin",
+ "Publisher": "Published by La Compagnie des libraires associés",
+ "Date": "1772",
+ "Medium": "Etching and engraving; third state of three (Bocher)",
+ "Dimensions": "Sheet 8 1/16 × 4 7/8 in. (20.5 × 12.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Helen Winslow Durkee Mileham, 1954",
+ "Accession Number": "55.578.6.1",
+ "Who": [
+  "Jean-Michel Moreau the Younger",
+  "Nicolas de Launay",
+  "Jean-Baptiste Poquelin Molière",
+  "M. Bret",
+  "L'Imprimerie de Baudouin",
+  "La Compagnie des libraires associés"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90100626,
+ "Provenance": [
+  "Donor: Helen Winslow Durkee Mileham"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90028267"
+   },
+   {
+    "href": "http://scrapi.org/object/90034941"
+   },
+   {
+    "href": "http://scrapi.org/object/90041895"
+   },
+   {
+    "href": "http://scrapi.org/object/90050612"
+   },
+   {
+    "href": "http://scrapi.org/object/90098843"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90100626"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90100626"
+  }
+ }
+}

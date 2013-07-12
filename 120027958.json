@@ -1,0 +1,42 @@
+{
+ "Date": "19th and 20th century",
+ "Culture": "French, Paris",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 2 in. (51 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Louis S. Levy, 1950",
+ "Accession Number": "50.194.166",
+ "Who": "Joseph-Francis Domard",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120027958,
+ "related-artworks": [
+  120027889,
+  120027938,
+  120027988,
+  120027992,
+  120027984
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120027958"
+  }
+ }
+}

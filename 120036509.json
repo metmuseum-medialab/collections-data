@@ -1,0 +1,45 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Needle lace",
+ "Dimensions": [
+  "L. 7 1/2 x W. 3 1/4 inches",
+  "19.1 x 8.3 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Henrietta Seligman Lace Collection, Bequest of Mrs. Jesse Seligman, 1910",
+ "Accession Number": "10.102.90",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036509,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP18747.jpg",
+ "related-artworks": [
+  120036450,
+  120035965,
+  120036002,
+  120035979,
+  120035973
+ ],
+ "Provenance": [
+  "Henrietta Seligman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036509"
+  }
+ }
+}

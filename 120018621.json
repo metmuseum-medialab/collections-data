@@ -1,0 +1,53 @@
+{
+ "Decorator": "Decoration attributed to Johann Ehrenfried Stadler (German, born Dresden 1702)",
+ "Date": "ca. 1730",
+ "Culture": "German (Meissen)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "Each, H. 15 in. (38.1 cm.); Diam. 7 in. (17.8 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.137",
+ "Who": [
+  "Meissen Manufactory",
+  "Johann Ehrenfried Stadler"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Faience",
+  "Porcelain",
+  "Vases",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Saxony",
+  "Meissen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120018621,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/183946.jpg",
+ "related-artworks": [
+  120018635,
+  120013274,
+  120014195,
+  120016127,
+  120016639
+ ],
+ "Provenance": [
+  "Duke of Kent (until 1947",
+  "sale, Christie's, March 13, 1947, no. 134)",
+  "Irwin Untermyer , New York (until 1964",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120018621"
+  }
+ }
+}

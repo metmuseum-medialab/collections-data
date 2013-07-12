@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1830",
+ "Medium": "Graphite",
+ "Dimensions": "Sheet 16 11/16 × 10 7/8 in. (42.4 × 27.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Alexander B.V. Johnson and Roberta J.M. Olson, 2012",
+ "Accession Number": "2012.539.1",
+ "Who": "George Richmond",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90098859,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP830842.jpg",
+ "related-artworks": [
+  90019633,
+  90095633,
+  90095721,
+  90059171,
+  90070237
+ ],
+ "Provenance": [
+  "George Richmond (British, Brompton 1809–1896 London)",
+  "Walter Coleridge Richmondand by descent to great-grandson of the artist",
+  "Donor: Alexander B. V. Johnson and Roberta J. M. Olson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90098859"
+  }
+ }
+}

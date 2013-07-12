@@ -1,0 +1,24 @@
+{
+ "Classification": "Idiophone-Shaken",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.3573",
+ "What": [
+  "Musical instruments",
+  "Idiophones"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Musical Instruments",
+ "id": 180017783,
+ "related-artworks": [
+  180013497,
+  180013563,
+  180013817,
+  180013835,
+  180013838
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180017783"
+  }
+ }
+}

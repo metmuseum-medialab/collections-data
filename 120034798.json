@@ -1,0 +1,39 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Dimensions": "3 1/8 x 16 5/8 inches (7.9 x 42.2 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2462",
+ "What": [
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Ribbon"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 120034798,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP6432.jpg",
+ "related-artworks": [
+  120030732,
+  120030770,
+  120033354,
+  120033342,
+  120033355
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120034798"
+  }
+ }
+}

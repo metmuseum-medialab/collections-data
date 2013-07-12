@@ -1,0 +1,50 @@
+{
+ "Date": "1928",
+ "Medium": "Pencil and watercolor",
+ "Dimensions": "10 13/16 x 17 1/16 in.  (27.5 x 43.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.716",
+ "Who": "Paul Signac",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Pencil"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": [
+  "Henri Matisse (1869–1954)",
+  "Georges Seurat (1859–1891) and Neo–Impressionism",
+  "Post–Impressionism",
+  "Vincent van Gogh (1853–1890)",
+  "Vincent van Gogh (1853–1890) The Drawings",
+  "The Transformation of Landscape Painting in France",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 150000319,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3317.jpg",
+ "related-artworks": [
+  90001614,
+  90006863,
+  90006853,
+  90006854,
+  90006856
+ ],
+ "Provenance": [
+  "Mme. Signac",
+  "Collection de Madame S...[ignac]",
+  "sale, Galerie Charpentier, Paris, May 9, 1952, no. 44",
+  "to Paul Epstein, Galerie de L'Elysée, for Robert Lehman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150000319"
+  }
+ }
+}

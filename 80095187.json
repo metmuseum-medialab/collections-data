@@ -1,0 +1,42 @@
+{
+ "Date": "second quarter 20th century",
+ "Culture": "Bulgarian",
+ "Medium": "cotton, wool, synthetic, metal, silk, glass",
+ "Dimensions": [
+  "Length at CB (a) 55 in. (139.7 cm)",
+  "Length at CB (b) 14 in. (35.6 cm)",
+  "Length at CB (c) 38 in. (96.5 cm)"
+ ],
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of John C. Monks, 1966",
+ "Accession Number": "2009.300.24a–c",
+ "What": [
+  "Metal",
+  "Silk",
+  "Glass",
+  "Cotton",
+  "Wool",
+  "Ensembles"
+ ],
+ "Where": [
+  "Europe",
+  "Bulgaria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1900 A.D.–present",
+ "id": 80095187,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/66.242.13_66.242.19_66.242.33_front_CP4.jpg",
+ "related-artworks": [
+  80095442,
+  80095299,
+  80011534,
+  80062019,
+  80096848
+ ],
+ "Description": "An example of traditional costume that was still being produced in the 20th century, this overskirt displays brilliant color and bold design. The embroidery nearly covers the surface of the skirt and combines both stylistic and naturalistic elements in the depiction of realistic irises and oversized potted flowers with their bold, definitive urns.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80095187"
+  }
+ }
+}

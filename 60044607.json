@@ -1,0 +1,40 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "late 17th–early 18th century",
+ "Culture": "Japan",
+ "Medium": "Silk",
+ "Dimensions": "3 3/4 x 3 1/2 in. (9.53 x 8.89 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "x.406.12b",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Cases",
+  "Guards"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60044607,
+ "related-artworks": [
+  60044638,
+  60044646,
+  60044608,
+  60044613,
+  60044634
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044607"
+  }
+ }
+}

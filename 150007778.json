@@ -1,0 +1,34 @@
+{
+ "Medium": "Bronze",
+ "Classification": "Metalwork",
+ "Credit Line": [
+  "Robert Lehman Collection, 1975",
+  "1975.1.1425"
+ ],
+ "Accession Number": "1975.1.1425",
+ "Who": "Far Eastern",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Bowls"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Robert Lehman Collection",
+ "MetPublications": "Search for related Met publications",
+ "id": 150007778,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/1425-1.jpg",
+ "related-artworks": [
+  150007536,
+  150007777,
+  150008223,
+  150007440,
+  150008166
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150007778"
+  }
+ }
+}

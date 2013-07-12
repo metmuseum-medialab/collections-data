@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1930",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "H. 23-3/4, W. 28-7/8 inches",
+  "(60.3 x 73.3 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Olga Raggio, in memory of Emanuel Winternitz, 1985",
+ "Accession Number": "1985.175",
+ "Rights and Reproduction": "© 2011 Artists Rights Society (ARS), New York",
+ "Who": "Joseph Floch",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210004137,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/SF1985.175.jpg",
+ "related-artworks": [
+  210009137,
+  210000746,
+  210000931,
+  210001106
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210004137"
+  }
+ }
+}

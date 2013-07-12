@@ -1,0 +1,68 @@
+{
+ "Date": "15th century",
+ "Culture": "French or South Netherlandish",
+ "Medium": "oak",
+ "Dimensions": "Overall 22 3/4 x 21 3/4 x 9 1/2 in. (57.8 x 55.2 x 24.1 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "The Cloisters Collection, 1947",
+ "Accession Number": "47.101.72",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Seating furniture",
+  "Oak",
+  "Stools"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Bourges",
+  "Cher"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011828,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/sf47-101-72s1.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/70011826",
+  "http://scrapi.org/object/70011827",
+  "http://scrapi.org/object/70012384",
+  "http://scrapi.org/object/70012406",
+  "http://scrapi.org/object/70011710"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/cl/original/sf47-101-72s1.jpg",
+  "http://images.metmuseum.org/CRDImages/cl/original/DP256968.jpg",
+  "http://images.metmuseum.org/CRDImages/cl/original/DP257839.jpg",
+  "http://images.metmuseum.org/CRDImages/cl/original/sf47-101-72s2.jpg"
+ ],
+ "Provenance": [
+  "[ Joseph Altounian , Maçon and Paris (sold 1926)]",
+  "[ Brummer Gallery , Paris and New York (1926–1947)]"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70011826"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70011827"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70012384"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70012406"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70011710"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/70011828"
+  }
+ }
+}

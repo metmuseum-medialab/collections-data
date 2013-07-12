@@ -1,0 +1,36 @@
+{
+ "Date": "19th century",
+ "Culture": "Maltese",
+ "Medium": "Bobbin lace",
+ "Dimensions": [
+  "L. 14 x W. 14 inches",
+  "35.6 x 35.6 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.934",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace",
+  "Handkerchiefs"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "id": 120032948,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/GT56a.jpg",
+ "related-artworks": [
+  120030196,
+  120030198,
+  120030990,
+  120032768,
+  120032766
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032948"
+  }
+ }
+}

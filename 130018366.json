@@ -1,0 +1,36 @@
+{
+ "Period": "Classical",
+ "Date": "5th century B.C.",
+ "Culture": "Etruscan",
+ "Medium": "Amber",
+ "Dimensions": "Diameter 3 1/16 x 2 1/8 x 7/8 in. (7.7 x 5.5 x 2.2 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Gift of Mr. and Mrs. Jonathan P. Rosen, 1992",
+ "Accession Number": "1992.267.7",
+ "What": [
+  "Figures",
+  "Resin",
+  "Amber"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130018366,
+ "related-artworks": [
+  130006333,
+  130006578,
+  130006801,
+  130006851,
+  130006916
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130018366"
+  }
+ }
+}

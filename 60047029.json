@@ -1,0 +1,53 @@
+{
+ "Date": "dated 1977",
+ "Culture": "China",
+ "Medium": "Twelve unmounted album leaves; ink and color on paper",
+ "Dimensions": [
+  "Overall (a) 11 1/2 x 14 1/4 in. (29.2 x 36.2 cm)",
+  "Overall (b) 11 1/2 x 14 3/16 in. (29.2 x 36 cm)",
+  "Overall (c) 11 7/16 x 14 1/4 in. (29 x 36.2 cm)",
+  "Overall (d) 11 7/16 x 14 3/8 in. (29 x 36.5 cm)",
+  "Overall (e) 11 5/8 x 14 3/8 in. (29.5 x 36.5 cm)",
+  "Overall (f) 11 1/2 x 14 1/4 in. (29.2 x 36.2 cm)",
+  "Overall (g) 11 7/16 x 14 3/8 in. (29 x 36.5 cm)",
+  "Overall (h) 11 7/16 x 14 3/8 in. (29 x 36.5 cm)",
+  "Overall (i) 11 1/2 x 14 1/4 in. (29.2 x 36.2 cm)",
+  "Overall (j) 11 1/2 x 14 1/4 in. (29.2 x 36.2 cm)",
+  "Overall (k) 11 1/2 x 14 1/4 in. (29.2 x 36.2 cm)",
+  "Overall (l) 11 5/8 x 14 1/4 in. (29.5 x 36.2 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Sarah Shay, 2005",
+ "Accession Number": "2005.411.274a–l",
+ "Who": "Wu Ziyu (Wu Hao)",
+ "What": [
+  "Ink",
+  "Paper",
+  "Books",
+  "Paintings",
+  "Albums"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1900 A.D.–present"
+ ],
+ "id": 60047029,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2005_411_274a.jpg",
+ "related-artworks": [
+  60047164,
+  60000276,
+  60000282,
+  60000306
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60047029"
+  }
+ }
+}

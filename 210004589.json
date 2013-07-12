@@ -1,0 +1,39 @@
+{
+ "Date": "1924",
+ "Medium": "Ink on paper",
+ "Dimensions": [
+  "H. 9-3/8, W. 6 inches",
+  "(23.8 x 15.2 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Virginia Dehn, 1985",
+ "Accession Number": "1985.79.2",
+ "Who": "Adolf Dehn",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210004589,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1985.79.2.jpg",
+ "related-artworks": [
+  210003484,
+  210003497,
+  210003481,
+  210003504,
+  210003492
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210004589"
+  }
+ }
+}

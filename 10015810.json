@@ -1,0 +1,28 @@
+{
+ "Date": "1880",
+ "Medium": "Photograph",
+ "Dimensions": "4 1/2 x 7 in. (11.4 x 17.8 cm)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Herbert Mitchell, 1995",
+ "Accession Number": "1995.114.3",
+ "What": [
+  "Photographs",
+  "Stereographs"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10015810,
+ "related-artworks": [
+  10015808,
+  10015809,
+  10014088,
+  10018975,
+  10018994
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10015810"
+  }
+ }
+}

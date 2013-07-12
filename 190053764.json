@@ -1,0 +1,50 @@
+{
+ "Printer": "Laumont Studio",
+ "Date": "2001, printed 2004",
+ "Medium": "Chromogenic print",
+ "Dimensions": [
+  "Sheet 50.8 x 61 cm (20 x 24 in.)",
+  "Image 40.6 x 50.8 cm (16 x 20 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Stewart Waltzer, in memory of Mildred Grand, 2011",
+ "Accession Number": "2011.552.8",
+ "Rights and Reproduction": "© Stephen Shore",
+ "Who": [
+  "Stephen Shore",
+  "Laumont Studio",
+  "Kylie Wright"
+ ],
+ "What": [
+  "Photographs",
+  "Chromogenic prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Kodak and the Rise of Amateur Photography",
+  "The New Documentary Tradition in Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 190053764,
+ "related-artworks": [
+  190012884,
+  190013353,
+  190013354,
+  190013355,
+  190013356
+ ],
+ "Provenance": [
+  "Stephen Shore",
+  "Stewart Waltzer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190053764"
+  }
+ }
+}

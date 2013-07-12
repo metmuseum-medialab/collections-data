@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Part of an album of woodblock prints (surimono); ink and color on paper",
+ "Dimensions": "5 1/2 x 7 7/16 in. (14 x 18.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "JP2282",
+ "Who": "Ryūryūkyo Shinsai",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Books",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Albums",
+  "Surimono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60025184,
+ "gallery-id": 231,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP138921.jpg",
+ "related-artworks": [
+  60025145,
+  60025146,
+  60025150,
+  60025129,
+  60025158
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60025184"
+  }
+ }
+}

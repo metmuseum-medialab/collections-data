@@ -1,0 +1,53 @@
+{
+ "Date": "1960s",
+ "Culture": "German",
+ "Medium": "synthetic",
+ "Dimensions": [
+  "Height 8 1/2 in. (21.6 cm)",
+  "Width 9 in. (22.9 cm)"
+ ],
+ "Credit Line": "Gift of Rosalind Jacobs, 2005",
+ "Accession Number": "2005.374.6",
+ "Who": "Milch",
+ "What": [
+  "Costume",
+  "Bags",
+  "Purses"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80028001,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2005.374.6_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/2005.374.6_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/2005.374.6_S.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80028000"
+   },
+   {
+    "href": "http://scrapi.org/object/80028002"
+   },
+   {
+    "href": "http://scrapi.org/object/80028003"
+   },
+   {
+    "href": "http://scrapi.org/object/80108331"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80028001"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80028001"
+  }
+ }
+}

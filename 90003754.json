@@ -1,0 +1,42 @@
+{
+ "Artist": "after Francesco Primaticcio (Italian, Bologna 1504/5–1570 Paris)",
+ "Date": "1543",
+ "Medium": "etching; engraving in state II",
+ "Dimensions": "13 3/4 x 19 11/16 in.  (35 x 50 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1964",
+ "Accession Number": "64.653.5",
+ "Who": [
+  "Francesco Primaticcio",
+  "Antonio Fantuzzi"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Fontainebleau",
+  "Poets in Italian Mythological Prints"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90003754,
+ "related-artworks": [
+  90003769,
+  90003724,
+  90003728,
+  90003725,
+  90003729
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90003754"
+  }
+ }
+}

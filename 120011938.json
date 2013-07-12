@@ -1,0 +1,45 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian (Paduan or Venetian)",
+ "Medium": "Bronze, dark brown lacquer patina.",
+ "Dimensions": "H. 4-7/8 in. (12.4 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+ "Accession Number": "32.100.165",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Lacquer",
+  "Bells",
+  "Patina"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011938,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/88042.jpg",
+ "related-artworks": [
+  120011951,
+  120023765,
+  120013248,
+  120013552,
+  120013736
+ ],
+ "Provenance": [
+  "Henry Pfungst",
+  "J. Pierpont Morgan"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011938"
+  }
+ }
+}

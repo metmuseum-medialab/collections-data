@@ -1,0 +1,40 @@
+{
+ "Date": "12th century",
+ "Geography": "Iran, Gurgan",
+ "Medium": "Gold wire with filigree",
+ "Classification": "Jewelry",
+ "Accession Number": "52.4.4",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings",
+  "Wire",
+  "Filigree"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Gurgan"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140008373,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/52.4.3-4.jpg",
+ "related-artworks": [
+  140008372,
+  140008381,
+  140008376,
+  140008378,
+  140008374
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008373"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Culture": "British",
+ "Medium": "wool",
+ "Dimensions": "H. 15 5/8 x W. 13 inches (39.7 x 33 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "From the Collection of Mrs. Lathrop Colgate Harper, Bequest of Mabel Herbert Harper, 1957",
+ "Accession Number": "57.122.319",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Wool",
+  "Embroidery",
+  "Samplers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120045940,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/164417.jpg",
+ "related-artworks": [
+  120046161,
+  120037092,
+  120044224,
+  120044225,
+  120044227
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120045940"
+  }
+ }
+}

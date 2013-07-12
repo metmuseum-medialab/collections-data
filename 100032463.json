@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "Joint reign of Hatshepsut and Thutmose III",
+ "Date": "ca. 1473–1458 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Valley of the Kings, Tomb of Hatshepsut (KV 20), Foundation deposit, Davis/Carter 1903–04",
+ "Medium": "Bread",
+ "Dimensions": "L. 8.9 cm (3 1/2 in)",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.8.19",
+ "What": "Models",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100032463,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/30.8.19.jpg",
+ "related-artworks": [
+  100000527,
+  100009046,
+  100017958,
+  100025254,
+  100027742
+ ],
+ "Provenance": [
+  "Theodore M. Davis excavations by Carter, 1903-1904. Acquired by Davis in the division of finds, 1903. Bequeathed to the Museum by Davis, 1915",
+  "accessioned 1930."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100032463"
+  }
+ }
+}

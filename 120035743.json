@@ -1,0 +1,38 @@
+{
+ "Date": "early 18th century",
+ "Culture": "Italian (Venice)",
+ "Medium": "Needle lace",
+ "Dimensions": "L. 10 x W. 3 inches (25.4 x 7.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase by subscription, 1909",
+ "Accession Number": "09.68.135b",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace",
+  "Cuffs"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "id": 120035743,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP3330.jpg",
+ "related-artworks": [
+  120032504,
+  120030636,
+  120035742,
+  120035773,
+  120035774
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120035743"
+  }
+ }
+}

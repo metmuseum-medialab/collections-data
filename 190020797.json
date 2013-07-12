@@ -1,0 +1,45 @@
+{
+ "Artist": "Alexander McGlashon (Scottish, active 1860s)",
+ "Date": "1861–62",
+ "Medium": "Albumen silver print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "David Hunter McAlpin Fund, 1946",
+ "Accession Number": "46.1.3",
+ "Who": [
+  "David Octavius Hill",
+  "Alexander McGlashon"
+ ],
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "David Octavius Hill (1802–1870) and Robert Adamson (1821–1848) (1840s)",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190020797,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/MM53924.jpg",
+ "related-artworks": [
+  190020697,
+  190020698,
+  190020720,
+  190020727,
+  190020738
+ ],
+ "Provenance": [
+  "E. Weil, London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190020797"
+  }
+ }
+}

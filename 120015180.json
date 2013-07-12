@@ -1,0 +1,40 @@
+{
+ "Date": "1771–72",
+ "Culture": "French (Paris)",
+ "Medium": "Silver",
+ "Dimensions": "Diam. 10 in. (25.4 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+ "Accession Number": "48.187.4",
+ "Who": "Edme-Pierre Balzac",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Dishes",
+  "Plates"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120015180,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/143871.jpg",
+ "related-artworks": [
+  120015489,
+  120015490,
+  120015494,
+  120015314,
+  120015317
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120015180"
+  }
+ }
+}

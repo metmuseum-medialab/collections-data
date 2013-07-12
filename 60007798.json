@@ -1,0 +1,42 @@
+{
+ "Date": "17th–19th century",
+ "Culture": "Philippines",
+ "Medium": "Gold",
+ "Dimensions": "L. 17 1/2 in. (44.5 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1912",
+ "Accession Number": "12.176.6",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Beads",
+  "Prayer beads",
+  "Rosaries"
+ ],
+ "Where": [
+  "Asia",
+  "Philippines"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1800–1900 A.D.",
+  "Southeast Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60007798,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/12_176_6_O.JPG",
+ "related-artworks": [
+  60007793,
+  60007799,
+  60007802,
+  60007806,
+  60007809
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60007798"
+  }
+ }
+}

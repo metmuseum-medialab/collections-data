@@ -1,0 +1,42 @@
+{
+ "Date": "early 20th century",
+ "Medium": "Charcoal with white chalk highlights on off-white laid paper mounted on Masonite",
+ "Dimensions": "18 7/8 x 25 1/8 in.  (48 x 63.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.728",
+ "Who": "Théophile-Alexandre Steinlen",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Chalk",
+  "Charcoal",
+  "Masonite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 150001141,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-728.JPG",
+ "related-artworks": [
+  90006873,
+  150001142,
+  90006871,
+  150001140,
+  90014158
+ ],
+ "Provenance": [
+  "O' Hana Gallery, London",
+  "Marlborough Gallery, New York (acquired from O'Hana Gallery, London, 7 December 1965).  Acquired by Robert Lehman from Marlborough-Gerson Gallery, New York, January 1966"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150001141"
+  }
+ }
+}

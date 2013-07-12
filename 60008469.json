@@ -1,0 +1,41 @@
+{
+ "Date": "early 19th century",
+ "Culture": "China",
+ "Medium": "Glass",
+ "Dimensions": "H. 2 1/2 in. (6.4 cm)",
+ "Classification": "Snuff Bottles",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1189",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles",
+  "Snuff containers",
+  "Snuff bottles"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60008469,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/91.1.1189.JPG",
+ "related-artworks": [
+  60008466,
+  60008474,
+  60008701,
+  60008708,
+  60008802
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60008469"
+  }
+ }
+}

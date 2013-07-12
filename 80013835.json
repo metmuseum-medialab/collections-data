@@ -1,0 +1,54 @@
+{
+ "Date": "ca. 1861",
+ "Culture": "American",
+ "Medium": "wool, silk",
+ "Dimensions": "Length at CB 55 5/8 in. (141.3 cm)",
+ "Credit Line": "Gift of Annetje N. Peltz, 1980",
+ "Accession Number": "1980.489",
+ "What": [
+  "Costume",
+  "Silk",
+  "Wool",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80013835,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1980.489_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1980.489_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1980.489_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1980.489_d.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80002105"
+   },
+   {
+    "href": "http://scrapi.org/object/80013617"
+   },
+   {
+    "href": "http://scrapi.org/object/80030055"
+   },
+   {
+    "href": "http://scrapi.org/object/80030633"
+   },
+   {
+    "href": "http://scrapi.org/object/80035708"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80013835"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80013835"
+  }
+ }
+}

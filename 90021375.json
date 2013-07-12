@@ -1,0 +1,31 @@
+{
+ "Date": "1800",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1946",
+ "Accession Number": "46.85.1",
+ "Who": "James Malton",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1600–1800 A.D.",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90021375,
+ "related-artworks": [
+  90021373,
+  90021372,
+  90021374,
+  90021377
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021375"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "1815",
+ "Medium": "Etching on wove paper",
+ "Dimensions": [
+  "sheet 12 7/8 x 9 1/2 in. (32.7 x 24.1 cm)",
+  "plate 3 7/16 x 3 in. (8.8 x 7.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Derald H. and Janet Ruttenberg Gift, 2001",
+ "Accession Number": "2001.718",
+ "Who": "Ludwig Emil Grimm",
+ "What": [
+  "Prints",
+  "Etching",
+  "Paper",
+  "Wove paper"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018780,
+ "related-artworks": [
+  90018775,
+  90072801,
+  90041014,
+  90073742,
+  90038682
+ ],
+ "Provenance": [
+  "Vendor: Shepherd Gallery Donor: Derald H. and Janet Ruttenberg"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90018780"
+  }
+ }
+}

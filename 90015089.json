@@ -1,0 +1,62 @@
+{
+ "Date": "17th century",
+ "Medium": "Pen and brown ink, brush and brown and gray wash over black chalk.",
+ "Dimensions": "sheet 7 1/2 x 7 3/8 in. (19.1 x 18.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Harry G. Sperling, 1971",
+ "Accession Number": "1975.131.158",
+ "Who": "Adriaen van Ostade",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Genre Painting in Northern Europe",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90015089,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800541.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90015069",
+  "http://scrapi.org/object/90015070",
+  "http://scrapi.org/object/90043198",
+  "http://scrapi.org/object/150000367",
+  "http://scrapi.org/object/90010817"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Chevalier J. Camberlyn (1783–1861)",
+  "Maison F. A. C. Prestel(Lugt 2730)",
+  "Eugène Rodrigues (Paris 1853-?1928)(Lugt 897)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90015069"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90015070"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90043198"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/150000367"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90010817"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90015089"
+  }
+ }
+}

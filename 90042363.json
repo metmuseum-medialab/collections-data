@@ -1,0 +1,44 @@
+{
+ "Artist": "Pierre Charles Ingouf (French, 1746–1800)",
+ "Date": "n.d.",
+ "Medium": "Etching",
+ "Dimensions": "sheet 14 5/8 x 15 7/8 in. (37.2 x 40.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.195",
+ "Who": [
+  "Jean-Baptiste Greuze",
+  "Jean-Baptiste Tilliard",
+  "Pierre Charles Ingouf"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Neoclassicism",
+  "Food and Drink in European Painting, 1400–1800",
+  "Genre Painting in Northern Europe",
+  "France, 1600–1800 A.D.",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90042363,
+ "related-artworks": [
+  90022744,
+  90022760,
+  90022771,
+  90022772,
+  90022746
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90042363"
+  }
+ }
+}

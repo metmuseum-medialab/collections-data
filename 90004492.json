@@ -1,0 +1,41 @@
+{
+ "Artist": "after Francesco Primaticcio (Italian, Bologna 1504/5–1570 Paris)",
+ "Date": "mid 16th century",
+ "Medium": "Etching",
+ "Dimensions": "Z 12 5/8 x 17 1/8 in.  (32 x 43.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.97.579",
+ "Who": [
+  "Francesco Primaticcio",
+  "Léon Davent"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Fontainebleau",
+  "France, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90004492,
+ "related-artworks": [
+  90003574,
+  90003985,
+  90004154,
+  90004152,
+  90004156
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90004492"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Designer": "Pierre Balmain (French, St. Jean de Maurienne 1914–1982 Paris)",
+ "Date": "1950s",
+ "Culture": "French",
+ "Medium": "metal",
+ "Dimensions": "Length 7 in. (17.8 cm)",
+ "Credit Line": "Gift of Mrs. Beatrice Glass, 1974",
+ "Accession Number": "1974.383.57",
+ "Who": [
+  "House of Balmain",
+  "Pierre Balmain"
+ ],
+ "What": [
+  "Metal",
+  "Costume",
+  "Jewelry",
+  "Bracelets"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80058834,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1974.383.57.jpg",
+ "related-artworks": [
+  80058833,
+  80038089,
+  80058927,
+  80059035,
+  80038090
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80058834"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "9 1/2 x 14 1/2 in. (24.1 x 36.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+ "Accession Number": "JP2874",
+ "Who": "Keisai Eisen",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60028191,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP141367.jpg",
+ "related-artworks": [
+  60001107,
+  60025247,
+  60025566,
+  60026157,
+  60026159
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028191"
+  }
+ }
+}

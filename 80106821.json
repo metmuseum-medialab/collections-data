@@ -1,0 +1,34 @@
+{
+ "Date": "ca. 1920",
+ "Culture": "Egyptian",
+ "Medium": "Cotton, metallic",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Anonymous gift, 1943",
+ "Accession Number": "2009.300.4392",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Outerwear",
+  "Stoles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Egypt and North Africa, 1900 A.D.–present",
+ "id": 80106821,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/43.166_CP1.jpg",
+ "related-artworks": [
+  80106820,
+  80107726,
+  80107270,
+  80107850,
+  80108731
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80106821"
+  }
+ }
+}

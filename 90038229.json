@@ -1,0 +1,43 @@
+{
+ "Date": "mid 17th–late 17th century",
+ "Medium": "Pen and brown ink, gray and blue wash",
+ "Dimensions": "sheet 4 x 11 5/8 in. (10.2 x 29.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Renée Sacks Bequest, 2004",
+ "Accession Number": "2004.313",
+ "Who": "Jan Peeters",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90038229,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802233.jpg",
+ "related-artworks": [
+  90001983,
+  90002149,
+  90002229,
+  90002453,
+  90002616
+ ],
+ "Provenance": [
+  "Joseph Grote (British, 18th century)",
+  "T.A.P. Stapley (British)",
+  "Sotheby's, London, November 29, 1961, part of lot 9(as by Abraham de Verwer)",
+  "Douwes Fine Arts Gallery (Amsterdam), in 1987",
+  "Sotheby's, Amsterdam, November 4, 2003, lot 44",
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90038229"
+  }
+ }
+}

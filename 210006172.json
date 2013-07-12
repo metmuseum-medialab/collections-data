@@ -1,0 +1,40 @@
+{
+ "Date": "1988",
+ "Medium": "Porcelain",
+ "Dimensions": [
+  "H. 11-1/2  x W. 12 3/4 x D. 2 3/4 inches",
+  "(H. 29.2 x W. 32.4 x D. 7 cm.)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Bernard H. Pucker, in honor of Charles de Gunzburg and Wendy Goldberg, 1992",
+ "Accession Number": "1992.210.2",
+ "Who": "Brother Thomas",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Vases"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210006172,
+ "gallery-id": 202,
+ "related-artworks": [
+  210006171,
+  210004844,
+  210004845,
+  210005384
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006172"
+  }
+ }
+}

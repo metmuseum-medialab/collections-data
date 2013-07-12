@@ -1,0 +1,45 @@
+{
+ "Date": "2nd century BCE–1st century CE",
+ "Geography": "Peru",
+ "Culture": "Topará",
+ "Medium": "Ceramic",
+ "Dimensions": [
+  "Height 5 1/16in. (12.9cm)",
+  "Diameter 6 3/8in. (16.2cm)"
+ ],
+ "Classification": "Ceramics-Containers",
+ "Credit Line": "Gift of Nathan Cummings, 1976",
+ "Accession Number": "1976.287.28",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Bottles"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1000 B.C.–1 A.D.",
+  "Central and Southern Andes, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50002798,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1976.287.28_b.jpg",
+ "related-artworks": [
+  50000039,
+  50000185,
+  50000186,
+  50000187,
+  50000430
+ ],
+ "Provenance": [
+  "Nathan Cummings, until 1976"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50002798"
+  }
+ }
+}

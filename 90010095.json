@@ -1,0 +1,33 @@
+{
+ "Date": "dated 1536",
+ "Medium": "Engraving",
+ "Dimensions": "8 1/16 x 5 3/16 in.  (20.4 x 13.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "26.50.1",
+ "Who": "Agostino Veneziano (Agostino dei Musi)",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90010095,
+ "related-artworks": [
+  90003578,
+  90005546,
+  90010033,
+  90010034,
+  90010035
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010095"
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "Period": "Tang dynasty (618–907)",
+ "Culture": "China",
+ "Medium": "White marble",
+ "Dimensions": "H. 5 1/2 in. (14 cm); W. 3 1/8 in. (7.9 cm); D. 2 3/4 in. (7 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Friends of Asian Art Gifts, 2006",
+ "Accession Number": "2006.156",
+ "What": [
+  "Sculpture",
+  "Figures",
+  "Marble"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Tang Dynasty (618–906)",
+  "Music and Art of China",
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60047123,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP140157.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/as/original/DP140157.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/DP140158.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60033128"
+   },
+   {
+    "href": "http://scrapi.org/object/60006788"
+   },
+   {
+    "href": "http://scrapi.org/object/60032820"
+   },
+   {
+    "href": "http://scrapi.org/object/60032861"
+   },
+   {
+    "href": "http://scrapi.org/object/60033085"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60047123"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60047123"
+  }
+ }
+}

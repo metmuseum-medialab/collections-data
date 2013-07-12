@@ -1,0 +1,43 @@
+{
+ "Date": "1811",
+ "Geography": "New England, Litchfield, Connecticut, United States",
+ "Culture": "American",
+ "Medium": "Watercolor and ink on silk",
+ "Dimensions": "28 x 32 3/8 in. (71.1 x 82.2 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1948",
+ "Accession Number": "48.81",
+ "Who": "Sally Miller",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Ink",
+  "Paintings",
+  "Watercolors"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Connecticut",
+  "Litchfield"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10014161,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DT212230.jpg",
+ "related-artworks": [
+  10015421,
+  10014153,
+  10013849,
+  10014591,
+  10014593
+ ],
+ "Description": "The Litchfield Female Academy (1792–1833), where this picture was made, was one of the few schools that provided both academic and ornamental educations for young American women.  Parents sent their girls to Litchfield expecting them to return home knowing English grammar, arithmetic, history, geography, and religion.  But any ladies' academy, no matter how progressive, was still expected to provide instruction in needlework, music, and painting.  This painted silk mourning picture is one of eight known from the Litchfield Female Academy.All are almost identical in size, composition, images, and coloring.  The painted faces in all eight appear to be by one artist, possibly Flora Catlin, an art teacher at the school from 1815 to 1831.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014161"
+  }
+ }
+}

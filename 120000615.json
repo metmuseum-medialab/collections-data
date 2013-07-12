@@ -1,0 +1,40 @@
+{
+ "Date": "18th century",
+ "Culture": "Italian, Venice or German",
+ "Medium": "Glass",
+ "Dimensions": "H. 6 1/8 in.  (15.6 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Henry G. Marquand, 1883",
+ "Accession Number": "83.7.161",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000615,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/255298.jpg",
+ "related-artworks": [
+  120000160,
+  120000154,
+  120000196,
+  120000206,
+  120000335
+ ],
+ "Provenance": [
+  "Henry G. Marquand until 1883"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000615"
+  }
+ }
+}

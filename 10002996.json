@@ -1,0 +1,46 @@
+{
+ "Date": "1825–60",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Lacy pressed glass",
+ "Dimensions": "Dimensions unavailable",
+ "Classification": "Glass",
+ "Credit Line": "Bequest of Anne Du Pont Peyton, 1944",
+ "Accession Number": "45.100.83",
+ "What": [
+  "Glass",
+  "Dishes",
+  "Drinking vessels",
+  "Cups",
+  "Plates",
+  "Pressed glass",
+  "Lacy-pattern glass",
+  "Cup plates"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10002996,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP239147.jpg",
+ "related-artworks": [
+  10002983,
+  10002986,
+  10002987,
+  10003025,
+  10003002
+ ],
+ "Provenance": [
+  "Anne duPont Peyton, Greenwich, Connecticut, until died 1945"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10002996"
+  }
+ }
+}

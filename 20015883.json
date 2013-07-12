@@ -1,0 +1,36 @@
+{
+ "Date": "1843",
+ "Medium": "Watercolor on ivory",
+ "Dimensions": "2 5/8 x 2 1/8 in. (6.7 x 5.4 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Fletcher Fund, 2006",
+ "Accession Number": "2006.235.69",
+ "Who": "Augustus Fuller",
+ "What": [
+  "Paintings",
+  "Watercolors",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20015883,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/APS6850.jpg",
+ "related-artworks": [
+  20015884,
+  20010421,
+  20010472,
+  20010561
+ ],
+ "Provenance": [
+  "with E. Grosvenor Paine, New Orleans",
+  "sale, Sotheby Parke-Bernet, New  York, 29 Jan. 1986, lot 218"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20015883"
+  }
+ }
+}

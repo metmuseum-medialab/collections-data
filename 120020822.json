@@ -1,0 +1,65 @@
+{
+ "Date": "1685–86",
+ "Culture": "British, London",
+ "Medium": "Silver",
+ "Dimensions": "Diam. 3 in. (7.6 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1968",
+ "Accession Number": "68.141.263",
+ "Who": "John Sutton",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Dishes",
+  "Drinking vessels",
+  "Cups",
+  "Wine tasters"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020822,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/193761.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/193761.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/193762.jpg"
+ ],
+ "Provenance": [
+  "[ S. J. Phillips",
+  "to Irwin Untermyer, August 5, 1966 ]",
+  "Irwin Untermyer (1966–68; to MMA)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120010039"
+   },
+   {
+    "href": "http://scrapi.org/object/120018142"
+   },
+   {
+    "href": "http://scrapi.org/object/120006767"
+   },
+   {
+    "href": "http://scrapi.org/object/120000125"
+   },
+   {
+    "href": "http://scrapi.org/object/120006412"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120020822"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120020822"
+  }
+ }
+}

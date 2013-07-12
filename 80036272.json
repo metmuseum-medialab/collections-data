@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1854",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length at CB (a) 12 in. (30.5 cm)",
+  "Length at CB (b) 42 in. (106.7 cm)"
+ ],
+ "Credit Line": "Gift of Mary Pierrepont Beckwith, 1969",
+ "Accession Number": "C.I.69.14.6a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80036272,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.69.14ab_F.jpg",
+ "related-artworks": [
+  80001060,
+  80001238,
+  80001241,
+  80002105,
+  80002276
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80036272"
+  }
+ }
+}

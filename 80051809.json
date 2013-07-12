@@ -1,0 +1,33 @@
+{
+ "Date": "1700–1938",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Lee Simonson, 1938",
+ "Accession Number": "C.I.38.23.121",
+ "What": "Wallets",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80051809,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI38.23.121.jpg",
+ "related-artworks": [
+  80030995,
+  80047771,
+  80050273,
+  80094306,
+  80094373
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80051809"
+  }
+ }
+}

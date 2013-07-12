@@ -1,0 +1,36 @@
+{
+ "Date": "1930–39",
+ "Culture": "French",
+ "Medium": "cotton, leather",
+ "Dimensions": "13 1/4 in. (33.7 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Rodman A. Heeren, 1966",
+ "Accession Number": "2009.300.3295a, b",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Leather",
+  "Gloves",
+  "Gauntlets"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80096071,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/66.151.99a-b_CP4.jpg",
+ "related-artworks": [
+  80094818,
+  80095302,
+  80095997,
+  80034874,
+  80031944
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80096071"
+  }
+ }
+}

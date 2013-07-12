@@ -1,0 +1,41 @@
+{
+ "Date": "1860",
+ "Medium": "Albumen silver prints from glass negatives",
+ "Dimensions": "43.2 x 59.7 x 3.2 cm (17 x 23 1/2 x 1 1/4 in.)",
+ "Classification": "Albums",
+ "Credit Line": "Gilman Collection, Purchase, Mr. and Mrs. Henry R. Kravis Gift, 2005",
+ "Accession Number": "2005.100.504.1–.56",
+ "Who": "Charles Clifford",
+ "What": [
+  "Photographs",
+  "Books",
+  "Albumen silver prints",
+  "Albums"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190039853,
+ "related-artworks": [
+  190017705,
+  190017734,
+  190017894,
+  190017896,
+  190017895
+ ],
+ "Provenance": [
+  "Antoine d'Orleáns, Duke de Montpensier",
+  "[Fraenkel Gallery]",
+  "Gilman Paper Company Collection, New York, May 5, 1983"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190039853"
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "Period": "Late Imperial",
+ "Date": "mid–3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Marble",
+ "Dimensions": "H. 10 1/4 in. (26 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "Fletcher Fund, 1925",
+ "Accession Number": "25.78.27",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Figures",
+  "Marble",
+  "Busts"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130012301,
+ "gallery-id": 169,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/118230.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/130011670",
+  "http://scrapi.org/object/130007458",
+  "http://scrapi.org/object/130008616",
+  "http://scrapi.org/object/130008942",
+  "http://scrapi.org/object/130009178"
+ ],
+ "related-images": [],
+ "Description": "The alert, asymmetrical gaze, deeply drilled eyes, and full hair of this imposing figure suggest that the bust dates to the reign of the emperor Gallienus (A.D. 253–268).",
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130011670"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130007458"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130008616"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130008942"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130009178"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130012301"
+  }
+ }
+}

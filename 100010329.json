@@ -1,0 +1,36 @@
+{
+ "Period": "Late Period–Ptolemaic Period",
+ "Dynasty": "Dynasty 26–30",
+ "Date": "664–30 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Credit Line": "Gift of George and Florence Blumenthal, 1935",
+ "Accession Number": "35.6.11",
+ "What": [
+  "Faience",
+  "Amulets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100010329,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/35.6.11_EGDP012627.jpg",
+ "related-artworks": [
+  100000285,
+  100000287,
+  100000329,
+  100001310,
+  100001661
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100010329"
+  }
+ }
+}

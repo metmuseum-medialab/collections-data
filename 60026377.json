@@ -1,0 +1,49 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "1889 (Meiji 22)",
+ "Culture": "Japan",
+ "Medium": "One sheet of a triptych of polychrome woodblock prints; ink and color on paper",
+ "Dimensions": "Triptych 14 9/16 x 29 in. (37 x 73.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Lincoln Kirstein, 1959",
+ "Accession Number": "JP3231",
+ "Who": "Utagawa Kunitoshi",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Triptychs"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60026377,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP146905.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60026378"
+   },
+   {
+    "href": "http://scrapi.org/object/60026372"
+   },
+   {
+    "href": "http://scrapi.org/object/60026369"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60026377"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60026377"
+  }
+ }
+}

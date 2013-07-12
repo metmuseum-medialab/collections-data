@@ -1,0 +1,43 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Ruby glass with brown glass stopper",
+ "Dimensions": "H. 2 7/8 in. (7.3 cm); W. 2 1/8 in. (5.4 cm); D. 1 1/8 in. (2.9 cm)",
+ "Classification": "Snuff Bottles",
+ "Credit Line": "Bequest of Edmund C. Converse, 1921",
+ "Accession Number": "21.175.262a, b",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles",
+  "Snuff containers",
+  "Snuff bottles",
+  "Stoppers",
+  "Ruby",
+  "Ruby glass"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "id": 60008803,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/21_175_262ab_O1.jpg",
+ "related-artworks": [
+  60008683,
+  60008736,
+  60008647,
+  60008371,
+  60008460
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60008803"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Artist": "Louis Remy Mignot (American, Charleston, South Carolina 1831–1870 Brighton)",
+ "Date": "1859",
+ "Medium": "Photomechanical reproductions of original etchings",
+ "Dimensions": "Overall 11 1/4 x 13 9/16 in. (28.5 x 34.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Museum Accession, transferred from the Library, 1921",
+ "Accession Number": "21.36.38",
+ "Who": [
+  "Asher Brown Durand",
+  "John William Casilear",
+  "Felix Octavius Carr Darley",
+  "John Frederick Kensett",
+  "Eastman Johnson",
+  "Emanuel Leutze",
+  "John Whetten Ehninger",
+  "Robert Swain Gifford",
+  "George Henry Boughton",
+  "George Cochran Lambdin",
+  "Louis Remy Mignot",
+  "W. A. Townsend & Co.",
+  "William Parsons Wincester Dana"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012583,
+ "related-artworks": [
+  90019809,
+  90051263,
+  90051264,
+  90051265,
+  90006963
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90012583"
+  }
+ }
+}

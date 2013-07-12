@@ -1,0 +1,29 @@
+{
+ "Date": "1952",
+ "Classification": "Books",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.220",
+ "Who": "Charles Baudelaire",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190028697,
+ "related-artworks": [
+  90012994,
+  90012989,
+  90012995,
+  90012999,
+  90023371
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028697"
+  }
+ }
+}

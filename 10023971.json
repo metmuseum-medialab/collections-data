@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1851–60",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Blown, cut, and engraved glass",
+ "Dimensions": "14 in. (35.6 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Purchase, Bequest of Maud S. Swords, by exchange, 2009",
+ "Accession Number": "2009.345.1a,b",
+ "Who": "Joseph Stouvenel  Company (1851-1857)",
+ "What": [
+  "Engraving",
+  "Glass",
+  "Blown glass",
+  "Stoppers",
+  "Decanters"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10023971,
+ "gallery-id": 774,
+ "related-artworks": [
+  10023972,
+  10002271,
+  10009638,
+  10010090,
+  10001351
+ ],
+ "Provenance": [
+  "Ian Simmonds, dealer of American glass, offered the decanters to the Museum in 2009.  Simmonds purchased the decanters from a dealer in Pennsylvania."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10023971"
+  }
+ }
+}

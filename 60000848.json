@@ -1,0 +1,45 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1784",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "11 7/8 x 5 3/4 in. (30.2 x 14.6 cm) (trimmed)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1918",
+ "Accession Number": "JP274",
+ "Who": "Katsukawa Shunkō",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60000848,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP132720.jpg",
+ "related-artworks": [
+  60000574,
+  60000571,
+  60000572,
+  60000573,
+  60000737
+ ],
+ "Provenance": [
+  "Frank Lloyd Wright , Richland Center, WI and Phoenix, AZ (before 1918",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60000848"
+  }
+ }
+}

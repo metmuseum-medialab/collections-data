@@ -1,0 +1,65 @@
+{
+ "Illustrator": "Hans Weiditz the Younger (German, Freiburg im Breisgau before 1500–ca. 1536 Strasbourg)",
+ "Translator": "Translated by Stefan Vigilius",
+ "Printer": "Printed by Heinrich Steyner (German, 1522–1547)",
+ "Date": "July 9, 1539",
+ "Medium": "Woodcut",
+ "Dimensions": "Overall 11 5/16 x 7 13/16 x 1 7/8 in. (28.8 x 19.8 x 4.7 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1932",
+ "Accession Number": "32.20.8",
+ "Who": [
+  "Hans Weiditz the Younger",
+  "Francesco Petrarca",
+  "Heinrich Steyner",
+  "Stefan Vigilius"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023135,
+ "related-artworks": [
+  "http://scrapi.org/object/90023136",
+  "http://scrapi.org/object/90023137",
+  "http://scrapi.org/object/90047514",
+  "http://scrapi.org/object/90023138",
+  "http://scrapi.org/object/90014594"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Vendor: Fritz Finkenstaedt (German)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90023136"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90023137"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90047514"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90023138"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90014594"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90023135"
+  }
+ }
+}

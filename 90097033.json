@@ -1,0 +1,39 @@
+{
+ "Date": "1888",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 7/8 x 3 1/4 in. (7.3 x 8.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 202, N37.9",
+ "Who": "Allen & Ginter",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90097033,
+ "related-artworks": [
+  90080953,
+  90080954,
+  90080951,
+  90080952,
+  90080957
+ ],
+ "Description": "Trade cards from the \"Birds of America\" series (N37), issued in 1888 in a set of 50 cards to promote Allen & Ginter brand cigarettes. Series N37 reproduces the cards from N4 in a larger size.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90097033"
+  }
+ }
+}

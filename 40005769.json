@@ -1,0 +1,33 @@
+{
+ "Date": "ca. 1811",
+ "Culture": "Spanish",
+ "Classification": "Daggers",
+ "Credit Line": "Rogers Fund, 1950",
+ "Accession Number": "50.139 a-c",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Daggers"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005769,
+ "related-artworks": [
+  40013627,
+  40011051,
+  40011075,
+  40003332,
+  40003409
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40005769"
+  }
+ }
+}

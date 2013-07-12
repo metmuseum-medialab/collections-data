@@ -1,0 +1,48 @@
+{
+ "Sitter": "Portrait of Fernand (French, active 19th century)",
+ "Date": "1876",
+ "Medium": "Etching and aquatint; third state of three",
+ "Dimensions": "sheet 19 1/2 x 13 9/16 in. (49.5 x 34.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of David Keppel, 1922",
+ "Accession Number": "22.1.4",
+ "Who": [
+  "Félix Bracquemond",
+  "Fernand"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Aquatint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Exoticism in the Decorative Arts",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90059020,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP814361.jpg",
+ "related-artworks": [
+  90059016,
+  90000078,
+  90015595,
+  90027670,
+  90036027
+ ],
+ "Provenance": [
+  "Alexis Rouart (French, 1839–1911)",
+  "David Keppel, New York",
+  "Donor: David Keppel, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90059020"
+  }
+ }
+}

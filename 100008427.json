@@ -1,0 +1,46 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19",
+ "Reign": "reign of Ramesses II",
+ "Date": "ca. 1279–1213 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Medina, Tomb of Sennedjem (TT 1), Maspero Excavations 1885–1886",
+ "Medium": "Wood, gesso, paint",
+ "Dimensions": "H. 15 cm (5 7/8 in); w. 31.5 cm (12 3/8 in); d. 31.5 cm (12 3/8 in)",
+ "Credit Line": "Funds from various donors, 1886",
+ "Accession Number": "86.1.7",
+ "What": [
+  "Wood",
+  "Boxes",
+  "Gesso",
+  "Cosmetics"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008427,
+ "gallery-id": 126,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/86.1.7_rgb.jpg",
+ "related-artworks": [
+  100001027,
+  100000127,
+  100005957,
+  100005977,
+  100050418
+ ],
+ "Description": "The interior of this box is divided into four compartments It was probably used to store the cosmetic utensils of the deceased. The cover has two flaps attached with pivots at the edge of the box.The inscription bears the names of Iyti and Ramose, both of whom were related to Sennedjem in whose tomb the box was found. Other objects in the collection that were discovered in the same tomb are numbered 86.1.1–86.1.29",
+ "Provenance": [
+  "Excavated by Maspero for the Egyptian Antiquities Service in the 1885-1886 season. Sold to the Metropolitan Museum of Art by the Egyptian government in 1886."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008427"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "18th century",
+ "Culture": "European",
+ "Medium": "Iron, silver",
+ "Classification": "Equestrian Equipment",
+ "Credit Line": "Gift of Stephen V. Grancsay, 1942",
+ "Accession Number": "42.50.329",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Iron and iron alloy",
+  "Iron",
+  "Spurs",
+  "Rowel spurs"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40007654,
+ "related-artworks": [
+  40007644,
+  40000605,
+  40000603,
+  40007616,
+  40011267
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40007654"
+  }
+ }
+}

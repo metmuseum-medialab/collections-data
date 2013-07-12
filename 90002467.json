@@ -1,0 +1,31 @@
+{
+ "Date": "16th century",
+ "Medium": "Pen and brown ink, gray wash, over traces of black chalk",
+ "Dimensions": "11 5/16 x 9 in.  (28.7 x 22.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Harry G. Sperling, 1971",
+ "Accession Number": "1975.131.196",
+ "Who": "Anonymous, Netherlandish, 16th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002467,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP801693.jpg",
+ "related-artworks": [
+  90001626,
+  90002062,
+  90002215,
+  90002471,
+  90002845
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002467"
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "Period": "Han dynasty (206 B.C.–A.D. 220)",
+ "Culture": "China",
+ "Medium": "Bronze",
+ "Dimensions": "W. 2 in. (5.1 cm); L. 6 1/2 in. (16.5 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Edward B. Bruce, 1924",
+ "Accession Number": "24.13.16",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Knives",
+  "Money",
+  "Coins"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1000 B.C.–1 A.D.",
+  "China, 1000 B.C.–1 A.D.",
+  "China, 1–500A.D.",
+  "Central and North Asia, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60032455,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP167668.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/as/original/DP167668.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/DP167667.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60032452"
+   },
+   {
+    "href": "http://scrapi.org/object/60032453"
+   },
+   {
+    "href": "http://scrapi.org/object/60032449"
+   },
+   {
+    "href": "http://scrapi.org/object/60032450"
+   },
+   {
+    "href": "http://scrapi.org/object/60032451"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60032455"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60032455"
+  }
+ }
+}

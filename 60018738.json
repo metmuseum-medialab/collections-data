@@ -1,0 +1,41 @@
+{
+ "Period": "Song dynasty (960–1279)",
+ "Culture": "China",
+ "Medium": "Pottery",
+ "Dimensions": "H. 3 1/4 in. (8.3 cm); W. 3 5/8 in. (9.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.56.65",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Drinking vessels",
+  "Cups"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000–1400 A.D.",
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60018738,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/39087.jpg",
+ "related-artworks": [
+  60000538,
+  60010249,
+  60015990,
+  60018749,
+  60018731
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60018738"
+  }
+ }
+}

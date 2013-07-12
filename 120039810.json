@@ -1,0 +1,55 @@
+{
+ "Date": "late 18th century",
+ "Culture": "British",
+ "Medium": "Wood and metal",
+ "Dimensions": "H. 11 1/2 x W. 8 in. (29.2 x 20.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of C.P. and J. Baker, 1927",
+ "Accession Number": "27.247.2a, b",
+ "Who": "Swaislands Fabric Printing Works",
+ "What": [
+  "Metal",
+  "Textiles",
+  "Wood",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120039810,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP7577.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120039811",
+  "http://scrapi.org/object/120039809",
+  "http://scrapi.org/object/120039912"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/DP7577.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/70012.jpg"
+ ],
+ "Provenance": [
+  "C. P. and J. Baker (until 1927; to MMA)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120039811"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120039809"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120039912"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120039810"
+  }
+ }
+}

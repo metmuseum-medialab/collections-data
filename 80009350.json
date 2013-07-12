@@ -1,0 +1,39 @@
+{
+ "Date": "1920s",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 58 5/8 in. (148.9 cm)",
+ "Credit Line": "Isabel Shults Fund, 1990",
+ "Accession Number": "1990.152",
+ "Who": "Raymond Duncan",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The Chiton, Peplos, and Himation in Modern Dress",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80009350,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1990.152_F.JPG",
+ "related-artworks": [
+  80062818,
+  210011959,
+  80095677,
+  80096734,
+  80036964
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80009350"
+  }
+ }
+}

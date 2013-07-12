@@ -1,0 +1,49 @@
+{
+ "Date": "12th–15th century",
+ "Geography": "Peru",
+ "Culture": "Chimú",
+ "Medium": "Gold",
+ "Dimensions": "Diam. 3 1/2 in. (8.89 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.559",
+ "Who": "Chimú",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Frontal"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1400–1600 A.D.",
+  "Central and Southern Andes, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50005417,
+ "gallery-id": 357,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_206_559_560.jpg",
+ "related-artworks": [
+  50005418,
+  50005568,
+  50002000,
+  50002001,
+  50005090
+ ],
+ "Description": "It was customary in Precolumbian America to bury the personal finery of an individual with him upon his death. In the earliest times such finery consisted of bone, shell, or stone ornaments. By Chimu times the personal jewelry of the nobility had become extremely lavish, and large amounts of flamboyant ornaments in gold were produced by full-time metalsmiths. The royal burials at Chan Chan, the Chimu capital, were so rich that after the conquest the Spaniards set up a commercial mining company to extract their treasures.",
+ "Provenance": [
+  "[Julius Carlebach Gallery, New York, until 1957]",
+  "Nelson A. Rockefeller, New York, 1957, on loan to The Museum of Primitive Art, New York, 1957–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50005417"
+  }
+ }
+}

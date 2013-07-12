@@ -1,0 +1,33 @@
+{
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Wood",
+ "Classification": "Netsuke",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1910",
+ "Accession Number": "10.211.2018",
+ "What": [
+  "Sculpture",
+  "Netsukes"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60030494,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/10_211_2018_9944.jpg",
+ "related-artworks": [
+  60031676,
+  60007096,
+  60012571,
+  60013265,
+  60013270
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030494"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Date": "1840–59",
+ "Culture": "European",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Samuel Thorne, 1964",
+ "Accession Number": "C.I.64.6.10a, b",
+ "What": [
+  "Costume",
+  "Footwear",
+  "Shoes",
+  "Slippers"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80043446,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI64.6.10ab_F.jpg",
+ "related-artworks": [
+  80005091,
+  80005093,
+  80005889,
+  80005941,
+  80005974
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80043446"
+  }
+ }
+}

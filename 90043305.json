@@ -1,0 +1,38 @@
+{
+ "Date": "1883",
+ "Medium": "Pen and black ink watercolor and gouache",
+ "Dimensions": "sheet 6 11/16 x 8 15/16 in. (17 x 22.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of William Brewster, 1923",
+ "Accession Number": "23.112.1282",
+ "Who": "Brewster & Co.",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90043305,
+ "related-artworks": [
+  90051740,
+  90051754,
+  90051737,
+  90051825,
+  90051830
+ ],
+ "Provenance": [
+  "Donor: William Brewster"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90043305"
+  }
+ }
+}

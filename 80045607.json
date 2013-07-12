@@ -1,0 +1,36 @@
+{
+ "Date": "fall/winter 1938–39",
+ "Culture": "French",
+ "Medium": "wool",
+ "Dimensions": "Length (f to b) 8 1/4 in. (21 cm)",
+ "Credit Line": "Gift of Mrs. Janet Taylor, 1948",
+ "Accession Number": "C.I.48.23.5",
+ "Who": "Madame Suzy",
+ "What": [
+  "Costume",
+  "Wool",
+  "Hats"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80045607,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI48.23.5.jpg",
+ "related-artworks": [
+  80045722,
+  80045724,
+  80094015,
+  80006329,
+  80094091
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80045607"
+  }
+ }
+}

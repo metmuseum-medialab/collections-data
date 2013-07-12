@@ -1,0 +1,31 @@
+{
+ "Date": "1825–35",
+ "Culture": "British",
+ "Medium": "linen",
+ "Dimensions": "[no dimension available]",
+ "Credit Line": "Purchase, Irene Lewisohn Bequest, 1962",
+ "Accession Number": "C.I.62.32.2",
+ "What": "Linen",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80014234,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.62.32.2_F.jpg",
+ "related-artworks": [
+  80000018,
+  80000170,
+  80000171,
+  80002667,
+  80002669
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80014234"
+  }
+ }
+}

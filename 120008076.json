@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1815",
+ "Culture": "French or Swiss",
+ "Medium": "Gold, turquoise, ruby",
+ "Dimensions": "Diam. 1-1/2 in. (3.8 cm)",
+ "Classification": "Horology",
+ "Credit Line": "Bequest of Laura Frances Hearn, 1917",
+ "Accession Number": "17.101.30",
+ "What": [
+  "Metal",
+  "Gold",
+  "Timepieces",
+  "Watches",
+  "Turquoise",
+  "Ruby"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120008076,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/98974.jpg",
+ "related-artworks": [
+  120008072,
+  120008094,
+  120008434,
+  120008894,
+  120010439
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120008076"
+  }
+ }
+}

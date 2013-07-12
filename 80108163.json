@@ -1,0 +1,35 @@
+{
+ "Date": "first quarter 20th century",
+ "Culture": "American",
+ "Medium": "Fur, silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Robert G. Olmsted and Constable MacCracken, 1969",
+ "Accession Number": "2009.300.5741",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hair",
+  "Fur",
+  "Muffs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80108163,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/69.149.111_CP1.jpg",
+ "related-artworks": [
+  80107765,
+  80107949,
+  80108161,
+  80108162,
+  80094590
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108163"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1935–43",
+ "Medium": "Etching, Aquatint",
+ "Dimensions": "plate 9 x 12 in. (22.9 x 30.5 cm) sheet: 11 x 15 in. (27.9 x 38.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, New York, 1943",
+ "Accession Number": "43.33.83",
+ "Who": [
+  "WPA",
+  "Hugh Botts"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Aquatint"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90048027,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP822730.jpg",
+ "related-artworks": [
+  90048026,
+  90048045,
+  90048031,
+  90048033,
+  90048043
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90048027"
+  }
+ }
+}

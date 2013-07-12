@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Dimensions": [
+  "13 1/2 x 3/4 inches",
+  "34.3 x 1.9 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.103.480",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Galloon"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 120031641,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP6033.jpg",
+ "related-artworks": [
+  120031482,
+  120031483,
+  120031491,
+  120031496,
+  120031638
+ ],
+ "Provenance": [
+  "Samuel B. Dean (until 1908",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120031641"
+  }
+ }
+}

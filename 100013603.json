@@ -1,0 +1,41 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 11",
+ "Date": "ca. 2030–1640 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Priests' Cemetery, Tomb MMA 200s, MMA 1919–1920",
+ "Medium": "Papyrus, ink",
+ "Dimensions": "L. 22 7/16 in. (57 cm)",
+ "Credit Line": "Rogers Fund, 1928",
+ "Accession Number": "28.3.15",
+ "What": [
+  "Ink",
+  "Fragments",
+  "Papyrus"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 2000–1000 B.C.",
+  "Egypt, 8000–2000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100013603,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs28.3.15.jpg",
+ "related-artworks": [
+  100011078,
+  100011279,
+  100011282,
+  100011288,
+  100011332
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100013603"
+  }
+ }
+}

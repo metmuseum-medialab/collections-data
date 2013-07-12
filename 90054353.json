@@ -1,0 +1,67 @@
+{
+ "Date": "1799",
+ "Medium": "Etching, aquatint and drypoint on laid paper",
+ "Dimensions": [
+  "image 7 1/4 x 4 3/4 in. (18.4 x 12 cm)",
+  "plate 8 5/16 x 6 5/16 in. (21.1 x 16.1 cm)",
+  "sheet 11 5/8 x 8 1/4 in. (29.5 x 21 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of M. Knoedler & Co., 1918",
+ "Accession Number": "18.64",
+ "Who": "Goya (Francisco de Goya y Lucientes)",
+ "What": [
+  "Prints",
+  "Etching",
+  "Paper",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints",
+  "Aquatint",
+  "Laid paper"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90054353,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP817115.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90028506",
+  "http://scrapi.org/object/90054118",
+  "http://scrapi.org/object/90054137",
+  "http://scrapi.org/object/90000019",
+  "http://scrapi.org/object/90000191"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Paul J. Sachs",
+  "Donor: Knoedler and Co."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90028506"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90054118"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90054137"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000019"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000191"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90054353"
+  }
+ }
+}

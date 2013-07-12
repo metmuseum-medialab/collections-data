@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Silk / Compound weave",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Kihei Hattori, in memory of his father, Kihei Hattori, 1920",
+ "Accession Number": "20.148.1018",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60045825,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP14872.jpg",
+ "related-artworks": [
+  60011724,
+  60012236,
+  60021232,
+  60021227,
+  60022178
+ ],
+ "Provenance": [
+  "Kihei Hattori , Tokyo (until 1920)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60045825"
+  }
+ }
+}

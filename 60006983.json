@@ -1,0 +1,51 @@
+{
+ "Artist": "After Su Shi (Chinese, 1037–1101)",
+ "Period": "Song dynasty (960–1279)",
+ "Culture": "China",
+ "Medium": "Hanging scroll mounted as a handscroll; ink on paper",
+ "Dimensions": [
+  "Image 21 3/8 x 13 in. (54.3 x 33 cm)",
+  "Overall with mounting 14 3/4 x 418 3/16 in. (37.5 x 1062.2 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of John M. Crawford Jr., 1988",
+ "Accession Number": "1989.363.3",
+ "Who": [
+  "Unidentified Artist",
+  "Su Shi"
+ ],
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Handscrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D.",
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60006983,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP144239.jpg",
+ "related-artworks": [
+  60006972,
+  60022604,
+  60022712,
+  60022745,
+  60022794
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60006983"
+  }
+ }
+}

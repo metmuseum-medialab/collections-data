@@ -1,0 +1,38 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Wood, black pearls",
+ "Dimensions": "H. 1 in. (2.5 cm); W. 1 in. (2.5 cm); L. 1 1/2 in. (3.8 cm)",
+ "Classification": "Netsuke",
+ "Credit Line": "Bequest of Susan Dwight Bliss, 1966",
+ "Accession Number": "67.55.65",
+ "What": [
+  "Sculpture",
+  "Netsukes",
+  "Pearl"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60030881,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/67_55_65.JPG",
+ "related-artworks": [
+  60013262,
+  60013265,
+  60013268,
+  60013282,
+  60013401
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030881"
+  }
+ }
+}

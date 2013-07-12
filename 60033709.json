@@ -1,0 +1,35 @@
+{
+ "Period": "Late Jōmon period (ca. 1500–1000 B.C.)",
+ "Culture": "Japan",
+ "Medium": "Flint",
+ "Dimensions": "L. 1 1/8 in. (2.9 cm); W. 3/4 in. (1.9 cm)",
+ "Classification": "Stone",
+ "Credit Line": "The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+ "Accession Number": "1975.268.204",
+ "What": [
+  "Stone",
+  "Arrowheads",
+  "Flint"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60033709,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1975_268_201-260.JPG",
+ "related-artworks": [
+  60033706,
+  60033717,
+  60033710,
+  60033712,
+  60033720
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033709"
+  }
+ }
+}

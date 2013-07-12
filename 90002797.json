@@ -1,0 +1,43 @@
+{
+ "Date": "1734-91",
+ "Medium": "Pen and black ink with brush and gray wash and red chalk over graphite underdrawing.",
+ "Dimensions": "9 9/16 x 5 9/16 in.  (24.3 x 14.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Cornelius Vanderbilt, 1880",
+ "Accession Number": "80.3.667",
+ "Who": "Jean Charles Delafosse",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite",
+  "Chalk",
+  "Underdrawings"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002797,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818907.jpg",
+ "related-artworks": [
+  90002795,
+  90002888,
+  90002889,
+  90002893,
+  90002894
+ ],
+ "Provenance": [
+  "James Jackson Jarves, Boston",
+  "Cornelius Vanderbilt (American, Staten Island, New York 1843–1899 New York)",
+  "Donor: Cornelius Vanderbilt (American, Staten Island, New York 1843–1899 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002797"
+  }
+ }
+}

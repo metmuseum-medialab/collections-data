@@ -1,0 +1,41 @@
+{
+ "Object Name": "Fragment",
+ "Date": "12th–13th century",
+ "Geography": "Iran, Rayy",
+ "Medium": "Stonepaste; overglaze painted (mina'i)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Grinnell Collection, Bequest of William Milne Grinnell, 1920",
+ "Accession Number": "20.120.134",
+ "What": [
+  "Ceramics",
+  "Fragments",
+  "Painting",
+  "Overglazing"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Rayy"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140004453,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf20-120-134a.jpg",
+ "related-artworks": [
+  140004454,
+  140004459,
+  140004443,
+  140004445,
+  140004446
+ ],
+ "Provenance": [
+  "William Milne Grinnell, New York (until d. 1920)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004453"
+  }
+ }
+}

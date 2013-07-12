@@ -1,0 +1,46 @@
+{
+ "Date": "1745–60",
+ "Culture": "Flemish (Brussels)",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 32 1/2 x W. 26 inches (82.6 x 66.0 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.53",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace",
+  "Headcloths",
+  "Veils"
+ ],
+ "Where": [
+  "Europe",
+  "Belgium",
+  "Brussels"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120043994,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/114921.jpg",
+ "related-artworks": [
+  120040739,
+  120045451,
+  120030674,
+  120032232,
+  120037599
+ ],
+ "Provenance": [
+  "Montefiore",
+  "[ Georges Moens 1938",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120043994"
+  }
+ }
+}

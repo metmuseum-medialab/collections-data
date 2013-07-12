@@ -1,0 +1,72 @@
+{
+ "Date": "1845–46",
+ "Medium": "Salted paper prints from paper negatives",
+ "Dimensions": [
+  "22.4 x 36.2 cm (8 13/16 x 14 1/4 in.) overall",
+  "Image 22.2 x 17 cm (8 3/4 x 6 11/16 in.) each"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 2005",
+ "Accession Number": "2005.100.947.1–.2",
+ "Who": "Calvert Richard Jones",
+ "What": [
+  "Prints",
+  "Photographs",
+  "Paper",
+  "Negatives",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Wales"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190039258,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP143018.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/190018660",
+  "http://scrapi.org/object/190036265",
+  "http://scrapi.org/object/190020708",
+  "http://scrapi.org/object/190020832",
+  "http://scrapi.org/object/190020845"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ph/original/DP143018.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP143023.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP143024.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/Jones2005.100.947.1verso.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/Jones2005.100.947.2verso.jpg"
+ ],
+ "Description": "Frustrated by the optical limitations imposed by photography, Jones began taking two photographs, moving the camera in a slight arc between exposures until the left-hand side of the second view coincided with the right-hand side of the first. Although simple enough to describe, such pairing of negatives was technically challenging to carry off with complete success, as the images were invariably mismatched. Despite this obvious shortcoming, this pair of images demands closer attention than a single photograph. The choice of viewpoint means that each half works well as a single image, but when they are seen together the pairing creates visual correspondence between the bed sheets and shirts on the left and the windows and awnings on the right. In later years Jones designed a binocular camera to overcome the difficulties of alignment.",
+ "Provenance": [
+  "By descent to the artist's great-great-grandson",
+  "[Hans P. Kraus, Jr., Inc., New York]",
+  "Gilman Paper Company Collection, November 6, 1996"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190018660"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190036265"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190020708"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190020832"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190020845"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190039258"
+  }
+ }
+}

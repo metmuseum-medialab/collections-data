@@ -1,0 +1,30 @@
+{
+ "Date": "18th century",
+ "Culture": "Persian",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Rogers Fund, 1916",
+ "Accession Number": "16.136a–c",
+ "What": [
+  "Stalls",
+  "Springers"
+ ],
+ "Where": [
+  "Asia",
+  "Persia"
+ ],
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40011986,
+ "related-artworks": [
+  40000943,
+  40002514,
+  40002524,
+  40003108,
+  40003283
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40011986"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1925",
+ "Medium": "Black crayon on paper",
+ "Dimensions": "12 7/8 x 10 in. (32.7 x 25.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Felicia Meyer Marsh, 1979",
+ "Accession Number": "1979.292.49",
+ "Who": "Reginald Marsh",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Crayons"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210018661,
+ "related-artworks": [
+  210013164,
+  210013165,
+  210013167,
+  210013153,
+  210013154
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210018661"
+  }
+ }
+}

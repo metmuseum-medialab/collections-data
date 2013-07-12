@@ -1,0 +1,61 @@
+{
+ "Period": "Tang dynasty (618–907)",
+ "Culture": "China",
+ "Medium": "Unglazed terracotta",
+ "Dimensions": "H. 4 1/2 in. (11.4 cm); W. 2 1/4 in. (5.7 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1929",
+ "Accession Number": "30.76.117",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Tablets"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60032909,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/30_76_117_O1.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/60032905",
+  "http://scrapi.org/object/60032906",
+  "http://scrapi.org/object/60032907",
+  "http://scrapi.org/object/60032908",
+  "http://scrapi.org/object/60032910"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/as/original/30_76_117_O1.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/30_76_117_O2.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60032905"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60032906"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60032907"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60032908"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60032910"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60032909"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Period": "Ur III",
+ "Date": "ca. 2045 B.C.",
+ "Geography": "Mesopotamia, Drehem (ancient Puzrish-Dagan)",
+ "Culture": "Neo-Sumerian",
+ "Medium": "Clay",
+ "Dimensions": "3.1 x 2.9 x 1.4 cm (1 1/4 x 1 1/8 x 1/2 in.)",
+ "Classification": "Clay",
+ "Credit Line": "Purchase, by exchange, 1911",
+ "Accession Number": "11.217.12",
+ "Who": "Neo-Sumerian",
+ "What": [
+  "Clay",
+  "Tablets",
+  "Cuneiform"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30001101,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME11_217_12A.jpg",
+ "related-artworks": [
+  30000449,
+  30000524,
+  30000525,
+  30000528,
+  30001091
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1911, through an exchange of objects with the Pierpont Morgan Library, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30001101"
+  }
+ }
+}

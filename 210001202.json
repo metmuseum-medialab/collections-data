@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1920",
+ "Medium": "Brass",
+ "Dimensions": "1 5/8 x 4 in.  (4.1 x 10.2 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1972",
+ "Accession Number": "1972.177.3",
+ "Who": "Josef Hoffmann",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bowls",
+  "Brass"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Art Nouveau",
+  "Design, 1900–25",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210001202,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1972.177.1-4.jpg",
+ "related-artworks": [
+  210001200,
+  210001201,
+  210001742,
+  210001203,
+  210014316
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210001202"
+  }
+ }
+}

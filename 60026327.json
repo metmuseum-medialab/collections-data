@@ -1,0 +1,41 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "ca. 1903",
+ "Culture": "Japan",
+ "Medium": "Frontispiece; polychrome woodblock print; ink and color on paper",
+ "Dimensions": "Image 8 5/8 x 12 in. (21.9 x 30.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Lincoln Kirstein, 1959",
+ "Accession Number": "JP3195",
+ "Who": "Kaburagi Kiyokata",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1900 A.D.–present",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60026327,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP143052.jpg",
+ "related-artworks": [
+  60026322,
+  60024774,
+  60026689
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026327"
+  }
+ }
+}

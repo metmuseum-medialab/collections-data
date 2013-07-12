@@ -1,0 +1,40 @@
+{
+ "Date": "mid 20th century",
+ "Medium": "Monotype",
+ "Dimensions": [
+  "image 24 15/16 x 26 5/8 in. (63.3 x 67.7 cm)",
+  "sheet 29 1/2 x 32 7/8 in. (75 x 83.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Stewart S. MacDermott Fund, 1976",
+ "Accession Number": "1976.639",
+ "Who": "Yvonne Jacquette",
+ "What": [
+  "Prints",
+  "Monotype"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90038383,
+ "related-artworks": [
+  90000845,
+  90038118,
+  210001937,
+  210001944,
+  210002386
+ ],
+ "Provenance": [
+  "Vendor: Brooke Alexander, Inc. (New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90038383"
+  }
+ }
+}

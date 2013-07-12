@@ -1,0 +1,51 @@
+{
+ "Date": "1800–1830",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 2 9/16 in. (6.5 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of William H. Huntington, 1883",
+ "Accession Number": "83.2.388",
+ "Who": "Moritz Fürst",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Medals"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005200,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10005196"
+   },
+   {
+    "href": "http://scrapi.org/object/10005202"
+   },
+   {
+    "href": "http://scrapi.org/object/10005187"
+   },
+   {
+    "href": "http://scrapi.org/object/10005190"
+   },
+   {
+    "href": "http://scrapi.org/object/10005191"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10005200"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10005200"
+  }
+ }
+}

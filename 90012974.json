@@ -1,0 +1,29 @@
+{
+ "Date": "1833",
+ "Classification": "Books",
+ "Credit Line": "Rogers, Harris Brisbane Dick, and The Elisha Whittelsey Funds; and Gift of John Sise, by exchange, 1958",
+ "Accession Number": "58.635.2(1-24)",
+ "Who": "Antonio Basoli",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012974,
+ "related-artworks": [
+  90012971,
+  90012973,
+  90012968,
+  90012967,
+  90009147
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90012974"
+  }
+ }
+}

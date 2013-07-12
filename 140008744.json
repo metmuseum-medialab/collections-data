@@ -1,0 +1,47 @@
+{
+ "Object Name": "Folio from an illustrated manuscript",
+ "Date": "second half 16th century",
+ "Geography": "Iran, Shiraz",
+ "Medium": "Opaque watercolor and gold on paper",
+ "Dimensions": [
+  "H. 9 in. (22.9 cm)",
+  "W. 5 1/4 in. (13.3 cm)"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "Cora Timken Burnett Collection of Persian Miniatures and Other Persian Art Objects, Bequest of Cora Timken Burnett, 1956",
+ "Accession Number": "57.51.39.76",
+ "Who": "Maulana Nur al-Din `Abd al-Rahman Jami",
+ "What": [
+  "Metal",
+  "Paper",
+  "Gold",
+  "Watercolors",
+  "Manuscripts",
+  "Codices",
+  "Folios",
+  "Illuminated manuscripts"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Shiraz"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140008744,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf57-51-39-176r.jpg",
+ "related-artworks": [
+  140008738,
+  140008739,
+  140008740,
+  140008741,
+  140008742
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008744"
+  }
+ }
+}

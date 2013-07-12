@@ -1,0 +1,47 @@
+{
+ "Manufacturer": "Georg Jensen (Danish, Rådvad 1866–1935 Hellerup)",
+ "Date": "post WWII",
+ "Medium": "Silver",
+ "Dimensions": [
+  "L. 13-1/4 in.",
+  "(33.7 cm)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, Edward C. Moore Jr. Gift, 1961",
+ "Accession Number": "61.7.22",
+ "Who": [
+  "Georg Jensen",
+  "Henning Koppel"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Ladles"
+ ],
+ "Where": [
+  "Europe",
+  "Denmark"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009411,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf61.7.22.jpg",
+ "related-artworks": [
+  210009399,
+  210009407,
+  210009409,
+  210009410,
+  210009406
+ ],
+ "Provenance": [
+  "Danish Society of Arts & Crafts & Industrial Design"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009411"
+  }
+ }
+}

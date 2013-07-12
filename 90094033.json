@@ -1,0 +1,43 @@
+{
+ "Date": "1720",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Plate 10 15/16 x 14 3/4 in. (27.8 x 37.4 cm)",
+  "Sheet 11 1/4 x 14 15/16 in. (28.5 x 38 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Georgiana W. Sargent, in memory of John Osborne Sargent, 1924",
+ "Accession Number": "24.63.200",
+ "Who": "Bernard Picart",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Idea and Invention of the Villa",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90094033,
+ "related-artworks": [
+  90035273,
+  90034222,
+  90034750,
+  90057636,
+  90064689
+ ],
+ "Provenance": [
+  "Donor: Georgiana W. Sargent"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90094033"
+  }
+ }
+}

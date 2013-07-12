@@ -1,0 +1,34 @@
+{
+ "Date": "1952",
+ "Medium": "Commerical color lithograph",
+ "Dimensions": "sheet 3 1/8 x 2 1/16 in. (8 x 5.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 327, R406-6.152",
+ "Who": "Bowman Gum Company",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Baseball cards"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90077447,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820659.jpg",
+ "related-artworks": [
+  90077443,
+  90087671,
+  90018983,
+  90068591,
+  90077442
+ ],
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90077447"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "1890s",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 40 in. (101.6 cm)",
+ "Credit Line": "Gift of Miss Agnes P. Lorimier, 1955",
+ "Accession Number": "C.I.X.55.21",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Underwear",
+  "Underskirts",
+  "Petticoats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80007877,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CIX55.21.jpg",
+ "related-artworks": [
+  80002539,
+  80003265,
+  80006398,
+  80006399,
+  80007860
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007877"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "1803",
+ "Medium": "Etching with drypoint, burin and roulette; third state of three",
+ "Dimensions": "sheet 10 3/8 x 15 5/16 in. (26.3 x 38.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Carl J. Ulman, 1926",
+ "Accession Number": "26.1.8",
+ "Who": "Jean Jacques de Boissieu",
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints",
+  "Burins",
+  "Roulettes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90070313,
+ "related-artworks": [
+  90009634,
+  90070307,
+  90070351,
+  90009631,
+  90010814
+ ],
+ "Provenance": [
+  "Donor: Carl Joseph Ulmann (1863–ca. 1939 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90070313"
+  }
+ }
+}

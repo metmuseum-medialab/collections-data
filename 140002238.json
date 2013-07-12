@@ -1,0 +1,41 @@
+{
+ "Date": "1296",
+ "Geography": "Egypt, Cairo",
+ "Medium": "Wood; carved and inlaid",
+ "Dimensions": [
+  "H. 7 5/8 in. (19.4 cm)",
+  "W. 3 3/4 in. (9.5 cm)"
+ ],
+ "Classification": "Wood",
+ "Credit Line": "Rogers Fund, 1907",
+ "Accession Number": "07.236.39",
+ "What": "Panels",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Cairo"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140002238,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf07-236-39a.jpg",
+ "related-artworks": [
+  140002204,
+  140002206,
+  140002215,
+  140002211,
+  140002213
+ ],
+ "Provenance": [
+  "Minbar of mosque of Ahmad Ibn Tulun, Cairo (Coste, Pascal, 'Architecture Arabe ou Monuments du Kaire'. Paris, 1839)A. Beaudry Collection",
+  "[ Panayotis Kitycas, Cairo, until 1907",
+  "sold to Albert M. Lythgoe for MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140002238"
+  }
+ }
+}

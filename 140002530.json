@@ -1,0 +1,46 @@
+{
+ "Date": "9th century",
+ "Geography": "Iraq, Kus",
+ "Medium": "Earthenware; opaque white tin glaze; luster-painted",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.184.60",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Fragments",
+  "Pottery",
+  "Earthenware",
+  "Painting",
+  "Glaze",
+  "Ceramic glaze",
+  "Tin",
+  "Tin glaze"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iraq (Mesopotamia) 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140002530,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf08-184-60a.jpg",
+ "related-artworks": [
+  140004904,
+  140007416,
+  140009024,
+  140002378,
+  140005160
+ ],
+ "Provenance": [
+  "[ Audley, until 1908",
+  "sold to Sir C.P. Clarke for MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140002530"
+  }
+ }
+}

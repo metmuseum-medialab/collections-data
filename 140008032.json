@@ -1,0 +1,36 @@
+{
+ "Date": "6th–7th century",
+ "Geography": "probably Egypt or Syria",
+ "Medium": "Silk",
+ "Classification": "Textiles",
+ "Credit Line": "Fletcher Fund, 1946",
+ "Accession Number": "46.156.18b, c",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140008032,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP17611.jpg",
+ "related-artworks": [
+  140000765,
+  140000752,
+  140000778,
+  140003165,
+  140004088
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008032"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Artist": "After Franz Ittenbach (German, 1813–1879)",
+ "Medium": "Etching and engraving, on chine collé",
+ "Dimensions": "Plate 21 3/4 × 15 11/16 in. (55.3 × 39.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Alice C. Taft, Hope Smith, Marianna F. Taft, Helen Head, and Brockholst M. Smith, 1945",
+ "Accession Number": "45.78.24",
+ "Who": [
+  "Franz Ittenbach",
+  "Josef Kohlschein"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving",
+  "Chine collé"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90097618,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP827953.jpg",
+ "related-artworks": [
+  90058342,
+  90095771,
+  90095790,
+  90058371,
+  90058384
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90097618"
+  }
+ }
+}

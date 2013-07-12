@@ -1,0 +1,39 @@
+{
+ "Period": "Muromachi period (1392–1573)",
+ "Date": "15th century",
+ "Culture": "Japan",
+ "Medium": "Silk / Compound weave",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Kihei Hattori, in memory of his father, Kihei Hattori, 1920",
+ "Accession Number": "20.148.61",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60044876,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP15507.jpg",
+ "related-artworks": [
+  60041894,
+  60044846,
+  60044851,
+  60044852,
+  60044853
+ ],
+ "Provenance": [
+  "Kihei Hattori , Tokyo (until 1920)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044876"
+  }
+ }
+}

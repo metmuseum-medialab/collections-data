@@ -1,0 +1,42 @@
+{
+ "Date": "dated 1946",
+ "Culture": "China",
+ "Medium": "Hanging scroll; ink and color on paper",
+ "Dimensions": "41 1/2 x 18 1/4 in. (105.4 x 46.4 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1986",
+ "Accession Number": "1986.267.334",
+ "Who": "Zhao Wangyun",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60000432,
+ "related-artworks": [
+  60000286,
+  60000296,
+  60000377,
+  60000428,
+  60000444
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60000432"
+  }
+ }
+}

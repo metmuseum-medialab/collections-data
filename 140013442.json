@@ -1,0 +1,42 @@
+{
+ "Date": "14th–15th century",
+ "Geography": "Egypt",
+ "Medium": "Stonepaste; underglaze painted",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.256.101",
+ "What": [
+  "Ceramics",
+  "Fragments",
+  "Painting",
+  "Underglazing"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1000–1400 A.D.",
+  "Egypt, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140013442,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/08.256.101.JPG",
+ "related-artworks": [
+  140002357,
+  140002391,
+  140002510,
+  140002515,
+  140003655
+ ],
+ "Provenance": [
+  "[ Michael Casira, Cairo, until 1908",
+  "sold to A.M. Lythgoe for MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140013442"
+  }
+ }
+}

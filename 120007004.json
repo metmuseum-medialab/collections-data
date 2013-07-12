@@ -1,0 +1,39 @@
+{
+ "Date": "first half 17th century",
+ "Culture": "Italian (Bologne) (?)",
+ "Medium": "Walnut",
+ "Dimensions": "32-1/4 x 101-1/4 x 40 in.  (81.9 x 257.2 x 101.6 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.152.7",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Walnut",
+  "Tables",
+  "Refectory tables"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Bologna"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120007004,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/18838.jpg",
+ "related-artworks": [
+  120025878,
+  120014126,
+  120021166,
+  120003368,
+  120014029
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120007004"
+  }
+ }
+}

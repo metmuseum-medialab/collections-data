@@ -1,0 +1,41 @@
+{
+ "Date": "1880s",
+ "Classification": "Albums",
+ "Credit Line": "Gift of Lincoln Kirstein, 1964",
+ "Accession Number": "64.538.1",
+ "Who": "Nadar",
+ "What": [
+  "Books",
+  "Albums"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Gustave Le Gray (1820–1884)",
+  "Commedia dell'arte",
+  "The Rise of Paper Photography in 1850s France",
+  "Nadar (1820–1910)",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190022722,
+ "related-artworks": [
+  190022096,
+  190022723,
+  190022724,
+  190023087,
+  190036309
+ ],
+ "Provenance": [
+  "Lincoln Kirstein"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190022722"
+  }
+ }
+}

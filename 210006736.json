@@ -1,0 +1,45 @@
+{
+ "Manufacturer": "Red Wing Pottery (Red Wing, Minnesota)",
+ "Date": "1945",
+ "Medium": "Earthenware",
+ "Dimensions": [
+  "H. 1, Diam. 8 inches",
+  "(2.5 x 20.3 cm.)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of the artist, 1994",
+ "Accession Number": "1994.66.5",
+ "Who": [
+  "Eva Zeisel",
+  "Red Wing Pottery"
+ ],
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Plates",
+  "Salad plates"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210006736,
+ "related-artworks": [
+  210012467,
+  210006735,
+  210012466,
+  210012470,
+  210012459
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006736"
+  }
+ }
+}

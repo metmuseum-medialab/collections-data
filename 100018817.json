@@ -1,0 +1,45 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12, late–early 13",
+ "Date": "ca. 1850–1775 B.C.",
+ "Geography": "Country of Origin Egypt, Northern Upper Egypt, Abydos (Umm el-Qaab, Tell el-Manshiya, others), cemetery V, Tomb V21, EEF excavations, 1904",
+ "Medium": "Silver or Electrum",
+ "Dimensions": "H. 1.4 cm (9/16 in)",
+ "Credit Line": "Gift of Egypt Exploration Fund, 1904",
+ "Accession Number": "04.18.14",
+ "What": [
+  "Metal",
+  "Silver",
+  "Amulets",
+  "Gold alloy",
+  "Electrum"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Abydos"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100018817,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/04.18.6-.14.jpg",
+ "related-artworks": [
+  100013544,
+  100013545,
+  100013540,
+  100013541,
+  100018816
+ ],
+ "Description": "This amulet is part of a group of objects found in tomb V21 at Abydos with two bodies. The group includes 04.18.1–04.18.49.",
+ "Provenance": [
+  "Excavated at Abydos in 1904 by C. T. Currelly on behalf of the Egypt Exploration Fund. Acquired by the EEF in the division of finds. Donated by the EEF to the Metropolitan Museum in 1904."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100018817"
+  }
+ }
+}

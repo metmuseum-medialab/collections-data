@@ -1,0 +1,27 @@
+{
+ "Date": "ca. 1900",
+ "Dimensions": "17 3/8 x 13 3/16 x 13/16 in.  (44.2 x 33.5 x 2 cm)",
+ "Classification": "Portfolios",
+ "Credit Line": "Gift of Lincoln Kirstein, 1970",
+ "Accession Number": "1970.565.212(1-2)",
+ "Who": "Friedrich Wolfrum & Co.",
+ "What": "Portfolios",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90011271,
+ "related-artworks": [
+  90011271,
+  90000374,
+  90000466,
+  90000477,
+  90000546
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90011271"
+  }
+ }
+}

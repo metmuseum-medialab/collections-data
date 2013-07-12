@@ -1,0 +1,35 @@
+{
+ "Date": "1870–89",
+ "Culture": "French",
+ "Medium": "leather",
+ "Dimensions": "Length 11 1/2 in. (29.2 cm)",
+ "Credit Line": "Gift of Theodore Fischer Ells, 1975",
+ "Accession Number": "1975.227.22a, b",
+ "What": [
+  "Costume",
+  "Leather",
+  "Gloves"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80052754,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1975.227.22ab.jpg",
+ "related-artworks": [
+  80002245,
+  80004775,
+  80004783,
+  80028694,
+  80029351
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052754"
+  }
+ }
+}

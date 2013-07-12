@@ -1,0 +1,58 @@
+{
+ "Date": "1881",
+ "Geography": "New England, Chelsea, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Earthenware",
+ "Dimensions": "6 1/8 x 2 3/16 x 3/8 in. (15.6 x 5.6 x 1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. George F. Leonard, 1971",
+ "Accession Number": "1971.182.6",
+ "Who": "J.  J. G. Low Art Tile Works",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Tile"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Chelsea"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000592,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/196987.jpg",
+ "Provenance": [
+  "Mrs. George F. Leonard, New York, until 1971"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10008824"
+   },
+   {
+    "href": "http://scrapi.org/object/10008827"
+   },
+   {
+    "href": "http://scrapi.org/object/10008830"
+   },
+   {
+    "href": "http://scrapi.org/object/10000583"
+   },
+   {
+    "href": "http://scrapi.org/object/10000584"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10000592"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10000592"
+  }
+ }
+}

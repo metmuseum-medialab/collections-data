@@ -1,0 +1,64 @@
+{
+ "Date": "1880–85",
+ "Geography": "United States, South Dakota",
+ "Culture": "Brule Sioux",
+ "Medium": "Rawhide, pigment, Native-tanned skin ties",
+ "Dimensions": [
+  "(a) H. 22 1/2 x W. 13 3/8 in. (57.2 x 34 cm)",
+  "(b) H. 22 1/4 x W. 12 7/8 in. (56.5 x 32.7 cm)"
+ ],
+ "Classification": "Hide-Containers",
+ "Credit Line": "Ralph T. Coe Collection, Gift of Ralph T. Coe Foundation for the Arts, 2011",
+ "Accession Number": "2011.154.152.1, .2",
+ "What": [
+  "Hide",
+  "Rawhide",
+  "Parfleches"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50012452,
+ "gallery-id": 356,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DT263003.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ao/original/DT263003.jpg",
+  "http://images.metmuseum.org/CRDImages/ao/original/tr.165.118a,b.2011.jpg",
+  "http://images.metmuseum.org/CRDImages/ao/original/tr.165.118a,b.2011_a.jpg",
+  "http://images.metmuseum.org/CRDImages/ao/original/tr.165.118a,b.2011_b.jpg"
+ ],
+ "Provenance": [
+  "Ralph T. Coe, Santa Fe, NM, until (d.) 2010",
+  "Ralph T. Coe Foundation for the Arts, 2010–2011"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50012337"
+   },
+   {
+    "href": "http://scrapi.org/object/50012099"
+   },
+   {
+    "href": "http://scrapi.org/object/50012100"
+   },
+   {
+    "href": "http://scrapi.org/object/50012103"
+   },
+   {
+    "href": "http://scrapi.org/object/50012496"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50012452"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50012452"
+  }
+ }
+}

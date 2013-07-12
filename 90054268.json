@@ -1,0 +1,41 @@
+{
+ "Sitter": "Portrait of Daniel Specklin (Strasbourg, 1536–1589)",
+ "Date": "16th century",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 5 7/8 x 4 5/8 in. (14.9 x 11.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry C. Friedman, 1961",
+ "Accession Number": "61.663.408",
+ "Who": [
+  "Johann Theodor de Bry",
+  "Daniel Specklin"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90054268,
+ "related-artworks": [
+  90039297,
+  90099158,
+  90099147,
+  90074547,
+  90074544
+ ],
+ "Provenance": [
+  "Donor: Harry G. Friedman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90054268"
+  }
+ }
+}

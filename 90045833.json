@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1475–80",
+ "Medium": "Engraving",
+ "Dimensions": "plate 15 3/16 x 11 5/8 in. (38.6 x 29.5 cm); trimmed to the boarder on the left and all around on the other sides.",
+ "Classification": "Prints",
+ "Credit Line": "Anonymous Gift, 1929",
+ "Accession Number": "29.44.19",
+ "Who": "Andrea Mantegna",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Poets, Lovers, and Heroes in Italian Mythological Prints",
+  "Botanical Imagery in European Painting",
+  "The Birth and Infancy of Christ in Italian Painting",
+  "Anatomy in the Renaissance",
+  "Painting the Life of Christ in Medieval and Renaissance Italy",
+  "Woodcut Book Illustration in Renaissance Italy Venice in the 1490s",
+  "The Rediscovery of Classical Antiquity",
+  "Poets in Italian Mythological Prints"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90045833,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821763.jpg",
+ "related-artworks": [
+  90004082,
+  90009789,
+  90009824,
+  90013073,
+  90018675
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90045833"
+  }
+ }
+}

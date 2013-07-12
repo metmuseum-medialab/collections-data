@@ -1,0 +1,39 @@
+{
+ "Date": "1916",
+ "Medium": "Ink on paper",
+ "Dimensions": [
+  "H. 2-7/8, W. 2-7/8 inches",
+  "(7.3 x 7.3 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of A. W. Bahr, 1958",
+ "Accession Number": "58.21.10",
+ "Who": "Jules Pascin",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009226,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/58.21.10.jpg",
+ "related-artworks": [
+  210003616,
+  210003615,
+  210008708,
+  210009227,
+  210009229
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009226"
+  }
+ }
+}

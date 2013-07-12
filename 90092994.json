@@ -1,0 +1,45 @@
+{
+ "Publisher": "Pietro Cecconcelli (Italian, active late 16th–early 17th century)",
+ "Date": "1620–21",
+ "Medium": "Etching; first state of two (Lieure)",
+ "Dimensions": [
+  "Sheet 8 11/16 x 6 in. (22 x 15.2 cm)",
+  "Plate 7 15/16 x 5 5/16 in. (20.2 x 13.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Edwin De T. Bechtel, 1957",
+ "Accession Number": "57.650.392",
+ "Who": [
+  "Jacques Callot",
+  "Pietro Cecconcelli"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90092994,
+ "related-artworks": [
+  90008838,
+  90010396,
+  90027834,
+  90028114,
+  90028435
+ ],
+ "Provenance": [
+  "Pierre Mariette le fils (French, Paris 1634–1716 Paris)",
+  "Donor: Edwin De Turck Bechtel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90092994"
+  }
+ }
+}

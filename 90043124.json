@@ -1,0 +1,46 @@
+{
+ "Artist": "After Eugène Delacroix (French, Charenton-Saint-Maurice 1798–1863 Paris)",
+ "Date": "1845",
+ "Medium": "Etching on laid paper",
+ "Dimensions": [
+  "plate 8 11/16 x 7 7/8 in. (22 x 20 cm)",
+  "sheet 14 3/8 x 10 1/4 in. (36.5 x 26 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Professor Maan Z. Madina and Dr. Marilyn Jenkins-Madina, 2006",
+ "Accession Number": "2006.50.97",
+ "Who": [
+  "Eugène Delacroix",
+  "Frederic Villot"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Paper",
+  "Laid paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90043124,
+ "related-artworks": [
+  90003633,
+  90004289,
+  90001674,
+  90001673,
+  90003031
+ ],
+ "Provenance": [
+  "Donor: Maan Z. Madina"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90043124"
+  }
+ }
+}

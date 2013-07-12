@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1900",
+ "Culture": "French",
+ "Medium": "plastic, feathers, silk",
+ "Dimensions": [
+  "(a) Length 19 in. (48.3 cm)",
+  "(b) Overall 20 x 6 3/4 x 4 1/4 in. (50.8 x 17.1 x 10.8 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. David Tennant Bryan, 1979",
+ "Accession Number": "1979.229a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Plastic",
+  "Fans",
+  "Feather"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1900 A.D.–present"
+ ],
+ "id": 80053669,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1979.229a.jpg",
+ "related-artworks": [
+  80053624,
+  80053673,
+  80053943,
+  80054372,
+  80057202
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80053669"
+  }
+ }
+}

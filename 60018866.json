@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911), Yongzheng period (1723–35)",
+ "Culture": "China",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 7 5/8 in. (19.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Robert West, 1950",
+ "Accession Number": "50.221.28",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Bottles"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60018866,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/150349.jpg",
+ "related-artworks": [
+  60009666,
+  60009856,
+  60015879,
+  60015882,
+  60016059
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60018866"
+  }
+ }
+}

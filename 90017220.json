@@ -1,0 +1,38 @@
+{
+ "Publisher": "Published by Litografia di Enrico Corty, Bologna (Italian)",
+ "Artist": "Ercole Livizzani (Italian)",
+ "Date": "1853",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1978",
+ "Accession Number": "1978.645.5",
+ "Who": [
+  "Ercole Livizzani",
+  "Antonio Litografo Zannoli",
+  "Litografia di Enrico Corty, Bologna"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017220,
+ "related-artworks": [
+  90021094,
+  90011964,
+  90011980,
+  90012140,
+  90012124
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017220"
+  }
+ }
+}

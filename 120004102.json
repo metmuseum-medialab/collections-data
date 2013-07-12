@@ -1,0 +1,39 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Wood, gilt",
+ "Dimensions": "27-1/2 x 8-1/2 in.  (69.8 x 21.6 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+ "Accession Number": "07.225.344",
+ "What": [
+  "Gilt",
+  "Wood",
+  "Woodwork"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120004102,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/4411.jpg",
+ "related-artworks": [
+  120003733,
+  120003779,
+  120003941,
+  120003945,
+  120004001
+ ],
+ "Provenance": [
+  "Georges Hoentschel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120004102"
+  }
+ }
+}

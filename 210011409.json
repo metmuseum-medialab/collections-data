@@ -1,0 +1,70 @@
+{
+ "Manufacturer": "The Washburn Company (Worcester, Massachusetts)",
+ "Date": "1934",
+ "Medium": "Metal, painted wood",
+ "Dimensions": [
+  "H. 11-3/4, W. 2-5/8 inches",
+  "(29.8 x 6.7 cm)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "John C. Waddell Collection, Gift of John C. Waddell, 1998",
+ "Accession Number": "1998.537.6",
+ "Who": [
+  "Henry Dreyfuss",
+  "The Washburn Company (Worcester, Massachusetts)"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Painting",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1925–50",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210011409,
+ "gallery-id": 912,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1998.537.6.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/210012547",
+  "http://scrapi.org/object/210012544",
+  "http://scrapi.org/object/210012540",
+  "http://scrapi.org/object/210012541",
+  "http://scrapi.org/object/210012956"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Collection of John C. Waddell, New York"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210012547"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210012544"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210012540"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210012541"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210012956"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210011409"
+  }
+ }
+}

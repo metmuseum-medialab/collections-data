@@ -1,0 +1,54 @@
+{
+ "Artist": "Timothy H. O'Sullivan (American, born Ireland, 1840–1882)",
+ "Date": "1864",
+ "Medium": "Albumen silver print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.65.25",
+ "Who": [
+  "Timothy H. O'Sullivan",
+  "James Gardner"
+ ],
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190019871,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP70646.jpg",
+ "Provenance": [
+  "Loyal Legion, Boston Chapter, Commandery of the State of Massachusetts"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190019777"
+   },
+   {
+    "href": "http://scrapi.org/object/190019748"
+   },
+   {
+    "href": "http://scrapi.org/object/190019817"
+   },
+   {
+    "href": "http://scrapi.org/object/190019819"
+   },
+   {
+    "href": "http://scrapi.org/object/190019798"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190019871"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190019871"
+  }
+ }
+}

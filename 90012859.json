@@ -1,0 +1,41 @@
+{
+ "Artist": "Jules-Edmond-Charles Lachaise (French, died 1897)",
+ "Date": "second half 19th century",
+ "Medium": "Graphite and black chalk",
+ "Dimensions": "12 1/4 x 18 3/4 in.  (31.1 x 47.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Dodge Fund, 1967",
+ "Accession Number": "67.827.47",
+ "Who": [
+  "Jules-Edmond-Charles Lachaise",
+  "Eugène-Pierre Gourdet"
+ ],
+ "What": [
+  "Drawings",
+  "Graphite",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90012859,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP807059.jpg",
+ "related-artworks": [
+  90059207,
+  90060385,
+  90013029,
+  90059208,
+  90059209
+ ],
+ "Provenance": [
+  "Vendor: Benjamin Weinreb (London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90012859"
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "Date": "ca. 1811",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": [
+  "Length at CB 16 in. (40.6 cm)",
+  "Length at CF 15 1/2 in. (39.4 cm)",
+  "Width at Bottom 34 in. (86.4 cm)"
+ ],
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.51.4.2",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Underwear",
+  "Corsets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80008009,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/X51.4.2_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/X51.4.2_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/X51.4.2_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/X51.4.2_d.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80003157"
+   },
+   {
+    "href": "http://scrapi.org/object/80003254"
+   },
+   {
+    "href": "http://scrapi.org/object/80003255"
+   },
+   {
+    "href": "http://scrapi.org/object/80006729"
+   },
+   {
+    "href": "http://scrapi.org/object/80007976"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80008009"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80008009"
+  }
+ }
+}

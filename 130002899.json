@@ -1,0 +1,52 @@
+{
+ "Period": "Middle Bronze Age",
+ "Date": "ca. 1900–1600 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Lead",
+ "Dimensions": "Other 1 3/16 in. (3 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.3000d",
+ "What": [
+  "Metal",
+  "Lead"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 2000–1000 B.C.",
+ "id": 130002899,
+ "gallery-id": 173,
+ "Description": "Lead, which had to be imported, first appears on Cyprus in the Middle Bronze Age.",
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130002896"
+   },
+   {
+    "href": "http://scrapi.org/object/130002897"
+   },
+   {
+    "href": "http://scrapi.org/object/130002898"
+   },
+   {
+    "href": "http://scrapi.org/object/130002907"
+   },
+   {
+    "href": "http://scrapi.org/object/130002908"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130002899"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130002899"
+  }
+ }
+}

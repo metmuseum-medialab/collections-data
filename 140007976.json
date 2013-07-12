@@ -1,0 +1,59 @@
+{
+ "Date": "18th–19th century",
+ "Geography": "India, probably Deccan",
+ "Medium": "Silk, cotton and metal thread",
+ "Dimensions": "10 in. high 10.00 in. wide (25.4 cm high 25.4 cm wide)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of the Museum of the Cranbrook Academy of Art, 1946",
+ "Accession Number": "46.37.1vv",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Cotton",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Deccan"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia and the Himalayan Region, 1800–1900 A.D.",
+  "South Asia, 1600–1800 A.D."
+ ],
+ "id": 140007976,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/136301.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/140007913",
+  "http://scrapi.org/object/140007909",
+  "http://scrapi.org/object/140007955",
+  "http://scrapi.org/object/140004654",
+  "http://scrapi.org/object/140007911"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140007913"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140007909"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140007955"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140004654"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140007911"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140007976"
+  }
+ }
+}

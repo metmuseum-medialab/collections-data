@@ -1,0 +1,30 @@
+{
+ "Date": "1809",
+ "Dimensions": "Overall 9 5/8 x 6 1/8 x 1 15/16 in. (24.5 x 15.6 x 4.9 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1942",
+ "Accession Number": "42.74.2",
+ "Who": "Rudolph Ackermann",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90074745,
+ "related-artworks": [
+  90011721,
+  90011727,
+  90011732,
+  90011728,
+  90011734
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90074745"
+  }
+ }
+}

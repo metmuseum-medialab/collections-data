@@ -1,0 +1,39 @@
+{
+ "Date": "1971",
+ "Culture": "Italian",
+ "Medium": "cotton, leather",
+ "Dimensions": [
+  "Height (of heel) 4 1/4 in. (10.8 cm)",
+  "Length 9 in. (22.9 cm)"
+ ],
+ "Credit Line": "Gift of Jane Holzer, 1980",
+ "Accession Number": "1980.586.31a, b",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Leather",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1900 A.D.–present",
+ "id": 80038573,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1980.586.31ab_F.jpg",
+ "related-artworks": [
+  80001031,
+  80002450,
+  80005945,
+  80006313,
+  80012596
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80038573"
+  }
+ }
+}

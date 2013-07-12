@@ -1,0 +1,36 @@
+{
+ "Date": "1952",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 17 1/2 in. (44.5 cm)",
+ "Credit Line": "Gift of Mr. Frederik Lunning, 1952",
+ "Accession Number": "C.I.52.26.3",
+ "Who": "Jane Prendiville",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80030611,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI52.26.3_F.jpg",
+ "related-artworks": [
+  80000084,
+  80000435,
+  80000436,
+  80000722,
+  80000814
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80030611"
+  }
+ }
+}

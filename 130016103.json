@@ -1,0 +1,44 @@
+{
+ "Period": "Archaic",
+ "Date": "ca. 515 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; red-figure, coral red",
+ "Classification": "Vases",
+ "Credit Line": "Gift of Dietrich von Bothmer, 1977",
+ "Accession Number": "1977.192.2a–d",
+ "Who": "Euthymides",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups",
+  "Kylikes"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130016103,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP116993.jpg",
+ "related-artworks": [
+  130016275,
+  130016393,
+  130016224,
+  130016284,
+  130016481
+ ],
+ "Description": "Exterior, gods in OlymposThough fragmentary, the cup is exceedingly significant. It is signed by Euthymides as both painter and potter. None of the figural decoration of the interior is preserved, but the surviving  pieces show that it was covered with a coral red slip. The subject of the exterior may have been the birth of Athena.The other fragments belonging to the cup are 1982.386 and L.1983.49, lent by the Monumenti, Musei e Gallerie Pontificie.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130016103"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Publisher": "Published by Giovanni Domenico de Rossi (Italian, 1619–1653)",
+ "Dedicatee": "Dedicated to Cardinal Camillo Pamphili",
+ "Date": "1645",
+ "Medium": "Etching with some engraving, undescribed state.",
+ "Dimensions": [
+  "Sheet 21 7/8 x 16 3/8 in. (55.6 x 41.6 cm)",
+  "Plate 21 3/16 x 16 1/16 in. (53.8 x 40.8 cm) [partly within plate margins due to cropping]"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Edward Pearce Casey Fund, 1983",
+ "Accession Number": "1983.1027",
+ "Who": [
+  "Antonio Tempesta",
+  "Cardinal Camillo Pamphili",
+  "Giovanni Domenico de Rossi"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Rembrandt van Rijn (1606–1669) Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90089860,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP826505.jpg",
+ "related-artworks": [
+  90055208,
+  90089856,
+  90089858,
+  90089857,
+  90089859
+ ],
+ "Description": "Part of the top half of the map of Rome. Depicted is a southern part of the city with the Baths of Caracalla (referred to as Thermae Antoninianae), the Santa Sabina and part of the Tiber.",
+ "Provenance": [
+  "Vendor: R. E. Lewis Inc."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90089860"
+  }
+ }
+}

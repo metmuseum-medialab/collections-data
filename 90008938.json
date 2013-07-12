@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1770",
+ "Medium": "Black and white chalk  with stumping",
+ "Dimensions": "10-5/16 x 15-15/16 in.  (26.2 x 40.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1907",
+ "Accession Number": "07.283.6",
+ "Who": "Thomas Gainsborough",
+ "What": [
+  "Drawings",
+  "Chalk",
+  "Stumping"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Portrait Painting in England, 1600–1800",
+  "Art and Identity in the British North American Colonies, 1700–1776",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90008938,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP805670.jpg",
+ "related-artworks": [
+  90008937,
+  90008940,
+  90008943,
+  90008944,
+  90008936
+ ],
+ "Provenance": [
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90008938"
+  }
+ }
+}

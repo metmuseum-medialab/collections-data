@@ -1,0 +1,37 @@
+{
+ "Date": "19th century",
+ "Culture": "European",
+ "Medium": "Silk",
+ "Dimensions": "L. 16 1/2 x W. 5 1/2 inches (41.9 x 14.0 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.1033",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Borders"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120041813,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/117023.jpg",
+ "related-artworks": [
+  120030739,
+  120031000,
+  120035036,
+  120035040,
+  120035037
+ ],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120041813"
+  }
+ }
+}

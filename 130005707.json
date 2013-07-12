@@ -1,0 +1,42 @@
+{
+ "Period": "Mid Imperial",
+ "Date": "2nd–3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": "H. 2 1/8 in. (5.4 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Henry G. Marquand, 1881",
+ "Accession Number": "81.10.79",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Jars"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130005707,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP218258.jpg",
+ "related-artworks": [
+  130000098,
+  130000120,
+  130000141,
+  130005075,
+  130005087
+ ],
+ "Description": "Colorless with blue green tinge.Tubular rim folded out, over, and in; funnel-shaped mouth; short, concave neck; uneven, bulbous body; pushed-in bottom.Intact; pinprick bubbles and blowing striations; faint iridescence on exterior, patches of soil encrustation, weathering, and brilliant iridescence on interior.",
+ "Provenance": [
+  "Said to be from Syria (Froehner 1879, p. 138, pl. VII, 38).Until 1881, collection of Jules Charvet, Le Pecq, Île-de-France",
+  "1881, purchased from J. Charvet by Henry G. Marquand",
+  "acquired in 1881, gift of Henry G. Marquand."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130005707"
+  }
+ }
+}

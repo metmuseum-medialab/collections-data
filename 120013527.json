@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1770",
+ "Culture": "British, Worcester",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. 1 1/4 in. (3.2 cm); Diam. 7 1/2 in. (19.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Luke Vincent Lockwood, 1939",
+ "Accession Number": "39.140.193",
+ "Who": "Worcester",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Worcestershire",
+  "Worcester"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013527,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/119804.jpg",
+ "related-artworks": [
+  120002952,
+  120002955,
+  120013376,
+  120013375,
+  120013417
+ ],
+ "Provenance": [
+  "Mrs. Helen Bruce , New York, before 1939",
+  "sold to Mr. and Mrs. Lockwood",
+  "Mr. and Mrs. Luke Vincent Lockwood (until 1939",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013527"
+  }
+ }
+}

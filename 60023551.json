@@ -1,0 +1,39 @@
+{
+ "Period": "Eastern Zhou dynasty (770–256 B.C.)",
+ "Culture": "China",
+ "Medium": "Black clay",
+ "Dimensions": "H. 2 1/4 in. (5.7 cm)",
+ "Classification": "Tomb Pottery",
+ "Credit Line": "Rogers Fund, 1943",
+ "Accession Number": "43.56.7",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Pottery",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000 B.C.–1 A.D.",
+  "Central and North Asia, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60023551,
+ "related-artworks": [
+  60023548,
+  60023549,
+  60023552,
+  60023555,
+  60023556
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60023551"
+  }
+ }
+}

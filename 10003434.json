@@ -1,0 +1,52 @@
+{
+ "Date": "1820–40",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": [
+  "Overall 3 7/16 x 11 7/8 in. (8.7 x 30.2 cm); 16 oz. 18 dwt. (525.4 g)",
+  "At feet W. 11 15/16 in. (30.3 cm)",
+  "Stand 15 oz. 16 dwt. (490.9 g)",
+  "Cover 2 9/16 in. (6.5 cm); 1 oz. 2 dwt. (34.5 g)",
+  "Burner H. 2 1/16 in. (5.2 cm)"
+ ],
+ "Classification": "Silver",
+ "Credit Line": "Rogers Fund, 1946",
+ "Accession Number": "46.148a, b",
+ "Who": "Gerardus Boyce",
+ "What": [
+  "Metal",
+  "Silver",
+  "Dishes",
+  "Crosses",
+  "Dish crosses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10003434,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP216631.jpg",
+ "related-artworks": [
+  10001004,
+  10020089,
+  10001087,
+  10003379
+ ],
+ "Provenance": [
+  "Joseph B. Brenauer",
+  "Parke-Bernet Galleries, New York, until 1946"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003434"
+  }
+ }
+}

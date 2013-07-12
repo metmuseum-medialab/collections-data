@@ -1,0 +1,42 @@
+{
+ "Date": "15th century",
+ "Geography": "Made in Cologne, Germany",
+ "Culture": "German",
+ "Medium": "Silk Brocade",
+ "Dimensions": "Overall 37 1/2 x 9 in. (95.3 x 22.9 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.914",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Brocade",
+  "Orphreys"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Cologne"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170003124,
+ "related-artworks": [
+  170003137,
+  170003127,
+  170003132,
+  170003128,
+  170003125
+ ],
+ "Provenance": [
+  "Friedrich Fischbach, Wiesbaden, Germany (sold 1909)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170003124"
+  }
+ }
+}

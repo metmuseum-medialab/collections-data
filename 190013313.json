@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1911",
+ "Medium": "Platinum print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Mrs. Walter Scott Shinn, 1975",
+ "Accession Number": "1975.552.3",
+ "Who": "Walter Scott Shinn",
+ "What": [
+  "Photographs",
+  "Platinum prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190013313,
+ "related-artworks": [
+  190013314,
+  190013317,
+  190013319,
+  190021993,
+  190013307
+ ],
+ "Provenance": [
+  "Mrs. Walter Scott Shinn"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190013313"
+  }
+ }
+}

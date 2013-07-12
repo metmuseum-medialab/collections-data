@@ -1,0 +1,36 @@
+{
+ "Date": "1937",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 44 in. (111.8 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Diana S. Field, 1964",
+ "Accession Number": "2009.300.872",
+ "Who": "Elizabeth Hawes",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80097305,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/64.41.2_front_CP3.jpg",
+ "related-artworks": [
+  80002913,
+  80006156,
+  80017717,
+  80093535,
+  80096156
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80097305"
+  }
+ }
+}

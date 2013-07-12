@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911), Yongzheng period (1723–35)",
+ "Culture": "China",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 9 1/2 in. (24.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Mary Stillman Harkness, 1950",
+ "Accession Number": "50.145.259",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Bottles"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60016175,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/149782.jpg",
+ "related-artworks": [
+  60013577,
+  60015115,
+  60015164,
+  60015286,
+  60015316
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60016175"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Paper",
+ "Dimensions": "21 3/4 x 14 1/4 in. (55.24 x 36.20 cm)",
+ "Classification": "Stencils",
+ "Credit Line": "Gift of Clarence McK. Lewis, 1953",
+ "Accession Number": "53.101.38",
+ "What": [
+  "Paper",
+  "Stencils"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043718,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP13865.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60007099"
+   },
+   {
+    "href": "http://scrapi.org/object/60007100"
+   },
+   {
+    "href": "http://scrapi.org/object/60012683"
+   },
+   {
+    "href": "http://scrapi.org/object/60024259"
+   },
+   {
+    "href": "http://scrapi.org/object/60024258"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60043718"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60043718"
+  }
+ }
+}

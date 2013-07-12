@@ -1,0 +1,49 @@
+{
+ "Date": "1920–29",
+ "Culture": "American",
+ "Medium": "silk, feathers",
+ "Dimensions": "Diameter 17 1/2 in. (44.5 cm)",
+ "Credit Line": "Gift of Mrs. John Jay Ford, 1978",
+ "Accession Number": "1978.109.5",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Feather"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80045371,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.109.5.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80001532"
+   },
+   {
+    "href": "http://scrapi.org/object/80005351"
+   },
+   {
+    "href": "http://scrapi.org/object/80025416"
+   },
+   {
+    "href": "http://scrapi.org/object/80029429"
+   },
+   {
+    "href": "http://scrapi.org/object/80038504"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80045371"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80045371"
+  }
+ }
+}

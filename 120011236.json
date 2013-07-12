@@ -1,0 +1,59 @@
+{
+ "Date": "late 17th century",
+ "Culture": "German",
+ "Medium": "Bronze gilt",
+ "Dimensions": "H. 4-1/4 in. (10.8 cm); Diam. 3-3/4 in. (9.5 cm)",
+ "Classification": "Horology",
+ "Credit Line": "Gift of Mrs. Simon Guggenheim, 1929",
+ "Accession Number": "29.52.3",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Gilt",
+  "Timepieces",
+  "Clocks"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011236,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/73328.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/73328.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/73342.jpg"
+ ],
+ "Provenance": [
+  "Mrs. Simon Guggenheim (until 1929; to MMA)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120008333"
+   },
+   {
+    "href": "http://scrapi.org/object/120011234"
+   },
+   {
+    "href": "http://scrapi.org/object/120022387"
+   },
+   {
+    "href": "http://scrapi.org/object/120005625"
+   },
+   {
+    "href": "http://scrapi.org/object/120028282"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120011236"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120011236"
+  }
+ }
+}

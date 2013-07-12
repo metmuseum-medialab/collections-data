@@ -1,0 +1,42 @@
+{
+ "Period": "attributed to Unified Silla dynasty (668–935)",
+ "Date": "8th–9th century",
+ "Culture": "Korea",
+ "Medium": "Gilt bronze",
+ "Dimensions": "H. 17 3/4 in. (45.1 cm); W. 6 3/4 in. (17.1 cm); D. 3 3/4 in. (9.5 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Muneichi Nitta, 2004",
+ "Accession Number": "2004.142.2a, b",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Gilt",
+  "Figures",
+  "Plate",
+  "Ormolu"
+ ],
+ "Where": [
+  "Asia",
+  "Korea"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Korea, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60046238,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2004_142_2ab_F2.JPG",
+ "related-artworks": [
+  60028569,
+  60038842,
+  60006938,
+  60022136,
+  60028571
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60046238"
+  }
+ }
+}

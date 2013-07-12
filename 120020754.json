@@ -1,0 +1,51 @@
+{
+ "Date": "1705–6",
+ "Culture": "British, London",
+ "Medium": "Silver",
+ "Dimensions": "Each H. 3 1/2 in.  (8.9 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1968",
+ "Accession Number": "68.141.197, .198",
+ "Who": "Joseph Bird",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Furniture",
+  "Lighting devices",
+  "Candleholders",
+  "Tables",
+  "Candlesticks",
+  "Leather dressing"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020754,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/193666.jpg",
+ "related-artworks": [
+  120013847,
+  120050200,
+  120006121
+ ],
+ "Provenance": [
+  "Private Collection (until 1962",
+  "sale, Sotheby's, December 13, 1962, no. 151)",
+  "[ S. J. Shrubsole (until 1963",
+  "to Irwin Untermyer, January 17, 1963) ]",
+  "Irwin Untermyer (1963–68",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120020754"
+  }
+ }
+}

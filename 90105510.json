@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1876",
+ "Medium": "Lithograph (transferred from etching); second state of three (Van Gelder)",
+ "Dimensions": [
+  "Mount 12 7/16 × 8 3/4 in. (31.6 × 22.3 cm)",
+  "Sheet 6 × 4 7/16 in. (15.2 × 11.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The J. B. Neumann Collection, Gift of Dr. Franz H. Hirschland, 1951",
+ "Accession Number": "51.504.48",
+ "Who": "Rodolphe Bresdin",
+ "What": [
+  "Prints",
+  "Etching",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90105510,
+ "related-artworks": [
+  90105869,
+  90105878,
+  90105357,
+  90105440,
+  90105495
+ ],
+ "Provenance": [
+  "J. B. Neumann (New York, NY)",
+  "Donor: Dr. Franz H. Hirschland"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90105510"
+  }
+ }
+}

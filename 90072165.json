@@ -1,0 +1,42 @@
+{
+ "Date": "1557",
+ "Medium": "Etching and engraving",
+ "Dimensions": [
+  "plate 11 7/8 x 8 1/16 in. (30.1 x 20.5 cm)",
+  "sheet 13 1/16 x 9 in. (33.1 x 22.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.343",
+ "Who": "Cornelis Floris II",
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90072165,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP828812.jpg",
+ "related-artworks": [
+  90005527,
+  90083522,
+  90083521,
+  90083524,
+  90083573
+ ],
+ "Provenance": [
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90072165"
+  }
+ }
+}

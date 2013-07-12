@@ -1,0 +1,46 @@
+{
+ "Date": "1889–98",
+ "Culture": "French",
+ "Medium": "Bronze, struck, light brown patina",
+ "Dimensions": "Diam. 1 7/8 in. (48 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Harris Brisbane Dick Fund, 1936",
+ "Accession Number": "36.110.48",
+ "Who": "Adolphe Rivet",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes",
+  "Patina",
+  "Lights"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120012742,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/109204.jpg",
+ "related-artworks": [
+  120012739,
+  120012740,
+  120012741,
+  120012743
+ ],
+ "Provenance": [
+  "Henry Oppenheimer (until 1936",
+  "sale, Christie, Manson and Woods, London, July 29, 1936",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120012742"
+  }
+ }
+}

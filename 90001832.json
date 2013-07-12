@@ -1,0 +1,57 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Medium": "Graphite",
+ "Dimensions": "sheet 14 5/8 x 22 in. (37.1 x 55.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Scofield Thayer, 1982",
+ "Accession Number": "1984.433.198",
+ "Who": "Gustav Klimt",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe and Low Countries, 1800–1900 A.D.",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90001832,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP819707.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP819707.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/DT7903.jpg"
+ ],
+ "Provenance": [
+  "Donor: Scofield Thayer (American, Worcester, Massachusetts 1889–1982 Providence, Rhode Island)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90001831"
+   },
+   {
+    "href": "http://scrapi.org/object/90001833"
+   },
+   {
+    "href": "http://scrapi.org/object/90001825"
+   },
+   {
+    "href": "http://scrapi.org/object/90001827"
+   },
+   {
+    "href": "http://scrapi.org/object/90001830"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90001832"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90001832"
+  }
+ }
+}

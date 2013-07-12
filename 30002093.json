@@ -1,0 +1,39 @@
+{
+ "Period": "Sasanian",
+ "Date": "ca. 7th century A.D.",
+ "Geography": "Iran, Qasr-i Abu Nasr",
+ "Culture": "Sasanian",
+ "Medium": "Un-baked clay",
+ "Dimensions": "0.43 in. (1.09 cm)",
+ "Classification": "Clay",
+ "Credit Line": "Rogers Fund, 1936",
+ "Accession Number": "36.30.218",
+ "Who": "Sasanian",
+ "What": "Clay",
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30002093,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME36_30_218.jpg",
+ "related-artworks": [
+  30001927,
+  30001928,
+  30001919,
+  30001921,
+  30001922
+ ],
+ "Provenance": [
+  "1935, excavated by J.M. Upton, W. Hauser and C.K. Wilkinson on behalf of The Persian Expedition of the Metropolitan Museum of Art",
+  "acquired by the Museum in 1936, ceded in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30002093"
+  }
+ }
+}

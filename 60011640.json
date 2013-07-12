@@ -1,0 +1,33 @@
+{
+ "Date": "1898",
+ "Medium": "Nephrite, pear-leaf green",
+ "Dimensions": "H. 1/2 in. (1.3 cm); W. 1/2 in. (1.3 cm); L. 12 1/2 in. (31.8 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.805",
+ "What": [
+  "Wood",
+  "Jade",
+  "Nephrite",
+  "Pear"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "id": 60011640,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/32865.jpg",
+ "related-artworks": [
+  60011642,
+  60011302,
+  60011538,
+  60011559,
+  60011560
+ ],
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60011640"
+  }
+ }
+}

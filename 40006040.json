@@ -1,0 +1,33 @@
+{
+ "Date": "ca. 1430",
+ "Culture": "Italian",
+ "Classification": "Armor Parts",
+ "Credit Line": "Bashford Dean Memorial Collection, Bequest of Bashford Dean, 1928",
+ "Accession Number": "29.150.23",
+ "What": [
+  "Costume",
+  "Arms",
+  "Armor",
+  "Body armor"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40006040,
+ "related-artworks": [
+  40000502,
+  40000503,
+  40000965,
+  40000988,
+  40001314
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40006040"
+  }
+ }
+}

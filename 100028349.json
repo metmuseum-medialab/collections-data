@@ -1,0 +1,45 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19–20",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Medinet Habu",
+ "Medium": "Wood, black pitch",
+ "Dimensions": "h. 13.5 cm (5 5/16 in)",
+ "Credit Line": "Gift of Joseph W. Drexel, 1889",
+ "Accession Number": "89.2.204",
+ "What": [
+  "Vessels",
+  "Wood",
+  "Jars",
+  "Funerary containers",
+  "Lids",
+  "Tar"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Medinet Habu"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100028349,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs89.2.204.jpg",
+ "related-artworks": [
+  100008503,
+  100002901,
+  100016082,
+  100016083,
+  100001038
+ ],
+ "Provenance": [
+  "Donated by Joseph W. Drexel, Philadelphia, 1889."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100028349"
+  }
+ }
+}

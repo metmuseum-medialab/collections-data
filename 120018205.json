@@ -1,0 +1,43 @@
+{
+ "Date": "1690–91",
+ "Culture": "British, London",
+ "Medium": "Silver",
+ "Dimensions": "H. 3 3/8 in.  (8.6 cm); W. 1 3/4 in. (4.4 cm.); D. 1 in. (2.5 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "The Joseph M. and Aimee Loeb May Collection, 1963",
+ "Accession Number": "63.53.83",
+ "Who": "George Manjoy",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Miniature"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120018205,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/177732.jpg",
+ "related-artworks": [
+  120018207,
+  120018204,
+  120018206,
+  120018229,
+  120018233
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120018205"
+  }
+ }
+}

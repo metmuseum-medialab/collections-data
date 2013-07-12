@@ -1,0 +1,41 @@
+{
+ "Date": "16th century",
+ "Culture": "Spanish",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 21 1/2 x W. 18 inches (54.6 x 45.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1934",
+ "Accession Number": "34.41.3",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120040673,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/96073.jpg",
+ "related-artworks": [
+  120030865,
+  120031981,
+  120033868,
+  120034321,
+  120034304
+ ],
+ "Provenance": [
+  "Romualdo J. Blas , 1934",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120040673"
+  }
+ }
+}

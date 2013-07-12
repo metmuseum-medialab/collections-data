@@ -1,0 +1,52 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "first half of the 19th century",
+ "Culture": "China",
+ "Medium": "Porcelain painted in underglaze blue, with café-au-lait glaze, painted in overglaze polychrome enamels",
+ "Dimensions": "H. 1 7/8 in. (4.8 cm); Diam.  3 1/4 in. (8.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.1282",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Gold",
+  "Porcelain",
+  "Drinking vessels",
+  "Painting",
+  "Glaze",
+  "Cups",
+  "Enamels",
+  "Underglazing",
+  "Overglazing"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60016236,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/29811.jpg",
+ "related-artworks": [
+  60015731,
+  60015763,
+  60015620,
+  60016094,
+  60020558
+ ],
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60016236"
+  }
+ }
+}

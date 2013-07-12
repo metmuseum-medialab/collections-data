@@ -1,0 +1,35 @@
+{
+ "Date": "20th century",
+ "Culture": "Cambodia",
+ "Medium": "Ink on paper",
+ "Dimensions": "H. 44 in. (111.8 cm); W. 43 1/4 in. (109.9 cm)",
+ "Classification": "Rubbing",
+ "Credit Line": "Gift of Mr. Jean Laur, Curator of Angkor, 1959",
+ "Accession Number": "59.17.26",
+ "What": [
+  "Ink",
+  "Paper",
+  "Rubbings"
+ ],
+ "Where": [
+  "Asia",
+  "Cambodia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 60033838,
+ "related-artworks": [
+  60033831,
+  60033824,
+  60033826,
+  60033840,
+  60033844
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033838"
+  }
+ }
+}

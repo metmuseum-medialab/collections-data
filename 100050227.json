@@ -1,0 +1,42 @@
+{
+ "Period": "Old Kingdom–First Intermediate Period",
+ "Dynasty": "Dynasty 7–10 (?)",
+ "Date": "ca. 2100–2090 B.C.",
+ "Geography": "Country of Origin Egypt, Northern Upper Egypt, Dendera (Dandara; Tentyra), Tomb of Mereri (?), EEF 1898",
+ "Medium": "Limestone",
+ "Credit Line": "Gift of Egypt Exploration Fund, 1898",
+ "Accession Number": "98.4.75.30",
+ "What": [
+  "Sculpture",
+  "Fragments",
+  "Limestone",
+  "Reliefs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100050227,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/98.4.75.30-jk.jpg",
+ "related-artworks": [
+  100010897,
+  100026812,
+  100030015,
+  100030020,
+  100030022
+ ],
+ "Description": "One of 41 relief fragments from Dendera, possibly from the tomb of the Overseer of Priests and Keeper of the Sacred Cattle, Mereri.",
+ "Provenance": [
+  "Excavated by the Egypt Exploration fund at Dendera. Received by the E.E.F. from the Egyptian government in the division of finds. Allotted to the Metropolitan Museum, 1898."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100050227"
+  }
+ }
+}

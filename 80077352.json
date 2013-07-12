@@ -1,0 +1,38 @@
+{
+ "Date": "late 18th century",
+ "Culture": "French",
+ "Medium": "silk, cane, metal",
+ "Dimensions": "Width 37 in. (94 cm)",
+ "Credit Line": "Purchase, Friends of the Costume Institute Gifts, 2008",
+ "Accession Number": "2008.297a, b",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Underwear",
+  "Walking sticks",
+  "Canes",
+  "Panniers"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 80077352,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DP162232.jpg",
+ "related-artworks": [
+  80036005,
+  80032892,
+  80004416,
+  80037779,
+  80106910
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80077352"
+  }
+ }
+}

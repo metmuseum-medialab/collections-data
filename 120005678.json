@@ -1,0 +1,45 @@
+{
+ "Modeler": "Pacetti",
+ "Date": "19th century",
+ "Culture": "British, Etruria, Staffordshire",
+ "Medium": "Jasperware",
+ "Dimensions": "9 x 21 in.  (22.9 x 53.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.29",
+ "Who": [
+  "Josiah Wedgwood  Sons",
+  "Pacetti"
+ ],
+ "What": [
+  "Ceramics",
+  "Sculpture",
+  "Pottery",
+  "Plaques",
+  "Cameos"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120005678,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/5920.jpg",
+ "related-artworks": [
+  120007784,
+  120007786,
+  120007787,
+  120009855,
+  120006452
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120005678"
+  }
+ }
+}

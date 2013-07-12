@@ -1,0 +1,50 @@
+{
+ "Artist": "After Jean Jacques de Boissieu (French, Lyons 1736–1810 Lyons)",
+ "Publisher": "Rittner",
+ "Date": "1817 (?)",
+ "Medium": "Etching with drypoint",
+ "Dimensions": [
+  "sheet 10 5/8 x 14 1/16 in. (27 x 35.7 cm)",
+  "plate 8 11/16 x 10 15/16 in. (22 x 27.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Leila Mechlin, 1939",
+ "Accession Number": "39.99.17",
+ "Who": [
+  "Jean Jacques de Boissieu",
+  "Ostervald, l'ainé",
+  "Chevalier Ignace Joseph de Claussin",
+  "Rittner"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90070537,
+ "related-artworks": [
+  90070546,
+  90070549,
+  90059281,
+  90070539,
+  90070542
+ ],
+ "Provenance": [
+  "Donor: Leila Mechlin"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90070537"
+  }
+ }
+}

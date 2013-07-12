@@ -1,0 +1,36 @@
+{
+ "Period": "Neolithic Period",
+ "Date": "ca. 4500–4000 B.C. (?)",
+ "Geography": "Country of Origin Egypt, Fayum, along the road between the Fayum and the Giza pyramids",
+ "Medium": "Flint",
+ "Credit Line": "Gift of Herbert E. Winlock, 1926",
+ "Accession Number": "26.10.4",
+ "What": "Flint",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Fayum"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100029788,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs26.10.4.jpg",
+ "related-artworks": [
+  100029748,
+  100009366,
+  100009538,
+  100029411,
+  100029741
+ ],
+ "Provenance": [
+  "Purchased by Herbert E. Winlock at Giza, 1909. Given to the Museum by Winlock, 1926."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100029788"
+  }
+ }
+}

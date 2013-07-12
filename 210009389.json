@@ -1,0 +1,49 @@
+{
+ "Manufacturer": "Dansk International Designs Ltd.",
+ "Date": "ca. 1960",
+ "Medium": "Stainless steel",
+ "Dimensions": [
+  "H. 4-5/8, Diam. 1-1/4 inches",
+  "(11.7 x 3.2 cm.)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Dansk Designs, Inc., 1961",
+ "Accession Number": "61.41.1",
+ "Who": [
+  "Jens Quistgaard",
+  "Dansk International Designs Ltd."
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Salts",
+  "Chrome steel",
+  "Stainless steel",
+  "Cocktail shakers"
+ ],
+ "Where": [
+  "Europe",
+  "Denmark"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009389,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf61.41.1.jpg",
+ "related-artworks": [
+  210005233,
+  210009391,
+  210009392,
+  210009390,
+  210005228
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009389"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Object Name": "Cushion cover",
+ "Date": "late 18th century",
+ "Geography": "Turkey",
+ "Medium": "Silk velvet; embroidered with metal thread",
+ "Dimensions": [
+  "H. 42 in. (106.7 cm)",
+  "W. 24 1/2 in. (62.2 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of George Blumenthal, 1941",
+ "Accession Number": "41.190.288",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Cushions",
+  "Velvet"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140007768,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/127302.jpg",
+ "related-artworks": [
+  140007767,
+  140005667,
+  140004179,
+  140005666,
+  140009469
+ ],
+ "Provenance": [
+  "George and Florence Blumenthal, New York (until 1941)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007768"
+  }
+ }
+}

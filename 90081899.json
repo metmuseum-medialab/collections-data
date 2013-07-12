@@ -1,0 +1,40 @@
+{
+ "Artist": "After Bernardino Nocchi (Italian, 1741 - 1812)",
+ "Date": "1790",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Sheet 21 7/16 x 30 5/16 in. (54.5 x 77 cm)",
+  "Plate 27 15/16 x 18 11/16 in. (71 x 47.5 cm) printed horizontally"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, transferred from the Library",
+ "Accession Number": "41.71.1.18",
+ "Who": [
+  "Francesco Piranesi",
+  "Bernardino Nocchi"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90081899,
+ "related-artworks": [
+  90039213,
+  90079946,
+  90079955,
+  90079967,
+  90079979
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90081899"
+  }
+ }
+}

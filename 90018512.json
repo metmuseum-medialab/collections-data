@@ -1,0 +1,42 @@
+{
+ "Publisher": "Published by Jean I Leblond (French, died Paris, 1666 )",
+ "Date": "ca. 1635–38",
+ "Medium": "Etching",
+ "Dimensions": "sheet 9 15/16 x 12 5/8 in. (25.3 x 32.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "26.49.53",
+ "Who": [
+  "Abraham Bosse",
+  "Jean I Leblond"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018512,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818278.jpg",
+ "related-artworks": [
+  90015712,
+  90018505,
+  90018525,
+  90018526,
+  90018507
+ ],
+ "Provenance": [
+  "Vendor: Francisque Lefrançois, Paris"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90018512"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "early 1970s",
+ "Culture": "French",
+ "Medium": "a) wool, silk; metal; b) metal",
+ "Dimensions": [
+  "Length at CB (a) 39 in. (99.1 cm)",
+  "Length (b) 27 1/2 in. (69.9 cm)"
+ ],
+ "Credit Line": "Bequest of Yolande Fielding–Scheftel, 2006",
+ "Accession Number": "2006.271.34a, b",
+ "Who": "House of Chanel",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Wool",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Gabrielle \"Coco\" Chanel (1883–1971) and the House of Chanel",
+  "Dressing for the Cocktail Hour",
+  "Costume in The Metropolitan Museum of Art",
+  "France, 1900 A.D.–present"
+ ],
+ "id": 80064395,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2006.271.34ab_F.jpg",
+ "related-artworks": [
+  80000460,
+  80001548,
+  80000461,
+  80000757,
+  80004874
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80064395"
+  }
+ }
+}

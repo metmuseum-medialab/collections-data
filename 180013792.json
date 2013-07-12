@@ -1,0 +1,51 @@
+{
+ "Date": "1707",
+ "Geography": "Switzerland?",
+ "Medium": "Metal",
+ "Dimensions": "Height 21.2 cm, Diameter +/-15.3 cm x +/- 9.3 cm, Weight (including buckle and collar) 2214 g",
+ "Classification": "Idiophone-Struck",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.1574",
+ "What": [
+  "Metal",
+  "Musical instruments",
+  "Idiophones",
+  "Bells",
+  "Clappers"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180013792,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS701A2.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/180013493"
+   },
+   {
+    "href": "http://scrapi.org/object/180013903"
+   },
+   {
+    "href": "http://scrapi.org/object/180013988"
+   },
+   {
+    "href": "http://scrapi.org/object/180014172"
+   },
+   {
+    "href": "http://scrapi.org/object/180017436"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/180013792"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/180013792"
+  }
+ }
+}

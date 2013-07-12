@@ -1,0 +1,40 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Geography": "Papua New Guinea, Papuan Gulf, Gulf Province, Gope, Wapo River",
+ "Culture": "Wapo",
+ "Medium": "Wood, paint",
+ "Dimensions": "H. 51 x W. 17 x D. 4 1/2 in. (129.5 x 43.2 x 11.4 cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Gift of Nelson A. Rockefeller, 1969",
+ "Accession Number": "1978.412.794",
+ "What": "Sculpture",
+ "Where": [
+  "Oceania",
+  "Papua New Guinea"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Melanesia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50003815,
+ "gallery-id": 354,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1978_412_794aa.jpg",
+ "related-artworks": [
+  50002578,
+  50002737,
+  50002734,
+  50002739,
+  50002741
+ ],
+ "Description": "The Papuan Gulf region encompasses the arts and cultures of the Gulf of Papua on the southeast coast of New Guinea. In the past, the primary focus of religious and artistic life in the region was on powerful spirits (imunu). Each imunu typically was associated with a specific location in the landscape, rivers, or sea, and was linked to the specific clan within whose territory it dwelt.      Papuan Gulf wood sculpture was primarily two-dimensional, consisting of board-like carvings and figures with designs in low relief. The signature art form was the spirit board, an oblong plank-like object known variously as a gope, koi, or hohao, depending on the region in which it was made. Each served as a dwelling place for an individual imunu, whose image appears on it. Villages formerly had large communal men’s houses divided into cubicles, each allotted to a particular clan or subclan. Every cubicle contained a clan shrine, which housed the spirit boards, figures, human and animal skulls, and other sacred objects associated with theclan’s various imunu.",
+ "Provenance": [
+  "[Julius Carlebach Gallery, New York, until 1962]",
+  "Nelson A. Rockefeller, New York, on loan to The Museum of Primitive Art, New York, 1962–1969",
+  "The Museum of Primitive Art, New York, 1969–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50003815"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "mid-20th century",
+ "Geography": "Nigeria",
+ "Culture": "Yoruba peoples",
+ "Medium": "Leather, beads, cloth",
+ "Dimensions": "H. 10 3/4 x W. 4 1/4 in. (27.3 x 10.8 cm)",
+ "Classification": "Beads-Costumes",
+ "Credit Line": "Gift of Dr. Robert Portman, 1982",
+ "Accession Number": "1982.491.2",
+ "Who": [
+  "Yoruba",
+  "Adesina"
+ ],
+ "What": [
+  "Costume",
+  "Leather",
+  "Shoes",
+  "Cloth"
+ ],
+ "Where": [
+  "Africa",
+  "Nigeria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Guinea Coast, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50006423,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/264975_1982.491.2.jpg",
+ "related-artworks": [
+  50007637,
+  50011438,
+  50007246,
+  50010391
+ ],
+ "Provenance": [
+  "Dr. Robert Portman, Highlands, NJ, until 1982"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50006423"
+  }
+ }
+}

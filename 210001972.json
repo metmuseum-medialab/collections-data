@@ -1,0 +1,59 @@
+{
+ "Manufacturer": "Gebrüder Thonet GmbH",
+ "Date": "designed ca.1904, manufactured ca. 1917",
+ "Medium": "Bentwood",
+ "Dimensions": [
+  "H. 34-1/4, W. 16-1/2, D. 17 inches",
+  "(87.0 x 41.9 x 43.2 cm.)"
+ ],
+ "Classification": "Furniture",
+ "Credit Line": "Purchase, 1917",
+ "Accession Number": "1978.300.2",
+ "Who": [
+  "Gebrüder Thonet GmbH",
+  "Jacob  Josef Kohn"
+ ],
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Side chairs",
+  "Bentwood"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210001972,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1978.300.2.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210001971"
+   },
+   {
+    "href": "http://scrapi.org/object/210001985"
+   },
+   {
+    "href": "http://scrapi.org/object/210002053"
+   },
+   {
+    "href": "http://scrapi.org/object/210003277"
+   },
+   {
+    "href": "http://scrapi.org/object/210012596"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210001972"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210001972"
+  }
+ }
+}

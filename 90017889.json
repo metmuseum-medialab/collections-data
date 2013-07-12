@@ -1,0 +1,37 @@
+{
+ "Publisher": "Published by Johann Christoph Weigel's Widow",
+ "Date": "1728",
+ "Medium": "platesengraving",
+ "Dimensions": "Overall 6 1/2 x 8 1/4 in. (16.5 x 21 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1936",
+ "Accession Number": "36.48.1",
+ "Who": [
+  "Johann Christoph Weigel's Widow",
+  "Rosina Helena Fürst"
+ ],
+ "What": [
+  "Engraving",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017889,
+ "related-artworks": [
+  90017890,
+  90017888,
+  90017887
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017889"
+  }
+ }
+}

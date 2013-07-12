@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1927",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 12 3/8 x 13 3/4 in. (31.4 x 34.9 cm)",
+  "sheet 16 1/2 x 22 1/4 in. (41.9 x 56.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Lucille Douglass, 1930",
+ "Accession Number": "30.98.7",
+ "Who": "Lucille Sinclair Douglass",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90035280,
+ "related-artworks": [
+  90035286,
+  90035274,
+  90035283,
+  90035284,
+  90035285
+ ],
+ "Provenance": [
+  "Donor: Lucille Sinclair Douglass (American, Tuskegee, Alabama 1878–1935 Andover, Massachusetts)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90035280"
+  }
+ }
+}

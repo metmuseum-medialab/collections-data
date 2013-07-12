@@ -1,0 +1,37 @@
+{
+ "Date": "end of 15th century",
+ "Medium": "Iron",
+ "Dimensions": "Diameter 3 11/16 in.  ( 9.35 cm)",
+ "Classification": "Sword Furniture",
+ "Credit Line": "The Howard Mansfield Collection, Gift of Howard Mansfield, 1936",
+ "Accession Number": "36.120.187",
+ "What": [
+  "Metal",
+  "Arms",
+  "Iron and iron alloy",
+  "Edged weapons",
+  "Swords",
+  "Iron",
+  "Guards"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40002853,
+ "gallery-id": 378,
+ "related-artworks": [
+  40013261,
+  40003355,
+  40002845,
+  40003965,
+  40003966
+ ],
+ "Provenance": [
+  "Ex coll.:  Louis Gonse, Paris"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40002853"
+  }
+ }
+}

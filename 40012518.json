@@ -1,0 +1,32 @@
+{
+ "Date": "1500",
+ "Culture": "German",
+ "Classification": "Equestrian Equipment",
+ "Credit Line": "Bashford Dean Memorial Collection, Funds from various donors, 1929",
+ "Accession Number": "29.158.620",
+ "What": [
+  "Horse armor",
+  "Shaffrons"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40012518,
+ "related-artworks": [
+  40000954,
+  40001204,
+  40003159,
+  40003697,
+  40003700
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40012518"
+  }
+ }
+}

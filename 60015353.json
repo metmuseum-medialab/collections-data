@@ -1,0 +1,41 @@
+{
+ "Period": "Han dynasty (206 B.C.–A.D. 220)",
+ "Culture": "China",
+ "Medium": "Pottery",
+ "Dimensions": "H. 20 in. (50.8 cm); Diam. 13 in. (33 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.173",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Vases"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000 B.C.–1 A.D.",
+  "Central and North Asia, 1000 B.C.–1 A.D.",
+  "Central and North Asia, 1–500A.D.",
+  "China, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60015353,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/74083.jpg",
+ "related-artworks": [
+  60006648,
+  60009794,
+  60009796,
+  60009923,
+  60009909
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60015353"
+  }
+ }
+}

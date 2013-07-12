@@ -1,0 +1,47 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1830–32",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "10 1/8 x 15 in. (25.7 x 38.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1914",
+ "Accession Number": "JP15",
+ "Who": "Katsushika Hokusai",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Art of the Pleasure Quarters and the Ukiyo–e Style",
+  "Art of the Edo Period (1615–1868)",
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Japonisme",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60000591,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP140979.jpg",
+ "related-artworks": [
+  60000588,
+  60000584,
+  60000589,
+  60000592,
+  60000578
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60000591"
+  }
+ }
+}

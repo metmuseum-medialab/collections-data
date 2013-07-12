@@ -1,0 +1,42 @@
+{
+ "Date": "18th century",
+ "Culture": "Spanish or Portuguese",
+ "Medium": "Silk on linen",
+ "Dimensions": "L. 93 x W. 62 inches (236.2 x 157.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. W.  Bayard Cutting, 1945",
+ "Accession Number": "45.114.14",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044761,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/135176.jpg",
+ "related-artworks": [
+  120040230,
+  120045622,
+  120045889,
+  120036264,
+  120037108
+ ],
+ "Provenance": [
+  "Mrs. William Bayard Cutting (until 1945",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044761"
+  }
+ }
+}

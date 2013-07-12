@@ -1,0 +1,46 @@
+{
+ "Date": "20th century",
+ "Culture": "Irish (Youghal)",
+ "Medium": "Needle lace",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Julian James, 1911",
+ "Accession Number": "11.44",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace"
+ ],
+ "Where": [
+  "Europe",
+  "Republic of Ireland",
+  "Munster",
+  "Cork",
+  "Youghal"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036683,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP4694.jpg",
+ "related-artworks": [
+  120036140,
+  120036137,
+  120036139,
+  120036138,
+  120003643
+ ],
+ "Provenance": [
+  "Mrs. Julian James (until 1911",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036683"
+  }
+ }
+}

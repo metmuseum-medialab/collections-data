@@ -1,0 +1,66 @@
+{
+ "Editor": "Max J. Friedländer",
+ "Publisher": "E. A. Seemann",
+ "Date": "Printed 1922",
+ "Medium": "Woodcut; restrike of third state of three (Hollstein)",
+ "Dimensions": "Sheet 8 3/4 × 4 5/16 in. (22.3 × 11 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "22.112.1",
+ "Who": [
+  "Hans Burgkmair",
+  "Max J. Friedländer",
+  "E. A. Seemann",
+  "Kupferstichkabinett, Staatliche Museen zu Berlin"
+ ],
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints",
+  "Restrikes"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90106302,
+ "related-artworks": [
+  "http://scrapi.org/object/90106616",
+  "http://scrapi.org/object/90106617",
+  "http://scrapi.org/object/90106620",
+  "http://scrapi.org/object/90106622",
+  "http://scrapi.org/object/90106615"
+ ],
+ "related-images": [],
+ "Description": "From the 1922 publication in four volumes by Max Friedlander with impressions from wood blocks previously in the collection of Baron Hans Albrecht von Derschau. Derschau is said to have discovered hundreds of original wood blocks by German masters in a trunk in Nuremberg, and in 1808 Rudolph Zacharias Becker produced the first of three volumes with restrikes from these blocks. This print, however, comes from the 1922 series of impressions, made after the collection entered into the Kupferstichkabinett in the Staatliche Museen zu Berlin.",
+ "Provenance": [
+  "Hans Albrecht von Derschau (German, 1754–1824)",
+  "Vendor: E. Weyhe (New York, NY)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90106616"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90106617"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90106620"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90106622"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90106615"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90106302"
+  }
+ }
+}

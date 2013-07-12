@@ -1,0 +1,35 @@
+{
+ "Date": "May 23, 1933",
+ "Medium": "Black chalk on paper",
+ "Dimensions": "3 1/2 x 5 1/4 in.  (8.9 x 13.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Felicia Meyer Marsh, 1979",
+ "Accession Number": "1979.292.720",
+ "Who": "Reginald Marsh",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Chalk",
+  "Black chalk"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 210013155,
+ "related-artworks": [
+  210013238,
+  210013255,
+  210013372,
+  210018615,
+  210018630
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210013155"
+  }
+ }
+}

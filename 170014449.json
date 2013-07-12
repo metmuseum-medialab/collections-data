@@ -1,0 +1,35 @@
+{
+ "Date": "6th century",
+ "Culture": "Byzantine",
+ "Medium": "Copper alloy",
+ "Dimensions": "3/8 x 1 1/8 x 1 1/16 in.  (.9 x 2.8 x 2.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, Christopher C. Grisanti and Suzanne P. Fawbush, and Alastair B. Martin Gifts, 2002",
+ "Accession Number": "2002.213.1",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Copper",
+  "Weights"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170014449,
+ "gallery-id": 301,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/tr39322001obv.jpg",
+ "related-artworks": [
+  170014454,
+  170014451,
+  170014453,
+  170008927,
+  170004816
+ ],
+ "Description": "The Greek monogram at the center of this two-ounce weight reads \"of Sergios,\" probably indicating the name of the local eparch. In Byzantium, precise measurement of goods was achieved by a set of standard balance weights.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170014449"
+  }
+ }
+}

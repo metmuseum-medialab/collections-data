@@ -1,0 +1,43 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep II",
+ "Date": "ca. 1427–1400 B.C.",
+ "Geography": "possibly from Memphis (Mit Rahina); probably from Memphite Region; Country of Origin Egypt",
+ "Medium": "Wood, paint",
+ "Dimensions": "H. 35 cm (13 3/4 in)",
+ "Credit Line": "Gift of George D. Pratt, 1930",
+ "Accession Number": "30.5.1",
+ "What": [
+  "Sculpture",
+  "Wood",
+  "Shabti"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100005492,
+ "gallery-id": 119,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsgal15y04.jpg",
+ "related-artworks": [
+  100000582,
+  100000581,
+  100000617,
+  100000785,
+  100000787
+ ],
+ "Description": "Kenamun's, mother was the wet nurse of Amenhotep II. Thus, Kenamun was foster brother of the king and became steward of one of the king's estates. In recognition of this close relationship, Amenhotep presented Kenamun with these Osiride figures (30.5.1, .2 and L.1994.59.2).For a painting of Amenhotep II with Kenamun's mother, see 30.4.72.",
+ "Provenance": [
+  "Given to the Museum by George D. Pratt, 1930."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100005492"
+  }
+ }
+}

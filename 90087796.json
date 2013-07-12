@@ -1,0 +1,40 @@
+{
+ "Date": "1939",
+ "Medium": "Commerical Lithograph",
+ "Dimensions": "Sheet 6 1/4 x 4 in. (15.8 x 10.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 324, R303.3",
+ "Who": "Goudey Gum Company",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Baseball cards"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90087796,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP824893.jpg",
+ "related-artworks": [
+  90082576,
+  90082589,
+  90082582,
+  90082584,
+  90082592
+ ],
+ "Description": "Trade cards from the \"Goudey Premiums\" series (R303-A), issued in 1939 by the Goudey Gum Company.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90087796"
+  }
+ }
+}

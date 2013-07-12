@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1919–23",
+ "Culture": "American",
+ "Medium": "Paper",
+ "Dimensions": "18 1/8 x 15 1/4 in. (46 x 38.7 cm)",
+ "Classification": "Natural Substances",
+ "Credit Line": "Gift of John D'Agostino, 2002",
+ "Accession Number": "2002.608.9",
+ "Who": "Tiffany Studios",
+ "What": [
+  "Paper",
+  "Books",
+  "Albums",
+  "Scrapbooks"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 10019580,
+ "related-artworks": [
+  10019579,
+  10019584,
+  10019571,
+  10019578,
+  10019576
+ ],
+ "Provenance": [
+  "When the Tiffany Studios closed in 1934, they were acquired by Vito D'Agostino and descended to his son, John D' Agostino, the donor."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10019580"
+  }
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "Date": "1544",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1932",
+ "Accession Number": "32.94.1",
+ "Who": "Josse Lambert",
+ "What": "Books",
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021945,
+ "related-artworks": [
+  90001585,
+  90001586,
+  90001587,
+  90003660,
+  90003661
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021945"
+  }
+ }
+}

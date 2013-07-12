@@ -1,0 +1,46 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Caucasian",
+ "Classification": "Daggers",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.922a, b",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Cases",
+  "Sheaths",
+  "Daggers",
+  "Scabbards"
+ ],
+ "Where": [
+  "Asia",
+  "Caucasus"
+ ],
+ "In the Museum": "Arms and Armor",
+ "id": 40009954,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40009953"
+   },
+   {
+    "href": "http://scrapi.org/object/40009955"
+   },
+   {
+    "href": "http://scrapi.org/object/40009956"
+   },
+   {
+    "href": "http://scrapi.org/object/40009957"
+   },
+   {
+    "href": "http://scrapi.org/object/40009958"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40009954"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40009954"
+  }
+ }
+}

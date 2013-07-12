@@ -1,0 +1,47 @@
+{
+ "Date": "19th century",
+ "Culture": "British, Birmingham (after an British, London original)",
+ "Medium": "Silver on base metal",
+ "Dimensions": "H. 16 1/2 in. (41.9 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Henry G. Marquand, 1883",
+ "Accession Number": "83.18.7a, b",
+ "Who": "Elkington & Co.",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Printing plates",
+  "Electrotype",
+  "Salts",
+  "Standing salts"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "West Midlands",
+  "Birmingham"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000673,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP22546.jpg",
+ "related-artworks": [
+  120006382,
+  120000688,
+  120000676,
+  120000687,
+  120000706
+ ],
+ "Provenance": [
+  "Henry G. Marquand until 1883"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000673"
+  }
+ }
+}

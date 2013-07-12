@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1175–1200",
+ "Geography": "Made in Meuse Valley; Made in Rhine Valley or Meuse Valley, Germany or the Netherlands",
+ "Culture": "South Netherlandish or German",
+ "Medium": "Champlevé and cloisonné enamel, copper alloy, gilt",
+ "Dimensions": "Overall 3 3/16 x 1 1/4 x 3/16 in. (8.1 x 3.2 x 0.4 cm)",
+ "Classification": "Enamels",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.435",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Gilt",
+  "Copper",
+  "Enamels",
+  "Plaques",
+  "Cloisonné",
+  "Champlevé"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004302,
+ "gallery-id": 304,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-435s1.jpg",
+ "related-artworks": [
+  170010038,
+  170004068,
+  170004299,
+  170008397,
+  170004298
+ ],
+ "Description": "Among the most splendid objects in the great churches of Cologne are large architectural shrines containing relics associated with local saints. These ambitious goldsmiths’ works are among the greatest artistic achievements of their time. Refined decorative fragments like the small rectangular plaques shown here are often all that remain of these monumental objects, as many were dismantled or even destroyed following the secularization of church property in this region in the first decade of the nineteenth century. During later efforts to restore shrines, some fragments were replaced and the originals sold to collectors and museums.",
+ "Provenance": [
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004302"
+  }
+ }
+}

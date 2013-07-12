@@ -1,0 +1,38 @@
+{
+ "Publisher": "Gamble et Coipel",
+ "Date": "1794",
+ "Medium": "Etching and aquatint",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.704.4",
+ "Who": [
+  "Gamble et Coipel",
+  "J. F. Lefevre"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Aquatint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90106757,
+ "related-artworks": [
+  90063813,
+  90069425,
+  90005295,
+  90010887,
+  90010896
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90106757"
+  }
+ }
+}

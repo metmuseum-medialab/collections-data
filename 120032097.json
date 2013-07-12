@@ -1,0 +1,40 @@
+{
+ "Date": "19th century",
+ "Culture": "British, Northamptonshire",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 9 1/2 x W. 2 1/4 inches (24.1 x 5.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.77",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Northamptonshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120032097,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP3305.jpg",
+ "related-artworks": [
+  120032054,
+  120032055,
+  120032094,
+  120032096,
+  120032098
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032097"
+  }
+ }
+}

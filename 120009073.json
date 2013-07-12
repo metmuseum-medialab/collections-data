@@ -1,0 +1,55 @@
+{
+ "Date": "ca. 1710–20",
+ "Culture": "French (Rouen)",
+ "Medium": "Faience (tin-enameled earthenware)",
+ "Dimensions": "Diam. 17-5/8 in. (44.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.1868",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Faience",
+  "Earthenware",
+  "Plateaus"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Rouen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009073,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/40741.jpg",
+ "Provenance": [
+  "Gaston Le Breton (before 1910)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120009031"
+   },
+   {
+    "href": "http://scrapi.org/object/120009067"
+   },
+   {
+    "href": "http://scrapi.org/object/120009070"
+   },
+   {
+    "href": "http://scrapi.org/object/120008983"
+   },
+   {
+    "href": "http://scrapi.org/object/120008986"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120009073"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120009073"
+  }
+ }
+}

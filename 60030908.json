@@ -1,0 +1,39 @@
+{
+ "Date": "early 19th century",
+ "Culture": "Japan",
+ "Medium": "Ivory, horn",
+ "Dimensions": "H. 1 in. (2.5 cm); W. 1 9/16 in. (4 cm)",
+ "Classification": "Netsuke",
+ "Credit Line": "Gift of Alvin H. Schechter, 1985",
+ "Accession Number": "1985.399.7",
+ "Who": "Okatori",
+ "What": [
+  "Sculpture",
+  "Bone",
+  "Ivory",
+  "Netsukes",
+  "Horn"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60030908,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1985_399_7.JPG",
+ "related-artworks": [
+  60030906,
+  60030917,
+  60030056,
+  60030907,
+  60030902
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030908"
+  }
+ }
+}

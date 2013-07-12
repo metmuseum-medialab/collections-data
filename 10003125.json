@@ -1,0 +1,46 @@
+{
+ "Date": "1815–30",
+ "Geography": "Île-de-France, Paris, France",
+ "Culture": "French",
+ "Medium": "Porcelain",
+ "Dimensions": "4 1/4 x 3 1/4 x 2 1/2 in. (10.8 x 8.3 x 6.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Alan W. Carrick, 1967",
+ "Accession Number": "Inst.67.15.72a, b",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Drinking vessels",
+  "Cups",
+  "Custard cups"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 10003125,
+ "gallery-id": 774,
+ "related-artworks": [
+  10003129,
+  10003127,
+  10003128,
+  10003131,
+  10003132
+ ],
+ "Provenance": [
+  "Killian K. Van Rensselaer, New York",
+  "John Sanders Van Rensselaer, Albany, New York",
+  "Mrs. Alan W. Carrick, Princeton, New Jersey, until 1967"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003125"
+  }
+ }
+}

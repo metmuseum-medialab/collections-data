@@ -1,0 +1,34 @@
+{
+ "Date": "18th century",
+ "Culture": "European, Eastern",
+ "Medium": "linen, silk",
+ "Dimensions": "Total Length (square inches) 38 1/2 in. (97.8 cm)",
+ "Credit Line": "Gift of Mrs. Van S. Merle-Smith, 1953",
+ "Accession Number": "C.I.53.21.27",
+ "What": [
+  "Costume",
+  "Silk",
+  "Linen",
+  "Headcloths"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80060308,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI53.21.27.jpg",
+ "related-artworks": [
+  80000168,
+  80028022,
+  80094993,
+  80095296,
+  80095380
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80060308"
+  }
+ }
+}

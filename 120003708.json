@@ -1,0 +1,39 @@
+{
+ "Date": "first half 16th century",
+ "Culture": "Italian (Venice)",
+ "Medium": "Walnut",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Woodwork",
+ "Credit Line": "Rogers Fund, 1907",
+ "Accession Number": "07.184 b",
+ "What": [
+  "Wood",
+  "Woodwork",
+  "Walnut",
+  "Stalls",
+  "Choir stalls"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003708,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/9012.jpg",
+ "related-artworks": [
+  120012065,
+  120005363,
+  120007418,
+  120014766,
+  120014767
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120003708"
+  }
+ }
+}

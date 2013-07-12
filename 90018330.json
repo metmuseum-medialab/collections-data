@@ -1,0 +1,39 @@
+{
+ "Author": "James Andrews (British, 1801?–1876)",
+ "Publisher": "Robert B. Collins (New York, NY)",
+ "Date": "1852",
+ "Dimensions": "9 1/2 x 12 in. (24.1 x 30.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1970",
+ "Accession Number": "1970.565.219",
+ "Who": [
+  "Nathaniel Whittock",
+  "James Andrews",
+  "Robert . Collins"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018330,
+ "related-artworks": [
+  90018331,
+  90005549,
+  90012299,
+  90018329,
+  90018326
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90018330"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "1960s",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Mr. and Mrs. Nathan Abrams, 1985",
+ "Accession Number": "1985.1144.61",
+ "Who": "Henri Cartier-Bresson",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints",
+  "Contact prints",
+  "Contact sheets"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photography in Europe, 1945–60",
+  "Henri Cartier–Bresson (1908–2004)",
+  "France, 1900 A.D.–present"
+ ],
+ "id": 190016233,
+ "related-artworks": [
+  190016235,
+  190016238,
+  190016245,
+  190016240,
+  190016249
+ ],
+ "Provenance": [
+  "Nathan Abrams"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190016233"
+  }
+ }
+}

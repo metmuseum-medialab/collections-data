@@ -1,0 +1,36 @@
+{
+ "Date": "1898",
+ "Culture": "American",
+ "Medium": "Fur, silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mary E. Matthews, 1961",
+ "Accession Number": "2009.300.5253",
+ "Who": "Young Brothers",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Hair",
+  "Fur"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80107682,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/61.182.4_CP1.jpg",
+ "related-artworks": [
+  80094023,
+  80106851,
+  80106897,
+  80114871,
+  80106506
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107682"
+  }
+ }
+}

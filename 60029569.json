@@ -1,0 +1,39 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Lacquer",
+ "Dimensions": "Diam. 4 7/8 in. (12.4 cm)",
+ "Classification": "Lacquer",
+ "Credit Line": "The Howard Mansfield Collection, Purchase, Rogers Fund, 1936",
+ "Accession Number": "36.100.263",
+ "What": [
+  "Lacquer",
+  "Trays"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60029569,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/36_100_263_O.jpg",
+ "related-artworks": [
+  60032205,
+  60032212,
+  60032240,
+  60032242,
+  60032243
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029569"
+  }
+ }
+}

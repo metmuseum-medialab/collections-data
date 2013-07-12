@@ -1,0 +1,46 @@
+{
+ "Date": "2000",
+ "Medium": "Lithograph and woodcut with chine collé and collage",
+ "Dimensions": [
+  "7-1/2 x 92 inches",
+  "(19.1 x 233.7 cm)"
+ ],
+ "Classification": "Books",
+ "Credit Line": "John B. Turner Fund, 2001",
+ "Accession Number": "2001.460.2",
+ "Who": "Enrique Chagoya",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books",
+  "Relief prints",
+  "Woodblock prints",
+  "Chine collé",
+  "Collages"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012286,
+ "related-artworks": [
+  90012282,
+  90007863,
+  90068039,
+  90074511,
+  90068657
+ ],
+ "Provenance": [
+  "Vendor: Shark's Ink (Lyons, Colorado)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90012286"
+  }
+ }
+}

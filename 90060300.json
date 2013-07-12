@@ -1,0 +1,40 @@
+{
+ "Artist": "François Flameng (French, Paris 1856–1923 Paris)",
+ "Sitter": "Portrait of Samuel Putnam Avery Sr. (American, New York 1822–1904 New York)",
+ "Medium": "Copper plate",
+ "Dimensions": "plate 11 1/16 x 7 11/16 in. (28.1 x 19.6 cm)",
+ "Classification": "Plates",
+ "Credit Line": "Gift of Emma Avery Welcher and Amy Ogden Welcher and Alice Welcher Erickson, 1967",
+ "Accession Number": "67.844.21",
+ "Who": [
+  "Samuel Putnam Avery Sr.",
+  "Raimundo de Madrazo y Garreta",
+  "François Flameng"
+ ],
+ "What": [
+  "Metal",
+  "Copper",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1900 A.D.–present"
+ ],
+ "id": 90060300,
+ "related-artworks": [
+  110001371,
+  110001372,
+  110001370,
+  150000172
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060300"
+  }
+ }
+}

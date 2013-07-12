@@ -1,0 +1,43 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Italian",
+ "Medium": "Silk",
+ "Dimensions": [
+  "L. 8 1/8 x W. 2 inches",
+  "20.6 x 5.1 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.1556",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Galloon"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120042332,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP6334.jpg",
+ "related-artworks": [
+  120031043,
+  120031056,
+  120031045,
+  120031058,
+  120031060
+ ],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120042332"
+  }
+ }
+}

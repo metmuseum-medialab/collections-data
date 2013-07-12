@@ -1,0 +1,40 @@
+{
+ "Date": "1920s",
+ "Medium": "Porcelain",
+ "Dimensions": [
+  "H. 4-1/16, D.6-7/8 inches",
+  "(10.3 x 17.5 cm.)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase, Edward C. Moore Jr. Gift, 1929",
+ "Accession Number": "29.127.8",
+ "Who": "Bing  Gröndahl",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Bowls"
+ ],
+ "Where": [
+  "Europe",
+  "Denmark"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210007869,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf29.127.8.jpg",
+ "related-artworks": [
+  210007528,
+  210007868,
+  210007870,
+  210008441,
+  210008442
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210007869"
+  }
+ }
+}

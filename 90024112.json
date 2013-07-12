@@ -1,0 +1,33 @@
+{
+ "Date": "1563",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 5 1/2 x 7 7/16 in. (14 x 18.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1955",
+ "Accession Number": "55.503.30",
+ "Who": "Ferrando Bertelli",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Profane Love and Erotic Art in the Italian Renaissance",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024112,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP153416r1M_50EE.jpg",
+ "related-artworks": [
+  90041070,
+  90043530,
+  90001967
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024112"
+  }
+ }
+}

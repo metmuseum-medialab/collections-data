@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1870",
+ "Medium": "Albumen silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of A. Hyatt Mayor, 1967",
+ "Accession Number": "67.580.4.86",
+ "Who": "Loescher & Petsch",
+ "What": [
+  "Photographs",
+  "Albumen silver prints",
+  "Card photographs",
+  "Maps",
+  "Cartes-de-visite"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190042644,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/loescher&petsch_86a_CDValbum.jpg",
+ "related-artworks": [
+  190042585,
+  190042591,
+  190042586,
+  190042589,
+  190042597
+ ],
+ "Provenance": [
+  "A. Hyatt Mayor"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190042644"
+  }
+ }
+}

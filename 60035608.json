@@ -1,0 +1,40 @@
+{
+ "Date": "8th–12th century",
+ "Culture": "Indonesia (Central Java)",
+ "Medium": "Gold",
+ "Dimensions": "Diam. 7/8 in. (2.3 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Gift of Jeannette and Jonathan Rosen, 2001",
+ "Accession Number": "2001.794.55a, b",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1000–1400 A.D.",
+  "Southeast Asia, 500–1000 A.D."
+ ],
+ "id": 60035608,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2001_794_55a.jpg",
+ "related-artworks": [
+  60020431,
+  60020631,
+  60020643,
+  60007256,
+  60020416
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60035608"
+  }
+ }
+}

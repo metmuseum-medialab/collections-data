@@ -1,0 +1,46 @@
+{
+ "Date": "20th century",
+ "Geography": "Canada, Baffin Island, Nunavut",
+ "Culture": "Inuit",
+ "Medium": "Stone",
+ "Dimensions": "Height 11-3/5 in.",
+ "Classification": "Stone-Sculpture",
+ "Credit Line": "Purchase, Arthur A. Houghton, Jr. Gift, 1969",
+ "Accession Number": "69.107.2",
+ "Who": [
+  "Eskimo",
+  "Axangayu"
+ ],
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Figures"
+ ],
+ "Where": [
+  "North and Central America",
+  "Canada",
+  "Nunavut",
+  "Baffin Island"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50002029,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/205808.jpg",
+ "related-artworks": [
+  50002033,
+  50002250,
+  50002252,
+  50002256,
+  50002262
+ ],
+ "Provenance": [
+  "[Eskimo Fine Arts, Ottawa, Canada, until 1969]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50002029"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Designer": "Cristobal Balenciaga (Spanish, 1895–1972)",
+ "Date": "1951",
+ "Culture": "French",
+ "Medium": "silk, cotton",
+ "Dimensions": "Length at CB 54 3/4 in. (139.1 cm)",
+ "Credit Line": "Gift of Mrs. McKenzie Monell, 1984",
+ "Accession Number": "1984.165.2",
+ "Who": [
+  "House of Balenciaga",
+  "Cristobal Balenciaga"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Dresses",
+  "Gowns"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80037979,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1984.165.2_F.jpg",
+ "related-artworks": [
+  80007521,
+  80002247,
+  80001985,
+  80007475,
+  80007502
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80037979"
+  }
+ }
+}

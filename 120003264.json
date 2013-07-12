@@ -1,0 +1,40 @@
+{
+ "Date": "1747",
+ "Culture": "Italian (Rome)",
+ "Medium": "Brass",
+ "Dimensions": "8-1/2 x 8 x 7-1/2 in.  (21.6 x 20.3 x 19.1 cm)",
+ "Classification": "Horology",
+ "Credit Line": "Gift of Mrs. Stephen D. Tucker, 1903",
+ "Accession Number": "03.21.51",
+ "Who": "Angelus Lusuergh",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Brass",
+  "Timepieces",
+  "Sundials"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Rome"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003264,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/33345.jpg",
+ "related-artworks": [
+  120003261,
+  120013892,
+  120003259,
+  120003266,
+  120003248
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120003264"
+  }
+ }
+}

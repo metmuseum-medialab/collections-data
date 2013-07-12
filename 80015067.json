@@ -1,0 +1,44 @@
+{
+ "Manufacturer": "PBM",
+ "Department Store": "Bonwit Teller & Co. (American, founded 1907)",
+ "Date": "1965–69",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": [
+  "Length at CB (a) 32 1/2 in. (82.6 cm)",
+  "Length (b) 40 1/2 in. (102.9 cm)"
+ ],
+ "Credit Line": "Gift of David Conant Ford, 1976",
+ "Accession Number": "1976.368.6a, b",
+ "Who": [
+  "Bonwit Teller & Co.",
+  "Bill Blass",
+  "PBM"
+ ],
+ "What": [
+  "Costume",
+  "Wool",
+  "Suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80015067,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1976.368.6ab_F.jpg",
+ "related-artworks": [
+  80002548,
+  80004404,
+  80014712,
+  80015079,
+  80016786
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80015067"
+  }
+ }
+}

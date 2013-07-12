@@ -1,0 +1,36 @@
+{
+ "Date": "1965–67",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "N/A",
+ "Credit Line": "Gift of Thomas L. Kempner, 2006",
+ "Accession Number": "2006.420.14",
+ "Who": "Madame Grès (Alix Barton)",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80065099,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2006.420.14_F.jpg",
+ "related-artworks": [
+  80000321,
+  80000364,
+  80000369,
+  80000608,
+  80000610
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80065099"
+  }
+ }
+}

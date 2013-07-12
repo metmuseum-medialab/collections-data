@@ -1,0 +1,44 @@
+{
+ "Publisher": "François Langlois alias Ciartres (Paris 1588–1647 Paris)",
+ "Date": "1646",
+ "Medium": "Etching and letterpress; second state of two (Lieure)",
+ "Dimensions": [
+  "Sheet 7 11/16 x 5 1/2 in. (19.5 x 14 cm)",
+  "Plate 2 5/16 x 3 1/4 in. (5.9 x 8.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Edwin De T. Bechtel, 1957",
+ "Accession Number": "57.650.422",
+ "Who": [
+  "Jacques Callot",
+  "François Langlois alias Ciartres"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90094579,
+ "related-artworks": [
+  90003572,
+  90008838,
+  90010396,
+  90010397,
+  90010780
+ ],
+ "Provenance": [
+  "Victor Albert George Child Villiers, Earl of Jersey (British)",
+  "Donor: Edwin De Turck Bechtel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90094579"
+  }
+ }
+}

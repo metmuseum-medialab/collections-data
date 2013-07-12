@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1965",
+ "Culture": "French",
+ "Medium": "wool",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Jane Holzer, 1974",
+ "Accession Number": "1974.384.11",
+ "Who": "André Courrèges",
+ "What": [
+  "Costume",
+  "Wool",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80019079,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1974.384.11_F.JPG",
+ "related-artworks": [
+  80002264,
+  80002937,
+  80019107,
+  80019859,
+  80038273
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80019079"
+  }
+ }
+}

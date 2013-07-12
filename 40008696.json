@@ -1,0 +1,27 @@
+{
+ "Date": "19th century",
+ "Culture": "Turkish",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.2695",
+ "What": "Horn",
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "id": 40008696,
+ "related-artworks": [
+  40008693,
+  40008694,
+  40008695,
+  40008697,
+  40000413
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40008696"
+  }
+ }
+}

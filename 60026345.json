@@ -1,0 +1,41 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "1904 (Meiji 37, 10th month)",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "14 1/2 x 9 7/8 in. (36.8 x 25.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Lincoln Kirstein, 1959",
+ "Accession Number": "JP3211",
+ "Who": "Kobayashi Kiyochika",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1900 A.D.–present",
+ "id": 60026345,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP143067.jpg",
+ "related-artworks": [
+  60026344,
+  60026343,
+  60026346,
+  60026632,
+  60000802
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026345"
+  }
+ }
+}

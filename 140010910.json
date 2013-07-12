@@ -1,0 +1,38 @@
+{
+ "Date": "19th–first half 20th century",
+ "Geography": "Morocco",
+ "Medium": "silver",
+ "Classification": "Jewelry",
+ "Accession Number": "55.111.60",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Jewelry",
+  "Necklaces"
+ ],
+ "Where": [
+  "Africa",
+  "Morocco"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt and North Africa, 1800–1900 A.D.",
+  "Egypt and North Africa, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140010910,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/55.111.60.jpg",
+ "related-artworks": [
+  140008557,
+  140009294,
+  140008530,
+  140008554,
+  140009295
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010910"
+  }
+ }
+}

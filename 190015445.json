@@ -1,0 +1,41 @@
+{
+ "Printer": "Sid Kaplan",
+ "Date": "1940s, printed ca. 1983",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Aaron and Jessica Rose, 1983",
+ "Accession Number": "1983.1130.42",
+ "Rights and Reproduction": "© Weegee / International Center of Photography.",
+ "Who": [
+  "Weegee",
+  "Sid Kaplan"
+ ],
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190015445,
+ "related-artworks": [
+  190013727,
+  190014001,
+  190014005,
+  190014008,
+  190014012
+ ],
+ "Provenance": [
+  "Aaron and Jessica Rose"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190015445"
+  }
+ }
+}

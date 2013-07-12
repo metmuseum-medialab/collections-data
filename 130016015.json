@@ -1,0 +1,43 @@
+{
+ "Period": "Archaic or Classical",
+ "Date": "6th–5th century B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; red-figure",
+ "Classification": "Vases",
+ "Credit Line": "Gift of Dietrich von Bothmer, 1976",
+ "Accession Number": "1973.96.3a–e",
+ "Who": "Ashby Painter",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups",
+  "Kylikes"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Symposium in Ancient Greece",
+  "Ancient Greece, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130016015,
+ "related-artworks": [
+  130016675,
+  130001427,
+  130007936,
+  130008085
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130016015"
+  }
+ }
+}

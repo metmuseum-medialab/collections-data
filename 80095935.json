@@ -1,0 +1,36 @@
+{
+ "Date": "1895",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 49 in. (124.5 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Babs Simpson, 1955",
+ "Accession Number": "2009.300.3172",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Underwear",
+  "Underskirts",
+  "Petticoats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80095935,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/55.95.4_CP4.jpg",
+ "related-artworks": [
+  80093619,
+  80095730,
+  80095795,
+  80096003,
+  80096104
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80095935"
+  }
+ }
+}

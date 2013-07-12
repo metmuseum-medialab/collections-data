@@ -1,0 +1,43 @@
+{
+ "Date": "20th century",
+ "Geography": "Mali",
+ "Culture": "Dogon?",
+ "Medium": "Bronze",
+ "Dimensions": "3¾ x 1 x 1 in.",
+ "Classification": "Idiophone-Struck",
+ "Credit Line": "Gift of Mark Rapoport, MD and Jane Hughes, 2000",
+ "Accession Number": "2000.620.46",
+ "Who": "Dogon",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Musical instruments",
+  "Idiophones",
+  "Bells",
+  "Double gongs"
+ ],
+ "Where": [
+  "Africa",
+  "Mali"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Western and Central Sudan, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 180015855,
+ "gallery-id": 680,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/midp2000.620.46.jpg",
+ "related-artworks": [
+  180015831,
+  180016026,
+  180017609,
+  180013950,
+  180015468
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180015855"
+  }
+ }
+}

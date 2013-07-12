@@ -1,0 +1,60 @@
+{
+ "Date": "1991",
+ "Medium": "Charcoal, pastel, and oil pastel on paper",
+ "Dimensions": [
+  "H. 22-1/8, W. 30 inches",
+  "(56.2 x 76.2 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Van Day Truex Fund, 1993",
+ "Accession Number": "1993.258.4",
+ "Who": "Robert Wilson",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Oil paintings",
+  "Charcoal",
+  "Pastels"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210006444,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1993.258.4.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/210006441",
+  "http://scrapi.org/object/210006442",
+  "http://scrapi.org/object/210006131",
+  "http://scrapi.org/object/210006132",
+  "http://scrapi.org/object/210006443"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210006441"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210006442"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210006131"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210006132"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210006443"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210006444"
+  }
+ }
+}

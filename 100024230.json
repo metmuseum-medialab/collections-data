@@ -1,0 +1,42 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12–13",
+ "Date": "ca. 2030–1640 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht South, Tomb of Imhotep, MMA 1930–1931",
+ "Medium": "Clay (unfired)",
+ "Credit Line": "Rogers Fund, 1932",
+ "Accession Number": "32.1.144x",
+ "What": [
+  "Clay",
+  "Fragments",
+  "Wax"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 8000–2000 B.C.",
+  "Egypt, 2000–1000 B.C."
+ ],
+ "id": 100024230,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/32.1.144X.bat1.jpg",
+ "related-artworks": [
+  100024121,
+  100024126,
+  100024127,
+  100024227,
+  100024234
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100024230"
+  }
+ }
+}

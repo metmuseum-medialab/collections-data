@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1785–95",
+ "Culture": "Italian (Naples)",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "Beaker (.342) H. 2 5/16 in. (5.9 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Hans Syz Collection, Gift of Stephan B. Syz and John D. Syz, 1995",
+ "Accession Number": "1995.268.342",
+ "Who": "Naples Royal Porcelain Manufactory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Drinking vessels",
+  "Soft paste porcelain",
+  "Beakers"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Naples"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120024667,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF1995_268_342_img1.jpg",
+ "related-artworks": [
+  120002057,
+  120002059,
+  120002061,
+  120002055,
+  120002058
+ ],
+ "Provenance": [
+  "Hans Syz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120024667"
+  }
+ }
+}

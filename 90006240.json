@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1846",
+ "Medium": "Watercolor with touches of gouache over graphite",
+ "Dimensions": "sheet 6 x 8 3/4 in. (15.2 x 22.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift from the family of Howard J. Barnet, in his memory, 2000",
+ "Accession Number": "2000.92",
+ "Who": "Charles Bentley",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Graphite",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90006240,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800792.jpg",
+ "related-artworks": [
+  90017411,
+  90008083,
+  90008344,
+  90008345
+ ],
+ "Provenance": [
+  "Donor: Saretta Barnet Gift Donor: Sylvan Barnet"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90006240"
+  }
+ }
+}

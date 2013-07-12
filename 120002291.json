@@ -1,0 +1,50 @@
+{
+ "Maker": "Alexander Hewat (entered 1808)",
+ "Date": "1808–9",
+ "Culture": "British, London",
+ "Medium": "Silver",
+ "Dimensions": "L. 4 in.  (10.2 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mrs. Amelia B. Lazarus, in the name of Miss Emilie Lazarus, 1895",
+ "Accession Number": "95.1.20, .21",
+ "Who": [
+  "Alexander Hewat",
+  "James Ede"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Flatware",
+  "Spoons",
+  "Salt spoons"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120002291,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF95_1_20-21.jpg",
+ "related-artworks": [
+  120002590,
+  120002289,
+  120002381,
+  120002531,
+  120002532
+ ],
+ "Provenance": [
+  "Mrs. Amelia Lazarus (until 1895",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120002291"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "13th–15th century",
+ "Geography": "Dominican Republic, Caribbean",
+ "Culture": "Taino",
+ "Medium": "Bone",
+ "Dimensions": "H. 1-3/8 x W. 1 5/8 x L. 3 3/4 in.",
+ "Classification": "Bone/Ivory-Implements",
+ "Credit Line": "Purchase, Oscar de la Renta Gift, 1997",
+ "Accession Number": "1997.35.4",
+ "Who": "Taino",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "North and Central America",
+  "Dominican Republic"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "MetPublications": "Search for related Met publications",
+ "id": 50010497,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1997_35_4a.jpg",
+ "related-artworks": [
+  50007176,
+  50010494,
+  50007177,
+  50006046,
+  50006047
+ ],
+ "Provenance": [
+  "Collected in Dominican Republic by Vincent P. Fay, 1967–1968",
+  "Vincent P. Fay, New York, 1968–1997"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50010497"
+  }
+ }
+}

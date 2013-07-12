@@ -1,0 +1,46 @@
+{
+ "Date": "1st–6th century",
+ "Geography": "Peru, Ica Valley",
+ "Culture": "Nasca (?)",
+ "Medium": "Ceramic",
+ "Dimensions": [
+  "Overall 3 5/8 in. (9.21 cm)",
+  "Other 4 5/16 in. (11 cm)"
+ ],
+ "Classification": "Ceramics-Containers",
+ "Credit Line": "Gift of Nathan Cummings, 1962",
+ "Accession Number": "62.266.57",
+ "Who": "Nazca",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Jars"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1–500A.D.",
+  "Central and Southern Andes, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50000916,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/62.266.57.jpg",
+ "related-artworks": [
+  50005963,
+  50001025,
+  50001146,
+  50001147,
+  50002292
+ ],
+ "Provenance": [
+  "Nathan Cummings, Chicago, until 1962"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000916"
+  }
+ }
+}

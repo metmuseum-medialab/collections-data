@@ -1,0 +1,44 @@
+{
+ "Artist": "Etched by Noël Le Mire (French, Rouen 1724–1801 Paris)",
+ "Author": "Written by Jean Jacques Rousseau (Swiss, Geneva 1712–1778 Ermenonville)",
+ "Date": "1773",
+ "Medium": "Etching and engraving",
+ "Dimensions": [
+  "sheet 13 3/16 x 10 1/16 in. (33.5 x 25.6 cm)",
+  "image 7 1/8 x 5 1/4 in. (18.1 x 13.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1930",
+ "Accession Number": "30.67.2",
+ "Who": [
+  "Jean-Michel Moreau the Younger",
+  "Jean Jacques Rousseau",
+  "Noël Le Mire"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90034939,
+ "related-artworks": [
+  90027868,
+  90027869,
+  90028121,
+  90034890,
+  90034888
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90034939"
+  }
+ }
+}

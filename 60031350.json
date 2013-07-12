@@ -1,0 +1,42 @@
+{
+ "Period": "Muromachi period (1392–1573)",
+ "Culture": "Japan",
+ "Medium": "Gilt bronze",
+ "Dimensions": "Diam. 6 7/8 in. (17.5 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Edna Bahr, 1962",
+ "Accession Number": "62.97.1",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Gilt",
+  "Plate",
+  "Ormolu"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1000–1400 A.D.",
+  "Japan, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60031350,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/62_97_1_175903.jpg",
+ "related-artworks": [
+  60000181,
+  60012610,
+  60023162,
+  60024697,
+  60029132
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60031350"
+  }
+ }
+}

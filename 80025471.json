@@ -1,0 +1,41 @@
+{
+ "Designer": "Yves Saint Laurent (French (born Algeria) Oran 1936–2008 Paris)",
+ "Date": "1963–67",
+ "Culture": "French",
+ "Medium": "straw, silk",
+ "Dimensions": "Diameter 9 3/4 in. (24.8 cm)",
+ "Credit Line": "Gift of Doris Duke, 1976",
+ "Accession Number": "1976.124.2",
+ "Who": [
+  "Yves Saint Laurent",
+  "Yves Saint Laurent, Paris"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Straw"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80025471,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1976.124.2_F.jpg",
+ "related-artworks": [
+  80074770,
+  80025510,
+  80070070,
+  80001370,
+  80001373
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80025471"
+  }
+ }
+}

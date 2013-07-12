@@ -1,0 +1,35 @@
+{
+ "Date": "n.d.",
+ "Medium": "Etching",
+ "Dimensions": "Overall 7 13/16 x 9 5/8 x 3/16 in. (19.8 x 24.5 x 0.4 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.523.25(1-6)",
+ "Who": "Jean François Clermont",
+ "What": [
+  "Etching",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1600–1800 A.D.",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90055115,
+ "related-artworks": [
+  90015022,
+  90015022,
+  90000720,
+  90000762
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90055115"
+  }
+ }
+}

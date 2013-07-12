@@ -1,0 +1,31 @@
+{
+ "Date": "16th century",
+ "Culture": "Hungarian",
+ "Classification": "Shields",
+ "Credit Line": "Bashford Dean Memorial Collection, Funds from various donors, 1929",
+ "Accession Number": "29.158.590",
+ "What": [
+  "Costume",
+  "Armor",
+  "Shields"
+ ],
+ "Where": [
+  "Europe",
+  "Hungary"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "id": 40012590,
+ "related-artworks": [
+  40012589,
+  40007593,
+  40007627,
+  40007634,
+  40011344
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40012590"
+  }
+ }
+}

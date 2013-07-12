@@ -1,0 +1,57 @@
+{
+ "Date": "ca. 1535",
+ "Medium": "Vellum laid on card",
+ "Dimensions": "Irregular, cut down, 1 1/8 x 1 in. (28 x 25 mm)",
+ "Classification": "Miniatures",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.205",
+ "Who": "Hans Holbein the Younger",
+ "What": [
+  "Paintings",
+  "Miniatures",
+  "Parchment",
+  "Vellum"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110001106,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP164804.jpg",
+ "related-artworks": [
+  110001104,
+  110001105,
+  110001109,
+  110001103,
+  110001107
+ ],
+ "Provenance": [
+  "the sitter, Thomas Wriothesley, 1st Earl of Southampton, London (until d. 1550)",
+  "Earls of Southampton (1550–1624)",
+  "Thomas Wriothesley, 4th Earl of Southampton (1624–d. 1667)",
+  "his daughter, Lady Elizabeth Wriothesley (1667–d. 1682/83)",
+  "her widower, Edward Noel, 1st Earl of Gainsborough (1682/83–d. 1688/89)",
+  "their son, Wriothesley Baptist Noel, 2nd Earl of Gainsborough (1688/89–d. 1690)",
+  "his cousin, Baptist Noel, 3rd Earl of Gainsborough (1690–d. 1714)",
+  "his daughter, Lady Susan Noel (1714–d. 1758)",
+  "her widower, Anthony Ashley-Cooper, 4th Earl of Shaftesbury, Wimborne St. Giles, Dorset (1758–d. 1771)",
+  "Earls of Shaftesbury, Wimborne St. Giles (1771–1851)",
+  "Anthony Ashley-Cooper, 7th Earl of Shaftesbury, Wimborne St. Giles (1851–about 1875",
+  "sold to Cook)",
+  "Sir Francis Cook, Doughty House, Richmond, Surrey (about 1875–d. 1901)",
+  "his son, Wyndham Francis Cook, London (1901–d. 1905)",
+  "his son, Humphrey Wyndham Cook, London (1905–25",
+  "his sale, Christie's, London, July 7–10, 1925, no. 307, for £283.10 to Agnew)",
+  "[Agnew and Sabin, London, 1925",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001106"
+  }
+ }
+}

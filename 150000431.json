@@ -1,0 +1,63 @@
+{
+ "Medium": "Black chalk",
+ "Dimensions": "6 5/16 x 4 7/8 in.  (16 x 12.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.700",
+ "Who": "Augustin de Saint-Aubin",
+ "What": [
+  "Drawings",
+  "Chalk",
+  "Black chalk"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1600–1800 A.D.",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 150000431,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-700.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90006830",
+  "http://scrapi.org/object/90006831",
+  "http://scrapi.org/object/90013885",
+  "http://scrapi.org/object/90012739",
+  "http://scrapi.org/object/90014928"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "John Auldjo (1805-1886), England (Lugt 48 at the lower right on the recto)",
+  "David David-Weill, Paris",
+  "Irwin Laughlin, Washington, D.C.",
+  "Mrs. Hubert Chanler, Genesco, New York",
+  "Chanler sale, Sotheby's, London, 10 June 1959, lot 63",
+  "[P. and D. Colnaghi, London]."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90006830"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90006831"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90013885"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90012739"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90014928"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/150000431"
+  }
+ }
+}

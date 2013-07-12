@@ -1,0 +1,44 @@
+{
+ "Date": "1907",
+ "Medium": "Platinum print",
+ "Dimensions": "15.5 x 12.1 cm. (6  1/8  x 4  3/4  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Alfred Stieglitz Collection, 1933",
+ "Accession Number": "33.43.74",
+ "Who": "Frank Eugene",
+ "What": [
+  "Prints",
+  "Metal",
+  "Photographs",
+  "Platinum prints",
+  "Platinum"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Pictorialism in America",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190023971,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP255660.jpg",
+ "related-artworks": [
+  190023954,
+  190023955,
+  190023956,
+  190023983,
+  190023958
+ ],
+ "Provenance": [
+  "Alfred Stieglitz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190023971"
+  }
+ }
+}

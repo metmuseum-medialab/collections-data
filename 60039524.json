@@ -1,0 +1,38 @@
+{
+ "Period": "Edo (1615–1868)",
+ "Date": "18th–19th century",
+ "Culture": "Japan",
+ "Medium": "Silk, metallic thread",
+ "Dimensions": "8 x 3 3/4 in. (20.32 x 9.53 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mr. and Mrs. H. O. Havemeyer, 1896",
+ "Accession Number": "96.14.256",
+ "What": [
+  "Silk",
+  "Textiles"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60039524,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP11438.jpg",
+ "related-artworks": [
+  60033104,
+  60033114,
+  60033110,
+  60033117,
+  60038534
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60039524"
+  }
+ }
+}

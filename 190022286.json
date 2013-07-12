@@ -1,0 +1,52 @@
+{
+ "Publisher": "Révillon Frères (French, founded 1723)",
+ "Date": "ca. 1922",
+ "Medium": "Photogravure",
+ "Dimensions": "14.1 x 16.6 cm. (5  9/16  x 6  9/16  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Miss Elma Loines, 1961",
+ "Accession Number": "61.648.9",
+ "Who": [
+  "Révillon Frères",
+  "Robert Joseph Flaherty"
+ ],
+ "What": [
+  "Photographs",
+  "Photomechanical reproductions",
+  "Photogravures"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190022286,
+ "Provenance": [
+  "Elma Loines"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190022275"
+   },
+   {
+    "href": "http://scrapi.org/object/190015519"
+   },
+   {
+    "href": "http://scrapi.org/object/190015521"
+   },
+   {
+    "href": "http://scrapi.org/object/190015525"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190022286"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190022286"
+  }
+ }
+}

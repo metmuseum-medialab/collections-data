@@ -1,0 +1,46 @@
+{
+ "Date": "late 18th century",
+ "Culture": "Italian, Rome",
+ "Medium": "Reddish bronze with remains of black lacquer",
+ "Dimensions": "H. 7-5/8 in. (19.4 cm.); L. 11-1/2 in. (29.2 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Irwin Untermyer, 1968",
+ "Accession Number": "68.141.28",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines",
+  "Lacquer"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Rome"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020595,
+ "gallery-id": 508,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/201928.jpg",
+ "related-artworks": [
+  120011953,
+  120020593,
+  120022832,
+  120012391,
+  120012963
+ ],
+ "Provenance": [
+  "Irwin Untermyer (until 1968",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120020595"
+  }
+ }
+}

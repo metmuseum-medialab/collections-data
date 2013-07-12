@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1912",
+ "Medium": "Color linocut",
+ "Dimensions": [
+  "Image 11 7/8 × 11 9/16 in. (30.2 × 29.3 cm)",
+  "Sheet 20 1/2 × 15 3/16 in. (52 × 38.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1923",
+ "Accession Number": "23.52.23",
+ "Who": "Karl Schwetz",
+ "What": [
+  "Prints",
+  "Linoleum-block printing"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90097472,
+ "related-artworks": [
+  90063440,
+  90063441,
+  90063427,
+  90063452,
+  90063453
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90097472"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "1980s",
+ "Medium": "Wood-fired stoneware",
+ "Dimensions": [
+  "H. 9, Diam. 16-1/2 inches",
+  "(22.9 x 41.9 cm.)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Emily Mason and Johanna Vanderbeek, 1986",
+ "Accession Number": "1986.435ab",
+ "Who": "Karen Karnes",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Jars",
+  "Stoneware",
+  "Lids"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 210004869,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/1986.435ab-maybe.jpg",
+ "related-artworks": [
+  210015693,
+  210005940,
+  210002234
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210004869"
+  }
+ }
+}

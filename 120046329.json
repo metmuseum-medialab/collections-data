@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Culture": "German",
+ "Medium": "Cotton, crochet",
+ "Dimensions": [
+  "L. 94 1/2 x W. 5 1/2 inches",
+  "240 x 14 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "From the Collection of Mrs. Lathrop Colgate Harper, Bequest of Mabel Herbert Harper, 1957",
+ "Accession Number": "57.122.712",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Needlework",
+  "Embroidery",
+  "Lace",
+  "Samplers",
+  "Crochet"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120046329,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP17488.jpg",
+ "related-artworks": [
+  120046299,
+  120046303,
+  120046328,
+  120046340,
+  120046297
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046329"
+  }
+ }
+}

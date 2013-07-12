@@ -1,0 +1,43 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 13, mid",
+ "Date": "ca. 1750 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, cemetery south of pyramid below House A11, Pit 885, MMA 1920–1921",
+ "Medium": "Ivory",
+ "Dimensions": "l. 21.8 cm (8 9/16 in)",
+ "Credit Line": "Rogers Fund and Edward S. Harkness Gift, 1922",
+ "Accession Number": "22.1.142",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Idiophones",
+  "Clappers"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100003459,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/22.1.142.jpg",
+ "related-artworks": [
+  100003255,
+  100003327,
+  100003460,
+  100003462,
+  100003464
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003459"
+  }
+ }
+}

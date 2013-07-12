@@ -1,0 +1,33 @@
+{
+ "Date": "about 1898",
+ "Medium": "Photomechanical process",
+ "Dimensions": "8 7/8 x 5 13/16 in. (22.5 x 14.7 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1956",
+ "Accession Number": "56.625.1",
+ "Who": "E. E. Souther Iron Company",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90025300,
+ "related-artworks": [
+  90000871,
+  90000872,
+  90000873,
+  90000874,
+  90000875
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90025300"
+  }
+ }
+}

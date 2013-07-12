@@ -1,0 +1,46 @@
+{
+ "Period": "Early Cycladic I",
+ "Date": "ca. 2800–2700 B.C.",
+ "Culture": "Cycladic",
+ "Medium": "Marble",
+ "Dimensions": [
+  "H. 9 1/4 in. (23.5 cm)",
+  "diameter  7 in. (17.8 cm)"
+ ],
+ "Classification": "Miscellaneous",
+ "Credit Line": "Bequest of Gordon and Nina Bunshaft, 1995",
+ "Accession Number": "1995.604",
+ "What": [
+  "Vessels",
+  "Vases",
+  "Stone",
+  "Marble",
+  "Kandilai"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130017417,
+ "gallery-id": 151,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP112968.jpg",
+ "related-artworks": [
+  130013991,
+  130013992,
+  130018249,
+  130013916,
+  130016096
+ ],
+ "Description": "Of particular note in this example is that the lug has been reworked.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130017417"
+  }
+ }
+}

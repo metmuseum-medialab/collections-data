@@ -1,0 +1,25 @@
+{
+ "Date": "n.d.",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1964",
+ "Accession Number": "64.629.22",
+ "Who": "Imagerie d'Epinal",
+ "What": "Books",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021194,
+ "related-artworks": [
+  90019486,
+  90019486,
+  90021194,
+  90019077
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021194"
+  }
+ }
+}

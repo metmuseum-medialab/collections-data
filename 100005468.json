@@ -1,0 +1,68 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep II",
+ "Date": "ca. 1427–1400 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes",
+ "Medium": "Tempera on paper",
+ "Dimensions": [
+  "In frame H. 76.8 cm (30 1/4 in); W. 129.5 cm (51 in); Th. 1.9 cm (3/4 in)",
+  "scale 11",
+  "Facsimile H. 74 cm (29 1/8 in); W. 127 cm (50 in)"
+ ],
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.4.42",
+ "Who": "Charles K. Wilkinson",
+ "What": [
+  "Paper",
+  "Tempera",
+  "Facsimiles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100005468,
+ "gallery-id": 135,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DP226606.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/100000857",
+  "http://scrapi.org/object/100000863",
+  "http://scrapi.org/object/100000864",
+  "http://scrapi.org/object/100000875",
+  "http://scrapi.org/object/100000876"
+ ],
+ "related-images": [],
+ "Description": "This facsimile painting copies a hunting scene in the tomb of Userhat (TT 56) in western Thebes.",
+ "Provenance": [
+  "Painted at Qurna by Charles K.  Wilkinson for the Graphic Section of the Museum's Egyptian Expedition, 1922. Accessioned by the Museum, 1930."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000857"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000863"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000864"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000875"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000876"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100005468"
+  }
+ }
+}

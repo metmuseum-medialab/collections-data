@@ -1,0 +1,43 @@
+{
+ "Date": "1971",
+ "Medium": "Dye transfer print",
+ "Dimensions": "22.7 x 34.6 cm (8 15/16 x 13 5/8 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Lee Friedlander, 1986",
+ "Accession Number": "1986.1171.2",
+ "Rights and Reproduction": "© Estate of Helen Levitt",
+ "Who": "Helen Levitt",
+ "What": [
+  "Photographs",
+  "Photomechanical reproductions",
+  "Dye",
+  "Dye transfer prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photography and Everyday Life in America, 1945–60",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 190016667,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP285638.jpg",
+ "related-artworks": [
+  190016666,
+  190016826,
+  190018331,
+  190018337,
+  190018493
+ ],
+ "Provenance": [
+  "Lee Friedlander"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190016667"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "14th century",
+ "Geography": "Made in Catalonia, Spain",
+ "Culture": "Catalan",
+ "Medium": "Basse taille enamel, silver",
+ "Dimensions": "Overall 2 x 1 15/16 x 1/16 in. (5.1 x 4.9 x 0.1 cm)",
+ "Classification": "Enamels",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.979",
+ "What": [
+  "Metal",
+  "Silver",
+  "Enamels",
+  "Plaques",
+  "Basse-taille"
+ ],
+ "Where": [
+  "Europe",
+  "Spain",
+  "Catalonia"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1000–1400 A.D.",
+ "id": 170004677,
+ "gallery-id": 306,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-979s1.jpg",
+ "related-artworks": [
+  170004668,
+  170004669,
+  170004670,
+  170004671,
+  170004673
+ ],
+ "Description": "These plaques depict the Heavenly Coronation of the Virgin (top), the Virgin in mourning (left), Saint John in mourning (right), and the Descent into Limbo (bottom).",
+ "Provenance": [
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004677"
+  }
+ }
+}

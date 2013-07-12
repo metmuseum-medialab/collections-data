@@ -1,0 +1,44 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1353 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Malqata, Palace of Amenhotep III, Houses G-K, MMA 1910–1911",
+ "Medium": "Mica schist",
+ "Dimensions": "L. 1.4 cm (9/16 in)",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.215.15",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Schist",
+  "Mica"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008758,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/11.215.15_bottom.jpg",
+ "related-artworks": [
+  100008748,
+  100008751,
+  100008756,
+  100018984,
+  100008724
+ ],
+ "Provenance": [
+  "Museum excavations, 1910–11. Acquired by the Museum in the Division of Finds, 1911."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008758"
+  }
+ }
+}

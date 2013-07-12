@@ -1,0 +1,59 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1838",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "8 1/2 x 6 1/2 in. (21.6 x 16.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1914",
+ "Accession Number": "JP85",
+ "Who": "Utagawa Hiroshige",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60000660,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP122843.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/60000611",
+  "http://scrapi.org/object/60000615",
+  "http://scrapi.org/object/60000618",
+  "http://scrapi.org/object/60000622",
+  "http://scrapi.org/object/60000605"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60000611"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60000615"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60000618"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60000622"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60000605"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60000660"
+  }
+ }
+}

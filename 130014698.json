@@ -1,0 +1,43 @@
+{
+ "Period": "Archaic",
+ "Date": "2nd quarter of the 6th century B.C.",
+ "Culture": "Greek, Euboean",
+ "Medium": "Terracotta; black-figure",
+ "Dimensions": [
+  "H. 7 1/4 in. (18.5 cm)",
+  "diameter  3 1/8 in. (8 cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1941",
+ "Accession Number": "41.162.36",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jugs",
+  "Lekythoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130014698,
+ "gallery-id": 152,
+ "related-artworks": [
+  130016165,
+  130005280,
+  130005286,
+  130005299,
+  130007700
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130014698"
+  }
+ }
+}

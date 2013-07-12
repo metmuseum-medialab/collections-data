@@ -1,0 +1,44 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "early 18th century",
+ "Culture": "China",
+ "Medium": "Silk florentine-stitch embroidery on silk gauze",
+ "Dimensions": "47 1/4 x 39 1/2 in. (120.02 x 100.33 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Lewis Einstein, 1954",
+ "Accession Number": "54.14.3",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Furniture",
+  "Embroidery",
+  "Gauze"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043775,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP254015.jpg",
+ "related-artworks": [
+  60035019,
+  60023473,
+  60042662,
+  60024694,
+  60038563
+ ],
+ "Description": "This embroidered textile may have served as a table covering. At the center of the piece is a large, round, full-face flower surrounded by four flowers in profile with scrolling stems that sit in a geometric field. That field, in turn, has a wide border that repeats the theme of large flowers in profile and scrolling stems. Four sonorous stones and clusters of small, red nandina berries are also found in the border.As with the needlepoint embroidery practiced today, the embroidery stitches of this textile completely cover the foundation cloth, a yellow silk gauze.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043775"
+  }
+ }
+}

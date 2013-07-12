@@ -1,0 +1,42 @@
+{
+ "Object Name": "Tile from a frieze",
+ "Date": "13th century",
+ "Geography": "Iran",
+ "Medium": "Stonepaste; glazed, molded",
+ "Classification": "Ceramics",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.95.156",
+ "What": [
+  "Ceramics",
+  "Glazing",
+  "Tile",
+  "Friezes"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005687,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf30-95-156.jpg",
+ "related-artworks": [
+  140004380,
+  140002456,
+  140004393,
+  140005460,
+  140007652
+ ],
+ "Provenance": [
+  "Theodore M. Davis, New York (by 1914–d. 1915)",
+  "On loan from his estateduring settlement of the estate(1915–30)",
+  "In permanent possession of The Metropolitan Museum of Artsince 1930"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005687"
+  }
+ }
+}

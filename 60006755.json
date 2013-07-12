@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "early 19th century",
+ "Culture": "Japan",
+ "Medium": "Hanging scroll; ink and color on silk",
+ "Dimensions": "15 3/4 x 23 1/4 in. (40 x 59.1 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "The Howard Mansfield Collection, Purchase, Rogers Fund, 1936",
+ "Accession Number": "36.100.46",
+ "Who": "Torii Kiyonaga",
+ "What": [
+  "Silk",
+  "Ink",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60006755,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP142183.jpg",
+ "related-artworks": [
+  60013654,
+  60013656,
+  60000703,
+  60000704,
+  60000705
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60006755"
+  }
+ }
+}

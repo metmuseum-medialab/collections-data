@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Clay incised with design under brown glaze; foot unglazed; (Banko ware)",
+ "Dimensions": "H. 4 in. (10.2 cm); Diam. 7 3/8 in. (18.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.642",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Glaze",
+  "Bowls",
+  "Banko"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60016742,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/76367.jpg",
+ "related-artworks": [
+  60016721,
+  60016743,
+  60016434,
+  60016477,
+  60016527
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60016742"
+  }
+ }
+}

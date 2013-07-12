@@ -1,0 +1,51 @@
+{
+ "Date": "ca. 1850",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Gold, jet, pearls, crystal, and hair",
+ "Dimensions": [
+  "Overall 1 1/8 x 1 5/8 in. (2.9 x 4.1 cm)",
+  "Chain 4 5/8 in. (11.7 cm)"
+ ],
+ "Classification": "Jewelry",
+ "Credit Line": "Purchase, Susan and Jon Rotenstreich Gift, 2000",
+ "Accession Number": "2000.557",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Hair",
+  "Pins",
+  "Pearl",
+  "Crystal",
+  "Brooches",
+  "Jet"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Nineteenth–Century American Jewelry",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10018445,
+ "gallery-id": 706,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DT212231.jpg",
+ "related-artworks": [
+  10018446,
+  10005403,
+  10005404,
+  10018444,
+  10018426
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10018445"
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "Date": "1870s",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "23.7 x 19.2 cm (9 5/16 x 7 9/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Museum Purchase, 2005",
+ "Accession Number": "2005.100.505 (36a)",
+ "Who": "Unknown",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "id": 190041792,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP164272.jpg",
+ "related-artworks": [
+  190011576,
+  190011793,
+  190011794,
+  190012616,
+  190012631
+ ],
+ "Provenance": [
+  "(Sold, Christie's, South Kensington, June 27, 1985, lot 80)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190041792"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Silk, metallic thread, glass",
+ "Dimensions": [
+  "Overall (a) 8 x 4 in. (20.3 x 10.2 cm)",
+  "Overall (b) 8 x 4 in. (20.3 x 10.2 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Florance Waterbury, 1967",
+ "Accession Number": "67.179.10a, b",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Glass",
+  "Needlework",
+  "Embroidery",
+  "Cases"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60044205,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP14309.jpg",
+ "related-artworks": [
+  60042059,
+  60043338,
+  60043340,
+  60025564,
+  60042126
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044205"
+  }
+ }
+}

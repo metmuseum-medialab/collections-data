@@ -1,0 +1,42 @@
+{
+ "Date": "4th millennium B.C.",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Ceramic",
+ "Dimensions": "5 1/16 x 5 3/4 x 5/16 in. (12.9 x 14.6 x 0.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1939",
+ "Accession Number": "39.40.104",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pitchers"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30002363,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME39_40_104.jpg",
+ "related-artworks": [
+  30002318,
+  30002321,
+  30002314,
+  30002316,
+  30002317
+ ],
+ "Provenance": [
+  "1938–39, excavated by the Metropolitan Museum of Art’s Iranian Expedition under a concession granted by the Council of Ministers, Iran, upon the recommendation of the Ministry of Education of Iran",
+  "title transferred to the Metropolitan Museum of Art pursuant to the concession."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30002363"
+  }
+ }
+}

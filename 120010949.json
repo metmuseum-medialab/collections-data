@@ -1,0 +1,39 @@
+{
+ "Date": "early 19th century",
+ "Culture": "German or Austrian",
+ "Medium": "Glass",
+ "Dimensions": "H. 4 3/4 in.  (12.1 cm); Diam. 3 1/2 in. (8.9 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Munsey Fund, 1927",
+ "Accession Number": "27.185.366",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Beakers"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010949,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/69428.jpg",
+ "related-artworks": [
+  120001502,
+  120010739,
+  120010741,
+  120010981,
+  120010983
+ ],
+ "Provenance": [
+  "Jacques Mühsam (until 1927)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120010949"
+  }
+ }
+}

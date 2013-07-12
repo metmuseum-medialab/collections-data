@@ -1,0 +1,49 @@
+{
+ "Date": "February 4, 1931",
+ "Medium": "Black crayon or chalk on paper",
+ "Dimensions": "5 3/8 x 7 1/8 in.  (13.7 x 18.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Felicia Meyer Marsh, 1979",
+ "Accession Number": "1979.292.812",
+ "Who": "Reginald Marsh",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Chalk",
+  "Crayons"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210013250,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210013195"
+   },
+   {
+    "href": "http://scrapi.org/object/210013233"
+   },
+   {
+    "href": "http://scrapi.org/object/210013230"
+   },
+   {
+    "href": "http://scrapi.org/object/210013267"
+   },
+   {
+    "href": "http://scrapi.org/object/210013321"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210013250"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210013250"
+  }
+ }
+}

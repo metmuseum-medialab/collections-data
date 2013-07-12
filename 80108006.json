@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1915",
+ "Culture": "American",
+ "Medium": "Straw, silk, cotton",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Frederick H. Prince, Jr., 1967",
+ "Accession Number": "2009.300.5578",
+ "Who": "L. P. Hollander & Co., Boston",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Hats",
+  "Straw"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80108006,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/67.110.7_front_CP2.jpg",
+ "related-artworks": [
+  80108008,
+  80096823,
+  80034182,
+  80115451,
+  80003652
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108006"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "4th century B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Limestone",
+ "Dimensions": "Overall 9 1/2 x 5 15/16 x 2 1/16 in. (24.1 x 15.1 x 5.2 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2651",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Limestone",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "id": 130002668,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP158514.jpg",
+ "related-artworks": [
+  130002477,
+  130002554,
+  130002541,
+  130002589,
+  130002582
+ ],
+ "Provenance": [
+  "From Kourion, sanctuary of Apollo Hylates"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002668"
+  }
+ }
+}

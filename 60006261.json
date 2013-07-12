@@ -1,0 +1,38 @@
+{
+ "Date": "12th century(?)",
+ "Culture": "Cambodia",
+ "Medium": "Bronze",
+ "Dimensions": "2 7/16 in. (6.25 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.146",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Fragments",
+  "Bronze",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "Cambodia"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60006261,
+ "related-artworks": [
+  60006077,
+  60006078,
+  60006073,
+  60006081,
+  60006110
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60006261"
+  }
+ }
+}

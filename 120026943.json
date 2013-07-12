@@ -1,0 +1,56 @@
+{
+ "Decorator": "Charles-Louis Méreaud (active 1756–80)",
+ "Date": "1772",
+ "Culture": "French (Sèvres)",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "Diam. 9 3/4 in. (24.8 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Emma T. Gary, 1937",
+ "Accession Number": "37.20.141",
+ "Who": [
+  "Sèvres Manufactory",
+  "Charles-Louis Méreaud"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Sèvres"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Art Nouveau",
+  "Sèvres Porcelain in the Nineteenth Century",
+  "Jean–Baptiste Carpeaux (1827–1875)",
+  "Exoticism in the Decorative Arts",
+  "Louis–Rémy Robert (1810–1882)",
+  "French Furniture in the Eighteenth Century Case Furniture",
+  "Saint Petersburg",
+  "Empire Style, 1800–1815",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120026943,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/110549.jpg",
+ "related-artworks": [
+  120012794,
+  120012823,
+  120022529,
+  120005731,
+  120005729
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120026943"
+  }
+ }
+}

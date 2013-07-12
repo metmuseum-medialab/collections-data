@@ -1,0 +1,44 @@
+{
+ "Date": "1866–69",
+ "Culture": "American",
+ "Medium": [
+  "(a–c) silk",
+  "(d, e) silk, linen, leather"
+ ],
+ "Dimensions": [
+  "(a) Length at CB 44 in. (111.8 cm)",
+  "(b) Length at CB 42 1/2 in. (108 cm)",
+  "(c) Length at CB 11 1/2 in. (29.2 cm)",
+  "(d, e) Length 9 1/2 in. (24.1 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. Francis Howard and Mrs. Avery Robinson, 1953",
+ "Accession Number": "C.I.53.68.1a–e",
+ "What": [
+  "Silk",
+  "Linen",
+  "Leather",
+  "Ensembles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80035900,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.53.68.1a–c_F.jpg",
+ "related-artworks": [
+  80017023,
+  80048318,
+  80005154,
+  80032113,
+  80032114
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80035900"
+  }
+ }
+}

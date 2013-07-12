@@ -1,0 +1,91 @@
+{
+ "Designer": "Ange Jacques Gabriel (French, Paris 1698–1782 Paris)",
+ "Date": "1745–47",
+ "Culture": "French, Paris or Versailles",
+ "Medium": "Marble",
+ "Dimensions": "Overall (confirmed) H. 69 3/4 x Diam. 52 1/2 in. (177.2 x 133.4 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Josephine Bay Paul and C. Michael Paul Foundation Inc. Gift, Charles Ulrick and Josephine Bay Foundation Inc. Gift, and Rogers Fund, 1966",
+ "Accession Number": "66.29.2",
+ "Who": [
+  "Ange Jacques Gabriel",
+  "Nicholas Sébastien Adam the Younger"
+ ],
+ "What": [
+  "Sculpture",
+  "Vessels",
+  "Vases",
+  "Marble"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Gardens of Western Europe, 1600–1800",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120020337,
+ "gallery-id": 548,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP248887.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120020336",
+  "http://scrapi.org/object/120007365",
+  "http://scrapi.org/object/120011223",
+  "http://scrapi.org/object/120013334",
+  "http://scrapi.org/object/120013751"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/DP248887.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP248884.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP248885.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP247548.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP248888.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP248886.jpg"
+ ],
+ "Description": "This vase, along with its mate by Jean-Baptiste Pigalle, was part of a set of four designed for the royal Château de Choisy by the architect Ange-Jacques Gabriel. None of the vases, however, was ever sent to Choisy. The Museum's pair was given by Louis XV to the marquis de Marigny, the marquise de Pompadour's brother, who placed them in his own château at Ménars, where they remained until the beginning of this century. The other pair, decorated with the attributes of Spring, was made by Jacques Verbeckt and is divided between the Musée du Louvre in Paris and the château at Malmaison.",
+ "Provenance": [
+  "Salle des Antiques, Palais du Louvre, Paris, France\r\n\r\nLouis XV, King of France , Salle des Antiques, Palais du Louvre, Paris (1745–70; his gift to Marigny; then transported to Château de Menars,  Loir-et-Cher)",
+  "his gift to Abel-François Poisson, marquis de Marigny , Château de Ménars (1770–d. 1781)",
+  "the heirs of Abel-François Poisson, marquis de Marigny and subsequent owners of Ménars (1781–1811)",
+  "Auguste Poisson de Malvoisin (1781–93)",
+  "Jeanne-Charlotte Poisson de Malvoisin, Comtesse de la Gallissonnière (1793–1804)",
+  "Amélie-Thérèse de Bellissen",
+  "and Aglaé-Françoise-Rosalie de Mauléon (1804–11)",
+  "Claude-Victor Perrin, duc de Bellune , Ménars (1811–27)",
+  "comte de  Brigode , Ménars (1827–30)",
+  "through his widow to her husband, Joseph-Phillipe-François de Riquet, prince de Chimay , Ménars (from 1830)",
+  "his daughter Marie-Henriette-Valentine Riquet",
+  "and her husband the prince de Bauffremont (1879?–81; sale, Ménars, June 10, 1881, nos. 3, 4; to Watel)",
+  "Louis-Joseph Watel , Ménars (1881–1915)",
+  "Albert Watel (from 1915)",
+  "Mme Watel-Dehaynin (in 1935)",
+  "[ Wildenstein and Co., Inc. , New York (until 1966; sold to MMA) ]"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120020336"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120007365"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120011223"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120013334"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120013751"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120020337"
+  }
+ }
+}

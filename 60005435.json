@@ -1,0 +1,38 @@
+{
+ "Date": "7th century",
+ "Culture": "Thailand",
+ "Medium": "Gold sheet",
+ "Dimensions": "2 1/8 x 1 7/16 in. (5.4 x 3.6 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Gifts of friends of Jim Thompson, in his memory, 1990",
+ "Accession Number": "1990.135",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Gold",
+  "Plaques"
+ ],
+ "Where": [
+  "Asia",
+  "Thailand"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005435,
+ "gallery-id": 246,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP288813.jpg",
+ "related-artworks": [
+  60005117,
+  60006328,
+  60033172,
+  60004336,
+  60005110
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005435"
+  }
+ }
+}

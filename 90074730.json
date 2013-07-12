@@ -1,0 +1,47 @@
+{
+ "Artist": "After painting by Cornelis van Haarlem (Dutch, 1562 - 1638)",
+ "Date": "1588",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 9 15/16 x 12 1/2 in. (25.2 x 31.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.905",
+ "Who": [
+  "Hendrick Goltzius",
+  "Cornelis van Haarlem"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Hendrick Goltzius (1558–1617)",
+  "The Rediscovery of Classical Antiquity",
+  "Dutch and Flemish Artists in Rome, 1500–1600",
+  "Low Countries, 1400–1600 A.D."
+ ],
+ "id": 90074730,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP832056.jpg",
+ "related-artworks": [
+  90001882,
+  90003573,
+  90003654,
+  90005996,
+  90006977
+ ],
+ "Provenance": [
+  "Phyllis D. Massar",
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90074730"
+  }
+ }
+}

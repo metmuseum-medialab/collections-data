@@ -1,0 +1,48 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "first half of the 19th century",
+ "Culture": "China",
+ "Medium": "Porcelain with low-relief decoration under white glaze (Fujian ware)",
+ "Dimensions": "H. 13 3/4 in. (34.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.888",
+ "What": [
+  "Ceramics",
+  "Sculpture",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Vases",
+  "Glaze",
+  "Reliefs"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60018489,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/79_2_888_O1_sf.jpg",
+ "related-artworks": [
+  60015318,
+  60015298,
+  60019463,
+  60015647,
+  60016206
+ ],
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60018489"
+  }
+ }
+}

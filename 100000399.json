@@ -1,0 +1,44 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Reign": "reign of Senwosret I",
+ "Date": "ca. 1961–1917 B.C.",
+ "Geography": "possibly from Medinet el-Fayum (Krokodilopolis-Arsinoe), Krokodilopolis temple; probably from Fayum; Country of Origin Egypt",
+ "Medium": "Greywacke",
+ "Dimensions": "h. 103.5 cm (40 9/16 in); w. 41.9 cm (16 1/2 in); d. 69.9 cm (27 1/2 in)",
+ "Credit Line": "Gift of Jules S. Bache, 1925",
+ "Accession Number": "25.6",
+ "What": [
+  "Sculpture",
+  "Statues",
+  "Sandstone",
+  "Graywacke"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100000399,
+ "gallery-id": 110,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/25.6 front.jpg",
+ "related-artworks": [
+  100000386,
+  100003425,
+  100014347,
+  100002478,
+  100005252
+ ],
+ "Description": "The sensitive modeling of this statue's body makes it one of the finest royal images of the early Twelfth Dynasty.  The head had either broken off or was removed from the body in antiquity.  A horizontal, albeit roughened plane, was carefully prepared at neck height and a hole was drilled in its center so that a new head could be placed onto the body.  Was this undertaken to replace a broken head, or to change the identity of the person represented?  The shallow inscriptions and incised representations on the sides of the throne were certainly changed and what we now see is a second version:  no royal name is preserved among the traces of the earlier version, but the second version shows two kneeling fertility gods holding up the names of Senwosret I.",
+ "Provenance": [
+  "Purchased in Cairo from Panayotis Kitycas by Jules S. Bache about 1909. Donated to the Museum by Bache, 1925."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100000399"
+  }
+ }
+}

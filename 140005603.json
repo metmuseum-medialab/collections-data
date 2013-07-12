@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Geography": "Iran, Isfahan",
+ "Medium": "Cotton; printed",
+ "Dimensions": "10.25 in. high 7.25 in. wide (26 cm high 18.4 cm wide)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The Carnegie Corporation of New York, 1930",
+ "Accession Number": "30.10.14",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Cotton",
+  "Painting",
+  "Printing"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Isfahan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran (Persia), 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005603,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/178544.jpg",
+ "related-artworks": [
+  140004768,
+  140007858,
+  140004776,
+  140007804,
+  140008329
+ ],
+ "Provenance": [
+  "Albert P. Niblack",
+  "Carnegy Corporation of New York(until 1930)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005603"
+  }
+ }
+}

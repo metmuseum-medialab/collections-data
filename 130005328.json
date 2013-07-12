@@ -1,0 +1,44 @@
+{
+ "Period": "Late Corinthian I",
+ "Date": "575-550 B.C.",
+ "Culture": "Greek, Corinthian",
+ "Medium": "Terracotta; black-figure",
+ "Dimensions": "H. 3 3/4 in. (9.5 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Gift of L. P. di Cesnola, 1876",
+ "Accession Number": "76.12.6",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Alabastra"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130005328,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP120942.jpg",
+ "related-artworks": [
+  130001401,
+  130001443,
+  130005324,
+  130006071,
+  130007657
+ ],
+ "Description": "The blinding of PolyphemosThe blinding of Polyphemos is one of the most dramatic episodes in the voyage of Odysseus, king of Ithaka, from the Trojan War to his native island. Representations begin in the seventh century B.C. but are rare. This vase is noteworthy because an event of extraordinary moment is rendered with a bare minimum of artistic means.",
+ "Provenance": [
+  "Purchased in Brindisi"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130005328"
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "Date": "early 20th century",
+ "Culture": "Asian, Central (Bokharan peoples)",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. Eugene Jackson Koop",
+ "Accession Number": "C.I.48.29.2",
+ "What": [
+  "Costume",
+  "Silk",
+  "Robes"
+ ],
+ "Where": [
+  "Asia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80004928,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI48.29.2_F.jpg",
+ "related-artworks": [
+  80004927,
+  80006653,
+  80006654,
+  80007032,
+  80007041
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80004928"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Medium": "Engraving",
+ "Dimensions": [
+  "sheet 6 1/8 x 7 9/16 in. (15.5 x 19.2 cm)",
+  "plate 5 11/16 x 7 1/16 in. (14.5 x 18 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Harris Brisbane Dick Fund, 1925",
+ "Accession Number": "25.24.8",
+ "Who": "René Boyvin",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Fontainebleau",
+  "The Printed Image in the West History and Techniques",
+  "France, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90071165,
+ "related-artworks": [
+  90004984,
+  90013337,
+  90034662,
+  90036214,
+  90038931
+ ],
+ "Provenance": [
+  "Vendor: S. F. C. Smith"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90071165"
+  }
+ }
+}

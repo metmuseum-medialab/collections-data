@@ -1,0 +1,34 @@
+{
+ "Culture": "Cypriot",
+ "Medium": "Limestone",
+ "Dimensions": "25 1/2 x 9 1/2 in.  (64.8 x 24.1 cm)",
+ "Classification": "Cesnola Inscriptions",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2415",
+ "What": [
+  "Limestone",
+  "Cippi"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130002435,
+ "related-artworks": [
+  130002288,
+  130002350,
+  130002353,
+  130002354,
+  130002355
+ ],
+ "Provenance": [
+  "From Cyprus\r\nSaid to be from Larnaca (Kition), Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002435"
+  }
+ }
+}

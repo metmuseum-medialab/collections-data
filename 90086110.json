@@ -1,0 +1,33 @@
+{
+ "Date": "February 1886",
+ "Medium": "Photomechanical process",
+ "Dimensions": "6 11/16 x 4 1/8 in. (17 x 10.4 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Bella C. Landauer",
+ "Accession Number": "Landauer.Printing.1",
+ "Who": "John . Alden",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90086110,
+ "related-artworks": [
+  90024750,
+  90000882,
+  90003457,
+  90004101,
+  90004257
+ ],
+ "Provenance": [
+  "Donor: Bella C. Landauer (American, New York 1874–1960)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90086110"
+  }
+ }
+}

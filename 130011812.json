@@ -1,0 +1,33 @@
+{
+ "Period": "Early Helladic",
+ "Date": "ca. 3000–2200 B.C.",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 5.11 cm.",
+ "Classification": "Vases",
+ "Credit Line": "Gift of Gisela M. A. Richter, 1923",
+ "Accession Number": "23.121.24",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011812,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP21487.jpg",
+ "related-artworks": [
+  130001427,
+  130001428,
+  130004286,
+  130005207,
+  130005208
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011812"
+  }
+ }
+}

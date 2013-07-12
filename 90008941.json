@@ -1,0 +1,35 @@
+{
+ "Date": "1575–1600",
+ "Medium": "Colored gouache on parchment",
+ "Dimensions": "8-11/16 x 6-7/8 in.  (22 x 17.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Coudert Brothers, 1888",
+ "Accession Number": "88.3.68",
+ "Who": "Anonymous, Italian, Cremonese, 16th century",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Gouache",
+  "Parchment"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90008941,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP801941.jpg",
+ "related-artworks": [
+  90008941,
+  90002274,
+  90002459,
+  90002551,
+  90010330
+ ],
+ "Provenance": [
+  "Mme. d'Oliveira (Florence until 1887)",
+  "Coudert Brothers"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90008941"
+  }
+ }
+}

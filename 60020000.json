@@ -1,0 +1,43 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Overglaze enamels (Arita ware, Ko Kutani style)",
+ "Dimensions": [
+  "H. 1 1/8 in. (2.9 cm); L. 6 1/8 in. (15.6 cm); W. 4 1/3 in. (11.4 cm);",
+  "Foot rim  L. 3 3/4 in. (9.5 cm); W. 2 1/2 in. (6.4 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Dr. and Mrs. Roger G. Gerry Collection, Bequest of Dr. and Mrs. Roger G. Gerry, 2000",
+ "Accession Number": "2002.447.93",
+ "What": [
+  "Ceramics",
+  "Dishes",
+  "Enamels",
+  "Overglazing",
+  "Arita",
+  "Kutani"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60020000,
+ "related-artworks": [
+  60020045,
+  60019999,
+  60023259,
+  60012856,
+  60020047
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60020000"
+  }
+ }
+}

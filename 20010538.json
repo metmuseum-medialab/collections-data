@@ -1,0 +1,41 @@
+{
+ "Date": "1900",
+ "Medium": "Oil on canvas",
+ "Dimensions": "28 1/8 x 36 1/8 in. (71.4 x 91.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of George A. Hearn, 1906",
+ "Accession Number": "06.1270",
+ "Who": "George H. Bogert",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20010538,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap06.1270.jpg",
+ "related-artworks": [
+  20010539,
+  20011385,
+  20024264,
+  20010368
+ ],
+ "Provenance": [
+  "George A. Hearn, New York (by 1901–6)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20010538"
+  }
+ }
+}

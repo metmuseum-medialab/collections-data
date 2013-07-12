@@ -1,0 +1,43 @@
+{
+ "Publisher": "Published by Joseph Lindauer",
+ "Date": "1813",
+ "Medium": "Lithograph",
+ "Dimensions": "Overall 13 1/16 x 9 13/16 x 11/16 in. (33.2 x 25 x 1.7 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1966",
+ "Accession Number": "66.542.34",
+ "Who": [
+  "Joseph Lindauer",
+  "Maximilian Franck"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017752,
+ "related-artworks": [
+  90011275,
+  90017829,
+  90000603,
+  90004834,
+  90011140
+ ],
+ "Provenance": [
+  "Vendor: E. Seligmann"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017752"
+  }
+ }
+}

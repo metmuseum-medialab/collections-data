@@ -1,0 +1,44 @@
+{
+ "Date": "1886",
+ "Geography": "Paris, France",
+ "Medium": "unplated brass, wood",
+ "Dimensions": "Bell Diam.  7.1 x L. 62.4cm (2 13/16 x 24 9/16in.); Mouthpiece 6.5 mm; Body L. 56.8 cm; Bore diam. 10.5 mm",
+ "Classification": "Aerophone-Reed Vibrated",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2138",
+ "Who": "Adolphe Sax",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Musical instruments",
+  "Brass",
+  "Aerophones",
+  "Reeds",
+  "Reedpipes",
+  "Soprano",
+  "Saxophones"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 180016017,
+ "gallery-id": 684,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS323a3.jpg",
+ "related-artworks": [
+  180015716,
+  180013445,
+  180017078,
+  180013954,
+  180016436
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016017"
+  }
+ }
+}

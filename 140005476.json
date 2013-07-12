@@ -1,0 +1,40 @@
+{
+ "Date": "16th century",
+ "Geography": "Egypt",
+ "Medium": "Wool",
+ "Dimensions": "13 in. high 14.00 in. wide (33 cm high 35.6 cm wide)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of H. A. Elsberg, 1928",
+ "Accession Number": "28.183.3",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Wool",
+  "Rugs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005476,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/72236.jpg",
+ "related-artworks": [
+  140009746,
+  140004986,
+  140005474,
+  140005475,
+  140009688
+ ],
+ "Provenance": [
+  "Herman A. Elsberg, New York (until 1928)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005476"
+  }
+ }
+}

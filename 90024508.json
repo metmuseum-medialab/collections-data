@@ -1,0 +1,39 @@
+{
+ "Publisher": "Published by Bance l'ainé",
+ "Date": "1838",
+ "Medium": "Etching",
+ "Dimensions": "Overall 16 5/16 x 10 1/8 x 1/2 in. (41.4 x 25.7 x 1.3 cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1952",
+ "Accession Number": "52.519.117",
+ "Who": [
+  "Bance l'ainé",
+  "Henri Salembier"
+ ],
+ "What": [
+  "Etching",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024508,
+ "related-artworks": [
+  90024507,
+  90024506,
+  90024811
+ ],
+ "Provenance": [
+  "Ogden Codman, Jr. (American, Boston, Massachusetts 1868–1951 Grégy-sur-Yerre)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024508"
+  }
+ }
+}

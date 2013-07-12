@@ -1,0 +1,40 @@
+{
+ "Date": "1690",
+ "Medium": "Red chalk, pen and brown ink, brush and brown wash, heightened with white, over graphite",
+ "Classification": "Drawings",
+ "Credit Line": "Harry G. Sperling Fund, 1992",
+ "Accession Number": "1992.246.10",
+ "Who": "Matthieu Elias",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90061673,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP224359.jpg",
+ "related-artworks": [
+  90032695,
+  90032787,
+  90032792,
+  90032835,
+  90032833
+ ],
+ "Provenance": [
+  "Marquis Charles-Philippe de Chennevières-Pointel (French)",
+  "Vendor: W. M. Brady and Co., Inc. (New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90061673"
+  }
+ }
+}

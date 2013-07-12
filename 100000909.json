@@ -1,0 +1,47 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1504–1458 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Valley of the Kings, Tomb of Mentuherkhepeshef (TT 20)",
+ "Medium": "Tempera on paper",
+ "Dimensions": [
+  "facsimile h. 10 cm (3 15/16 in); w. 18.5 cm (7 5/16 in)",
+  "Scale unknown",
+  "framed h."
+ ],
+ "Credit Line": "Rogers Fund, 1948",
+ "Accession Number": "48.105.10",
+ "Who": "Copyist Unknown",
+ "What": [
+  "Paper",
+  "Tempera",
+  "Facsimiles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100000909,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs2650.jpg",
+ "related-artworks": [
+  100015496,
+  100015601,
+  100030288,
+  100030301,
+  100015495
+ ],
+ "Provenance": [
+  "Painted at Qurna by  an unknown artist for the Egyptian Expedition of the Metropolitan Museum of Art, year unknown. Accessioned 1948."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100000909"
+  }
+ }
+}

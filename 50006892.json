@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1820–40",
+ "Geography": "French Polynesia, Austral Islands",
+ "Culture": "Austral Islanders",
+ "Medium": "Wood",
+ "Dimensions": "L. 23 1/2 in. (59.7 cm)",
+ "Classification": "Wood-Implements",
+ "Credit Line": "Rogers Fund, 1980",
+ "Accession Number": "1980.494",
+ "What": "Ladles",
+ "Where": [
+  "Oceania",
+  "French Polynesia",
+  "Austral Islands"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Polynesia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50006892,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/VS1980.494B.JPG",
+ "related-artworks": [
+  50006258,
+  50003746,
+  50003796,
+  50006242,
+  50006289
+ ],
+ "Provenance": [
+  "Harry G. Beasley, London",
+  "[Matthias Komor, New York, until 1980]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50006892"
+  }
+ }
+}

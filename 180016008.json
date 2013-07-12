@@ -1,0 +1,55 @@
+{
+ "Date": "1819–43",
+ "Geography": "United States",
+ "Medium": "Wood, brass",
+ "Dimensions": [
+  "Total length 39.9 cm (15-3/4 in.)",
+  "Embouchure 9.2 x 8.7mm",
+  "Center embouchure to end 306mm",
+  "Bore diameter 10.8mm",
+  "Hole diameter 5.7mm",
+  "Distance from embouchure center to center",
+  "B 134mm",
+  "A 156mm",
+  "G 177mm",
+  "F 201mm",
+  "E 224mm",
+  "D 249mm"
+ ],
+ "Classification": "Aerophone-Blow Hole",
+ "Credit Line": "Gift of Dr. and Mrs. Roger Gerry, 1986",
+ "Accession Number": "1986.349.4",
+ "Who": "Edward  Frederick Riley",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Musical instruments",
+  "Brass",
+  "Aerophones",
+  "Flutes",
+  "Transverse flutes",
+  "Fifes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180016008,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DT8479.jpg",
+ "related-artworks": [
+  180015950,
+  180015951,
+  180016009,
+  180016031,
+  180015042
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016008"
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "Date": "mid-19th century",
+ "Culture": "Japan",
+ "Classification": "Illustrated Books",
+ "Credit Line": "The Howard Mansfield Collection, Gift of Howard Mansfield, 1936",
+ "Accession Number": "JIB131",
+ "Who": "Ranzan Tsuneyuki",
+ "What": "Books",
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60029023,
+ "related-artworks": [
+  40002869,
+  60000785,
+  60000779,
+  60000782
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029023"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Date": "dated 1736",
+ "Culture": "China",
+ "Medium": "Jade",
+ "Dimensions": "Each leaf 11 3/8 x 5 in. (28.9 x 12.7 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Major Louis Livingston Seaman, 1924",
+ "Accession Number": "24.127a–j",
+ "What": [
+  "Books",
+  "Jade"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "id": 60033301,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/215725.jpg",
+ "related-artworks": [
+  60009291,
+  60009564,
+  60000100,
+  60006644,
+  60007997
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033301"
+  }
+ }
+}

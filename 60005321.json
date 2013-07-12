@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1st century B.C.",
+ "Culture": "India",
+ "Medium": "Terracotta",
+ "Dimensions": "2 1/2 x 2 1/8 x 1 1/8 in. (6.4 x 5.4 x 2.9 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Cynthia Hazen Polsky, 1984",
+ "Accession Number": "1984.491.16",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Toys"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005321,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1984_491_16.jpg",
+ "related-artworks": [
+  60005320,
+  60005031,
+  60005032,
+  60005034,
+  60005035
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005321"
+  }
+ }
+}

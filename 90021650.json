@@ -1,0 +1,38 @@
+{
+ "Publisher": "D. Bogue (London)",
+ "Date": "1845",
+ "Medium": "plates engraving",
+ "Dimensions": "Overall 5 1/2 x 4 5/16 in. (14 x 11 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1945",
+ "Accession Number": "45.13.10",
+ "Who": [
+  "Cornelia Mee",
+  "D. Bogue"
+ ],
+ "What": [
+  "Engraving",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021650,
+ "related-artworks": [
+  90012578,
+  90011737,
+  90012505,
+  90012887
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021650"
+  }
+ }
+}

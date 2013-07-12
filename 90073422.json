@@ -1,0 +1,43 @@
+{
+ "Date": "May 1, 1751",
+ "Medium": "Etching and engraving; fourth state of five",
+ "Dimensions": "plate 10 5/16 x 13 7/8 in. (26.2 x 35.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Sarah Lazarus, 1891",
+ "Accession Number": "91.1.5",
+ "Who": "William Hogarth",
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Kilt",
+  "Portrait Painting in England, 1600–1800",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90073422,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP824991.jpg",
+ "related-artworks": [
+  90036163,
+  90037738,
+  90049367,
+  90049368,
+  90049369
+ ],
+ "Provenance": [
+  "Donor: Sarah Lazarus 1891"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90073422"
+  }
+ }
+}

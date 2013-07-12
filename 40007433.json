@@ -1,0 +1,34 @@
+{
+ "Date": "ca. 1550",
+ "Culture": "Italian",
+ "Classification": "Swords",
+ "Credit Line": "Gift of Stephen V. Grancsay, 1942",
+ "Accession Number": "42.50.50",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Finials",
+  "Pommels"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40007433,
+ "related-artworks": [
+  40012567,
+  40007483,
+  40007501,
+  40007502,
+  40007503
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40007433"
+  }
+ }
+}

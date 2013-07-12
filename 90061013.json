@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1820",
+ "Medium": "Ink, watercolor and wash",
+ "Dimensions": "sheet 7 1/4 x 8 3/4 in. (18.4 x 22.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1938",
+ "Accession Number": "38.37.3",
+ "Who": "Gillows",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90061013,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP807031.jpg",
+ "related-artworks": [
+  90060953,
+  90060954,
+  90060955,
+  90060956,
+  90060957
+ ],
+ "Provenance": [
+  "Vendor: Hannington & Rutherford"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90061013"
+  }
+ }
+}

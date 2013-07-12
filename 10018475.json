@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1890",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Gold, citrine, quartz, and enamel",
+ "Dimensions": "1 1/8 x 1 1/2 in. (2.9 x 3.8 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Purchase, Susan and Jon Rotenstreich Gift, 2001",
+ "Accession Number": "2001.240",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Enamels",
+  "Pendants",
+  "Citrine"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10018475,
+ "related-artworks": [
+  10018491,
+  10018492,
+  10018458,
+  10018489,
+  10023895
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10018475"
+  }
+ }
+}

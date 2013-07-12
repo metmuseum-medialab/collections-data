@@ -1,0 +1,37 @@
+{
+ "Date": "1700–1940",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Unknown, 1940",
+ "Accession Number": "C.I.40.191.1",
+ "What": [
+  "Costume",
+  "Headcloths",
+  "Veils"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The United States, 1600–1800 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80050642,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI40.191.1.jpg",
+ "related-artworks": [
+  80009768,
+  80024620,
+  80028023,
+  80050626,
+  80050637
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80050642"
+  }
+ }
+}

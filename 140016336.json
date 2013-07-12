@@ -1,0 +1,40 @@
+{
+ "Object Name": "Bracelet fragment",
+ "Geography": "Egypt",
+ "Medium": "Polychrome glass",
+ "Classification": "Glass",
+ "Credit Line": "Purchase, Edward S. Harkness Gift, 1926",
+ "Accession Number": "26.7.1262",
+ "What": [
+  "Costume",
+  "Glass",
+  "Fragments",
+  "Jewelry",
+  "Bracelets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1–500A.D.",
+ "id": 140016336,
+ "related-artworks": [
+  140016338,
+  140016341,
+  140016337,
+  140016339,
+  140016340
+ ],
+ "Provenance": [
+  "George Edward Stanhope Molyneux Herbert, 5th Earl of Carnarvon, Highclere Castle, Hampshire, England (until d. 1923)",
+  "Almina, Countess of Carnarvon, Highclere Castle, Hampshire, England (1923–26",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140016336"
+  }
+ }
+}

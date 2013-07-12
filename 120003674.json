@@ -1,0 +1,42 @@
+{
+ "Date": "1892",
+ "Culture": "French",
+ "Medium": "Silver, struck",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Mr. and Mrs. Frederick S. Wait, 1907",
+ "Accession Number": "07.124.1",
+ "Who": "Alphonse Eugêne Lechevrel",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Silver",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003674,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/1969.jpg",
+ "related-artworks": [
+  120005047,
+  120001735,
+  120001743,
+  120001771
+ ],
+ "Provenance": [
+  "Mr. and Mrs. Frederick S. Wait (until 1907",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120003674"
+  }
+ }
+}

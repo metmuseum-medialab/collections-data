@@ -1,0 +1,37 @@
+{
+ "Date": "17th century",
+ "Medium": "Etching; second state of four",
+ "Dimensions": "sheet 8 3/4 x 11 1/4 in. (22.3 x 28.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Kenneth Grebinar, 2005",
+ "Accession Number": "2005.377.38",
+ "Who": "Anthonie Waterloo",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90042892,
+ "related-artworks": [
+  90026743,
+  90026744,
+  90026745,
+  90026746,
+  90026747
+ ],
+ "Provenance": [
+  "Donor: Kenneth Grebinar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90042892"
+  }
+ }
+}

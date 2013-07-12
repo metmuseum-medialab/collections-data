@@ -1,0 +1,45 @@
+{
+ "Date": "mid 1st millennium B.C.–mid 1st millennium A.D.",
+ "Geography": "Western Iran",
+ "Medium": "Bronze",
+ "Dimensions": "1.5 x 2.24 in. (3.81 x 5.69 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.97.14",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Rings",
+  "Buckles",
+  "Harnesses"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 1–500A.D.",
+  "Iran, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 30001226,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/me30_97_14.jpg",
+ "related-artworks": [
+  30001527,
+  30001223,
+  30001224,
+  30001225,
+  30001526
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1930, purchased from R. Y. Mottahedeh & Sons, Inc., New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30001226"
+  }
+ }
+}

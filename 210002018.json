@@ -1,0 +1,39 @@
+{
+ "Date": "1947",
+ "Medium": "Charcoal on paper",
+ "Dimensions": [
+  "H. 24-1/4, W. 18-7/8 inches",
+  "(61.6 x 47.9 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of the artist, 1978",
+ "Accession Number": "1978.455.1",
+ "Who": "Jane Freilicher",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Charcoal"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210002018,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/1978.455.1.jpg",
+ "related-artworks": [
+  210002019,
+  90022648,
+  90005038,
+  90049563,
+  210001952
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210002018"
+  }
+ }
+}

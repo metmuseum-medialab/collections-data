@@ -1,0 +1,29 @@
+{
+ "Date": "1892",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1947",
+ "Accession Number": "47.116.1",
+ "Who": "Rand McNally & Company",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023757,
+ "related-artworks": [
+  90015185,
+  90019705,
+  90022466,
+  90022639,
+  90022846
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023757"
+  }
+ }
+}

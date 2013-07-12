@@ -1,0 +1,31 @@
+{
+ "Date": "1937",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Clarence McK. Lewis, 1954",
+ "Accession Number": "54.549.13",
+ "Who": "Tinbergen",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190021506,
+ "related-artworks": [
+  190060626,
+  190043417,
+  190043418,
+  190043419,
+  190043420
+ ],
+ "Provenance": [
+  "Clarence McK. Lewis"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190021506"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1765",
+ "Culture": "Swiss (Zurich)",
+ "Medium": "Tin-enameled earthenware",
+ "Dimensions": "Diam. 9 1/4 in. (23.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Hans Syz Collection, Gift of Stephan B. Syz and John D. Syz, 1995",
+ "Accession Number": "1995.268.90",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Plates"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland",
+  "Zürich"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120024451,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF1995_268_90.jpg",
+ "related-artworks": [
+  120024452,
+  120014861,
+  120002070,
+  120002072,
+  120014362
+ ],
+ "Provenance": [
+  "Hans Syz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120024451"
+  }
+ }
+}

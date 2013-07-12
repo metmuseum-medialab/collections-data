@@ -1,0 +1,45 @@
+{
+ "Artist": "Herman Stahmer (American, 1857–1894)",
+ "Date": "1890",
+ "Medium": "Graphite, pen and black ink, watercolor and gouache with gum arabic",
+ "Dimensions": "Sheet 6 5/16 x 9 1/4 in. (16 x 23.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of William Brewster, 1923",
+ "Accession Number": "23.112.940",
+ "Who": [
+  "Brewster & Co.",
+  "Herman Stahmer"
+ ],
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Graphite",
+  "Gouache",
+  "Gum arabic"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90052653,
+ "related-artworks": [
+  90052182,
+  90053429,
+  90051888,
+  90051912,
+  90052176
+ ],
+ "Provenance": [
+  "Donor: William Brewster"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90052653"
+  }
+ }
+}

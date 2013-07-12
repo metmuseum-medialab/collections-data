@@ -1,0 +1,36 @@
+{
+ "Date": "1850–69",
+ "Culture": "American",
+ "Medium": "linen, cotton",
+ "Dimensions": "Height 10 in. (25.4 cm)",
+ "Credit Line": "Gift of Mrs. George B. Dabney, 1976",
+ "Accession Number": "1976.299.5",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Linen",
+  "Caps"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80049195,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1976.299.5_S.jpg",
+ "related-artworks": [
+  80003245,
+  80024641,
+  80106522,
+  80106971,
+  80107386
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80049195"
+  }
+ }
+}

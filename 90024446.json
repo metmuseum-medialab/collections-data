@@ -1,0 +1,36 @@
+{
+ "Artist": "William Henry Bradley (American, Boston, Massachusetts 1868–1962 La Mesa, California)",
+ "Date": "1897",
+ "Classification": "Books",
+ "Credit Line": "Gift of Fern Bradley Dufner, 1952",
+ "Accession Number": "52.625.26",
+ "Who": [
+  "William Henry Bradley",
+  "R. H. Russell"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024446,
+ "related-artworks": [
+  90013809,
+  90014920,
+  90042147,
+  90074167,
+  90079513
+ ],
+ "Provenance": [
+  "Donor: Fern Bradley Dufner (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024446"
+  }
+ }
+}

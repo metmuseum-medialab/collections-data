@@ -1,0 +1,33 @@
+{
+ "Date": "1865",
+ "Culture": "American or European",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Irene Lewisohn, 1937",
+ "Accession Number": "C.I.37.46.38",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80036324,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.37.46.38_F2.JPG",
+ "related-artworks": [
+  80001240,
+  80001521,
+  80001727,
+  80002258,
+  80002668
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80036324"
+  }
+ }
+}

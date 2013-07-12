@@ -1,0 +1,42 @@
+{
+ "Lithographer": "Bardell Sepia",
+ "Date": "1911",
+ "Medium": "Photolithograph",
+ "Dimensions": "Sheet 4 x 2 1/16 in. (10.2 x 5.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 314, E136.85",
+ "Who": [
+  "Collins-McCarthy Candy Co.",
+  "Bardell Sepia"
+ ],
+ "What": [
+  "Prints",
+  "Photomechanical reproductions",
+  "Photolithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90102823,
+ "related-artworks": [
+  90087562,
+  90087568,
+  90087572,
+  90087574,
+  90102690
+ ],
+ "Description": "Trade cards from the \"Zeenut\" series (E136), issued in 1911 to promote Zeenut candy for the Collins-McCarthy Candy Company.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90102823"
+  }
+ }
+}

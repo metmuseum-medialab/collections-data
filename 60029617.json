@@ -1,0 +1,39 @@
+{
+ "Date": "14th century",
+ "Culture": "Indonesia (Java, Majapahit?)",
+ "Medium": "Bronze",
+ "Dimensions": "Largest 1 1/4 x 1 1/4 in. (3.2 x 3.2 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Samuel Eilenberg Collection, Bequest of Samuel Eilenberg, 1998",
+ "Accession Number": "2001.433.652.1–.5",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Bronze",
+  "Jewelry",
+  "Beads"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java",
+  "Majapahit"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1000–1400 A.D.",
+ "id": 60029617,
+ "related-artworks": [
+  60029637,
+  60029613,
+  60029634,
+  60029614,
+  60029615
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029617"
+  }
+ }
+}

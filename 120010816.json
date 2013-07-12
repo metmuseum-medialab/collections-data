@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1760",
+ "Culture": "German, Silesia",
+ "Medium": "Glass",
+ "Dimensions": "H. 10 9/16 in.  (26.8 cm); Diam. 3 1/4 in. (8.3 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Munsey Fund, 1927",
+ "Accession Number": "27.185.220a, b",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Cups",
+  "Standing cups"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010816,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF27_185_220ab.jpg",
+ "related-artworks": [
+  120010632,
+  120010633,
+  120010665,
+  120010649,
+  120010668
+ ],
+ "Provenance": [
+  "Jacques Mühsam (until 1927)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120010816"
+  }
+ }
+}

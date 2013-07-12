@@ -1,0 +1,54 @@
+{
+ "Medium": "Pen and brown ink",
+ "Dimensions": "6 1/4 x 4 3/4 in.  (15.9 x 12.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The J.B. Neumann Collection, Gift of Dr. Franz H. Hirschland, 1951",
+ "Accession Number": "51.504.17",
+ "Who": "Rodolphe Bresdin",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90010747,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP805527.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP805527.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/51.504.17.jpg"
+ ],
+ "Provenance": [
+  "Donor: Dr. Franz H. Hirschland"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90010736"
+   },
+   {
+    "href": "http://scrapi.org/object/90010772"
+   },
+   {
+    "href": "http://scrapi.org/object/90010720"
+   },
+   {
+    "href": "http://scrapi.org/object/90010734"
+   },
+   {
+    "href": "http://scrapi.org/object/90010723"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90010747"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90010747"
+  }
+ }
+}

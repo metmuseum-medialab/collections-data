@@ -1,0 +1,41 @@
+{
+ "Date": "1965",
+ "Medium": "Ink on paper",
+ "Dimensions": [
+  "H. 11, W. 9 inches",
+  "(27.9 x 22.9 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Anonymous Gift, 1966",
+ "Accession Number": "66.233.2",
+ "Who": "Robert Motherwell",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Abstract Expressionism",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210009679,
+ "related-artworks": [
+  210009680,
+  210009684,
+  210009685,
+  210009675,
+  210009676
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009679"
+  }
+ }
+}

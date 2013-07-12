@@ -1,0 +1,64 @@
+{
+ "Stock maker": "Elias Becker (German, Augsburg, recorded 1633–74)",
+ "Date": "ca. 1640–50",
+ "Culture": "German, Munich and Augsburg",
+ "Medium": "Steel, chiseled, blued, and gilt; fruitwood, inlaid with engraved staghorn and bone",
+ "Dimensions": [
+  "Caliber, .46 in. (11.68 mm)",
+  "Weight, 7 lb. 6 oz. (3350 g)",
+  "Length, 41 7/8 in. (106.35 cm)",
+  "Barrel length, 30 9/16 in. (77.62 cm)"
+ ],
+ "Classification": "Firearms",
+ "Credit Line": "Rogers Fund, 1904",
+ "Accession Number": "04.3.180",
+ "Who": [
+  "Caspar Spät",
+  "Elias Becker"
+ ],
+ "What": [
+  "Metal",
+  "Engraving",
+  "Arms",
+  "Gilt",
+  "Wood",
+  "Iron and iron alloy",
+  "Bone",
+  "Iron alloy",
+  "Steel",
+  "Firearms",
+  "Artillery",
+  "Fruitwood",
+  "Rifles"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Augsburg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40000160,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/DP273708.jpg",
+ "related-artworks": [
+  40001554,
+  40000580,
+  40000581,
+  40003435
+ ],
+ "Provenance": [
+  "Ex. coll.: Baron",
+  "Sommeson",
+  "Saint-Seine",
+  "Sommier",
+  "Duc de Dino (J-1)."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000160"
+  }
+ }
+}

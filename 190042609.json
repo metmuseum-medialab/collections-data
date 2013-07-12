@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1875",
+ "Medium": "Albumen silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of A. Hyatt Mayor, 1967",
+ "Accession Number": "67.580.4.51",
+ "Who": "Hills  Saunders",
+ "What": [
+  "Photographs",
+  "Albumen silver prints",
+  "Card photographs",
+  "Maps",
+  "Cartes-de-visite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190042609,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/hills&saunders_51a_CDValbum.jpg",
+ "related-artworks": [
+  190042630,
+  190042608,
+  190042631,
+  190042637,
+  190042942
+ ],
+ "Provenance": [
+  "A. Hyatt Mayor"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190042609"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Period": "Yuan (1271–1368)–Ming (1368–1644) dynasty",
+ "Date": "14th–15th century",
+ "Culture": "China",
+ "Medium": "Ivory",
+ "Dimensions": "Diam. 4 9/16 in. (11.6 cm)",
+ "Classification": "Ivories",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.190a, b",
+ "What": [
+  "Bone",
+  "Ivory"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1000–1400 A.D.",
+  "China, 1400–1600 A.D.",
+  "Central and North Asia, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60006639,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/ASA9.jpg",
+ "related-artworks": [
+  60005403,
+  60006635,
+  60006651,
+  60006652,
+  60006657
+ ],
+ "Provenance": [
+  "[ John Sparks Ltd. , New York, until 1919",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60006639"
+  }
+ }
+}

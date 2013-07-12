@@ -1,0 +1,45 @@
+{
+ "Date": "16th century",
+ "Culture": "French",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 31 x W. 6 1/2 inches (78.7 x 16.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1916",
+ "Accession Number": "16.32.332",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Maniples"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120037503,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/33747.jpg",
+ "related-artworks": [
+  120044003,
+  120044007,
+  120045483,
+  120047556,
+  120037501
+ ],
+ "Provenance": [
+  "Georges Hoentschel",
+  "J. Pierpont Morgan (until 1916",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120037503"
+  }
+ }
+}

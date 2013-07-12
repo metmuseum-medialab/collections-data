@@ -1,0 +1,42 @@
+{
+ "Publisher": "Abelard-Schuman (New York, NY)",
+ "Date": "1955",
+ "Medium": "Commercial process reproductions of lithographs",
+ "Dimensions": "10 3/8 x 7 5/16 x 1/2 in. (26.3 x 18.5 x 1.3 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Merritt Mauzy, 1956",
+ "Accession Number": "56.536",
+ "Who": [
+  "Merritt Mauzey",
+  "Abelard-Schuman"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021564,
+ "related-artworks": [
+  90021563,
+  90021562,
+  90039071,
+  90039087
+ ],
+ "Provenance": [
+  "Donor: Merritt Mauzey (American, Clifton, Texas 1898–1973 Dallas, Texas)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021564"
+  }
+ }
+}

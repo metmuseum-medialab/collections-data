@@ -1,0 +1,45 @@
+{
+ "Date": "before 1735",
+ "Geography": "Nürnberg, Germany",
+ "Medium": "Wood, ivory, silver",
+ "Dimensions": "Length 567 mm, Diameter of bell 58 mm, Upper section 237 mm, Lower section 235 mm, Foot 154 mm; Detailed measurements of bore in departmental file.",
+ "Classification": "Aerophone-Reed Vibrated",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.1566",
+ "Who": "Jacob Denner",
+ "What": [
+  "Metal",
+  "Silver",
+  "Bone",
+  "Ivory",
+  "Musical instruments",
+  "Aerophones",
+  "Reeds",
+  "Reedpipes",
+  "Oboes"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Nuremberg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180013785,
+ "gallery-id": 684,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DP218083.jpg",
+ "related-artworks": [
+  180013251,
+  180018068,
+  180015237,
+  180015236
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180013785"
+  }
+ }
+}

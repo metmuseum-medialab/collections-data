@@ -1,0 +1,39 @@
+{
+ "Culture": "Japan",
+ "Medium": "Gold & paper / Carved wood mount",
+ "Dimensions": "12 3/4 x 19 in. (32.39 x 48.26 cm)",
+ "Classification": "Fans",
+ "Credit Line": "Gift of Laurent Oppenheim, Jr., in memory of Laurent and Amy Oppenheim, 1964",
+ "Accession Number": "64.273.20",
+ "What": [
+  "Metal",
+  "Costume",
+  "Paper",
+  "Gold",
+  "Fans"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60044744,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/182476.jpg",
+ "related-artworks": [
+  60007548,
+  60031805,
+  60031808,
+  60031778,
+  60006486
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044744"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "Date": "April 23, 1758",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1932",
+ "Accession Number": "32.61",
+ "Who": "Thomas Johnson",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "English Pattern Books in Eighteenth–Century America",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90019991,
+ "related-artworks": [
+  90019993,
+  90019994,
+  90032853,
+  90014914
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90019991"
+  }
+ }
+}

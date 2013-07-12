@@ -1,0 +1,39 @@
+{
+ "Date": "1921",
+ "Medium": "Crayon on paper",
+ "Dimensions": [
+  "H. 3-5/8, W. 9-7/8 inches",
+  "(9.2 x 25.1 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Scofield Thayer, 1982",
+ "Accession Number": "1984.433.232",
+ "Who": "Gaston Lachaise",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Crayons"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210003579,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1984.433.232.jpg",
+ "related-artworks": [
+  210003558,
+  210003559,
+  210003560,
+  210003567,
+  210003568
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003579"
+  }
+ }
+}

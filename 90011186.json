@@ -1,0 +1,35 @@
+{
+ "Date": "1721",
+ "Medium": "Pen and brown ink over black chalk",
+ "Dimensions": "7 1/4 x 4 1/4 in.  (18.4 x 10.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1948",
+ "Accession Number": "48.148",
+ "Who": "Anonymous, French, 18th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90011186,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/48.148(62).jpg",
+ "related-artworks": [
+  90004923,
+  90006933,
+  90006994,
+  90007003,
+  90007036
+ ],
+ "Provenance": [
+  "Hippolyte-Alexandre-Gabriel-Walter Destailleur (French, Paris, 1822–1893)(Lugt 740), Destailleur sale, May 19-23, 1896, lot 147:  \"Recueil de dessins d'ornement, de décoration et d'ameublement exécutés par des artistes français, italiens et allemands des seizième, dix-septième et dix-huitième siècles.  En un vol. pet. in-fol, veau marbré, fil., tr. rouge.\r\nLe volume comprend 85 dessins dont 50 sont dus à des artistes français (7 du XVIIe siècle, 43 du XVIIIe), 29 à des artistes italiens et 6 à des artistes allemands.  On y trouve entre autres une intéressante série de vases par Boucher, Saly, Oppenord, une série de trophées et arabesques par Cauvet, Blondel et Desrais, un joli dessin de Fr. Boucher fils, représentant une pendule.\r\nParmi les dessins d'artistes allemands citons en trois avec alphabets ornes, cartouches et frises.  Ces dessins sont accompagnes des gravures.\"",
+  "Vendor: Martin Breslauer, London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90011186"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "late 15th century",
+ "Culture": "Italian (Padua or Ravenna)",
+ "Medium": "Bronze",
+ "Dimensions": "H. 6-7/8 in (17.5 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of George Blumenthal, 1941",
+ "Accession Number": "41.100.76 ab",
+ "Who": "Severo Calzetta da Ravenna",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Padua"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013726,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/124692.jpg",
+ "related-artworks": [
+  120009948,
+  120011943,
+  120019538,
+  120023131,
+  150007957
+ ],
+ "Provenance": [
+  "George and Florence Blumenthal New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013726"
+  }
+ }
+}

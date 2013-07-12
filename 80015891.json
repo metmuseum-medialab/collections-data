@@ -1,0 +1,38 @@
+{
+ "Date": "spring/summer 1970",
+ "Culture": "American",
+ "Medium": "(a, b) synthetic; (c) silk",
+ "Dimensions": [
+  "Length at CB (a) 24 in. (61 cm)",
+  "Length at CB (b) 44 in. (111.8 cm)",
+  "Total Length (c) 107 in. (271.8 cm)"
+ ],
+ "Credit Line": "Gift of Martin F. Price, 1998",
+ "Accession Number": "1998.493.347a–c",
+ "Who": "Giorgio di Sant'Angelo",
+ "What": [
+  "Silk",
+  "Ensembles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80015891,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1998.493.347a–c_F.jpg",
+ "related-artworks": [
+  80000762,
+  80003679,
+  80015691,
+  80015711,
+  80015735
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80015891"
+  }
+ }
+}

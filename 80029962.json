@@ -1,0 +1,35 @@
+{
+ "Date": "fall/winter 1964–65",
+ "Culture": "American",
+ "Medium": "nylon",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Serendipity 3, Inc., 1978",
+ "Accession Number": "1978.76.10",
+ "Who": "Serendipity 3",
+ "What": [
+  "Plastic",
+  "Nylon"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80029962,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.76.10_F.jpg",
+ "related-artworks": [
+  80029961,
+  80008095,
+  80029959,
+  80029974,
+  80023365
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80029962"
+  }
+ }
+}

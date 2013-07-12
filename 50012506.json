@@ -1,0 +1,43 @@
+{
+ "Date": "1835–40",
+ "Geography": "Canada, Quebec",
+ "Culture": "Huron",
+ "Medium": "Birchbark, silk, moosehair",
+ "Dimensions": "H. 7 1/4 x W. 10 1/2 in. (18.4 x 26.7 cm)",
+ "Classification": "Bark-Containers",
+ "Credit Line": "Ralph T. Coe Collection, Gift of Ralph T. Coe Foundation for the Arts, 2011",
+ "Accession Number": "2011.154.91a, b",
+ "Who": "Huron",
+ "What": [
+  "Silk",
+  "Cases"
+ ],
+ "Where": [
+  "North and Central America",
+  "Canada",
+  "Quebec",
+  "Québec"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50012506,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DT262202.jpg",
+ "related-artworks": [
+  50012120,
+  50012089,
+  50012095,
+  50012290,
+  50012305
+ ],
+ "Provenance": [
+  "Ralph T. Coe, Santa Fe, NM, until (d.) 2010",
+  "Ralph T. Coe Foundation for the Arts, 2010–2011"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50012506"
+  }
+ }
+}

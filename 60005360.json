@@ -1,0 +1,38 @@
+{
+ "Date": "9th century",
+ "Culture": "India (Jammu & Kashmir, ancient kingdom of Kashmir)",
+ "Medium": "Stone",
+ "Dimensions": "H. 2 3/4 in. (7 cm); W. 6 1/4 in. (15.9 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Dr. and Mrs. Roger Stoll, 1986",
+ "Accession Number": "1986.510",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Pedestals"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Jammu and Kashmir",
+  "Jammu"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia South, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005360,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1986_510.jpg",
+ "related-artworks": [
+  60005354,
+  60005355,
+  60005204,
+  60005205,
+  60005206
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005360"
+  }
+ }
+}

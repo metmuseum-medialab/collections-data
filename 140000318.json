@@ -1,0 +1,42 @@
+{
+ "Date": "19th century",
+ "Geography": "Hungary, Budapest",
+ "Medium": "Plated base metal",
+ "Dimensions": [
+  "H. 7/8 in. (2.2 cm)",
+  "Diam. 4 7/8 in. (12.4 cm)"
+ ],
+ "Classification": "Reproductions",
+ "Credit Line": "Purchase, 1885",
+ "Accession Number": "85.12.1",
+ "What": [
+  "Metal",
+  "Bowls"
+ ],
+ "Where": [
+  "Europe",
+  "Hungary",
+  "Budapest"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140000318,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/wb-85.12.1.JPG",
+ "related-artworks": [
+  140000323,
+  140000332,
+  140002820,
+  140002818,
+  140002819
+ ],
+ "Provenance": [
+  "Museum of Decorative Arts, Budapest(until 1885)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140000318"
+  }
+ }
+}

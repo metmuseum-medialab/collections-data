@@ -1,0 +1,54 @@
+{
+ "Date": "7th century",
+ "Culture": "Frankish",
+ "Medium": "Iron, silver inlay",
+ "Dimensions": "Overall 2 1/4 x 2 1/16 x 7/16 in. (5.7 x 5.2 x 1.1 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.209.1",
+ "What": [
+  "Metal",
+  "Costume",
+  "Metalwork",
+  "Silver",
+  "Iron and iron alloy",
+  "Iron",
+  "Plate",
+  "Belts",
+  "Belt plates"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170009755,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/x209-1s1.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/md/original/x209-1s1.jpg",
+  "http://images.metmuseum.org/CRDImages/md/original/x209-1s2.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/170004776"
+   },
+   {
+    "href": "http://scrapi.org/object/170004937"
+   },
+   {
+    "href": "http://scrapi.org/object/170004921"
+   },
+   {
+    "href": "http://scrapi.org/object/170004940"
+   },
+   {
+    "href": "http://scrapi.org/object/170004922"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/170009755"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/170009755"
+  }
+ }
+}

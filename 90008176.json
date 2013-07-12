@@ -1,0 +1,39 @@
+{
+ "Date": "19th–20th century",
+ "Medium": "Graphite and colored chalk",
+ "Dimensions": "Overall 9 13/16 x 14 3/4 in. (25 x 37.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.97.24",
+ "Who": "Sir David Young Cameron",
+ "What": [
+  "Drawings",
+  "Graphite",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1900 A.D.–present",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90008176,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800902.jpg",
+ "related-artworks": [
+  90008171,
+  90008184,
+  90008105,
+  90008166,
+  90008168
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90008176"
+  }
+ }
+}

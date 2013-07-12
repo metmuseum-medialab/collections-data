@@ -1,0 +1,45 @@
+{
+ "Artist": "Robert Adamson (Scottish, St. Andrews 1821–1848 St. Andrews)",
+ "Date": "1843–47",
+ "Medium": "Salted paper print from paper negative",
+ "Classification": "Photographs",
+ "Credit Line": "Harris Brisbane Dick Fund, 1937",
+ "Accession Number": "37.98.1.94",
+ "Who": [
+  "David Octavius Hill",
+  "Robert Adamson"
+ ],
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "David Octavius Hill (1802–1870) and Robert Adamson (1821–1848) (1840s)",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190020301,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP140528.jpg",
+ "related-artworks": [
+  190013705,
+  190014446,
+  190014445,
+  190014935,
+  190014936
+ ],
+ "Provenance": [
+  "E.P. Goldschmidt, Ltd."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190020301"
+  }
+ }
+}

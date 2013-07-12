@@ -1,0 +1,60 @@
+{
+ "Date": "1830–70",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Pressed glass",
+ "Dimensions": "H. 6 3/16 in. (15.7 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Emily Winthrop Miles, 1946",
+ "Accession Number": "46.140.168",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Drinking glasses",
+  "Pressed glass",
+  "Goblets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10004215,
+ "gallery-id": 774,
+ "related-artworks": [
+  "http://scrapi.org/object/10004219",
+  "http://scrapi.org/object/10004192",
+  "http://scrapi.org/object/10004227",
+  "http://scrapi.org/object/10004229",
+  "http://scrapi.org/object/10004212"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Mrs. Emily Winthrop Miles, New York, until 1946"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10004219"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10004192"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10004227"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10004229"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10004212"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10004215"
+  }
+ }
+}

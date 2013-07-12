@@ -1,0 +1,62 @@
+{
+ "Date": "1581–1644",
+ "Medium": "Pen and brown ink, over traces of leadpoint or black chalk, on off-white laid paper; framing outlines in pen and darker brown ink",
+ "Dimensions": "7-1/2 x 11-3/16 in.  (19.1 x 28.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Gifts from Mrs. Gardner Cassatt, Mrs. Francis Ormond, Bessie Potter Vonnoh, William Benton, Donald Silve, William M. Ivins, Jr., and Mrs. Harry Payne Whitney, and other gifts, bequests, and funds, by exchange, 1998",
+ "Accession Number": "1998.255",
+ "Who": "Bernardo Strozzi",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Chalk",
+  "Laid paper"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002990,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811773.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90002958",
+  "http://scrapi.org/object/90008729",
+  "http://scrapi.org/object/90002959",
+  "http://scrapi.org/object/110002216",
+  "http://scrapi.org/object/110002215"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP811773.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/265686.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/1998.255.jpg"
+ ],
+ "Provenance": [
+  "Venetian collector, Unidentified (Italian, 1700–1800)",
+  "Christie's, London Sale, London, July 7, 1998, lot 57 - as by the circle of Jacopo d'Antonio Negretti \"Palma Il Vecchio\""
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002958"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90008729"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002959"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/110002216"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/110002215"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90002990"
+  }
+ }
+}

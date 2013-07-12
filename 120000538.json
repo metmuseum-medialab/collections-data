@@ -1,0 +1,40 @@
+{
+ "Date": "1859–75",
+ "Culture": "Italian, Venice (Murano)",
+ "Medium": "Glass",
+ "Dimensions": "H. c. 20 in.  (50.8 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Henry G. Marquand, 1883",
+ "Accession Number": "83.7.70",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Vases"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000538,
+ "related-artworks": [
+  120000403,
+  120000203,
+  120000255,
+  120000256,
+  120000241
+ ],
+ "Provenance": [
+  "Henry G. Marquand until 1883"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000538"
+  }
+ }
+}

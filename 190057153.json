@@ -1,0 +1,43 @@
+{
+ "Date": "2011",
+ "Medium": "Inkjet print",
+ "Dimensions": [
+  "Image 40 × 60 cm (15 3/4 × 23 5/8 in.)",
+  "Sheet 52.1 × 72.1 cm (20 1/2 × 28 3/8 in.)",
+  "Frame 73.7 × 53.3 cm (29 × 21 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Purchase,Jane Watkins Gift, 2013",
+ "Accession Number": "2013.39.13",
+ "Who": "Fazal Sheikh",
+ "What": [
+  "Prints",
+  "Photographs",
+  "Inkjet prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190057153,
+ "related-artworks": [
+  190042992,
+  190043000,
+  190042990,
+  190042989,
+  190042994
+ ],
+ "Provenance": [
+  "Fazal Sheikh",
+  "[Pace/MacGill Gallery, New York]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190057153"
+  }
+ }
+}

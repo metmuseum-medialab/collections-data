@@ -1,0 +1,44 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Geography": "Papua New Guinea, Admiralty Islands, Manus Province",
+ "Culture": "Usiai Island",
+ "Medium": "Gourd",
+ "Dimensions": "H. 8 1/8 x Diam. 3 5/8 in. (20.6 x 9.2 cm)",
+ "Classification": "Gourd-Containers",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.1789",
+ "What": [
+  "Gourd",
+  "Lime"
+ ],
+ "Where": [
+  "Oceania",
+  "Papua New Guinea",
+  "Manus",
+  "Admiralty Islands"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Melanesia, 1800–1900 A.D.",
+  "Melanesia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50006668,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1979.206.1789_a.JPG",
+ "related-artworks": [
+  50006311,
+  50007527,
+  50003761,
+  50003774,
+  50006277
+ ],
+ "Provenance": [
+  "Dr. W. R. Marshall, Massapequa, NY, until 1968",
+  "Nelson A. Rockefeller, New York, 1968, on loan to The Museum of Primitive Art, New York, 1968–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50006668"
+  }
+ }
+}

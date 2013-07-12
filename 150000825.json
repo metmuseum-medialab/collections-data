@@ -1,0 +1,49 @@
+{
+ "Date": "mid-18th–early 19th century",
+ "Medium": "Pen and brown ink, brown wash, over black chalk",
+ "Dimensions": "7 3/8 x 11 in.  (18.7 x 28 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.529",
+ "Who": "Giovanni Domenico Tiepolo",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk",
+  "Pen",
+  "Black chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Siena"
+ ],
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": [
+  "The Grand Tour",
+  "Venice's Principal Muslim Trading Partners the Mamluks, the Ottomans, and the Safavids",
+  "Lovers in Italian Mythological Prints",
+  "Venice in the Eighteenth Century",
+  "Commedia dell'arte",
+  "Florence and Central Italy, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 150000825,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-529.jpg",
+ "related-artworks": [
+  150000778,
+  150000797,
+  150000811,
+  150000813,
+  150000816
+ ],
+ "Provenance": [
+  "Carlo Broglio, Paris."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150000825"
+  }
+ }
+}

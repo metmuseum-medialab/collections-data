@@ -1,0 +1,36 @@
+{
+ "Date": "1980–84",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": "Length at CB 23 1/2 in. (59.7 cm)",
+ "Credit Line": "Gift of Steven Schnipper, 1994",
+ "Accession Number": "1994.34.1",
+ "Who": "Perry Ellis",
+ "What": [
+  "Costume",
+  "Wool",
+  "Sweaters"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80014259,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1994.34.1.jpg",
+ "related-artworks": [
+  80000879,
+  80001432,
+  80014260,
+  80014261,
+  80017738
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80014259"
+  }
+ }
+}

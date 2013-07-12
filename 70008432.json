@@ -1,0 +1,41 @@
+{
+ "Date": "first half 15th century",
+ "Geography": "Made in Murcia, Spain",
+ "Culture": "Spanish",
+ "Medium": "Wool",
+ "Dimensions": "Overall 122 x 66 1/2 in. (309.9 x 168.9 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "The Cloisters Collection, 1953",
+ "Accession Number": "53.79",
+ "What": [
+  "Textiles",
+  "Wool",
+  "Rugs"
+ ],
+ "Where": [
+  "Europe",
+  "Spain",
+  "Murcia"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70008432,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/DP169909.jpg",
+ "related-artworks": [
+  70008559,
+  70008532,
+  70006514,
+  70008421,
+  70008404
+ ],
+ "Provenance": [
+  "Maison Jansen (until 1953)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70008432"
+  }
+ }
+}

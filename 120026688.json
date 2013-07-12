@@ -1,0 +1,41 @@
+{
+ "Date": "18th century",
+ "Culture": "Dutch",
+ "Medium": "Paper, feathers, silk, ivory and glass",
+ "Dimensions": "10 3/8 x 19 3/4 in.  (26.4 x 50.2 cm)",
+ "Classification": "Fans",
+ "Credit Line": "Gift of Mrs. William Randolph Hearst, 1963",
+ "Accession Number": "63.90.89",
+ "What": [
+  "Costume",
+  "Silk",
+  "Paper",
+  "Glass",
+  "Bone",
+  "Ivory",
+  "Fans",
+  "Feather"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120026688,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/179095.jpg",
+ "related-artworks": [
+  120026333,
+  120026617,
+  120026426,
+  120026752,
+  120026522
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120026688"
+  }
+ }
+}

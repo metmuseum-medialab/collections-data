@@ -1,0 +1,37 @@
+{
+ "Date": "1515–50",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 3 1/2 x 2 3/16 in. (8.9 x 5.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Edwin De Turck Bechtel, 1949",
+ "Accession Number": "49.132.75",
+ "Who": "Sebald Beham",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90064335,
+ "related-artworks": [
+  90003257,
+  90003289,
+  90003291,
+  90003292,
+  90003293
+ ],
+ "Provenance": [
+  "Donor: Edwin De Turck Bechtel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90064335"
+  }
+ }
+}

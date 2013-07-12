@@ -1,0 +1,53 @@
+{
+ "Date": "after 1784",
+ "Culture": "British",
+ "Medium": "wood, polychromed copper, gilt bronze",
+ "Dimensions": "Each 90 x 43-1/2 in.  (228.6 x 110.5 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of Mrs. John D. Rockefeller, Jr., 1962",
+ "Accession Number": "62.37.1, .2",
+ "Who": "Angelica Kauffmann",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Gilt",
+  "Wood",
+  "Copper",
+  "Plate",
+  "Woodwork",
+  "Ormolu",
+  "Polychromy",
+  "Doors"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1600–1800 A.D.",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120025969,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES1869.jpg",
+ "related-artworks": [
+  120006182,
+  90010770,
+  90027465,
+  90047296,
+  90050089
+ ],
+ "Provenance": [
+  "Mrs John D. Rockefeller Jr. (until 1962",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120025969"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Designer": "Yves Saint Laurent (French (born Algeria) Oran 1936–2008 Paris)",
+ "Date": "early 1970s",
+ "Culture": "French",
+ "Medium": "wool",
+ "Dimensions": "Length at CB 44 in. (111.8 cm)",
+ "Credit Line": "Gift of Bernice Chrysler Garbisch, 1977",
+ "Accession Number": "1977.59.5",
+ "Who": [
+  "Yves Saint Laurent",
+  "Yves Saint Laurent, Paris"
+ ],
+ "What": [
+  "Costume",
+  "Wool",
+  "Coats"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80023620,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.59.5_F.jpg",
+ "related-artworks": [
+  80023623,
+  80054431,
+  80064388,
+  80074151,
+  80000673
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80023620"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Date": "12th–15th century",
+ "Geography": "Peru",
+ "Culture": "Chimú",
+ "Medium": "Camelid hair, cotton",
+ "Dimensions": [
+  "Overall 23 x 27 in. (58.42 x 68.58 cm)",
+  "Other 23 in. (58.42 cm)"
+ ],
+ "Classification": "Textiles-Woven",
+ "Credit Line": "Rogers Fund, 1928",
+ "Accession Number": "28.171.5",
+ "Who": "Chimú",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Woven",
+  "Panels",
+  "Hair",
+  "Camelidae"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1400–1600 A.D.",
+  "Central and Southern Andes, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50000509,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/72154.jpg",
+ "related-artworks": [
+  50000476,
+  50000858,
+  50002637,
+  50005457,
+  50005459
+ ],
+ "Provenance": [
+  "[H. A. Elsberg Inc., New York, until 1928]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000509"
+  }
+ }
+}

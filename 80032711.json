@@ -1,0 +1,32 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Culture": "European",
+ "Medium": "glass",
+ "Dimensions": "Length 22 in. (55.9 cm)",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.644",
+ "What": [
+  "Costume",
+  "Glass",
+  "Jewelry",
+  "Necklaces"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "id": 80032711,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/X644.jpg",
+ "related-artworks": [
+  80012712,
+  80024467,
+  80038549,
+  80048036,
+  80048048
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80032711"
+  }
+ }
+}

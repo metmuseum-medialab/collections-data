@@ -1,0 +1,36 @@
+{
+ "Culture": "East Greek/Sardis, Lydian",
+ "Medium": "Terracotta",
+ "Dimensions": "Overall 2 3/8 x 2 1/16in. (6 x 5.3cm)",
+ "Classification": "Vases",
+ "Credit Line": "Gift of The American Society for the Excavation of Sardis, 1926",
+ "Accession Number": "26.199.129",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013187,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP21703.jpg",
+ "related-artworks": [
+  130001428,
+  130007137,
+  130007778,
+  130008025,
+  130008085
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013187"
+  }
+ }
+}

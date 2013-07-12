@@ -1,0 +1,39 @@
+{
+ "Artist": "Supposedly designed by William Hogarth (British, London 1697–1764 London)",
+ "Date": "ca. 1790",
+ "Medium": "Etching and engraving",
+ "Dimensions": "Sheet 3 3/16 x 2 13/16 in. (8.1 x 7.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.1470",
+ "Who": [
+  "William Hogarth",
+  "Inigo Barlow"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90093017,
+ "related-artworks": [
+  90049367,
+  90067192,
+  90067193,
+  90067184,
+  90067186
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90093017"
+  }
+ }
+}

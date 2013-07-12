@@ -1,0 +1,41 @@
+{
+ "Publisher": "Published by Experiments in Art and Technology (New York, NY)",
+ "Date": "1973",
+ "Medium": "Silkscreen",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Robert Rauschenberg, 1976",
+ "Accession Number": "1976.661",
+ "Who": [
+  "Jim Dine",
+  "Experiments in Art  Technology"
+ ],
+ "What": [
+  "Prints",
+  "Printing",
+  "Silkscreen"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021034,
+ "related-artworks": [
+  90049530,
+  90049571,
+  90049534,
+  210014449,
+  90008041
+ ],
+ "Provenance": [
+  "Donor: Robert Rauschenberg (American, Port Arthur, Texas 1925–2008 Captiva Island, Florida)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021034"
+  }
+ }
+}

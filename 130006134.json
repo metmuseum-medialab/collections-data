@@ -1,0 +1,35 @@
+{
+ "Period": "Imperial",
+ "Date": "mid-1st–early 2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": "H. 5 3/16 in. (13.2 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1274",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "id": 130006134,
+ "related-artworks": [
+  130000053,
+  130000078,
+  130000055,
+  130000063,
+  130000057
+ ],
+ "Description": "Translucent light blue with green tinge.Flaring, uneven rim; cylindrical neck with tooled horizontal indent around base; tubular, conical body, 2/3 of total height, curving in to small, thick, flattened bottom.Intact; many bubbles and blowing striations; pitting, dulling, and iridescence on exterior, patches of soil encrustation and weathering on interior.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006134"
+  }
+ }
+}

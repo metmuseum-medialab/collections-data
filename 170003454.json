@@ -1,0 +1,54 @@
+{
+ "Date": "1501–2",
+ "Geography": "Made in Verona, Italy",
+ "Culture": "Italian",
+ "Medium": "Tempera, ink, and gold on parchment",
+ "Dimensions": [
+  "Overall 9 1/16 x 7 in. (23 x 17.8 cm)",
+  "Illumination 4 x 4 1/8 in. (10.2 x 10.5 cm)",
+  "Mat size 19 1/4 x 14 1/4 in. (48.9 x 36.2 cm)"
+ ],
+ "Classification": "Manuscripts & Illuminations",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.56.4",
+ "Who": "Girolamo dai Libri",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paintings",
+  "Gold",
+  "Manuscripts",
+  "Tempera",
+  "Parchment",
+  "Illuminations",
+  "Psalters"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Verona"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Art of the Book in the Middle Ages",
+  "Florence and Central Italy, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 170003454,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf12-56-4s1.jpg",
+ "related-artworks": [
+  170003453,
+  170008570,
+  110000960
+ ],
+ "Provenance": [
+  "comte Luigi Balladoro of Verona(until 1888)",
+  "[ Jean Paul Richter, London and Florence (sold 1912)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170003454"
+  }
+ }
+}

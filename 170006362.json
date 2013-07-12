@@ -1,0 +1,42 @@
+{
+ "Date": "13th century",
+ "Geography": "Made in Angers, France",
+ "Culture": "French",
+ "Medium": "Pot metal glass",
+ "Dimensions": "Overall 2 9/16 x 2 3/16 in. (6.5 x 5.5 cm)",
+ "Classification": "Glass-Stained",
+ "Credit Line": "Gift of Dr. Bashford Dean, 1923",
+ "Accession Number": "23.229.2-10",
+ "What": [
+  "Metal",
+  "Glass",
+  "Fragments",
+  "Stained glass"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Angers"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170006362,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cdi23-229-2-10.jpg",
+ "related-artworks": [
+  170005902,
+  170005913,
+  170005912,
+  170005903,
+  170005924
+ ],
+ "Provenance": [
+  "Bashford Dean, Riverdale, NY (until 1923)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006362"
+  }
+ }
+}

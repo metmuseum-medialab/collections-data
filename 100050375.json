@@ -1,0 +1,36 @@
+{
+ "Period": "Paleolithic to Neolithic",
+ "Date": "ca. 90,000–5,000 B.C.",
+ "Geography": "From Egypt, Western Desert; Kharga Oasis, Beledeh District, W and NW of Christian necropolis, surface find, MMA 1908–1910",
+ "Medium": "Flint",
+ "Dimensions": "h. 4 x w. 3.9 x th. 0.9 cm (1 9/16 x 1 9/16 x 3/8 in.)",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.10.12e",
+ "What": [
+  "Arrowheads",
+  "Flint"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "id": 100050375,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/25.10.12e_EGDP011477.jpg",
+ "related-artworks": [
+  100002369,
+  100002370,
+  100002371,
+  100002372,
+  100003783
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1908-1910. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100050375"
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "Medium": "Silver",
+ "Dimensions": "Other 5/8 × 5/16 × 3 5/8 in. (1.5 × 0.8 × 9.3 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.3686",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Gold",
+  "Hairpins"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130003575,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/sf74513686.jpg",
+ "related-artworks": [
+  130003574,
+  130009502,
+  130003057,
+  130003063,
+  130003068
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130003575"
+  }
+ }
+}

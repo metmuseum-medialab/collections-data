@@ -1,0 +1,37 @@
+{
+ "Date": "1900s–1910s",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "11.0 x 19.2 cm. (4  5/16  x 7  9/16  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Mrs. Jackson Burke Gift, 1981",
+ "Accession Number": "1981.1010.41",
+ "Who": "Adolf de Meyer",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 190014650,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP136246.jpg",
+ "related-artworks": [
+  190012856,
+  190014591,
+  190014627,
+  190014631,
+  190014620
+ ],
+ "Provenance": [
+  "Daniel Wolf"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190014650"
+  }
+ }
+}

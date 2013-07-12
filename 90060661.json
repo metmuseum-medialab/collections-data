@@ -1,0 +1,28 @@
+{
+ "Date": "19th century",
+ "Medium": "Graphite",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.632.181",
+ "Who": "Anonymous, British, 19th century",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90060661,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP806475.jpg",
+ "related-artworks": [
+  90032313,
+  90032809,
+  90033702,
+  90033704,
+  90033713
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060661"
+  }
+ }
+}

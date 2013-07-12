@@ -1,0 +1,45 @@
+{
+ "Date": "probably modeled ca. 1895",
+ "Culture": "French",
+ "Medium": "Cast plaster",
+ "Dimensions": "L. 13-1/2 in. (34.3 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of the sculptor, 1912",
+ "Accession Number": "12.12.8",
+ "Who": "Auguste Rodin",
+ "What": [
+  "Sculpture",
+  "Plaster"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Art and Photography The 1980s",
+  "Edward Steichen (1879–1973) The Photo–Secession Years",
+  "Auguste Rodin (1840–1917)",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120006478,
+ "gallery-id": 800,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/11981.jpg",
+ "related-artworks": [
+  120006471,
+  120006472,
+  120006473,
+  120006474,
+  120006475
+ ],
+ "Provenance": [
+  "Auguste Rodin (until 1912",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006478"
+  }
+ }
+}

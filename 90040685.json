@@ -1,0 +1,54 @@
+{
+ "Artist": "After Rosso Fiorentino (Italian, Florence 1494–1540 Fontainebleau)",
+ "Date": "1526",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 8 1/4 x 4 1/4 in. (20.9 x 10.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.97.227",
+ "Who": [
+  "Rosso Fiorentino",
+  "Giovanni Jacopo Caraglio"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90040685,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP830914.jpg",
+ "Provenance": [
+  "Graphische Sammlung Albertina"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90025189"
+   },
+   {
+    "href": "http://scrapi.org/object/90027943"
+   },
+   {
+    "href": "http://scrapi.org/object/90028082"
+   },
+   {
+    "href": "http://scrapi.org/object/90032373"
+   },
+   {
+    "href": "http://scrapi.org/object/90032426"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90040685"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90040685"
+  }
+ }
+}

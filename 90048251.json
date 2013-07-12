@@ -1,0 +1,41 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1935–43",
+ "Medium": "Engraving",
+ "Dimensions": "plate 6 x 4 1/2 in. (15.2 x 11.4 cm) sheet: 9 x 6 1/2 in. (22.9 x 16.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, Board of Education, Cleveland, Ohio, 1943",
+ "Accession Number": "43.29.40",
+ "Who": [
+  "WPA",
+  "LeRoy Walter Flint"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90048251,
+ "related-artworks": [
+  90048245,
+  90048250,
+  90048246,
+  90048247,
+  90048248
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90048251"
+  }
+ }
+}

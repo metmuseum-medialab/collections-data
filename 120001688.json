@@ -1,0 +1,39 @@
+{
+ "Date": "17th century",
+ "Culture": "German",
+ "Medium": "Steel",
+ "Dimensions": "L. 13 3/8 in. (34 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of R. Stuyvesant, 1891",
+ "Accession Number": "91.16.84",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Knives"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001688,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/37260.jpg",
+ "related-artworks": [
+  120001685,
+  120001675,
+  120001845,
+  120001860,
+  120001899
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001688"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "1700–1800",
+ "Medium": "Wrought iron",
+ "Dimensions": "8 5/8 x 3 7/8 in. (21.9 x 9.8 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Mrs. J. Insley Blair, 1949",
+ "Accession Number": "49.117.49",
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Wrought iron",
+  "Hinges"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10004438,
+ "gallery-id": 749,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/146147.jpg",
+ "related-artworks": [
+  10003451,
+  10003452,
+  10004431,
+  10004432,
+  10004409
+ ],
+ "Provenance": [
+  "Mrs. J. Insley Blair, Tuxedo Park, New York, until 1949"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10004438"
+  }
+ }
+}

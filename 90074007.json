@@ -1,0 +1,44 @@
+{
+ "Publisher": "John & Josiah Boydell (London)",
+ "Date": "May 29, 1790",
+ "Medium": "Etching and engraving; fourth state of four",
+ "Dimensions": "sheet 9 15/16 x 12 5/16 in. (25.3 x 31.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1932",
+ "Accession Number": "32.35",
+ "Who": [
+  "William Hogarth",
+  "John & Josiah Boydell"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Kilt",
+  "Portrait Painting in England, 1600–1800",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90074007,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP825184.jpg",
+ "related-artworks": [
+  90036163,
+  90037738,
+  90049367,
+  90049368,
+  90049369
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90074007"
+  }
+ }
+}

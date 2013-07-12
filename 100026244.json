@@ -1,0 +1,38 @@
+{
+ "Period": "New Kingdom, Amarna Period",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Akhenaten",
+ "Date": "ca. 1353–1336 B.C.",
+ "Geography": "Country of Origin Egypt, Middle Egypt, el-Amarna (Akhetaten); inc. el-Hagg Qandil, Private houses in the town, Petrie/Carter 1891–1892",
+ "Medium": "Faience",
+ "Dimensions": "l. 4.2 cm (1 5/8 in.)",
+ "Credit Line": "Gift of Edward S. Harkness, 1921",
+ "Accession Number": "21.9.420",
+ "What": "Faience",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Amarna"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100026244,
+ "related-artworks": [
+  100005168,
+  100008113,
+  100013274,
+  100016541,
+  100019840
+ ],
+ "Provenance": [
+  "Petrie excavations 1891–1892. Acquired by Petrie in the division of finds. Acquired by Lord Amherst for his support. Purchased by the Museum at the Amherst Sale, Sotheby's, 1921."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100026244"
+  }
+ }
+}

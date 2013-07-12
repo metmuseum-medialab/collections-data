@@ -1,0 +1,50 @@
+{
+ "Printer": "Printed by Ernest Haskell (American, Woodstock, Connecticut 1876–1925 West Point, Maine)",
+ "Publisher": "Alfred Stieglitz (American, Hoboken, New Jersey 1864–1946 New York)",
+ "Date": "1906",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 7 13/16 x 5 7/16 in. (19.8 x 13.8 cm)",
+  "sheet 10 x 7 3/16 in. (25.4 x 18.3 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Alfred Stieglitz Collection, 1949",
+ "Accession Number": "49.55.116",
+ "Who": [
+  "Alfred Stieglitz",
+  "John Marin",
+  "Ernest Haskell"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "Georgia O'Keeffe (1887–1986)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90040152,
+ "related-artworks": [
+  90027885,
+  90038412,
+  90040038,
+  90040039,
+  90040041
+ ],
+ "Provenance": [
+  "Donor: The Estate of Alfred Stieglitz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90040152"
+  }
+ }
+}

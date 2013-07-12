@@ -1,0 +1,42 @@
+{
+ "Period": "Mid-Imperial",
+ "Date": "2nd–3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": [
+  "H. 2 1/8 in. (5.4 cm)",
+  "Diam. 4 x 2 1/8 in. (10.2 x 5.4 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.267",
+ "What": [
+  "Glass",
+  "Bowls"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130000318,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP157915.jpg",
+ "related-artworks": [
+  130000298,
+  130000329,
+  130000305,
+  130000308,
+  130000306
+ ],
+ "Description": "Colorless with pale green tingeTubular rim, folded over and in; straight sides to body, flaring upwards; integral tubular base ring, flaring downwards with rounded bottom edge; thick, pushed-in bottom, slightly concave with traces of pontil scar.Intact; pinprick bubbles and blowing striations; some dulling and faint iridescence; patches of creamy brown and black weathering.",
+ "Provenance": [
+  "From Cyprus, said to be from a tomb at Idalion (modern Dali)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130000318"
+  }
+ }
+}

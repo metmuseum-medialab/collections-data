@@ -1,0 +1,41 @@
+{
+ "Engraver": "Engraved by Augustin Foin (French, 1726–after 1759)",
+ "Publisher": "Published by Chereau (French)",
+ "Date": "[1788 ?]",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 16 1/2 x 12 13/16 x 13/16 in. (41.9 x 32.6 x 2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "22.84.3",
+ "Who": [
+  "Chereau",
+  "Jean François Forty",
+  "Augustin Foin",
+  "C. Colinet"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017605,
+ "related-artworks": [
+  90017603,
+  90017606,
+  90021187,
+  90021188,
+  90002371
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017605"
+  }
+ }
+}

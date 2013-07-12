@@ -1,0 +1,36 @@
+{
+ "Date": "17th century",
+ "Medium": "Etching; first state of three",
+ "Dimensions": "sheet 5 11/16 x 9 15/16 in. (14.5 x 25.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.4327",
+ "Who": "David Teniers the Younger",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Genre Painting in Northern Europe",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "id": 90049946,
+ "related-artworks": [
+  90049930,
+  90049932,
+  90049933,
+  90049934,
+  90049935
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90049946"
+  }
+ }
+}

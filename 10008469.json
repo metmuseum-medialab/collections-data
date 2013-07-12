@@ -1,0 +1,53 @@
+{
+ "Date": "1763",
+ "Geography": "New England, Boston, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": [
+  "Overall 8 1/4 x 7 1/4 in. (21 x 18.4 cm); 29 oz. 9 oz. (915.2 g)",
+  "Lip Diam. 4 1/2 in. (11.4 cm)",
+  "Base Diam. 5 3/8 in. (13.7 cm)"
+ ],
+ "Classification": "Silver",
+ "Credit Line": "Gift of Charles K. Davis, 1946",
+ "Accession Number": "46.171.2",
+ "Who": "Benjamin Burt",
+ "What": [
+  "Metal",
+  "Silver",
+  "Drinking vessels",
+  "Tankards"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Boston"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Coffee, Tea, and Chocolate in Early Colonial America",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10008469,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP104538.jpg",
+ "related-artworks": [
+  10008485,
+  10008470,
+  10002718,
+  10002719,
+  10006838
+ ],
+ "Provenance": [
+  "John Derby, Salem, Massachusetts, from 1763",
+  "Charles K. Davis, Fairfield, Connecticut, until 1946"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10008469"
+  }
+ }
+}

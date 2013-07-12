@@ -1,0 +1,41 @@
+{
+ "Date": "1837–1911",
+ "Medium": "Graphite on white paper",
+ "Dimensions": "14 7/16 x 9 in.  (36.7 x 22.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of the artist, 1892",
+ "Accession Number": "92.13.2",
+ "Who": "Alphonse Legros",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90004635,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP807239.jpg",
+ "related-artworks": [
+  90004641,
+  90004637,
+  90004642,
+  90004693,
+  90004694
+ ],
+ "Provenance": [
+  "Donor: Alphonse Legros (French, Dijon 1837–1911 Watford, Hertfordshire)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90004635"
+  }
+ }
+}

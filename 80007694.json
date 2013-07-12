@@ -1,0 +1,33 @@
+{
+ "Date": "1800–1948",
+ "Culture": "Indian",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 54 in. (137.2 cm)",
+ "Credit Line": "Purchase, 1948",
+ "Accession Number": "C.I.48.28.3",
+ "What": "Cotton",
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia and the Himalayan Region, 1800–1900 A.D.",
+  "South Asia and the Himalayan Region, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80007694,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI48.28.3_F.jpg",
+ "related-artworks": [
+  80001149,
+  80007679,
+  80007681,
+  80007689,
+  80007692
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007694"
+  }
+ }
+}

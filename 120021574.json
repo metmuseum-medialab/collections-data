@@ -1,0 +1,46 @@
+{
+ "Modeler": "Johann Joachim Kändler (German, Fischbach 1706–1775 Meissen)",
+ "Date": "ca. 1735",
+ "Culture": "German (Meissen)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 7-1/8 in. (18.1 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Irwin Untermyer, 1973",
+ "Accession Number": "1974.28.131",
+ "Who": [
+  "Meissen Manufactory",
+  "Johann Joachim Kändler"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Teapots"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Saxony",
+  "Meissen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021574,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/202207.jpg",
+ "related-artworks": [
+  120002907,
+  120003037,
+  120003045,
+  120003117,
+  120007445
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021574"
+  }
+ }
+}

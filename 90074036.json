@@ -1,0 +1,42 @@
+{
+ "Date": "18th century",
+ "Medium": "Etching",
+ "Dimensions": [
+  "sheet 7 3/16 x 9 3/8 in. (18.3 x 23.8 cm)",
+  "plate 5 7/8 x 7 1/2 in. (14.9 x 19 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.72",
+ "Who": "Jean Claude Richard, Abbé de Saint-Non",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90074036,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP829065.jpg",
+ "related-artworks": [
+  90011446,
+  90042004,
+  90042007,
+  90042014,
+  90060264
+ ],
+ "Provenance": [
+  "Phyllis D. Massar",
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90074036"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Artist": "Engraved by Philips Galle (Netherlandish, Haarlem 1537–1612 Antwerp)",
+ "Publisher": "Published by Philips Galle (Netherlandish, Haarlem 1537–1612 Antwerp)",
+ "Author": "Written by Hugo Favolius (Netherlandish, 16th century)",
+ "Date": "1581",
+ "Medium": "Engraving; third state",
+ "Dimensions": "plate 5 1/4 x 3 1/4 in. (13.4 x 8.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.601.20",
+ "Who": [
+  "Philips Galle",
+  "Hugo Favolius"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90041576,
+ "related-artworks": [
+  90025570,
+  90039321,
+  90041491,
+  90041474,
+  90041492
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90041576"
+  }
+ }
+}

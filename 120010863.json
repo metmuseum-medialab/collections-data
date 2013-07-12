@@ -1,0 +1,41 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "Italian, Venice (Murano)",
+ "Medium": "Glass",
+ "Dimensions": "H. 2 1/2 in.  (6.4 cm); Diam. 3 1/4 in. (8.3 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Munsey Fund, 1927",
+ "Accession Number": "27.185.272",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Beakers"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010863,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/69419.jpg",
+ "related-artworks": [
+  120000214,
+  120023426,
+  120000197,
+  120001597,
+  120001599
+ ],
+ "Provenance": [
+  "Jacques Mühsam (until 1927)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120010863"
+  }
+ }
+}

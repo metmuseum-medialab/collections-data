@@ -1,0 +1,47 @@
+{
+ "Designer": "Karl Lagerfeld (French, born Hamburg, 1938)",
+ "Date": "late 1990s",
+ "Culture": "French",
+ "Medium": "a,b) leather, metal",
+ "Dimensions": "a,b) Heel to Toe 8 1/2 in. (21.6 cm)",
+ "Credit Line": "Gift of Barbara R. Kaplan, 2003",
+ "Accession Number": "2003.203.3a, b",
+ "Who": [
+  "House of Chanel",
+  "Karl Lagerfeld"
+ ],
+ "What": [
+  "Metal",
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Sandals"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Costume in The Metropolitan Museum of Art",
+  "Dressing for the Cocktail Hour",
+  "Gabrielle \"Coco\" Chanel (1883–1971) and the House of Chanel",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80010635,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2003.203.3ab_F.jpg",
+ "related-artworks": [
+  80028524,
+  80064399,
+  80070308,
+  80002990,
+  80001592
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80010635"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Period": "Yuan dynasty (1271–1368)",
+ "Date": "14th century",
+ "Culture": "China",
+ "Medium": "Porcelain with molded decoration under transparent glaze (Jingdezhen Shufu ware)",
+ "Dimensions": "Diam. 5 1/8 in. (13 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Fletcher Fund, 1925",
+ "Accession Number": "25.222.5",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Drinking vessels",
+  "Glaze",
+  "Cups",
+  "Shufu"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000–1400 A.D.",
+  "Central and North Asia, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60009958,
+ "gallery-id": 204,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP222087.jpg",
+ "related-artworks": [
+  60020960,
+  60021557,
+  60009950,
+  60018754,
+  60018755
+ ],
+ "Description": "Briefly produced in the fourteenth century, small white porcelains such as this are often cited as an intermediary step between the Qingbai celadons and the fabled blue-and-white wares of Jingdezhen. Ceramics of this type are often catalogued as Shufu ware because the two Chinese characters shu and fu are found in the interiors. These translate as “privy council” and indicate that such ceramics were intended for official use.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009958"
+  }
+ }
+}

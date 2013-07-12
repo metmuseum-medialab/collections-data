@@ -1,0 +1,45 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "7th month tiger year 1854",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "9 3/5 x 14 3/8 in. (24.4 x 36.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1918",
+ "Accession Number": "JP633",
+ "Who": "Utagawa Hiroshige",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60001186,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP123594.jpg",
+ "related-artworks": [
+  60000553,
+  60000608,
+  60000616,
+  60000629,
+  60000626
+ ],
+ "Provenance": [
+  "Frank Lloyd Wright , Richland Center, WI and Phoenix, AZ (before 1918",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60001186"
+  }
+ }
+}

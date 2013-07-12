@@ -1,0 +1,45 @@
+{
+ "Period": "Middle Kingdom–Early New Kingdom",
+ "Dynasty": "Dynasty 12–18",
+ "Date": "ca. 1981–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Cemetery, Debris, MMA 1920–1922",
+ "Medium": "Carnelian",
+ "Dimensions": "L. 34.5 cm (13 9/16 in.)",
+ "Credit Line": "Rogers Fund and Edward S. Harkness Gift, 1922",
+ "Accession Number": "22.1.1283",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Chalcedony",
+  "Necklaces",
+  "Carnelian"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100034173,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/22.1.1283-GC-shelf.jpg",
+ "related-artworks": [
+  100001508,
+  100003488,
+  100013455,
+  100015225,
+  100015230
+ ],
+ "Description": "Thousands of beads of carnelian, amethyst, quartz, gold faience, and shell were discovered in the surface sand, or radim, of the North Pyramid at Lisht. These have been assembled into a number of necklaces, such as this example, composed primarily of large carnelian ball beads.",
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100034173"
+  }
+ }
+}

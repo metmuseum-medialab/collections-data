@@ -1,0 +1,33 @@
+{
+ "Date": "16th century",
+ "Culture": "German",
+ "Classification": "Mail",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.479",
+ "What": [
+  "Metal",
+  "Costume",
+  "Coats",
+  "Mail"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40010398,
+ "related-artworks": [
+  40012169,
+  40012176,
+  40012671,
+  40012177,
+  40001202
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40010398"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Printer": "Aubert et Cie (Paris)",
+ "Date": "November 21, 1838",
+ "Medium": "Lithograph",
+ "Dimensions": "Sheet 13 x 9 5/8 in. (33 x 24.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Michael G. Wilson, 1982",
+ "Accession Number": "1982.1174.51",
+ "Who": [
+  "Paul Gavarni [Chevalier]",
+  "Aubert et Cie"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90085419,
+ "related-artworks": [
+  90078664,
+  90084092,
+  90084107,
+  90084137,
+  90084689
+ ],
+ "Provenance": [
+  "Albert Maroni (French, 1852–1923)",
+  "Donor: Michael G. Wilson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90085419"
+  }
+ }
+}

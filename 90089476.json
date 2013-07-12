@@ -1,0 +1,45 @@
+{
+ "Artist": "After François Boucher (French, Paris 1703–1770 Paris)",
+ "Publisher": "Gabriel Huquier (French, Orléans 1695–1772 Paris)",
+ "Date": "18th century",
+ "Medium": "Etching and engraving",
+ "Dimensions": "Sheet 10 7/16 x 8 7/16 in. (26.5 x 21.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1955",
+ "Accession Number": "55.539.12",
+ "Who": [
+  "François Boucher",
+  "Gabriel Huquier",
+  "Pierre Alexandre Aveline"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90089476,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP825513.jpg",
+ "related-artworks": [
+  90013889,
+  90013890,
+  90013891,
+  90013892,
+  90013893
+ ],
+ "Provenance": [
+  "Vendor: Mrs. Charles Slatkin"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90089476"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Period": "Archaic",
+ "Date": "last quarter of 6th century B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; black-figure",
+ "Dimensions": [
+  "Overall 17 3/8in. (44.2cm)",
+  "Other (height with cover) 19 11/16in. (50cm)",
+  "Other (height without cover) 17 3/8in. (44.2cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Gift of F. W. Rhinelander, 1898",
+ "Accession Number": "98.8.9a, b",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Amphorae",
+  "Continuous curve amphorae",
+  "Amphorae type B"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130007194,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP226809.jpg",
+ "related-artworks": [
+  130007739,
+  130008432,
+  130009138,
+  130011588,
+  130011675
+ ],
+ "Description": "Obverse, chariot with godsReverse, warrior armingIt is rare for a lid to be preserved with the vase for which it was made. This is such a case, illustrating the original appearance of the amphora.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130007194"
+  }
+ }
+}

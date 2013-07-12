@@ -1,0 +1,60 @@
+{
+ "Date": "early 20th century",
+ "Culture": "China",
+ "Medium": "Hanging scroll; ink and color on paper",
+ "Dimensions": "27 1/4 x 13 1/2 in. (69.2 x 34.3 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1986",
+ "Accession Number": "1986.267.167",
+ "Who": "Hongyi",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60000322,
+ "related-artworks": [
+  "http://scrapi.org/object/60000259",
+  "http://scrapi.org/object/60000267",
+  "http://scrapi.org/object/60000299",
+  "http://scrapi.org/object/60000302",
+  "http://scrapi.org/object/60000303"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60000259"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60000267"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60000299"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60000302"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60000303"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60000322"
+  }
+ }
+}

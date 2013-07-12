@@ -1,0 +1,54 @@
+{
+ "Period": "Imperial",
+ "Culture": "Roman",
+ "Medium": "Bronze",
+ "Dimensions": "L. 11.2 cm",
+ "Classification": "Bronzes",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.49.10",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011401,
+ "gallery-id": 169,
+ "related-artworks": [
+  "http://scrapi.org/object/130011019",
+  "http://scrapi.org/object/130011103",
+  "http://scrapi.org/object/130011110",
+  "http://scrapi.org/object/130011096",
+  "http://scrapi.org/object/130011098"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130011019"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130011103"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130011110"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130011096"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130011098"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130011401"
+  }
+ }
+}

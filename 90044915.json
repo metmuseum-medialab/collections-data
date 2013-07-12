@@ -1,0 +1,43 @@
+{
+ "Date": "1969",
+ "Medium": "Etching and drypoint",
+ "Dimensions": [
+  "Plate 12 3/4 x 21 3/4 in. (32.4 x 55.2 cm)",
+  "Sheet 18 x 27 9/16 in. (45.7 x 70 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Estate of Martin Birnbaum and Rogers Fund, Transfer from Modern, 1970",
+ "Accession Number": "1970.744.4",
+ "Who": "Charles Wilbert White",
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90044915,
+ "related-artworks": [
+  90044917,
+  90044930,
+  90044932,
+  90044916,
+  90044931
+ ],
+ "Provenance": [
+  "Modern Art Department, MMA",
+  "Donor: Martin Birnbaum"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90044915"
+  }
+ }
+}

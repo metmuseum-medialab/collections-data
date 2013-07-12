@@ -1,0 +1,29 @@
+{
+ "Date": "1865",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1948",
+ "Accession Number": "48.112.1",
+ "Who": "Louis Prang & Co.",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023553,
+ "related-artworks": [
+  90012472,
+  90023548,
+  90023556,
+  90023552,
+  90023554
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023553"
+  }
+ }
+}

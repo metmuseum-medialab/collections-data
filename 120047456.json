@@ -1,0 +1,46 @@
+{
+ "Date": "1550–75",
+ "Culture": "Flemish, Brussels",
+ "Medium": "Wool, silk (18 warps per inch, 6–7 per cm.)",
+ "Dimensions": "H. 152 1/2 x W. 91 1/4 inches (387.4 x 231.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Amy Warren Patterson, 1981",
+ "Accession Number": "1983.73.1",
+ "Who": "CT  TC, Brussels",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Wool",
+  "Tapestries"
+ ],
+ "Where": [
+  "Europe",
+  "Belgium",
+  "Brussels"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120047456,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DT7466.jpg",
+ "related-artworks": [
+  120047457,
+  120047458,
+  120047459,
+  120047460,
+  120047461
+ ],
+ "Provenance": [
+  "Commodore Morton F. Plant (until 1939",
+  "sale, Parke-Bernet Galleries, New York, October 27– 28, 1939, nos. 290-95)",
+  "Mr. and Mrs. Charles C. Paterson (before 1957)",
+  "Amy Warren Paterson (until 1981",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120047456"
+  }
+ }
+}

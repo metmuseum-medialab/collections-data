@@ -1,0 +1,41 @@
+{
+ "Publisher": "Published by New York Etching Club",
+ "Date": "1882",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 4 7/16 x 2 11/16 in. (11.3 x 6.9 cm)",
+  "sheet 11 3/4 x 8 7/8 in. (29.8 x 22.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, transferred from the Library, 1921",
+ "Accession Number": "21.36.59",
+ "Who": [
+  "New York Etching Club",
+  "Robert Swain Gifford"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90059434,
+ "related-artworks": [
+  90005734,
+  90059486,
+  90059524,
+  90051265,
+  90051263
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90059434"
+  }
+ }
+}

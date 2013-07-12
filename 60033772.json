@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Bronze, wood, silver",
+ "Dimensions": "L. 16 3/4 in. (42.5 cm)",
+ "Classification": "Smoking Equipment",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1089",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Silver",
+  "Bronze",
+  "Pipes",
+  "Tobacco"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60033772,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/91_1_1089.JPG",
+ "related-artworks": [
+  60033775,
+  60031891,
+  60033771,
+  60024904,
+  60033774
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033772"
+  }
+ }
+}

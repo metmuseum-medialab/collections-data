@@ -1,0 +1,42 @@
+{
+ "Date": "1829",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.633.23",
+ "Who": "Louis Pierre Baltard",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012703,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90017528"
+   },
+   {
+    "href": "http://scrapi.org/object/90020455"
+   },
+   {
+    "href": "http://scrapi.org/object/90020865"
+   },
+   {
+    "href": "http://scrapi.org/object/90023072"
+   },
+   {
+    "href": "http://scrapi.org/object/90033699"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90012703"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90012703"
+  }
+ }
+}

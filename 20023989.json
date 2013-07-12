@@ -1,0 +1,39 @@
+{
+ "Date": "1773",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "Canvas 20 3/4 × 15 3/4 × 1 1/8 in. (52.7 × 40 × 2.9 cm)",
+  "Framed 22 1/2 × 17 1/2 × 1 1/2 in. (57.2 × 44.5 × 3.8 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Friends of the American Wing Fund, 2010",
+ "Accession Number": "2010.105",
+ "Who": "Prince Demah Barnes",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20023989,
+ "gallery-id": 714,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DP232807.jpg",
+ "related-artworks": [
+  20010418,
+  20010478,
+  20010480,
+  20010517,
+  20010518
+ ],
+ "Provenance": [
+  "The seller of the painting, Gerald E. Roy, purchased it in 1998 from Foster Smith Boothby.  A copy of that bill of sale was sent with the painting.  The painting descended in the Duguid/Smith/Boothby family to Foster Smith Boothby as follows:\r\n\t\r\nWilliam Duguid (1747-?) the sitter to his daughter Mary Duguid (Smith) (1772-1855) to her son Edward T. Smith (1807-1885) to his son Edward H. F. Smith (1844-ca. 1910) to his daughter Ethyl H. Smith (Boothby) (1881-1959) to her son Foster Smith Boothby (1916-2004).\r\n\r\nWilliam Duguid was born in Scotland, possibly Aberdeen.  He was in Boston, MA by 1770, when advertisements for his imported goods business appear in Boston newspapers. His daughter Mary was born in Boston in 1772",
+  "she married Col. John Tyng Smith in Boston in 1798, and they moved to Gorham, Maine, where the family continued to live (and the painting remained) until Foster Smith Boothby moved to Boyleston, MA in the 1950s."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20023989"
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "Date": "19th century",
+ "Culture": "West African (Adamaua)",
+ "Classification": "Daggers",
+ "Credit Line": "Gift of Marc O. Rabun, 1984",
+ "Accession Number": "1984.104.3",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Daggers"
+ ],
+ "Where": [
+  "Africa"
+ ],
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005559,
+ "related-artworks": [
+  40003258,
+  40003280,
+  40005558,
+  40005629,
+  40005627
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40005559"
+  }
+ }
+}

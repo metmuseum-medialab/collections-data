@@ -1,0 +1,39 @@
+{
+ "Period": "Predynastic Period",
+ "Date": "ca. 3850–2960 B.C.",
+ "Geography": "Country of Origin Egypt, Southern Upper Egypt, Hierakonpolis (el-Kom el-Ahmar)",
+ "Medium": "Pottery",
+ "Credit Line": "Rogers Fund, 1936",
+ "Accession Number": "36.1.91",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Jars"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Aswan",
+  "Kom al Ahmar"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100032065,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/36.1.91_EGDP011564.jpg",
+ "related-artworks": [
+  100003772,
+  100003776,
+  100003779,
+  100003812,
+  100003815
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100032065"
+  }
+ }
+}

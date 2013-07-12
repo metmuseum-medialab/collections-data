@@ -1,0 +1,45 @@
+{
+ "Period": "Neo-Assyrian",
+ "Date": "ca. 7th century B.C.",
+ "Geography": "Mesopotamia, Nimrud (ancient Kalhu)",
+ "Culture": "Assyrian",
+ "Medium": "Ceramic",
+ "Dimensions": "3.25 in. (8.26 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1954",
+ "Accession Number": "54.117.35",
+ "Who": "Assyrian",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Beakers"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Nimrud"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003008,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME54_117_35.jpg",
+ "related-artworks": [
+  30002871,
+  30003293,
+  30003304,
+  30002874,
+  30003009
+ ],
+ "Provenance": [
+  "1952, excavated by Max Mallowan, on behalf of the British School of Archaeology in Iraq",
+  "ceded in the division of finds to the British School of Archaeology in Iraq",
+  "acquired by the Museum in 1954, as a result of its financial contribution to the excavations."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003008"
+  }
+ }
+}

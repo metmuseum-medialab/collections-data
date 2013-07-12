@@ -1,0 +1,43 @@
+{
+ "Artist": "After Edme Bouchardon (French, Chaumont 1698–1762 Paris)",
+ "Date": "1738",
+ "Medium": "Etching with some engraving",
+ "Dimensions": [
+  "image 8 7/8 x 7 1/16 in. (22.5 x 18 cm)",
+  "sheet 9 1/4 x 7 1/8 in. (23.5 x 18.1 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.588",
+ "Who": [
+  "Edme Bouchardon",
+  "Anne Claude Philippe de Tubières, Comte de Caylus"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90073952,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818793.jpg",
+ "related-artworks": [
+  90027953,
+  90038925,
+  90038927,
+  90071705,
+  90072777
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90073952"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "18th century",
+ "Culture": "German",
+ "Medium": "Linen",
+ "Dimensions": "L. 19 1/4 x W. 20 1/2 inches (48.9 x 52.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2575",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "id": 120034903,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/19703.jpg",
+ "related-artworks": [
+  120033147,
+  120033278,
+  120034909,
+  120034920,
+  120035546
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120034903"
+  }
+ }
+}

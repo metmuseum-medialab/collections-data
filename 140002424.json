@@ -1,0 +1,47 @@
+{
+ "Object Name": "Bowl",
+ "Date": "13th century",
+ "Geography": "Syria",
+ "Medium": "Stonepaste; polychrome painted under a transparent glaze",
+ "Dimensions": [
+  "H. 2 13/16 in. (7.1 cm)",
+  "Diam. 10 1/4 in. (26 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.102.4",
+ "What": [
+  "Ceramics",
+  "Painting",
+  "Glaze",
+  "Bowls"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140002424,
+ "gallery-id": 454,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DT2828.jpg",
+ "related-artworks": [
+  140003184,
+  140003177,
+  140004856,
+  140007785,
+  140007874
+ ],
+ "Description": "Typically formatted concentrically, the decoration of Syrian black‑and‑blue underglaze‑painted pieces often features pseudo‑inscriptions. Here, the repeated letters, alif‑lam, around a circular band against a vegetal scroll, are not merely a decorative device or reflection of a potter’s illiteracy. This letter combination held religious significance and appears to have been endowed with magical or talismanic properties.",
+ "Provenance": [
+  "[ Dikran G. KelekianNew York, until 1908",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140002424"
+  }
+ }
+}

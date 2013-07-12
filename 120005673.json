@@ -1,0 +1,45 @@
+{
+ "Date": "1874",
+ "Culture": "British",
+ "Medium": "Silver",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Mrs. Margaret Crosby Munn, 1909",
+ "Accession Number": "09.11.2",
+ "Who": "William Wyon",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Silver",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120005673,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/5047.jpg",
+ "related-artworks": [
+  120027062,
+  120027064,
+  120027090,
+  120027093,
+  120027664
+ ],
+ "Provenance": [
+  "Mrs. Margaret Crosby Munn (until 1909",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120005673"
+  }
+ }
+}

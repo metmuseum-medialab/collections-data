@@ -1,0 +1,43 @@
+{
+ "Period": "Late Classical",
+ "Date": "ca. 380–360 B.C.",
+ "Culture": "Greek, South Italian, Campanian",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": [
+  "Overall 15 11/16 in. (39.8 cm)",
+  "Diameter 6 9/16 × 5 1/8 × 4 3/8 in. (16.7 × 13 × 11.1 cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1906",
+ "Accession Number": "06.1021.225",
+ "Who": "Nyn Painter",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Amphorae",
+  "Neck amphorae"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130007862,
+ "related-artworks": [
+  130007062,
+  130007189,
+  130007209,
+  130007197,
+  130007200
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130007862"
+  }
+ }
+}

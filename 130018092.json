@@ -1,0 +1,26 @@
+{
+ "Medium": "Clay",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Rogers Fund, 1907",
+ "Accession Number": "07.147.5, .6",
+ "What": [
+  "Clay",
+  "Tablets"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130018092,
+ "related-artworks": [
+  130006688,
+  130007096,
+  130018046,
+  130018047,
+  130018048
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130018092"
+  }
+ }
+}

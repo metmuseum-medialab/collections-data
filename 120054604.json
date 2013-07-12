@@ -1,0 +1,53 @@
+{
+ "Date": "ca. 1775",
+ "Culture": "German",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": [
+  "Diameter, saucer 5 1/8 in. (13.1 cm)",
+  "Overall, cup 2 1/2 x 3 1/2 in. (6.4 x 8.9 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mercedes Bass, 2007",
+ "Accession Number": "2007.243.8a, b",
+ "Who": "Höchst Manufactory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Drinking vessels",
+  "Cups",
+  "Plates",
+  "Hard paste porcelain",
+  "Saucers",
+  "Coffee cups"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120054604,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF2007_243_8ab.jpg",
+ "related-artworks": [
+  120054603,
+  120054608,
+  120054606,
+  120054612,
+  120054607
+ ],
+ "Description": "This partial tea and coffee service is distinguished by its relative completeness and its two components (the coffee pot and the hot milk jug) signed by the painters who decorated them - Joseph Angele and Johann Heinrich Usinger, respectively - a rarity on 18th-century porcelain.",
+ "Provenance": [
+  "Mercedes T. Bass (until 2007",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120054604"
+  }
+ }
+}

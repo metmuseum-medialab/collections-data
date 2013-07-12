@@ -1,0 +1,47 @@
+{
+ "Date": "1516",
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "Fletcher Fund, 1919",
+ "Accession Number": "19.73.33",
+ "Who": "Albrecht Dürer",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Anselm Kiefer (born 1945)",
+  "Portraiture in Renaissance and Baroque Europe",
+  "Europe and the Age of Exploration",
+  "The Rediscovery of Classical Antiquity",
+  "Jan Gossart (ca. 1478–1532) and His Circle",
+  "The Printed Image in the West History and Techniques",
+  "The Decoration of Arms and Armor",
+  "Arms and Armor – Common Misconceptions and Frequently Asked Questions",
+  "Rembrandt van Rijn (1606–1669) Prints",
+  "The Reformation",
+  "Albrecht Dürer (1471–1528)",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90065811,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP815776.jpg",
+ "related-artworks": [
+  90003222,
+  90027906,
+  90028021,
+  90028278,
+  90028440
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90065811"
+  }
+ }
+}

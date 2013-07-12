@@ -1,0 +1,36 @@
+{
+ "Date": "1850s",
+ "Medium": "Albumen silver print",
+ "Dimensions": [
+  "Image 17.4 x 23.5 cm (6 7/8 x 9 1/4 in.)",
+  "Mount 20.9 x 28 cm (8 1/4 x 11 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Museum Purchase, 2005",
+ "Accession Number": "2005.100.948.2",
+ "Who": "Captain R. . Hill",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "id": 190041628,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP147462.jpg",
+ "related-artworks": [
+  190039931,
+  190041503,
+  190041497,
+  190041504,
+  190041594
+ ],
+ "Provenance": [
+  "(Christie's South Kensington, Lot 183, April 21, 1988)",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190041628"
+  }
+ }
+}

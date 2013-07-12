@@ -1,0 +1,48 @@
+{
+ "Period": "Sasanian–early Islamic",
+ "Date": "ca. 7th–8th century A.D.",
+ "Geography": "Mesopotamia, Ctesiphon",
+ "Culture": "Sasanian or Islamic",
+ "Medium": "Bronze, green patina",
+ "Dimensions": "1.87 in. (4.75 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1932",
+ "Accession Number": "32.150.191",
+ "Who": "Sasanian",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Figures",
+  "Patina"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Ctesiphon"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iraq (Mesopotamia) 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30001417,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/me32_150_191.jpg",
+ "related-artworks": [
+  30001427,
+  30001421,
+  30001053,
+  30001441,
+  30001054
+ ],
+ "Provenance": [
+  "1931–32, excavated by the Joint Expedition of the Staatliche Museen of Berlin and the Metropolitan Museum of Art",
+  "acquired by the Museum in 1932, ceded in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30001417"
+  }
+ }
+}

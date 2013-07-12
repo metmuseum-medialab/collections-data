@@ -1,0 +1,42 @@
+{
+ "Period": "Iron Age II",
+ "Date": "ca. 9th century B.C.",
+ "Geography": "Iran, Hasanlu",
+ "Medium": "Shell, stone",
+ "Dimensions": "29.92 in. (76 cm)",
+ "Classification": "Shell",
+ "Credit Line": "Purchase, Mrs. Constantine Sidamon-Eristoff Gift, 1961",
+ "Accession Number": "61.100.146",
+ "What": [
+  "Stone",
+  "Shell"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Hasanlu"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003986,
+ "gallery-id": 404,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/DP122548.jpg",
+ "related-artworks": [
+  30003675,
+  30003796,
+  30003980,
+  30003954,
+  30003956
+ ],
+ "Provenance": [
+  "1960, excavated by Robert H. Dyson Jr. on behalf of the Hasanlu Project sponsored by the University Museum of the University of Pennsylvania, the Archaeological Service of Iran, and The Metropolitan Museum of Art",
+  "acquired by the Museum in 1961, as a result of its financial contribution to the excavations."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003986"
+  }
+ }
+}

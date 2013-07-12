@@ -1,0 +1,36 @@
+{
+ "Artist": "After Michelangelo Buonarroti (Italian, Caprese 1475–1564 Rome)",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 5 1/2 x 4 1/8 in. (14 x 10.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1931",
+ "Accession Number": "31.106.14",
+ "Who": [
+  "Michelangelo Buonarroti",
+  "Adamo (Ghisi) Scultori"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90071535,
+ "related-artworks": [
+  90032369,
+  90038389,
+  90056098,
+  90057630,
+  90071470
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90071535"
+  }
+ }
+}

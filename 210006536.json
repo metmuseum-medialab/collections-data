@@ -1,0 +1,49 @@
+{
+ "Date": "1945",
+ "Medium": "Egg tempera on Masonite",
+ "Dimensions": "24 1/4 x 11 3/4in. (61.6 x 29.8cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Lincoln Kirstein, 1993",
+ "Accession Number": "1993.87.1",
+ "Who": "Paul Cadmus",
+ "What": [
+  "Paintings",
+  "Tempera",
+  "Masonite",
+  "Egg tempera"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210006536,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210006537"
+   },
+   {
+    "href": "http://scrapi.org/object/210006538"
+   },
+   {
+    "href": "http://scrapi.org/object/210006539"
+   },
+   {
+    "href": "http://scrapi.org/object/210006540"
+   },
+   {
+    "href": "http://scrapi.org/object/210006541"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210006536"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210006536"
+  }
+ }
+}

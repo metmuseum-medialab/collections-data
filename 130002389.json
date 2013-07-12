@@ -1,0 +1,44 @@
+{
+ "Period": "Early Hellenistic",
+ "Date": "late 4th-3rd century B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Limestone",
+ "Dimensions": [
+  "H. 13 15/16 in (35.4 cm)",
+  "W.12 1/16 in.  (30.6 cm)"
+ ],
+ "Classification": "Cesnola Inscriptions",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2369",
+ "What": [
+  "Fragments",
+  "Bowls",
+  "Limestone"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "id": 130002389,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP145556.jpg",
+ "related-artworks": [
+  130002360,
+  130002372,
+  130002717,
+  130002830,
+  130004501
+ ],
+ "Description": "An inscription, running from left to right, is preserved in front of the snake's head.",
+ "Provenance": [
+  "Sanctuary of Golgoi–Ayios Photios, “outside, near one of the entrances of the temple”"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002389"
+  }
+ }
+}

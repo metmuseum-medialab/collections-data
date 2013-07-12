@@ -1,0 +1,40 @@
+{
+ "Date": "20th century",
+ "Geography": "Democratic Republic of the Congo",
+ "Culture": "Mangbetu peoples",
+ "Medium": "Barkcloth, pigment",
+ "Dimensions": "H.  76 7/16 x W. 54 in. (194.1 x 137.2 cm)",
+ "Classification": "Barkcloth",
+ "Credit Line": "Gift of William B. Goldstein, 2001",
+ "Accession Number": "2001.271.10",
+ "Who": "Mangbetu",
+ "What": [
+  "Bark cloth",
+  "Wrappers"
+ ],
+ "Where": [
+  "Africa",
+  "Democratic Republic of the Congo"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central Africa, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50011549,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs2001_271_10.jpg",
+ "related-artworks": [
+  50011541,
+  50011560,
+  50015721,
+  50002642,
+  50003421
+ ],
+ "Provenance": [
+  "[Jacques Hautelet, Brussels, Belgium and La Jolla, CA]",
+  "William B. Goldstein, Wilton, CT, until 2001"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50011549"
+  }
+ }
+}

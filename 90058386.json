@@ -1,0 +1,35 @@
+{
+ "Date": "n.d.",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Dr. F. H. Hirschland, 1952",
+ "Accession Number": "52.586.1",
+ "Who": "Max Klinger",
+ "What": "Prints",
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe and Low Countries, 1800–1900 A.D.",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90058386,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP824016.jpg",
+ "related-artworks": [
+  90000404,
+  90024381,
+  90024662,
+  90024663,
+  90024664
+ ],
+ "Provenance": [
+  "Donor: Dr. Franz H. Hirschland"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90058386"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1920",
+ "Culture": "American",
+ "Medium": "Wool, feathers",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Amelia Beard Hollenback, 1966",
+ "Accession Number": "2009.300.5529",
+ "Who": "Estelle Mérshon",
+ "What": [
+  "Costume",
+  "Wool",
+  "Hats",
+  "Feather"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80107959,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/66.101.140_CP2.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80094148"
+   },
+   {
+    "href": "http://scrapi.org/object/80094005"
+   },
+   {
+    "href": "http://scrapi.org/object/80094084"
+   },
+   {
+    "href": "http://scrapi.org/object/80094106"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80107959"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80107959"
+  }
+ }
+}

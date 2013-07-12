@@ -1,0 +1,48 @@
+{
+ "Object Name": "Fragments",
+ "Date": "9th–10th century",
+ "Geography": "China; Iran, Nishapur",
+ "Medium": "Porcelain",
+ "Dimensions": [
+  "Ht. 3 1/2 in. (8.9 cm)",
+  "W. 3 1/8 in. (7.9 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1940",
+ "Accession Number": "40.170.456e",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Fragments",
+  "Porcelain"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140011494,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/40.170.456e.JPG",
+ "related-artworks": [
+  140012461,
+  140012459,
+  140012460,
+  140012463,
+  140012462
+ ],
+ "Provenance": [
+  "1939, excavated at Tepe Madrasa in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1940, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140011494"
+  }
+ }
+}

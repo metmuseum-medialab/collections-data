@@ -1,0 +1,32 @@
+{
+ "Date": "19th century",
+ "Culture": "Japanese",
+ "Classification": "Sword Furniture",
+ "Credit Line": "Gift of Mrs. George A. Crocker (Elizabeth Masten), 1937",
+ "Accession Number": "38.25.23",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40007936,
+ "related-artworks": [
+  40000001,
+  40000006,
+  40000015,
+  40000009,
+  40000013
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40007936"
+  }
+ }
+}

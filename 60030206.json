@@ -1,0 +1,35 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Lacquer, dark brown ground, red, brown, green applied lacquer; Interior dark brown lacquer",
+ "Dimensions": "3 7/16 x 1 13/16 x 1 1/16 in. (8.8 x 4.6 x 2.7 cm)",
+ "Classification": "Inrō",
+ "Credit Line": "Gift of Mrs. George A. Crocker (Elizabeth Masten), 1937",
+ "Accession Number": "38.25.131",
+ "What": [
+  "Lacquer",
+  "Inro",
+  "Sagemono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60030206,
+ "related-artworks": [
+  60007097,
+  60013240,
+  60013409,
+  60025385,
+  60025378
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030206"
+  }
+ }
+}

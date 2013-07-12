@@ -1,0 +1,38 @@
+{
+ "Artist": "After Giulio Romano (Italian, Rome 1499?–1546 Mantua)",
+ "Date": "ca. 1545",
+ "Medium": "Etching",
+ "Dimensions": "sheet 14 9/16 x 23 1/4 in. (37 x 59 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.97.605",
+ "Who": [
+  "Giulio Romano",
+  "Anonymous, French, School of Fontainebleau, 16th century"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90061538,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP822145.jpg",
+ "related-artworks": [
+  90004502,
+  90038633,
+  90041353,
+  90041354,
+  90041389
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90061538"
+  }
+ }
+}

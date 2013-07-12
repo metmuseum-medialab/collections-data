@@ -1,0 +1,33 @@
+{
+ "Date": "1962",
+ "Culture": "American",
+ "Medium": "Wool",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Lauren Bacall, 1967",
+ "Accession Number": "2009.300.7622a, b",
+ "Who": "Dunhill Tailors",
+ "What": [
+  "Costume",
+  "Wool",
+  "Suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80115933,
+ "related-artworks": [
+  80093543,
+  80093582,
+  80093583,
+  80093700,
+  80093901
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80115933"
+  }
+ }
+}

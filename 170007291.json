@@ -1,0 +1,41 @@
+{
+ "Date": "14th century",
+ "Culture": "French",
+ "Medium": "Ivory, metal (silver?) mounts",
+ "Dimensions": "Overall 3 3/8 x 2 5/8 x 2 5/8 in. (8.5 x 6.6 x 6.6 cm)",
+ "Classification": "Ivories",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.95.116",
+ "What": [
+  "Metal",
+  "Silver",
+  "Bone",
+  "Ivory",
+  "Boxes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170007291,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf30-95-116s08.jpg",
+ "related-artworks": [
+  170004001,
+  170007394,
+  170004038,
+  170004101,
+  170009701
+ ],
+ "Provenance": [
+  "Theodore M. Davis, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170007291"
+  }
+ }
+}

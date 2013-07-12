@@ -1,0 +1,43 @@
+{
+ "Period": "Late Period",
+ "Dynasty": "Dynasty 25–30",
+ "Date": "ca. 712–332 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes",
+ "Medium": "Wood, paint, gesso",
+ "Dimensions": "h. 12 cm (4 3/4 in); w. 6.7 cm (2 5/8 in)",
+ "Credit Line": "Gift of Lily S. Place, 1923",
+ "Accession Number": "23.6.81",
+ "What": [
+  "Wood",
+  "Panels",
+  "Gesso"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100010047,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs23.6.81.jpg",
+ "related-artworks": [
+  100010048,
+  100005141,
+  100005201,
+  100008080,
+  100008086
+ ],
+ "Provenance": [
+  "Collection of Lily S. Place, Cairo. Donated by Lily Place to the museum, 1923."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100010047"
+  }
+ }
+}

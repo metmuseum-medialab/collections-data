@@ -1,0 +1,33 @@
+{
+ "Date": "1909-11",
+ "Medium": "Photolithograph",
+ "Dimensions": "Sheet 2 3/4 × 1 1/2 in. (7 × 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 314, E90-1.21",
+ "Who": "American Caramel Company, Philadelphia",
+ "What": [
+  "Prints",
+  "Photomechanical reproductions",
+  "Photolithographs"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90104312,
+ "related-artworks": [
+  90104265,
+  90104272,
+  90104273,
+  90104280,
+  90104277
+ ],
+ "Description": "Trade cards from the \"Baseball Caramels\" series (E90), issued 1909-11 by the American Caramel Company. There are three types of cards within the series. E90-1 cards depict players from across the American and National Leagues. E90-2 cards depict only players from Pittsburgh and E90-3 cards display players from Chicago.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104312"
+  }
+ }
+}

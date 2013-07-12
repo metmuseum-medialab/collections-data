@@ -1,0 +1,42 @@
+{
+ "Engraver": "Engraved and printed by Edmund Evans (British, Southwark, London 1826–1905 Ventnor, Isle of Wight)",
+ "Date": "ca. 1874",
+ "Medium": "Wood engraving, printed in colors",
+ "Classification": "Books",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.716",
+ "Who": [
+  "Walter Crane",
+  "Edmund Evans"
+ ],
+ "What": [
+  "Prints",
+  "Engraving",
+  "Books",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 90005328,
+ "related-artworks": [
+  90011760,
+  90011856,
+  90015525,
+  90015542,
+  90047316
+ ],
+ "Provenance": [
+  "Donor: Museum Accession"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005328"
+  }
+ }
+}

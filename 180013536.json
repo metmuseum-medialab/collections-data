@@ -1,0 +1,43 @@
+{
+ "Date": "first quarter 19th century",
+ "Geography": "Austria or Germany",
+ "Medium": "Various materials",
+ "Dimensions": [
+  "Case length (perpendicular to keyboard)  42.0 cm, Width (parallel to keyboard)  72.5 cm, Case depth (without lid)  17.0 cm, Total height  83.5 cm, 3-octave span 40.5 cm,",
+  "String length\tlongest\t61.0 cm",
+  "shortest\t5.2 cm",
+  "c2\t27.6 cm"
+ ],
+ "Classification": "Chordophone-Zither",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.1204",
+ "What": [
+  "Musical instruments",
+  "Boxes",
+  "Chordophones",
+  "Zithers",
+  "Pianos"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 180013536,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/129579.jpg",
+ "related-artworks": [
+  180014970,
+  180015427,
+  180016109,
+  180016526,
+  180013575
+ ],
+ "Description": "When shut, this sewing and dressing case gives no hint of enclosing a miniature 4-octave piano. It was imported and sold in Philadelphia by Sarah Hart & Son, dealers in portable furniture, stationery, and perfume. The rosewood case, standing on a carved acanthus pedestal over a footed base, bears on its lid an inlaid eagle over a musical trophy, surrounded by a wreath of oak and laurel. A hinged looking-glass can prop up the lid.  Small compartments and spools of thread occupy a removable tray over the strings. The Viennese action has tiny hammers that each strike a single string except in the top octave, which is double-strung. There are no dampers.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180013536"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Date": "1929–30",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "David Hunter McAlpin Fund, 1961",
+ "Accession Number": "61.630.4",
+ "Who": "Sherril Schell",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190022258,
+ "Provenance": [
+  "Sherril Schell"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190022256"
+   },
+   {
+    "href": "http://scrapi.org/object/190022257"
+   },
+   {
+    "href": "http://scrapi.org/object/190022255"
+   },
+   {
+    "href": "http://scrapi.org/object/190022259"
+   },
+   {
+    "href": "http://scrapi.org/object/190022261"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190022258"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190022258"
+  }
+ }
+}

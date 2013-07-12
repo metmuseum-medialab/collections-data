@@ -1,0 +1,39 @@
+{
+ "Date": "1988",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "H. 69-5/8, W. 66-1/4 inches",
+  "(176.8 x 168.3 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Guillermo B. Serrano, 1996",
+ "Accession Number": "1996.555",
+ "Who": "Siron Franco",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "South America",
+  "Brazil"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "South America, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210007016,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/262459.jpg",
+ "related-artworks": [
+  210006122,
+  210006521,
+  210007361,
+  210006439,
+  210002066
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210007016"
+  }
+ }
+}

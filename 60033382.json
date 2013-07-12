@@ -1,0 +1,63 @@
+{
+ "Date": "20th century",
+ "Culture": "China",
+ "Dimensions": "L. 7 1/4 in. (18.4 cm); Diam. 1/4 in. (0.6 cm)",
+ "Classification": "Hardstone",
+ "Credit Line": "Gift of Joan Hartman-Goldsmith, 1981",
+ "Accession Number": "1981.296.12",
+ "What": [
+  "Sculpture",
+  "Jade",
+  "Carvings"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60033382,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1981_296_12_O1.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/60033375",
+  "http://scrapi.org/object/60033379",
+  "http://scrapi.org/object/60033380",
+  "http://scrapi.org/object/60033422",
+  "http://scrapi.org/object/60033408"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/as/original/1981_296_12_O1.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/1981_296_1-13_226266.jpg"
+ ],
+ "Provenance": [
+  "S. Howard Hansford (Beijing, from 1939)",
+  "Joan M. Hartman-Goldsmith , New York (until 1981)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60033375"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60033379"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60033380"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60033422"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60033408"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60033382"
+  }
+ }
+}

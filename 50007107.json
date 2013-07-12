@@ -1,0 +1,41 @@
+{
+ "Date": "19th–20th century",
+ "Geography": "Nigeria, Southeast region",
+ "Culture": "Nigeria",
+ "Medium": "Wood, pigment",
+ "Dimensions": "H x W 45 1/2 x 3 3/4in. (115.6 x 9.5cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Gift of Mr. and Mrs. Brian S. Leyden, 1981",
+ "Accession Number": "1981.427.3",
+ "What": [
+  "Sculpture",
+  "Staffs"
+ ],
+ "Where": [
+  "Africa",
+  "Nigeria"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Guinea Coast, 1800–1900 A.D.",
+  "Guinea Coast, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50007107,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1981_427_3.jpg",
+ "related-artworks": [
+  50002641,
+  50003506,
+  50003647,
+  50004861,
+  50004942
+ ],
+ "Provenance": [
+  "Mr. and Mrs. Brian S. Leyden, New York, until 1981"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50007107"
+  }
+ }
+}

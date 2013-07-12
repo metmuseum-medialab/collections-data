@@ -1,0 +1,46 @@
+{
+ "Date": "19th–20th century",
+ "Geography": "Mali, Bandiagara region",
+ "Culture": "Dogon peoples",
+ "Medium": "Wood, sacrificial materials",
+ "Dimensions": "H. 40 x W. 8 x D. 8 in. (101.6 x 20.3 x 20.3 cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Gift of Lester Wunderman, 1977",
+ "Accession Number": "1977.394.24",
+ "Who": "Dogon",
+ "What": [
+  "Sculpture",
+  "Figures"
+ ],
+ "Where": [
+  "Africa",
+  "Mali",
+  "Mopti region",
+  "Bandiagara"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Western and Central Sudan, 1800–1900 A.D.",
+  "Western and Central Sudan, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50002913,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1977_394_24.jpg",
+ "related-artworks": [
+  50002900,
+  50003314,
+  50004870,
+  50003317,
+  50004791
+ ],
+ "Provenance": [
+  "Daniel Marchesseau, France, until 1965",
+  "(Parke-Bernet Gallery, December 4, 1965, no. 14)",
+  "Lester Wunderman, New York, 1965–1977"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50002913"
+  }
+ }
+}

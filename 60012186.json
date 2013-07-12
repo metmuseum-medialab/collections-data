@@ -1,0 +1,34 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Painted shell",
+ "Classification": "Shell",
+ "Credit Line": "Gift of Yukikazu Iwasa, 1988",
+ "Accession Number": "1988.289.9a, b",
+ "What": [
+  "Painting",
+  "Shell"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60012186,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1988_289_9ab_O1_sf.jpg",
+ "related-artworks": [
+  60012178,
+  60012179,
+  60012180,
+  60012181,
+  60012182
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60012186"
+  }
+ }
+}

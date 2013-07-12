@@ -1,0 +1,37 @@
+{
+ "Date": "17th Century",
+ "Medium": "Etching",
+ "Dimensions": "sheet 4 5/8 x 19 1/16 in. (11.8 x 48.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.923.2",
+ "Who": "Giulio Carpioni",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "id": 90075090,
+ "related-artworks": [
+  90018678,
+  90032403,
+  90032412,
+  90072364,
+  90072358
+ ],
+ "Provenance": [
+  "Phyllis D. Massar",
+  "Leo Steinberg (American, Moscow 1921–2011 New York)",
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90075090"
+  }
+ }
+}

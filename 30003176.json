@@ -1,0 +1,39 @@
+{
+ "Period": "Mitanni",
+ "Date": "ca. 15th–14th century B.C.",
+ "Geography": "Iran, Tepe Giyan",
+ "Culture": "Mitanni",
+ "Medium": "Faience",
+ "Dimensions": "1.25 in. (3.18 cm)",
+ "Classification": "Faience",
+ "Credit Line": "Rogers Fund, 1956",
+ "Accession Number": "56.81.29",
+ "Who": "Mitannian",
+ "What": [
+  "Faience",
+  "Seals",
+  "Cylinder seals"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003176,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss56_81_29.jpg",
+ "related-artworks": [
+  30003012,
+  30003184,
+  30003187,
+  30003168,
+  30003171
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003176"
+  }
+ }
+}

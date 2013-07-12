@@ -1,0 +1,43 @@
+{
+ "Date": "mid-20th century",
+ "Geography": "Indonesia, Papua Province (Irian Jaya), Monu village, Unir (Undir) River, upper",
+ "Culture": "Asmat people",
+ "Medium": "Wood, paint",
+ "Dimensions": "H x W x D 61 x 27 x 6 in. (154.9 x 68.6 x 15.2 cm)",
+ "Classification": "Wood-Implements",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection; Gift of Nelson A. Rockefeller and Mrs. Mary C. Rockefeller, 1965",
+ "Accession Number": "1978.412.922",
+ "What": [
+  "Costume",
+  "Armor",
+  "Shields"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Irian Jaya"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50003963,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1978.412.922.jpg",
+ "related-artworks": [
+  50003823,
+  50003950,
+  50003932,
+  50003936,
+  50003952
+ ],
+ "Provenance": [
+  "Michael C. Rockefeller Expedition, collected 1961",
+  "Nelson A. Rockefeller, New York, 1961–1965",
+  "The Museum of Primitive Art, New York, 1965–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50003963"
+  }
+ }
+}

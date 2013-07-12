@@ -1,0 +1,43 @@
+{
+ "Publisher": "Matthew Dripps (New York, NY)",
+ "Date": "ca. 1850",
+ "Medium": "Engraving; first state",
+ "Dimensions": [
+  "sheet 4 1/8 x 57 in. (10.5 x 144.8 cm)",
+  "plate 5 x 59 3/8 in. (12.7 x 150.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Paul Allen Munn, 1924",
+ "Accession Number": "24.90.1187",
+ "Who": [
+  "Charles . J. F. de Saint-Mémin",
+  "Matthew Dripps"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90062568,
+ "related-artworks": [
+  90041303,
+  90054383,
+  90054405,
+  90058433,
+  90058435
+ ],
+ "Provenance": [
+  "Donor: Charles Allen Munn"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90062568"
+  }
+ }
+}

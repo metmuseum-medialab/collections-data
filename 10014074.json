@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1830–40",
+ "Geography": "England; United States",
+ "Culture": "American or British",
+ "Medium": "Cotton, roller-printed",
+ "Dimensions": "20 x 22 1/2 in. (50.8 x 57.2 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.133.24",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10014074,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/17489.jpg",
+ "related-artworks": [
+  10014178,
+  10013057,
+  10014093,
+  10014094,
+  10014167
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014074"
+  }
+ }
+}

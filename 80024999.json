@@ -1,0 +1,34 @@
+{
+ "Date": "19th century",
+ "Culture": "Romanian",
+ "Medium": "wool",
+ "Dimensions": "29 1/4 x 20in. (74.3 x 50.8cm)",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2671",
+ "What": [
+  "Costume",
+  "Wool",
+  "Aprons"
+ ],
+ "Where": [
+  "Europe",
+  "Romania"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 80024999,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/09.50.2671.jpg",
+ "related-artworks": [
+  80024684,
+  80024995,
+  80024996,
+  80024997,
+  80024998
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80024999"
+  }
+ }
+}

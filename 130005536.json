@@ -1,0 +1,30 @@
+{
+ "Medium": "Sard",
+ "Dimensions": "Other 11/16 x 9/16 x 1/8 in. (1.7 x 1.4 x 0.3 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Gift of John Taylor Johnston, 1881",
+ "Accession Number": "81.6.194",
+ "What": [
+  "Sculpture",
+  "Chalcedony",
+  "Gems",
+  "Intaglios",
+  "Sard"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130005536,
+ "related-artworks": [
+  130004171,
+  130004172,
+  130004173,
+  130005359,
+  130005363
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130005536"
+  }
+ }
+}

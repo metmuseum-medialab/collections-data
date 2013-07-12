@@ -1,0 +1,45 @@
+{
+ "Date": "11th–16th century",
+ "Geography": "Panama",
+ "Culture": "Veraguas",
+ "Medium": "Gold (cast)",
+ "Dimensions": "H. 2 1/4 x W. 1 5/8 in. (5.7 x 4.1 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.489",
+ "Who": "Veraguas",
+ "What": [
+  "Metal",
+  "Gold",
+  "Pendants"
+ ],
+ "Where": [
+  "North and Central America",
+  "Panama"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central America and the Caribbean, 1000–1400 A.D.",
+  "Central America and the Caribbean, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50005280,
+ "gallery-id": 357,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979206489.jpg",
+ "related-artworks": [
+  50014720,
+  50001686,
+  50002110,
+  50002112,
+  50002559
+ ],
+ "Provenance": [
+  "[John Wise, Ltd., New York, until 1957]",
+  "Nelson A. Rockefeller, New York, 1957, on loan to The Museum of Primitive Art, New York, 1957–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50005280"
+  }
+ }
+}

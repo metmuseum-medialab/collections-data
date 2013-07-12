@@ -1,0 +1,47 @@
+{
+ "Date": "7th century",
+ "Geography": "Made in Niederbreisig, Germany",
+ "Culture": "Frankish",
+ "Medium": "Copper alloy",
+ "Dimensions": [
+  "Overall 1 1/2 x 1/2 x 3/16 in. (3.8 x 1.2 x 0.4 cm)",
+  "with wire 1 1/2 x 9/16 x 3/16 in. (3.8 x 1.4 x 0.4 cm)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.193.260",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Copper",
+  "Tweezers"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170005494,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-193-260s1.jpg",
+ "related-artworks": [
+  170005357,
+  170005392,
+  170005417,
+  170004815,
+  170005565
+ ],
+ "Provenance": [
+  "Friedrich Queckenberg, Niederbreisig, Germany",
+  "Joseph Queckenberg, Niederbreisig, Germany",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005494"
+  }
+ }
+}

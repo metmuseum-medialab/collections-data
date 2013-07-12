@@ -1,0 +1,40 @@
+{
+ "Date": "mid-18th century",
+ "Culture": "British",
+ "Medium": "Oak",
+ "Dimensions": "H. 27-1/4 in. (69.2 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Rogers Fund, 1932",
+ "Accession Number": "32.106.41",
+ "What": [
+  "Wood",
+  "Woodwork",
+  "Oak",
+  "Balusters"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120012193,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/91001.jpg",
+ "related-artworks": [
+  120012163,
+  120012154,
+  120012162,
+  120012151,
+  120012152
+ ],
+ "Provenance": [
+  "Hanover Square, London, England"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120012193"
+  }
+ }
+}

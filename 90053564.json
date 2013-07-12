@@ -1,0 +1,43 @@
+{
+ "Artist": "Channing Britton (American, active second half 19th century)",
+ "Date": "1850–70",
+ "Medium": "Pen and black ink, watercolor and gouache",
+ "Dimensions": "sheet 6 1/4 x 9 in. (15.9 x 22.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of William Brewster, 1923",
+ "Accession Number": "23.112.1858",
+ "Who": [
+  "Brewster & Co.",
+  "Channing Britton"
+ ],
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90053564,
+ "related-artworks": [
+  90051740,
+  90051754,
+  90051737,
+  90051825,
+  90051830
+ ],
+ "Provenance": [
+  "Donor: William Brewster"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90053564"
+  }
+ }
+}

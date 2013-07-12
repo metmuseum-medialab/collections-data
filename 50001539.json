@@ -1,0 +1,49 @@
+{
+ "Date": "11th–mid-15th century",
+ "Geography": "Peru",
+ "Culture": "Chimú or Chancay",
+ "Medium": "Copper (hammered), gilt (?)",
+ "Dimensions": [
+  "Width 7/8in. (2.2cm)",
+  "Diameter 15/16in. (2.3cm)"
+ ],
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Gift of Nathan Cummings, 1964",
+ "Accession Number": "64.228.459",
+ "Who": "Chimú",
+ "What": [
+  "Metal",
+  "Gilt",
+  "Copper",
+  "Membranophones",
+  "Drums"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1400–1600 A.D.",
+  "Central and Southern Andes, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50001539,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/VS64_228_459.JPG",
+ "related-artworks": [
+  50001542,
+  50001538,
+  50001540,
+  50001541,
+  50001543
+ ],
+ "Provenance": [
+  "Bruno J. Wassermann-San Blas Collection, Buenos Aires, Argentina, acquired by 1938, until 1954",
+  "Nathan Cummings, Chicago, 1954–1964"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50001539"
+  }
+ }
+}

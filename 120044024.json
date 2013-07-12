@@ -1,0 +1,42 @@
+{
+ "Date": "19th century",
+ "Culture": "Spanish",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 102 x W. 32 1/2 inches",
+  "259.1 x 82.6 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.159.1",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044024,
+ "related-artworks": [
+  120040715,
+  120044681,
+  120044682,
+  120044770,
+  120044771
+ ],
+ "Provenance": [
+  "Holden , 1938",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044024"
+  }
+ }
+}

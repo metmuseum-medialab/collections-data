@@ -1,0 +1,39 @@
+{
+ "Date": "1774–75 (?)",
+ "Medium": "Graphite, pen and brown ink and yellow wash",
+ "Dimensions": "Sheet 9 3/16 x 6 3/4 in. (23.4 x 17.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1957",
+ "Accession Number": "57.102.1",
+ "Who": "Joseph Wright (Wright of Derby)",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90080656,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP269424.jpg",
+ "related-artworks": [
+  90080637,
+  90080661,
+  90080663,
+  90080664,
+  90080643
+ ],
+ "Provenance": [
+  "Vendor: through Thomas Agnew & Sons, Ltd. (London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90080656"
+  }
+ }
+}

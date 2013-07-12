@@ -1,0 +1,49 @@
+{
+ "Date": "ca. 1825",
+ "Geography": "Mid-Atlantic, Philadelphia, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": [
+  "Overall 7 5/8 x 7 1/4 x 4 1/16 in. (19.4 x 18.4 x 10.3 cm); 15 oz. 10 dwt. (482.1 g)",
+  "Cover 2 3/8 x 5 1/2 x 4 in. (6 x 14 x 10.2 cm); 4 oz. (124.6 g)",
+  "Body 11 oz. 10 dwt. (357.5 g)",
+  "Foot 4 7/16 x 3 5/16 in. (11.3 x 8.4 cm)"
+ ],
+ "Classification": "Silver",
+ "Credit Line": "Bequest of Alphonso T. Clearwater, 1933",
+ "Accession Number": "33.120.131a, b",
+ "Who": "John McMullin",
+ "What": [
+  "Metal",
+  "Silver",
+  "Bowls",
+  "Sugar bowls"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Philadelphia"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 10008241,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/97834.jpg",
+ "related-artworks": [
+  10023882,
+  10007288,
+  10007638,
+  10023876,
+  10023877
+ ],
+ "Provenance": [
+  "Alphonso T. Clearwater, Kingston, New York, until died 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10008241"
+  }
+ }
+}

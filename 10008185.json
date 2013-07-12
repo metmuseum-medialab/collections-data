@@ -1,0 +1,53 @@
+{
+ "Date": "1700–1900",
+ "Medium": "Iron",
+ "Dimensions": "5 3/4 x 9 7/8 in. (14.6 x 25.1 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Herbert S. Pratt, 1926",
+ "Accession Number": "26.273.3",
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Iron",
+  "Locks",
+  "Stocks"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10008185,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/65977.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/10008184",
+  "http://scrapi.org/object/10008186",
+  "http://scrapi.org/object/10008187",
+  "http://scrapi.org/object/10003649",
+  "http://scrapi.org/object/10004929"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Herbert S. Pratt, Westbury, New York, until 1926"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10008184"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10008186"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10008187"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10003649"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10004929"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10008185"
+  }
+ }
+}

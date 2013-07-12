@@ -1,0 +1,42 @@
+{
+ "Period": "Archaic",
+ "Date": "late 7th century B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; black-figure",
+ "Dimensions": "Overall 17 9/16 x 19 3/8 in. (44.6 x 49.2 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "Rogers Fund, 1914",
+ "Accession Number": "14.146.3a",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Reliefs"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009387,
+ "gallery-id": 154,
+ "related-artworks": [
+  130008874,
+  130008870,
+  130008875,
+  130008902,
+  130008915
+ ],
+ "Description": "Prothesis (laying out of the dead)During the Archaic period, burial shafts in Attica were often covered by solid, rectangular, house-like structures with plastered mud-brick walls and slightly sloping roofs. A series of terracotta plaques showing different stages of the funeral were probably set into the outer walls. In this very early example, the deceased is shown lying on a bier surrounded by mourners.",
+ "Provenance": [
+  "Said to be from Attica"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009387"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Date": "second half 17th century",
+ "Culture": "French",
+ "Medium": "Silk and metal thread on linen",
+ "Dimensions": "L. 117 x W. 50 inches (297.2 x 127.0 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1950",
+ "Accession Number": "50.185.1",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Vestments",
+  "Copes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120045207,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/148450.jpg",
+ "related-artworks": [
+  120047276,
+  120046518,
+  120039306,
+  120040731,
+  120037725
+ ],
+ "Provenance": [
+  "possibly Cathedral of Metz, Lorraine",
+  "[ L. Bernheimer ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120045207"
+  }
+ }
+}

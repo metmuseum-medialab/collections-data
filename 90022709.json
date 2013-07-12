@@ -1,0 +1,51 @@
+{
+ "Printer": "Robert, Hovey & King (New York, NY)",
+ "Date": "1846",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 6 1/8 x 3 15/16 in. (15.5 x 10 cm)",
+ "Classification": "Books",
+ "Credit Line": "Max G. Wildnauer Fund, 1932",
+ "Accession Number": "32.124.1",
+ "Who": [
+  "J. W. & . Orr",
+  "Robert, Hovey & King"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90022709,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90006988"
+   },
+   {
+    "href": "http://scrapi.org/object/90011641"
+   },
+   {
+    "href": "http://scrapi.org/object/90011642"
+   },
+   {
+    "href": "http://scrapi.org/object/90011638"
+   },
+   {
+    "href": "http://scrapi.org/object/90011790"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90022709"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90022709"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "1548–1628",
+ "Medium": "Pen and brown ink",
+ "Dimensions": "10-3/8 x 7-3/8 in. (26.3 x 18.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Walter C. Baker, 1971",
+ "Accession Number": "1972.118.263",
+ "Who": "Palma Il Giovane (Jacopo Palma the Younger)",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90007538,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP810947.jpg",
+ "related-artworks": [
+  90007537,
+  90007531,
+  90007539,
+  90007540,
+  90007534
+ ],
+ "Provenance": [
+  "Walter C. Baker, New York",
+  "Donor: Walter C. Baker Donor: Walter C. Baker"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90007538"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1750",
+ "Culture": "German",
+ "Medium": "Painted wood",
+ "Dimensions": "Each 10-3/4 x 7 x 4-1/2 in.  (27.3 x 17.8 x 11.4 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+ "Accession Number": "1974.356.142,143",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Painting",
+  "Lighting devices",
+  "Woodwork",
+  "Brackets"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021728,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/204566.jpg",
+ "related-artworks": [
+  120021734,
+  120021723,
+  120058309,
+  120021688,
+  120021709
+ ],
+ "Provenance": [
+  "Lesley and Emma Sheafer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021728"
+  }
+ }
+}

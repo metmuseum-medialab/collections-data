@@ -1,0 +1,34 @@
+{
+ "Date": "ca. 1906",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 5/8 × 1 7/16 in. (6.7 × 3.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 314, E18.52",
+ "Who": "Charles F. Adams, Manufacturing Confectioner, Lancaster, PA",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90107440,
+ "related-artworks": [
+  90107428,
+  90107433,
+  90107435,
+  90107436,
+  90107441
+ ],
+ "Description": "Trade cards from the \"Flags\" series (E18), issued between 1901 and 1912 by four different companies to promote their candy products. Card varieties: Type A, Williams Caramel Issue; Type B, Charles F. Adams Issue; Type C, Dockman Issue; and Type D, American Chewing Products Issue. This card is from the New Flags set (Type B), issued by Charles F. Adams Manufacturing Confectioner.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90107440"
+  }
+ }
+}

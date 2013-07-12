@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Geography": "Sweden",
+ "Culture": "Sweden",
+ "Medium": "Wood, various materials",
+ "Dimensions": [
+  "Total length 84.4 cm.",
+  "Width at  upper bouts 13.4 cm.",
+  "middle bouts 8.5 cm.",
+  "lower bouts 14.7 cm.",
+  "Total depth  16.3 cm.",
+  "Keyboard span  29.1 cm."
+ ],
+ "Classification": "Chordophone-Bowed keyboard",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.957",
+ "What": [
+  "Musical instruments",
+  "Chordophones",
+  "Keyboards",
+  "Nyckelharpas"
+ ],
+ "Where": [
+  "Europe",
+  "Sweden"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+ "id": 180013314,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/130463.jpg",
+ "related-artworks": [
+  180014832,
+  180017770,
+  180013397,
+  180013394,
+  180013398
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180013314"
+  }
+ }
+}

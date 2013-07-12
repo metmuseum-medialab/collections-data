@@ -1,0 +1,54 @@
+{
+ "Object Name": "Carpet",
+ "Date": "14th century",
+ "Geography": "Turkey",
+ "Medium": "Wool (warp, weft, and pile); symmetrically knotted pile",
+ "Dimensions": [
+  "Rug L. 65 in. (165.1 cm)",
+  "W. 54 1/2in. (138.4 cm)",
+  "Tube L. 62 in. (157.5 cm)",
+  "Diam. 6 in. (15.2 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Purchase, Harris Brisbane Dick Fund, Joseph Pulitzer Bequest, Louis V. Bell Fund and Fletcher, Pfeiffer and Rogers Funds, 1990",
+ "Accession Number": "1990.61",
+ "What": [
+  "Textiles",
+  "Wool",
+  "Rugs",
+  "Carpets"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Figural Representation in Islamic Art",
+  "The Nature of Islamic Art",
+  "Anatolia and the Caucasus, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140010725,
+ "gallery-id": 450,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP229999.jpg",
+ "related-artworks": [
+  140005298,
+  140005387,
+  140008475,
+  140010009,
+  140002174
+ ],
+ "Description": "With its highly geometricized design, this wool rug differs markedly from the refined courtly carpets, and represents an earlier tradition of weaving that was popular in Europe, where rugs like this are found in fourteenth- and fifteenth century churches and paintings. In fact, the depiction of a rug with the same design as this in an early fifteenth-century Sienese painting allowed for the dating of this example. This is one of only three complete rugs of such an early date and its design of large confronted animals, each with a smaller animal inside, probably derives from contemporary textiles.",
+ "Provenance": [
+  "Fred Cagan, Nepal",
+  "[ Lisbet Holmes Textiles, London, until 1990",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010725"
+  }
+ }
+}

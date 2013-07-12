@@ -1,0 +1,41 @@
+{
+ "Author": "Written by Sir William Dugdale (British, 1605–1686)",
+ "Illustrator": "Wenceslaus Hollar (Wenzel Vaclav) (Bohemian, Prague 1607–1677 London)",
+ "Draftsman": "Drawn and engraved by Daniel King (British, died London, ca. 1664 )",
+ "Date": "1655",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 14 x 9 1/4 x 3 5/16 in. (35.5 x 23.5 x 8.4 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1944",
+ "Accession Number": "44.41.1",
+ "Who": [
+  "Wenceslaus Hollar (Wenzel Vaclav)",
+  "Roger Dodsworth",
+  "Sir William Dugdale",
+  "Daniel King"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90035078,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP272847.jpg",
+ "related-artworks": [
+  90035084,
+  90035083,
+  90019159
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90035078"
+  }
+ }
+}

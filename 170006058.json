@@ -1,0 +1,48 @@
+{
+ "Date": "19th century",
+ "Geography": "Made in Limoges, France",
+ "Culture": "French",
+ "Medium": "Copper gilt and opaque enamel",
+ "Dimensions": "Overall 1 9/16 x 1/8 in. (4 x 0.3 cm)",
+ "Classification": "Enamels",
+ "Credit Line": "Gift of Max Falk, 1986",
+ "Accession Number": "1986.464.2",
+ "What": [
+  "Metal",
+  "Gilt",
+  "Copper",
+  "Enamels",
+  "Roundels",
+  "Champlevé"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Limousin",
+  "Limoges"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170006058,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf1986-464-2s1.jpg",
+ "related-artworks": [
+  170006057,
+  170003244,
+  170003262,
+  170003530,
+  170003871
+ ],
+ "Provenance": [
+  "Johannes Jantzen, Bremen",
+  "Thomas F. Flannery, Jr. (1926 - 1980), Chicago (sold 1983, lot 35)",
+  "[ Edward R. Lubin, Works of Art, New York]",
+  "Max Falk, New York (until 1986)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006058"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Object Name": "Bowl",
+ "Date": "9th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware; painted in black with splashes of green on an opaque white (tin) glaze",
+ "Dimensions": [
+  "H. 2 1/2 in. (6.4 cm)",
+  "Diam.  8 1/16 in. (20.5 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.40.109",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Painting",
+  "Glaze",
+  "Bowls",
+  "Ceramic glaze",
+  "Tin",
+  "Tin glaze"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140006597,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/38.40.109.JPG",
+ "related-artworks": [
+  140006825,
+  140006598,
+  140007068,
+  140005510,
+  140006821
+ ],
+ "Provenance": [
+  "1937, excavated at Sabz Pushan in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1938, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140006597"
+  }
+ }
+}

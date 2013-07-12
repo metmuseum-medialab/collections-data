@@ -1,0 +1,42 @@
+{
+ "Printer": "Lemercier (Paris)",
+ "Date": "December 23, 1852",
+ "Medium": "Lithograph; second state of three (Armelhault & Bocher)",
+ "Dimensions": "Sheet 16 1/8 x 12 in. (41 x 30.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Michael G. Wilson, 1982",
+ "Accession Number": "1982.1174.144",
+ "Who": [
+  "Paul Gavarni [Chevalier]",
+  "Lemercier"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90085846,
+ "related-artworks": [
+  90018048,
+  90024410,
+  90028473,
+  90032320,
+  90049446
+ ],
+ "Provenance": [
+  "Albert Maroni (French, 1852–1923)",
+  "Donor: Michael G. Wilson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90085846"
+  }
+ }
+}

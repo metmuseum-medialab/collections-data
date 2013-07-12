@@ -1,0 +1,38 @@
+{
+ "Date": "1932",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "David Hunter McAlpin Fund, 1941",
+ "Accession Number": "41.65.27",
+ "Rights and Reproduction": "© Estate of George Platt Lynes",
+ "Who": "George Platt Lynes",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190020565,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP118877.jpg",
+ "related-artworks": [
+  190011449,
+  190011450,
+  190011451,
+  190011452,
+  190011454
+ ],
+ "Provenance": [
+  "George Platt Lynes"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190020565"
+  }
+ }
+}

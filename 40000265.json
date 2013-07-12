@@ -1,0 +1,38 @@
+{
+ "Date": "17th century",
+ "Culture": "Japanese",
+ "Medium": "Iron",
+ "Dimensions": "501/2\" x 13\"",
+ "Classification": "Helmets",
+ "Credit Line": "Rogers Fund, 1906",
+ "Accession Number": "06.56",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Iron",
+  "Helmets"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40000265,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/1272.jpg",
+ "related-artworks": [
+  40000215,
+  40000217,
+  40000230,
+  40000232,
+  40000256
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000265"
+  }
+ }
+}

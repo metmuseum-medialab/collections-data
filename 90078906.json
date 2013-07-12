@@ -1,0 +1,50 @@
+{
+ "Publisher": "Angelo Rotili",
+ "Date": "published 1756-1757",
+ "Medium": "Etching",
+ "Dimensions": [
+  "sheet 21 1/4 x 15 3/8 in. (54 x 39 cm)",
+  "plate 5 1/8 x 8 1/16 in. (13 x 20.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, transferred from the Library",
+ "Accession Number": "41.71.1.1",
+ "Who": [
+  "Giovanni Battista Piranesi",
+  "Angelo Rotili"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Joseph Mallord William Turner (1775–1851)",
+  "The Grand Tour",
+  "Giovanni Battista Piranesi (1720–1778)",
+  "The Printed Image in the West History and Techniques",
+  "Neoclassicism",
+  "Venice in the Eighteenth Century",
+  "The French Academy in Rome",
+  "The Rediscovery of Classical Antiquity"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90078906,
+ "related-artworks": [
+  90004085,
+  90004773,
+  90016288,
+  90025589,
+  90027820
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90078906"
+  }
+ }
+}

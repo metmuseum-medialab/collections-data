@@ -1,0 +1,46 @@
+{
+ "Artist": "After Jacques Callot (French, Nancy 1592–1635 Nancy)",
+ "Publisher": "Published by Schenk",
+ "Date": "after 1642",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Sheet 5 1/16 x 8 9/16 in. (12.8 x 21.8 cm)",
+  "Plate 3 5/16 x 7 5/16 in. (8.4 x 18.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Samuel P. Avery, transferred from the Library, 1921",
+ "Accession Number": "21.36.19",
+ "Who": [
+  "Jacques Callot",
+  "Gerrit van Schagen",
+  "Schenk"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90091280,
+ "related-artworks": [
+  90008319,
+  90091184,
+  90091186,
+  90091176,
+  90091257
+ ],
+ "Provenance": [
+  "Donor: Samuel Putnam Avery Sr. (American, New York 1822–1904 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90091280"
+  }
+ }
+}

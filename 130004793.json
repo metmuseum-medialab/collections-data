@@ -1,0 +1,38 @@
+{
+ "Date": "7th–6th century B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Bronze",
+ "Dimensions": "length     7.59 cm.",
+ "Classification": "Bronzes",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.5443",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "id": 130004793,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP2268.jpg",
+ "related-artworks": [
+  130004661,
+  130004673,
+  130004869,
+  130004871,
+  130004901
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130004793"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Printer": "Printed by Christoph Weigel (German, 1664–1725)",
+ "Date": "1709",
+ "Medium": "plates; engraving, woodcut",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1980",
+ "Accession Number": "1980.1080",
+ "Who": [
+  "Christoph Weigel",
+  "Johann Carl Megerle"
+ ],
+ "What": [
+  "Prints",
+  "Engraving",
+  "Books",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90011662,
+ "related-artworks": [
+  90017893,
+  90018459,
+  90017888,
+  90014020,
+  90019864
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90011662"
+  }
+ }
+}

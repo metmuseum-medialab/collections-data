@@ -1,0 +1,34 @@
+{
+ "Date": "1885–90",
+ "Culture": "American",
+ "Medium": "silk, jet",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Edna Woolman Chase, 1941",
+ "Accession Number": "C.I.41.155",
+ "What": [
+  "Silk",
+  "Jet"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80035793,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.41.155_F.jpg",
+ "related-artworks": [
+  80035764,
+  80035859,
+  80035890,
+  80044450,
+  80044665
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80035793"
+  }
+ }
+}

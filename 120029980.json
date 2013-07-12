@@ -1,0 +1,41 @@
+{
+ "Date": "16th century",
+ "Culture": "French or Italian",
+ "Medium": "Linen, cutwork",
+ "Dimensions": "L. 90 x W. 2 1/2 inches (228.6 x 6.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Anonymous Gift, 1879",
+ "Accession Number": "79.1.113",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Lace",
+  "Cutwork"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120029980,
+ "related-artworks": [
+  120029983,
+  120029961,
+  120029965,
+  120029963,
+  120029966
+ ],
+ "Provenance": [
+  "Andrew MacCallum"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120029980"
+  }
+ }
+}

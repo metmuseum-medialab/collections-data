@@ -1,0 +1,46 @@
+{
+ "Date": "1700–1800",
+ "Geography": "Mid-Atlantic, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Wrought iron",
+ "Dimensions": "H. 45 in. (114.3 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Mrs. Robert W. de Forest, 1933",
+ "Accession Number": "34.100.194",
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Furniture",
+  "Iron alloy",
+  "Lighting devices",
+  "Stands",
+  "Wrought iron",
+  "Candles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001207,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/97247.jpg",
+ "related-artworks": [
+  10001219,
+  10001206,
+  10001215,
+  10001205,
+  10001220
+ ],
+ "Provenance": [
+  "Mrs. Robert W. de Forest, New York, until 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001207"
+  }
+ }
+}

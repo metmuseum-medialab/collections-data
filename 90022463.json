@@ -1,0 +1,39 @@
+{
+ "Date": "1887",
+ "Medium": "Etching",
+ "Dimensions": [
+  "image (to beige tone line) 11 5/8 x 8 1/2 in. (29.5 x 21.6 cm)",
+  "image (to black framing line) 11 1/8 x 8 in. (28.3 x 20.3 cm)",
+  "plate 11 3/4 x 9 in. (29.8 x 22.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1948",
+ "Accession Number": "48.31.29",
+ "Who": "Adolph Menzel",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90022463,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP102087.jpg",
+ "related-artworks": [
+  90014715,
+  90020326,
+  90020328,
+  90020378,
+  90020431
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90022463"
+  }
+ }
+}

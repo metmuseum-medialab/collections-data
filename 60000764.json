@@ -1,0 +1,45 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1796",
+ "Culture": "Japan",
+ "Medium": "Second sheet of a pentaptych of polychrome woodblock prints; ink and color on paper",
+ "Dimensions": "15 3/8 x 10 1/2 in. (39.1 x 26.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1914",
+ "Accession Number": "JP190",
+ "Who": "Eishōsai Chōki",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Polyptychs",
+  "Pentaptychs"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60000764,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP114881.jpg",
+ "related-artworks": [
+  60025994,
+  60026732,
+  60027200,
+  60027999,
+  60012737
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60000764"
+  }
+ }
+}

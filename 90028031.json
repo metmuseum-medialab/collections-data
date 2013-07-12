@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1642",
+ "Medium": "Etching; only state",
+ "Dimensions": "sheet 3 1/16 x 2 9/16 in. (7.8 x 6.5 cm) (trimmed to platemark)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1970",
+ "Accession Number": "1970.705",
+ "Who": "Rembrandt (Rembrandt van Rijn)",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Rembrandt van Rijn (1606–1669) Prints",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90028031,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP814542.jpg",
+ "related-artworks": [
+  90000884,
+  90000885,
+  90000912,
+  90004088,
+  90008630
+ ],
+ "Provenance": [
+  "Viscount Downe",
+  "Vendor: David Tunick, Inc."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90028031"
+  }
+ }
+}

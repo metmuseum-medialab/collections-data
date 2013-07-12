@@ -1,0 +1,38 @@
+{
+ "Date": "1820",
+ "Culture": "Japan",
+ "Medium": "White porcelain decorated with blue under the glaze (Hirado ware)",
+ "Dimensions": "H. 2 1/2 in. (6.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Charles Stewart Smith, 1893",
+ "Accession Number": "93.3.379a, b",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Glaze",
+  "Boxes",
+  "Hirado"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60030109,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/93_3_379.JPG",
+ "related-artworks": [
+  60016440,
+  60016455,
+  60016472,
+  60023445,
+  60023470
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030109"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "16th–19th century",
+ "Culture": "Tibet",
+ "Medium": "Black clay with color and gilt",
+ "Dimensions": "4 x 3 1/8 in. (10.2 x 7.9 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.76.143",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Gilt",
+  "Plaques"
+ ],
+ "Where": [
+  "Asia",
+  "China",
+  "Tibet"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia and the Himalayan Region, 1800–1900 A.D.",
+  "Himalayan Region, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60005810,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/30_76_143_O1.jpg",
+ "related-artworks": [
+  60005798,
+  60005830,
+  60005811,
+  60005832,
+  60005833
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005810"
+  }
+ }
+}

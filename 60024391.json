@@ -1,0 +1,44 @@
+{
+ "Period": "Bronze and Iron Age period",
+ "Date": "500 B.C.–A.D. 300",
+ "Culture": "Cambodia",
+ "Medium": "Bronze",
+ "Dimensions": "H. 1 1/16 in. (2.7 cm); Diam. 2 15/16 in. (7.5 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Samuel Eilenberg Collection, Bequest of Samuel Eilenberg, 1998",
+ "Accession Number": "2001.433.319",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Bronze",
+  "Jewelry",
+  "Bracelets",
+  "Bangles"
+ ],
+ "Where": [
+  "Asia",
+  "Cambodia"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1000 B.C.–1 A.D.",
+  "Southeast Asia, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60024391,
+ "gallery-id": 244,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2001_433_319–320.jpg",
+ "related-artworks": [
+  60024392,
+  60021267,
+  60004724,
+  60004725,
+  60021110
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60024391"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Maker": "Workshop of Robert Baillie (active 1727–35)",
+ "Date": "1732–37",
+ "Culture": "Irish, Dublin",
+ "Medium": "Wool, silk (21-22 warps per inch, 9 per cm.)",
+ "Dimensions": "H. 29 3/4 x W. 23 3/4 inches (75.6 x 60.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.1331a, b",
+ "Who": [
+  "John van Beaver",
+  "Robert Baillie"
+ ],
+ "What": [
+  "Silk",
+  "Textiles",
+  "Wool",
+  "Tapestries"
+ ],
+ "Where": [
+  "Europe",
+  "Republic of Ireland",
+  "Dublin",
+  "Leinster"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 120019522,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP130340.jpg",
+ "related-artworks": [
+  120003639,
+  120003641,
+  120005272,
+  120006415,
+  120006416
+ ],
+ "Provenance": [
+  "Weaver's Guild, Dublin, Ireland (before 1738)",
+  "Richard Atkinson (ca. 1840 until ?)",
+  "Irwin Untermyer , New York (until 1964)",
+  "Prop. of Messrs. Richard Atkinson & Co. Ltd., Christie's, London , Mar. 12, 1959, no. 140, sold to J. A. Lewis]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019522"
+  }
+ }
+}

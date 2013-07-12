@@ -1,0 +1,30 @@
+{
+ "Date": "1625–77",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.81.2.43",
+ "Who": "Wenceslaus Hollar (Wenzel Vaclav)",
+ "What": "Prints",
+ "Where": [
+  "Europe",
+  "Czech Republic",
+  "Bohemia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90031519,
+ "related-artworks": [
+  90003017,
+  90003018,
+  90008852,
+  90024389,
+  90024392
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90031519"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Paper",
+ "Dimensions": "15 3/4 x 10 1/2 in. (40.01 x 26.67 cm)",
+ "Classification": "Stencils",
+ "Credit Line": "Gift of Leon Dabo, 1955",
+ "Accession Number": "55.175.65",
+ "What": [
+  "Paper",
+  "Stencils"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60043894,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP13796.jpg",
+ "related-artworks": [
+  60044448,
+  60044453,
+  60044456,
+  60044469,
+  60024259
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043894"
+  }
+ }
+}

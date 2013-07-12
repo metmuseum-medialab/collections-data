@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1770",
+ "Culture": "British, Worcester",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. 4 1/2 in. (11.4 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Hans Syz Collection, Gift of Stephan B. Syz and John D. Syz, 1995",
+ "Accession Number": "1995.268.266 ab",
+ "Who": "Worcester",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Soft paste porcelain",
+  "Teapots"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Worcestershire",
+  "Worcester"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120024596,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP23027_1995.268.266AB.jpg",
+ "related-artworks": [
+  120013398,
+  120013411,
+  120013450,
+  120013452,
+  120013491
+ ],
+ "Provenance": [
+  "Hans Syz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120024596"
+  }
+ }
+}

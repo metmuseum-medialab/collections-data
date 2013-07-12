@@ -1,0 +1,45 @@
+{
+ "Date": "April 1960",
+ "Medium": "Gelatin silver print",
+ "Dimensions": [
+  "Image 50.8 x 50.8cm (20 x 20in.)",
+  "Frame 59.7 x 59.7 cm (23 1/2 x 23 1/2 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 2002",
+ "Accession Number": "2002.379.13",
+ "Rights and Reproduction": "© Richard Avedon",
+ "Who": "Richard Avedon",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photography and Everyday Life in America, 1945–60",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190037501,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/Avedon2002.379.13.jpg",
+ "related-artworks": [
+  190014248,
+  190014249,
+  190014252,
+  190014250,
+  190014253
+ ],
+ "Provenance": [
+  "the artist"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190037501"
+  }
+ }
+}

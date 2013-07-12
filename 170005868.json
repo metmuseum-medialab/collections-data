@@ -1,0 +1,42 @@
+{
+ "Date": "3rd–5th century",
+ "Culture": "Roman (?)",
+ "Medium": "Gold beads, green gems",
+ "Dimensions": "Overall 24 5/8 x 5/16 x 3/16 in. (62.5 x 0.8 x 0.5 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Bequest of Walter C. Baker, 1972",
+ "Accession Number": "1972.118.44",
+ "What": [
+  "Metal",
+  "Costume",
+  "Metalwork",
+  "Gold",
+  "Jewelry",
+  "Gems",
+  "Necklaces"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170005868,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf1972-118-44s1.jpg",
+ "related-artworks": [
+  170003920,
+  170003926,
+  170003927,
+  170003931,
+  170004033
+ ],
+ "Provenance": [
+  "Walter C.  Baker, New York (until 1971)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005868"
+  }
+ }
+}

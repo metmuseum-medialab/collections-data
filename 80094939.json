@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1900",
+ "Culture": "German (Bavarian peoples)",
+ "Medium": "metal, glass, silk, pearl, cotton",
+ "Dimensions": "9 x 40 1/2 in. (22.9 x 102.9 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Brooklyn Museum Collection, 1920",
+ "Accession Number": "2009.300.2277",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Glass",
+  "Cotton",
+  "Pearl",
+  "Headdresses"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe and Low Countries, 1800–1900 A.D.",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "id": 80094939,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/20.739_side_CP4.jpg",
+ "related-artworks": [
+  80115008,
+  80094269,
+  80094263,
+  80012127,
+  80094270
+ ],
+ "Description": "All sides of this regal headdress are equally ornamented, creating an overall dazzling effect for festival wear.  The abundance of gold embroidery and stones add to the grandeur and importance of this Bavarian headdress. The style is known as a \"queen's crown\" in the town of Buchloe, located in the Schwaben region of Bavaria, Germany.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80094939"
+  }
+ }
+}

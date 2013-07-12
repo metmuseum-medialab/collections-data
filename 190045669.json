@@ -1,0 +1,47 @@
+{
+ "Artist": "Philip Henry Delamotte (British, 1821–1889)",
+ "Date": "1850s",
+ "Medium": "Albumen silver print",
+ "Dimensions": [
+  "Image 28.5 x 23.6 cm (11 1/4 x 9 5/16 in.)",
+  "Mount 43.9 x 30 cm (17 5/16 x 11 13/16 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "David Hunter McAlpin Fund, 1952",
+ "Accession Number": "52.640",
+ "Who": [
+  "Philip Henry Delamotte",
+  "Joseph Cundall"
+ ],
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190045669,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP209899.jpg",
+ "related-artworks": [
+  190019143,
+  190021403,
+  190022690,
+  190045673,
+  190045674
+ ],
+ "Provenance": [
+  "[...]",
+  "Albert E. Marshall",
+  "[Swann Galleries, sale 311, 1952, lot 104]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190045669"
+  }
+ }
+}

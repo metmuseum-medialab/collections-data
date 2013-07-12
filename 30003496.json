@@ -1,0 +1,48 @@
+{
+ "Period": "Ur III",
+ "Date": "ca. 2094–2047 B.C.",
+ "Geography": "Mesopotamia, Nippur",
+ "Culture": "Neo-Sumerian",
+ "Medium": "Copper",
+ "Dimensions": "12 1/4 x 2 3/16 in. (31.1 x 5.6 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1959",
+ "Accession Number": "59.41.1",
+ "Who": "Neo-Sumerian",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Metalwork",
+  "Copper",
+  "Figures",
+  "Baskets"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Nippur"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003496,
+ "gallery-id": 403,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/DP231083.jpg",
+ "related-artworks": [
+  30008814,
+  30004151,
+  30004150,
+  30003503,
+  30003507
+ ],
+ "Provenance": [
+  "1955-56, excavated on behalf of the Joint Expedition to Nippur (Baghdad School of the American Schools of Oriental Research and The Oriental Institute of the University of Chicago)",
+  "acquired by the Museum in 1958, as a result of its financial contribution to the excavations (1957-58 season)."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003496"
+  }
+ }
+}

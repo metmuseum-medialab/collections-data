@@ -1,0 +1,44 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Thutmose III–Amenhotep II ?",
+ "Date": "ca. 1479–1400 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes",
+ "Medium": "Tempera on paper",
+ "Dimensions": [
+  "H. 36 cm (14 3/16 in); w. 54 cm (21 1/4 in)",
+  "scale 11"
+ ],
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.4.192",
+ "Who": "Charles K. Wilkinson",
+ "What": [
+  "Paper",
+  "Tempera",
+  "Facsimiles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100015534,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs30.4.192a.jpg",
+ "related-artworks": [
+  100000863,
+  100000884,
+  100000961,
+  100005327,
+  100005423
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100015534"
+  }
+ }
+}

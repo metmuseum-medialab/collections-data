@@ -1,0 +1,42 @@
+{
+ "Period": "Eastern Javanese period",
+ "Date": "10th–11th century(?)",
+ "Culture": "Indonesia (Java)",
+ "Medium": "Bronze",
+ "Dimensions": "H. 7 3/16 in. (18.3 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Samuel Eilenberg Collection, Gift of Samuel Eilenberg, 1987",
+ "Accession Number": "1987.142.306",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Bells"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1000–1400 A.D.",
+  "Southeast Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60004641,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1987_142_306_S1.jpg",
+ "related-artworks": [
+  60004621,
+  60004623,
+  60004624,
+  60004622,
+  60004631
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60004641"
+  }
+ }
+}

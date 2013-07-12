@@ -1,0 +1,49 @@
+{
+ "Printer": "Cane Press (1930–1940)",
+ "Publisher": "Squibb Gallery (1937–1987)",
+ "Date": "1937",
+ "Medium": "Offset lithograph",
+ "Dimensions": [
+  "Image 9 5/8 × 6 11/16 in. (24.4 × 17 cm)",
+  "Sheet 12 × 9 1/8 in. (30.5 × 23.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Martin Diamond Fine Arts and Vaclav Vytlacil, 1978",
+ "Accession Number": "1978.558.3",
+ "Who": [
+  "Cane Press",
+  "Squibb Gallery",
+  "Byron Browne"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Lithography",
+  "Offset lithography",
+  "Offset lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90104298,
+ "related-artworks": [
+  210003331,
+  90104252,
+  90104274,
+  90106889
+ ],
+ "Provenance": [
+  "Donor: Martin Diamond Donor: Vaclav Vytlacil (American, New York 1892–1984 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104298"
+  }
+ }
+}

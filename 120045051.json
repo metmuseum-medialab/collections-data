@@ -1,0 +1,42 @@
+{
+ "Date": "third quarter 19th century",
+ "Culture": "Belgian (Brussels)",
+ "Medium": "Needle lace",
+ "Dimensions": "Overall 52 x 156 in. (132.1 x 396.2 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+ "Accession Number": "48.187.621",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Outerwear",
+  "Needles",
+  "Needle lace",
+  "Shawls"
+ ],
+ "Where": [
+  "Europe",
+  "Belgium",
+  "Brussels"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120045051,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/144168.jpg",
+ "related-artworks": [
+  120030343,
+  120040284,
+  120037550,
+  120032933,
+  120035949
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120045051"
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "Manufacturer": "Perry Son & Co.",
+ "Date": "1883",
+ "Medium": "Brass and wood",
+ "Dimensions": [
+  "H. 5-3/4, W. 7-3/4 inches",
+  "(14.6 x 11.3 cm.)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of H. Blairman & Sons, Ltd., 1981",
+ "Accession Number": "1981.376",
+ "Who": [
+  "Christopher Dresser",
+  "Perry Son & Co."
+ ],
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Brass",
+  "Lighting devices",
+  "Candleholders",
+  "Candlesticks"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Christopher Dresser (1834–1904)",
+  "Exoticism in the Decorative Arts",
+  "Design Reform",
+  "Nineteenth–Century European Textile Production",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210002503,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1981.376.jpg",
+ "related-artworks": [
+  210002790,
+  210011204,
+  120023894,
+  120023963,
+  120027500
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210002503"
+  }
+ }
+}

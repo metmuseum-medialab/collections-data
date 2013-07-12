@@ -1,0 +1,57 @@
+{
+ "Artist": "Medalist Charles Jean Richard (born 1870)",
+ "Date": "1887",
+ "Culture": "Swiss",
+ "Medium": "bronze",
+ "Dimensions": "Diam. 1-3/4 in.(44 mm)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Mr. and Mrs. Frederick S. Wait, 1907",
+ "Accession Number": "07.301.4",
+ "Who": [
+  "Charles Jean Richard",
+  "Hugues Bovy"
+ ],
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120005132,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/2993.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120000962"
+   },
+   {
+    "href": "http://scrapi.org/object/120003677"
+   },
+   {
+    "href": "http://scrapi.org/object/120024347"
+   },
+   {
+    "href": "http://scrapi.org/object/120000923"
+   },
+   {
+    "href": "http://scrapi.org/object/120000998"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120005132"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120005132"
+  }
+ }
+}

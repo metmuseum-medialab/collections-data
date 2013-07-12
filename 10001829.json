@@ -1,0 +1,56 @@
+{
+ "Date": "1805–15",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Mahogany, brass with ash, yellow poplar",
+ "Dimensions": "32 3/4 x 18 1/2 x 17 in. (83.2 x 47 x 43.2 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "The Sylmaris Collection, Gift of George Coe Graves, 1931",
+ "Accession Number": "31.53.1",
+ "Who": "Duncan Phyfe",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Wood",
+  "Furniture",
+  "Brass",
+  "Seating furniture",
+  "Chairs",
+  "Mahogany",
+  "Side chairs",
+  "Poplar",
+  "Tulipwood"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Duncan Phyfe (1768–1854) and Charles–Honoré Lannuier (1779–1819)",
+  "American Federal Era Period Rooms",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10001829,
+ "gallery-id": 726,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/83338.jpg",
+ "related-artworks": [
+  10007635,
+  10010345,
+  10001947,
+  10001941,
+  10001944
+ ],
+ "Provenance": [
+  "George Coe Graves, Osterville, Massachusetts, until 1931"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001829"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Period": "Ptolemaic or Roman Period",
+ "Date": "304 B.C.–A.D. 364",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Wood, gesso, paint",
+ "Dimensions": "l. 12.5 cm (4 15/16 in); w. 11.5 cm (4 1/2 in)",
+ "Credit Line": "Gift of Egypt Exploration Fund",
+ "Accession Number": "O.C.348",
+ "What": [
+  "Wood",
+  "Panels",
+  "Funerary containers",
+  "Coffins",
+  "Gesso"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1000 B.C.–1 A.D.",
+  "Egypt, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100009388,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsoc348.jpg",
+ "related-artworks": [
+  100009381,
+  100001031,
+  100001051,
+  100005141,
+  100008092
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100009388"
+  }
+ }
+}

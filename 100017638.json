@@ -1,0 +1,47 @@
+{
+ "Period": "Third Intermediate Period",
+ "Dynasty": "Dynasty 21",
+ "Date": "ca. 1070–945 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Tomb MMA 60, Pit, MMA 1923–24",
+ "Medium": "Pine wood",
+ "Dimensions": "l.18.5 cm (7 5/16 in); diam. 2 cm (13/16 in)",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.3.177",
+ "What": [
+  "Wood",
+  "Softwood",
+  "Pine",
+  "Funerary containers",
+  "Coffins",
+  "Cord",
+  "Rope"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100017638,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/62422.jpg",
+ "related-artworks": [
+  100005115,
+  100017639,
+  100000580,
+  100050409,
+  100020208
+ ],
+ "Provenance": [
+  "Museum excavations 1923–24. Acquired by the Museum in the division of finds, 1925."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100017638"
+  }
+ }
+}

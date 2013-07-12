@@ -1,0 +1,41 @@
+{
+ "Period": "Northern Qi dynasty (550–577)",
+ "Date": "mid- to late 6th century",
+ "Culture": "China",
+ "Medium": "Limestone with traces of pigment",
+ "Dimensions": "H. 40 1/2 in. (102.9 cm); W. 14 1/2 in. (36.8 cm); D. 8 3/4 in. (22.2 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Mr. and Mrs. D. Herbert Beskind, 1956",
+ "Accession Number": "56.209",
+ "What": [
+  "Sculpture",
+  "Figures",
+  "Limestone"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60010253,
+ "gallery-id": 206,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP170182.jpg",
+ "related-artworks": [
+  60010257,
+  60010259,
+  60010277,
+  60010269,
+  60010254
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60010253"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Publisher": "Septimus Prowett (London)",
+ "Printer": "Chatfield & Company (London)",
+ "Date": "1825",
+ "Medium": "Mezzotint",
+ "Dimensions": [
+  "Image 7 11/16 x 11 1/2 in. (19.5 x 29.2 cm)",
+  "Sheet 14 13/16 x 21 13/16 in. (37.7 x 55.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1954",
+ "Accession Number": "54.578.1",
+ "Who": [
+  "John Martin",
+  "Septimus Prowett",
+  "Chatfield & Company"
+ ],
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Mezzotints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90047178,
+ "related-artworks": [
+  90000338,
+  90047172,
+  90047176,
+  90047177,
+  90047179
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90047178"
+  }
+ }
+}

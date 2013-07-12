@@ -1,0 +1,38 @@
+{
+ "Date": "1610–40",
+ "Culture": "German",
+ "Medium": "Iron",
+ "Dimensions": "L. 4 7/8 in.  (12.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Henry G. Marquand, 1887",
+ "Accession Number": "87.11.440",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Keys"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001157,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/36261.jpg",
+ "related-artworks": [
+  120006019,
+  120001052,
+  120001055,
+  120001058,
+  120001171
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001157"
+  }
+ }
+}

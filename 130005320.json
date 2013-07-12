@@ -1,0 +1,35 @@
+{
+ "Culture": "Etruscan",
+ "Medium": "Terracotta",
+ "Classification": "Vases",
+ "Credit Line": "Gift of L. P. di Cesnola, 1875",
+ "Accession Number": "75.4.31",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130005320,
+ "related-artworks": [
+  130006621,
+  130006622,
+  130006653,
+  130006665,
+  130006669
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130005320"
+  }
+ }
+}

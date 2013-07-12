@@ -1,0 +1,45 @@
+{
+ "Date": "1735–50",
+ "Culture": "French (Paris)",
+ "Medium": "Gilt bronze",
+ "Dimensions": "Each H. 11 3/4 in. (30 cm.); Diam. of base 6 1/2 in (16.5 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, Gift of Charles Wrightsman, by exchange, 1977",
+ "Accession Number": "1977.178.1, .2",
+ "Who": "Juste Aurèle Meissonnier",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Gilt",
+  "Plate",
+  "Lighting devices",
+  "Ormolu",
+  "Candleholders",
+  "Candlesticks"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120022713,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP109188.jpg",
+ "related-artworks": [
+  120021768,
+  120026243,
+  120025753,
+  90002374,
+  90002910
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022713"
+  }
+ }
+}

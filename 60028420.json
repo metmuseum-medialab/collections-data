@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Handscroll; ink on paper",
+ "Dimensions": "12 3/4 x 67 1/2 in. (32.4 x 171.5 cm)",
+ "Classification": "Calligraphy",
+ "Credit Line": "The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+ "Accession Number": "1975.268.91",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Handscrolls",
+  "Calligraphy"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60028420,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP221400.jpg",
+ "related-artworks": [
+  60028418,
+  60028419,
+  60006973,
+  60006985,
+  60006984
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028420"
+  }
+ }
+}

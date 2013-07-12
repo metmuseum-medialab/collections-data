@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1650",
+ "Culture": "Spanish",
+ "Classification": "Swords",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.995",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Rapiers"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005718,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/173518.jpg",
+ "related-artworks": [
+  40003324,
+  40003328,
+  40003335,
+  40005713,
+  40005719
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40005718"
+  }
+ }
+}

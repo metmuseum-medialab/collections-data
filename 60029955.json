@@ -1,0 +1,39 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Ceramic, white ceramic ground, gold, black and red takamakie, nashiji; Interior nashiji and fundame",
+ "Dimensions": "3 7/16 x 1 3/4 x 1 in. (8.8 x 4.5 x 2.6 cm)",
+ "Classification": "Inrō",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.834",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Gold",
+  "Inro",
+  "Sagemono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60029955,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/29_100_834_O3.JPG",
+ "related-artworks": [
+  60029867,
+  60029918,
+  60029985,
+  60000137,
+  60013274
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029955"
+  }
+ }
+}

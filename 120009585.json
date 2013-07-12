@@ -1,0 +1,42 @@
+{
+ "Date": "18th century",
+ "Culture": "British, Etruria",
+ "Medium": "Jasperware",
+ "Dimensions": "H. 9 1/2 in.  (24.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of the Estate of Anna Moore Romaine, 1921",
+ "Accession Number": "21.158 a-c",
+ "Who": "Josiah Wedgwood  Sons",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Vases"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009585,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/48967.jpg",
+ "related-artworks": [
+  120005786,
+  120006066,
+  120011915,
+  120006065,
+  120006492
+ ],
+ "Provenance": [
+  "Estate of Anna Moore Romaine (until 1921",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009585"
+  }
+ }
+}

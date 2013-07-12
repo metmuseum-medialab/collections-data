@@ -1,0 +1,43 @@
+{
+ "Period": "Early Bronze Age",
+ "Date": "ca. late 3rd millennium B.C.",
+ "Geography": "Mesopotamia, Tell Taya",
+ "Medium": "Ceramic",
+ "Dimensions": "2.01 x 2.87 in. (5.11 x 7.29 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1972",
+ "Accession Number": "1972.222.64",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Fragments",
+  "Bowls",
+  "Sherds"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30004793,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME1972_222_64.jpg",
+ "related-artworks": [
+  30004775,
+  30004796,
+  30004803,
+  30004785,
+  30004787
+ ],
+ "Provenance": [
+  "1968–69, excavated by Julian Reade, on behalf of the British School of Archaeology in Iraq",
+  "acquired by the Museum in 1972, as a result of its financial contribution to the excavations."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30004793"
+  }
+ }
+}

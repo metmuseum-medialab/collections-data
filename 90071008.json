@@ -1,0 +1,41 @@
+{
+ "Date": "1610–85",
+ "Medium": "Etching",
+ "Dimensions": "sheet 4 x 3 1/2 in. (10.2 x 8.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.474",
+ "Who": "Adriaen van Ostade",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Genre Painting in Northern Europe",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90071008,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821817.jpg",
+ "related-artworks": [
+  90023002,
+  90023009,
+  90023010,
+  90025129,
+  90025130
+ ],
+ "Provenance": [
+  "Donor: Elisha Whittelsey Fund"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90071008"
+  }
+ }
+}

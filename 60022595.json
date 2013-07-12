@@ -1,0 +1,43 @@
+{
+ "Period": "early Ming dynasty (1368–1644)",
+ "Culture": "China",
+ "Medium": "Album leaf; ink and color on silk",
+ "Dimensions": "10 7/16 x 10 3/8 in. (26.5 x 26.4 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947",
+ "Accession Number": "47.18.79",
+ "Who": "Unidentified Artist",
+ "What": [
+  "Silk",
+  "Ink",
+  "Books",
+  "Paintings",
+  "Albums"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1600–1800 A.D.",
+  "China, 1000–1400 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60022595,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP154428.jpg",
+ "related-artworks": [
+  60000056,
+  60000060,
+  60000061,
+  60000062,
+  60000074
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60022595"
+  }
+ }
+}

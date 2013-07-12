@@ -1,0 +1,46 @@
+{
+ "Date": "early 19th century",
+ "Culture": "British",
+ "Medium": "Glazed earthenware",
+ "Dimensions": "8 3/4 x 9 in.  (22.2 x 22.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Andrew V. Stout, 1941",
+ "Accession Number": "41.66.3 ab",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Glazing",
+  "Planters",
+  "Jardinières"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013692,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES4206.jpg",
+ "related-artworks": [
+  120024673,
+  120049014,
+  120023488,
+  120050105,
+  120013180
+ ],
+ "Provenance": [
+  "[ Parke-Bernet Galleries ]",
+  "Mr. and Mrs. Andrew V. Stout (until 1941",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013692"
+  }
+ }
+}

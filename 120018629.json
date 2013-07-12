@@ -1,0 +1,52 @@
+{
+ "Factory director": "Böttger Period (1713–1720)",
+ "Decorator": "Ignaz Preissler (1676–1753)",
+ "Date": "ca. 1720–25",
+ "Culture": "German (Meissen)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "Overall (confirmed) 8 11/16 x 4 7/16 x 3 13/16 in. (22.1 x 11.3 x 9.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.145",
+ "Who": [
+  "Meissen Manufactory",
+  "Böttger Period",
+  "Ignaz Preissler"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Faience",
+  "Porcelain",
+  "Vases",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Saxony",
+  "Meissen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120018629,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP155995.jpg",
+ "related-artworks": [
+  120018621,
+  120018635,
+  120013274,
+  120014195,
+  120016127
+ ],
+ "Provenance": [
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120018629"
+  }
+ }
+}

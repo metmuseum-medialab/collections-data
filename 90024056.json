@@ -1,0 +1,39 @@
+{
+ "Publisher": "Published by Gaber and Richter",
+ "Printer": "Printed by C. C. Meinholdt and Söhne",
+ "Date": "1858",
+ "Dimensions": "Overall 11 15/16 x 9 3/8 x 5/16 in. (30.3 x 23.8 x 0.8 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Carl Joseph Ulmann, 1923",
+ "Accession Number": "23.6.7",
+ "Who": [
+  "Adrian Ludwig Richter",
+  "C. C. Meinholdt  Söhne",
+  "Gaber  Richter"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024056,
+ "related-artworks": [
+  90008112,
+  90014940,
+  90019225,
+  90024049,
+  90024050
+ ],
+ "Provenance": [
+  "Donor: Carl Joseph Ulmann (1863–ca. 1939 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024056"
+  }
+ }
+}

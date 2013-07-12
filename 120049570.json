@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1600",
+ "Culture": "Flemish",
+ "Medium": "Wool, silk, silver-gilt thread (21 warps per inch, 9 per cm.)",
+ "Dimensions": "See individual records for measurements.",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of George Blumenthal, 1941",
+ "Accession Number": "41.100.57a–f",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Silver",
+  "Wool",
+  "Gilt",
+  "Tapestries",
+  "Caps",
+  "Cushions"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1400–1600 A.D.",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120049570,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/124827.jpg",
+ "related-artworks": [
+  120044285,
+  120044287,
+  120044288,
+  120044284,
+  120044286
+ ],
+ "Provenance": [
+  "George and Florence Blumenthal (until her death in 1930)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120049570"
+  }
+ }
+}

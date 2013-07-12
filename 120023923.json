@@ -1,0 +1,46 @@
+{
+ "Date": "1605",
+ "Culture": "French",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 7 1/2 in. (190 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Purchase, Gift of J. Pierpont Morgan, by exchange, 1989",
+ "Accession Number": "1989.12.1",
+ "Who": "Guillaume Dupré",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes",
+  "Medallions"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Pastoral Charms in the French Renaissance",
+  "Ceramics in the French Renaissance",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120023923,
+ "gallery-id": 532,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES4631.jpg",
+ "related-artworks": [
+  120005044,
+  120010194,
+  120011626,
+  120005043,
+  120010192
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120023923"
+  }
+ }
+}

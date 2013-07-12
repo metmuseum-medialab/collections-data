@@ -1,0 +1,48 @@
+{
+ "Artist": "After Jean Étienne Liotard (Swiss, Geneva 1702–1789 Geneva)",
+ "Date": "1744",
+ "Medium": "Etching and engraving; second state of three",
+ "Dimensions": [
+  "plate 17 3/8 x 14 1/4 in. (44.2 x 36.2 cm)",
+  "sheet 17 7/8 x 14 9/16 in. (45.4 x 37 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Susan Schulman Printseller and Carolyn Bullard Fine Prints, 2009",
+ "Accession Number": "2009.468.2",
+ "Who": [
+  "Jean Étienne Liotard",
+  "Johann Christoph Reinsperger"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90064603,
+ "related-artworks": [
+  90064609,
+  90049371,
+  90050070
+ ],
+ "Provenance": [
+  "Christiaan Bernard Tilanus (1856–1932), sale, Geneva, 1934",
+  "Société auxilaire du Musée du Genève",
+  "Rodolphe Dunki (Swiss)",
+  "Private Collection, Geneva",
+  "Christie's, London , April 8, 2009 (part of lot 36)",
+  "Donor: Susan Schulman Donor: Carolyn Bullard"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90064603"
+  }
+ }
+}

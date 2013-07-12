@@ -1,0 +1,34 @@
+{
+ "Date": "1850–60",
+ "Culture": "American",
+ "Medium": "Wool",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009",
+ "Accession Number": "2009.300.6158",
+ "What": [
+  "Costume",
+  "Wool",
+  "Outerwear",
+  "Stoles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80108667,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CP352_CP1.jpg",
+ "related-artworks": [
+  80096734,
+  80107323,
+  80107662,
+  80108134,
+  80116117
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108667"
+  }
+ }
+}

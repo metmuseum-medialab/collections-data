@@ -1,0 +1,39 @@
+{
+ "Date": "1800–1962",
+ "Culture": "Chinese",
+ "Medium": "silk, metal, synthetic",
+ "Dimensions": "Length 31 in. (78.7 cm)",
+ "Credit Line": "Gift of Mr. and Mrs. Maxime L. Hermanos, 1962",
+ "Accession Number": "C.I.62.44.20",
+ "What": [
+  "Metal",
+  "Silk",
+  "Collars"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present",
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80010163,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI62.44.20_F.jpg",
+ "related-artworks": [
+  80010155,
+  80010165,
+  80010166,
+  80060069,
+  80010191
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80010163"
+  }
+ }
+}

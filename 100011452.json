@@ -1,0 +1,58 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Northern Upper Egypt, Abydos (Umm el-Qaab, Tell el-Manshiya, others), Tomb D14 E, Egypt Exploration Fund 1900",
+ "Medium": "Egyptian alabaster",
+ "Dimensions": "H. 0.127m",
+ "Credit Line": "Gift of the Egypt Exploration Fund, 1900",
+ "Accession Number": "00.4.32",
+ "What": [
+  "Vessels",
+  "Bottles",
+  "Gypsum",
+  "Alabaster",
+  "Amphorae"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Abydos"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100011452,
+ "related-artworks": [
+  "http://scrapi.org/object/100013532",
+  "http://scrapi.org/object/100000139",
+  "http://scrapi.org/object/100011475",
+  "http://scrapi.org/object/100011454",
+  "http://scrapi.org/object/100013277"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100013532"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000139"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100011475"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100011454"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100013277"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100011452"
+  }
+ }
+}

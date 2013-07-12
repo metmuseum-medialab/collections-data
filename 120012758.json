@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1720",
+ "Culture": "British",
+ "Medium": "Silver",
+ "Dimensions": "L. 2 5/8 in.  (6.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mr. and Mrs. Howard Eric, 1936",
+ "Accession Number": "36.156.3,4",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Flatware",
+  "Spoons",
+  "Snuff spoons"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120012758,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/110017.jpg",
+ "related-artworks": [
+  120012756,
+  120012757,
+  120012760,
+  120002372,
+  120006812
+ ],
+ "Provenance": [
+  "[ Christie, Manson and Woods , May 20, 1936, lot no. 41",
+  "sold to Partridge ]",
+  "Partridge (in 1936)",
+  "Mr. and Mrs. Howard Eric (in 1936",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120012758"
+  }
+ }
+}

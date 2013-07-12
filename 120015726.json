@@ -1,0 +1,49 @@
+{
+ "Date": "late 18th century",
+ "Culture": "French",
+ "Medium": [
+  "White marble",
+  "Plinth, bleu turquin marble with gilt bronze mounts"
+ ],
+ "Dimensions": "L. 9 in. (22.9 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Jules Bache Collection, 1949",
+ "Accession Number": "49.7.69a, b",
+ "Who": "Joseph-Charles Marin",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Gilt",
+  "Statues",
+  "Figurines",
+  "Marble",
+  "Plinths"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120015726,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES6022.jpg",
+ "related-artworks": [
+  120023706,
+  120025606,
+  120022403,
+  120023514,
+  120014737
+ ],
+ "Provenance": [
+  "Jules S. Bache"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120015726"
+  }
+ }
+}

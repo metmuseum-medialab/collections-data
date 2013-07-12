@@ -1,0 +1,35 @@
+{
+ "Date": "1935",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "19.0 x 24.5 cm (7 1/2 x 9 5/8 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Ford Motor Company Collection, Gift of Ford Motor Company and John C. Waddell, 1987",
+ "Accession Number": "1987.1100.142",
+ "Who": "Unknown, American",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190016963,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP111647.jpg",
+ "related-artworks": [
+  190011635,
+  190012787,
+  190012790,
+  190012788,
+  190012791
+ ],
+ "Description": "Busby Berkeley's choreography for the show-stopping \"Lullaby of Broadway\" in The Gold Diggers of 1935 is famous for the jazzy complexity and precision tap dancing of one hundred performers in simultaneous movement.  The stars of the film, Dick Powell and Wini Shawm are the only patrons in the lavish nightclub portrayed in this publicity still.",
+ "Provenance": [
+  "[Tom Jacobson gift to Waddell, March 1981]",
+  "John C. Waddell"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190016963"
+  }
+ }
+}

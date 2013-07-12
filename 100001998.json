@@ -1,0 +1,42 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 11",
+ "Reign": "reign of Mentuhotep II",
+ "Date": "ca. 2051–2000 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Tomb of Khety (TT 311, MMA 508), MMA 1922–1923/1926–1927",
+ "Medium": "Limestone, paint",
+ "Dimensions": "H. 11 x W. 7 cm  (4 5/16  x 2 3/4 in.)",
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "26.3.354dd",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Reliefs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "id": 100001998,
+ "gallery-id": 107,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/26.3.354dd_EGDP010281.jpg",
+ "related-artworks": [
+  100004819,
+  100004807,
+  100004842,
+  100004864,
+  100004851
+ ],
+ "Provenance": [
+  "Museum excavations, 1922-1926. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100001998"
+  }
+ }
+}

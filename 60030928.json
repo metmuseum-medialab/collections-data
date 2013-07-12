@@ -1,0 +1,51 @@
+{
+ "Period": "Nanbokuchō period (1336–92)",
+ "Date": "ca. 1383",
+ "Culture": "Japan",
+ "Medium": "Hanging scroll; ink, color, and gold on silk",
+ "Dimensions": [
+  "Image 45 5/8 × 20 1/2 in. (115.9 × 52.1 cm)",
+  "Overall 79 × 29 3/4 in. (200.7 × 75.6 cm)",
+  "Overall with knobs 79 × 31 5/8 in. (200.7 × 80.3 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Sylvan Barnet and William Burto, 2007",
+ "Accession Number": "2007.329",
+ "Who": "Unidentified Artist",
+ "What": [
+  "Metal",
+  "Silk",
+  "Ink",
+  "Paintings",
+  "Gold",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Zen Buddhism",
+  "Japan, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60030928,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP156184.jpg",
+ "related-artworks": [
+  60013024,
+  60013435,
+  60013437,
+  60047294,
+  60051567
+ ],
+ "Description": "This formal portrait depicts Shun’oku Myōha (1311–1388), a prominent figure in Zen Buddhism. Made for a temple in Kyoto, it features an inscription authored by the sitter. It belongs to a portrait tradition that originated in China, where it was associated with funerals and memorial services. In Japan the genre came to denote paintings that preserved the likenesses of Zen masters, not only for commemorative ceremonies but also as a way of certifying the successful transmission of Buddhist teachings (dharma) from masters to their disciples. This portrait is bold and compelling, an effect rendered through expert ink brushwork combined with intricate color application defining each detail of the robe and face.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030928"
+  }
+ }
+}

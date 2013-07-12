@@ -1,0 +1,37 @@
+{
+ "Date": "early 1960s",
+ "Culture": "American",
+ "Medium": "leather, nylon",
+ "Dimensions": "Diameter 10 in. (25.4 cm)",
+ "Credit Line": "Gift of Marvin B. Patterson (Mrs. Jefferson Patterson), 1978",
+ "Accession Number": "1978.582.105",
+ "What": [
+  "Costume",
+  "Leather",
+  "Plastic",
+  "Caps",
+  "Nylon"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80049268,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.582.105.jpg",
+ "related-artworks": [
+  80049314,
+  80057522,
+  80002055,
+  80002054,
+  80002051
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80049268"
+  }
+ }
+}

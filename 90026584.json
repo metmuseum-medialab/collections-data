@@ -1,0 +1,43 @@
+{
+ "Publisher": "Published by Kaulfuss widow, Prandel & Comp. (Austrian)",
+ "Printer": "Printed by J. P. Sollinger (Austrian)",
+ "Author": "Written by Eduard Duller",
+ "Artist": "J. N. P. Geiger",
+ "Date": "1844–47",
+ "Dimensions": "Overall 10 13/16 x 7 1/16 x 2 3/4 in. (27.5 x 18 x 7 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1928",
+ "Accession Number": "28.79.1.1-.17",
+ "Who": [
+  "Moritz von Schwind",
+  "Eduard Duller",
+  "J. . P. Geiger",
+  "J. P. Sollinger",
+  "Kaulfuss widow, Prandel & Comp."
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90026584,
+ "related-artworks": [
+  90016602,
+  90019544,
+  90020159,
+  90024649,
+  90024741
+ ],
+ "Provenance": [
+  "Vendor: Agnes Straub (German)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026584"
+  }
+ }
+}

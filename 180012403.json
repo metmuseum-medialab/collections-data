@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Geography": "Japan",
+ "Medium": "Wood, bamboo",
+ "Dimensions": "L. 18.3 cm (7-3/16 in.)",
+ "Classification": "(not assigned)",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.104",
+ "What": [
+  "Aerophones",
+  "Grass",
+  "Bamboo",
+  "Reeds",
+  "Reedpipes",
+  "Hichiriki"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180012403,
+ "gallery-id": 681,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/midp89.4.104.jpg",
+ "related-artworks": [
+  180014805,
+  180012397,
+  180014598,
+  180014804,
+  180014820
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180012403"
+  }
+ }
+}

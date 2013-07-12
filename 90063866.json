@@ -1,0 +1,32 @@
+{
+ "Date": "17th century",
+ "Medium": "Pen and brown ink, brush and brown wash, over graphite underdrawing and ruled construction",
+ "Dimensions": "sheet 11 15/16 x 7 5/8 in. (30.4 x 19.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Whiielsey Fund, 1959",
+ "Accession Number": "59.605.3",
+ "Who": "Anonymous, Italian, 17th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite",
+  "Underdrawings"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90063866,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802676.jpg",
+ "related-artworks": [
+  90063809,
+  90063823,
+  90063806,
+  90063825,
+  90063807
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90063866"
+  }
+ }
+}

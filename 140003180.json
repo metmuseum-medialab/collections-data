@@ -1,0 +1,63 @@
+{
+ "Date": "first half 14th century",
+ "Geography": "Syria",
+ "Medium": "Earthenware; painted on an opaque white ground under transparent glaze",
+ "Dimensions": "Diam. 6 3/4 in. (17.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.44.5",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Painting",
+  "Glaze",
+  "Bowls"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140003180,
+ "gallery-id": 455,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf10-44-5a.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/is/original/sf10-44-5a.jpg",
+  "http://images.metmuseum.org/CRDImages/is/original/sf10-44-5b.jpg",
+  "http://images.metmuseum.org/CRDImages/is/original/sf10-44-5c.jpg"
+ ],
+ "Description": "This bowl exhibits a rare glaze type referred to as lajvardina, from the Persian word lajvard, or lapis lazuli (a deep blue colored stone containing gold inclusions). Its design comprises small squares of gold leaf, carefully arranged into intricate patterns with delicate red and white overpainting. Production of this type of glazed ware is limited to the Ilkhanid period in Iran. And the luxurious nature of this example suggests it was destined for wealthy patrons.",
+ "Provenance": [
+  "[ Folsom Galleries, New York, until 1910",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/140002527"
+   },
+   {
+    "href": "http://scrapi.org/object/140004429"
+   },
+   {
+    "href": "http://scrapi.org/object/140003746"
+   },
+   {
+    "href": "http://scrapi.org/object/140007711"
+   },
+   {
+    "href": "http://scrapi.org/object/140007785"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140003180"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/140003180"
+  }
+ }
+}

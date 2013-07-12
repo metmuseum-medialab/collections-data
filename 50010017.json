@@ -1,0 +1,43 @@
+{
+ "Date": "before 16th century",
+ "Geography": "Mexico, Mesoamerica",
+ "Culture": "Maya",
+ "Medium": "Stone",
+ "Dimensions": "Height 2 in.",
+ "Classification": "Beads-Ornaments",
+ "Credit Line": "Bequest of Arthur M. Bullowa, 1993",
+ "Accession Number": "1994.35.500",
+ "Who": "Maya",
+ "What": [
+  "Stone",
+  "Beads"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico, 1400–1600 A.D.",
+  "Mexico, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50010017,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/hz1994_35_500.jpg",
+ "related-artworks": [
+  50010019,
+  50010025,
+  50010026,
+  50010032,
+  50000005
+ ],
+ "Provenance": [
+  "[The Edward H. Merrin Gallery, New York, until the 1970s]",
+  "Arthur M. Bullowa, New York, 1970s–1993"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50010017"
+  }
+ }
+}

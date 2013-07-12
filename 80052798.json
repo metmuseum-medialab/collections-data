@@ -1,0 +1,35 @@
+{
+ "Date": "1930–59",
+ "Culture": "French",
+ "Medium": "leather",
+ "Dimensions": "Length 12 in. (30.5 cm)",
+ "Credit Line": "Gift of Sven E. Hsia, 1980",
+ "Accession Number": "1980.98.31a, b",
+ "What": [
+  "Costume",
+  "Leather",
+  "Gloves"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80052798,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1980.98.31ab.jpg",
+ "related-artworks": [
+  80006159,
+  80000342,
+  80001281,
+  80001927,
+  80002028
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052798"
+  }
+ }
+}

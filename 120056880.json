@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1800",
+ "Culture": "French",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "Overall 96 1/2 x 26 1/2 in. (245.1 x 67.3 cm)",
+  "Overall 31 x 25 in. (78.7 x 63.5 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of George Mangini, 2009",
+ "Accession Number": "2009.323.7",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120056880,
+ "related-artworks": [
+  120025003,
+  120037127,
+  120037141,
+  120037138,
+  120037154
+ ],
+ "Provenance": [
+  "George Mangini (until 2009",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120056880"
+  }
+ }
+}

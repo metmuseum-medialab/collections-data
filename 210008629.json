@@ -1,0 +1,35 @@
+{
+ "Date": "1907",
+ "Medium": "Charcoal on paper",
+ "Dimensions": "12 1/2 x 8 in. (31.8 x 20.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Alfred Stieglitz Collection, 1949",
+ "Accession Number": "49.70.177",
+ "Who": "Abraham Walkowitz",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Charcoal"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210008629,
+ "related-artworks": [
+  210003082,
+  210003087,
+  210003089,
+  210003117,
+  210003094
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210008629"
+  }
+ }
+}

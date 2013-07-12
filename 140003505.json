@@ -1,0 +1,52 @@
+{
+ "Object Name": "Illustrated manuscript",
+ "Date": "late 15th century",
+ "Geography": "Iran",
+ "Medium": "Ink and gold on paper; leather binding",
+ "Dimensions": "10 3/16 x 7 1/8in. (25.8 x 18.1cm)",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.160.10",
+ "Who": "`Abd al-Rahman al-Sufi",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Glass",
+  "Gold",
+  "Leather",
+  "Manuscripts",
+  "Illuminated manuscripts",
+  "Binding"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Astronomy and Astrology in the Medieval Islamic World",
+  "Iran, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140003505,
+ "gallery-id": 453,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP232478.jpg",
+ "related-artworks": [
+  140010134,
+  140003748,
+  140003751,
+  140003759
+ ],
+ "Description": "This book, based on the Almagest of the Greek astronomer Ptolemy, concerns the forty‑eight constellations known as the Fixed Stars, which, according to the medieval conception of the universe, inhabited the eighth of the nine spheres surrounding the earth. The constellations each appear twice in mirror image, shown as observed from the earth and from the sky.",
+ "Provenance": [
+  "[ Léonce Rosenberg, Paris, until 1913",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003505"
+  }
+ }
+}

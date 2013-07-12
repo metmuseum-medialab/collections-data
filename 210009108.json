@@ -1,0 +1,37 @@
+{
+ "Medium": "Watercolor on cardboard",
+ "Dimensions": [
+  "H. 13-3/8, W. 19-3/4 inches",
+  "(34 x 50.2 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Everett Leslie Waid, 1955",
+ "Accession Number": "55.53.1",
+ "Who": "William Russell Flint",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Cardboard"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Modern and Contemporary Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009108,
+ "related-artworks": [
+  90013463,
+  210000758,
+  210009907,
+  210002456
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009108"
+  }
+ }
+}

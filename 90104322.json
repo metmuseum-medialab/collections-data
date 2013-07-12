@@ -1,0 +1,38 @@
+{
+ "Date": "early 20th century",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Plate 11 5/8 × 9 5/16 in. (29.6 × 23.7 cm)",
+  "Sheet 16 5/16 × 12 3/4 in. (41.5 × 32.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Marjorie Nott Morawetz, 1943",
+ "Accession Number": "43.34",
+ "Who": "Theodore Brenson",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90104322,
+ "related-artworks": [
+  90104324,
+  90104311,
+  90000808
+ ],
+ "Provenance": [
+  "Donor: Marjorie Nott Morawetz (American, 1900–1957)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104322"
+  }
+ }
+}

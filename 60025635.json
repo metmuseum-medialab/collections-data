@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1761",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "H. 12 1/4 in. (31.1 cm); 5 7/8 in. (14.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Estate of Samuel Isham, 1914",
+ "Accession Number": "JP837",
+ "Who": "Torii Kiyomitsu",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60025635,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP123729.jpg",
+ "related-artworks": [
+  60026531,
+  60026756,
+  60027669,
+  60000773,
+  60001021
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60025635"
+  }
+ }
+}

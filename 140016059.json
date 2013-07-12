@@ -1,0 +1,42 @@
+{
+ "Date": "probably 14th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Copper",
+ "Classification": "Coins",
+ "Credit Line": "Rogers Fund, 1939",
+ "Accession Number": "39.40.127.635",
+ "What": [
+  "Metal",
+  "Copper",
+  "Money",
+  "Coins"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140016059,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/39.40.127.635a.JPG",
+ "related-artworks": [
+  140015965,
+  140016015,
+  140015426,
+  140015451,
+  140015454
+ ],
+ "Provenance": [
+  "1938, excavated at Village Tepe in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1939, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140016059"
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "Date": "1991",
+ "Medium": "Drypoint and liftground aquatint",
+ "Dimensions": [
+  "H. 42-1/4, W. 30-7/8",
+  "(107.3 x 78.4 cm.)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Anonymous Gift, 1992",
+ "Accession Number": "1992.344.9",
+ "Who": "Mike Parr",
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints",
+  "Aquatint",
+  "Lift-ground"
+ ],
+ "Where": [
+  "Oceania",
+  "Australia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Australia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210006285,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210006282"
+   },
+   {
+    "href": "http://scrapi.org/object/210006271"
+   },
+   {
+    "href": "http://scrapi.org/object/210006270"
+   },
+   {
+    "href": "http://scrapi.org/object/210006272"
+   },
+   {
+    "href": "http://scrapi.org/object/210006273"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210006285"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210006285"
+  }
+ }
+}

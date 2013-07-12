@@ -1,0 +1,36 @@
+{
+ "Date": "1941",
+ "Culture": "American",
+ "Medium": "Wool, silk, metallic, plastic beads, wood",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Anonymous gift, 1943",
+ "Accession Number": "2009.300.4393",
+ "Who": "Sally Victor",
+ "What": [
+  "Costume",
+  "Silk",
+  "Wool",
+  "Hats",
+  "Plastic"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80106822,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/43.189_view1_CP2.jpg",
+ "related-artworks": [
+  80106853,
+  80106881,
+  80108580,
+  80093878,
+  80094401
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80106822"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Geography": "Marquesas Islands",
+ "Culture": "Marquesan (Enata) people",
+ "Medium": "Stone",
+ "Dimensions": "Width 5 in.",
+ "Classification": "Stone-Implements",
+ "Credit Line": "From the Collection of Nina and Gordon Bunshaft, Bequest of Nina Bunshaft, 1994",
+ "Accession Number": "1995.65.1",
+ "What": "Stone",
+ "Where": [
+  "Oceania",
+  "French Polynesia",
+  "Marquesas Islands"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Polynesia, 1800–1900 A.D.",
+  "Polynesia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50010403,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1995.65.1.jpg",
+ "related-artworks": [
+  50003882,
+  50006335,
+  50006489,
+  50007632,
+  50014738
+ ],
+ "Provenance": [
+  "Bernice P. Bishop Museum, Honolulu, HI, until after 1972",
+  "Nina and Gordon Bunshaft, New York, acquired after 1972",
+  "Nina Bunshaft, New York, until (d.)1994"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50010403"
+  }
+ }
+}

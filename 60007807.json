@@ -1,0 +1,40 @@
+{
+ "Date": "17th–19th century",
+ "Culture": "Philippines",
+ "Medium": "Gold",
+ "Dimensions": "L. 12 7/8 in. (32.7 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1912",
+ "Accession Number": "12.176.15",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Necklaces"
+ ],
+ "Where": [
+  "Asia",
+  "Philippines"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1800–1900 A.D.",
+  "Southeast Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60007807,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/12_176_15_O.JPG",
+ "related-artworks": [
+  60007794,
+  60007803,
+  60007804,
+  60007805,
+  60007806
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60007807"
+  }
+ }
+}

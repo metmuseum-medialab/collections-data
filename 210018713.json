@@ -1,0 +1,33 @@
+{
+ "Medium": "Black crayon on paper",
+ "Dimensions": "21 1/4 x 16 13/16 in. (54 x 42.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Felicia Meyer Marsh, 1979",
+ "Accession Number": "1979.292.90",
+ "Who": "Reginald Marsh",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Crayons"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Modern and Contemporary Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 210018713,
+ "related-artworks": [
+  210018717,
+  210018723,
+  210018724,
+  210018725,
+  210018726
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210018713"
+  }
+ }
+}

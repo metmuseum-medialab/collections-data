@@ -1,0 +1,46 @@
+{
+ "Date": "18th–19th century",
+ "Geography": "Iran",
+ "Medium": "Glass; mold blown",
+ "Dimensions": [
+  "H. 7 3/16 in. (18.3 cm)",
+  "W. 3 1/8 in. (7.9 cm)",
+  "D. 2 7/8 in.(7.3 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Gift of Henry G. Marquand, 1883",
+ "Accession Number": "83.7.222",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles",
+  "Molds"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 1600–1800 A.D.",
+  "Iran (Persia), 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140000285,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf83-7-222a.jpg",
+ "related-artworks": [
+  140000305,
+  140000311,
+  140000293,
+  140001869,
+  140001895
+ ],
+ "Provenance": [
+  "Henry G. Marquand, New York (until 1883)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140000285"
+  }
+ }
+}

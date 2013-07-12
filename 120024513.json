@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1757",
+ "Culture": "German (Frankenthal)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "L. 16 5/16 in. (41.4 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Hans Syz Collection, Gift of Stephan B. Syz and John D. Syz, 1995",
+ "Accession Number": "1995.268.160",
+ "Who": "Frankenthal Porcelain Manufactory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Hard paste porcelain",
+  "Platters"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Frankenthal"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120024513,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF1995_268_160.jpg",
+ "related-artworks": [
+  120011843,
+  120014324,
+  120014325,
+  120003113,
+  120003160
+ ],
+ "Provenance": [
+  "Hans Syz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120024513"
+  }
+ }
+}

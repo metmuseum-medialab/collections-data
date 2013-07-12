@@ -1,0 +1,27 @@
+{
+ "Date": "1940",
+ "Classification": "Books",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.368",
+ "Who": "Ernest Hemingway",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190028859,
+ "related-artworks": [
+  190028560,
+  190036557,
+  190036559
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028859"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Date": "1st century BCE–7th century CE",
+ "Geography": "Peru, Rio Grande de Nasca",
+ "Culture": "Nasca",
+ "Medium": "Camelid hair",
+ "Dimensions": [
+  "Overall 1 1/4 x 14 3/4 in. (3.18 x 37.47 cm)",
+  "Other 1 1/4 in. (3.18 cm)"
+ ],
+ "Classification": "Textiles-Woven",
+ "Credit Line": "Gift of George D. Pratt, 1929",
+ "Accession Number": "29.146.21",
+ "Who": "Nazca",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Woven",
+  "Hair",
+  "Camelidae"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1000 B.C.–1 A.D.",
+  "Central and Southern Andes, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50000540,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DP18563.jpg",
+ "related-artworks": [
+  50000580,
+  50000584,
+  50008509,
+  50000500,
+  50000520
+ ],
+ "Provenance": [
+  "George D. Pratt, Glen Cove, N.Y.,  until 1929"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000540"
+  }
+ }
+}

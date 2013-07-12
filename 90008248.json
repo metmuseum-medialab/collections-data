@@ -1,0 +1,42 @@
+{
+ "Date": "1575–1640",
+ "Medium": "Pen and brown ink, brush and pale brown wash, highlighted with white, over traces of black chalk, on blue paper. All four borders of paper defined in pen and brown ink",
+ "Dimensions": "8-7/8 x 14-7/8 in.  (22.5 x 37.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1962",
+ "Accession Number": "62.119.4",
+ "Who": "Giovanni Mauro della Rovere",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90008248,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811493.jpg",
+ "related-artworks": [
+  90008246,
+  90008252,
+  90008247,
+  90008254,
+  90013482
+ ],
+ "Provenance": [
+  "Jan Pietersz Zoomer (Dutch, 1641–1724 Amsterdam)",
+  "William Roscoe (British, Liverpool 1753–1831 Liverpool)",
+  "Winstanley (Liverpool)Roscoe sale, September 23–28, 1816, no. 293",
+  "Hanwell(according to inscription on verso)",
+  "P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90008248"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Object Name": "Fragment",
+ "Date": "13th–14th century",
+ "Geography": "Egypt",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.190.186",
+ "What": [
+  "Ceramics",
+  "Fragments"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140003669,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf13-190-186a.jpg",
+ "related-artworks": [
+  140002365,
+  140002373,
+  140002510,
+  140002508,
+  140002511
+ ],
+ "Provenance": [
+  "Sold to Albert M. Lythgoefor MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003669"
+  }
+ }
+}

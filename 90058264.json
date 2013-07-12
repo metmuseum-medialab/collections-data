@@ -1,0 +1,40 @@
+{
+ "Date": "mid 17th century",
+ "Medium": "Mezzotint; second state of five",
+ "Dimensions": "Trimmed to platemark 3 7/8 x 4 9/16 in. (9.8 x 11.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Harris Brisbane Dick Fund, Rogers Fund, Joseph Pulitzer Bequest, and Gift of Henry Walters, by exchange, 1970",
+ "Accession Number": "1970.599.41",
+ "Who": "Allart van Everdingen",
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Mezzotints"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90058264,
+ "related-artworks": [
+  90055214,
+  90058262,
+  90104963,
+  90027878,
+  90042922
+ ],
+ "Provenance": [
+  "D'ArenbergLugt 567",
+  "Vendor: Lucien Goldschmidt"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90058264"
+  }
+ }
+}

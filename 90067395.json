@@ -1,0 +1,43 @@
+{
+ "Artist": "After George Moutard Woodward (British, ca. 1760–1809 London)",
+ "Publisher": "Thomas Tegg (London)",
+ "Date": "January 15, 1809",
+ "Medium": "Hand-colored etching",
+ "Dimensions": "sheet 13 1/16 x 9 5/16 in. (33.2 x 23.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.888-24",
+ "Who": [
+  "Thomas Rowlandson",
+  "George Moutard Woodward",
+  "Thomas Tegg"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Watercolor Painting in Britain, 1750–1850",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90067395,
+ "related-artworks": [
+  90011734,
+  90021146,
+  90027197,
+  90034037,
+  90034040
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90067395"
+  }
+ }
+}

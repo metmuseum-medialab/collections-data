@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1912",
+ "Culture": "Austrian (probably)",
+ "Medium": "wool, metal, celluloid, wood",
+ "Dimensions": "Length (with chain) 14 in. (35.6 cm)",
+ "Credit Line": "Gift of Judith Leiber, 1982",
+ "Accession Number": "1982.303.7",
+ "What": [
+  "Metal",
+  "Costume",
+  "Wool",
+  "Plastic",
+  "Bags",
+  "Purses",
+  "Celluloid"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80050299,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1982.303.7.jpg",
+ "related-artworks": [
+  80095627,
+  80050286,
+  80003787,
+  80091439,
+  80091597
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80050299"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "Cypro-Geometric III",
+ "Date": "850–750 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 12 3/16 in. (31 cm)",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.779",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Amphorae"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130000832,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP132618.jpg",
+ "related-artworks": [
+  130000497,
+  130000452,
+  130000465,
+  130000494,
+  130000503
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130000832"
+  }
+ }
+}

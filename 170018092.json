@@ -1,0 +1,36 @@
+{
+ "Date": "15th century (?)",
+ "Culture": "Franco-Netherlandish",
+ "Medium": "Ink and gold on parchment",
+ "Dimensions": "Overall 7 3/16 x 5 1/8 in. (18.2 x 13 cm)",
+ "Classification": "Manuscripts & Illuminations",
+ "Credit Line": "Gift of Alice M. Dike, in memory of her father, Henry A. Dike, 1928",
+ "Accession Number": "28.225.83.1a, b–.8a, b",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paintings",
+  "Gold",
+  "Manuscripts",
+  "Parchment",
+  "Illuminations",
+  "Missals"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170018092,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/Medclois-5s1.jpg",
+ "related-artworks": [
+  170007450,
+  170008958,
+  170008959,
+  170009021,
+  170006622
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170018092"
+  }
+ }
+}

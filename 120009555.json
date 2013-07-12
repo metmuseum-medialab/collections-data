@@ -1,0 +1,42 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "Italian, possibly Venice (Murano)",
+ "Medium": "Glass",
+ "Dimensions": "H. 11 7/8 in.  (30.2 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Edward Holbrook Collection, Gift of Mrs. Edward Holbrook and John S. Holbrook, 1921",
+ "Accession Number": "21.110.166",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009555,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/48531.jpg",
+ "related-artworks": [
+  120001581,
+  120001585,
+  120000160,
+  120000154,
+  120000206
+ ],
+ "Provenance": [
+  "R. H. Soden-Smith",
+  "William Biden"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009555"
+  }
+ }
+}

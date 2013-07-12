@@ -1,0 +1,46 @@
+{
+ "Printer": "Editions Copenhagen",
+ "Publisher": "World House Editions",
+ "Date": "2006",
+ "Medium": "A portfolio of three lithographs and one monoprint",
+ "Dimensions": "29 15/16 x 21 in. (76 x 53.3 cm)",
+ "Classification": "Portfolios",
+ "Credit Line": "John B. Turner Fund, 2012",
+ "Accession Number": "2012.168.1–.4",
+ "Who": [
+  "Editions Copenhagen",
+  "Ryan McGinness",
+  "World House Editions"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Portfolios",
+  "Monoprint"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90083699,
+ "related-artworks": [
+  90000938,
+  90009588,
+  90011925,
+  90026978,
+  90028322
+ ],
+ "Provenance": [
+  "Vendor: Edition Copenhagen"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90083699"
+  }
+ }
+}

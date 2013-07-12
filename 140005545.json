@@ -1,0 +1,46 @@
+{
+ "Date": "9th–10th century",
+ "Geography": "Egypt",
+ "Medium": "Linen, silk; plain weave, embroidered",
+ "Dimensions": [
+  "H. 15 1/4 in. (38.7 cm)",
+  "W. 26 in. (66 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of George D. Pratt, 1929",
+ "Accession Number": "29.179.4",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Plain weave"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005545,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/77248.jpg",
+ "related-artworks": [
+  140000769,
+  140000772,
+  140005568,
+  140005560,
+  140005586
+ ],
+ "Provenance": [
+  "George D. Pratt, New York (until 1929)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005545"
+  }
+ }
+}

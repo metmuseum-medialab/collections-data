@@ -1,0 +1,45 @@
+{
+ "Date": "before 16th century",
+ "Geography": "Mexico, Mesoamerica, Guerrero, Balsas River region",
+ "Culture": "Mexican",
+ "Medium": "Stone",
+ "Dimensions": "Height 1-1/4 in.",
+ "Classification": "Stone-Ornaments",
+ "Credit Line": "Bequest of Arthur M. Bullowa, 1993",
+ "Accession Number": "1994.35.492",
+ "What": [
+  "Costume",
+  "Stone",
+  "Jewelry",
+  "Ear ornaments"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico",
+  "Guerrero"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico, 1000–1400 A.D.",
+  "Mexico, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50010010,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/hz1994_35_492.jpg",
+ "related-artworks": [
+  50009993,
+  50009997,
+  50009998,
+  50009999,
+  50010000
+ ],
+ "Provenance": [
+  "Possibly The Museum of the American Indian, New York",
+  "Arthur M. Bullowa, New York, until (d.)1993"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50010010"
+  }
+ }
+}

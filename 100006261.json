@@ -1,0 +1,45 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19",
+ "Reign": "reign of Ramesses II",
+ "Date": "ca. 1279–1213 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Glazed steatite",
+ "Dimensions": "L. 1.8 cm (11/16 in)",
+ "Credit Line": "Purchase, Edward S. Harkness Gift, 1926",
+ "Accession Number": "26.7.221",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Glazing",
+  "Talc",
+  "Steatite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100006261,
+ "gallery-id": 124,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsgal19y07.jpg",
+ "related-artworks": [
+  100000641,
+  100000981,
+  100001454,
+  100001562,
+  100002197
+ ],
+ "Description": "On the base of this scarab, Ramesses II is shown spearing a captive before an image of the god Ptah. Above the scene is the king's prenomen.(c. 1294-1213 B.C.)",
+ "Provenance": [
+  "Formerly Timmins Collection. Acquired by for his collection by Lord Carnarvon before 1923. Carnarvon Collection purchased by the Museum from Lady Carnarvon, 1926."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100006261"
+  }
+ }
+}

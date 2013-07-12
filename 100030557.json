@@ -1,0 +1,36 @@
+{
+ "Period": "Predynastic Period",
+ "Date": "ca. 3850–2960 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Dira Abu el-Naga (Dra Abu el-Naga)",
+ "Medium": "Bone",
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "26.2.324",
+ "What": [
+  "Bone",
+  "Picks"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100030557,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/26-2-324.jpg",
+ "related-artworks": [
+  100030556,
+  100013704,
+  100002566,
+  100014510,
+  100014525
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100030557"
+  }
+ }
+}

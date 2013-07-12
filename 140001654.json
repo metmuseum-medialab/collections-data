@@ -1,0 +1,44 @@
+{
+ "Date": "12th century",
+ "Geography": "Syria, Raqqa",
+ "Medium": "Stonepaste; underglaze painted",
+ "Dimensions": [
+  "H. 2 7/8 in. (7.3 cm)",
+  "Diam. 6 7/16 in. (16.4 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.135",
+ "What": [
+  "Ceramics",
+  "Painting",
+  "Bowls",
+  "Underglazing"
+ ],
+ "Where": [
+  "Asia",
+  "Syria",
+  "Raqqa"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140001654,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf91-1-135a.jpg",
+ "related-artworks": [
+  140003140,
+  140004347,
+  140008665,
+  140009449,
+  140002192
+ ],
+ "Provenance": [
+  "Edward C. Moore, New York (until d. 1891)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140001654"
+  }
+ }
+}

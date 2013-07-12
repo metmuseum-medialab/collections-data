@@ -1,0 +1,41 @@
+{
+ "Date": "February–March 1935",
+ "Medium": "Film negative",
+ "Dimensions": "4 x 5 in.",
+ "Classification": "Negatives",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.254.847",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": "Walker Evans",
+ "What": [
+  "Photographs",
+  "Negatives",
+  "Film"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Kodak and the Rise of Amateur Photography",
+  "Early Documentary Photography",
+  "Walker Evans (1903–1975)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 190026513,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/PH6976.jpg",
+ "related-artworks": [
+  190024446,
+  190024437,
+  190024447,
+  190024448,
+  190024438
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190026513"
+  }
+ }
+}

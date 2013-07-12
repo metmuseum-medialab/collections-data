@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1859",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "7.9 x 8.1 cm (3 1/8 x 3 3/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Museum Purchase, 2005",
+ "Accession Number": "2005.100.801 (29a)",
+ "Who": "Philip Henry Delamotte",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 190042441,
+ "related-artworks": [
+  190021414,
+  190021445,
+  190039210,
+  190042208,
+  190042205
+ ],
+ "Provenance": [
+  "(Sotheby's London, Lot 230, June 29, 1984)",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190042441"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "390–450",
+ "Geography": "Peru",
+ "Culture": "Moche (Loma Negra)",
+ "Medium": "Silvered copper",
+ "Dimensions": "Height 10-1/16 in. (25.5 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Bequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986",
+ "Accession Number": "1987.394.57",
+ "Who": "Moche",
+ "What": [
+  "Metal",
+  "Copper"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50007787,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1987_394_57.jpg",
+ "related-artworks": [
+  50005093,
+  50005094,
+  50005735,
+  50006091,
+  50006093
+ ],
+ "Provenance": [
+  "[Juan Salinas, Peru, until 1970]",
+  "Arnold I. Goldberg, New York, 1970– (d.) 1976",
+  "Jane Costello Goldberg, New York, 1976–(d.) 1986"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50007787"
+  }
+ }
+}

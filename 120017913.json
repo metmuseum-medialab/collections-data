@@ -1,0 +1,58 @@
+{
+ "Date": "1720–40",
+ "Culture": "French",
+ "Medium": "Languedoc marble and le",
+ "Dimensions": "74 1/4 x 35 x 16 in.  (188.6 x 88.9 x 40.6 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Fletcher Fund, 1961",
+ "Accession Number": "61.22a–e",
+ "What": [
+  "Sculpture",
+  "Marble",
+  "Red marble",
+  "Languedoc marble"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120017913,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/172356.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/172356.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/ES7473.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/172357.jpg"
+ ],
+ "Provenance": [
+  "Richard Peñard y Fernandez , Paris (until 1960; sale, Palais Galliera, Paris, December 7, 1960, no. 90; to MMA)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120014173"
+   },
+   {
+    "href": "http://scrapi.org/object/120003799"
+   },
+   {
+    "href": "http://scrapi.org/object/120025650"
+   },
+   {
+    "href": "http://scrapi.org/object/120059719"
+   },
+   {
+    "href": "http://scrapi.org/object/120023437"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120017913"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120017913"
+  }
+ }
+}

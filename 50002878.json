@@ -1,0 +1,40 @@
+{
+ "Date": "19th century",
+ "Geography": "Côte d'Ivoire or Ghana",
+ "Culture": "Akan peoples",
+ "Medium": "Brass, string, pigment",
+ "Dimensions": "H. 4 7/8 x Diam. 2 1/4 in. (12.4 x 5.7 cm)",
+ "Classification": "Metal-Implements",
+ "Credit Line": "Gift of William W. Brill, 1977",
+ "Accession Number": "1977.224.5a-d",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Brass",
+  "Scales"
+ ],
+ "Where": [
+  "Africa",
+  "Ivory Coast"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Guinea Coast, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50002878,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1977_224_5.jpg",
+ "related-artworks": [
+  50007573,
+  50010426,
+  50003417,
+  50003537,
+  50003538
+ ],
+ "Provenance": [
+  "Mr. and Mrs. William W. Brill, New York, until 1977"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50002878"
+  }
+ }
+}

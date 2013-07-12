@@ -1,0 +1,32 @@
+{
+ "Date": "1929",
+ "Classification": "Books",
+ "Credit Line": "Gift of A. Hyatt Mayor, 1962",
+ "Accession Number": "62.588",
+ "Who": "Alois Derso",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90015989,
+ "related-artworks": [
+  90000871,
+  90000872,
+  90000873,
+  90000874,
+  90000875
+ ],
+ "Provenance": [
+  "Donor: A. Hyatt Mayor (American, 1901–1980)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90015989"
+  }
+ }
+}

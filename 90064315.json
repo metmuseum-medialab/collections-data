@@ -1,0 +1,37 @@
+{
+ "Date": "17th century",
+ "Medium": "Etching and engraving",
+ "Dimensions": [
+  "sheet 17 11/16 x 21 15/16 in. (45 x 55.8 cm)",
+  "plate 17 1/16 x 21 in. (43.3 x 53.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1977",
+ "Accession Number": "1977.614.3",
+ "Who": "Pietro Santi Bartoli",
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90064315,
+ "related-artworks": [
+  90032535,
+  90075253,
+  90074889,
+  90074886,
+  90075021
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90064315"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Date": "1904",
+ "Medium": "Platinum print",
+ "Dimensions": "15 x 4.1 cm (5 7/8 x 1 5/8 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 1996",
+ "Accession Number": "1996.166.3",
+ "Who": "O.G. Conkling",
+ "What": [
+  "Photographs",
+  "Platinum prints"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190024204,
+ "Provenance": [
+  "Walker Evans",
+  "Bobbi Carrey"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190011440"
+   },
+   {
+    "href": "http://scrapi.org/object/190011583"
+   },
+   {
+    "href": "http://scrapi.org/object/190011584"
+   },
+   {
+    "href": "http://scrapi.org/object/190011714"
+   },
+   {
+    "href": "http://scrapi.org/object/190011855"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190024204"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190024204"
+  }
+ }
+}

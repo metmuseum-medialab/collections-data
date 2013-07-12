@@ -1,0 +1,53 @@
+{
+ "Date": "11th–14th century",
+ "Geography": "United States, Missouri",
+ "Culture": "Mississippian",
+ "Medium": "Ceramic",
+ "Dimensions": "Height 2-3/4 in.",
+ "Classification": "Ceramics-Containers",
+ "Credit Line": "Gift of Henry G. Marquand, 1879",
+ "Accession Number": "79.8.4",
+ "Who": "Mississippian",
+ "What": [
+  "Ceramics",
+  "Bowls"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Missouri"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "North America, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50011379,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/79.8.4.JPG",
+ "Provenance": [
+  "Henry G. Marquand, New York, 1879"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50010980"
+   },
+   {
+    "href": "http://scrapi.org/object/50010983"
+   },
+   {
+    "href": "http://scrapi.org/object/50011384"
+   },
+   {
+    "href": "http://scrapi.org/object/50011385"
+   },
+   {
+    "href": "http://scrapi.org/object/50011383"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50011379"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50011379"
+  }
+ }
+}

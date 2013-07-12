@@ -1,0 +1,32 @@
+{
+ "Date": "19th century",
+ "Medium": "Pen and black ink, watercolor, gouache",
+ "Dimensions": "8 9/16 x 7 1/2 in. (21.8 x 19 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1962",
+ "Accession Number": "62.600.616",
+ "Who": "Anonymous, French, 19th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90026757,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP809116.jpg",
+ "related-artworks": [
+  90022861,
+  90023253,
+  90023346,
+  90023347,
+  90023353
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026757"
+  }
+ }
+}

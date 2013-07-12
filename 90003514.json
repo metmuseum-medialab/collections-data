@@ -1,0 +1,39 @@
+{
+ "Medium": "Pen and brown ink, brown wash, heightened with white, over black chalk",
+ "Dimensions": "12 1/4 x 8 1/16 in.  (31.1 x 20.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harry G. Sperling Fund, 1982",
+ "Accession Number": "1982.93.1",
+ "Who": "Michel Corneille the Younger",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90003514,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP805718.jpg",
+ "related-artworks": [
+  90003511,
+  90003786,
+  90003515,
+  90003510,
+  90005631
+ ],
+ "Provenance": [
+  "J.-A. Duval Le Camus Lugt 1441",
+  "Vendor: Alfred Strölin (French, 1871–1954)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90003514"
+  }
+ }
+}

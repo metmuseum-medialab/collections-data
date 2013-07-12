@@ -1,0 +1,48 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19–20",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.8.974",
+ "What": [
+  "Sculpture",
+  "Faience",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100028181,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100000723"
+   },
+   {
+    "href": "http://scrapi.org/object/100000719"
+   },
+   {
+    "href": "http://scrapi.org/object/100000721"
+   },
+   {
+    "href": "http://scrapi.org/object/100000992"
+   },
+   {
+    "href": "http://scrapi.org/object/100001537"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100028181"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100028181"
+  }
+ }
+}

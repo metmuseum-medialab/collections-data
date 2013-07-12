@@ -1,0 +1,32 @@
+{
+ "Date": "ca. 1910 (?)",
+ "Classification": "Books",
+ "Credit Line": "Purchase, Harry G. Friedman Bequest, 1966",
+ "Accession Number": "66.693",
+ "Who": "A. Kimbel  Sons",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90020264,
+ "related-artworks": [
+  90063613,
+  90000871,
+  90000872,
+  90000873,
+  90000874
+ ],
+ "Provenance": [
+  "Donor: Harry G. Friedman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90020264"
+  }
+ }
+}

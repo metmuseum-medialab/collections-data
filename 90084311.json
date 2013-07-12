@@ -1,0 +1,39 @@
+{
+ "Date": "1888",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 x 1 1/2 in. (7 x 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 201, N22.9",
+ "Who": "Allen & Ginter",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90084311,
+ "related-artworks": [
+  90081255,
+  90081258,
+  90081314,
+  90081305,
+  90081309
+ ],
+ "Description": "Trade cards from the \"Racing Colors of the World\" series (N22a), issued in 1888 in a set of 50 cards to promote Allen & Ginter brand cigarettes. The series was published in two variations. N22a includes a white edge around the perimeter of each card and N22b does not.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90084311"
+  }
+ }
+}

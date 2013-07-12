@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Jade",
+ "Dimensions": "L. 6 9/16 in. (16.7 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Alfred W. Hoyt Collection, Bequest of Rosina H. Hoppin, 1965",
+ "Accession Number": "65.86.172",
+ "What": [
+  "Costume",
+  "Jade",
+  "Hairpins"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60010830,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/184074.jpg",
+ "related-artworks": [
+  60010828,
+  60010831,
+  60010829,
+  60009040,
+  60032115
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60010830"
+  }
+ }
+}

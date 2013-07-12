@@ -1,0 +1,60 @@
+{
+ "Manufacturer": "Stehli Silks Corporation",
+ "Date": "1925",
+ "Medium": "Silk",
+ "Dimensions": [
+  "W. 35, L. 40 inches",
+  "(88.9 x 101.6 cm.)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Stehli Silks Corp., 1927",
+ "Accession Number": "27.149.10",
+ "Who": [
+  "Stehli Silks Corporation",
+  "Charles . Falls"
+ ],
+ "What": [
+  "Silk",
+  "Textiles",
+  "Printing"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210007728,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/27.149.10.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ma/original/27.149.10.jpg",
+  "http://images.metmuseum.org/CRDImages/ma/original/DP32007.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210007790"
+   },
+   {
+    "href": "http://scrapi.org/object/210007789"
+   },
+   {
+    "href": "http://scrapi.org/object/210007762"
+   },
+   {
+    "href": "http://scrapi.org/object/210007760"
+   },
+   {
+    "href": "http://scrapi.org/object/210007761"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210007728"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210007728"
+  }
+ }
+}

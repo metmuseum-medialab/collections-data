@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1441",
+ "Culture": "Italian",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 3 3/8 in. (85 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Rogers Fund, 1974",
+ "Accession Number": "1974.169",
+ "Who": "Pisanello (Antonio Pisano)",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021650,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP232165.jpg",
+ "related-artworks": [
+  120012695,
+  120015814,
+  120005780,
+  120010178,
+  120011633
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021650"
+  }
+ }
+}

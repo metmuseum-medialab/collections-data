@@ -1,0 +1,41 @@
+{
+ "Date": "1830",
+ "Medium": "Pen and brown ink, brown wash, over graphite",
+ "Dimensions": "sheet 11 9/16 x 21 15/16 in. (29.4 x 55.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harry G. Sperling Fund, 2010",
+ "Accession Number": "2010.391",
+ "Who": "Philipp Veit",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90069165,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP827314.jpg",
+ "related-artworks": [
+  90038103,
+  90059070,
+  90022443
+ ],
+ "Provenance": [
+  "Carl Heumann (Chemnitz, 1886–1945)",
+  "Stuttgarter Kunstkabinett (Stuttgart), November 1957",
+  "Private Collection, Munich, ca. 1991",
+  "Galerie Bassenge (Berlin), June 4, 2010, lot 6456",
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90069165"
+  }
+ }
+}

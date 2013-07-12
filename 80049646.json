@@ -1,0 +1,36 @@
+{
+ "Date": "1969–70",
+ "Culture": "American",
+ "Medium": "leather, plastic",
+ "Dimensions": "Diameter 8 1/2 in. (21.6 cm)",
+ "Credit Line": "Gift of Lillian A. Dickler, 1977",
+ "Accession Number": "1977.56",
+ "What": [
+  "Costume",
+  "Leather",
+  "Hats",
+  "Plastic"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80049646,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.56_F.jpg",
+ "related-artworks": [
+  80005312,
+  80005444,
+  80005638,
+  80006124,
+  80016753
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80049646"
+  }
+ }
+}

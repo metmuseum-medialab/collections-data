@@ -1,0 +1,34 @@
+{
+ "Date": "4th century B.C. ?",
+ "Culture": "Cypriot",
+ "Medium": "Limestone",
+ "Dimensions": "Overall 4 3/8 x 2 3/4 x 2 3/4 in. (11.1 x 7 x 7 cm)",
+ "Classification": "Cesnola Inscriptions",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2312",
+ "What": "Limestone",
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "id": 130002332,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP159429.jpg",
+ "related-artworks": [
+  130002335,
+  130002337,
+  130002339,
+  130002326,
+  130002327
+ ],
+ "Provenance": [
+  "Sanctuary of Golgoi–Ayios Photios"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002332"
+  }
+ }
+}

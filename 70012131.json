@@ -1,0 +1,42 @@
+{
+ "Date": "15th–16th century",
+ "Culture": "European or German (?)",
+ "Medium": "Iron",
+ "Dimensions": "Overall 15 1/8 x 12 7/8 in. (38.4 x 32.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "The Cloisters Collection, 1955",
+ "Accession Number": "55.61.11a–c",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Locks"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Rhineland"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70012131,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi55-61-11a-c.jpg",
+ "related-artworks": [
+  70012129,
+  70012511,
+  70009834,
+  70012286,
+  70011891
+ ],
+ "Provenance": [
+  "Samuel Yellin (sold 1955)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70012131"
+  }
+ }
+}

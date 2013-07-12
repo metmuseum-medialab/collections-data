@@ -1,0 +1,31 @@
+{
+ "Date": "1950",
+ "Culture": "American",
+ "Medium": "linen",
+ "Dimensions": "Length at CB 32 in. (81.3 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Albert Ogden in memory of Sheldon Stewart, 1964",
+ "Accession Number": "2009.300.882",
+ "Who": "F. L. Dunne & Company",
+ "What": "Linen",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80097316,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/64.234.10_64.234.104_CP4.jpg",
+ "related-artworks": [
+  80096365,
+  80115720,
+  80097314,
+  80097312,
+  80097317
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80097316"
+  }
+ }
+}

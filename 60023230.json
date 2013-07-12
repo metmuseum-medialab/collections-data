@@ -1,0 +1,45 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Porcelain painted with colored enamels over transparent glaze (Hizen ware; Kakiemon type)",
+ "Dimensions": "H. 9 1/4 in. (23.5 cm); Diam. 7 1/8 in. (18.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+ "Accession Number": "1975.268.524",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Painting",
+  "Glaze",
+  "Jars",
+  "Enamels",
+  "Arita",
+  "Kakiemon"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60023230,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP251158.jpg",
+ "related-artworks": [
+  60020914,
+  60023231,
+  60035035,
+  60019973,
+  60025371
+ ],
+ "Description": "Often mentioned in poetry, chrysanthemums and autumn grasses serve as metaphors for the passing of time and the ephemeral nature of reality. Here, they are painted using the distinctive blues, pinks, and greens that characterize the Kakiemon style of decoration.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60023230"
+  }
+ }
+}

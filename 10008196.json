@@ -1,0 +1,52 @@
+{
+ "Date": "ca. 1837",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Mahogany, ash, pine",
+ "Dimensions": "15 1/4 x 20 3/4 x 15 1/4 in. (38.7 x 52.7 x 38.7 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Mr. and Mrs. W. Whittredge Katzenbach, 1972",
+ "Accession Number": "1972.264.2",
+ "Who": "Duncan Phyfe",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Softwood",
+  "Mahogany",
+  "Pine",
+  "Stools"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "American Federal Era Period Rooms",
+  "Duncan Phyfe (1768–1854) and Charles–Honoré Lannuier (1779–1819)",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10008196,
+ "gallery-id": 774,
+ "related-artworks": [
+  10008193,
+  10008194,
+  10008195,
+  10007864,
+  10010160
+ ],
+ "Provenance": [
+  "descended in the Katzenbach family, New Canaan, Connecticut",
+  "William E. Katzenbach, New York, until 1966"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10008196"
+  }
+ }
+}

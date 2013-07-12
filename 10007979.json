@@ -1,0 +1,32 @@
+{
+ "Date": "1856–65",
+ "Medium": "Metal",
+ "Dimensions": "Dimensions unavailable",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Cyrus W. Field, 1892",
+ "Accession Number": "92.10.11",
+ "What": [
+  "Metal",
+  "Cables"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10007979,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/45258.jpg",
+ "related-artworks": [
+  10007977,
+  10007978,
+  10007980,
+  10008001,
+  10007981
+ ],
+ "Provenance": [
+  "Cyrus W. Field, New York, until 1892"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10007979"
+  }
+ }
+}

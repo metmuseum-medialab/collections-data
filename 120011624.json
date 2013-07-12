@@ -1,0 +1,44 @@
+{
+ "Date": "1623",
+ "Culture": "French",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 2 3/8 in. (60 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Bequest of Gwynne M. Andrews, 1931",
+ "Accession Number": "31.33.20",
+ "Who": "Guillaume Dupré",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Ceramics in the French Renaissance",
+  "Pastoral Charms in the French Renaissance",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120011624,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/82245.jpg",
+ "related-artworks": [
+  120005043,
+  120010192,
+  120010194,
+  120010195,
+  120010210
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011624"
+  }
+ }
+}

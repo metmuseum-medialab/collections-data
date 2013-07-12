@@ -1,0 +1,62 @@
+{
+ "Medium": "Oil on paper, laid down on canvas",
+ "Dimensions": "8 1/4 x 16 in. (21 x 40.6 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+ "Accession Number": "2009.400.28",
+ "Who": "Camille Corot",
+ "What": [
+  "Paper",
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "The Barbizon School French Painters of Nature",
+  "The Aesthetic of the Sketch in Nineteenth–Century France",
+  "The Transformation of Landscape Painting in France",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110004377,
+ "gallery-id": 803,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP168308.jpg",
+ "related-artworks": [
+  110003341,
+  110004376,
+  110004330,
+  110000416,
+  110000394
+ ],
+ "Provenance": [
+  "comte Armand Doria, Paris",
+  "possibly Dr. Ulysse Trélat père, Paris (until d. 1879)",
+  "probably Dr. Ulysse Trélat fils, Paris (until d. 1890)",
+  "his son, Marcel Trélat, Paris (until d. 1933",
+  "his estate sale, Hôtel Drouot, Paris, May 5, 1933, no. 13, as \"Paysage montagneux,\" for Fr 4,600)",
+  "Dr. Georges Viau, Paris (until d. 1939",
+  "his estate, 1939–42",
+  "his estate sale, Hôtel Drouot, Paris, December 11, 1942, no. 80, as \"Paysage aux deux femmes,\" for Fr 650,000)",
+  "private collection, Switzerland (by 1989–at least 1991)",
+  "[Arthur Tooth and Sons, London",
+  "stock no. 4224]",
+  "sale, Sotheby's, New York, November 10, 1998, no. 19 (bought in)",
+  "private collection, New York (sold to Brady)",
+  "[W. M. Brady & Co., New York, until 2002",
+  "sold to Gaines]",
+  "John R. Gaines, Lexington, Ky. (2002–d. 2005",
+  "posthumous sale, Christie's, New York, April 19, 2005, no. 146, as \"Paysage montagneux,\" for $66,000)",
+  "Eugene V. Thaw, New York (until 2009)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110004377"
+  }
+ }
+}

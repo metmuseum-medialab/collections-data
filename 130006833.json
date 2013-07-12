@@ -1,0 +1,40 @@
+{
+ "Period": "Archaic",
+ "Date": "early 7th century",
+ "Culture": "Etruscan",
+ "Medium": "Bronze",
+ "Dimensions": "Other 4 3/8 in. (11.1 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Purchase, 1896",
+ "Accession Number": "96.9.349",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Pins",
+  "Fibulae"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006833,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP244040.jpg",
+ "related-artworks": [
+  130006839,
+  130006801,
+  130006820,
+  130006818,
+  130006822
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006833"
+  }
+ }
+}

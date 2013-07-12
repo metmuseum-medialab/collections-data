@@ -1,0 +1,45 @@
+{
+ "Date": "18th century",
+ "Culture": "Flemish (?)",
+ "Medium": "Steel",
+ "Dimensions": "Knife L. 9 1/2 in. (24.1 cm); fork L. 8 7/8 in. (22.5 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of R. Stuyvesant, 1891",
+ "Accession Number": "91.16.20,21",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Furniture",
+  "Iron alloy",
+  "Steel",
+  "Flatware",
+  "Knives",
+  "Tables",
+  "Forks",
+  "Place knives",
+  "Table knives"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001631,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/110320.jpg",
+ "related-artworks": [
+  120001638,
+  120001861,
+  120001635,
+  120001636,
+  120001645
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001631"
+  }
+ }
+}

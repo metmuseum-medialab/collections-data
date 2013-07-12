@@ -1,0 +1,38 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "first half of 18th century",
+ "Culture": "Japan",
+ "Medium": "Tan-e print (hand-colored); ink and color on paper",
+ "Dimensions": "11 7/8 x 6 in. (30.2 x 15.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+ "Accession Number": "JP2756",
+ "Who": "Ishikawa Toyonobu",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Colored ink"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60028202,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP130266.jpg",
+ "related-artworks": [
+  60027769,
+  60001208,
+  60001240,
+  60013012,
+  60013076
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028202"
+  }
+ }
+}

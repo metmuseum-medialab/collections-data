@@ -1,0 +1,48 @@
+{
+ "Period": "Jin dynasty (1115–1234)",
+ "Date": "12th–13th century",
+ "Culture": "China",
+ "Medium": "Porcelain with mold-impressed decoration under ivory white glaze (Ding ware)",
+ "Dimensions": "Diam. 8 3/8 in. (21.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.69.1",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Metalwork",
+  "Porcelain",
+  "Bone",
+  "Ivory",
+  "Glaze",
+  "Plate",
+  "Molds",
+  "Ritual vessels",
+  "Ding"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60009932,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DT258469.jpg",
+ "related-artworks": [
+  60018833,
+  60022968,
+  60020955,
+  60012089,
+  60009928
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009932"
+  }
+ }
+}

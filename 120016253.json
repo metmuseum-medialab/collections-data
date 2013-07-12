@@ -1,0 +1,65 @@
+{
+ "Date": "mid-18th century",
+ "Culture": "Chinese",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 11 3/4 in. (29.8 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Helena Woolworth McCann Collection, Gift of Winfield Foundation, 1951",
+ "Accession Number": "51.86.74",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Faience",
+  "Porcelain",
+  "Vases",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120016253,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/150867.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120015854",
+  "http://scrapi.org/object/120024552",
+  "http://scrapi.org/object/120000069",
+  "http://scrapi.org/object/120016229",
+  "http://scrapi.org/object/120016230"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Helena Woolworth McCann"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120015854"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120024552"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000069"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120016229"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120016230"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120016253"
+  }
+ }
+}

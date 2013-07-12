@@ -1,0 +1,46 @@
+{
+ "Artist": "Engraved by Jacques Gabriel Huquier (French, Paris 1730–1805 Shrewsbury)",
+ "Date": "n.d.",
+ "Medium": "Etching",
+ "Dimensions": "image 7 5/8 x 4 13/16 in. (19.4 x 12.3 cm), trimmed to image",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1962",
+ "Accession Number": "62.602.476",
+ "Who": [
+  "Claude Gillot",
+  "Jacques Gabriel Huquier"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Commedia dell'arte",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90042125,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP815050.jpg",
+ "related-artworks": [
+  90005296,
+  90036063,
+  90042121,
+  90042124,
+  90042122
+ ],
+ "Provenance": [
+  "Princes of Liechtenstein, Vaduz and Vienna",
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90042125"
+  }
+ }
+}

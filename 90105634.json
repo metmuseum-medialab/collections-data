@@ -1,0 +1,34 @@
+{
+ "Date": "1910",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 5/8 × 1 3/8 in. (6.6 × 3.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 314, E29.46",
+ "Who": "The Philadelphia Confections Co.",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90105634,
+ "related-artworks": [
+  90105500,
+  90105504,
+  90105501,
+  90105505,
+  90105506
+ ],
+ "Description": "Trade cards from the \"Zoo Animals\" series (E29), issued in 1910 by The Philadelphia Confections Company to promote Zoo Caramels.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90105634"
+  }
+ }
+}

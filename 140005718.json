@@ -1,0 +1,45 @@
+{
+ "Date": "17th century",
+ "Geography": "Iran",
+ "Medium": "Wool (warp, weft and pile); asymmetrically knotted pile",
+ "Dimensions": [
+  "H. 98 in. (248.9 cm)",
+  "W. 89.1/2 in. (227.3 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.95.228",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Wool",
+  "Rugs"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005718,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/80689.jpg",
+ "related-artworks": [
+  140008364,
+  140004770,
+  140004976,
+  140005682,
+  140009565
+ ],
+ "Provenance": [
+  "Theodore M. Davis, New York (by 1914–d. 1915)",
+  "On loan from his estateduring settlement of the estate (1915–30)",
+  "In permanent possession of The Metropolitan Museum of Artsince 1930"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005718"
+  }
+ }
+}

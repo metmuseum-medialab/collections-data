@@ -1,0 +1,52 @@
+{
+ "Date": "18th century",
+ "Culture": "possibly Dutch",
+ "Dimensions": "H. 16 5/8 x W. 8 3/8 inches (42.2 x 21.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.3319",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Samplers"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 120035554,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/42727.jpg",
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120030922"
+   },
+   {
+    "href": "http://scrapi.org/object/120045632"
+   },
+   {
+    "href": "http://scrapi.org/object/120045703"
+   },
+   {
+    "href": "http://scrapi.org/object/120045731"
+   },
+   {
+    "href": "http://scrapi.org/object/120045735"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120035554"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120035554"
+  }
+ }
+}

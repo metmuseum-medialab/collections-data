@@ -1,0 +1,59 @@
+{
+ "Designer": "Yves Saint Laurent (French (born Algeria) Oran 1936–2008 Paris)",
+ "Date": "ca. 1968",
+ "Culture": "French",
+ "Medium": "cotton, silk",
+ "Dimensions": "Length at CB 36 1/2 in. (92.7 cm)",
+ "Credit Line": "Gift of John Loring (in memory of China Loring), 2004",
+ "Accession Number": "2004.152",
+ "Who": [
+  "Yves Saint Laurent",
+  "Yves Saint Laurent, Paris"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80017567,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2004.152_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/2004.152_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/2004.152_B.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80004578"
+   },
+   {
+    "href": "http://scrapi.org/object/80023605"
+   },
+   {
+    "href": "http://scrapi.org/object/80000794"
+   },
+   {
+    "href": "http://scrapi.org/object/80025512"
+   },
+   {
+    "href": "http://scrapi.org/object/80000313"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80017567"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80017567"
+  }
+ }
+}

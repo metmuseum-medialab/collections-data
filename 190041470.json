@@ -1,0 +1,65 @@
+{
+ "Date": "1858",
+ "Medium": "Albumen silver print",
+ "Dimensions": [
+  "Image 7 x 7.8 cm (2 3/4 x 3 1/16 in.)",
+  "Mount 33 x 26 cm (13 x 10 1/4 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, Cynthia Hazen Polsky Gift, 2005",
+ "Accession Number": "2005.100.491.1 (40b)",
+ "Who": "John Constantine Stanley",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 190041470,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP146125.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/190036356",
+  "http://scrapi.org/object/190041380",
+  "http://scrapi.org/object/190041390",
+  "http://scrapi.org/object/190041391",
+  "http://scrapi.org/object/190041411"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ph/original/DP146125.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP146206.jpg"
+ ],
+ "Provenance": [
+  "John Constantine Stanley",
+  "Canning estate (?)",
+  "[...]",
+  "(sold, Christie's, South Kensington, Oct. 30, 1986)",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190036356"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190041380"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190041390"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190041391"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190041411"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190041470"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "1786–87",
+ "Culture": "French (Paris)",
+ "Medium": "Silver",
+ "Dimensions": "H. 5-1/8 in. (13.0 cm.); W. 4-1/16 in. (10.3 cm.); L. 8-1/8 in. (20.6 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+ "Accession Number": "48.187.64 a-c",
+ "Who": "Étienne Modenx",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Bowls",
+  "Sugar bowls"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120015226,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES4678.jpg",
+ "related-artworks": [
+  120015225,
+  120015228,
+  120006763,
+  120015227,
+  120015230
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120015226"
+  }
+ }
+}

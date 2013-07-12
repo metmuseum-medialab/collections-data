@@ -1,0 +1,37 @@
+{
+ "Date": "1839",
+ "Medium": "Pen and brush and grey ink",
+ "Dimensions": "sheet 5 3/16 x 2 13/16 in. (13.1 x 7.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Guy Wildenstein Gift, 2010",
+ "Accession Number": "2010.538",
+ "Who": "Julius Hübner",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90069919,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP812852.jpg",
+ "related-artworks": [
+  90069162,
+  90012235,
+  90022523,
+  90019715
+ ],
+ "Provenance": [
+  "Vendor: H. W. Fichter Kunsthandel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90069919"
+  }
+ }
+}

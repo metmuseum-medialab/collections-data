@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1800",
+ "Geography": "Mid-Atlantic, Harrisburg, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Ink and watercolor on paper",
+ "Dimensions": "6 1/2 x 3 3/4 in. (16.5 x 9.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mrs. Robert W. de Forest, 1933",
+ "Accession Number": "34.100.87",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Tokens",
+  "Frakturs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Harrisburg"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005028,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA6398.jpg",
+ "related-artworks": [
+  10005027,
+  10000539,
+  10000540,
+  10000541,
+  10000542
+ ],
+ "Provenance": [
+  "Mrs. Cookerow, Pottsdam, Pennsylvania, until 1928",
+  "Mrs. Robert W. de Forest, New York, 1928–1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005028"
+  }
+ }
+}

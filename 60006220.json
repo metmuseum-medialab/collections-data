@@ -1,0 +1,40 @@
+{
+ "Date": "10th–11th century (?)",
+ "Culture": "Indonesia (Java)",
+ "Medium": "Bronze",
+ "Dimensions": "H. 3 9/16 in. (9 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Samuel Eilenberg Collection, Gift of Samuel Eilenberg, 1987",
+ "Accession Number": "1987.142.299",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 500–1000 A.D.",
+  "Southeast Asia, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60006220,
+ "related-artworks": [
+  60005989,
+  60005995,
+  60006001,
+  60006020,
+  60006036
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60006220"
+  }
+ }
+}

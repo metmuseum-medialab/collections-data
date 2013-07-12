@@ -1,0 +1,69 @@
+{
+ "Designer": "Cristobal Balenciaga (Spanish, 1895–1972)",
+ "Date": "fall/winter 1950–51",
+ "Culture": "French",
+ "Medium": "silk, metallic, beads, rhinestones",
+ "Dimensions": "(a) Length at CB 48 in. (121.9 cm)",
+ "Credit Line": "Gift of Mrs. Byron C. Foy, 1953",
+ "Accession Number": "C.I.53.40.10a–d",
+ "Who": [
+  "House of Balenciaga",
+  "Cristobal Balenciaga"
+ ],
+ "What": [
+  "Silk",
+  "Glass",
+  "Ensembles",
+  "Glass paste",
+  "Rhinestone"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Cristobal Balenciaga (1895–1972)",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80007533,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DP108278.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80007476",
+  "http://scrapi.org/object/80096800",
+  "http://scrapi.org/object/80101006",
+  "http://scrapi.org/object/80007470",
+  "http://scrapi.org/object/80007471"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/DP108278.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI53.40.10cd_Tp.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/C.I.53.40.10ab_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/C.I.53.40.10ab_S.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/C.I.53.40.10ab_d.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80007476"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80096800"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80101006"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80007470"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80007471"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80007533"
+  }
+ }
+}

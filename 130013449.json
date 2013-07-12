@@ -1,0 +1,40 @@
+{
+ "Period": "Imperial",
+ "Date": "late 1st–early 2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Basalt",
+ "Dimensions": "H. 42.16 cm.",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "Fletcher Fund, 1928",
+ "Accession Number": "28.57.6",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Statues",
+  "Figurines",
+  "Basalt"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013449,
+ "gallery-id": 164,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP279058.jpg",
+ "related-artworks": [
+  130011689,
+  130002507,
+  130008619,
+  130011069,
+  130011198
+ ],
+ "Description": "Adaptation of a Greek statue of the 3rd century B.C. known as the Medici AphroditeThe Romans used colored stones for floors, wall revetment, and sculpture. This basalt version of a popular statue type for Aphrodite may have been intended to evoke the darkness of bronze.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013449"
+  }
+ }
+}

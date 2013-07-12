@@ -1,0 +1,55 @@
+{
+ "Date": "early 18th century",
+ "Culture": "French",
+ "Medium": "Ivory.",
+ "Dimensions": "8 1/2 x 15 1/2 in.  (21.6 x 39.4 cm)",
+ "Classification": "Fans",
+ "Credit Line": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888-95",
+ "Accession Number": "90.2.13",
+ "What": [
+  "Costume",
+  "Bone",
+  "Ivory",
+  "Fans"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1600–1800 A.D.",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120026749,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/12168.jpg",
+ "Provenance": [
+  "Moses Lazarus"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120026461"
+   },
+   {
+    "href": "http://scrapi.org/object/120026644"
+   },
+   {
+    "href": "http://scrapi.org/object/120026768"
+   },
+   {
+    "href": "http://scrapi.org/object/120010093"
+   },
+   {
+    "href": "http://scrapi.org/object/120026263"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120026749"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120026749"
+  }
+ }
+}

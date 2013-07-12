@@ -1,0 +1,44 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19–20",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Cemetery, MMA 1913–1914",
+ "Medium": "Limestone",
+ "Dimensions": "h. 13.4 cm (5 1/4 in)",
+ "Credit Line": "Rogers Fund, 1915",
+ "Accession Number": "15.3.636",
+ "What": [
+  "Limestone",
+  "Feather",
+  "Weights",
+  "Looms",
+  "Loom weights",
+  "Down"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100027038,
+ "related-artworks": [
+  100027040,
+  100027039,
+  100009616,
+  100017332,
+  100027041
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100027038"
+  }
+ }
+}

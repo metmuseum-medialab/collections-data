@@ -1,0 +1,42 @@
+{
+ "Date": "dated 1562",
+ "Culture": "German",
+ "Medium": "Steel",
+ "Classification": "Armor for Man",
+ "Credit Line": "Rogers Fund, 1904",
+ "Accession Number": "04.3.267–.269",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Armor"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40000115,
+ "gallery-id": 373,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/4876.jpg",
+ "related-artworks": [
+  40000150,
+  40000385,
+  40000435,
+  40000464,
+  40000441
+ ],
+ "Provenance": [
+  "Ex coll.:  Maurice de Talleyrand-Périgord, Duc de Dino, Paris"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000115"
+  }
+ }
+}

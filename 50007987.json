@@ -1,0 +1,45 @@
+{
+ "Date": "12th–15th century",
+ "Geography": "Peru",
+ "Culture": "Chimú (?)",
+ "Medium": "Copper, gilt",
+ "Dimensions": "Length 3-1/2 in. (8.8 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Bequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986",
+ "Accession Number": "1987.394.275",
+ "Who": "Chimú",
+ "What": [
+  "Metal",
+  "Gilt",
+  "Copper"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1000–1400 A.D.",
+  "Central and Southern Andes, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50007987,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1987_394_255_75.jpg",
+ "related-artworks": [
+  50001496,
+  50001506,
+  50001507,
+  50001508,
+  50001509
+ ],
+ "Provenance": [
+  "[Guillermo Salazar, New York, until 1969]",
+  "Arnold I. Goldberg, New York, 1969–(d.)1976",
+  "Jane Costello Goldberg, New York, 1976– (d.)1986"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50007987"
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "Date": "1912–15",
+ "Geography": "Midwest, United States",
+ "Culture": "American",
+ "Medium": "White oak, glass",
+ "Dimensions": "32 x 7 x 11 in. (81.3 x 17.8 x 27.9 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Purchase, Emily Crane Chadbourne Bequest, 1972",
+ "Accession Number": "1972.60.21",
+ "Who": "Frank Lloyd Wright",
+ "What": [
+  "Glass",
+  "Wood",
+  "Furniture",
+  "Lighting devices",
+  "Oak",
+  "Lighting fixtures"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Midwest"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Frank Lloyd Wright (1867–1959)",
+  "America Comes of Age 1876–1900",
+  "Design, 1900–25",
+  "The Arts and Crafts Movement in America",
+  "Art Nouveau",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10004910,
+ "gallery-id": 745,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/199172.jpg",
+ "related-artworks": [
+  10004912,
+  10004913,
+  10004911,
+  10008169,
+  10008170
+ ],
+ "Provenance": [
+  "Francis W. Little, Peoria, Illinois and Wayzata, Minnesota",
+  "their daughter and son-in-law, Mr. and Mrs. Raymond V. Stevenson, Wayzata, Minnesota, until 1972"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10004910"
+  }
+ }
+}

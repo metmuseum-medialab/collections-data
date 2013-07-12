@@ -1,0 +1,41 @@
+{
+ "Designer": "Yves Saint Laurent (French (born Algeria) Oran 1936–2008 Paris)",
+ "Date": "ca. 1978",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 57 7/8 in. (147 cm)",
+ "Credit Line": "Gift of Anne E. de la Renta, 2001",
+ "Accession Number": "2001.709",
+ "Who": [
+  "Yves Saint Laurent",
+  "Yves Saint Laurent, Paris"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80004570,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2001.709_F.jpg",
+ "related-artworks": [
+  80000418,
+  80000423,
+  80000425,
+  80000428,
+  80001814
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80004570"
+  }
+ }
+}

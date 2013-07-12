@@ -1,0 +1,45 @@
+{
+ "Publisher": "Published by Universal Limited Art Editions",
+ "Date": "1965",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "image size 17 x 13 3/4 inches (43.2 x 34.9 cm)",
+  "sheet size 25 5/8 x 19 7/16 inches (65.1 x 49.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Dr. Joseph I. Singer, 1980",
+ "Accession Number": "1980.1120.2",
+ "Who": [
+  "Universal Limited Art Editions",
+  "Jim Dine"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021614,
+ "related-artworks": [
+  90008041,
+  90021036,
+  90021035,
+  90021038,
+  90021040
+ ],
+ "Provenance": [
+  "Donor: Dr. Joseph I. Singer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021614"
+  }
+ }
+}

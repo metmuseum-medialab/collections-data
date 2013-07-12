@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Geography": "British Columbia, Canada",
+ "Culture": "Native American (Skittagetan)",
+ "Medium": "Wood",
+ "Dimensions": [
+  "Diam. 7 x L. 17.1cm (2 3/4 x 6 3/4in.)",
+  "Old catalogue Diam. 5.7 x L. 16.5cm (2 1/4 x 6 1/2in.)"
+ ],
+ "Classification": "Aerophone-Reed Vibrated",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.679",
+ "What": [
+  "Musical instruments",
+  "Aerophones",
+  "Reeds",
+  "Pipes",
+  "Organ pipes",
+  "Reed pipes"
+ ],
+ "Where": [
+  "North and Central America",
+  "Canada"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180013041,
+ "gallery-id": 681,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS820A14.jpg",
+ "related-artworks": [
+  180012934,
+  180012980,
+  180013042,
+  180013057,
+  180013056
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180013041"
+  }
+ }
+}

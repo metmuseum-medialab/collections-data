@@ -1,0 +1,48 @@
+{
+ "Date": "1515",
+ "Culture": "German",
+ "Medium": "Steel",
+ "Dimensions": [
+  "Height 16 1/4 in.  ( 41.28 cm)",
+  "Width 14 in. ( 35.56 cm)",
+  "Weight 8 lb. 11 oz.  ( 3941 gm)"
+ ],
+ "Classification": "Armor Parts",
+ "Credit Line": "Gift of Christian A. Zabriskie, 1937",
+ "Accession Number": "37.189.12",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Armor",
+  "Body armor",
+  "Breastplates"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40002889,
+ "related-artworks": [
+  40001043,
+  40001206,
+  40000303,
+  40000496,
+  40000499
+ ],
+ "Provenance": [
+  "Ex coll.:  Samuel J. Whawell, London",
+  "Theodore Offerman, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40002889"
+  }
+ }
+}

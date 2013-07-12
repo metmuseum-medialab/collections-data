@@ -1,0 +1,41 @@
+{
+ "Date": "1693–94",
+ "Culture": "British, London",
+ "Medium": "Silver",
+ "Dimensions": "L. 2 in.  (5.1 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "The Joseph M. and Aimee Loeb May Collection, 1963",
+ "Accession Number": "63.53.89",
+ "Who": "George Manjoy",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Miniature",
+  "Ladles"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120018211,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/177785.jpg",
+ "related-artworks": [
+  120018153,
+  120018200,
+  120018193,
+  120018194,
+  120018196
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120018211"
+  }
+ }
+}

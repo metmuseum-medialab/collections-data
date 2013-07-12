@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1880",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "Length 63 in. (160 cm)",
+ "Credit Line": "Gift of the Estate of Jane Curtiss Breed, 1946, through James McVickar Breed",
+ "Accession Number": "46.88.2",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80002747,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/46.88.2dig2.jpg",
+ "related-artworks": [
+  80002676,
+  80002780,
+  80003825,
+  80005914,
+  80006838
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002747"
+  }
+ }
+}

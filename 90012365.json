@@ -1,0 +1,40 @@
+{
+ "Publisher": "Published by Daniel Henry Kahnweiler",
+ "Date": "November 27, 1909",
+ "Medium": "woodcuts",
+ "Dimensions": "Overall 11 1/2 x 8 1/8 x 1/2 in. (29.2 x 20.6 x 1.3 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "26.92.31",
+ "Who": [
+  "Guillaume Apollinaire",
+  "Daniel Henry Kahnweiler"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012365,
+ "related-artworks": [
+  90012364,
+  90015695,
+  90012363,
+  90012366,
+  90026598
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90012365"
+  }
+ }
+}

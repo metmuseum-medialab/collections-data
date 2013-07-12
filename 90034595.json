@@ -1,0 +1,43 @@
+{
+ "Artist": "After John Hoppner (British, London 1758–1810 London)",
+ "Date": "1788",
+ "Medium": "Colored mezzotint with hand coloring, between state i and ii",
+ "Dimensions": "plate 22 11/16 x 16 7/8 in. (57.6 x 42.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1969",
+ "Accession Number": "69.583",
+ "Who": [
+  "John Hoppner",
+  "John Young"
+ ],
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Mezzotints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90034595,
+ "related-artworks": [
+  90011880,
+  90026854,
+  90017323,
+  90045809,
+  90070686
+ ],
+ "Provenance": [
+  "Vendor: The Stradlings"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90034595"
+  }
+ }
+}

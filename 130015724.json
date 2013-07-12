@@ -1,0 +1,38 @@
+{
+ "Period": "Archaic or Classical",
+ "Date": "ca. 550–450 B.C.",
+ "Culture": "Italic-Native, South Italian (Daunian)",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 12.09 cm.",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1966",
+ "Accession Number": "66.11.9",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Bowls"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130015724,
+ "related-artworks": [
+  130006623,
+  130006658,
+  130006676,
+  130007066,
+  130007103
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130015724"
+  }
+ }
+}

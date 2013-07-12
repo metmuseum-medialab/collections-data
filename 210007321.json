@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1950s",
+ "Medium": "Glass",
+ "Dimensions": [
+  "H. 1-3/4, W. 7-9/16, D. 7-1/8 inches",
+  "(4.4 x 19.2 x 18.1 cm.)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Gift of Barbara S. Rosenthal and Kenneth W. Juster, 1998",
+ "Accession Number": "1998.533.3",
+ "Who": "Maurice Heaton",
+ "What": [
+  "Glass",
+  "Bowls"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 210007321,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/1998.533.3.jpg",
+ "related-artworks": [
+  210002134,
+  210002133,
+  210002151,
+  210008816,
+  210008817
+ ],
+ "Provenance": [
+  "Collection of Barbara S. Rosenthal and Kenneth W. Juster, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210007321"
+  }
+ }
+}

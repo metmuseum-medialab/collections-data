@@ -1,0 +1,40 @@
+{
+ "Date": "first half 20th century",
+ "Geography": "Algeria",
+ "Medium": "silver sheet, filigree, gemstones",
+ "Classification": "Jewelry",
+ "Accession Number": "55.111.37",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Stone",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings",
+  "Gemstone",
+  "Filigree"
+ ],
+ "Where": [
+  "Africa",
+  "Algeria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt and North Africa, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 140008538,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/55.111.36_37.jpg",
+ "related-artworks": [
+  140008540,
+  140008536,
+  140008537,
+  140008539,
+  140008535
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008538"
+  }
+ }
+}

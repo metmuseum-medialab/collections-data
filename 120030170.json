@@ -1,0 +1,38 @@
+{
+ "Date": "late 17th century",
+ "Culture": "Flemish",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 24 x W. 2 1/4 inches (61.0 x 5.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. John Jacob Astor, 1888",
+ "Accession Number": "88.1.33",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120030170,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/GT23c.jpg",
+ "related-artworks": [
+  120030445,
+  120032136,
+  120032242,
+  120036574,
+  120029994
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120030170"
+  }
+ }
+}

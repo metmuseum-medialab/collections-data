@@ -1,0 +1,59 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Fayum Entrance Area, Meidum (Maidum)",
+ "Medium": "Pottery",
+ "Credit Line": "Gift of Mrs. G. W. Neville and Miss Cardwell, 1906",
+ "Accession Number": "06.1232.9",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Jars"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Meidum"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100011210,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/06.1232.9_EGDP012071.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/eg/original/06.1232.9_EGDP012071.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/06.1232.9_EGDP012072.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/06.1232.9_EGDP012073.jpg"
+ ],
+ "Provenance": [
+  "Received with a group of material described as excavated at Meidum by John Cardwell 1886-1889 under a permit granted by Tawfik Pasha, and received in partage. Donated to the museum by his daughters in 1906."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100011209"
+   },
+   {
+    "href": "http://scrapi.org/object/100008306"
+   },
+   {
+    "href": "http://scrapi.org/object/100006764"
+   },
+   {
+    "href": "http://scrapi.org/object/100007971"
+   },
+   {
+    "href": "http://scrapi.org/object/100012131"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100011210"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100011210"
+  }
+ }
+}

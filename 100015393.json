@@ -1,0 +1,43 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep II",
+ "Date": "ca. 1427–1400 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Valley of the Kings, Tomb of Sityah, wife of Sennefer(?) (KV 42)",
+ "Medium": "Limestone",
+ "Dimensions": "H. 18.5 cm (7 5/16 in)",
+ "Credit Line": "Rogers Fund, 1932",
+ "Accession Number": "32.2.3",
+ "What": [
+  "Vessels",
+  "Limestone",
+  "Jugs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100015393,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/32.2.3 (90568tf).jpg",
+ "related-artworks": [
+  100004299,
+  100017534,
+  100001169,
+  100003609,
+  100005076
+ ],
+ "Provenance": [
+  "This jar was probably among those discovered in or near KV 42 in the Valley of the Kings and recorded by Howard Carter (see bibliography). It is inscribed with the name of the Mayor of Thebes, Sennefer, and for his wife, the Royal Nurse Senetnay."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100015393"
+  }
+ }
+}

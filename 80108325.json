@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1965",
+ "Culture": "American",
+ "Medium": "Wool, hair",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Carleton Putnam, 1981",
+ "Accession Number": "2009.300.5914",
+ "Who": "Elizabeth Hollborn",
+ "What": [
+  "Costume",
+  "Wool",
+  "Hats",
+  "Hair"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80108325,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/81.107.3_withbox_CP2.jpg",
+ "related-artworks": [
+  80093657,
+  80094014,
+  80094100,
+  80094894,
+  80106860
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108325"
+  }
+ }
+}

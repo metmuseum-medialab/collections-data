@@ -1,0 +1,63 @@
+{
+ "Date": "1940s",
+ "Medium": "Pencil and ink on paper",
+ "Dimensions": "14.9 x 8.7 cm (5 7/8 x 3 7/16 in. )",
+ "Classification": "Manuscript Materials",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.250.100",
+ "Who": "Walker Evans",
+ "What": [
+  "Ink",
+  "Paper",
+  "Books",
+  "Manuscripts",
+  "Pencil",
+  "Appointment books",
+  "Journals",
+  "Diaries"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Early Documentary Photography",
+  "Walker Evans (1903–1975)",
+  "Kodak and the Rise of Amateur Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190036561,
+ "related-artworks": [
+  "http://scrapi.org/object/190036576",
+  "http://scrapi.org/object/190036578",
+  "http://scrapi.org/object/190036590",
+  "http://scrapi.org/object/190036594",
+  "http://scrapi.org/object/190036587"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190036576"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190036578"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190036590"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190036594"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190036587"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190036561"
+  }
+ }
+}

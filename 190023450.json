@@ -1,0 +1,50 @@
+{
+ "Date": "1932",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "23.5 x 18.9 cm (9 1/4 x 7 7/16 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Georgia O'Keeffe, through the generosity of The Georgia O'Keeffe Foundation and Jennifer and Joseph Duke, 1997",
+ "Accession Number": "1997.61.70",
+ "Who": "Alfred Stieglitz",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Georgia O'Keeffe (1887–1986)",
+  "Alfred Stieglitz (1864–1946) and American Photography",
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "Paul Strand (1890–1976)",
+  "Early Documentary Photography",
+  "Pictorialism in America",
+  "Marcel Duchamp (1887–1968)",
+  "International Pictorialism",
+  "Group f/64",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190023450,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/PH361A.jpg",
+ "related-artworks": [
+  190015452,
+  190019279,
+  190019273,
+  190019283,
+  190019286
+ ],
+ "Provenance": [
+  "Alfred Stieglitz",
+  "Georgia O'Keeffe"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190023450"
+  }
+ }
+}

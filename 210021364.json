@@ -1,0 +1,41 @@
+{
+ "Date": "1989",
+ "Medium": "Oil on particle board, mounted on board, with artist-made frame",
+ "Dimensions": [
+  "8 1/4 x 10 1/8 in. (21 x 25.7 cm)",
+  "15 3/4 x 17 3/4 in. (40 x 45.1 cm) (Frame)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of the Richard Upton Foundation, 2013",
+ "Accession Number": "2013.200.1",
+ "Rights and Reproduction": "© Richard Upton",
+ "Who": "Richard Upton",
+ "What": [
+  "Paintings",
+  "Oil paintings",
+  "Frames"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 210021364,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/TR.458.1.2011.jpg",
+ "related-artworks": [
+  210021365,
+  90003795,
+  90003796
+ ],
+ "Provenance": [
+  "Richard Upton Foundation, LLC., Ft. Lauderdale, Florida (1989-2013",
+  "their gift to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210021364"
+  }
+ }
+}

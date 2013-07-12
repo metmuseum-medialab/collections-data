@@ -1,0 +1,68 @@
+{
+ "Date": "ca. 1510",
+ "Medium": "Oil on wood",
+ "Dimensions": "Overall 18 x 22 in. (45.7 x 55.9 cm); painted surface 17 x 21 1/2 in. (43.2 x 54.6 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "The Jules Bache Collection, 1949",
+ "Accession Number": "49.7.15",
+ "Who": "Titian (Tiziano Vecellio)",
+ "What": [
+  "Paintings",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "The Printed Image in the West History and Techniques",
+  "Couples in Art",
+  "Sixteenth–Century Painting in Venice and the Veneto",
+  "Venetian Color and Florentine Design",
+  "Nicolas Poussin (1594–1665)",
+  "Renaissance Drawings Material and Function",
+  "Titian (ca. 1488–1576)",
+  "Portraiture in Renaissance and Baroque Europe",
+  "Woodcut Book Illustration in Renaissance Italy Venice in the Sixteenth Century"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110002277,
+ "gallery-id": 607,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT5274.jpg",
+ "related-artworks": [
+  110002279,
+  110002276,
+  110002278,
+  90004092,
+  90008009
+ ],
+ "Provenance": [
+  "Jean de Jullienne, Paris (by about 1756–d. 1766",
+  "his estate sale, Remy & Julliot, Paris, March 30–May 22, 1767, no. 41, as by Titian, for 330.19 livres to ?Langley)",
+  "Brownlow Cecil, 9th Earl of Exeter, Burghley House, Stamford, Lincolnshire (until d. 1793)",
+  "his nephew, Henry Cecil, 1st Marquess of Exeter, Burghley House (1793–d. 1804)",
+  "Brownlow Cecil, 2nd Marquess of Exeter, Burghley House (1804–d. 1867)",
+  "William Alleyne Cecil, 3rd Marquess of Exeter, Burghley House (1867–88",
+  "his sale, Christie's, London, June 9, 1888, no. 303, as by Titian, for £110.5 or £110 to Benson)",
+  "Robert H. and Evelyn Benson, London (1888–1927",
+  "cat., 1914, no. 90, as Ascribed to Titian",
+  "sold to Duveen)",
+  "[Duveen, London and New York, 1927–28",
+  "sold to Mellon]",
+  "Andrew W. Mellon, Washington (1928)",
+  "[Duveen, New York, 1928",
+  "sold for $275,000 to Bache]",
+  "Jules S. Bache, New York (1928–d. 1944",
+  "his estate, 1944–49",
+  "cats., 1929, unnumbered",
+  "1937, no. 16",
+  "1943, no. 15)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110002277"
+  }
+ }
+}

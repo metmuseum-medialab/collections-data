@@ -1,0 +1,42 @@
+{
+ "Period": "Archaic",
+ "Date": "late 7th century B.C.",
+ "Culture": "Greek, Cretan",
+ "Medium": "Bronze",
+ "Dimensions": "width 8 11/16 in. (22 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Gift of Norbert Schimmel Trust, 1989",
+ "Accession Number": "1989.281.53",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Crete"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130016437,
+ "gallery-id": 152,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DT6195.jpg",
+ "related-artworks": [
+  130012903,
+  130014079,
+  130015079,
+  130015865,
+  130016433
+ ],
+ "Provenance": [
+  "Said to be from Afrati (ancient Arkades), Crete"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130016437"
+  }
+ }
+}

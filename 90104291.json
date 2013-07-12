@@ -1,0 +1,44 @@
+{
+ "Date": "1958",
+ "Medium": "Serigraph",
+ "Dimensions": [
+  "Image 6 5/16 × 11 13/16 in. (16 × 30 cm)",
+  "Sheet 9 1/2 × 13 1/8 in. (24.1 × 33.3 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Museum Accession, 1958",
+ "Accession Number": "Museum Accession 1958",
+ "Who": "Dorothy Bowman",
+ "What": "Prints",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90104291,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90035334"
+   },
+   {
+    "href": "http://scrapi.org/object/90000715"
+   },
+   {
+    "href": "http://scrapi.org/object/90000815"
+   },
+   {
+    "href": "http://scrapi.org/object/90000818"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90104291"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90104291"
+  }
+ }
+}

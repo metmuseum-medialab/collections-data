@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1930",
+ "Medium": "Wood",
+ "Dimensions": [
+  "H.13-1/4, W.17-7/8, D.11-5/8 inches",
+  "(33.7 x 45.4 x 29.5 cm.)"
+ ],
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Juliette B. Castle and Mrs. Paul Dahlstrom, 1968",
+ "Accession Number": "68.70.12",
+ "Who": "Jules Bouy",
+ "What": [
+  "Furniture",
+  "Tables"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009955,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf68.70.12.jpg",
+ "related-artworks": [
+  210009962,
+  210002156,
+  210002893,
+  210002894,
+  210009961
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009955"
+  }
+ }
+}

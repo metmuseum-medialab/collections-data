@@ -1,0 +1,47 @@
+{
+ "Period": "Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "Date": "late 17th–early 18th century",
+ "Culture": "China",
+ "Medium": "Porcelain painted in underglaze blue",
+ "Dimensions": "H. 20 1/2 in. (52.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.442",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Vases",
+  "Painting",
+  "Underglazing"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60019321,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/28172.jpg",
+ "related-artworks": [
+  60016413,
+  60016865,
+  60018419,
+  60018461,
+  60018467
+ ],
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60019321"
+  }
+ }
+}

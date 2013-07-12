@@ -1,0 +1,40 @@
+{
+ "Period": "Middle Kingdom–Early New Kingdom",
+ "Dynasty": "Dynasty 12–18",
+ "Date": "ca. 1981–1550 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Granite",
+ "Dimensions": "L. 17.8 cm (7 in)",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.2.7",
+ "What": [
+  "Sculpture",
+  "Shabti",
+  "Granite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100002269,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DP157552.jpg",
+ "related-artworks": [
+  100001009,
+  100000583,
+  100000735,
+  100002927,
+  100005421
+ ],
+ "Provenance": [
+  "Purchased in Qurna, 1920."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100002269"
+  }
+ }
+}

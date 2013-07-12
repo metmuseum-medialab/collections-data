@@ -1,0 +1,49 @@
+{
+ "Date": "ca. 1830",
+ "Culture": "British, Birmingham",
+ "Medium": "Silver plate",
+ "Dimensions": ".13 a H.10 5/8 in.  (27.0 cm); Diam. of top 9 3/4 in. (24.8 cm.); W. 11 in. (27.9 cm.); Diam. of base: 5 1/2 in. (Cooler); .13 b: H. 5 7/8 in. (14.9 cm.); Diam. of top: 5 1/4 in. (13.3 cm.) (Jacket); .13 c: Diam. 7 3/4 in. (19.7 cm.) (Rim of Jacket).",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Madame Lilliana Teruzzi, 1966",
+ "Accession Number": "66.192.13a–c",
+ "Who": "Matthew Boulton",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Plate",
+  "Wine coolers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "West Midlands",
+  "Birmingham"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "English Silver, 1600–1800",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120020428,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF66_192_13a-c.jpg",
+ "related-artworks": [
+  120002853,
+  120013339,
+  120023594,
+  120050292,
+  120050287
+ ],
+ "Provenance": [
+  "Madame Lilliana Teruzzi (until 1966",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120020428"
+  }
+ }
+}

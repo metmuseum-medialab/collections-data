@@ -1,0 +1,50 @@
+{
+ "Date": "late 900s",
+ "Geography": "Made in probably Constantinople",
+ "Culture": "Byzantine",
+ "Medium": "Ivory",
+ "Dimensions": "Overall 7 5/16 x 5 13/16 x 7/16 in. (18.6 x 14.8 x 1.1 cm)",
+ "Classification": "Ivories",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.132",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Plaques"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey",
+  "Marmara",
+  "Istanbul"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": [
+  "Icons and Iconoclasm in Byzantium",
+  "The Cult of the Virgin Mary in the Middle Ages",
+  "Private Devotion in Medieval Christianity",
+  "Balkan Peninsula, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 170003876,
+ "gallery-id": 303,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-132s1.jpg",
+ "related-artworks": [
+  170003877,
+  170003880,
+  170003881,
+  170003882,
+  170004306
+ ],
+ "Description": "Images of the Koimesis, or the Dormition in the West, show the Virgin lying on a bier, while her soul, represented as a baby, is offered by Christ to attendant angels who will take it to heaven. The apostles, led by Saints Paul and Peter, stand witness.",
+ "Provenance": [
+  "[ Arnold Seligmann (1860 - 1935), Paris (sold 1910)]",
+  "J. Pierpont Morgan, London and New York (from 1910)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170003876"
+  }
+ }
+}

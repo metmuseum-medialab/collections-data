@@ -1,0 +1,47 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Italian or Spanish",
+ "Medium": "Silk",
+ "Dimensions": "L. 89 x W. 41 1/4 (226.1 x 104.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Irwin Untermyer, 1974",
+ "Accession Number": "Inst.1974.23.3",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Panels"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120048422,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120011444"
+   },
+   {
+    "href": "http://scrapi.org/object/120014556"
+   },
+   {
+    "href": "http://scrapi.org/object/120016809"
+   },
+   {
+    "href": "http://scrapi.org/object/120030243"
+   },
+   {
+    "href": "http://scrapi.org/object/120030259"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120048422"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120048422"
+  }
+ }
+}

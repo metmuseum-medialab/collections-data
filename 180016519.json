@@ -1,0 +1,52 @@
+{
+ "Date": "mid-19th century, after 1846",
+ "Geography": "Germany or Italy",
+ "Medium": "Brass, nickel-silver",
+ "Dimensions": "L. perpendicular to bell 67.3 cm (27-1/4 in.); Diam. of bell: 23.9 cm (9-1/2 in.)",
+ "Classification": "Aerophone-Lip Vibrated",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2193",
+ "Who": "Giuseppe Pelitti",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Silver",
+  "Musical instruments",
+  "Brass",
+  "Aerophones",
+  "Nickel",
+  "Tubas",
+  "Baritone",
+  "Helicons"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 180016519,
+ "related-artworks": [
+  "http://scrapi.org/object/180015780",
+  "http://scrapi.org/object/180016827",
+  "http://scrapi.org/object/180016631"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/180015780"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/180016827"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/180016631"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/180016519"
+  }
+ }
+}

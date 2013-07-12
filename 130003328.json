@@ -1,0 +1,44 @@
+{
+ "Period": "Classical",
+ "Date": "4th–3rd century B.C.",
+ "Culture": "Greek",
+ "Medium": "Gold",
+ "Dimensions": "Diam. 1 5/16 in. (3.3 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.3427",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "id": 130003328,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP135962.jpg",
+ "related-artworks": [
+  130003148,
+  130003267,
+  130003350,
+  130003346,
+  130003385
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130003328"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 600",
+ "Geography": "Made in Thebes, Byzantine Egypt",
+ "Culture": "Coptic",
+ "Medium": "Papyrus and ink",
+ "Dimensions": [
+  "Overall 4 5/16 x 4 7/16 in. (10.9 x 11.3 cm)",
+  "Framed 6 x 7 1/2 in. (15.2 x 19.1 cm)"
+ ],
+ "Classification": "Papyrus",
+ "Credit Line": "Museum Excavations, 1913-1914",
+ "Accession Number": "14.1.548.1",
+ "What": [
+  "Ink",
+  "Fragments",
+  "Papyrus"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Thebes",
+  "Arkansas",
+  "Ashley"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "North America, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170021523,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cop0905s1.jpg",
+ "related-artworks": [
+  170016107,
+  170016118,
+  170016103,
+  170016124,
+  170016144
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170021523"
+  }
+ }
+}

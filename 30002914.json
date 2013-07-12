@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 5th–4th century B.C.",
+ "Geography": "Eurasian steppes",
+ "Medium": "Bronze",
+ "Dimensions": "2.63 x 1.5 in. (6.68 x 3.81 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, 1953",
+ "Accession Number": "53.39",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Trimming",
+  "Tassel"
+ ],
+ "Where": [
+  "Eurasia"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 30002914,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME53_39.jpg",
+ "related-artworks": [
+  30002745,
+  30003759,
+  30003761,
+  30003763,
+  30003771
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1953, purchased from Mathias Komor, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30002914"
+  }
+ }
+}

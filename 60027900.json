@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1860",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Gifts, Bequests, and Funds from various donors, by exchange, 1955",
+ "Accession Number": "JP3171",
+ "Who": "Shibata Zeshin",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Seasonal Imagery in Japanese Art",
+  "Netsuke From Fashion Fobs to Coveted Collectibles",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60027900,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP142171.jpg",
+ "related-artworks": [
+  60025337,
+  60027899,
+  60027902,
+  60028193,
+  60028194
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60027900"
+  }
+ }
+}

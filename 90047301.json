@@ -1,0 +1,38 @@
+{
+ "Publisher": "The Metropolitan Museum of Art",
+ "Date": "1979",
+ "Medium": "Commercial process",
+ "Dimensions": "10 3/4 x 8 7/16 x 3/8 in. (27.3 x 21.5 x 1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Museum Accession, MMA Production Department, 1979",
+ "Accession Number": "1979.616.1",
+ "Who": [
+  "The Metropolitan Museum of Art",
+  "Anthea Bell"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90047301,
+ "related-artworks": [
+  90017680,
+  90037775,
+  90037777,
+  90068111,
+  90068112
+ ],
+ "Provenance": [
+  "Donor: Metropolitan Museum of Art Sales Production Department"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90047301"
+  }
+ }
+}

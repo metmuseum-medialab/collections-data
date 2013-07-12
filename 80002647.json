@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1960",
+ "Culture": "French",
+ "Medium": "wool",
+ "Dimensions": [
+  "Length at CB (a) 25 1/2 in. (64.8 cm)",
+  "Length at CB (b) 28 1/2 in. (72.4 cm)"
+ ],
+ "Credit Line": "Gift of Kay Kerr Uebel, 1994",
+ "Accession Number": "1994.164.2a, b",
+ "Who": "Pierre Cardin",
+ "What": [
+  "Costume",
+  "Wool",
+  "Suits"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Shoes in The Costume Institute",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80002647,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DT3688.jpg",
+ "related-artworks": [
+  80000737,
+  80001458,
+  80093574,
+  80000061,
+  80000738
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002647"
+  }
+ }
+}

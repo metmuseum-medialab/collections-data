@@ -1,0 +1,36 @@
+{
+ "Date": "1960s",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artists, 1970",
+ "Accession Number": "1970.715.31",
+ "Who": "Muriel  Malcolm Bell",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190011530,
+ "related-artworks": [
+  190011508,
+  190011509,
+  190011510,
+  190011511,
+  190011512
+ ],
+ "Provenance": [
+  "Muriel & Malcolm Bell"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190011530"
+  }
+ }
+}

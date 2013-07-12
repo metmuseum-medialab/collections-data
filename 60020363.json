@@ -1,0 +1,43 @@
+{
+ "Date": "dated 1942",
+ "Culture": "China",
+ "Medium": "Folding fan mounted as an album leaf; ink and color on alum paper",
+ "Dimensions": "7 1/4 x 20 3/8 in. (18.4 x 51.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1986",
+ "Accession Number": "1986.267.296",
+ "Who": "Qian Ya",
+ "What": [
+  "Costume",
+  "Ink",
+  "Paper",
+  "Books",
+  "Paintings",
+  "Albums",
+  "Fans",
+  "Alum"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60020363,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP162678.jpg",
+ "related-artworks": [
+  60000401,
+  60000402,
+  60000404
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60020363"
+  }
+ }
+}

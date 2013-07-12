@@ -1,0 +1,40 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Diptych of polychrome woodblock prints; ink and color on paper",
+ "Dimensions": "Image (each) 14 7/16 × 9 3/4 in. (36.7 × 24.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "H. O. Havemeyer Collection, Gift of Mrs. J. Watson Webb, 1930",
+ "Accession Number": "JP2402",
+ "Who": "Katsukawa Shunchō",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60027982,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP145669.jpg",
+ "related-artworks": [
+  60000750,
+  60022927,
+  60025962,
+  60025970,
+  60025964
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60027982"
+  }
+ }
+}

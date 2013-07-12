@@ -1,0 +1,49 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1935–43",
+ "Medium": "Lithograph",
+ "Dimensions": "image 13 3/4 x 17 in. (34.9 x 43.2 cm) sheet: 16 x 20 3/4 in. (40.6 x 52.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, Pennsylvania, 1943",
+ "Accession Number": "43.46.64",
+ "Who": [
+  "WPA",
+  "Bessie Rigrodsley"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90049270,
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90049268"
+   },
+   {
+    "href": "http://scrapi.org/object/90049269"
+   },
+   {
+    "href": "http://scrapi.org/object/90049271"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90049270"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90049270"
+  }
+ }
+}

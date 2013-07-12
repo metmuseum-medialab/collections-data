@@ -1,0 +1,43 @@
+{
+ "Publisher": "Published by B. Schott Söhne (German, Mainz)",
+ "Date": "1914",
+ "Medium": "commercially printed color lithograph",
+ "Dimensions": "10 7/8 x 7 3/4 in. (27.6 x 19.7 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Harry G. Friedman, 1963",
+ "Accession Number": "63.706.4",
+ "Who": [
+  ". Schott Söhne",
+  "Lothar Windsperger"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90015133,
+ "related-artworks": [
+  90040567,
+  90014655,
+  90015911,
+  90016761,
+  90017822
+ ],
+ "Provenance": [
+  "Donor: Harry G. Friedman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90015133"
+  }
+ }
+}

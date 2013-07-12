@@ -1,0 +1,38 @@
+{
+ "Date": "late 1880s",
+ "Culture": "French (probably)",
+ "Medium": "[no medium available]",
+ "Dimensions": [
+  "Length at CB 24 in. (61 cm)",
+  "Length at CF 27 in. (68.6 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. Emilie Fries, 1937",
+ "Accession Number": "C.I.37.3",
+ "What": [
+  "Costume",
+  "Outerwear",
+  "Capes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80032730,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.37.3_F.jpg",
+ "related-artworks": [
+  80002035,
+  80029771,
+  80031030,
+  80033856,
+  80033929
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80032730"
+  }
+ }
+}

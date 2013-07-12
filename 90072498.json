@@ -1,0 +1,46 @@
+{
+ "Artist": "After Stefano della Bella (Italian, Florence 1610–1664 Florence)",
+ "Date": "1684",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 5 7/16 x 7 11/16 in. (13.8 x 19.5 cm)",
+  "sheet 6 7/8 x 10 1/16 in. (17.4 x 25.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.272.2",
+ "Who": [
+  "Stefano della Bella",
+  "François Collignon",
+  "Agostino Mitelli II"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90072498,
+ "related-artworks": [
+  90072497,
+  90072499,
+  90072500,
+  90072501,
+  90072502
+ ],
+ "Provenance": [
+  "Phyllis D. Massar",
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90072498"
+  }
+ }
+}

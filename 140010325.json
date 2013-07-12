@@ -1,0 +1,44 @@
+{
+ "Date": "14th century",
+ "Geography": "Iran or Iraq",
+ "Medium": "Brass; raised and engraved",
+ "Dimensions": [
+  "H. 8 in. (20.3 cm)",
+  "Diam. (rim) 6 1/2 in. (16.5 cm)"
+ ],
+ "Classification": "Metal",
+ "Credit Line": "Gift of Charles K. and Irma B. Wilkinson, 1978",
+ "Accession Number": "1978.551",
+ "What": [
+  "Metal",
+  "Engraving",
+  "Copper alloy",
+  "Bowls",
+  "Brass"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140010325,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf1978-551a.jpg",
+ "related-artworks": [
+  140001753,
+  140001765,
+  140001769,
+  140006297,
+  140007701
+ ],
+ "Provenance": [
+  "Charles K. and Irma B. Wilkinson, Sharon, CT (until 1978)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010325"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "1887",
+ "Culture": "American",
+ "Medium": "leather",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. DeWitt Millhauser, 1946",
+ "Accession Number": "C.I.46.27.10a, b",
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80043499,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI46.27.10ab_F.jpg",
+ "related-artworks": [
+  80013088,
+  80013064,
+  80016920,
+  80024560,
+  80024559
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80043499"
+  }
+ }
+}

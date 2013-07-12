@@ -1,0 +1,42 @@
+{
+ "Date": "dated 1759",
+ "Culture": "American",
+ "Medium": "Cow horn",
+ "Dimensions": "Length, 15 1/2 in. (39.37 cm)",
+ "Classification": "Firearms Accessories",
+ "Credit Line": "The Collection of J. H. Grenville Gilbert, of Ware, Massachusetts, Gift of Mrs. Gilbert, 1937",
+ "Accession Number": "37.131.7",
+ "Who": "Jacob Gay",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Accessories",
+  "Horn",
+  "Powder flasks",
+  "Powder horns"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40002879,
+ "gallery-id": 372,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/113018.jpg",
+ "related-artworks": [
+  40002884,
+  40003038,
+  40007790,
+  40002878,
+  40002880
+ ],
+ "Description": "One of the most prolific horn carvers, Jacob Gay is thought to have relocated from Nova Scotia to New England in about 1755, settling in New Hampshire. This horn is engraved with a map of the Hudson Valley and the forts from Albany to the Great Lakes, the British coat of arms, and the name of the owner, Iotham Bemus.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40002879"
+  }
+ }
+}

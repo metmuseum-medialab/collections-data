@@ -1,0 +1,39 @@
+{
+ "Period": "Middle Neolithic",
+ "Date": "ca. 5300-4400 B.C.",
+ "Culture": "Sesklo culture",
+ "Medium": "Terracotta; Red slipped and burnished ware",
+ "Dimensions": "length  2 5/8in. (6.7cm)",
+ "Classification": "Vases",
+ "Credit Line": "Anonymous Gift, 1930",
+ "Accession Number": "30.119.4",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013701,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP21411.jpg",
+ "related-artworks": [
+  130008130,
+  130008141,
+  130008135,
+  130008156,
+  130008160
+ ],
+ "Description": "From Thessaly",
+ "Provenance": [
+  "From Thessaly"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013701"
+  }
+ }
+}

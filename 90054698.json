@@ -1,0 +1,40 @@
+{
+ "Date": "1893",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 7 x 4 15/16 in. (17.8 x 12.5 cm)",
+  "sheet 11 1/8 x 7 13/16 in. (28.2 x 19.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954",
+ "Accession Number": "54.90.916",
+ "Who": "Charles Frederick Mielatz",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90054698,
+ "related-artworks": [
+  90054693,
+  90054694,
+  90054695,
+  90054725,
+  90059532
+ ],
+ "Provenance": [
+  "Donor: Edward W. C. Arnold"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90054698"
+  }
+ }
+}

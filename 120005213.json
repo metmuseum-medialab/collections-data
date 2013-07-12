@@ -1,0 +1,47 @@
+{
+ "Date": "1900",
+ "Culture": "British",
+ "Medium": "bronze, struck",
+ "Dimensions": "Dia 3 in. (76 mm)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of the Corporation of the City of London, 1908",
+ "Accession Number": "08.53.29",
+ "Who": "George Frampton",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1800–1900 A.D.",
+  "Great Britain and Ireland, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120005213,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/3546.jpg",
+ "related-artworks": [
+  120005130,
+  120005214,
+  120006443,
+  120009943,
+  120028378
+ ],
+ "Provenance": [
+  "Corporation of the City of London (until 1908",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120005213"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "1697–1768",
+ "Medium": "Pen and brown ink over lead or graphite underdrawing",
+ "Dimensions": "8 3/16 x 11 9/16 in. (20.8 x 29.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Anonymous Gift, 1997",
+ "Accession Number": "1997.454",
+ "Who": "Canaletto (Giovanni Antonio Canal)",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite",
+  "Underdrawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90001592,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP808196.jpg",
+ "related-artworks": [
+  90005420,
+  90005421,
+  90005422,
+  150000327,
+  150000234
+ ],
+ "Provenance": [
+  "Private Collection, United States, 19th century"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90001592"
+  }
+ }
+}

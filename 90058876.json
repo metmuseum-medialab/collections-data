@@ -1,0 +1,40 @@
+{
+ "Artist": "Eugène-Pierre Gourdet (French, born Paris, 1820)",
+ "Date": "second half 19th century",
+ "Medium": "Gouache on laid paper",
+ "Dimensions": "mount 19 1/2 x 13 7/16 in. (49.5 x 34.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Dodge Fund, 1967",
+ "Accession Number": "67.827.150",
+ "Who": [
+  "Jules-Edmond-Charles Lachaise",
+  "Eugène-Pierre Gourdet"
+ ],
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Gouache",
+  "Laid paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90058876,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811124.jpg",
+ "related-artworks": [
+  90058896,
+  90058899,
+  90058898,
+  90058908,
+  90058889
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90058876"
+  }
+ }
+}

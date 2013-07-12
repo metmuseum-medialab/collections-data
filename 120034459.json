@@ -1,0 +1,44 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian",
+ "Medium": "Silk and metal thread on linen",
+ "Dimensions": "L. 20 5/8 x W. 4 1/2 inches (52.4 x 11.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.1946",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Linen",
+  "Embroidery"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120034459,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/19765c.jpg",
+ "related-artworks": [
+  120031124,
+  120031125,
+  120039934,
+  120040215,
+  120040214
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120034459"
+  }
+ }
+}

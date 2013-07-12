@@ -1,0 +1,38 @@
+{
+ "Period": "New Kingdom",
+ "Date": "ca. 1550–1070 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Terracotta",
+ "Dimensions": "l. 3.8 cm (1 1/2 in.)",
+ "Credit Line": "Gift of Lily S. Place, 1923",
+ "Accession Number": "23.6.94",
+ "What": [
+  "Clay",
+  "Terracotta",
+  "Molds"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100028586,
+ "related-artworks": [
+  100007596,
+  100008521,
+  100008522,
+  100008567,
+  100016365
+ ],
+ "Provenance": [
+  "Collection of Lily S. Place, Cairo. Donated by Lily Place to the museum, 1923."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100028586"
+  }
+ }
+}

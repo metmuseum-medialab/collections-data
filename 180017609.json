@@ -1,0 +1,40 @@
+{
+ "Date": "mid-20th century",
+ "Geography": "Mali",
+ "Culture": "Dogon",
+ "Medium": "Wood",
+ "Dimensions": "W. 3.1 x D. 1.5 x L. 15.8cm (1 1/4 x 9/16 x 6 1/4in.)",
+ "Classification": "Aerophone-Whistle Flute",
+ "Credit Line": "Purchase, Amati Gifts, 2007",
+ "Accession Number": "2007.4",
+ "Who": "Dogon",
+ "What": [
+  "Musical instruments",
+  "Aerophones",
+  "Flutes",
+  "Duct flutes",
+  "Whistles"
+ ],
+ "Where": [
+  "Africa",
+  "Mali"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Western and Central Sudan, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 180017609,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DP147355.jpg",
+ "related-artworks": [
+  180015220,
+  180015605,
+  180015843,
+  180017559,
+  180017719
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180017609"
+  }
+ }
+}

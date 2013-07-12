@@ -1,0 +1,32 @@
+{
+ "Medium": "Salted paper print from paper negative",
+ "Dimensions": "Approx. 50.8 × 40.6 cm (20 × 16 in.)",
+ "Classification": "Photographs",
+ "Accession Number": "2013.159.35",
+ "Who": "Calvert Richard Jones",
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Wales"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190060713,
+ "related-artworks": [
+  190060706,
+  190060707,
+  190060709,
+  190060708,
+  190060710
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190060713"
+  }
+ }
+}

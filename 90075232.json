@@ -1,0 +1,33 @@
+{
+ "Medium": "Etching; first state of three (Bartsch)",
+ "Dimensions": "sheet 8 1/4 x 5 11/16 in. (20.9 x 14.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "26.70.3",
+ "Who": "Carlo Maratti",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90075232,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP822611.jpg",
+ "related-artworks": [
+  90032367,
+  90050151,
+  90075201,
+  90075204,
+  90075203
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90075232"
+  }
+ }
+}

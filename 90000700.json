@@ -1,0 +1,42 @@
+{
+ "Artist": "Designed by Giovanni Battista Piazzetta (Italian, Venice 1682–1754 Venice)",
+ "Date": "1735–90",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "Sheet 5 11/16 x 3 11/16 in. (14.4 x 9.4cm)",
+  "Plate 5 9/16 x 3 11/16 in. (14.14 x 9.4cm)",
+  "Image 4 13/16 x 3 5/8 in. (12.2 x 9.2cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Grace M. Pugh, 1985",
+ "Accession Number": "1986.1180.529",
+ "Who": [
+  "Giovanni Battista Piazzetta",
+  "Franz Xaver Jungwirth"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "id": 90000700,
+ "related-artworks": [
+  90000701,
+  90024636,
+  90024630
+ ],
+ "Provenance": [
+  "Estate of Grace M. Pugh G. Pugh (not in Lugt)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90000700"
+  }
+ }
+}

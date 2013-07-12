@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1982",
+ "Medium": "Photocopy",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 1982",
+ "Accession Number": "1982.1034",
+ "Who": "Edward Powis Jones",
+ "What": [
+  "Photographs",
+  "Photomechanical reproductions",
+  "Photocopies"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 190015089,
+ "related-artworks": [
+  190016020,
+  190016021,
+  190016022,
+  190016023,
+  190014723
+ ],
+ "Provenance": [
+  "Edward P. Jones"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190015089"
+  }
+ }
+}

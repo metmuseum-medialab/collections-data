@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1889",
+ "Medium": "Albumen photograph",
+ "Dimensions": "Sheet 2 1/4 × 1 1/2 in. (5.7 × 3.8 cm)",
+ "Classification": "Photographs",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 315, E184.37",
+ "Who": "Heisel's Gums",
+ "What": [
+  "Photographs",
+  "Albumen"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90104549,
+ "related-artworks": [
+  90104411,
+  90104423,
+  90104424,
+  90104427,
+  90104428
+ ],
+ "Description": "Trade cards from the \"Photo Gum\" series (E184), issued ca. 1889 to promote Photo Gum for Heisel's Gums. Each card depicts an actress photographed in a studio setting.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104549"
+  }
+ }
+}

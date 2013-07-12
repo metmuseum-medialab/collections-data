@@ -1,0 +1,57 @@
+{
+ "Date": "1870–90",
+ "Geography": "Mid-Atlantic, Tarentum, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Pressed purple marble glass",
+ "Dimensions": "Diam. 10 3/8 in. (26.4 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Emily Winthrop Miles, 1946",
+ "Accession Number": "46.140.701",
+ "Who": "Challinor, Taylor  Company",
+ "What": [
+  "Glass",
+  "Dishes",
+  "Plates",
+  "Marble"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Tarentum"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 10006605,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP238272.jpg",
+ "Provenance": [
+  "Mrs. Emily Winthrop Miles, New York, until 1946"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10006602"
+   },
+   {
+    "href": "http://scrapi.org/object/10006603"
+   },
+   {
+    "href": "http://scrapi.org/object/10006604"
+   },
+   {
+    "href": "http://scrapi.org/object/10006606"
+   },
+   {
+    "href": "http://scrapi.org/object/10006607"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10006605"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10006605"
+  }
+ }
+}

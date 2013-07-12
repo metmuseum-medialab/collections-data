@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1655",
+ "Culture": "German, Brunswick mounts; probably Southern Netherlandish glass",
+ "Medium": "Silver gilt, glass",
+ "Dimensions": "Overall 13 1/2 × 3 7/8 in., 1lb. (34.3 × 9.8 cm, 453.597g)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.629a, b",
+ "What": [
+  "Metal",
+  "Glass",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Drinking vessels",
+  "Cups"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "id": 120008308,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/212656.jpg",
+ "related-artworks": [
+  120010895,
+  120006363,
+  120006632,
+  120006706,
+  120006708
+ ],
+ "Provenance": [
+  "Baron Albert von Oppenheim (until 1906",
+  "sale, April 13, 1906, no. 187",
+  "to Mr. Morgan)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120008308"
+  }
+ }
+}

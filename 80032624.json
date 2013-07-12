@@ -1,0 +1,38 @@
+{
+ "Date": "1890s",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length at CB (a) 16 1/2 in. (41.9 cm)",
+  "Length at CB (b) 54 in. (137.2 cm)"
+ ],
+ "Credit Line": "Gift of Orme Wilson and R. Thornton Wilson, in memory of their mother, Mrs. Caroline Schermerhorn Astor Wilson, 1949",
+ "Accession Number": "49.3.18a–c",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Gowns"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 80032624,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/49.3.18ab_F.jpg",
+ "related-artworks": [
+  80002676,
+  80002792,
+  80013539,
+  80033168,
+  80002258
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80032624"
+  }
+ }
+}

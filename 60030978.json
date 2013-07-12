@@ -1,0 +1,36 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Ivory",
+ "Classification": "Netsuke",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1015",
+ "What": [
+  "Sculpture",
+  "Bone",
+  "Ivory",
+  "Netsukes"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60030978,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/91_1_1015_O1_sf.jpg",
+ "related-artworks": [
+  60013248,
+  60013403,
+  60030079,
+  60030325,
+  60030330
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030978"
+  }
+ }
+}

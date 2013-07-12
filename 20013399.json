@@ -1,0 +1,33 @@
+{
+ "Date": "ca. 1850",
+ "Medium": "Oil on canvas",
+ "Dimensions": "36 1/2 x 58 1/2 in. (91.9 x 147.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps, and Pictures, Bequest of Edward W. C. Arnold, 1954",
+ "Accession Number": "54.90.177",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20013399,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap54.90.177.jpg",
+ "related-artworks": [
+  20005368,
+  20010361,
+  20010382,
+  20007768,
+  20010394
+ ],
+ "Provenance": [
+  "W. C. Arnold, New York, until 1954"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20013399"
+  }
+ }
+}

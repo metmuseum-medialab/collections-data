@@ -1,0 +1,45 @@
+{
+ "Object Name": "Cross-shaped tile",
+ "Date": "13th century",
+ "Geography": "Iran, Kashan",
+ "Medium": "Stonepaste; luster-painted on opaque white glaze under transparent glaze",
+ "Dimensions": [
+  "8 in. (20.3 cm)",
+  "Wt. (whole group) 51 lbs. (23.1 kg)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "H.O. Havemeyer Collection, Gift of Horace Havemeyer, 1941",
+ "Accession Number": "41.165.38",
+ "What": [
+  "Ceramics",
+  "Painting",
+  "Glaze",
+  "Tile",
+  "Crosses"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Kashan"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140007747,
+ "related-artworks": [
+  140007745,
+  140007741,
+  140007744,
+  140007746,
+  140007748
+ ],
+ "Provenance": [
+  "H. O. Havemeyer Collection, New York (until 1941)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007747"
+  }
+ }
+}

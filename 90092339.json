@@ -1,0 +1,43 @@
+{
+ "Artist": "After Jacques Callot (French, Nancy 1592–1635 Nancy)",
+ "Date": "17th century",
+ "Medium": "Etching",
+ "Dimensions": "Sheet 2 3/16 x 3 1/8 in. (5.5 x 8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1917",
+ "Accession Number": "17.50.17-504",
+ "Who": [
+  "Jacques Callot",
+  "Anonymous"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90092339,
+ "related-artworks": [
+  90060208,
+  90060254,
+  90060258,
+  90089224,
+  90089232
+ ],
+ "Provenance": [
+  "Earls of Pembroke (British, Wilton House, near Salisbury, Wiltshire)",
+  "Sotheby's, LondonWilton House Sale, July 1917",
+  "Colnaghi & Co. (London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90092339"
+  }
+ }
+}

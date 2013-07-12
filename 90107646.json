@@ -1,0 +1,36 @@
+{
+ "Medium": "Engraving",
+ "Dimensions": "Sheet 2 × 3 1/16 in. (5.1 × 7.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "22.36.19",
+ "Who": "Georg Pencz",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90107646,
+ "related-artworks": [
+  90003258,
+  90003283,
+  90003285,
+  90003284,
+  90008359
+ ],
+ "Provenance": [
+  "Vendor: American Art Association"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90107646"
+  }
+ }
+}

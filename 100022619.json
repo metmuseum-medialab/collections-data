@@ -1,0 +1,43 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1352 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Malqata, Palace of Amenhotep III, MMA",
+ "Medium": "Pottery and ink, paint",
+ "Credit Line": "Rogers Fund, 1917",
+ "Accession Number": "17.10.1349",
+ "What": [
+  "Ceramics",
+  "Ink",
+  "Vessels",
+  "Pottery",
+  "Jars",
+  "Labels"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100022619,
+ "related-artworks": [
+  100009276,
+  100009277,
+  100009278,
+  100009279,
+  100017398
+ ],
+ "Provenance": [
+  "Museum excavations, 1916–17. Acquired by the Museum in the division of finds, 1917."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100022619"
+  }
+ }
+}

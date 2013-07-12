@@ -1,0 +1,40 @@
+{
+ "Date": "19th century",
+ "Culture": "Italian",
+ "Medium": "Silk; metal; cotton",
+ "Dimensions": "14 1/4 x 12 in. with 2 1/4 in. gusset (36.2 x 30.5 x 5.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.1850",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Cotton",
+  "Cushions"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Siena"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 150008367,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975.1.1850.jpg",
+ "related-artworks": [
+  150008480,
+  150007394,
+  150007754,
+  150008206,
+  150008311
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008367"
+  }
+ }
+}

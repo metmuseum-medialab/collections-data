@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1832",
+ "Medium": "Watercolor on off-white wove paper",
+ "Dimensions": "5 13/16 x 7 1/2 in. (14.8 x 19.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Mrs. Louis Marx Gift, 1994",
+ "Accession Number": "1994.187.11",
+ "Who": "Thomas Kelah Wharton",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Wove paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 20015438,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap1994.187.11.jpg",
+ "related-artworks": [
+  20015439,
+  20015440,
+  20015442,
+  20015443,
+  20015444
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20015438"
+  }
+ }
+}

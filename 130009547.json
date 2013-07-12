@@ -1,0 +1,43 @@
+{
+ "Period": "Classical",
+ "Date": "ca. 470–460 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": [
+  "H. 14 7/8 in. (37.8 cm)",
+  "diameter of mouth  13 1/16 in. (33.2 cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1916",
+ "Accession Number": "16.72",
+ "Who": "Pan Painter",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Kraters"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009547,
+ "gallery-id": 157,
+ "related-artworks": [
+  130011887,
+  130016128,
+  130005329,
+  130011478
+ ],
+ "Description": "Obverse, Dionysos followed by attendant satyrReverse, satyr with skyphos (deep drinking cup)A pupil of Myson, the Pan Painter was one of the best artists of his generation. Here he depicts Dionysos, the god of wine, enfolded in an ample cloak and crowned with a large ivy wreath, evidently on his way to a specific destination. The satyr behind him carries a cushioned stool, a kantharos—the drinking vessel most characteristic of Dionysos—and a branch of ivy. On the reverse, a satyr seems to welcome them with a skyphos. The god is subtly juxtaposed with his helpers who, despite their meticulous grooming and obedient service, do not entirely overcome their animal natures.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009547"
+  }
+ }
+}

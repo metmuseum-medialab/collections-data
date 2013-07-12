@@ -1,0 +1,40 @@
+{
+ "Period": "Late Imperial or Late Antique",
+ "Date": "3rd–4th century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown and cut",
+ "Dimensions": [
+  "H. 2 3/8 in. (6 cm)",
+  "Diam. 8 1/4 in. (21 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Bequest of Isaac D. Fletcher, 1917",
+ "Accession Number": "17.120.242",
+ "What": [
+  "Glass",
+  "Bowls"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009647,
+ "gallery-id": 169,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP107041.jpg",
+ "related-artworks": [
+  130000311,
+  130000318,
+  130000342,
+  130005667,
+  130005704
+ ],
+ "Description": "Bowls with similar geometric decoration, miniature handles, and even Greek inscriptions are known to be from the Rhineland. However, both of these examples are probably from the eastern half of the Empire. The purple bowl, which has lost most of its handle, has an engraved inscription in Greek, PIE ZESAIS (Drink [so that] you may live [well]). The same exhortation, but with a slightly different spelling, appears on another goblet (13.198.5) on view in this case.[Group label with 17.120.249]",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009647"
+  }
+ }
+}

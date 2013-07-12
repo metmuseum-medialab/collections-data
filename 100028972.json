@@ -1,0 +1,33 @@
+{
+ "Period": "Ptolemaic or Roman Period",
+ "Date": "304 B.C.–A.D. 364",
+ "Geography": "Country of Origin Egypt",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.8.367",
+ "What": "Amulets",
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1000 B.C.–1 A.D.",
+  "Egypt, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100028972,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs28az83.jpg",
+ "related-artworks": [
+  100000249,
+  100000272,
+  100000279,
+  100000286,
+  100000287
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100028972"
+  }
+ }
+}

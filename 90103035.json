@@ -1,0 +1,34 @@
+{
+ "Date": "1910",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 × 1 1/2 in. (7 × 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 314, E76.12",
+ "Who": "American Caramel Company, Philadelphia",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90103035,
+ "related-artworks": [
+  90102853,
+  90102855,
+  90102857,
+  90102858,
+  90102859
+ ],
+ "Description": "Trade cards from the \"Prize Fighter Caramels\" series (E76), issued in a set of 20 cards in 1910 produced by the American Caramel Company. The E76 series is very similar to the E75 series, except that the verso text on E75 cards is printed in black whereas the verso text on E76 cards is printed in blue.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90103035"
+  }
+ }
+}

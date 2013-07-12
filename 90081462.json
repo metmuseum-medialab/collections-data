@@ -1,0 +1,41 @@
+{
+ "Publisher": "Balthasar Caimox (German, Bersse (?) 1561 - 1635 Nuremberg)",
+ "Date": "1600-1617 ca.",
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund 1950",
+ "Accession Number": "50.562.102(1-9)",
+ "Who": [
+  "Theodor Bang",
+  "Balthasar Caimox"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90081462,
+ "related-artworks": [
+  90081471,
+  90081473,
+  90081475,
+  90081474,
+  90081476
+ ],
+ "Description": "Nine plates from a series of twelve prints showing decorative friezes thought to have been meant as models for embroidery, but most likely also, or primarily meant for the decoration of precious metals.",
+ "Provenance": [
+  "Vendor: S. F. C. Smith"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90081462"
+  }
+ }
+}

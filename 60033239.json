@@ -1,0 +1,36 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Lacquered wood",
+ "Dimensions": "L. 8 in. (20.3 cm); Diam. 3 1/4 in. (8.3 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Rogers Fund, 1907",
+ "Accession Number": "07.22",
+ "What": [
+  "Chalk",
+  "Woodwork",
+  "Lacquer"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60033239,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/07_22_857.jpg",
+ "related-artworks": [
+  60033238,
+  60029534,
+  60033237,
+  60000137,
+  60000138
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033239"
+  }
+ }
+}

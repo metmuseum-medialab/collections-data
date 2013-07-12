@@ -1,0 +1,31 @@
+{
+ "Medium": "Poplar",
+ "Dimensions": "Overall 29 1/4 x 24 5/8",
+ "Classification": "Frames",
+ "Accession Number": "1975.1.2121",
+ "What": [
+  "Wood",
+  "Frames",
+  "Poplar"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Robert Lehman Collection",
+ "MetPublications": "Search for related Met publications",
+ "id": 150008640,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/86E_020r2m.jpg",
+ "related-artworks": [
+  150007247,
+  150007251,
+  150007338,
+  150007335,
+  150007303
+ ],
+ "Provenance": [
+  "[Mindak, Rome, May 1948, List 1, No.7  ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008640"
+  }
+ }
+}

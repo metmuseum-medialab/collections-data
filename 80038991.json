@@ -1,0 +1,52 @@
+{
+ "Date": "ca. 1872",
+ "Culture": "American or European",
+ "Medium": "silk, ivory",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Mary F. Youngs, 1943",
+ "Accession Number": "C.I.43.52",
+ "What": [
+  "Costume",
+  "Silk",
+  "Bone",
+  "Ivory",
+  "Parasols"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80038991,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI43.52_d2.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/CI43.52_d2.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI43.52_d1.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80055891"
+   },
+   {
+    "href": "http://scrapi.org/object/80095119"
+   },
+   {
+    "href": "http://scrapi.org/object/80095841"
+   },
+   {
+    "href": "http://scrapi.org/object/80096074"
+   },
+   {
+    "href": "http://scrapi.org/object/80024799"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80038991"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80038991"
+  }
+ }
+}

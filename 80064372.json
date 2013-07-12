@@ -1,0 +1,50 @@
+{
+ "Manufacturer": "(e, f) Massaro (French, founded 1894)",
+ "Date": "1970s",
+ "Culture": "French",
+ "Medium": "a-d) silk; e,f) silk, leather",
+ "Dimensions": [
+  "Length at CB (a) 52 1/2 in. (133.4 cm)",
+  "Length at CB (b) 43 in. (109.2 cm)",
+  "Total Length (c) 112 in. (284.5 cm)",
+  "Total Length (d) 84 in. (213.4 cm)",
+  "Heel to Toe (e,f) 9 1/4 in. (23.5 cm)"
+ ],
+ "Credit Line": "Bequest of Yolande Fielding–Scheftel, 2006",
+ "Accession Number": "2006.271.11a–f",
+ "Who": [
+  "House of Chanel",
+  "Massaro"
+ ],
+ "What": [
+  "Silk",
+  "Leather",
+  "Ensembles"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Gabrielle \"Coco\" Chanel (1883–1971) and the House of Chanel",
+  "Dressing for the Cocktail Hour",
+  "Costume in The Metropolitan Museum of Art",
+  "France, 1900 A.D.–present"
+ ],
+ "id": 80064372,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2006.271.11a-d_F.jpg",
+ "related-artworks": [
+  80001807,
+  80001808,
+  80005353,
+  80005360,
+  80008694
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80064372"
+  }
+ }
+}

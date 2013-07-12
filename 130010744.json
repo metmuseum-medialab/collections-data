@@ -1,0 +1,44 @@
+{
+ "Medium": "Terracotta",
+ "Dimensions": "width    18.80 cm.",
+ "Classification": "Vases",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.1905",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Dishes",
+  "Plates"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130010744,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130011843"
+   },
+   {
+    "href": "http://scrapi.org/object/130015855"
+   },
+   {
+    "href": "http://scrapi.org/object/130018068"
+   },
+   {
+    "href": "http://scrapi.org/object/130000861"
+   },
+   {
+    "href": "http://scrapi.org/object/130001029"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130010744"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130010744"
+  }
+ }
+}

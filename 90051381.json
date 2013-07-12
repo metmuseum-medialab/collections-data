@@ -1,0 +1,44 @@
+{
+ "Publisher": "Published by Israël Henriet (French, Nancy ca. 1590–1661 Paris)",
+ "Date": "ca. 1646–47",
+ "Medium": "Etching, state ii",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry Shaw Newman, 1935",
+ "Accession Number": "35.7.6",
+ "Who": [
+  "Stefano della Bella",
+  "Israël Henriet"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Printed Image in the West History and Techniques",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90051381,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP817987.jpg",
+ "related-artworks": [
+  90009182,
+  90039895,
+  90047318,
+  90047320,
+  90047321
+ ],
+ "Provenance": [
+  "Donor: Harry Shaw Newman (American, 1896–1966)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90051381"
+  }
+ }
+}

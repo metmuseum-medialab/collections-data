@@ -1,0 +1,39 @@
+{
+ "Period": "Kamakura period (1185–1333)",
+ "Date": "ca. 1320 (?)",
+ "Culture": "Japan",
+ "Medium": "Clay covered with a mottled glaze (Seto ware)",
+ "Dimensions": "H. 4 1/4 in. (10.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Charles Stewart Smith, 1893",
+ "Accession Number": "93.3.147a, b",
+ "Who": "Tôshiro",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Glaze",
+  "Jars",
+  "Seto"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60034092,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/93_3_147.JPG",
+ "related-artworks": [
+  60034420,
+  60034628,
+  60019922
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60034092"
+  }
+ }
+}

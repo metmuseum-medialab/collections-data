@@ -1,0 +1,59 @@
+{
+ "Artist": "Attributed to Miskin (active ca. 1570–1604)",
+ "Object Name": "Folio from an illustrated manuscript",
+ "Reign": "Akbar (1556–1605)",
+ "Date": "1597–98",
+ "Geography": "India",
+ "Medium": [
+  "Main support Ink, opaque watercolor, gold on paper",
+  "Margins Gold on dyed paper"
+ ],
+ "Dimensions": "9 5/8 x 5 15/16in. (24.5 x 15.1cm)",
+ "Classification": "Codices",
+ "Credit Line": "Gift of Alexander Smith Cochran, 1913",
+ "Accession Number": "13.228.28",
+ "Who": [
+  "Amir Khusrau Dihlavi",
+  "Miskin"
+ ],
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Gold",
+  "Watercolors",
+  "Manuscripts",
+  "Codices",
+  "Folios",
+  "Illuminated manuscripts",
+  "Dyeing"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia, 1400–1600 A.D.",
+  "South Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140003775,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP120803.jpg",
+ "related-artworks": [
+  140003779,
+  140003776,
+  140003777,
+  140003773,
+  140003774
+ ],
+ "Description": "Approximately one century after the Persian poet Nizami wrote his Khamsa (Quintet), the Indian poet Amir Khusrau Dihlavi composed a response using Nizami’s structure but varying his stories slightly. This painting comes from the Mughal emperor Akbar’s (r. 1556–1605) personal copy of Amir Khusrau’s verses. It shows the king Bahram Gur with his beautiful slave girl, Dilaram, who could make animals sleep or awaken with the sound of her music.",
+ "Provenance": [
+  "Alexander Smith Cochran, Yonkers, NY (until 1913)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003775"
+  }
+ }
+}

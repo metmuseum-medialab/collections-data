@@ -1,0 +1,37 @@
+{
+ "Date": "second quarter 18th century",
+ "Culture": "European",
+ "Medium": "silk, metal",
+ "Dimensions": [
+  "Length at CB (a) 43 1/2 in. (110.5 cm)",
+  "(b) with fringe 34 1/2 in. (87.6 cm)"
+ ],
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Francis F. Randolph, J. Ogden Bulkley, and David T. Bulkley, 1944",
+ "Accession Number": "2009.300.3039a, b",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Vestments"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "id": 80095786,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/44.61.7a-b_front_CP4.jpg",
+ "related-artworks": [
+  80094933,
+  80095570,
+  80095685,
+  80095689,
+  80095725
+ ],
+ "Description": "This chasuble and maniple owe their magnificent appearance not only to the sumptuousness of the costly textile from which they are made, but also to the perfectly matched pattern that comprises the chasuble's construction. The complex weave and brilliant color palette of the floral surrounds and blue ombréd satin combine to create a multi-dimensional effect: the blossoms appear to part to reveal an atmospheric and ethereal realm. In contrast to the make-up of many chasubles, here the textile is perfectly matched. The careful arrangement of the orphrey bands and side pieces is a more expensive construction method as it requires more of this expensive fabric to create a symmetrical whole.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80095786"
+  }
+ }
+}

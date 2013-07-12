@@ -1,0 +1,41 @@
+{
+ "Period": "late Yuan (1271–1368)–early Ming (1368–1644) dynasty",
+ "Culture": "China",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 2 1/4 in. (5.7 cm); Diam. 2 in. (5.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "22.157.7",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Drinking vessels",
+  "Cups"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000–1400 A.D.",
+  "Central and North Asia, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60018755,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/22_157_7_51388.jpg",
+ "related-artworks": [
+  60023747,
+  60009950,
+  60009958,
+  60018754,
+  60020574
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60018755"
+  }
+ }
+}

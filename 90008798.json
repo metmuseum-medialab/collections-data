@@ -1,0 +1,42 @@
+{
+ "Date": "17th century",
+ "Medium": "Etching",
+ "Dimensions": "3 9/16 x 4 9/16 in.  (9.1 x 11.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.509.11",
+ "Who": "Salvator Rosa",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Heroes in Italian Mythological Prints",
+  "Baroque Rome",
+  "Art of the Seventeenth and Eighteenth Centuries in Naples",
+  "Poets, Lovers, and Heroes in Italian Mythological Prints"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90008798,
+ "related-artworks": [
+  90008701,
+  90008703,
+  90008704,
+  90008706,
+  90008709
+ ],
+ "Provenance": [
+  "Dr. Ludwig Pollak (Czech, Prague 1868–1943 Rome)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90008798"
+  }
+ }
+}

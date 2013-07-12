@@ -1,0 +1,53 @@
+{
+ "Period": "Mid Imperial",
+ "Date": "ca. 2nd–early 3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": "H. 3 in. (7.6 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.115.2",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013555,
+ "related-artworks": [
+  "http://scrapi.org/object/130000070",
+  "http://scrapi.org/object/130000073",
+  "http://scrapi.org/object/130000106",
+  "http://scrapi.org/object/130000142",
+  "http://scrapi.org/object/130000148"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130000070"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130000073"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130000106"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130000142"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130000148"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130013555"
+  }
+ }
+}

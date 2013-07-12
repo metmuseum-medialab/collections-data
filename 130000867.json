@@ -1,0 +1,43 @@
+{
+ "Period": "Bronze Age",
+ "Date": "ca. 3200–1050 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 7 3/16 in. (18.3 cm)",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.814",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Flasks"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Eastern Mediterranean, 2000–1000 B.C.",
+  "The Eastern Mediterranean, 8000–2000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130000867,
+ "related-artworks": [
+  130000480,
+  130001315,
+  130001364,
+  130001366,
+  130001368
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130000867"
+  }
+ }
+}

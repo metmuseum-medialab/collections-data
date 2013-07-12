@@ -1,0 +1,34 @@
+{
+ "Date": "n.d.",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "sheet 20 15/16 x 23 1/4 in. (53.2 x 59.1 cm)",
+  "plate 17 1/16 x 20 11/16 in. (43.4 x 52.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of William S. Lieberman, 2005",
+ "Accession Number": "2007.49.403",
+ "Who": "Pierre Mortier, Amsterdam",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90049436,
+ "related-artworks": [
+  90049432,
+  90049434,
+  90049430,
+  90049692,
+  90049693
+ ],
+ "Provenance": [
+  "Donor: William S. Lieberman (American, Paris 1923–2005 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90049436"
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "Object Name": "Illustrated  album leaf",
+ "Reign": "Jahangir (1605–27)",
+ "Date": "ca. 1660–70",
+ "Geography": "Iran",
+ "Medium": "Ink, opaque watercolor, and gold on paper",
+ "Dimensions": "13.12 in. high 8.25 in. wide (33.3 cm high 21 cm wide)",
+ "Classification": "Codices",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.95.174.24",
+ "Who": "'Ali Quli Jabbadar",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Books",
+  "Gold",
+  "Watercolors",
+  "Albums",
+  "Manuscripts",
+  "Codices"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005741,
+ "gallery-id": 462,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP107568.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/is/original/DP107568.jpg",
+  "http://images.metmuseum.org/CRDImages/is/original/sf30-95-174-23a.jpg",
+  "http://images.metmuseum.org/CRDImages/is/original/DP159388.jpg",
+  "http://images.metmuseum.org/CRDImages/is/original/81792.jpg"
+ ],
+ "Description": "In the foreground a standing woman turns her head slightly to her right.  She holds a basket of cucumbers in her right hand while lifting her dress with her left.  The woman's dress and pose and the thatched buildings in the background, which include a barnyard with chickens, a water wheel and two figures, suggest that this painting is based on a European, possibly Flemish, allegory of one of the four seasons, Summer.  Although the painting is not signed, the palette, composition  and details such as the flowers behind the figure all are found in the work of 'Ali Quli Jabbadar, an important Safavid court artist of the second half of the seventeenth century.",
+ "Provenance": [
+  "Theodore M. Davis, New York (by 1914–d. 1915)",
+  "On loan from his estateduring settlement of estate (1915–30)",
+  "In permanent possession of The Metropolitan Museum of Artsince 1930"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/140005722"
+   },
+   {
+    "href": "http://scrapi.org/object/140005720"
+   },
+   {
+    "href": "http://scrapi.org/object/140005752"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140005741"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/140005741"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Date": "8th century (?)",
+ "Culture": "Frankish",
+ "Medium": "Silver, coated with gold, wire, glass, paste",
+ "Dimensions": "Overall 1 9/16 x 3/8 in. (4 x 1 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.192.54",
+ "What": [
+  "Metal",
+  "Costume",
+  "Glass",
+  "Metalwork",
+  "Silver",
+  "Gold",
+  "Faience",
+  "Jewelry",
+  "Pins",
+  "Brooches"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170005266,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-192-54s1.jpg",
+ "related-artworks": [
+  170004744,
+  170004755,
+  170005277,
+  170004722,
+  170004727
+ ],
+ "Provenance": [
+  "[ Stanislas Baron, Paris ]",
+  "J. Pierpont Morgan, London and New York (until 1913)",
+  "Estate of J. Pierpont Morgan(until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005266"
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "Artist": "Eugène-Pierre Gourdet (French, born Paris, 1820)",
+ "Date": "1880–86",
+ "Medium": "Watercolor and gilt",
+ "Dimensions": "9 7/16 x 18 7/8 in. (24 x 47.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Dodge Fund, 1967",
+ "Accession Number": "67.827.21",
+ "Who": [
+  "Jules-Edmond-Charles Lachaise",
+  "Eugène-Pierre Gourdet"
+ ],
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Gilt"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90017070,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811101.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP811101.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/67.827.21.jpg"
+ ],
+ "Provenance": [
+  "Vendor: Benjamin Weinreb (London)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90012726"
+   },
+   {
+    "href": "http://scrapi.org/object/90012717"
+   },
+   {
+    "href": "http://scrapi.org/object/90012815"
+   },
+   {
+    "href": "http://scrapi.org/object/90012825"
+   },
+   {
+    "href": "http://scrapi.org/object/90012930"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90017070"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90017070"
+  }
+ }
+}

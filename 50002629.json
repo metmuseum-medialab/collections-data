@@ -1,0 +1,46 @@
+{
+ "Date": "19th–20th century",
+ "Geography": "Mali",
+ "Culture": "Dogon peoples",
+ "Medium": "Wood, iron, copper, alloy",
+ "Dimensions": "H. 8 x W. 1 x D. 1 3/4 in. (20.3 x 2.5 x 4.5 cm)",
+ "Classification": "Metal-Implements",
+ "Credit Line": "Gift of Lester Wunderman, 1977",
+ "Accession Number": "1977.394.42",
+ "Who": "Dogon",
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Copper",
+  "Iron",
+  "Pipes"
+ ],
+ "Where": [
+  "Africa",
+  "Mali"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Western and Central Sudan, 1900 A.D.–present",
+  "Western and Central Sudan, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50002629,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1977_394_42.jpg",
+ "related-artworks": [
+  50002890,
+  50004990,
+  50006809,
+  50009321,
+  50002432
+ ],
+ "Provenance": [
+  "[Merton D. Simpson, New York, until 1971]",
+  "Lester Wunderman, New York, 1971–1977"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50002629"
+  }
+ }
+}

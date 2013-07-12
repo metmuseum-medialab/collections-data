@@ -1,0 +1,40 @@
+{
+ "Date": "n.d.",
+ "Medium": "Commercial lithography",
+ "Dimensions": "15-3/8 x 11-5/8 inches (39 x 29.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, The Lauder Foundation, Leonard and Evelyn Lauder Fund Gift, 1989",
+ "Accession Number": "1989.1088.8",
+ "Who": "Henry Sumner Watson",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90033305,
+ "related-artworks": [
+  90032946,
+  90032947,
+  90032997,
+  90033297,
+  90033301
+ ],
+ "Provenance": [
+  "Vendor: Roberta Friedman and Stuart Friedman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90033305"
+  }
+ }
+}

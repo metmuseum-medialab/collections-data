@@ -1,0 +1,31 @@
+{
+ "Date": "ca. 1900",
+ "Medium": "Photomechanical process",
+ "Dimensions": "7 11/16 x 5 1/2 in. (19.5 x 14 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.648.4b",
+ "Who": "Fred Macey Co.",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 90068500,
+ "related-artworks": [
+  90021281,
+  90000850,
+  90000868,
+  90000870
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90068500"
+  }
+ }
+}

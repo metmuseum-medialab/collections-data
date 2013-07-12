@@ -1,0 +1,46 @@
+{
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "a) Rock crystal; b) Bronze",
+ "Dimensions": "Diam. 4 1/8 in. (10.5 cm)",
+ "Classification": "Hardstone",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.816a, b",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Furniture",
+  "Stands",
+  "Crystal",
+  "Quartz crystal",
+  "Balls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "id": 60011654,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/17104.jpg",
+ "related-artworks": [
+  60011653,
+  60011655,
+  60011657,
+  60033306,
+  60033307
+ ],
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60011654"
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "Date": "unknown",
+ "Geography": "Saudi Arabia, Dhahran",
+ "Medium": "ceramic",
+ "Classification": "Ceramics",
+ "Accession Number": "60.23.79",
+ "What": [
+  "Ceramics",
+  "Fragments"
+ ],
+ "Where": [
+  "Asia",
+  "Saudi Arabia",
+  "Dhahran"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Islamic Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 140008893,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf60-23-79a.jpg",
+ "related-artworks": [
+  140008869,
+  140008894,
+  140008880,
+  140008870,
+  140008835
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008893"
+  }
+ }
+}

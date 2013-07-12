@@ -1,0 +1,38 @@
+{
+ "Period": "Han dynasty (206 B.C.–A.D. 220)",
+ "Culture": "China",
+ "Medium": "Jade",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Samuel T. Peters, 1913",
+ "Accession Number": "13.40.79",
+ "What": [
+  "Beads",
+  "Jade"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000 B.C.–1 A.D.",
+  "Central and North Asia, 1000 B.C.–1 A.D.",
+  "Central and North Asia, 1–500A.D.",
+  "China, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60010682,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/15311.jpg",
+ "related-artworks": [
+  60004579,
+  60010665,
+  60010667,
+  60010673,
+  60010675
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60010682"
+  }
+ }
+}

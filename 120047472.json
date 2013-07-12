@@ -1,0 +1,39 @@
+{
+ "Date": "1760s",
+ "Culture": "Spanish (?)",
+ "Medium": "Silk",
+ "Dimensions": [
+  "Greater L. 38 3/8 x W. 22 1/2 inches (loom width)",
+  "97.5 x 57.2 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1983",
+ "Accession Number": "1983.472.2",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120047472,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/AR1439.jpg",
+ "related-artworks": [
+  120029921,
+  120030769,
+  120030776,
+  120030777,
+  120030807
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120047472"
+  }
+ }
+}

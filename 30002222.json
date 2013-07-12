@@ -1,0 +1,69 @@
+{
+ "Period": "Middle Bronze Age–Old Assyrian Trading Colony",
+ "Date": "ca. 18th century B.C.",
+ "Geography": "Anatolia, probably from Acemhöyük",
+ "Culture": "Old Assyrian Trading Colony",
+ "Medium": "Ivory (hippopotamus)",
+ "Dimensions": "5.47 x 2.99 in. (13.89 x 7.59 cm)",
+ "Classification": "Ivory/Bone",
+ "Credit Line": "Gift of Mrs. George D. Pratt, in memory of George D. Pratt, 1936",
+ "Accession Number": "36.152.1",
+ "What": [
+  "Sculpture",
+  "Bone",
+  "Furniture",
+  "Ivory",
+  "Legs"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey",
+  "Anatolia"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Anatolia and the Caucasus, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30002222,
+ "gallery-id": 403,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/DP121649.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/30002180",
+  "http://scrapi.org/object/30002178",
+  "http://scrapi.org/object/30002247",
+  "http://scrapi.org/object/30001540",
+  "http://scrapi.org/object/30001541"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/an/original/DP121649.jpg",
+  "http://images.metmuseum.org/CRDImages/an/original/DP121646.jpg",
+  "http://images.metmuseum.org/CRDImages/an/original/DP121647.jpg",
+  "http://images.metmuseum.org/CRDImages/an/original/DP121650.jpg",
+  "http://images.metmuseum.org/CRDImages/an/original/DP110492.jpg"
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1936, gift of Mrs. George D. Pratt, in memory of George D. Pratt."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30002180"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30002178"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30002247"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30001540"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30001541"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/30002222"
+  }
+ }
+}

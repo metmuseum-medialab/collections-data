@@ -1,0 +1,49 @@
+{
+ "Date": "late 1440s",
+ "Medium": "Tempera on wood, gold ground",
+ "Dimensions": "8 7/8 x 8 in. (22.5 x 20.3 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Mary Stillman Harkness, 1950",
+ "Accession Number": "50.145.30",
+ "Who": "Pesellino (Francesco di Stefano)",
+ "What": [
+  "Metal",
+  "Paintings",
+  "Gold",
+  "Tempera"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Fra Angelico (1395/1400–1455)",
+ "MetPublications": "Search for related Met publications",
+ "id": 110001724,
+ "gallery-id": 603,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP247059.jpg",
+ "related-artworks": [
+  90007591,
+  110000002,
+  110000009,
+  110000007
+ ],
+ "Provenance": [
+  "Praston collection (possibly Praslin, Paris)",
+  "William Beckford, Lansdown Tower, Bath (?in 1839)",
+  "Robert Stayner Holford, Dorchester House, London (by 1865?–d. 1892)",
+  "Sir George Lindsay Holford, Dorchester House, London (1892–d. 1926",
+  "cat., 1927, vol. 1, no. 14",
+  "his estate sale, Christie's, London, July 15, 1927, no. 82, for £16,800 to Knoedler)",
+  "[Knoedler, New York, 1927",
+  "sold to Harkness]",
+  "Mr. and Mrs. Edward S. Harkness, New York (1927–his d. 1940)",
+  "Mrs. Edward S. (Mary Stillman) Harkness, New York (1940–d. 1950)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001724"
+  }
+ }
+}

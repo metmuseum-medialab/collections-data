@@ -1,0 +1,33 @@
+{
+ "Date": "1906",
+ "Dimensions": "8 1/4 x 5 3/4 in. (21 x 14.6 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1970",
+ "Accession Number": "1970.565.34",
+ "Who": "Chicago Millwork Supply Co.",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90014887,
+ "related-artworks": [
+  90000855,
+  90000864,
+  90000866,
+  90000872,
+  90000874
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90014887"
+  }
+ }
+}

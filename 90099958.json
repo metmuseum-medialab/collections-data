@@ -1,0 +1,34 @@
+{
+ "Date": "n.d.",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Plate 2 15/16 × 6 in. (7.5 × 15.2 cm)",
+  "Sheet 4 7/16 × 6 15/16 in. (11.2 × 17.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.100.461",
+ "Who": "Alick J. Horsnell",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90099958,
+ "related-artworks": [
+  90044490,
+  90099949,
+  90099951,
+  90099948,
+  90099952
+ ],
+ "Provenance": [
+  "William Gedney Beatty"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90099958"
+  }
+ }
+}

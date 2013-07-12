@@ -1,0 +1,22 @@
+{
+ "Date": "1928",
+ "Classification": "Books",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.189",
+ "Who": "Fyodor Dostoevsky",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190028658,
+ "related-artworks": [
+  190028735,
+  190028921,
+  190028949
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028658"
+  }
+ }
+}

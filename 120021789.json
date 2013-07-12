@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1765",
+ "Culture": "French (Paris)",
+ "Medium": "Tulipwood, kingwood, leather, brass",
+ "Dimensions": "27-1/4 x 19-3/8 x 13 in.  (69.2 x 49.2 x 33.0 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+ "Accession Number": "1974.356.206",
+ "Who": "Léonard Boudin",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Wood",
+  "Leather",
+  "Furniture",
+  "Brass",
+  "Woodwork",
+  "Tables",
+  "Tulipwood",
+  "Violet wood"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021789,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/204271.jpg",
+ "related-artworks": [
+  150007763,
+  150007880,
+  120020896
+ ],
+ "Provenance": [
+  "Lesley and Emma Sheafer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021789"
+  }
+ }
+}

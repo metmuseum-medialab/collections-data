@@ -1,0 +1,34 @@
+{
+ "Date": "19th century",
+ "Medium": "Lithograph",
+ "Dimensions": "sheet 9 3/8 x 12 5/8 in. (23.8 x 32 cm)",
+ "Classification": "Prints",
+ "Accession Number": "48.109.2",
+ "Who": "Johann Adam Klein",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90044157,
+ "related-artworks": [
+  90044081,
+  90044074,
+  90027957,
+  90044065,
+  90044067
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90044157"
+  }
+ }
+}

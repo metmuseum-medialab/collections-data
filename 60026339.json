@@ -1,0 +1,41 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "1894 (Meiji 27, 12th month)",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "7 x 9 1/8 in. (17.8 x 23.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Lincoln Kirstein, 1959",
+ "Accession Number": "JP3207",
+ "Who": "Mizuno Toshikata",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60026339,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP143063.jpg",
+ "related-artworks": [
+  60026424,
+  60026464,
+  60028290,
+  60027128,
+  60026337
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026339"
+  }
+ }
+}

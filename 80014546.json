@@ -1,0 +1,30 @@
+{
+ "Date": "early 20th century",
+ "Culture": "American",
+ "Medium": "deer skin",
+ "Dimensions": "Length at CB 27 in. (68.6 cm)",
+ "Credit Line": "Gift of Dr. and Mrs. Elan W. Thomas, 1950",
+ "Accession Number": "C.I.50.18.2",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80014546,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.50.18.2_F.jpg",
+ "related-artworks": [
+  80000027,
+  80000029,
+  80000030,
+  80000033,
+  80000031
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80014546"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "1987",
+ "Medium": "Watercolor and ink on paper",
+ "Dimensions": [
+  "H. 12-1/2, W. 9 inches",
+  "(31.8 x 22.9 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Mr. and Mrs. Michael G. Yamin, Marian François-Poncet, and Romie and Blanche Shapiro Philanthropic Fund Gifts, 1988",
+ "Accession Number": "1988.215.2",
+ "Who": "Max Miller",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Watercolors"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210005251,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1988.215.2.jpg",
+ "related-artworks": [
+  210005250,
+  210002440,
+  210002414,
+  210002558
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210005251"
+  }
+ }
+}

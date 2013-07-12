@@ -1,0 +1,39 @@
+{
+ "Period": "Middle Kingdom–Early New Kingdom",
+ "Dynasty": "Dynasty 11–18",
+ "Date": "ca. 2124–1504 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, Tomb MMA 800 group, MMA 1929–1930",
+ "Medium": "Carnelian, amethyst, faience",
+ "Credit Line": "Rogers Fund, 1931",
+ "Accession Number": "31.3.92a, e, f, h, i",
+ "What": [
+  "Faience",
+  "Chalcedony",
+  "Carnelian",
+  "Amethyst"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100014473,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs31.3.91e.jpg",
+ "related-artworks": [
+  100000357,
+  100014474,
+  100014475,
+  100050408,
+  100001946
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100014473"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Date": "1700–1750",
+ "Culture": "British",
+ "Medium": "silk",
+ "Dimensions": "Height 15 1/4 in. (38.7 cm)",
+ "Credit Line": "Purchase, Irene Lewisohn Bequest, 1974",
+ "Accession Number": "1974.101.1",
+ "What": [
+  "Silk",
+  "Pockets"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80055799,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1974.101.1.jpg",
+ "related-artworks": [
+  80056282,
+  80096268,
+  80106495,
+  80051755,
+  80000265
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80055799"
+  }
+ }
+}

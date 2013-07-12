@@ -1,0 +1,40 @@
+{
+ "Publisher": "Harper's Weekly (American, 1857–1916)",
+ "Date": "January 30, 1864",
+ "Medium": "Wood engraving",
+ "Dimensions": "Sheet 15 3/16 × 20 3/4 in. (38.6 × 52.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1929",
+ "Accession Number": "29.88.6",
+ "Who": [
+  "Harper's Weekly",
+  "Thomas Nast"
+ ],
+ "What": [
+  "Prints",
+  "Engraving",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90104810,
+ "related-artworks": [
+  90015174,
+  90015709,
+  90019113,
+  90022212,
+  90022215
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104810"
+  }
+ }
+}

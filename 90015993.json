@@ -1,0 +1,35 @@
+{
+ "Artist": "Raoul Dufy (French, Le Havre 1877–1953 Forcalquier)",
+ "Publisher": "Published by Draeger Frères",
+ "Date": "1935",
+ "Dimensions": "Overall 12 5/8 x 10 1/4 x 3/8 in. (32 x 26 x 1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1940",
+ "Accession Number": "40.1.2",
+ "Who": [
+  "Raoul Dufy",
+  "Draeger Frères",
+  "Gaston Derys"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90015993,
+ "related-artworks": [
+  90015992,
+  90013221,
+  90014581,
+  90040330
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90015993"
+  }
+ }
+}

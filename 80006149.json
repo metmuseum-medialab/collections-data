@@ -1,0 +1,44 @@
+{
+ "Date": "late 1930s",
+ "Culture": "French",
+ "Medium": "silk, ostrich feathers",
+ "Dimensions": "Total Length (front to back) 10 in. (25.4 cm)",
+ "Credit Line": "Purchase, Gifts from various donors, 1994.",
+ "Accession Number": "1994.139",
+ "Who": "Elsa Schiaparelli",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Feather"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Le Colis de Trianon–Versailles and Paris Openings",
+  "Dressing for the Cocktail Hour",
+  "Twentieth–Century Silhouette and Support",
+  "Elsa Schiaparelli (1890–1973)",
+  "Costume in The Metropolitan Museum of Art",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80006149,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1994.139.jpg",
+ "related-artworks": [
+  80094490,
+  80107304,
+  80093703,
+  80093781,
+  80094453
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80006149"
+  }
+ }
+}

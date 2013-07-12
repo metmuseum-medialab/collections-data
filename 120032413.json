@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Culture": "Greek (Athens)",
+ "Medium": "Needle lace",
+ "Dimensions": [
+  "L. 9 x W. 1 1/2 inches",
+  "22.9 x 3.8 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.396",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Athens"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120032413,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP3029.jpg",
+ "related-artworks": [
+  120032405,
+  120032414,
+  120032406,
+  120032407,
+  120032409
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032413"
+  }
+ }
+}

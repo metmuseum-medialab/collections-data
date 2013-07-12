@@ -1,0 +1,33 @@
+{
+ "Date": "1761",
+ "Medium": "Etching",
+ "Dimensions": "9 3/4 x 7 3/16 in.  (24.7 x 18.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1983",
+ "Accession Number": "1983.1030.1",
+ "Who": "Pietro Antonio Novelli",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002529,
+ "related-artworks": [
+  90002524,
+  90002504,
+  90015782,
+  150000707,
+  150000708
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002529"
+  }
+ }
+}

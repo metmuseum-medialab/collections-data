@@ -1,0 +1,37 @@
+{
+ "Date": "19th century",
+ "Culture": "French or British",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.2165",
+ "What": [
+  "Textiles",
+  "Trimming",
+  "Passementerie"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 120042932,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP7118.jpg",
+ "related-artworks": [
+  120031260,
+  120031264,
+  120031268,
+  120031501,
+  120031484
+ ],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120042932"
+  }
+ }
+}

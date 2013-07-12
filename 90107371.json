@@ -1,0 +1,61 @@
+{
+ "Publisher": "Jean I Leblond (French, died Paris, 1666 )",
+ "Date": "published ca. 1651",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Sheet 10 1/2 × 7 15/16 in. (26.6 × 20.2 cm)",
+  "Plate 7 5/8 × 5 7/16 in. (19.4 × 13.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.84(2.175)",
+ "Who": [
+  "Jean Le Pautre",
+  "Jean I Leblond"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "French Decorative Arts during the Reign of Louis XIV (1654–1715)",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90107371,
+ "Description": "This print is bound in Volume II of Oeuvres.  Jombert published his collection of Le Pautre in 1751. Volume II contains \"desseins... pour la décoration des Eglises et des Jardins;.\" This print is part of a series of twelve plates depicting mausoleums.  The series was published by Jean I Leblond around 1651 and by Jean II Leblond.",
+ "Provenance": [
+  "Vendor: James Rimell & Son"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90006707"
+   },
+   {
+    "href": "http://scrapi.org/object/90008866"
+   },
+   {
+    "href": "http://scrapi.org/object/90050943"
+   },
+   {
+    "href": "http://scrapi.org/object/90055313"
+   },
+   {
+    "href": "http://scrapi.org/object/90074105"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90107371"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90107371"
+  }
+ }
+}

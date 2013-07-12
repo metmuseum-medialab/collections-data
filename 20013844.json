@@ -1,0 +1,43 @@
+{
+ "Date": "1872–73",
+ "Medium": "Marble",
+ "Dimensions": "21 in., 63lb. (53.3 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Lent by Erving and Joyce Wolf, in memory of Diane R. Wolf, 1986",
+ "Accession Number": "L.1986.112.3",
+ "Who": "Augustus Saint-Gaudens",
+ "What": [
+  "Sculpture",
+  "Marble"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "American Bronze Casting",
+  "From Model to Monument American Public Sculpture, 1865–1915",
+  "American Relief Sculpture",
+  "The Chiton, Peplos, and Himation in Modern Dress",
+  "Americans in Paris, 1860–1900",
+  "Augustus Saint–Gaudens (1848–1907)",
+  "Industrialization and Conflict in America 1840–1875",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20013844,
+ "related-artworks": [
+  20013843,
+  20012359,
+  20012369,
+  20012374,
+  20012375
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20013844"
+  }
+ }
+}

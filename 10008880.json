@@ -1,0 +1,42 @@
+{
+ "Date": "1700–1750",
+ "Geography": "Delft, South Holland, Netherlands",
+ "Culture": "Dutch",
+ "Medium": "Earthenware",
+ "Dimensions": "6 x 6 in. (15.2 x 15.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Frederick Allien, in memory of her mother, Julia Taber Martin, 1924",
+ "Accession Number": "24.122cc",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Tile"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands",
+  "Delft"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 10008880,
+ "gallery-id": 714,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/166185.jpg",
+ "related-artworks": [
+  10008856,
+  10008881,
+  10008860,
+  10008885,
+  10008864
+ ],
+ "Provenance": [
+  "Mrs. Frederick Allien, New York, until 1924"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10008880"
+  }
+ }
+}

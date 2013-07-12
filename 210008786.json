@@ -1,0 +1,62 @@
+{
+ "Date": "early 20th Century",
+ "Medium": "Silk on silk",
+ "Dimensions": [
+  "L. 39, W. 16 inches",
+  "(99.1 x 40.6 cm.)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Hector Guimard, 1949",
+ "Accession Number": "49.85.8",
+ "Who": "Hector Guimard",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Panels"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1900–25",
+  "Art Nouveau",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210008786,
+ "related-artworks": [
+  "http://scrapi.org/object/210008775",
+  "http://scrapi.org/object/210008776",
+  "http://scrapi.org/object/210008777",
+  "http://scrapi.org/object/210008778",
+  "http://scrapi.org/object/210008783"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210008775"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210008776"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210008777"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210008778"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210008783"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210008786"
+  }
+ }
+}

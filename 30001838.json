@@ -1,0 +1,47 @@
+{
+ "Period": "Parthian",
+ "Date": "ca. A.D 1st–2nd century",
+ "Geography": "Mesopotamia or Iran",
+ "Culture": "Parthian",
+ "Medium": "Gold",
+ "Dimensions": "1.62 in. (4.11 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1935",
+ "Accession Number": "35.29.1",
+ "Who": "Parthian",
+ "What": [
+  "Metal",
+  "Costume",
+  "Metalwork",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30001838,
+ "gallery-id": 405,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/hb35_29_1_2.jpg",
+ "related-artworks": [
+  30001844,
+  30002386,
+  30002387,
+  30001839,
+  30005622
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1935, purchased from Elias S. David, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30001838"
+  }
+ }
+}

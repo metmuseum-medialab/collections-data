@@ -1,0 +1,59 @@
+{
+ "Date": "ca. 1660–85",
+ "Culture": "British",
+ "Medium": "Walnut",
+ "Dimensions": "Each 43-1/2 x 17-1/2 x 22 in.  (110.5 x 44.5 x 55.9 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Rogers Fund, 1932",
+ "Accession Number": "32.104.1,2",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Seating furniture",
+  "Chairs",
+  "Walnut"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120025604,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/92745.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/92745.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/90096.jpg"
+ ],
+ "Provenance": [
+  "The Rectory, Euston, Suffolk"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120019279"
+   },
+   {
+    "href": "http://scrapi.org/object/120049883"
+   },
+   {
+    "href": "http://scrapi.org/object/120005176"
+   },
+   {
+    "href": "http://scrapi.org/object/120006233"
+   },
+   {
+    "href": "http://scrapi.org/object/120006410"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120025604"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120025604"
+  }
+ }
+}

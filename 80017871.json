@@ -1,0 +1,37 @@
+{
+ "Date": "1875–1946",
+ "Culture": "British",
+ "Medium": "wool",
+ "Dimensions": [
+  "Length 130 in. (330.2 cm)",
+  "Waist 46 in. (116.8 cm)"
+ ],
+ "Credit Line": "Gift of Miss Irene Lewisohn and Mrs. Alice Lewisohn Crowley, 1946",
+ "Accession Number": "C.I.46.9.89",
+ "Who": "Liberty & Co.",
+ "What": "Wool",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1900 A.D.–present",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80017871,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI46.9.89_F.jpg",
+ "related-artworks": [
+  80095200,
+  80000984,
+  80001016,
+  80001316,
+  80002668
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80017871"
+  }
+ }
+}

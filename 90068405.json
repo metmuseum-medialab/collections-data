@@ -1,0 +1,59 @@
+{
+ "Date": "1649",
+ "Medium": "Engraving; first state of two",
+ "Dimensions": [
+  "sheet 19 3/16 x 14 3/16 in. (48.8 x 36 cm)",
+  "plate 17 3/16 x 12 1/2 in. (43.7 x 31.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Harris Brisbane Dick Fund, 1941",
+ "Accession Number": "41.57.5",
+ "Who": "Claude Mellan",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90068405,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP822668.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90000699",
+  "http://scrapi.org/object/90019002",
+  "http://scrapi.org/object/90027817",
+  "http://scrapi.org/object/90051724",
+  "http://scrapi.org/object/90051686"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Vendor: Knoedler and Co."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000699"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90019002"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90027817"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90051724"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90051686"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90068405"
+  }
+ }
+}

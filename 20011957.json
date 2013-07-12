@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1871",
+ "Medium": "Oil on canvas",
+ "Dimensions": "30 x 25 in. (76.2 x 63.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Emily Buch, 1963",
+ "Accession Number": "64.198.6",
+ "Who": "Edward Moran",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20011957,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap64.198.6.jpg",
+ "related-artworks": [
+  20005368,
+  20010361,
+  20010382,
+  20007768,
+  20010394
+ ],
+ "Provenance": [
+  "Emily Buch, New York and Ridgefield, Connecticut, until 1963"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20011957"
+  }
+ }
+}

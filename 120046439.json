@@ -1,0 +1,43 @@
+{
+ "Date": "1856",
+ "Culture": "French (Lyons)",
+ "Medium": "Silk",
+ "Dimensions": "H. 20 3/4 x W. 16 1/4 inches (52.7 x 41.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Elisa Parada de Migel, 1959",
+ "Accession Number": "59.25.2",
+ "Who": "Nicolas Romain",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Rhône",
+  "Lyon"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120046439,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/168670.jpg",
+ "related-artworks": [
+  120040791,
+  120044063,
+  120044202,
+  120044215,
+  120013646
+ ],
+ "Provenance": [
+  "Mrs. Elisa Parada de Migel (until 1959",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046439"
+  }
+ }
+}

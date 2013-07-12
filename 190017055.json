@@ -1,0 +1,51 @@
+{
+ "Date": "1920s–30s",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "25.2 x 20.3 cm (9 15/16 x 8 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Ford Motor Company Collection, Gift of Ford Motor Company and John C. Waddell, 1987",
+ "Accession Number": "1987.1100.225",
+ "Who": "Humphrey Spender",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190017055,
+ "Provenance": [
+  "Presented by Board of Directors of Arrow to Waddell, July 21, 1981",
+  "John C. Waddell"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190013959"
+   },
+   {
+    "href": "http://scrapi.org/object/190014803"
+   },
+   {
+    "href": "http://scrapi.org/object/190015301"
+   },
+   {
+    "href": "http://scrapi.org/object/190015300"
+   },
+   {
+    "href": "http://scrapi.org/object/190015309"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190017055"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190017055"
+  }
+ }
+}

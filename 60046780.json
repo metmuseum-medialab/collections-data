@@ -1,0 +1,38 @@
+{
+ "Date": "1976",
+ "Culture": "China",
+ "Medium": "Stone",
+ "Dimensions": "Overall (each) H. 2 1/16 in. (5.2 cm); W. 9/16 in. (1.4 cm); D. 9/16 in. (1.4 cm)",
+ "Classification": "Seals",
+ "Credit Line": "Gift of Sarah Shay, 2005",
+ "Accession Number": "2005.411.283a, b",
+ "Who": "Han Tianheng",
+ "What": [
+  "Stone",
+  "Seals"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1900 A.D.–present"
+ ],
+ "id": 60046780,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP224164.jpg",
+ "related-artworks": [
+  60046820,
+  60046776,
+  60046784,
+  60046778,
+  60046782
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60046780"
+  }
+ }
+}

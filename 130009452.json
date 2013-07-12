@@ -1,0 +1,34 @@
+{
+ "Culture": "Roman",
+ "Medium": "Glass; mold-blown",
+ "Dimensions": [
+  "H. 1 1/2 in. (3.8 cm)",
+  "Diam. 4 7/16 in. (11.3 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Bequest of Mary Anna Palmer Draper, 1914",
+ "Accession Number": "15.43.213",
+ "What": [
+  "Glass",
+  "Bowls"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009452,
+ "related-artworks": [
+  130006259,
+  130006256,
+  130009397,
+  130009454,
+  130009801
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009452"
+  }
+ }
+}

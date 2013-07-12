@@ -1,0 +1,47 @@
+{
+ "Date": "17th century",
+ "Culture": "British",
+ "Medium": "Silver",
+ "Dimensions": "Overall 13/16 x 2 15/16 in. (2.1 x 7.5 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.42.14",
+ "Who": "C S",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Dishes",
+  "Drinking vessels",
+  "Cups",
+  "Wine tasters"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120006767,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/15346.jpg",
+ "related-artworks": [
+  120020822,
+  120010039,
+  120018142,
+  120010537,
+  120021038
+ ],
+ "Provenance": [
+  "George S. Palmer (until 1913",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006767"
+  }
+ }
+}

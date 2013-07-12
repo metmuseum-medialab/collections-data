@@ -1,0 +1,43 @@
+{
+ "Designer": "Lydia Field Emmet (American, New Rochelle, New York 1866–1952)",
+ "Medium": "Silver",
+ "Dimensions": "Diam. 2 1/2 in. (6.4 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of the artist, 1898",
+ "Accession Number": "98.10.4",
+ "Who": [
+  "Victor David Brenner",
+  "Lydia Field Emmet"
+ ],
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Silver",
+  "Medals"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 20015128,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/96243.jpg",
+ "related-artworks": [
+  20015130,
+  20015124,
+  20015125,
+  20015127,
+  20015145
+ ],
+ "Provenance": [
+  "the artist (until 1898)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20015128"
+  }
+ }
+}

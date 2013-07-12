@@ -1,0 +1,35 @@
+{
+ "Date": "1900s",
+ "Medium": "Gelatin silver print",
+ "Dimensions": [
+  "Mount 36.5 x 44.5 cm (14 3/8 x 17 1/2 in.)",
+  "Image 26.5 x 34.4 cm (10 7/16 x 13 9/16 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Mr. and Mrs. Martin Liefer, 1976",
+ "Accession Number": "1976.641.3.8",
+ "Who": "Unknown, American",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190038510,
+ "related-artworks": [
+  190011635,
+  190012787,
+  190012790,
+  190012788,
+  190012791
+ ],
+ "Provenance": [
+  "Mr. and Mrs. Martin Leifer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190038510"
+  }
+ }
+}

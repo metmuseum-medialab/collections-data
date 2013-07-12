@@ -1,0 +1,42 @@
+{
+ "Date": "1929",
+ "Medium": "Watercolor, charcoal, and graphite on paper",
+ "Dimensions": "21 5/8 x 26 3/4 in. (54.9 x 67.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Alfred Stieglitz Collection, 1949",
+ "Accession Number": "49.70.143a, b",
+ "Rights and Reproduction": "© 2011 Artists Rights Society (ARS), New York",
+ "Who": "John Marin",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Graphite",
+  "Charcoal"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "Georgia O'Keeffe (1887–1986)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 210008592,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP242024.jpg",
+ "related-artworks": [
+  210008569,
+  210008595,
+  210008605,
+  210003604,
+  210005998
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210008592"
+  }
+ }
+}

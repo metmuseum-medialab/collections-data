@@ -1,0 +1,35 @@
+{
+ "Date": "1982",
+ "Medium": "Lithograph",
+ "Dimensions": "27 1/2 x 27 1/2 in. (69.9 x 69.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Tyler Graphics Ltd., in honor of William S. Lieberman, 2003",
+ "Accession Number": "2003.433.191",
+ "Who": "Jack Tworkov",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210015443,
+ "related-artworks": [
+  190034930,
+  190035759,
+  190036609,
+  190036611,
+  210006397
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210015443"
+  }
+ }
+}

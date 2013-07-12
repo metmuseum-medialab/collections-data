@@ -1,0 +1,37 @@
+{
+ "Period": "Late Geometric",
+ "Date": "7th century B.C.",
+ "Culture": "Etruscan or Italic",
+ "Medium": "Amber",
+ "Dimensions": "Diam. 2 1/2 in. (6.4 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Purchase, 1896",
+ "Accession Number": "96.9.481",
+ "What": [
+  "Resin",
+  "Amber",
+  "Whorls"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006948,
+ "gallery-id": 170,
+ "related-artworks": [
+  130006950,
+  130006951,
+  130006954,
+  130006801,
+  130006956
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006948"
+  }
+ }
+}

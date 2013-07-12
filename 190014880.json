@@ -1,0 +1,30 @@
+{
+ "Date": "1980s",
+ "Classification": "Portfolios",
+ "Credit Line": "Gift of Sid Singer Jr., 1981",
+ "Accession Number": "1981.1192",
+ "Who": "Leslie Schiff",
+ "What": "Portfolios",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190014880,
+ "related-artworks": [
+  190015742,
+  190015809,
+  190011619
+ ],
+ "Provenance": [
+  "Sid Singer, Jr."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190014880"
+  }
+ }
+}

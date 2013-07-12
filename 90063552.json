@@ -1,0 +1,48 @@
+{
+ "Artist": "After George Humphrey (British, 1760s–after 1831)",
+ "Publisher": "Hannah Humphrey (London)",
+ "Date": "June 6, 1814",
+ "Medium": "Etching and watercolor",
+ "Dimensions": [
+  "plate 8 3/8 x 10 13/16 in. (21.2 x 27.4 cm)",
+  "sheet 9 1/4 x 12 1/2 in. (23.5 x 31.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Georgiana W. Sargent, in memory of John Osborne Sargent, 1924",
+ "Accession Number": "24.63.270",
+ "Who": [
+  "Hannah Humphrey",
+  "George Cruikshank",
+  "George Humphrey"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Watercolors"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90063552,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818511.jpg",
+ "related-artworks": [
+  90015589,
+  90015585,
+  90015586,
+  90015587,
+  90021146
+ ],
+ "Provenance": [
+  "Donor: Georgiana W. Sargent"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90063552"
+  }
+ }
+}

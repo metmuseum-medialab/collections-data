@@ -1,0 +1,40 @@
+{
+ "Designer": "Design attributed to Matthäus Merian the Elder (Swiss, Basel 1593–1650 Schwalbach)",
+ "Date": "late 17th century",
+ "Culture": "Swiss, Zug",
+ "Medium": "Glass-stained",
+ "Dimensions": "7 3/4 x 10 in.  (19.7 x 25.4 cm)",
+ "Classification": "Glass",
+ "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+ "Accession Number": "32.100.344",
+ "Who": [
+  "Matthäus Merian the Elder",
+  "Muller"
+ ],
+ "What": [
+  "Glass",
+  "Panels"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland",
+  "Zug"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120012099,
+ "gallery-id": 505,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES7060.jpg",
+ "related-artworks": [
+  120012097,
+  120012098,
+  120012096
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120012099"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Publisher": "L'imprimerie du Cercle Social (Paris)",
+ "Date": "ca. 1792",
+ "Medium": "Hand-colored etching",
+ "Dimensions": "sheet 9 7/16 x 15 3/16 in. (23.9 x 38.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1962",
+ "Accession Number": "62.520.168",
+ "Who": [
+  "Anonymous, French, 18th century",
+  "L'imprimerie du Cercle Social"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90073556,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818677.jpg",
+ "related-artworks": [
+  90023970,
+  90067883,
+  90067892,
+  90089139,
+  90089140
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90073556"
+  }
+ }
+}

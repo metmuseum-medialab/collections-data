@@ -1,0 +1,33 @@
+{
+ "Medium": "Bronze",
+ "Dimensions": "H. 5.11 cm.",
+ "Classification": "Bronzes",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.21.132",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Furniture",
+  "Case furniture",
+  "Chests",
+  "Cista"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130017196,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP2081.jpg",
+ "related-artworks": [
+  130005970,
+  130007008,
+  130007014,
+  130007021,
+  130007547
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130017196"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Period": "Neo-Assyrian",
+ "Date": "ca. 8th–7th century B.C.",
+ "Geography": "Mesopotamia, Nimrud (ancient Kalhu)",
+ "Culture": "Assyrian",
+ "Medium": "Glass",
+ "Dimensions": "0.87 x 0.55 x 0.91 in. (2.21 x 1.4 x 2.31 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1962",
+ "Accession Number": "62.269.20a, b",
+ "Who": "Assyrian",
+ "What": "Glass",
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Nimrud"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30004243,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME62_269_20.jpg",
+ "related-artworks": [
+  30003046,
+  30003445,
+  30003446,
+  30003444,
+  30003447
+ ],
+ "Provenance": [
+  "1961, excavated by Max Mallowan, on behalf of the British School of Archaeology in Iraq",
+  "ceded in the division of finds to the British School of Archaeology in Iraq",
+  "acquired by the Museum in 1962, as a result of its financial contribution to the excavations."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30004243"
+  }
+ }
+}

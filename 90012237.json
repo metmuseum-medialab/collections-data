@@ -1,0 +1,28 @@
+{
+ "Date": "18th century",
+ "Dimensions": "Overall 3 7/8 x 2 3/8 x 1/2 in. (9.9 x 6.1 x 1.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Bequest of Mary Strong Shattuck, 1935",
+ "Accession Number": "35.64.39",
+ "Who": "La Porte",
+ "What": "Books",
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012237,
+ "related-artworks": [
+  90000025,
+  90000060,
+  90000061,
+  90000062,
+  90000111
+ ],
+ "Provenance": [
+  "Donor: Bequest of Mary Strong Shattuck"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90012237"
+  }
+ }
+}

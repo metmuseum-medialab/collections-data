@@ -1,0 +1,39 @@
+{
+ "Printer": "Printed by Jean Bridier",
+ "Date": "1561",
+ "Medium": "Woodcut",
+ "Dimensions": "Overall 9 15/16 x 7 5/16 x 3/4 in. (25.3 x 18.5 x 1.9 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1928",
+ "Accession Number": "28.46.2",
+ "Who": [
+  "Jean Bullant",
+  "Jean Bridier"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90014217,
+ "related-artworks": [
+  90014218,
+  90010900,
+  90011098,
+  90011896
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90014217"
+  }
+ }
+}

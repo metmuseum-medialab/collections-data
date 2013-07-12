@@ -1,0 +1,43 @@
+{
+ "Lithographer": "Knapp & Company (American, New York)",
+ "Date": "1890",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 1/2 × 4 3/16 in. (6.4 × 10.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 205, N102.14",
+ "Who": [
+  "W. Duke, Sons & Co.",
+  "Knapp & Company"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90103662,
+ "related-artworks": [
+  90096235,
+  90096238,
+  90096236,
+  90096249,
+  90096250
+ ],
+ "Description": "Trade cards from the \"Bridges\" series (N102), issued in a set of 25 cards in 1890 to promote Honest Long Cut Tobacco, manufactured by W. Duke Sons & Co.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90103662"
+  }
+ }
+}

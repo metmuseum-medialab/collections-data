@@ -1,0 +1,48 @@
+{
+ "Date": "20th century",
+ "Geography": "Cameroon, Northern region",
+ "Culture": "Kirdi, Fali group",
+ "Medium": "Glass beads, cotton yarn, cowrie shells, metal (?)",
+ "Dimensions": [
+  "The length does not include ties. The height includes shell fringe.",
+  "B. Length 22\"",
+  "Height 8 1/8\""
+ ],
+ "Classification": "Textiles-Beadwork",
+ "Credit Line": "Gift of Mark Rapoport, 2000",
+ "Accession Number": "2000.620.6",
+ "What": [
+  "Metal",
+  "Textiles",
+  "Glass",
+  "Cotton",
+  "Shell",
+  "Sea shell",
+  "Beadwork",
+  "Cowrie shell"
+ ],
+ "Where": [
+  "Africa",
+  "Cameroon"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central Africa, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50011617,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs2000.620.6.jpg",
+ "related-artworks": [
+  50011620,
+  50011624,
+  50011618,
+  50011619,
+  50011621
+ ],
+ "Provenance": [
+  "Mark Rapoport, New York, until 2000"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50011617"
+  }
+ }
+}

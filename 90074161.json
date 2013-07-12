@@ -1,0 +1,44 @@
+{
+ "Artist": "J. Bonnard (French, active 19th century)",
+ "Printer": "Imprimerie Leroy, Paris",
+ "Date": "1881",
+ "Medium": "Steel engraving with hand coloring",
+ "Dimensions": "Sheet 13 11/16 x 9 13/16 in. (34.8 x 25 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.531.32",
+ "Who": [
+  "Adèle-Anaïs Toudouze",
+  "J. Bonnard",
+  "Imprimerie Leroy, Paris"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90074161,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP819178.jpg",
+ "related-artworks": [
+  90060530,
+  90060503,
+  90074160,
+  90074163,
+  90010568
+ ],
+ "Provenance": [
+  "Vendor: Louis Meier, London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90074161"
+  }
+ }
+}

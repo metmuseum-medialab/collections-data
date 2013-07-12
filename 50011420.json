@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Geography": "Solomon Islands",
+ "Culture": "Solomon Islands",
+ "Medium": "Cane, fiber, wood",
+ "Dimensions": "H. 33 3/4 x W. 9 3/4 x D. 2 in. (85.7 x 24.8 x 5.1 cm)",
+ "Classification": "Basketry-Implements",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Gift of Mr. and Mrs. Raymond Wielgus, 1961",
+ "Accession Number": "1978.412.778",
+ "What": [
+  "Costume",
+  "Armor",
+  "Shields",
+  "Cane"
+ ],
+ "Where": [
+  "Oceania",
+  "Solomon Islands"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Melanesia, 1800–1900 A.D.",
+  "Melanesia, 1900 A.D.–present"
+ ],
+ "id": 50011420,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1978_412_778.jpg",
+ "related-artworks": [
+  50002652,
+  50003806,
+  50003807,
+  50003809,
+  50004231
+ ],
+ "Provenance": [
+  "Raymond and Laura Wielgus, Chicago, until 1961",
+  "The Museum of Primitive Art, New York, 1961–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50011420"
+  }
+ }
+}

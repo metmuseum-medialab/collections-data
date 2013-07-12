@@ -1,0 +1,50 @@
+{
+ "Date": "1789",
+ "Geography": "Île-de-France, Paris, France",
+ "Culture": "French",
+ "Medium": "Silver",
+ "Dimensions": [
+  "Overall 2 5/8 in. (6.7 cm); 2 oz. 7 dwt. (72.8 g)",
+  "Lip Diam. 2 7/8 in. (7.3 cm)",
+  "Base Diam. 2 in. (5.1 cm)"
+ ],
+ "Classification": "Silver",
+ "Credit Line": "Purchase, Mr. and Mrs. Marshall P. Blankarn Gift, 1967",
+ "Accession Number": "67.94",
+ "Who": "Denis Colombier",
+ "What": [
+  "Metal",
+  "Silver",
+  "Drinking vessels",
+  "Drinking glasses",
+  "Tumblers"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000397,
+ "gallery-id": 704,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP106882.jpg",
+ "related-artworks": [
+  10000440,
+  10000441,
+  10000442,
+  10000443,
+  10009347
+ ],
+ "Provenance": [
+  "Elias Hasket Derby, Salem, Massachusetts",
+  "Arpad Antiques, Washington, D. C., until 1967"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000397"
+  }
+ }
+}

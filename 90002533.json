@@ -1,0 +1,55 @@
+{
+ "Artist": "After Giovanni Battista Piazzetta (Italian, Venice 1682–1754 Venice)",
+ "Date": "1742",
+ "Medium": "Engraving",
+ "Dimensions": "17 11/16 x 13 7/8 in.  (44.9 x 35.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of John Goldsmith Phillips, 1947",
+ "Accession Number": "47.40",
+ "Who": [
+  "Giovanni Battista Piazzetta",
+  "Marco Alvise Pitteri"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002533,
+ "related-artworks": [
+  "http://scrapi.org/object/90002534",
+  "http://scrapi.org/object/90002535",
+  "http://scrapi.org/object/90002536",
+  "http://scrapi.org/object/90002541",
+  "http://scrapi.org/object/90002532"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002534"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002535"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002536"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002541"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002532"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90002533"
+  }
+ }
+}

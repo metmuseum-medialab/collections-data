@@ -1,0 +1,38 @@
+{
+ "Date": "16th century",
+ "Culture": "possibly Italian",
+ "Medium": "Metal thread on silk velvet",
+ "Dimensions": "L. 72 x W. 2 inches (182.9 x 5.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+ "Accession Number": "32.100.393b–d",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Borders"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "id": 120040254,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP16387.jpg",
+ "related-artworks": [
+  120017145,
+  120029938,
+  120029930,
+  120040232,
+  120016190
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120040254"
+  }
+ }
+}

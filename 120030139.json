@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1600",
+ "Culture": "Italian",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 9 x W. 2 3/4 inches (22.9 x 7.0 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Anonymous Gift, 1879",
+ "Accession Number": "79.1.302",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Florence and Central Italy, 1600–1800 A.D.",
+  "Florence and Central Italy, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120030139,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP16459.jpg",
+ "related-artworks": [
+  120030024,
+  120030083,
+  120030168,
+  120030171,
+  120030214
+ ],
+ "Provenance": [
+  "Andrew MacCallum"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120030139"
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "Artist": "After Paul Gavarni [Chevalier] (French, Paris 1804–1866 Paris)",
+ "Author": "Written by Marie-Joseph Süe (French, Paris 1804–1857 Annecy)",
+ "Publisher": "Published by Paulin, Librairie-Éditeur",
+ "Date": "1845",
+ "Medium": "Wood Engraving",
+ "Dimensions": "Overall 11 1/8 x 7 11/16 x 1 in. (28.2 x 19.5 x 2.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Mr. and Mrs. Edwin De T. Bechtel, 1961",
+ "Accession Number": "61.538.3.3",
+ "Who": [
+  "Paul Gavarni [Chevalier]",
+  "Paulin, Librairie-Éditeur",
+  "MM. Best, Leloir, Hotelin et Régnier",
+  "Marie-Joseph Süe"
+ ],
+ "What": [
+  "Prints",
+  "Engraving",
+  "Books",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90087333,
+ "related-artworks": [
+  "http://scrapi.org/object/90002035",
+  "http://scrapi.org/object/90025614",
+  "http://scrapi.org/object/90087332",
+  "http://scrapi.org/object/90087334",
+  "http://scrapi.org/object/90087330"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002035"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90025614"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90087332"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90087334"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90087330"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90087333"
+  }
+ }
+}

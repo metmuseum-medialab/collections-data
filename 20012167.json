@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1913",
+ "Medium": "Oil on canvas",
+ "Dimensions": "18 7/8 x 29 7/8 in. (47.9 x 75.9 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Miss Adelaide Milton de Groot (1876–1967), 1967",
+ "Accession Number": "67.187.135",
+ "Who": "Maurice Brazil Prendergast",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 20012167,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DP161229.jpg",
+ "related-artworks": [
+  20012168,
+  20012173,
+  20012177,
+  20012164,
+  20016414
+ ],
+ "Provenance": [
+  "with Carroll Galleries, New York, 1915",
+  "John Quinn, New York, 1915–1924",
+  "Estate of John Quinn, New York, 1924–1927",
+  "sale, American Art Association, New York, 9 Feb. 1927, no. 93",
+  "with Kraushaar Galleries, New York, 1927–1950",
+  "Adelaide Milton de Groot, New York, 1950–died 1967"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20012167"
+  }
+ }
+}

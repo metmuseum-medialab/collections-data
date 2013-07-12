@@ -1,0 +1,39 @@
+{
+ "Date": "10th–16th century",
+ "Culture": "Tibet  or Central Asia (?)",
+ "Medium": "Clay",
+ "Dimensions": "2 3/8 x 2 3/8 in. (6 x 6 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.32.79",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Plaques"
+ ],
+ "Where": [
+  "Asia",
+  "China",
+  "Tibet"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Himalayan Region, 1400–1600 A.D.",
+  "Himalayan Region, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60007135,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/30_32_79.JPG",
+ "related-artworks": [
+  60005830,
+  60005832,
+  60005812,
+  60005810,
+  60005814
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60007135"
+  }
+ }
+}

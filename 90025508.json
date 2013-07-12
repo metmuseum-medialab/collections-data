@@ -1,0 +1,48 @@
+{
+ "Date": "1892 or later",
+ "Medium": "Photomechanical process",
+ "Dimensions": "9 x 5 7/8 in. (22.8 x 15 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1963",
+ "Accession Number": "63.675.11",
+ "Who": "Stencil Company of New York",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90025508,
+ "related-artworks": [
+  "http://scrapi.org/object/90000852",
+  "http://scrapi.org/object/90000850",
+  "http://scrapi.org/object/90000855",
+  "http://scrapi.org/object/90000864",
+  "http://scrapi.org/object/90000866"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000852"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000850"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000855"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000864"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000866"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90025508"
+  }
+ }
+}

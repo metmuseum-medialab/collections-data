@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Painted enamel",
+ "Dimensions": "Sq. 4 1/8 in. (10.5 cm)",
+ "Classification": "Enamels",
+ "Credit Line": "Bequest of Mary Clark Thompson, 1923",
+ "Accession Number": "24.80.365",
+ "What": [
+  "Dishes",
+  "Painting",
+  "Enamels"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60008095,
+ "related-artworks": [
+  60008032,
+  60008030,
+  60008031,
+  60008033,
+  60008058
+ ],
+ "Provenance": [
+  "Mary Clark Thompson , New York (until d. 1923)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60008095"
+  }
+ }
+}

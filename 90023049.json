@@ -1,0 +1,32 @@
+{
+ "Date": "1876",
+ "Classification": "Books",
+ "Credit Line": "Gift of Kelement Simoncic, 1974",
+ "Accession Number": "1974.647.3",
+ "Who": "Penna Salt Manufacturing Company",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023049,
+ "related-artworks": [
+  90000882,
+  90003457,
+  90006966,
+  90006963,
+  90006988
+ ],
+ "Provenance": [
+  "Donor: Kelement Simoncic"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023049"
+  }
+ }
+}

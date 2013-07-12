@@ -1,0 +1,38 @@
+{
+ "Date": "1880–81",
+ "Culture": "European",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length at CF 43 x CB: 49 1/4 in. (109.2 x 125.1 cm)",
+  "Width at Bottom 91 in. (231.1 cm)"
+ ],
+ "Credit Line": "Gift of Lee Simonson, 1938",
+ "Accession Number": "C.I.38.23.258",
+ "What": [
+  "Costume",
+  "Silk",
+  "Outerwear",
+  "Mantles",
+  "Dolmans"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80035965,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.38.23.258_F.jpg",
+ "related-artworks": [
+  80034289,
+  80035761,
+  80116839,
+  80033854,
+  80035723
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80035965"
+  }
+ }
+}

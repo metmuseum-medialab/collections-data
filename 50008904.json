@@ -1,0 +1,46 @@
+{
+ "Date": "19th–20th century",
+ "Geography": "Republic of Benin",
+ "Culture": "Fon peoples",
+ "Medium": "Silver",
+ "Dimensions": "H. 5/8 x W. 2 x D. 2 3/8 in. (1.6 x 5.1 x 6.1 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Gift of Charles and Harriet Edwards, 1988",
+ "Accession Number": "1988.411.50",
+ "Who": "Fon",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Jewelry",
+  "Bracelets"
+ ],
+ "Where": [
+  "Africa",
+  "Benin"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Guinea Coast, 1800–1900 A.D.",
+  "Guinea Coast, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50008904,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1988_411_50.jpg",
+ "related-artworks": [
+  50008898,
+  50008890,
+  50008891,
+  50008892,
+  50008893
+ ],
+ "Provenance": [
+  "[Joseph and Margaret Knopfelmacher, New York]",
+  "Charles and Harriet Edwards, Cincinnati, OH, until 1988"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50008904"
+  }
+ }
+}

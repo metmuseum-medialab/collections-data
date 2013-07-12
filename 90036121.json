@@ -1,0 +1,39 @@
+{
+ "Publisher": "Published by Hans Lützelburger (German, active from ca. 1517-died before 1526 Basle)",
+ "Date": "ca. 1526, published 1538",
+ "Medium": "Woodcut",
+ "Dimensions": "sheet 2 9/16 x 1 7/8 in. (6.5 x 4.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.57.22",
+ "Who": [
+  "Hans Holbein the Younger",
+  "Hans Lützelburger"
+ ],
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90036121,
+ "related-artworks": [
+  90003303,
+  90003306,
+  90003307,
+  90003308,
+  90005838
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90036121"
+  }
+ }
+}

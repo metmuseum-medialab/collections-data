@@ -1,0 +1,52 @@
+{
+ "Date": "n.d.",
+ "Medium": "Woodcut",
+ "Dimensions": "sheet 5 1/8 x 38 3/16 in. (13 x 97 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The George Khuner Collection, Gift of Mrs. George Khuner, 1975",
+ "Accession Number": "1975.653.58",
+ "Who": "Albrecht Dürer",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Jan Gossart (ca. 1478–1532) and His Circle",
+  "Arms and Armor – Common Misconceptions and Frequently Asked Questions",
+  "The Reformation",
+  "Albrecht Dürer (1471–1528)",
+  "The Printed Image in the West History and Techniques",
+  "Portraiture in Renaissance and Baroque Europe",
+  "The Decoration of Arms and Armor",
+  "Anselm Kiefer (born 1945)",
+  "Europe and the Age of Exploration",
+  "The Rediscovery of Classical Antiquity",
+  "Rembrandt van Rijn (1606–1669) Prints",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90062446,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP816021.jpg",
+ "related-artworks": [
+  90003203,
+  90003204,
+  90003205,
+  90003579,
+  90003661
+ ],
+ "Provenance": [
+  "Donor: Marianne Khuner (Mrs. George Khuner)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90062446"
+  }
+ }
+}

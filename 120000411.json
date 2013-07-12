@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Culture": "Italian, Venice (Murano)",
+ "Medium": "Glass",
+ "Dimensions": "H. 9 in.  (22.9 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of James Jackson Jarves, 1881",
+ "Accession Number": "81.8.280",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Vases"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000411,
+ "gallery-id": 556,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/7297.jpg",
+ "related-artworks": [
+  120000226,
+  120000241,
+  120000238,
+  120000220,
+  120000243
+ ],
+ "Description": "The form is based on the common and very ancient Near Eastern carinated shape. However, this example has a higher, more constricted neck and a more rounded body, to which are applied lion masks and rings, symbols of Venice.",
+ "Provenance": [
+  "James Jackson Jarves (until 1881)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000411"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Period": "New Kingdom",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "said to be from Egypt, Southern Upper Egypt, Gebelein",
+ "Medium": "Ebony",
+ "Dimensions": "l. 33 cm (13 in)",
+ "Credit Line": "Rogers Fund, 1936",
+ "Accession Number": "36.2.3",
+ "What": [
+  "Arms",
+  "Wood",
+  "Ebony",
+  "Clubs",
+  "Maces"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100027171,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs36.2.2.jpg",
+ "related-artworks": [
+  100027170,
+  100002879,
+  100002907,
+  100013671,
+  100003485
+ ],
+ "Provenance": [
+  "Purchased in Cairo from Sayed Melettam, 1936"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100027171"
+  }
+ }
+}

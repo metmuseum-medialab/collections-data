@@ -1,0 +1,35 @@
+{
+ "Date": "1950s",
+ "Culture": "French (probably)",
+ "Medium": "metal, glass",
+ "Dimensions": "Height 2 1/8 in. (5.4 cm)",
+ "Credit Line": "Gift of Beatrice Glass, 1981",
+ "Accession Number": "1981.517.25",
+ "What": [
+  "Metal",
+  "Glass",
+  "Pins"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80059148,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1981.517.25.jpg",
+ "related-artworks": [
+  80017742,
+  80027421,
+  80028520,
+  80028521,
+  80028516
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80059148"
+  }
+ }
+}

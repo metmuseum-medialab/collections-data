@@ -1,0 +1,43 @@
+{
+ "Manufacturer": "Stehli Silks Corporation",
+ "Date": "1927",
+ "Medium": "Printed silk",
+ "Dimensions": [
+  "L. 36-1/2, W. 40-3/4 inches",
+  "(92.7 x 103.5 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Stehli Silks Corp., 1927",
+ "Accession Number": "27.149.3",
+ "Who": [
+  "Edward J. Steichen",
+  "Stehli Silks Corporation"
+ ],
+ "What": [
+  "Silk",
+  "Textiles",
+  "Printing"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210007733,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP32001.jpg",
+ "related-artworks": [
+  210007734,
+  210007727,
+  210007732,
+  210007796,
+  210007797
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210007733"
+  }
+ }
+}

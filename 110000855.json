@@ -1,0 +1,36 @@
+{
+ "Medium": "Oil on canvas, transferred from wood",
+ "Dimensions": "Each, including added strips, 22 7/8 x 11 in. (58.1 x 27.9 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "The Bequest of Michael Dreicer, 1921",
+ "Accession Number": "22.60.56–57",
+ "Who": "Northern French Painter, ca. 1480",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint",
+  "Altarpieces"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Paintings",
+ "MetPublications": "Search for related Met publications",
+ "id": 110000855,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/ep22.60.56.bw.R.jpg",
+ "related-artworks": [
+  110000854,
+  110000960,
+  110000712,
+  110000853
+ ],
+ "Provenance": [
+  "Abbey of Eaucourt, Arras, France",
+  "Adrien, Paris",
+  "[Wildenstein, New York]",
+  "Michael Dreicer, New York (until d. 1921)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110000855"
+  }
+ }
+}

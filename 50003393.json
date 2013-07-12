@@ -1,0 +1,45 @@
+{
+ "Date": "16th century",
+ "Geography": "Sierra Leone",
+ "Culture": "Sapi-Portuguese or Sapo (?)",
+ "Medium": "Steatite",
+ "Dimensions": "H. 10 3/16 x W. 8 1/2 x D.14 1/4 in. (26 x 21.6 x 36.2 cm)",
+ "Classification": "Stone-Sculpture",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Gift of Nelson A. Rockefeller, 1965",
+ "Accession Number": "1978.412.375",
+ "Who": "Portuguese",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Talc",
+  "Steatite"
+ ],
+ "Where": [
+  "Africa",
+  "Sierra Leone"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Guinea Coast, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50003393,
+ "gallery-id": 352,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DT9720.jpg",
+ "related-artworks": [
+  50004989,
+  50004772,
+  50004932,
+  50005045,
+  50003414
+ ],
+ "Description": "Little is known of the original use and significance of this tradition of steatite sculpture, created in southeastern Sierra Leone and western Guinea in the sixteenth century. The massive head, bulging eyes, broad nose with flaring nostrils, full lips, and jaw relate stylistically to works in carved ivory from the same period created by local artisans for European patrons. Attributes of this figure, such as the elaborate coiffure, scarifications, and filed teeth, suggest that it represents an individual of rank and distinction. Such works in durable materials are important documents that provide a glimpse into indigenous cultural practices of earlier periods. In the relatively recent past, these sculptures have been unearthed by local farmers of Kissi and Mende heritage who have assimilated them into new contexts as part of their own ritual life.",
+ "Provenance": [
+  "[René Rasmussen, Galerie AAA, Paris, 1934–1960]",
+  "Nelson A. Rockefeller, New York, on loan to The Museum of Primitive Art, New York, 1960–1965",
+  "The Museum of Primitive Art, New York, 1965–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50003393"
+  }
+ }
+}

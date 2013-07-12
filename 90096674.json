@@ -1,0 +1,33 @@
+{
+ "Date": "1914",
+ "Medium": "Commercial color lithography",
+ "Dimensions": "Overall 8 1/16 x 5 1/2 x 3 9/16 in. (20.5 x 14 x 9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Seth Fagen, 2012",
+ "Accession Number": "2012.510",
+ "Who": "Anonymous",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90096674,
+ "related-artworks": [
+  90054475,
+  90057562,
+  90109231,
+  90097944,
+  90012842
+ ],
+ "Provenance": [
+  "Donor: Seth Fagen"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90096674"
+  }
+ }
+}

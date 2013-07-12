@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911), Jiaqing period (1796–1820)",
+ "Culture": "China",
+ "Medium": "Silk",
+ "Dimensions": "55 x 45 1/2 in. (139.70 x 115.57 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Bequest of Gilbert H. Montague, in memory of Amy Angell Collier Montague, 1961",
+ "Accession Number": "61.93.1",
+ "What": [
+  "Costume",
+  "Silk",
+  "Needlework",
+  "Embroidery",
+  "Coats"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D.",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60044028,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/172652.jpg",
+ "related-artworks": [
+  60042572,
+  60043039,
+  60044536,
+  60009534,
+  60021224
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044028"
+  }
+ }
+}

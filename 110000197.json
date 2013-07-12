@@ -1,0 +1,49 @@
+{
+ "Medium": "Oil on wood",
+ "Dimensions": "15 5/8 x 12 1/8 in. (39.7 x 30.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1922",
+ "Accession Number": "22.96",
+ "Who": "Workshop  Circle of Hans Traut (German, ca. 1500)",
+ "What": [
+  "Paintings",
+  "Oil paint"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Paintings",
+ "MetPublications": "Search for related Met publications",
+ "id": 110000197,
+ "gallery-id": 641,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP164802.jpg",
+ "Provenance": [
+  "James Broughton, Hillary Place, Leeds (until d. about 1887)",
+  "Grosvenor Thomas, London (until 1922)",
+  "[Durlacher, New York, 1922",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/110000002"
+   },
+   {
+    "href": "http://scrapi.org/object/110000013"
+   },
+   {
+    "href": "http://scrapi.org/object/110000016"
+   },
+   {
+    "href": "http://scrapi.org/object/110000026"
+   },
+   {
+    "href": "http://scrapi.org/object/110000027"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/110000197"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/110000197"
+  }
+ }
+}

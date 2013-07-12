@@ -1,0 +1,39 @@
+{
+ "Date": "early 19th century",
+ "Culture": "Irish, probably Belfast",
+ "Medium": "Glass",
+ "Dimensions": "H. 11 7/8 in.  (30.2 cm); Diam. 3 1/2 in. (8.9 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Steuben Glass, 1951",
+ "Accession Number": "51.149.6 ab",
+ "What": [
+  "Glass",
+  "Decanters"
+ ],
+ "Where": [
+  "Europe",
+  "Republic of Ireland"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120016582,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/151190.jpg",
+ "related-artworks": [
+  120010375,
+  120010376,
+  120010377,
+  120009927,
+  120009926
+ ],
+ "Provenance": [
+  "Steuben Glass, Inc. (until 1951",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120016582"
+  }
+ }
+}

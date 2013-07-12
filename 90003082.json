@@ -1,0 +1,36 @@
+{
+ "Date": "before 1704",
+ "Medium": "Red chalk, pen and black ink, brush and grey wash, over black chalk.",
+ "Dimensions": "13 x 8 1/16 in.  (33.0 x 20.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Helen and Janos Scholz, 1958",
+ "Accession Number": "58.648.2",
+ "Who": "Jan Goeree",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90003082,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800343.jpg",
+ "related-artworks": [
+  90003061,
+  90003060,
+  90003066,
+  90003062,
+  90003081
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90003082"
+  }
+ }
+}

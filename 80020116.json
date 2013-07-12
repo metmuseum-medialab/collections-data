@@ -1,0 +1,44 @@
+{
+ "Date": "1970–75",
+ "Culture": "Italian",
+ "Medium": "cotton, leather, metal",
+ "Dimensions": [
+  "Height 12 1/2 in. (31.8 cm)",
+  "Width 14 in. (35.6 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. Walker O. Cain, 1979",
+ "Accession Number": "1979.359.7",
+ "Who": "Gucci",
+ "What": [
+  "Metal",
+  "Costume",
+  "Cotton",
+  "Leather",
+  "Bags"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Made in Italy Italian Fashion from 1950 to Now",
+  "Italian Peninsula, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80020116,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1979.359.7.jpg",
+ "related-artworks": [
+  80000296,
+  80000315,
+  80009841,
+  80015511,
+  80020110
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80020116"
+  }
+ }
+}

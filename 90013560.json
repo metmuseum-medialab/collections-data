@@ -1,0 +1,28 @@
+{
+ "Date": "ca. 1495",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1925",
+ "Accession Number": "25.30.42",
+ "Who": "Giovanni Boccaccio",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90013560,
+ "related-artworks": [
+  90005368,
+  90005370,
+  90013565,
+  90013566,
+  90013567
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90013560"
+  }
+ }
+}

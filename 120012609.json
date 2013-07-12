@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1762–70",
+ "Culture": "Belgian (Tournai)",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "Diam. 8-5/8 in. (21.9 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Mary Strong Shattuck, 1935",
+ "Accession Number": "35.80.79",
+ "Who": "Tournai",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "Belgium",
+  "Tournai"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120012609,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/100776.jpg",
+ "related-artworks": [
+  120002067,
+  120012607,
+  120016054,
+  120024588,
+  120003386
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120012609"
+  }
+ }
+}

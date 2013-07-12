@@ -1,0 +1,38 @@
+{
+ "Date": "1940-1951",
+ "Medium": "Watercolor on board",
+ "Dimensions": "21 7/16 x 19 1/2 in. (54.5 x 49.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mr. Wesley Simpson, 1957",
+ "Accession Number": "57.657.10",
+ "Who": "Marcel Vertès",
+ "What": [
+  "Drawings",
+  "Watercolors"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90032583,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP230609.jpg",
+ "related-artworks": [
+  90017468,
+  90017472,
+  90017474,
+  90017463,
+  90017475
+ ],
+ "Provenance": [
+  "Donor: Wesley Simpson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90032583"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Period": "Late Period–Ptolemaic Period",
+ "Date": "664–30 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "copper alloy",
+ "Credit Line": "Gift of Darius Ogden Mills, 1904",
+ "Accession Number": "04.2.473",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Copper",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100029351,
+ "gallery-id": 134,
+ "related-artworks": [
+  100002324,
+  100002518,
+  100002767,
+  100002785,
+  100002788
+ ],
+ "Provenance": [
+  "Collection of Judge Elbert E. Farman, formed when he was U.S. consul general in Egypt 1876–84. Donated to the museum by Darius Ogden Mills, New York, in 1904."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100029351"
+  }
+ }
+}

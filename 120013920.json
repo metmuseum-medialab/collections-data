@@ -1,0 +1,36 @@
+{
+ "Date": "17th century",
+ "Culture": "German",
+ "Medium": "Glass-stained",
+ "Dimensions": "10-x 10-3/4 in. (25.4 x 27.3 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Bequest of George D. Pratt, 1935",
+ "Accession Number": "41.170.44",
+ "What": [
+  "Glass",
+  "Panels",
+  "Armorials"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013920,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/126386.jpg",
+ "related-artworks": [
+  120013916,
+  120026221,
+  120026226,
+  120013911,
+  120013914
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013920"
+  }
+ }
+}

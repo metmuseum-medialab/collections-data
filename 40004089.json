@@ -1,0 +1,35 @@
+{
+ "Date": "6th century",
+ "Culture": "Japanese",
+ "Classification": "Armor for Man",
+ "Credit Line": "Gift of Bashford Dean, 1904",
+ "Accession Number": "04.5.1a-r",
+ "What": [
+  "Costume",
+  "Armor",
+  "Armors",
+  "Half armors",
+  "Corslets"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40004089,
+ "related-artworks": [
+  40000788,
+  40002426,
+  40010393,
+  40000447,
+  40000450
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40004089"
+  }
+ }
+}

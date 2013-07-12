@@ -1,0 +1,41 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Paste-resist and brush dyeing (yuzen) on a background of stencil-resist-dyed plain-weave silk",
+ "Dimensions": "Overall 66 1/4 x 50in. (168.3 x 127cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Seymour Fund, 1966",
+ "Accession Number": "66.69",
+ "What": [
+  "Costume",
+  "Silk",
+  "Faience",
+  "Stencils",
+  "Dyeing",
+  "Brushes",
+  "Kimonos"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60030064,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/184623.jpg",
+ "related-artworks": [
+  60013185,
+  60047046,
+  60020477,
+  60021603,
+  60047045
+ ],
+ "Description": "Paste-resist and brush dyeing (yūzen) on a background of stencil-resist-dyed plain-weave silk Colorful miniature renditions of items associated with the tea ceremony-including tea bowls, caddies, and whisks, water jars, charcoal, and even a hanging scroll-cluster at the hem of this kosode. The dark background features a very small design (komon) of an array of auspicious objects (takarazukushi). The combination of the colorful yūzen dyeing technique and the background of stencil-dyed komon often appears in robes of the early Meiji period.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030064"
+  }
+ }
+}

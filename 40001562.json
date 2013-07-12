@@ -1,0 +1,56 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "European",
+ "Medium": "Leather, string laces",
+ "Dimensions": "Length, 35 in. (88.9 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Bashford Dean Memorial Collection, Funds from various donors, 1929",
+ "Accession Number": "29.158.885",
+ "What": [
+  "Costume",
+  "Leather",
+  "Armor",
+  "Coats",
+  "Body armor",
+  "Buffs",
+  "Buff coats"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Arms and Armor",
+ "id": 40001562,
+ "gallery-id": 371,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/sfeah29-158-885s2.JPG",
+ "related-artworks": [
+  "http://scrapi.org/object/40000949",
+  "http://scrapi.org/object/40006188",
+  "http://scrapi.org/object/40011271",
+  "http://scrapi.org/object/40011736",
+  "http://scrapi.org/object/40004807"
+ ],
+ "related-images": [],
+ "Description": "This sturdy leather defense called a buff coat, which provided effective protection against sword cuts, was worn throughout the seventeenth century, first in conjunction with armor and later alone. It is shown with an associated armor (acc. no. 15.113.1–.5) identified by its decoration as having belonged to Pedro II (reigned 1683–1706). The decoration includes the crowned monogram PR for Pedro Rex (Pedro the King) and the cross of the commander of the Order of Christ, a hereditary office held by the kings of Portugal.Harquebusiers were armored cavalrymen generally equipped with a carbine (known as a harquebus) carried at the right side on a shoulder belt, a pair of pistols holstered at the front of the saddle, and a sword. This form of armor, consisting of a triple-barred helmet, a cuirass with a bulletproof reinforcing breastplate, and an elbow gaunlet, was commonplace in England up to about 1645. The armor of King Pedro is significant not only as a very late example of this type but also as the probable work of the London armorer Richard Holden. A very similar armor made by Holden in 1686 for James II of England (reigned 1685–88) is in the Royal Armouries in the Tower of London.",
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000949"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40006188"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40011271"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40011736"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40004807"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40001562"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "8th–9th century",
+ "Geography": "Iraq, Ctesiphon",
+ "Medium": "Earthenware; incised and glazed",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1932",
+ "Accession Number": "32.150.326",
+ "What": [
+  "Ceramics",
+  "Fragments",
+  "Pottery",
+  "Earthenware",
+  "Glazing"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Ctesiphon"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iraq (Mesopotamia) 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140010844,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf32-150-326a.jpg",
+ "related-artworks": [
+  140006026,
+  140006094,
+  140006168,
+  140006021,
+  140006027
+ ],
+ "Provenance": [
+  "Excavated at Selman Pak I in Ctesiphon, Iraq, by the Joint Expedition of the Staatlichen Museen of Berlin and the Metropolitan Museum of Art, 1931–32.  Acquired by the Museum in the division of finds and accessioned, 1932"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010844"
+  }
+ }
+}

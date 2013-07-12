@@ -1,0 +1,55 @@
+{
+ "Date": "ca. 1750",
+ "Culture": "German (Meissen)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 4 1/2 in. (11.4 cm.); Diam. 4 1/2 in. (11.4 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "The George B. McClellan Collection, Gift of Mrs. George B. McClellan, 1941",
+ "Accession Number": "42.205.175 ab",
+ "Who": "Meissen Manufactory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Bowls",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Saxony",
+  "Meissen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120014291,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/133680.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120003038"
+   },
+   {
+    "href": "http://scrapi.org/object/120014239"
+   },
+   {
+    "href": "http://scrapi.org/object/120001954"
+   },
+   {
+    "href": "http://scrapi.org/object/120014237"
+   },
+   {
+    "href": "http://scrapi.org/object/120014240"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120014291"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120014291"
+  }
+ }
+}

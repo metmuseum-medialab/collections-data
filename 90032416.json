@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1527",
+ "Medium": "Engraving",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.97.249",
+ "Who": "Giovanni Jacopo Caraglio",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90032416,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/271152.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90025189"
+   },
+   {
+    "href": "http://scrapi.org/object/90027943"
+   },
+   {
+    "href": "http://scrapi.org/object/90028082"
+   },
+   {
+    "href": "http://scrapi.org/object/90032373"
+   },
+   {
+    "href": "http://scrapi.org/object/90032426"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90032416"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90032416"
+  }
+ }
+}

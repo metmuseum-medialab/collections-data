@@ -1,0 +1,53 @@
+{
+ "Date": "1860",
+ "Medium": "Etching on wove paper",
+ "Dimensions": "plate 2 3/4 x 2 1/4 in. (7 x 5.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1917",
+ "Accession Number": "17.78.32",
+ "Who": "Charles Meryon",
+ "What": [
+  "Prints",
+  "Etching",
+  "Paper",
+  "Wove paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90051531,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP813216.jpg",
+ "Provenance": [
+  "Bernard Buchanan MacGeorge (British, died Glasgow, Scotland 1924)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90044523"
+   },
+   {
+    "href": "http://scrapi.org/object/90051533"
+   },
+   {
+    "href": "http://scrapi.org/object/90041456"
+   },
+   {
+    "href": "http://scrapi.org/object/90044432"
+   },
+   {
+    "href": "http://scrapi.org/object/90044444"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90051531"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90051531"
+  }
+ }
+}

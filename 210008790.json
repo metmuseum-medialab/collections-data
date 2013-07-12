@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1928",
+ "Medium": "Pastel on plywood",
+ "Dimensions": "30 x 26 1/8 in. (76.2 x 66.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Alfred Stieglitz Collection, 1949",
+ "Accession Number": "49.92.3",
+ "Who": "Arthur Dove",
+ "What": [
+  "Drawings",
+  "Pastels",
+  "Plywood"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Georgia O'Keeffe (1887–1986)",
+  "Arthur Dove (1880–1946)",
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210008790,
+ "related-artworks": [
+  210008750,
+  210008744,
+  210008746,
+  210008749,
+  210003809
+ ],
+ "Description": "This landscape, lacking perspective and a horizon line, is so tightly cropped and simplified that it is nearly unrecognizable.  Working on wood rather than paper or canvas, Dove rubbed his pastels deeply into the surface.  The natural grain of the panel is thus still apparent and provides the outlines of the abstracted tree trunk and ripples of water—a serendipitous congruence of medium and subject.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210008790"
+  }
+ }
+}

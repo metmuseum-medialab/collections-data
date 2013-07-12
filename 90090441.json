@@ -1,0 +1,47 @@
+{
+ "Publisher": "Henry Overton and J. Hoole (London)",
+ "Date": "1725–30 (?)",
+ "Medium": "Etching and engraving",
+ "Dimensions": [
+  "Plate 7 11/16 x 9 7/16 in. (19.5 x 23.9 cm)",
+  "Sheet 8 1/8 x 10 15/16 in. (20.7 x 27.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1966",
+ "Accession Number": "66.540.50",
+ "Who": [
+  "William Hogarth",
+  "Henry Overton  J. Hoole"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Kilt",
+  "Portrait Painting in England, 1600–1800",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90090441,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP825441.jpg",
+ "related-artworks": [
+  90036163,
+  90037738,
+  90049368,
+  90049369,
+  90059680
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90090441"
+  }
+ }
+}

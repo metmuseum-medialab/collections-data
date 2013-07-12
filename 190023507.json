@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1875",
+ "Medium": "Albumen silver print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.678.3",
+ "Who": "Elliott  Fry",
+ "What": [
+  "Photographs",
+  "Furniture",
+  "Albumen silver prints",
+  "Case furniture",
+  "Cabinets"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190023507,
+ "related-artworks": [
+  190023505,
+  190023506,
+  190016097,
+  190041865,
+  190040277
+ ],
+ "Provenance": [
+  "Unknown"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190023507"
+  }
+ }
+}

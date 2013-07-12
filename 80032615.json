@@ -1,0 +1,38 @@
+{
+ "Date": "1890s–1900s",
+ "Culture": "French",
+ "Medium": "metal, glass",
+ "Dimensions": "Length 13 x 3 x 3 in. (33 x 7.6 x 7.6 cm)",
+ "Credit Line": "Gift of Orme Wilson and R. Thornton Wilson, in memory of their mother, Mrs. Caroline Schermerhorn Astor Wilson, 1949",
+ "Accession Number": "49.3.2",
+ "What": [
+  "Metal",
+  "Costume",
+  "Glass",
+  "Caps"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1900 A.D.–present",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80032615,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/49.3.2_S.jpg",
+ "related-artworks": [
+  80011791,
+  80011792,
+  80037823,
+  80094149,
+  80011793
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80032615"
+  }
+ }
+}

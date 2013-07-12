@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1625",
+ "Culture": "French",
+ "Medium": "Steel",
+ "Classification": "Armor Parts",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.817",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Armor",
+  "Body armor",
+  "Breastplates"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40000497,
+ "related-artworks": [
+  40000489,
+  40000495,
+  40000520,
+  40001050,
+  40001455
+ ],
+ "Provenance": [
+  "Ex coll.:  Louuis XIII",
+  "Baron Davillier, Paris"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000497"
+  }
+ }
+}

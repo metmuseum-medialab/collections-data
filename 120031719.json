@@ -1,0 +1,45 @@
+{
+ "Date": "18th century",
+ "Culture": "French or Italian",
+ "Medium": "Metal thread",
+ "Dimensions": [
+  "12 1/2 x 1 1/2 inches",
+  "31.8 x 3.8 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.103.558",
+ "What": [
+  "Metal",
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Galloon"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120031719,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP5862.jpg",
+ "related-artworks": [
+  120031570,
+  120031581,
+  120031713,
+  120031744,
+  120031761
+ ],
+ "Provenance": [
+  "Samuel B. Dean (until 1908",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120031719"
+  }
+ }
+}

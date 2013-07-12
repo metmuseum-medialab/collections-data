@@ -1,0 +1,38 @@
+{
+ "Period": "Late Republican",
+ "Date": "54 B.C.",
+ "Culture": "Roman",
+ "Medium": "Silver",
+ "Classification": "Coins",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.170.81",
+ "What": [
+  "Metal",
+  "Silver",
+  "Money",
+  "Coins",
+  "Denarii"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130008508,
+ "gallery-id": 169,
+ "related-artworks": [
+  130008507,
+  130008509,
+  130008510,
+  130008511,
+  130008525
+ ],
+ "Description": "LIBERTAS, head of Liberty/BRVTVS, Iunius Brutus (Consul in 509 B.C.) accompanied by lictorsRome",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130008508"
+  }
+ }
+}

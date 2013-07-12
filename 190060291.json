@@ -1,0 +1,39 @@
+{
+ "Date": "1903",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "Image 8.1 × 10.9 cm (3 3/16 × 4 5/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Twentieth-Century Photography Fund, 2013",
+ "Accession Number": "2013.40",
+ "Who": "Henri Becquerel",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190060291,
+ "related-artworks": [
+  190011481,
+  190011752,
+  190012429,
+  190012432,
+  190012437
+ ],
+ "Provenance": [
+  "[...]",
+  "[Marc Pagneux]",
+  "[Robert Hershkowitz, UK]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190060291"
+  }
+ }
+}

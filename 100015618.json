@@ -1,0 +1,46 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1352 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes",
+ "Medium": "Tempera on paper",
+ "Dimensions": [
+  "Facsimile H. 43 cm (16 15/16 in); w. 48.5 cm (19 1/8 in)",
+  "scale 11",
+  "Framed H. 46.4 cm (18 1/4 in); w. 53 cm (20 7/8 in)"
+ ],
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.4.23",
+ "Who": "Hugh R. Hopgood",
+ "What": [
+  "Paper",
+  "Tempera",
+  "Facsimiles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100015618,
+ "gallery-id": 135,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/chr30.4.23.jpg",
+ "related-artworks": [
+  100000899,
+  100000897,
+  100015492,
+  100015553,
+  100015562
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100015618"
+  }
+ }
+}

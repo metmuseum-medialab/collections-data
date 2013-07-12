@@ -1,0 +1,55 @@
+{
+ "Date": "early 20th century",
+ "Culture": "Japan",
+ "Medium": "Silk kasuri / Damask",
+ "Dimensions": "Overall 41 1/2 x 51 1/8 in. (105.4 x 129.9 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Purchase, The Howard Mansfield Collection Fund, by Exchange, 1985",
+ "Accession Number": "1985.17.1",
+ "What": [
+  "Costume",
+  "Silk",
+  "Damask",
+  "Kimonos"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 60044532,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/245445.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/60020480",
+  "http://scrapi.org/object/60020481",
+  "http://scrapi.org/object/60020477",
+  "http://scrapi.org/object/60020491",
+  "http://scrapi.org/object/60020493"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60020480"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60020481"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60020477"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60020491"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60020493"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60044532"
+  }
+ }
+}

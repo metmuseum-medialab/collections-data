@@ -1,0 +1,38 @@
+{
+ "Date": "mid-19th century",
+ "Culture": "British",
+ "Medium": "silk, metallic thread, cotton",
+ "Dimensions": "Length 9 1/2 in. (24.1 cm)",
+ "Credit Line": "Dotti Kemp Memorial Shoe Fund, 1981",
+ "Accession Number": "1981.49.2a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Footwear",
+  "Shoes",
+  "Slippers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80005974,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1981.49.2ab_F.jpg",
+ "related-artworks": [
+  80094039,
+  80106548,
+  80107136,
+  80005093,
+  80093986
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80005974"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "1940s",
+ "Culture": "American",
+ "Medium": "nylon",
+ "Dimensions": "Length 16 in. (40.6 cm)",
+ "Credit Line": "Gift of Marvin B. Patterson (Mrs. Jefferson Patterson), 1978",
+ "Accession Number": "1978.582.182a, b",
+ "What": [
+  "Costume",
+  "Plastic",
+  "Hosiery",
+  "Stockings",
+  "Nylon"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80057532,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.582.182ab.jpg",
+ "related-artworks": [
+  80054623,
+  80054619,
+  80054715,
+  80054717,
+  80054729
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80057532"
+  }
+ }
+}

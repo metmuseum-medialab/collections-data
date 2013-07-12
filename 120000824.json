@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "British (after a Russian original)",
+ "Medium": "Silver on base metal",
+ "Dimensions": "Diam. 3 1/8 in. (7.9 cm.); H. 1 in. (2.5 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Henry G. Marquand, 1883",
+ "Accession Number": "83.18.208",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Drinking vessels",
+  "Cups",
+  "Printing plates",
+  "Electrotype"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000824,
+ "related-artworks": [
+  120000746,
+  120000009,
+  120000011,
+  120000014,
+  120000046
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000824"
+  }
+ }
+}

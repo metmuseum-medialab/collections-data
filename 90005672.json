@@ -1,0 +1,38 @@
+{
+ "Date": "1646–1712",
+ "Medium": "Pen and brown ink, over black chalk",
+ "Dimensions": "9-3/4 x 15-7/16 in.  (24.8 x 39.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of the Estate of James Hazen Hyde, 1959",
+ "Accession Number": "59.208.93",
+ "Who": "Pietro Dandini",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90005672,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/59.208.93.jpg",
+ "related-artworks": [
+  90002949,
+  90005074,
+  90005075,
+  90005079,
+  90005073
+ ],
+ "Provenance": [
+  "James Hazen Hyde (American, New York 1876–1959)- a smaller version of Lugt 1320 -black on verso"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005672"
+  }
+ }
+}

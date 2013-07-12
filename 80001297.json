@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1942",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": [
+  "Length at CB (a) 58 in. (147.3 cm)",
+  "Length at CB (b) 57 in. (144.8 cm)"
+ ],
+ "Credit Line": "Gift of Estate of Lillian Gish, 1995",
+ "Accession Number": "1995.28.16a, b",
+ "Who": "Valentina",
+ "What": [
+  "Costume",
+  "Wool",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80001297,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1995.28.16ab_F.jpg",
+ "related-artworks": [
+  80114961,
+  80115061,
+  80000236,
+  80001291,
+  80001294
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001297"
+  }
+ }
+}

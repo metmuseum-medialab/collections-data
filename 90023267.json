@@ -1,0 +1,50 @@
+{
+ "Publisher": "Published by Mariette (Paris)",
+ "Date": "18th century",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 16 3/4 x 11 1/4 x 3/16 in. (42.5 x 28.5 x 0.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.703.3(1-6)",
+ "Who": [
+  "Dominique Pineau fils",
+  "Mariette"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023267,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90023264"
+   },
+   {
+    "href": "http://scrapi.org/object/90023265"
+   },
+   {
+    "href": "http://scrapi.org/object/90100888"
+   },
+   {
+    "href": "http://scrapi.org/object/90023264"
+   },
+   {
+    "href": "http://scrapi.org/object/90023265"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90023267"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90023267"
+  }
+ }
+}

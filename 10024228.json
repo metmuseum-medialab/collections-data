@@ -1,0 +1,40 @@
+{
+ "Date": "1885",
+ "Geography": "Baltimore, Maryland, United States",
+ "Culture": "American",
+ "Medium": "Parian porcelain",
+ "Dimensions": "9 x 6 in. (22.9 x 15.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Emma and Jay Lewis, 2011",
+ "Accession Number": "2011.321.13",
+ "Who": "James Priestman",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Plaques",
+  "Parian"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Maryland",
+  "Baltimore"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10024228,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP268028.jpg",
+ "related-artworks": [
+  10024249,
+  10024222,
+  10015098
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10024228"
+  }
+ }
+}

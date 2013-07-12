@@ -1,0 +1,59 @@
+{
+ "Object Name": "Fragment",
+ "Date": "14th–15th century",
+ "Geography": "Egypt",
+ "Medium": "Earthenware; incised decoration through white slip and coloring under transparent glaze",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.256.150",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Fragments",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Slip"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1400–1600 A.D.",
+  "Egypt, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140002633,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf08-256-150a.jpg",
+ "Provenance": [
+  "[ Michael Casira, Cairo, until 1908",
+  "sold to A.M. Lythgoe for MMA]"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/140002325"
+   },
+   {
+    "href": "http://scrapi.org/object/140002336"
+   },
+   {
+    "href": "http://scrapi.org/object/140002342"
+   },
+   {
+    "href": "http://scrapi.org/object/140002349"
+   },
+   {
+    "href": "http://scrapi.org/object/140002374"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140002633"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/140002633"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print (surimono); ink and color on paper",
+ "Dimensions": "5 7/16 x 7 3/8 in. (13.8 x 18.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "JP2119",
+ "Who": "Ryūryūkyo Shinsai",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Surimono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60026116,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP138309.jpg",
+ "related-artworks": [
+  60025119,
+  60025120,
+  60025150,
+  60025129,
+  60025159
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026116"
+  }
+ }
+}

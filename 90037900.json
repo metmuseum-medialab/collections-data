@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1750",
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1937",
+ "Accession Number": "37.45.3",
+ "Who": "Giovanni Battista Piranesi",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Venice in the Eighteenth Century",
+  "The Printed Image in the West History and Techniques",
+  "Giovanni Battista Piranesi (1720–1778)",
+  "The French Academy in Rome",
+  "The Rediscovery of Classical Antiquity",
+  "Joseph Mallord William Turner (1775–1851)",
+  "Neoclassicism",
+  "The Grand Tour"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90037900,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP827983.jpg",
+ "related-artworks": [
+  90004085,
+  90004773,
+  90016288,
+  90025589,
+  90027820
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90037900"
+  }
+ }
+}

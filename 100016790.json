@@ -1,0 +1,44 @@
+{
+ "Period": "Middle Kingdom–Early New Kingdom",
+ "Date": "ca. 1981–1504 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.2890",
+ "What": "Faience",
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "id": 100016790,
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100000298"
+   },
+   {
+    "href": "http://scrapi.org/object/100001297"
+   },
+   {
+    "href": "http://scrapi.org/object/100001310"
+   },
+   {
+    "href": "http://scrapi.org/object/100001661"
+   },
+   {
+    "href": "http://scrapi.org/object/100001820"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100016790"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100016790"
+  }
+ }
+}

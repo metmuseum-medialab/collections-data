@@ -1,0 +1,30 @@
+{
+ "Date": "16th century",
+ "Culture": "German",
+ "Classification": "Equestrian Equipment",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.1724a, b",
+ "What": [
+  "Costume",
+  "Spurs"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "id": 40012052,
+ "related-artworks": [
+  40000605,
+  40005127,
+  40007590,
+  40007591,
+  40007594
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40012052"
+  }
+ }
+}

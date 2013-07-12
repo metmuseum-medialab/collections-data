@@ -1,0 +1,38 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Credit Line": "Rogers Fund, 1944",
+ "Accession Number": "44.4.6",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Ear ornaments"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100012439,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs44.4.6.jpg",
+ "related-artworks": [
+  100016008,
+  100016019,
+  100016014,
+  100028428,
+  100001002
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art at Malqata, Egypt, 1911. Acquired by the Museum in the division of finds. J. Pierpont Morgan Collection. Purchased by the museum from the estate of J. P. Morgan, 1944."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100012439"
+  }
+ }
+}

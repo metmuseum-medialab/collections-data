@@ -1,0 +1,35 @@
+{
+ "Date": "16th century",
+ "Medium": "Engraving",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1927",
+ "Accession Number": "27.78.2",
+ "Who": "Master  the Name of Jesus",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90041107,
+ "related-artworks": [
+  90041106,
+  90041108,
+  90041109,
+  90041110,
+  90041111
+ ],
+ "Provenance": [
+  "Jean Mariette (French, Saint Benoît 1660–1742 Paris)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90041107"
+  }
+ }
+}

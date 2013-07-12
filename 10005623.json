@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1870",
+ "Geography": "England",
+ "Culture": "British",
+ "Medium": "Porcelain",
+ "Dimensions": "6 3/8 x 5 1/2 x 4 1/8 in. (16.2 x 14 x 10.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Ronald S. Kane, 1967",
+ "Accession Number": "67.269.2",
+ "Who": "Carl Knoll",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005623,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/188465.jpg",
+ "related-artworks": [
+  10002933,
+  10002982,
+  10004061,
+  10004055,
+  10007426
+ ],
+ "Provenance": [
+  "Ronald S. Kane, New York, until 1967"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005623"
+  }
+ }
+}

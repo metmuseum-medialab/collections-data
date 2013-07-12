@@ -1,0 +1,47 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1744",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "12 1/8 x 5 1/2 in. (30.8 x 14 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Howard Mansfield Collection, Purchase, Rogers Fund, 1936",
+ "Accession Number": "JP2641",
+ "Who": "Okumura Masanobu",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Art of the Edo Period (1615–1868)",
+  "Japonisme",
+  "Art of the Pleasure Quarters and the Ukiyo–e Style",
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Japan, 1600–1800 A.D."
+ ],
+ "id": 60027998,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP124537.jpg",
+ "related-artworks": [
+  60001096,
+  60001097,
+  60001099,
+  60001100,
+  60001101
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60027998"
+  }
+ }
+}

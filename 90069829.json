@@ -1,0 +1,47 @@
+{
+ "Printer": "Gihaut Frères (Paris)",
+ "Publisher": "Charles Tilt (London)",
+ "Date": "1829",
+ "Medium": "Lithograph",
+ "Dimensions": "sheet 10 1/2 x 13 3/8 in. (26.6 x 34 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "26.75.8",
+ "Who": [
+  "Alexandre-Gabriel Decamps",
+  "Charles Tilt",
+  "Gihaut Frères"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Orientalism in Nineteenth–Century Art",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90069829,
+ "related-artworks": [
+  90024397,
+  90069824,
+  90069825,
+  90069827,
+  90069828
+ ],
+ "Provenance": [
+  "Vendor: Knoedler and Co."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90069829"
+  }
+ }
+}

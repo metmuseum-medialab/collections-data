@@ -1,0 +1,42 @@
+{
+ "Date": "1813",
+ "Culture": "Italian",
+ "Medium": "Silk on linen",
+ "Dimensions": [
+  "H. 22 1/8 x W. 27 7/8 inches",
+  "56.2 x 70.8 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "From the Collection of Mrs. Lathrop Colgate Harper, Bequest of Mabel Herbert Harper, 1957",
+ "Accession Number": "57.122.406",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Samplers"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120046025,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/164706.jpg",
+ "related-artworks": [
+  120046045,
+  120046052,
+  120046019,
+  120046018,
+  120046021
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046025"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Artist": "and/or after Battista Franco (Italian, Venice ca. 1510–1561 Venice)",
+ "Publisher": "Published by (?) Giovanni Battista Scultori (Italian, 1503–1575)",
+ "Patron": "Sponsored in part by Cosimo I de' Medici, Grand Duke of Tuscany (Italian, Florence 1519–1574 Florence)",
+ "Date": "1551",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 20 3/4 x 14 3/4 in. (52.7 x 37.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.97.349",
+ "Who": [
+  "Enea Vico",
+  "Battista Franco",
+  "Giovanni Battista Scultori",
+  "Cosimo I de' Medici, Grand Duke of Tuscany",
+  "Charles V, Holy Roman Emperor"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Lovers in Italian Mythological Prints",
+  "Woodcut Book Illustration in Renaissance Italy Venice in the Sixteenth Century",
+  "Anatomy in the Renaissance"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90041066,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820882.jpg",
+ "related-artworks": [
+  90043189,
+  90043258,
+  90043351,
+  90043353,
+  90043360
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90041066"
+  }
+ }
+}

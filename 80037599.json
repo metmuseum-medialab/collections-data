@@ -1,0 +1,37 @@
+{
+ "Date": "1930–35",
+ "Culture": "French (probably)",
+ "Medium": "silk, cotton",
+ "Dimensions": "Length 46 in. (116.8 cm)",
+ "Credit Line": "Gift of Mrs. David Hays Sulzberger, 1976",
+ "Accession Number": "1976.171.8",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Underwear",
+  "Slips"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80037599,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1976.171.8_F.jpg",
+ "related-artworks": [
+  80037603,
+  80001933,
+  80017435,
+  80034925,
+  80036985
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80037599"
+  }
+ }
+}

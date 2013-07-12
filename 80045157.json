@@ -1,0 +1,38 @@
+{
+ "Date": "1975–85",
+ "Culture": "American",
+ "Medium": "straw",
+ "Dimensions": [
+  "Diameter 15 in. (38.1 cm)",
+  "Height 10 1/8 in. (25.7 cm)"
+ ],
+ "Credit Line": "Gift of Gregory R. Reynolds, 1989",
+ "Accession Number": "1989.375.37",
+ "Who": "Patricia Underwood",
+ "What": [
+  "Costume",
+  "Hats",
+  "Straw"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80045157,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1989.375.37.jpg",
+ "related-artworks": [
+  80045159,
+  80000476,
+  80000478,
+  80001371
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80045157"
+  }
+ }
+}

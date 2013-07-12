@@ -1,0 +1,44 @@
+{
+ "Date": "19th–20th century",
+ "Culture": "French",
+ "Medium": "Faience (tin-enameled earthenware)",
+ "Dimensions": "5 1/4 x 4 in.  (13.3 x 10.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of A. Vecht, 1930",
+ "Accession Number": "30.104.3",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Faience",
+  "Earthenware",
+  "Brushes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120011465,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/80457.jpg",
+ "related-artworks": [
+  120011577,
+  120011604,
+  120024279,
+  120002103,
+  120007692
+ ],
+ "Provenance": [
+  "A. Vecht (until 1930",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011465"
+  }
+ }
+}

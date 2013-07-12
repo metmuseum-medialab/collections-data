@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1989",
+ "Culture": "British",
+ "Medium": "(a–c) wool; (d) elastic (e, f) satin",
+ "Dimensions": [
+  "Length at CB (a) 32 1/4 in. (81.9 cm)",
+  "Length at CB (b) 21 1/2 in. (54.6 cm)",
+  "Length at Side Seam (c) 45 in. (114.3 cm)",
+  "Length (d) 38 3/4 in. (98.4 cm)",
+  "Heel to Toe (e, f) 11 3/4 in. (29.8 cm)"
+ ],
+ "Credit Line": "Gift of Clay H. Barr, in memory of Jay D. A. Barr, 1995",
+ "Accession Number": "1995.442.10a–g",
+ "Who": "Turnbull & Asser",
+ "What": [
+  "Costume",
+  "Wool",
+  "Suits",
+  "Satin",
+  "Tuxedoes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "id": 80001182,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1995.442.10a–c_F.jpg",
+ "related-artworks": [
+  80116609,
+  80015142,
+  80000293,
+  80001181,
+  80013996
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001182"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "early 19th century",
+ "Culture": "French",
+ "Dimensions": "4 x 25in. (10.2 x 63.5cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase by subscription, 1909",
+ "Accession Number": "09.68.594b",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Lappets"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 120036225,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP16071.jpg",
+ "related-artworks": [
+  120047343,
+  120030340,
+  120036223,
+  120036224,
+  120040522
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036225"
+  }
+ }
+}

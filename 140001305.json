@@ -1,0 +1,44 @@
+{
+ "Date": "4th–5th century",
+ "Geography": "Egypt, Akhmim",
+ "Medium": "Wool; double weave",
+ "Dimensions": "8 7/8 in. high 8 1/16 in. wide (22.5 cm high 20.5 cm wide)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of George F. Baker, 1890",
+ "Accession Number": "90.5.657",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Wool",
+  "Double weave"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Akhmim"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140001305,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf90-5-657a.jpg",
+ "related-artworks": [
+  140001304,
+  140001306,
+  140000812,
+  140000797,
+  140000813
+ ],
+ "Provenance": [
+  "Emil Brugsch-Bey(until 1890",
+  "sold to Baker)",
+  "George F. Baker, New York (1890)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140001305"
+  }
+ }
+}

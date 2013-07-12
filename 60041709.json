@@ -1,0 +1,54 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Silk",
+ "Dimensions": "4 x 4 in. (10.16 x 10.16 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "09.50.3685",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Samples"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60041709,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP13985.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/60041631",
+  "http://scrapi.org/object/60041633",
+  "http://scrapi.org/object/60041642",
+  "http://scrapi.org/object/60041644",
+  "http://scrapi.org/object/60041659"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60041631"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60041633"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60041642"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60041644"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60041659"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60041709"
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "Maker": "Tiffany Studios (1902–32)",
+ "Date": "after 1909",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Bronze",
+ "Dimensions": "18 1/4 x 12 1/8 in. (46.4 x 30.8 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Mr. and Mrs. Hugh J. Grant, 1974",
+ "Accession Number": "1974.214.11",
+ "Who": [
+  "Louis Comfort Tiffany",
+  "Tiffany Studios"
+ ],
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Blotters"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Art Nouveau",
+  "Louis Comfort Tiffany (1848–1933)",
+  "America Comes of Age 1876–1900",
+  "The Arts and Crafts Movement in America",
+  "Nineteenth–Century American Jewelry",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10000562,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/203701.jpg",
+ "related-artworks": [
+  10000561,
+  10004268,
+  10000563,
+  10013891,
+  10000979
+ ],
+ "Provenance": [
+  "Hugh J. Grant, New York, until 1974."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000562"
+  }
+ }
+}

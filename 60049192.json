@@ -1,0 +1,53 @@
+{
+ "Date": "early 12th century",
+ "Culture": "India (Gujarat)",
+ "Medium": "Opaque watercolor on wood",
+ "Dimensions": "2 3/16 x 12 3/4 in. (5.5 x 32.4 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Marie-Hélène and Guy Weill, 1984",
+ "Accession Number": "1984.496.33b",
+ "What": [
+  "Paintings",
+  "Watercolors"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Gujarat"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia South, 1000–1400 A.D.",
+ "id": 60049192,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP156423.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/as/original/DP156423.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/DP156424.jpg"
+ ],
+ "Description": "This pair of covers appears to be contemporary with twelfth-century sets in the Jaisalmer Jain temple library in Rajasthan. The figures are rendered naively, shown frontally but with faces in three-quarter profile, and the use of gesture is animated if theatrical. The pictorial conventions of silhouetted figures drawn in black outline on a flat red ground is in evidence, marking the beginnings of the western Indian style. Depicted on the interiors of the covers are scenes of assembled dignitaries, probably illustrating events from the life of a jina as described in the hagiographical literature. Alternatively, they may represent the climactic scene of the story in which the princess Damayanti selects her future husband, Nala, from an assembly of candidates in a practice known as svayamvara. A Hindu story recounted in the Mahabharata, it was popular in Svetambara Jain circles in western India beginning about A.D. 1000.",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60004776"
+   },
+   {
+    "href": "http://scrapi.org/object/60006490"
+   },
+   {
+    "href": "http://scrapi.org/object/60046489"
+   },
+   {
+    "href": "http://scrapi.org/object/60004728"
+   },
+   {
+    "href": "http://scrapi.org/object/60004730"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60049192"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60049192"
+  }
+ }
+}

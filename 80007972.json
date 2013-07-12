@@ -1,0 +1,38 @@
+{
+ "Date": "1902–5",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": [
+  "Length at CB 12 in. (30.5 cm)",
+  "Length at CF 12 in. (30.5 cm)"
+ ],
+ "Credit Line": "Gift of Miss K. Weir, 1942",
+ "Accession Number": "C.I.42.87.3a–f",
+ "What": [
+  "Costume",
+  "Underwear",
+  "Corsets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80007972,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI42.87.3ab_F.jpg",
+ "related-artworks": [
+  80003626,
+  80006835,
+  80007973,
+  80007984,
+  80007987
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007972"
+  }
+ }
+}

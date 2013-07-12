@@ -1,0 +1,40 @@
+{
+ "Manufacturer": "Attributed to Traina-Norell (American, founded 1941)",
+ "Date": "ca. 1955",
+ "Culture": "American",
+ "Medium": "Silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Lauren Bacall, 1960",
+ "Accession Number": "2009.300.7102",
+ "Who": [
+  "Norman Norell",
+  "Traina-Norell"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Dressing for the Cocktail Hour",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 80115496,
+ "related-artworks": [
+  80002154,
+  80002167,
+  80002922,
+  80002925,
+  80005273
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80115496"
+  }
+ }
+}

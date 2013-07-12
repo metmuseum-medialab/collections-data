@@ -1,0 +1,57 @@
+{
+ "Date": "14th–15th century",
+ "Geography": "Egypt",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.256.97",
+ "What": [
+  "Ceramics",
+  "Fragments"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1000–1400 A.D.",
+  "Egypt, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140002586,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf08-256-97a.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/140000073",
+  "http://scrapi.org/object/140002324",
+  "http://scrapi.org/object/140002325",
+  "http://scrapi.org/object/140002326",
+  "http://scrapi.org/object/140002327"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "[ Michael Casira, Cairo, until 1908",
+  "sold to A.M. Lythgoe for MMA]"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140000073"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140002324"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140002325"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140002326"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140002327"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140002586"
+  }
+ }
+}

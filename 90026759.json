@@ -1,0 +1,62 @@
+{
+ "Sitter": "Portrait of Édouard Manet (French, Paris 1832–1883 Paris)",
+ "Date": "1864–65",
+ "Medium": "Etching and drypoint; first state of four",
+ "Dimensions": [
+  "plate 7 11/16 x 5 1/8 in. (19.5 x 13 cm)",
+  "sheet 12 7/16 x 8 3/4 in. (31.6 x 22.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1921",
+ "Accession Number": "21.83.2",
+ "Who": [
+  "Edgar Degas",
+  "Édouard Manet"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Japonisme",
+  "The Lure of Montmartre, 1880–1900",
+  "American Impressionism",
+  "Impressionism Art and Modernity",
+  "Mary Stevenson Cassatt (1844–1926)",
+  "The Salon and The Royal Academy",
+  "Edgar Degas (1834–1917) Bronze Sculpture",
+  "The Print in the Nineteenth Century",
+  "Édouard Manet (1832–1883)",
+  "Edgar Degas (1834–1917) Painting and Drawing",
+  "Claude Monet (1840–1926)",
+  "Lithography in the Nineteenth Century",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90026759,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP815804.jpg",
+ "related-artworks": [
+  90017972,
+  90026770,
+  90026758,
+  90001576,
+  90018017
+ ],
+ "Provenance": [
+  "Vendor: Frederick Keppel & Co."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026759"
+  }
+ }
+}

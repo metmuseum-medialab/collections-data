@@ -1,0 +1,61 @@
+{
+ "Period": "Yuan dynasty (1271–1368)",
+ "Date": "14th century",
+ "Culture": "China",
+ "Medium": "Pottery with burnishing",
+ "Dimensions": "H. 11 1/4 in. (28.5 cm); W. 3 15/16 in. (10 cm); D. 3 1/4 in. (8.2 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Gift of Elizabeth V. Cockcroft, by exchange, 2008",
+ "Accession Number": "2008.10",
+ "What": [
+  "Ceramics",
+  "Sculpture",
+  "Pottery",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000–1400 A.D.",
+  "Central and North Asia, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60048283,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP156776.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/as/original/DP156776.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/DP156777.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/DP156778.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/DP156779.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/DP156780.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60048282"
+   },
+   {
+    "href": "http://scrapi.org/object/60020962"
+   },
+   {
+    "href": "http://scrapi.org/object/60046490"
+   },
+   {
+    "href": "http://scrapi.org/object/60005607"
+   },
+   {
+    "href": "http://scrapi.org/object/60006651"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60048283"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60048283"
+  }
+ }
+}

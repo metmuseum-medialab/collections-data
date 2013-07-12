@@ -1,0 +1,41 @@
+{
+ "Date": "12th century",
+ "Geography": "Egypt, Cairo",
+ "Medium": "Wood, bone; carved, inlaid and painted",
+ "Dimensions": "H. 4 1/8 in. (10.5 cm)",
+ "Classification": "Wood",
+ "Credit Line": "Rogers Fund, 1924",
+ "Accession Number": "24.147.1",
+ "What": [
+  "Bone",
+  "Painting",
+  "Panels"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Cairo"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005030,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP100751.jpg",
+ "related-artworks": [
+  140002226,
+  140002213,
+  140002211,
+  140002215,
+  140002217
+ ],
+ "Provenance": [
+  "[ Dikran G. Kelekian, New York, until 1924",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005030"
+  }
+ }
+}

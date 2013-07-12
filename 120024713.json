@@ -1,0 +1,47 @@
+{
+ "Date": "1685",
+ "Culture": "Italian (Florentine)",
+ "Medium": "Bronze, dark brown patina",
+ "Dimensions": "Diam. 3 3/8 in. (86 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Purchase, Stephen K. Scher Gift, 1996",
+ "Accession Number": "1996.369",
+ "Who": "Massimiliano Soldani",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes",
+  "Patina"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Florence"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120024713,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP100554.jpg",
+ "related-artworks": [
+  120023684,
+  120029880,
+  120010552,
+  120023670,
+  120006215
+ ],
+ "Provenance": [
+  "[ Cyril Humphris (until 1993",
+  "sale, London, 1993, no. 76) ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120024713"
+  }
+ }
+}

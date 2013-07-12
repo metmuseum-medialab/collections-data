@@ -1,0 +1,37 @@
+{
+ "Date": "Dated 1984",
+ "Culture": "China",
+ "Medium": "Green Qingtian soapstone",
+ "Classification": "Seals",
+ "Credit Line": "Gift of Sarah Shay, 2005",
+ "Accession Number": "2005.411.322",
+ "Who": "Chen Bo",
+ "What": [
+  "Seals",
+  "Soapstone"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "id": 60046735,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP224224.jpg",
+ "related-artworks": [
+  60046787,
+  60047604,
+  60046715,
+  60046718,
+  60046732
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60046735"
+  }
+ }
+}

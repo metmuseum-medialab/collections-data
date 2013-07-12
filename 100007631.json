@@ -1,0 +1,37 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 20",
+ "Reign": "reign of Ramesses IV",
+ "Date": "ca. 1153–1147 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, Temple of Ramesses IV, Carnarvon 1911",
+ "Medium": "Blue faience",
+ "Credit Line": "Purchase, Edward S. Harkness Gift, 1926",
+ "Accession Number": "26.7.1071",
+ "What": [
+  "Faience",
+  "Plaques"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100007631,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs35.3.143.jpg",
+ "related-artworks": [
+  100001054,
+  100006332,
+  100006302,
+  100006344,
+  100006345
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100007631"
+  }
+ }
+}

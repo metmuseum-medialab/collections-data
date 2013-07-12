@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "French (?)",
+ "Medium": "Silver",
+ "Dimensions": "L. 3-3/4 in. (9.5 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mrs. Samuel P. Avery, 1897",
+ "Accession Number": "97.2.234",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Flatware",
+  "Spoons",
+  "Salt spoons"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120002588,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/17914.jpg",
+ "related-artworks": [
+  120002592,
+  120002548,
+  120015365,
+  120002291,
+  120002571
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120002588"
+  }
+ }
+}

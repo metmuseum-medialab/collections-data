@@ -1,0 +1,35 @@
+{
+ "Date": "20th century",
+ "Culture": "Indonesia (Java)",
+ "Medium": "Stone",
+ "Dimensions": "H. 11 15/16 in. (30.3 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Anonymous Gift, 1991",
+ "Accession Number": "1991.381.3",
+ "What": [
+  "Sculpture",
+  "Stone"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005875,
+ "related-artworks": [
+  60005880,
+  60005873,
+  60005874,
+  60005877,
+  60005878
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005875"
+  }
+ }
+}

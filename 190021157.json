@@ -1,0 +1,43 @@
+{
+ "Date": "1910",
+ "Medium": "Oil print",
+ "Dimensions": "25.7 x 36.9 cm. (10  1/8  x 14  1/2  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Alfred Stieglitz Collection, 1949",
+ "Accession Number": "49.55.207",
+ "Who": "Robert Demachy",
+ "What": [
+  "Prints",
+  "Photographs",
+  "Oil",
+  "Oil prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "International Pictorialism",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190021157,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/MM58901.jpg",
+ "related-artworks": [
+  190019681,
+  190021155,
+  190019488,
+  190019571,
+  190019676
+ ],
+ "Provenance": [
+  "Alfred Stieglitz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190021157"
+  }
+ }
+}

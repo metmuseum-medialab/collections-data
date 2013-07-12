@@ -1,0 +1,43 @@
+{
+ "Date": "18th century",
+ "Culture": "Japanese",
+ "Medium": "Shakudo, gold, copper, silver",
+ "Dimensions": "2 9/16 inches (6.4 cm) x 2¼ inches (5.7 cm)",
+ "Classification": "Sword Furniture",
+ "Credit Line": "Purchase, Arthur Ochs Sulzberger Gift, 2004",
+ "Accession Number": "2004.461",
+ "Who": "Omori Hidenaga",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Arms",
+  "Edged weapons",
+  "Copper",
+  "Swords",
+  "Guards"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40006078,
+ "gallery-id": 378,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/sfsb2004.461(4-20-07)s1.JPG",
+ "related-artworks": [
+  40004617,
+  40004619,
+  40004631,
+  40004674,
+  40004676
+ ],
+ "Description": "This sword guard (tsuba) features a design of a peony and butterflies.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40006078"
+  }
+ }
+}

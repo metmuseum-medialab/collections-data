@@ -1,0 +1,43 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Needle lace",
+ "Dimensions": "L. 83 3/4 x W. 10 inches (212.7 x 25.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Frederick C. Hewitt Fund, 1911",
+ "Accession Number": "11.137.9",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace",
+  "Scarves"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120037037,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP5421.jpg",
+ "related-artworks": [
+  120043970,
+  120040525,
+  120043862,
+  120043828,
+  120046421
+ ],
+ "Provenance": [
+  "Sir William N. Abdy"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120037037"
+  }
+ }
+}

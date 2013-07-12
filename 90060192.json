@@ -1,0 +1,34 @@
+{
+ "Date": "1723",
+ "Medium": "Etching",
+ "Dimensions": "sheet 4 1/8 x 5 7/8 in. (10.5 x 14.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1978",
+ "Accession Number": "1978.583.2",
+ "Who": "Paul Ponce Antoine Robert-de-Seri",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90060192,
+ "related-artworks": [
+  90058177,
+  90058178,
+  90060195,
+  90060197,
+  90060199
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060192"
+  }
+ }
+}

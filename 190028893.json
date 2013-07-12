@@ -1,0 +1,24 @@
+{
+ "Date": "1925",
+ "Classification": "Books",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.4",
+ "Who": "Marcus Aurelius Antoninus",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190028893,
+ "related-artworks": [
+  190011331,
+  190011770,
+  190011836,
+  190012108,
+  190012114
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028893"
+  }
+ }
+}

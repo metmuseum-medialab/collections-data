@@ -1,0 +1,45 @@
+{
+ "Date": "17th century",
+ "Geography": "India, Thanjavur",
+ "Medium": [
+  "Cotton and metal thread; printed",
+  "Selvage brocaded"
+ ],
+ "Dimensions": "10 in. high 20.00 in. wide (25.4 cm high 50.8 cm wide)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of the Museum of the Cranbrook Academy of Art, 1946",
+ "Accession Number": "46.37.1eee",
+ "What": [
+  "Metal",
+  "Costume",
+  "Textiles",
+  "Cotton",
+  "Painting",
+  "Printing",
+  "Saris",
+  "Selvage"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Tamil Nadu",
+  "Thanjavur"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1600–1800 A.D.",
+ "id": 140007926,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/wb-46.37.1eee.JPG",
+ "related-artworks": [
+  140004030,
+  140004040,
+  140005121,
+  140001729,
+  140007941
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007926"
+  }
+ }
+}

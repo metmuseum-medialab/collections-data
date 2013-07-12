@@ -1,0 +1,42 @@
+{
+ "Period": "early Ming dynasty (1368–1644)",
+ "Culture": "China",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 3 in. (7.6 cm); W. 3 in. (7.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.136.7",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Jars"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1000–1400 A.D.",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60018720,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/44730.jpg",
+ "related-artworks": [
+  60009864,
+  60009886,
+  60016296,
+  60021439,
+  60023013
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60018720"
+  }
+ }
+}

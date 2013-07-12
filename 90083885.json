@@ -1,0 +1,43 @@
+{
+ "Printer": "Aubert et Cie (Paris)",
+ "Date": "July 13, 1839",
+ "Medium": "Lithograph; second state of two (Armelhault & Bocher)",
+ "Dimensions": "Sheet 13 5/16 x 10 7/16 in. (33.8 x 26.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Michael G. Wilson, 1979",
+ "Accession Number": "1979.673.15",
+ "Who": [
+  "Paul Gavarni [Chevalier]",
+  "Aubert et Cie"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90083885,
+ "related-artworks": [
+  90078664,
+  90084092,
+  90084107,
+  90084137,
+  90084689
+ ],
+ "Provenance": [
+  "Albert Maroni (French, 1852–1923)",
+  "Donor: Michael G. Wilson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90083885"
+  }
+ }
+}

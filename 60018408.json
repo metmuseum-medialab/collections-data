@@ -1,0 +1,49 @@
+{
+ "Period": "Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Porcelain painted in overglaze polychrome enamels",
+ "Dimensions": "Diam. 5 1/4 in. (13.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.350",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Painting",
+  "Plates",
+  "Enamels",
+  "Saucers",
+  "Overglazing"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60018408,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/79_2_350_O1_sf.jpg",
+ "related-artworks": [
+  60015709,
+  60016198,
+  60016244,
+  60016251,
+  60016601
+ ],
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60018408"
+  }
+ }
+}

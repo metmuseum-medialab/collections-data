@@ -1,0 +1,42 @@
+{
+ "Date": "before 16th century",
+ "Geography": "United States (?)",
+ "Culture": "United States (?)",
+ "Medium": "Stone",
+ "Dimensions": "Height 2-1/16 in.",
+ "Classification": "Stone-Implements",
+ "Credit Line": "Bequest of Arthur M. Bullowa, 1993",
+ "Accession Number": "1994.35.405",
+ "What": [
+  "Stone",
+  "Chisels"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "North America, 1400–1600 A.D.",
+  "North America, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50009938,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/hz1994_35_405.jpg",
+ "related-artworks": [
+  50009941,
+  50009766,
+  50009767,
+  50009768,
+  50009769
+ ],
+ "Provenance": [
+  "[George Terasaki, New York]",
+  "Arthur M. Bullowa, until (d.)1993"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50009938"
+  }
+ }
+}

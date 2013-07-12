@@ -1,0 +1,42 @@
+{
+ "Date": "1962",
+ "Medium": "Crayon, chalk, graphite, and oil on paper",
+ "Dimensions": [
+  "H. 8-5/8, W. 11-1/8 inches",
+  "(21.9 x 28.3 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Walter C. Baker, 1967",
+ "Accession Number": "67.127.9",
+ "Who": "A. Robert Birmelin",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Graphite",
+  "Chalk",
+  "Oil paintings",
+  "Crayons"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009762,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/67.127.9.jpg",
+ "related-artworks": [
+  210002592,
+  210002458,
+  210006365,
+  210010467
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009762"
+  }
+ }
+}

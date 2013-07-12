@@ -1,0 +1,32 @@
+{
+ "Date": "February 1787",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 8 1/16 x 4 1/2 in. (20.4 x 11.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Charles Allen Munn, 1924",
+ "Accession Number": "24.90.1931",
+ "Who": "Anonymous, American, 18th century",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90069016,
+ "related-artworks": [
+  90069011,
+  90069012,
+  90069014,
+  90069004,
+  90069015
+ ],
+ "Provenance": [
+  "Donor: Charles Allen Munn"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90069016"
+  }
+ }
+}

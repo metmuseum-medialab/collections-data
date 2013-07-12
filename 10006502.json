@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1860–66",
+ "Geography": "China",
+ "Culture": "Chinese, for American market",
+ "Medium": "Porcelain",
+ "Dimensions": "Diam. 9 1/2 in. (24.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Elizabeth Hazard and Marion H. McVitty, in memory of their mother, Mrs. Lauriston H. Hazard, 1960",
+ "Accession Number": "60.111.93",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Plates"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10006502,
+ "gallery-id": 774,
+ "related-artworks": [
+  10002159,
+  10002839,
+  10002907,
+  10002910,
+  10002915
+ ],
+ "Provenance": [
+  "Mr. and Mrs. Daniel Paine",
+  "their granddaughter, Elizabeth Paine  Sackett (Mrs. Lauriston H. Hazard)",
+  "her daughters, Elizabeth Hazard  and Marion H. McVitty, Westport, Connecticut, until 1960"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006502"
+  }
+ }
+}

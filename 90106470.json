@@ -1,0 +1,34 @@
+{
+ "Date": "1910",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 5/8 × 1 1/2 in. (6.7 × 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 314, E99.17",
+ "Who": "Bishop & Company, Los Angeles",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90106470,
+ "related-artworks": [
+  90106457,
+  90106451,
+  90106468,
+  90106444,
+  90106469
+ ],
+ "Description": "Trade cards from the \"30 Ball Players\" series (E99), issued in a 30 card set in 1910 by Bishop & Co., a Los Angeles confection company. The set features players from the Pacific Coast League.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90106470"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Date": "19th century",
+ "Geography": "Gabon",
+ "Culture": "Fang people",
+ "Medium": "Wood, hide, polychrome",
+ "Dimensions": "L. 71.2 cm (28-1/16 in.); Head diam.: 22.9 cm (9 in.)",
+ "Classification": "Membranophone-single-headed / cylindrical drum",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.559",
+ "What": [
+  "Musical instruments",
+  "Membranophones",
+  "Drums",
+  "Hide"
+ ],
+ "Where": [
+  "Africa",
+  "Gabon"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Central Africa, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180012921,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/244162.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/180012920"
+   },
+   {
+    "href": "http://scrapi.org/object/180012852"
+   },
+   {
+    "href": "http://scrapi.org/object/180012919"
+   },
+   {
+    "href": "http://scrapi.org/object/180014591"
+   },
+   {
+    "href": "http://scrapi.org/object/180014766"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/180012921"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/180012921"
+  }
+ }
+}

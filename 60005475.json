@@ -1,0 +1,36 @@
+{
+ "Date": "2nd century B.C.",
+ "Culture": "Pakistan (ancient region of Gandhara)",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 3 1/2 in. (8.9 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Samuel Eilenberg Collection, Bequest of Samuel Eilenberg, 1998",
+ "Accession Number": "2000.284.21",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Fragments",
+  "Terracotta"
+ ],
+ "Where": [
+  "Asia",
+  "Pakistan"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005475,
+ "related-artworks": [
+  60005046,
+  60005628,
+  60004565,
+  60021511,
+  60005623
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005475"
+  }
+ }
+}

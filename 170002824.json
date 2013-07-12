@@ -1,0 +1,41 @@
+{
+ "Date": "16th century (?)",
+ "Culture": "French (?)",
+ "Medium": "Copper alloy",
+ "Dimensions": "Overall 1 3/4 x 7/8 x 1/4 in. (4.4 x 2.2 x 0.6 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, De Souhami Collection, Rogers Fund, 1906",
+ "Accession Number": "06.176.95",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Copper",
+  "Keys"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170002824,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf06-176-95s1.jpg",
+ "related-artworks": [
+  170002814,
+  170003188,
+  170008725,
+  170003185,
+  170003194
+ ],
+ "Provenance": [
+  "Henri S. De Souhami"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170002824"
+  }
+ }
+}

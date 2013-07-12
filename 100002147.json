@@ -1,0 +1,42 @@
+{
+ "Period": "Second Intermediate Period",
+ "Dynasty": "Dynasty 17",
+ "Date": "ca. 1640–1550 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, Burial 6A.X.B43, MMA 1918–1919",
+ "Medium": "Faience",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.3.181",
+ "What": [
+  "Faience",
+  "Plaques",
+  "Beads",
+  "Cartouches"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100002147,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/19-3-181-184.JPG",
+ "related-artworks": [
+  100008993,
+  100026652,
+  100007095,
+  100026672,
+  100026655
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art at Thebes, 1918-1919. Received from the Egyptian government in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100002147"
+  }
+ }
+}

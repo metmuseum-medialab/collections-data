@@ -1,0 +1,44 @@
+{
+ "Date": "18th century",
+ "Culture": "French or Danish",
+ "Medium": "Drawnwork",
+ "Dimensions": [
+  "L. 36 1/2 x W. 18 inches",
+  "92.7 x 45.7 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Mrs. Harriette Goelet, 1913",
+ "Accession Number": "13.52",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Borders"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120037114,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/15684.jpg",
+ "related-artworks": [
+  120032263,
+  120032899,
+  120032916,
+  120032917,
+  120035751
+ ],
+ "Provenance": [
+  "Mrs. Harriette Goelet (until 1913",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120037114"
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "Date": "April 1927",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "6.2 x 3.8 cm (2 7/16 x 1 1/2 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.261.15",
+ "Who": "Unknown",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190035553,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP49022.jpg",
+ "related-artworks": [
+  190060818,
+  190060962,
+  190060963,
+  190060964,
+  190060961
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190035553"
+  }
+ }
+}

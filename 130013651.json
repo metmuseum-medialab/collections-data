@@ -1,0 +1,38 @@
+{
+ "Period": "Geometric",
+ "Date": "9th–8th century B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta",
+ "Dimensions": "H. with handle 6.60 cm",
+ "Classification": "Vases",
+ "Credit Line": "Gift of the Greek Government, 1930",
+ "Accession Number": "30.118.26",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jugs"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013651,
+ "related-artworks": [
+  130005278,
+  130005281,
+  130005287,
+  130007188,
+  130007332
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013651"
+  }
+ }
+}

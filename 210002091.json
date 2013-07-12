@@ -1,0 +1,49 @@
+{
+ "Date": "1976",
+ "Medium": "Bronze",
+ "Dimensions": "H. 15-1/2, W. 9-1/2, D. 9-1/2 inches  (39.4 x 24.1 x 24.1 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Anonymous Gift, 1978",
+ "Accession Number": "1978.81",
+ "Who": "William Crozier",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210002091,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210000703"
+   },
+   {
+    "href": "http://scrapi.org/object/210000704"
+   },
+   {
+    "href": "http://scrapi.org/object/210000731"
+   },
+   {
+    "href": "http://scrapi.org/object/210000785"
+   },
+   {
+    "href": "http://scrapi.org/object/210000838"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210002091"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210002091"
+  }
+ }
+}

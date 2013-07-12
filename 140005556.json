@@ -1,0 +1,61 @@
+{
+ "Date": "ca. 934–40",
+ "Geography": "Egypt, Damietta",
+ "Medium": "Linen, silk; plain weave, tapestry weave",
+ "Dimensions": [
+  "H. 20 1/2 in. (52.1 cm)",
+  "W. 34 1/2 in. (87.6 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of George D. Pratt, 1929",
+ "Accession Number": "29.179.14",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Woven",
+  "Linen",
+  "Tapestries",
+  "Plain weave"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Lower Egypt",
+  "Damietta"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005556,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/77300.jpg",
+ "Provenance": [
+  "George D. Pratt, New York (until 1929)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/140005940"
+   },
+   {
+    "href": "http://scrapi.org/object/140005544"
+   },
+   {
+    "href": "http://scrapi.org/object/140005897"
+   },
+   {
+    "href": "http://scrapi.org/object/140005548"
+   },
+   {
+    "href": "http://scrapi.org/object/140005543"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140005556"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/140005556"
+  }
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "Date": "early 1930s",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length (a) 56 in. (142.2 cm)",
+  "Length (b) 54 1/2 in. (138.4 cm)",
+  "Overall (c) 190 x 26 in. (482.6 x 66 cm)"
+ ],
+ "Credit Line": "Gift of Mr. and Mrs. Maxime L. Hermanos, 1962",
+ "Accession Number": "C.I.62.44.10a–c",
+ "Who": "Madeleine Vionnet",
+ "What": [
+  "Silk",
+  "Ensembles"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Haute Couture",
+  "Twentieth–Century Silhouette and Support",
+  "Le Colis de Trianon–Versailles and Paris Openings",
+  "Classical Art and Modern Dress",
+  "Costume in The Metropolitan Museum of Art",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80027856,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI62.44.10ab_F.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80003758",
+  "http://scrapi.org/object/80006059",
+  "http://scrapi.org/object/80006209",
+  "http://scrapi.org/object/80095281",
+  "http://scrapi.org/object/80096847"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/CI62.44.10ab_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI62.44.10a–c_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI62.44.10ab_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI62.44.10b_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI62.44.10b_B.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80003758"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80006059"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80006209"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80095281"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80096847"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80027856"
+  }
+ }
+}

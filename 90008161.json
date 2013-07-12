@@ -1,0 +1,41 @@
+{
+ "Date": "1606",
+ "Medium": "Engraving",
+ "Dimensions": "5 3/16 x 6 1/4 in.  (13.1 x 15.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.2084",
+ "Who": "Annibale Carracci",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Poets in Italian Mythological Prints",
+  "Sixteenth–Century Painting in Emilia–Romagna",
+  "Annibale Carracci (1560–1609)",
+  "Domenichino (Domenico Zampieri) (1581–1641)",
+  "Italian Porcelain in the Eighteenth Century",
+  "Poets, Lovers, and Heroes in Italian Mythological Prints",
+  "Baroque Rome"
+ ],
+ "id": 90008161,
+ "related-artworks": [
+  90007698,
+  90008115,
+  90008122,
+  90008116,
+  90008120
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90008161"
+  }
+ }
+}

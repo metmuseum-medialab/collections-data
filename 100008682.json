@@ -1,0 +1,50 @@
+{
+ "Period": "Late Period–Early Ptolemaic Period",
+ "Date": "400–200 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Quartzite",
+ "Dimensions": "6.5 cm (2 9/16 in.)",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.8.82",
+ "What": "Quartzite",
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008682,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DP241021.jpg",
+ "Provenance": [
+  "Formerly Theodore M. Davis Collection. Bequeathed to the Museum by Davis, 1915",
+  "accessioned, 1930."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100002547"
+   },
+   {
+    "href": "http://scrapi.org/object/100003379"
+   },
+   {
+    "href": "http://scrapi.org/object/100032372"
+   },
+   {
+    "href": "http://scrapi.org/object/100000055"
+   },
+   {
+    "href": "http://scrapi.org/object/100000278"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100008682"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100008682"
+  }
+ }
+}

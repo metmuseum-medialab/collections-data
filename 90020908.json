@@ -1,0 +1,47 @@
+{
+ "Editor": "Edited by Pierre Le Muet (French, 1591–1669)",
+ "Designer": "Portal designs by Pierre Le Muet (French, 1591–1669)",
+ "Publisher": "Published by Jean Mariette (French, Saint Benoît 1660–1742 Paris)",
+ "Subject of book": "About Jacopo [Giacomo] Barozzi da Vignola (Italian, Vignola 1507–1573 Rome)",
+ "Date": "[ca. 1708]",
+ "Medium": "Printed book with engraved illustrations",
+ "Dimensions": "Overall 6 9/16 x 4 3/8 x 3/8 in. (16.7 x 11.1 x 1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1952",
+ "Accession Number": "52.519.40",
+ "Who": [
+  "Jean Mariette",
+  "Jacopo [Giacomo] Barozzi da Vignola",
+  "Pierre Le Muet"
+ ],
+ "What": [
+  "Engraving",
+  "Books",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90020908,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/sf52_519_40-i-tpdtl01.JPG",
+ "related-artworks": [
+  90012600,
+  90012623,
+  90012633,
+  90013896,
+  90015821
+ ],
+ "Provenance": [
+  "Ogden Codman, Jr. (American, Boston, Massachusetts 1868–1951 Grégy-sur-Yerre), D 14.2 (533)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90020908"
+  }
+ }
+}

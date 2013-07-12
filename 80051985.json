@@ -1,0 +1,35 @@
+{
+ "Date": "1860s",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Jessie Rosenfeld, 1943",
+ "Accession Number": "C.I.43.40.36",
+ "What": [
+  "Costume",
+  "Neckwear",
+  "Jabots"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80051985,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI43.40.36.jpg",
+ "related-artworks": [
+  80051984,
+  80052253,
+  80108652,
+  80027154,
+  80038570
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80051985"
+  }
+ }
+}

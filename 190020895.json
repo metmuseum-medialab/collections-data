@@ -1,0 +1,40 @@
+{
+ "Printer": "Imprimerie Blanquart-Évrard",
+ "Date": "1850–53",
+ "Medium": "Salted paper print (Blanquart-Évrard process) from paper negative",
+ "Classification": "Photographs",
+ "Credit Line": "Harris Brisbane Dick Fund, 1946",
+ "Accession Number": "46.122.20",
+ "Who": [
+  "Imprimerie Blanquart-Évrard",
+  "A. Fays"
+ ],
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190020895,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP70290.jpg",
+ "related-artworks": [
+  190020882,
+  190013878,
+  190014448,
+  190014993
+ ],
+ "Provenance": [
+  "E. Weill, London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190020895"
+  }
+ }
+}

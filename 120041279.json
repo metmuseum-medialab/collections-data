@@ -1,0 +1,39 @@
+{
+ "Date": "16th–17th century",
+ "Culture": "Italian",
+ "Medium": "Silk",
+ "Dimensions": "L. 9 x W. 7 3/4 inches (22.9 x 19.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.489",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120041279,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/110071.jpg",
+ "related-artworks": [
+  120014873,
+  120033066,
+  120033319,
+  120033320,
+  120033323
+ ],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120041279"
+  }
+ }
+}

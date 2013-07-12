@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1780",
+ "Culture": "French",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 61 x W. 51 inches",
+  "154.9 x 129.5 cm",
+  "33 1/2 inches (selvage to selvage)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1968",
+ "Accession Number": "68.145.2",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Cotton",
+  "Printing",
+  "Bed coverings",
+  "Bedcovers",
+  "Coverlets"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120046949,
+ "related-artworks": [
+  120046950,
+  120047184,
+  120047048,
+  120047158,
+  120047624
+ ],
+ "Provenance": [
+  "[ Ginsburg BE, 1968",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046949"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "Roman Period",
+ "Date": "A.D. 3rd century",
+ "Geography": "Country of Origin Egypt, Northern Upper Egypt, Akhmim, Island of Apollinaris",
+ "Medium": "Wood, ink",
+ "Dimensions": "10.6 - 10.9 x 6 x 2 cms",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.1130",
+ "What": [
+  "Ink",
+  "Wood",
+  "Labels",
+  "Mummies"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Akhmim"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100015783,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/18652.jpg",
+ "related-artworks": [
+  100015782,
+  100015786,
+  100008021,
+  100015507,
+  100015784
+ ],
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100015783"
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "Date": "1930–31",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "9.1 x 13.4 cm. (3  9/16  x 5  1/4  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Lincoln Kirstein, 1951",
+ "Accession Number": "51.565.17",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": "Walker Evans",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Early Documentary Photography",
+  "Walker Evans (1903–1975)",
+  "Kodak and the Rise of Amateur Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190021335,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP68950.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/190011732",
+  "http://scrapi.org/object/190011733",
+  "http://scrapi.org/object/190011734",
+  "http://scrapi.org/object/190011735",
+  "http://scrapi.org/object/190011736"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Lincoln Kirstein"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011732"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011733"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011734"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011735"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011736"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190021335"
+  }
+ }
+}

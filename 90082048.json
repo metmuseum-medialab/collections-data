@@ -1,0 +1,38 @@
+{
+ "Date": "1882",
+ "Medium": "Watercolor and graphite",
+ "Dimensions": "Sheet 20 1/2 x 14 in. (52.1 x 35.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mary Knight Arnold, 1979",
+ "Accession Number": "1979.683.2",
+ "Who": "Frederick Leo Hunter",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90082048,
+ "related-artworks": [
+  90082051,
+  90082537,
+  90082343,
+  90082555,
+  90054815
+ ],
+ "Provenance": [
+  "Donor: Mary Knight Arnold"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90082048"
+  }
+ }
+}

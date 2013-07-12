@@ -1,0 +1,25 @@
+{
+ "Date": "1927–28",
+ "Dimensions": "Overall 12 x 9 13/16 in. (30.5 x 25 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1947",
+ "Accession Number": "47.93.1",
+ "Who": "Sigmund Sheer & Charles Tucek, Jr.",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90025363,
+ "related-artworks": [
+  90000001,
+  90000402,
+  90000530,
+  90000506,
+  90000618
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90025363"
+  }
+ }
+}

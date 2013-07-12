@@ -1,0 +1,39 @@
+{
+ "Period": "Iron Age II",
+ "Date": "ca. 8th century B.C.",
+ "Geography": "Northern Syria",
+ "Medium": "Chlorite",
+ "Dimensions": "1.97 x 2.6 x 4.61 in. (5 x 6.6 x 11.71 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Anonymous Gift, 1961",
+ "Accession Number": "61.98",
+ "What": [
+  "Vessels",
+  "Stone",
+  "Bowls",
+  "Chlorite"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003792,
+ "gallery-id": 404,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/hb61_98a.jpg",
+ "related-artworks": [
+  30004485,
+  30000950,
+  30006215,
+  30006517,
+  30005807
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003792"
+  }
+ }
+}

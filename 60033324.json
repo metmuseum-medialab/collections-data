@@ -1,0 +1,38 @@
+{
+ "Date": "early 19th century",
+ "Culture": "Japan",
+ "Medium": "Stoneware (Mino ware, Oribe type)",
+ "Dimensions": "H. 10 1/4 in. (26 cm); Diam. 21 1/2 in. (54.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Harold G. Henderson, 1963",
+ "Accession Number": "64.67.1",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Bowls",
+  "Stoneware",
+  "Oribe"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60033324,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/179563.jpg",
+ "related-artworks": [
+  60033325,
+  60023173,
+  60033323,
+  60007178,
+  60019940
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033324"
+  }
+ }
+}

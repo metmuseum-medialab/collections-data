@@ -1,0 +1,32 @@
+{
+ "Date": "ca. 1825",
+ "Medium": "Etching",
+ "Dimensions": "Sheet 9 1/16 x 7 3/8 in. (23 x 18.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Albert Ten Eyck Gardner, 1963",
+ "Accession Number": "63.689(1–27)",
+ "Who": "Anonymous, British, 19th century",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90090578,
+ "related-artworks": [
+  90003662,
+  90038907,
+  90039908,
+  90054271,
+  90058190
+ ],
+ "Provenance": [
+  "Donor: Albert Ten Eyck Gardner"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90090578"
+  }
+ }
+}

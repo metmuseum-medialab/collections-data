@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1775–80",
+ "Culture": "Danish (Copenhagen)",
+ "Medium": "Hard-paste porcelain, silver gilt",
+ "Dimensions": "L. 3-1/4 in. (8.3 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+ "Accession Number": "1974.356.537",
+ "Who": "Royal Porcelain Manufactory, Copenhagen",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Silver",
+  "Faience",
+  "Porcelain",
+  "Gilt",
+  "Hard paste porcelain",
+  "Snuff containers",
+  "Snuffboxes"
+ ],
+ "Where": [
+  "Europe",
+  "Denmark",
+  "Copenhagen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120022075,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/205221.jpg",
+ "related-artworks": [
+  120023358,
+  120021382,
+  120023233,
+  120023240,
+  120014380
+ ],
+ "Provenance": [
+  "Lesley and Emma Sheafer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022075"
+  }
+ }
+}

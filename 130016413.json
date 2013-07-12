@@ -1,0 +1,45 @@
+{
+ "Period": "Late Classical",
+ "Date": "ca. 360–350 B.C.",
+ "Culture": "Greek, South Italian, Paestan",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": "diameter  14 1/2in. (36.8cm)",
+ "Classification": "Vases",
+ "Credit Line": "The Bothmer Purchase Fund, 1989",
+ "Accession Number": "1989.11.4",
+ "Who": "Python",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Bells",
+  "Kraters"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Five Wares of South Italian Vase Painting",
+  "Ancient Greece, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130016413,
+ "gallery-id": 161,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP111867.jpg",
+ "related-artworks": [
+  130016057,
+  130008072,
+  130021076,
+  130001428
+ ],
+ "Description": "Obverse, Dionysos and maenad in cart drawn by Papposilenos. Reverse, two youthsThe phlyax scene shows a youthful Dionysos, god of wine, and a flute-playing companion riding a wheeled couch. The draught is provided by an old silenos wearing a fleecy costume under a fawn skin. The inscription above his head reads \"Hubris.\" The drawing and polychromy, at once fluent and disciplined, represent Python at his best.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130016413"
+  }
+ }
+}

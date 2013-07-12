@@ -1,0 +1,39 @@
+{
+ "Date": "1950s",
+ "Culture": "French",
+ "Medium": "lurex",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Purchase, Marjorie Gertrude Atkinson Bernt Bequest and Janet A. Sloane Gift Fund, 1995",
+ "Accession Number": "1995.131.3",
+ "Who": "Hermès",
+ "What": [
+  "Costume",
+  "Suits",
+  "Sports clothing",
+  "Beachwear",
+  "Bathing suits",
+  "Lurex"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80000832,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1995.131.3_F.jpg",
+ "related-artworks": [
+  80008066,
+  80116193,
+  80000342,
+  80001147,
+  80001445
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80000832"
+  }
+ }
+}

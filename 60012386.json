@@ -1,0 +1,47 @@
+{
+ "Period": "Ming dynasty (1368–1644), Jingtai period (1450–56)",
+ "Date": "dated 1454",
+ "Culture": "China",
+ "Medium": "Hanging scroll; ink and color on silk",
+ "Dimensions": [
+  "Image 54 11/16 x 30 9/16 in. (138.9 x 77.6 cm)",
+  "Overall with mounting 104 5/8 x 38 in. (265.7 x 96.5 cm)",
+  "Overall with knobs 104 5/8 x 42 1/8 in. (265.7 x 107 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Oscar L. Tang Family, 2012",
+ "Accession Number": "2012.525",
+ "Who": "Unidentified Artist",
+ "What": [
+  "Silk",
+  "Ink",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1400–1600 A.D.",
+  "Central and North Asia, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60012386,
+ "related-artworks": [
+  60000111,
+  60019542,
+  60022264,
+  60008761,
+  60000065
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60012386"
+  }
+ }
+}

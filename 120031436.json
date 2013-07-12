@@ -1,0 +1,38 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "Unknown",
+ "Dimensions": [
+  "12 x 1 1/4 inches",
+  "30.5 x 3.2 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.103.275",
+ "What": [
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Galloon"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120031436,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP5839.jpg",
+ "related-artworks": [
+  120030888,
+  120031044,
+  120031045,
+  120031056,
+  120031054
+ ],
+ "Provenance": [
+  "Samuel B. Dean (until 1908",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120031436"
+  }
+ }
+}

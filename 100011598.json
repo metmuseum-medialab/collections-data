@@ -1,0 +1,34 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1352 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Credit Line": "Gift of John L. Cadwalader, 1903",
+ "Accession Number": "O.C.1475",
+ "What": [
+  "Sculpture",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100011598,
+ "related-artworks": [
+  100000445,
+  100000637,
+  100000638,
+  100000639,
+  100000640
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100011598"
+  }
+ }
+}

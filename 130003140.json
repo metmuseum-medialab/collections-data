@@ -1,0 +1,40 @@
+{
+ "Culture": "Cypriot",
+ "Medium": "Gold",
+ "Dimensions": "Other 5/16 x 1/8 x 7/16 in. (0.8 x 0.3 x 1.2 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.3241",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130003140,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/sp74513241.jpg",
+ "related-artworks": [
+  130003053,
+  130003056,
+  130003068,
+  130003141,
+  130003254
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130003140"
+  }
+ }
+}

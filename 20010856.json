@@ -1,0 +1,44 @@
+{
+ "Date": "1887",
+ "Medium": "Oil on canvas",
+ "Dimensions": "31 1/8 x 72 1/4 in. (79.1 x 183.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of H. O. Havemeyer, 1893",
+ "Accession Number": "93.21",
+ "Who": "Samuel Colman",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "Louis Comfort Tiffany (1848–1933)",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20010856,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap93.21.jpg",
+ "related-artworks": [
+  20010852,
+  20010854,
+  20010855,
+  10010193,
+  20010853
+ ],
+ "Provenance": [
+  "the artist (until 1893",
+  "sale, Fifth Avenue Art Galleries, New York, March 29, 1893, no. 51)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20010856"
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "Object Name": "Fragment",
+ "Date": "ca. 1570–80",
+ "Geography": "Turkey, probably Istanbul",
+ "Medium": "Silk, metal wrapped thread; lampas (kemha)",
+ "Dimensions": [
+  "Textile H. 123 1/2 in. (313.7 cm)",
+  "W. 26 1/2 in. (67.3 cm)",
+  "Tube Diam. 2 1/2 in. (6.4 cm)",
+  "W. 38 1/2 in. (97.8 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1944",
+ "Accession Number": "44.41.2",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Woven",
+  "Lampas"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey",
+  "Marmara",
+  "Istanbul"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Balkan Peninsula, 1400–1600 A.D.",
+  "Balkan Peninsula, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140007812,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP168404.jpg",
+ "related-artworks": [
+  140008273,
+  140008402,
+  140008406,
+  140010217,
+  140008405
+ ],
+ "Description": "The unusual length of this silk fragment suggests that it may have been used as a furnishing fabric rather than for a garment. It bears a repeating ogival pattern in silver, blue, and gold on a red ground, with red, blue, and silver floral patterns within the ogival forms. The small red-and-white checkered motifs that fill the scrolling borders around the ogival medallions may be derived from Italian textiles, demonstrating the cultural and artistic relationship between Italy and the Ottoman Empire in the sixteenth century",
+ "Provenance": [
+  "[ Dikran G. Kelekian, New York, until 1944",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007812"
+  }
+ }
+}

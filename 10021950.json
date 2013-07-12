@@ -1,0 +1,58 @@
+{
+ "Date": "possibly 1889–91",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Ink and graphite on brown card",
+ "Dimensions": "17 1/2 x 18 in. (44.5 x 45.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Tiffany and Co., 1987",
+ "Accession Number": "1987.1047.1",
+ "Who": "Tiffany & Co.",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10021950,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP133105.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/10021786",
+  "http://scrapi.org/object/10021788",
+  "http://scrapi.org/object/10021793",
+  "http://scrapi.org/object/10021794",
+  "http://scrapi.org/object/10021795"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10021786"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10021788"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10021793"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10021794"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10021795"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10021950"
+  }
+ }
+}

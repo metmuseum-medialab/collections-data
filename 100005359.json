@@ -1,0 +1,43 @@
+{
+ "Period": "Early Dynastic Period",
+ "Dynasty": "Dynasty 2, second half",
+ "Date": "ca. 2750–2649 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Saqqara; includes the Serapeum, Tomb 2322, Quibell 1910–1911",
+ "Medium": "Egyptian alabaster",
+ "Dimensions": "H. 18 cm (7 1/16 in); diam. 26.8 cm (10 9/16 in)",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.181.27",
+ "What": [
+  "Bowls",
+  "Gypsum",
+  "Alabaster"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Saqqara"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100005359,
+ "gallery-id": 103,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs12.181.27.jpg",
+ "related-artworks": [
+  100004208,
+  100035064,
+  100004194,
+  100004210,
+  100004211
+ ],
+ "Provenance": [
+  "Excavated by James Quibell at Saqqara. Purchased by the Museum from the Egyptian Government."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100005359"
+  }
+ }
+}

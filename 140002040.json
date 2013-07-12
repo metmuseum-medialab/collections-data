@@ -1,0 +1,40 @@
+{
+ "Date": "dated A.H. 452/ A.D. 1060–61",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Gold",
+ "Dimensions": "Diam. 1 in. (2.5 cm)",
+ "Classification": "Coins",
+ "Credit Line": "Bequest of Joseph H. Durkee, 1898",
+ "Accession Number": "99.35.2401",
+ "What": [
+  "Metal",
+  "Gold",
+  "Money",
+  "Coins"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "id": 140002040,
+ "related-artworks": [
+  140015937,
+  140015627,
+  140015453,
+  140015451,
+  140015437
+ ],
+ "Provenance": [
+  "Joseph H. Durkee, New York (until d. 1898)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140002040"
+  }
+ }
+}

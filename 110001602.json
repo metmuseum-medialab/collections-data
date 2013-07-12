@@ -1,0 +1,35 @@
+{
+ "Medium": "Oil on wood",
+ "Dimensions": "Oval, 23 x 19 5/8 in. (58.4 x 49.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Alexandrine Sinsheimer, 1958",
+ "Accession Number": "59.23.17",
+ "Who": "Style of Paulus Moreelse (Dutch, ca. 1637)",
+ "What": [
+  "Paintings",
+  "Oil paint"
+ ],
+ "In the Museum": "European Paintings",
+ "MetPublications": "Search for related Met publications",
+ "id": 110001602,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP145934.jpg",
+ "related-artworks": [
+  110001602,
+  110000004,
+  110000048,
+  110000028,
+  110000059
+ ],
+ "Provenance": [
+  "Biljoen Castle (until 1918",
+  "sale, Frederik Muller, Amsterdam, May 28, 1918, no. 174, for fl. 12,100 to Preyer)",
+  "Herr A. Preyer, The Hague (1918–at least 1926)",
+  "[Knoedler, New York, ?1926–at least 1927]",
+  "Alexandrine (Mrs. A. L.) Sinsheimer, New York (until d. 1958)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001602"
+  }
+ }
+}

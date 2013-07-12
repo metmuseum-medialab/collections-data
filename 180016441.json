@@ -1,0 +1,38 @@
+{
+ "Date": "1790",
+ "Geography": "Germany",
+ "Medium": "Wood, various materials",
+ "Dimensions": "Case L. (perpendicular to keyboard) 57 cm (22-1/2 in.); W. (parallel to keyboard): 159.1 cm (62-5/8 in.); Case D. without lid: 18.2 cm (7-1/8 in.): Total H.: 81.5 cm (32-1/8 in.); 3-octave span: 48 cm (19 in.)",
+ "Classification": "Chordophone-Zither",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.3552",
+ "Who": "Johann Christoph Jaeckel  Christian Jaeckel",
+ "What": [
+  "Musical instruments",
+  "Chordophones",
+  "Zithers",
+  "Pianos"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "id": 180016441,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS1153B.jpg",
+ "related-artworks": [
+  180015708,
+  180016987,
+  180017328,
+  180017433,
+  180017240
+ ],
+ "Description": "On the makers' label beneath the soundboard, this square is called a Bandlony or \"pantaleon,\" the name given earlier to a large hammer dulcimer popularized by the virtuoso, Pantaleon Hebenstreit. Hand stops below the 5-octave keyboard control devices that modify the tone to imitate Hebenstreit's versatile dulcimer.  The stops affect bass and treble strings separately, allowing tonal contrast between left and right hands. The case exterior is veneered with oak: wood-grained paper lines the interior.  The key levers are carved like many German clavichord keys, and a compartment for equipment to the left of the ebony and bone-covered keys is also a feature of clavichord construction. This particular design was unique to the Jaeckel family in the Rhineland-Palatinate.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016441"
+  }
+ }
+}

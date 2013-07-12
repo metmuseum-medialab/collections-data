@@ -1,0 +1,60 @@
+{
+ "Date": "1946",
+ "Medium": "Film negative",
+ "Dimensions": "4 x 5 in.",
+ "Classification": "Negatives",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.254.1640",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": "Walker Evans",
+ "What": [
+  "Photographs",
+  "Negatives",
+  "Film"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Walker Evans (1903–1975)",
+  "Kodak and the Rise of Amateur Photography",
+  "Early Documentary Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190031570,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/PH7789.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/190024445",
+  "http://scrapi.org/object/190024446",
+  "http://scrapi.org/object/190024447",
+  "http://scrapi.org/object/190024449",
+  "http://scrapi.org/object/190024450"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190024445"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190024446"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190024447"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190024449"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190024450"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190031570"
+  }
+ }
+}

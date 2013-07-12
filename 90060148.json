@@ -1,0 +1,50 @@
+{
+ "Date": "1857",
+ "Medium": "Lithograph on wove paper (newsprint)",
+ "Dimensions": [
+  "sheet 10 1/16 x 14 7/16 in. (25.6 x 36.6 cm)",
+  "image 8 9/16 x 10 9/16 in. (21.8 x 26.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1936",
+ "Accession Number": "36.12.185",
+ "Who": "Honoré Daumier",
+ "What": [
+  "Prints",
+  "Paper",
+  "Planographic prints",
+  "Lithographs",
+  "Wove paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Nineteenth–Century French Realism",
+  "The Print in the Nineteenth Century",
+  "Vincent van Gogh (1853–1890) The Drawings",
+  "Lithography in the Nineteenth Century",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90060148,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP210701.jpg",
+ "related-artworks": [
+  90000157,
+  90003040,
+  90003039,
+  90027145,
+  90027139
+ ],
+ "Provenance": [
+  "Vendor: Frank Bender"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060148"
+  }
+ }
+}

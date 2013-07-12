@@ -1,0 +1,49 @@
+{
+ "Date": "1799",
+ "Medium": "Etching, burnished aquatint and drypoint on laid paper",
+ "Dimensions": [
+  "image 7 1/4 x 4 7/8 in. (18.4 x 12.4 cm)",
+  "plate 8 7/16 x 5 15/16 in. (21.4 x 15.1 cm)",
+  "sheet 11 5/8 x 8 1/4 in. (29.5 x 21 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of M. Knoedler & Co., 1918",
+ "Accession Number": "18.64",
+ "Who": "Goya (Francisco de Goya y Lucientes)",
+ "What": [
+  "Prints",
+  "Etching",
+  "Paper",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints",
+  "Aquatint",
+  "Laid paper"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90054110,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP816970.jpg",
+ "related-artworks": [
+  90000405,
+  90005540,
+  90005541,
+  90028506,
+  90028509
+ ],
+ "Provenance": [
+  "Paul J. Sachs",
+  "Donor: Knoedler and Co."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90054110"
+  }
+ }
+}

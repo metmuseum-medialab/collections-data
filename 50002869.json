@@ -1,0 +1,45 @@
+{
+ "Date": "19th–20th century",
+ "Geography": "Cameroon, Grassfields",
+ "Culture": "Cameroon",
+ "Medium": "Wood, pigment",
+ "Dimensions": "H x W x D 14 x 9 x 5 1/4in. (35.6 x 22.9 x 13.3cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Gift of Mr. and Mrs. Alan Bresler, Mr. and Mrs. Robert Bevill, Mr. and Mrs. Dale Ledbetter, and Mr. and Mrs. Gilbert Schulman, 1977",
+ "Accession Number": "1977.220.4",
+ "Who": "Cameroonian",
+ "What": [
+  "Costume",
+  "Sculpture",
+  "Masks",
+  "Ceremonial masks"
+ ],
+ "Where": [
+  "Africa",
+  "Cameroon"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central Africa, 1900 A.D.–present",
+  "Central Africa, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50002869,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1977.220.4_a.jpg",
+ "related-artworks": [
+  50006406,
+  50009318,
+  50002870,
+  50002364,
+  50002365
+ ],
+ "Provenance": [
+  "[Alfred L. Scheinberg Galleries, New York]",
+  "Bevill, Bresler & Schulman, New Jersey, until 1977"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50002869"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Publisher": "Published by Jean I Leblond (French, died Paris, 1666 )",
+ "Medium": "Etching with engraving; first state of two (Join-Lambert and Préaud)",
+ "Dimensions": "sheet 11 3/8 x 13 1/2 in. (28.9 x 34.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "26.49.21",
+ "Who": [
+  "Abraham Bosse",
+  "Jean I Leblond"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90060319,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818015.jpg",
+ "related-artworks": [
+  90018513,
+  90028434,
+  90044392,
+  90050944,
+  90059854
+ ],
+ "Provenance": [
+  "Vendor: Francisque Lefrançois, Paris"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060319"
+  }
+ }
+}

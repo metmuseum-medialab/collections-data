@@ -1,0 +1,51 @@
+{
+ "Medium": "Salted paper print from paper negaive",
+ "Dimensions": "Approx. 40.6 × 50.8 cm (16 × 20 in.)",
+ "Classification": "Photographs",
+ "Accession Number": "2013.159.1",
+ "Who": "George Wilson Bridges",
+ "What": [
+  "Prints",
+  "Photographs",
+  "Paper",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190060659,
+ "related-artworks": [
+  "http://scrapi.org/object/190060660",
+  "http://scrapi.org/object/190039901",
+  "http://scrapi.org/object/190039902",
+  "http://scrapi.org/object/190020851",
+  "http://scrapi.org/object/190039900"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190060660"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190039901"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190039902"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190020851"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190039900"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190060659"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Artist": "Francesco Bartolozzi (Italian, Florence 1728–1815 Lisbon)",
+ "Date": "April 10, 1777",
+ "Medium": "Engraving and etching",
+ "Dimensions": "sheet 18 1/2 x 13 1/4 in. (47 x 33.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Georgiana W. Sargent, in memory of John Osborne Sargent, 1924",
+ "Accession Number": "24.63.1132",
+ "Who": [
+  "Francesco Bartolozzi",
+  "Alexander Cozens"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 90050493,
+ "related-artworks": [
+  90050488,
+  90050489,
+  90050524,
+  90050492,
+  90050490
+ ],
+ "Provenance": [
+  "Donor: Georgiana W. Sargent"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050493"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Publisher": "Published by Johanne Jacobo de Legnano",
+ "Date": "1502",
+ "Medium": "Printed book with woodcut frontispiece",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1924",
+ "Accession Number": "24.20.2",
+ "Who": [
+  "Egidius Delphinis",
+  "Johanne Jacobo de Legnano"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90015950,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90003660"
+   },
+   {
+    "href": "http://scrapi.org/object/90003661"
+   },
+   {
+    "href": "http://scrapi.org/object/90004086"
+   },
+   {
+    "href": "http://scrapi.org/object/90005359"
+   },
+   {
+    "href": "http://scrapi.org/object/90005354"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90015950"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90015950"
+  }
+ }
+}

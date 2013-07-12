@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1780",
+ "Geography": "Île-de-France, Paris, France",
+ "Culture": "French, possibly",
+ "Medium": "Porcelain",
+ "Dimensions": [
+  "Cup H. 2 5/8 in. (6.7 cm); Diam. 2 5/8 in. (6.7 cm)",
+  "Saucer Diam. 5 1/8 in. (13 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Miss Edith Johnson, 1941",
+ "Accession Number": "41.127.5, .6",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Drinking vessels",
+  "Cups",
+  "Plates",
+  "Saucers"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10002875,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/262727.jpg",
+ "related-artworks": [
+  10002881,
+  10002876,
+  10002877,
+  10002878,
+  10002879
+ ],
+ "Provenance": [
+  "Miss Edith Johnson, East Hampton, Long Island, New York, until 1941."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10002875"
+  }
+ }
+}

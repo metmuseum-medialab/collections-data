@@ -1,0 +1,38 @@
+{
+ "Period": "Central Javanese period",
+ "Date": "Second half of the 8th–second half of the 10th century",
+ "Culture": "Indonesia (Java)",
+ "Medium": "Silver",
+ "Dimensions": "H. 1/8 in. (0.3 cm); Diam. 1 in. (2.5 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "The Samuel Eilenberg-Jonathan P. Rosen Collection of Indonesian Gold, Bequest of Samuel Eilenberg and Gift of Jonathan P. Rosen, 1998",
+ "Accession Number": "1998.544.363",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Jewelry"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 500–1000 A.D.",
+ "id": 60020979,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1998_544_363.JPG",
+ "related-artworks": [
+  60007290,
+  60020429,
+  60020434,
+  60020629,
+  60020689
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60020979"
+  }
+ }
+}

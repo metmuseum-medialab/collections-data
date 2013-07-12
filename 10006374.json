@@ -1,0 +1,46 @@
+{
+ "Date": "1880–95",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Porcelain",
+ "Dimensions": "Diam. 7 1/4 in. (18.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Florence I. Balasny-Barnes, in memory of her sister, Yvette B. Gould, 1984",
+ "Accession Number": "1984.443.6",
+ "Who": "Union Porcelain Works",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Plates"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10006374,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA5521.jpg",
+ "related-artworks": [
+  10003191,
+  10003193,
+  10003194,
+  10003284,
+  10003286
+ ],
+ "Provenance": [
+  "Mrs. Florence I. Balasny-Barnes, New York, until 1984"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006374"
+  }
+ }
+}

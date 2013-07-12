@@ -1,0 +1,47 @@
+{
+ "Period": "Third Intermediate Period or later",
+ "Dynasty": "Dynasty 21–25",
+ "Date": "ca. 1070–664 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Green jasper; glazed steatite",
+ "Dimensions": [
+  "L. 5/8 in.",
+  "L. 9/16 in."
+ ],
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.316",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Glazing",
+  "Chalcedony",
+  "Talc",
+  "Steatite",
+  "Jasper"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100011034,
+ "gallery-id": 130,
+ "related-artworks": [
+  100018876,
+  100000445,
+  100000637,
+  100000638,
+  100000639
+ ],
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100011034"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Publisher": "Broombridge & Sons (London)",
+ "Printer": "Fawcett (Driffield)",
+ "Date": "1869",
+ "Dimensions": "Overall 8 1/2 x 6 3/4 x 1 1/4 in. (21.6 x 17.1 x 3.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1972",
+ "Accession Number": "1972.590.2",
+ "Who": [
+  "Thomas Wright",
+  "Fawcett",
+  "Broombridge & Sons"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017366,
+ "related-artworks": [
+  90000406,
+  90020702,
+  90070036,
+  90107374,
+  120003265
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017366"
+  }
+ }
+}

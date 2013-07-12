@@ -1,0 +1,29 @@
+{
+ "Date": "1934",
+ "Classification": "Books",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.30",
+ "Who": "D. H. Lawrence",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190028785,
+ "related-artworks": [
+  190028632,
+  190028915,
+  190028911,
+  190028906,
+  190028908
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028785"
+  }
+ }
+}

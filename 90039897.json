@@ -1,0 +1,41 @@
+{
+ "Translator": "Thomas Holcroft (British, 1745–1809)",
+ "Publisher": "G. G. and J. Robinson (London)",
+ "Date": "1789",
+ "Medium": "plates engraving",
+ "Dimensions": "Vol Ioverall: 9 1/4 x 5 7/8 x 1 9/16 in. (23.5 x 15 x 4 cm)",
+ "Classification": "Books",
+ "Credit Line": "Bequest of Mary Martin, 1938",
+ "Accession Number": "38.501.1-3",
+ "Who": [
+  "G. G.  J. Robinson",
+  "Johann Caspar Lavater",
+  "Thomas Holcroft"
+ ],
+ "What": [
+  "Engraving",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90039897,
+ "related-artworks": [
+  90020769,
+  90015261,
+  90012242,
+  90070894,
+  90072805
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90039897"
+  }
+ }
+}

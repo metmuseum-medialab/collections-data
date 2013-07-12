@@ -1,0 +1,41 @@
+{
+ "Translator": "Walter Thornbury (British, London 1828–1876 London)",
+ "Illustrator": "Gustave Doré (French, Strasbourg 1832–1883 Paris)",
+ "Publisher": "Cassell, Petter and Galpin",
+ "Date": "[ca. 1868]",
+ "Dimensions": "Overall 12 5/8 x 10 1/16 x 2 3/4 in. (32 x 25.5 x 7 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Mrs. Algernon S. Sullivan, 1919",
+ "Accession Number": "19.48.8",
+ "Who": [
+  "Gustave Doré",
+  "Jean de La Fontaine",
+  "Cassell, Petter  Galpin",
+  "Walter Thornbury"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90020533,
+ "related-artworks": [
+  90002034,
+  90002476,
+  90004009,
+  90011826,
+  90015182
+ ],
+ "Provenance": [
+  "Donor: Mrs. Algernon S. Sullivan"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90020533"
+  }
+ }
+}

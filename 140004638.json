@@ -1,0 +1,42 @@
+{
+ "Object Name": "Box with lid",
+ "Date": "19th century",
+ "Geography": "Iran",
+ "Medium": "Paste-board; painted and lacquered with varnish",
+ "Dimensions": "3 7/8 x 3 1/2 x 6 in. (9.8 x 8.9 x 15.2 cm)",
+ "Classification": "Lacquer",
+ "Credit Line": "Gift of Lily S. Place, 1921",
+ "Accession Number": "21.114.18a, b",
+ "What": [
+  "Faience",
+  "Painting",
+  "Boxes",
+  "Lacquer",
+  "Lids"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran (Persia), 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140004638,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf21-114-18d.jpg",
+ "related-artworks": [
+  140013619,
+  140002420,
+  140009324,
+  140009325,
+  140001787
+ ],
+ "Provenance": [
+  "Lily S. Place, Cairo (until 1921)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004638"
+  }
+ }
+}

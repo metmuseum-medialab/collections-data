@@ -1,0 +1,40 @@
+{
+ "Period": "Early Imperial",
+ "Date": "1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": "Overall 1 7/16 x 3/4in. (3.7 x 1.9cm)",
+ "Classification": "Glass",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.161",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130000212,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP108898.jpg",
+ "related-artworks": [
+  130000053,
+  130000078,
+  130000055,
+  130000063,
+  130000057
+ ],
+ "Description": "Miniature perfume bottleTranslucent turquoise blue-green.Rim folded out, over, and in, flattened on top; long, slightly funnel-shaped neck, tooled in around base; lentoid body with tooled indents in both sides; round bottom.Intact; pinprick and a few very large bubbles; dulling and patches of iridescent weathering.",
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130000212"
+  }
+ }
+}

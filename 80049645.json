@@ -1,0 +1,36 @@
+{
+ "Date": "1930s",
+ "Culture": "French",
+ "Medium": "metal, glass",
+ "Dimensions": "Length 7 in. (17.8 cm)",
+ "Credit Line": "Gift of H. Cecilia Bailey, 1977",
+ "Accession Number": "1977.53.8",
+ "What": [
+  "Metal",
+  "Glass",
+  "Pins",
+  "Hatpins"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80049645,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.53.8.jpg",
+ "related-artworks": [
+  80107301,
+  80061809,
+  80049359,
+  80029603,
+  80029604
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80049645"
+  }
+ }
+}

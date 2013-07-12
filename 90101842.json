@@ -1,0 +1,52 @@
+{
+ "Artist": "After Jean-Michel Moreau the Younger (French, Paris 1741–1814 Paris)",
+ "Author": "Ovid (Roman, Sulmo 43 B.C.–A.D. 17 Tomis, Moesia)",
+ "Translator": "G. T. Villenave",
+ "Printer": "Pierre Didot l'ainé (French, 1761–1853)",
+ "Publisher": "Ch. Guestard (French)",
+ "Date": "published 1806–22",
+ "Medium": "Etching and engraving; second state of five (Bocher)",
+ "Dimensions": "Sheet 11 3/4 × 8 11/16 in. (29.8 × 22 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1945",
+ "Accession Number": "45.8.3",
+ "Who": [
+  "Jean-Michel Moreau the Younger",
+  "Ovid",
+  "Pierre Didot l'ainé",
+  "Ch. Guestard",
+  "F. Gay",
+  "G. T. Villenave",
+  "Robert de Launay"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Rome"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90101842,
+ "related-artworks": [
+  90101782,
+  90101803,
+  90101805,
+  90101869,
+  90101898
+ ],
+ "Provenance": [
+  "Vendor: Dr. Hugo Fuchs"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90101842"
+  }
+ }
+}

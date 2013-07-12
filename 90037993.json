@@ -1,0 +1,33 @@
+{
+ "Date": "17th century",
+ "Medium": "Pen and brown ink, brush and brown wash, over black chalk, with ruled and compass construction",
+ "Dimensions": "sheet 15 5/8 x 20 1/16 in. (39.7 x 50.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Leon Dalva Sr., 1965",
+ "Accession Number": "65.654.94",
+ "Who": "Anonymous, Italian, Piedmontese, 17th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "id": 90037993,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820545.jpg",
+ "related-artworks": [
+  90001621,
+  90001915,
+  90001983,
+  90001987,
+  90002047
+ ],
+ "Provenance": [
+  "Leon Dalva, Sr."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90037993"
+  }
+ }
+}

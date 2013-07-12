@@ -1,0 +1,40 @@
+{
+ "Period": "Ptolemaic or Roman Period",
+ "Date": "304 B.C.–A.D. 364",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Turquoise",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.8.368",
+ "What": [
+  "Amulets",
+  "Shell",
+  "Turquoise",
+  "Sea shell",
+  "Conch"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1–500A.D.",
+  "Egypt, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100028973,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs28az83.jpg",
+ "related-artworks": [
+  100013809,
+  100013887,
+  100002021,
+  100002922,
+  100003982
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100028973"
+  }
+ }
+}

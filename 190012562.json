@@ -1,0 +1,54 @@
+{
+ "Date": "1972",
+ "Medium": "Microfilm reader/printer machine print",
+ "Classification": "Photographs",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1973",
+ "Accession Number": "1973.577.2",
+ "Rights and Reproduction": "© 2005 Bill Arnold",
+ "Who": "Bill Arnold",
+ "What": [
+  "Prints",
+  "Photographs",
+  "Photomechanical reproductions",
+  "Printers",
+  "Microfilms"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190012562,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP121899.jpg",
+ "Provenance": [
+  "Bill Arnold"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190012561"
+   },
+   {
+    "href": "http://scrapi.org/object/190012563"
+   },
+   {
+    "href": "http://scrapi.org/object/190012564"
+   },
+   {
+    "href": "http://scrapi.org/object/190012785"
+   },
+   {
+    "href": "http://scrapi.org/object/190014557"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190012562"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190012562"
+  }
+ }
+}

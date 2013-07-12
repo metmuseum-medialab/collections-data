@@ -1,0 +1,58 @@
+{
+ "Date": "1929",
+ "Medium": "Film negative",
+ "Dimensions": "2 1/2 x 4 1/4 in.",
+ "Classification": "Negatives",
+ "Credit Line": "Gift of Arnold Crane, 2003",
+ "Accession Number": "2003.564.5",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": "Walker Evans",
+ "What": [
+  "Photographs",
+  "Negatives",
+  "Film"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Kodak and the Rise of Amateur Photography",
+  "Early Documentary Photography",
+  "Walker Evans (1903–1975)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190038860,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP111703.jpg",
+ "Provenance": [
+  "Arnold Crane, Chicago"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190024437"
+   },
+   {
+    "href": "http://scrapi.org/object/190024438"
+   },
+   {
+    "href": "http://scrapi.org/object/190024440"
+   },
+   {
+    "href": "http://scrapi.org/object/190024439"
+   },
+   {
+    "href": "http://scrapi.org/object/190024441"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190038860"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190038860"
+  }
+ }
+}

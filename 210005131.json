@@ -1,0 +1,54 @@
+{
+ "Date": "1980",
+ "Medium": "Graphite, watercolor and colored pencil on paper",
+ "Dimensions": [
+  "H. 9-1/2, W. 12-5/8 inches",
+  "(24.1 x 32.1 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Raphael Soyer, 1987",
+ "Accession Number": "1987.472.7",
+ "Who": "Raphael Soyer",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Graphite",
+  "Pencil",
+  "Colored pencils"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210005131,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210005127"
+   },
+   {
+    "href": "http://scrapi.org/object/210005122"
+   },
+   {
+    "href": "http://scrapi.org/object/210005126"
+   },
+   {
+    "href": "http://scrapi.org/object/210005128"
+   },
+   {
+    "href": "http://scrapi.org/object/210005129"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210005131"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210005131"
+  }
+ }
+}

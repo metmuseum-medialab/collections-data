@@ -1,0 +1,41 @@
+{
+ "Date": "1959",
+ "Medium": "Bronze",
+ "Dimensions": [
+  "Diam. 2-13/16 inches",
+  "(7.1 cm.)"
+ ],
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of the Society of Medalists, 1960",
+ "Accession Number": "60.2.1,2",
+ "Who": "Katharine Lane Weems",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009349,
+ "related-artworks": [
+  210000704,
+  210000785,
+  210000862,
+  210001153,
+  210007830
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009349"
+  }
+ }
+}

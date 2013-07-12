@@ -1,0 +1,42 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. late 17th–early 18th century",
+ "Culture": "Japan",
+ "Medium": "Underglaze blue, overglaze enamels, and gold (Arita ware)",
+ "Dimensions": "H. 3 in. (7.6 cm); Diam. 10 in. (25.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Dr. and Mrs. Roger G. Gerry Collection, Bequest of Dr. and Mrs. Roger G. Gerry, 2000",
+ "Accession Number": "2002.447.74",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Gold",
+  "Bowls",
+  "Enamels",
+  "Underglazing",
+  "Overglazing",
+  "Arita"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60019982,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2002_447_74_O1_sf.jpg",
+ "related-artworks": [
+  60034189,
+  60019975,
+  60020055,
+  60012672,
+  60023341
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60019982"
+  }
+ }
+}

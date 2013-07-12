@@ -1,0 +1,42 @@
+{
+ "Artist": "After Jean-Michel Moreau the Younger (French, Paris 1741–1814 Paris)",
+ "Publisher": "Charles Étienne Gaucher (French, Paris 1741–1804 Paris)",
+ "Date": "1782",
+ "Medium": "Etching and engraving; sixth state of seven (Bocher)",
+ "Dimensions": "Sheet 10 1/4 × 15 3/8 in. (26 × 39 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.3233",
+ "Who": [
+  "Jean-Michel Moreau the Younger",
+  "Charles Étienne Gaucher"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90100913,
+ "related-artworks": [
+  90100559,
+  90100558,
+  90100881,
+  90013298,
+  90100168
+ ],
+ "Provenance": [
+  "Vendor: Dick Estate, U.S. Trust"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90100913"
+  }
+ }
+}

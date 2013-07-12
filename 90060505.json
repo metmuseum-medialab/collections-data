@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Medium": "Graphite",
+ "Classification": "Drawings",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.816",
+ "Who": "John Flaxman",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Neoclassicism",
+  "The Neoclassical Temple",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90060505,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804210.jpg",
+ "related-artworks": [
+  90034221,
+  90034223,
+  90034225,
+  90034224,
+  90034217
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060505"
+  }
+ }
+}

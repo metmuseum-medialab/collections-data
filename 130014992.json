@@ -1,0 +1,36 @@
+{
+ "Period": "Imperial",
+ "Date": "1st–2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Marble",
+ "Dimensions": "H. 9 1/16 in. (23 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "Gift of Francis Neilson, 1942",
+ "Accession Number": "42.201.11",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Marble"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130014992,
+ "gallery-id": 162,
+ "related-artworks": [
+  130007476,
+  130007458,
+  130007466,
+  130007465,
+  130007469
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130014992"
+  }
+ }
+}

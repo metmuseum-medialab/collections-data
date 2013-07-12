@@ -1,0 +1,42 @@
+{
+ "Period": "Eastern Zhou dynasty, Warring States period (475–221 B.C.)",
+ "Date": "5th–3rd century B.C.",
+ "Culture": "China",
+ "Medium": "Bronze",
+ "Dimensions": "H. 2 3/4 in. (7 cm); W. 2 1/4 in. (5.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Ernest Erickson Foundation, 1985",
+ "Accession Number": "1985.214.82",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Plaques"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000 B.C.–1 A.D.",
+  "Central and North Asia, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60020150,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1985_214_82_tms.JPG",
+ "related-artworks": [
+  60020147,
+  60020148,
+  60020152,
+  60020149,
+  60020171
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60020150"
+  }
+ }
+}

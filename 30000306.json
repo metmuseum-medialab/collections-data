@@ -1,0 +1,44 @@
+{
+ "Period": "Achaemenid or Seleucid",
+ "Date": "ca. mid- to late 1st millennium B.C.",
+ "Geography": "Mesopotamia",
+ "Culture": "Achaemenid or Seleucid",
+ "Medium": "Clay",
+ "Dimensions": "2.87 x 3.12 in. (7.29 x 7.92 cm)",
+ "Classification": "Clay",
+ "Credit Line": "Purchase, 1886",
+ "Accession Number": "86.11.64",
+ "Who": "Achaemenid",
+ "What": [
+  "Clay",
+  "Stone",
+  "Tablets",
+  "Cuneiform"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30000306,
+ "gallery-id": 406,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/hb86_11_64b.jpg",
+ "related-artworks": [
+  30000374,
+  30000630,
+  30000642,
+  30000673,
+  30000173
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1886, purchased from the Reverend William Hayes Ward."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30000306"
+  }
+ }
+}

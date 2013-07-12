@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1870",
+ "Medium": "Black pen and ink, colored washes, and watercolor",
+ "Dimensions": "sheet 16 7/16 x 12 3/4 in. (41.8 x 32.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Emil Hirsch, 1951",
+ "Accession Number": "51.652",
+ "Who": "Dante Gabriel Rossetti",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Pre–Raphaelites",
+  "International Pictorialism",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90034619,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP805903.jpg",
+ "related-artworks": [
+  90004541,
+  90023478,
+  90043732,
+  90012108,
+  90019040
+ ],
+ "Provenance": [
+  "Donor: Emil Hirsch"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90034619"
+  }
+ }
+}

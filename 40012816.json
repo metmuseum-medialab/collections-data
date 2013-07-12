@@ -1,0 +1,32 @@
+{
+ "Date": "1400–1450",
+ "Culture": "Italian",
+ "Classification": "Armor Parts",
+ "Credit Line": "Bashford Dean Memorial Collection, Bequest of Bashford Dean, 1928",
+ "Accession Number": "29.150.90pp",
+ "What": [
+  "Costume",
+  "Armor",
+  "Body armor",
+  "Brigandines"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "id": 40012816,
+ "related-artworks": [
+  40006062,
+  40006042,
+  40012807,
+  40012813,
+  40014243
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40012816"
+  }
+ }
+}

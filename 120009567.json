@@ -1,0 +1,40 @@
+{
+ "Date": "18th century",
+ "Culture": "probably German",
+ "Medium": "Glass",
+ "Dimensions": "H. 5 3/8 in.  (13.7 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Edward Holbrook Collection, Gift of Mrs. Edward Holbrook and John S. Holbrook, 1921",
+ "Accession Number": "21.110.179",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009567,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/48574.jpg",
+ "related-artworks": [
+  120001496,
+  120001601,
+  120000135,
+  120000476,
+  120000572
+ ],
+ "Provenance": [
+  "R. H. Soden-Smith",
+  "William Biden"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009567"
+  }
+ }
+}

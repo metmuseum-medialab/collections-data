@@ -1,0 +1,34 @@
+{
+ "Date": "1886",
+ "Medium": "Oil on wood",
+ "Dimensions": "26 1/8 x 21 1/8 in. (66.4 x 53.7 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Several Gentlemen, 1886",
+ "Accession Number": "86.13",
+ "Who": "Charles Frederick Ulrich",
+ "What": [
+  "Paintings",
+  "Oil paintings"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20013218,
+ "gallery-id": 764,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap86.13.jpg",
+ "related-artworks": [
+  20005368,
+  20010361,
+  20010382,
+  20007768,
+  20010394
+ ],
+ "Provenance": [
+  "subscribers to the Second Prize Fund Exhibition: W.T. Walters, Henry Gurdon Marquand, J. Dwight Ripley, William T. Evans, et al. (1886)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20013218"
+  }
+ }
+}

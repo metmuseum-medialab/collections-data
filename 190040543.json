@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1853",
+ "Medium": "Cyanotype",
+ "Dimensions": "Image 25.3 x 20 cm (9 15/16 x 7 7/8 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 2005",
+ "Accession Number": "2005.100.557",
+ "Who": "Anna Atkins",
+ "What": [
+  "Photographs",
+  "Photograms",
+  "Cyanotypes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 190040543,
+ "related-artworks": [
+  190038775,
+  190045807,
+  190045805,
+  190045808,
+  190045809
+ ],
+ "Provenance": [
+  "(Pescheteau-Badin, Godeau et Leroy sale, April 14, 1998, lot 100)",
+  "[Hans P. Kraus, Jr., Inc.]",
+  "Gilman Paper Company Collection, New York, April 9, 1998"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190040543"
+  }
+ }
+}

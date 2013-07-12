@@ -1,0 +1,48 @@
+{
+ "Artist": "After George Morland (British, London 1763–1804 London)",
+ "Date": "1789",
+ "Medium": "Stipple engraving, printed in color à la poupée",
+ "Dimensions": [
+  "image 20 3/8 x 15 15/16 in. (51.8 x 40.5 cm)",
+  "sheet (trimmed to plate) 20 3/4 x 16 5/16 in. (52.7 x 41.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Frederick Townsend Martin, 1914",
+ "Accession Number": "14.1.21",
+ "Who": [
+  "George Morland",
+  "Thomas Gaugain"
+ ],
+ "What": [
+  "Prints",
+  "Engraving",
+  "Intaglio prints",
+  "Engravings",
+  "Stippling",
+  "Stipple engravings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90051646,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP153087.jpg",
+ "related-artworks": [
+  90051645,
+  90027198,
+  90027199,
+  90051592
+ ],
+ "Provenance": [
+  "Donor: Frederick Townsend Martin"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90051646"
+  }
+ }
+}

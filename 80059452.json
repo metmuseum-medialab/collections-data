@@ -1,0 +1,43 @@
+{
+ "Design House": "Miyake Design Studio (Japanese)",
+ "Date": "1989–90",
+ "Culture": "Japanese",
+ "Medium": "a-c) synthetic",
+ "Dimensions": [
+  "Length at CB (a) 34 1/2 in. (87.6 cm)",
+  "Length at CB (b) 25 in. (63.5 cm)",
+  "Length at CB (c) 32 1/2 in. (82.6 cm)"
+ ],
+ "Credit Line": "Gift of Muriel Kallis Newman, 2005",
+ "Accession Number": "2005.323.9a–c",
+ "Who": [
+  "Issey Miyake",
+  "Miyake Design Studio"
+ ],
+ "What": "Ensembles",
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Miyake, Kawakubo, and Yamamoto Japanese Fashion in the Twentieth Century",
+  "Japan, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80059452,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2005.323.9a–c_F2.jpg",
+ "related-artworks": [
+  80000289,
+  80000290,
+  80000398,
+  80001534,
+  80009847
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80059452"
+  }
+ }
+}

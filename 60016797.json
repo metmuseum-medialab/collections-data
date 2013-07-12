@@ -1,0 +1,50 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "late 18th–first half of the 19th century",
+ "Culture": "China",
+ "Medium": "Porcelain painted in underglaze blue and overglaze gilt",
+ "Dimensions": "H. 8 1/4 in. (21 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.1079",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Gilt",
+  "Vases",
+  "Painting",
+  "Underglazing",
+  "Overglazing"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1600–1800 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60016797,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/29716.jpg",
+ "related-artworks": [
+  60015385,
+  60018617,
+  60015983,
+  60021966,
+  60015956
+ ],
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60016797"
+  }
+ }
+}

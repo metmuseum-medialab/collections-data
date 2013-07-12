@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1500",
+ "Geography": "Made in Scandinavia (possibly Sweden)",
+ "Culture": "Scandinavian",
+ "Medium": "Wool intarsia and applique with gilt leather and linen embroidery",
+ "Dimensions": "Overall 52 3/4 x 52 3/8 in. (134 x 133 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "The Cloisters Collection, 2011",
+ "Accession Number": "2011.430",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Wool",
+  "Gilt",
+  "Linen",
+  "Leather",
+  "Embroidery"
+ ],
+ "Where": [
+  "Europe",
+  "Scandinavia"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "MetPublications": "Search for related Met publications",
+ "id": 70021867,
+ "gallery-id": 1,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/DP277385.jpg",
+ "related-artworks": [
+  70010480,
+  70006006,
+  70006096,
+  70008207,
+  70008208
+ ],
+ "Provenance": [
+  "Mrs. Aline J. M. Waller-De Vries d. 1983 , Delft (from the late 1920s or 30s)",
+  "Mr. Francois G. Waller , Delft (1983–2011)",
+  "[ Art Consult B. V. , Amsterdam (sold 2011 on behalf of Mr. Waller)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70021867"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "17th century",
+ "Culture": "French",
+ "Classification": "Knives",
+ "Credit Line": "Bequest of Alan Rutherfurd Stuyvesant, 1954",
+ "Accession Number": "54.46.31",
+ "What": "Knives",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005906,
+ "related-artworks": [
+  "http://scrapi.org/object/40001121",
+  "http://scrapi.org/object/40003430",
+  "http://scrapi.org/object/40005898",
+  "http://scrapi.org/object/40005903",
+  "http://scrapi.org/object/40005904"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40001121"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40003430"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40005898"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40005903"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40005904"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40005906"
+  }
+ }
+}

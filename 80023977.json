@@ -1,0 +1,34 @@
+{
+ "Date": "1942",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": "Length 9 1/2 in. (24.1 cm); Width: 8 1/2 in. (21.6 cm)",
+ "Credit Line": "Gift of Nettie Rosenstein Gowns, Inc., 1942",
+ "Accession Number": "42.125.11",
+ "Who": "Madame Pauline",
+ "What": [
+  "Costume",
+  "Turbans"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80023977,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/42.125.11_S.jpg",
+ "related-artworks": [
+  80045432,
+  80049146,
+  80023982,
+  80045592
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80023977"
+  }
+ }
+}

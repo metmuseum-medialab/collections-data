@@ -1,0 +1,46 @@
+{
+ "Date": "11th–late 15th century",
+ "Geography": "Peru",
+ "Culture": "Chimú or Chancay",
+ "Medium": "Silver, gilt",
+ "Dimensions": "Height 3-1/4 in. (8.3 cm)",
+ "Classification": "Metal-Containers",
+ "Credit Line": "Gift of Nathan Cummings, 1964",
+ "Accession Number": "64.228.425",
+ "Who": "Chimú",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Silver",
+  "Gilt",
+  "Bottles"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1400–1600 A.D.",
+  "Central and Southern Andes, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50001505,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs64_228_425.JPG",
+ "related-artworks": [
+  50001503,
+  50001499,
+  50001501,
+  50001506,
+  50001494
+ ],
+ "Provenance": [
+  "Bruno J. Wassermann-San Blas Collection, Buenos Aires, Argentina, acquired by 1938, until 1954",
+  "Nathan Cummings, Chicago, 1954–1964"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50001505"
+  }
+ }
+}

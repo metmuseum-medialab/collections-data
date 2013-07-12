@@ -1,0 +1,49 @@
+{
+ "Date": "1901, printed 1905",
+ "Medium": "Photogravure",
+ "Dimensions": "12.6 x 15.9 cm. (4  15/16  x 6  1/4  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of J. B. Neumann, 1958",
+ "Accession Number": "58.577.3",
+ "Who": "Alfred Stieglitz",
+ "What": [
+  "Photographs",
+  "Photomechanical reproductions",
+  "Photogravures"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Paul Strand (1890–1976)",
+  "Marcel Duchamp (1887–1968)",
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "Alfred Stieglitz (1864–1946) and American Photography",
+  "Early Documentary Photography",
+  "Georgia O'Keeffe (1887–1986)",
+  "Pictorialism in America",
+  "Group f/64",
+  "International Pictorialism",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190021880,
+ "related-artworks": [
+  190021107,
+  190021108,
+  190021110,
+  190021137,
+  190021287
+ ],
+ "Provenance": [
+  "J.B. Neumann"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190021880"
+  }
+ }
+}

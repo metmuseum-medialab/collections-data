@@ -1,0 +1,54 @@
+{
+ "Date": "1800–1940",
+ "Culture": "Indian",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of The Whole World & Co., Inc. (Miss Gretchen Green), 1940",
+ "Accession Number": "C.I.40.38",
+ "What": [
+  "Costume",
+  "Boleros"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia and the Himalayan Region, 1800–1900 A.D.",
+  "South Asia and the Himalayan Region, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80012945,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI40.38.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80008148",
+  "http://scrapi.org/object/80008136",
+  "http://scrapi.org/object/80057455",
+  "http://scrapi.org/object/80001149",
+  "http://scrapi.org/object/80002168"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80008148"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80008136"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80057455"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80001149"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80002168"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80012945"
+  }
+ }
+}

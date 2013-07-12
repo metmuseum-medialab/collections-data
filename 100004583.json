@@ -1,0 +1,45 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1352 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Granodiorite",
+ "Dimensions": "Height 91.8 cm (36 1/8 in.)",
+ "Credit Line": "Rogers Fund, 1919 (19.2.15); Fletcher Fund, 1996 (1996.362)",
+ "Accession Number": "19.2.15",
+ "What": [
+  "Sculpture",
+  "Statues",
+  "Granodiorite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100004583,
+ "gallery-id": 119,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vshapiz.jpg",
+ "related-artworks": [
+  100000776,
+  100000778,
+  100002475,
+  100002717,
+  100014317
+ ],
+ "Description": "The god's elegant features are carved in a style belonging to the reign of the pharaoh Amenhotep III (see 56.138). In his massive fist the god holds a was-scepter, signifying dominion, and in his missing right hand he would have held the ankh hieroglyph, meaning life.Though attributes or an inscription that would identify this god are missing, the statue was almost certainly one of the series of divine statues erected by Amenhotep III in his vast mortuary temple in western Thebes. These represented the congregation of the Egyptian gods in attendance at the king's 30 year festival, or heb-sed. The site of this temple is identified by the colossi of Memnon, two monumental seated statues representing the king which stood in front of the entrance pylon of the temple.Amenhotep III celebrated three Heb-sed’s and constructed a palace city for this purpose at the site of Malqata, a mile or so south of his mortuary temple. This site was excavated by the Museum’s Egyptian Expedition in the early twentieth century, and objects from these excavations are on view in galleries 119 and 121.",
+ "Provenance": [
+  "Head (19.2.15): purchased in Luxor from Yusef Hassan, 1919. Body (1996.362): ex collection Georges Halphen",
+  "sold at auction, Drouot-Richelieu, Paris, 1995 sale - Jerome Eisenburg",
+  "purchased by the Museum from Eisenburg, 1996."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100004583"
+  }
+ }
+}

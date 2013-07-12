@@ -1,0 +1,30 @@
+{
+ "Date": "1652",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "sheet 15 7/16 x 10 5/8 in. (39.2 x 27 cm)",
+  "plate 11 3/4 x 9 3/4 in. (29.9 x 24.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Lila Acheson Wallace Gift, Gifts in Memory of Jacob Bean, and various donors, 1994",
+ "Accession Number": "1994.610",
+ "Who": "Theodoor van Meerlen",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90051687,
+ "related-artworks": [
+  90051690,
+  90051689,
+  90051688
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90051687"
+  }
+ }
+}

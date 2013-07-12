@@ -1,0 +1,45 @@
+{
+ "Date": "1780–90",
+ "Geography": "Mid-Atlantic, Philadelphia, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": "L. 8 3/4 in. (22.2 cm)",
+ "Classification": "Silver",
+ "Credit Line": "Bequest of Charles Allen Munn, 1924",
+ "Accession Number": "24.109.71",
+ "Who": "Joseph Richardson Jr.",
+ "What": [
+  "Metal",
+  "Silver",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Philadelphia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10008398,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/57635.jpg",
+ "related-artworks": [
+  10002205,
+  10004787,
+  10005510,
+  10008666,
+  10007746
+ ],
+ "Provenance": [
+  "Charles Allen Munn, New York, until died 1924"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10008398"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Artist": "Bernard Baron (French, Paris 1696–1762 London)",
+ "Sitter": "Benjamin Hoadly (British, 1676–1761)",
+ "Date": "1759",
+ "Medium": "Etching and engraving; first state of two",
+ "Dimensions": "sheet 16 7/16 x 11 3/8 in. (41.8 x 28.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Georgiana W. Sargent, 1924",
+ "Accession Number": "24.63.1075",
+ "Who": [
+  "William Hogarth",
+  "Bernard Baron",
+  "Benjamin Hoadly"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Portrait Painting in England, 1600–1800",
+  "The Kilt",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90075125,
+ "related-artworks": [
+  90036163,
+  90037738,
+  90049367,
+  90049368,
+  90049369
+ ],
+ "Provenance": [
+  "Donor: Georgiana W. Sargent"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90075125"
+  }
+ }
+}

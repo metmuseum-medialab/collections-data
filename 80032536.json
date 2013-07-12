@@ -1,0 +1,57 @@
+{
+ "Date": "1800–1936",
+ "Culture": "Japanese",
+ "Medium": "leather",
+ "Dimensions": [
+  "Length 10 3/4 in. (27.3 cm)",
+  "Height 7 1/4 in. (18.4 cm)"
+ ],
+ "Credit Line": "Purchase, George C. Stone Bequest, 1936",
+ "Accession Number": "36.25.3022a, b",
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1900 A.D.–present",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 80032536,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/36.25.3022ab_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/36.25.3022ab_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/36.25.3022ab_B.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80001570"
+   },
+   {
+    "href": "http://scrapi.org/object/80020136"
+   },
+   {
+    "href": "http://scrapi.org/object/80011326"
+   },
+   {
+    "href": "http://scrapi.org/object/80008240"
+   },
+   {
+    "href": "http://scrapi.org/object/80011320"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80032536"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80032536"
+  }
+ }
+}

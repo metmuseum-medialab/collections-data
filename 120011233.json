@@ -1,0 +1,45 @@
+{
+ "Date": "late 18th century",
+ "Culture": "French, Paris",
+ "Medium": "Glass and silver",
+ "Dimensions": "H. 3 1/4 in.  (8.3 cm); W. 2 3/8 in. (6.0 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1929",
+ "Accession Number": "29.51",
+ "What": [
+  "Metal",
+  "Costume",
+  "Glass",
+  "Silver",
+  "Jewelry",
+  "Painting",
+  "Pendants"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011233,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/73208.jpg",
+ "related-artworks": [
+  120008402,
+  120012048,
+  120024133,
+  120015253,
+  120013702
+ ],
+ "Provenance": [
+  "[ French and Co., New York , 1929",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011233"
+  }
+ }
+}

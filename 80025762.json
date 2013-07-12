@@ -1,0 +1,38 @@
+{
+ "Date": "1970",
+ "Culture": "Mexican",
+ "Medium": "leather",
+ "Dimensions": "Length 14 in. (35.6 cm)",
+ "Credit Line": "Gift of Glady Whitfield Solomon, 1977",
+ "Accession Number": "1977.412.22",
+ "What": [
+  "Costume",
+  "Leather",
+  "Shorts"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America Native Peoples, 1900 A.D.–present",
+  "Mexico and Central America, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80025762,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.412.22_F.jpg",
+ "related-artworks": [
+  80025764,
+  80047977,
+  80095326,
+  80108356,
+  80001961
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80025762"
+  }
+ }
+}

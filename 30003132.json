@@ -1,0 +1,44 @@
+{
+ "Period": "Early Bronze Age III",
+ "Date": "ca. 2300–2000 B.C.",
+ "Geography": "Central Anatolia",
+ "Culture": "Hattian",
+ "Medium": "Bronze",
+ "Dimensions": "6.12 x 2.25 in. (15.54 x 5.72 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1955",
+ "Accession Number": "55.137.32",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Axes"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey",
+  "Anatolia"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Anatolia and the Caucasus, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003132,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME55_137_32.jpg",
+ "related-artworks": [
+  30003131,
+  30003107,
+  30003108,
+  30003109,
+  30003110
+ ],
+ "Provenance": [
+  "By 1953, collection of Hans von Aulock, Istanbul",
+  "acquired by the Museum in 1955, purchased from John J. Klejman, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003132"
+  }
+ }
+}

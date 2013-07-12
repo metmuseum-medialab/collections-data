@@ -1,0 +1,64 @@
+{
+ "Date": "1930",
+ "Medium": "Gelatin silver print",
+ "Dimensions": [
+  "Image 24.3 x 19.3 cm (9 9/16 x 7 5/8 in.)",
+  "Mount 45.1 x 35.3 cm (17 3/4 x 13 7/8 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, Ann Tenenbaum and Thomas H. Lee Gift, 2005",
+ "Accession Number": "2005.100.352",
+ "Rights and Reproduction": "©1981 Center for Creative Photography, Arizona Board of Regents",
+ "Who": "Edward Weston",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Group f/64",
+  "Paul Strand (1890–1976)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190039734,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP117729.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ph/original/DP117729.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP146638.jpg"
+ ],
+ "Provenance": [
+  "[Helios, Arts Inc., New York]",
+  "Gilman Paper Company Collection, New York, May 30, 1978"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190011773"
+   },
+   {
+    "href": "http://scrapi.org/object/190011774"
+   },
+   {
+    "href": "http://scrapi.org/object/190011775"
+   },
+   {
+    "href": "http://scrapi.org/object/190011776"
+   },
+   {
+    "href": "http://scrapi.org/object/190011777"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190039734"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190039734"
+  }
+ }
+}

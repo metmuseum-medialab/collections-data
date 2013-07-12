@@ -1,0 +1,40 @@
+{
+ "Date": "1968–70",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length at CB (a) 34 in. (86.4 cm)",
+  "Length at CB (b) 18 in. (45.7 cm)"
+ ],
+ "Credit Line": "Gift of Joanne T. Cummings, 1976",
+ "Accession Number": "1976.360.2a, b",
+ "Who": "Madame Grès (Alix Barton)",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Cocktail dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80024165,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1976.360.2ab_F.jpg",
+ "related-artworks": [
+  80000767,
+  80023146,
+  80024158,
+  80024161,
+  80000640
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80024165"
+  }
+ }
+}

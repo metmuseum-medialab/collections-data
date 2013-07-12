@@ -1,0 +1,51 @@
+{
+ "Date": "ca. 1916",
+ "Medium": "Graphite on paper",
+ "Dimensions": [
+  "H. 13, W. 8-1/2 inches",
+  "(33 x 21.6 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mr. and Mrs. Meyer Schapiro, 1983",
+ "Accession Number": "1983.607.34",
+ "Who": "Abraham Walkowitz",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210003104,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210002375"
+   },
+   {
+    "href": "http://scrapi.org/object/210003047"
+   },
+   {
+    "href": "http://scrapi.org/object/210003051"
+   },
+   {
+    "href": "http://scrapi.org/object/210003052"
+   },
+   {
+    "href": "http://scrapi.org/object/210003053"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210003104"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210003104"
+  }
+ }
+}

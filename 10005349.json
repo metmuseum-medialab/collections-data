@@ -1,0 +1,33 @@
+{
+ "Date": "1700–1900",
+ "Medium": "Iron",
+ "Dimensions": "Approx. 2 x 1 x 1/2 in. (5.1 x 2.5 x 1.3 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Mrs. James A. Cole, 1978",
+ "Accession Number": "1978.302.149",
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Iron",
+  "Trivets"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005349,
+ "gallery-id": 774,
+ "related-artworks": [
+  10009146,
+  10009149,
+  10009152,
+  10009133,
+  10009134
+ ],
+ "Provenance": [
+  "Mrs. James A. Cole, Pound Ridge, New York, until 1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005349"
+  }
+ }
+}

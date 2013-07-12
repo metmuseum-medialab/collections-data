@@ -1,0 +1,48 @@
+{
+ "Manufacturer": "Bianchini-Férier (French, founded Lyons, 1888)",
+ "Date": "ca. 1920",
+ "Medium": "Printed linen",
+ "Dimensions": [
+  "H. 54, W. 47 inches",
+  "(137.2 x 119.4 cm.)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Purchase, Edward C. Moore Jr. Gift, 1923",
+ "Accession Number": "23.14.1",
+ "Who": [
+  "Raoul Dufy",
+  "Bianchini-Férier"
+ ],
+ "What": [
+  "Textiles",
+  "Linen",
+  "Printing",
+  "Samples"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "French Art Deco",
+  "Paul Poiret (1879–1944)",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210007488,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/AR865.jpg",
+ "related-artworks": [
+  210007482,
+  210007493,
+  210007494,
+  210007572,
+  210007495
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210007488"
+  }
+ }
+}

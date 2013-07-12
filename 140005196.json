@@ -1,0 +1,44 @@
+{
+ "Date": "10th century",
+ "Geography": "Iran, Amul",
+ "Medium": "Earthenware",
+ "Dimensions": [
+  "H. 3 1/8 in. (7.9 cm)",
+  "Diam. 7 1/2 in. (19.1 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "26.237",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Bowls"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005196,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf26-237b.jpg",
+ "related-artworks": [
+  140003920,
+  140004601,
+  140004988,
+  140005031,
+  140006241
+ ],
+ "Provenance": [
+  "[ Demotte, Inc., Paris and New York, until 1926",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005196"
+  }
+ }
+}

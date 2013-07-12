@@ -1,0 +1,49 @@
+{
+ "Date": "19th century",
+ "Culture": "British, Birmingham (after a British original)",
+ "Medium": "Silver on base metal",
+ "Dimensions": "Overall (confirmed) H. 23 x W. 2 3/4 x D. 2 3/4 in. (58.4 x 7 x 7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Dodge Fund, 1911",
+ "Accession Number": "11.125.30",
+ "Who": "Elkington & Co.",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Arms",
+  "Printing plates",
+  "Electrotype",
+  "Clubs",
+  "Maces"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "West Midlands",
+  "Birmingham"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120006399,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF11_125_30.jpg",
+ "related-artworks": [
+  120005317,
+  120005261,
+  120000013,
+  120000043,
+  120000682
+ ],
+ "Provenance": [
+  "[ Elkington & Co. (until 1911",
+  "sold to MMA) ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006399"
+  }
+ }
+}

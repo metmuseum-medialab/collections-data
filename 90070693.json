@@ -1,0 +1,32 @@
+{
+ "Date": "1912",
+ "Medium": "Photomechanical process",
+ "Dimensions": "9 1/4 x 11 1/8 in. (23.5 x 28.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1964",
+ "Accession Number": "64.604.3bis",
+ "Who": "E. W. French Co.",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90070693,
+ "related-artworks": [
+  90017781,
+  90000871,
+  90000872,
+  90000873
+ ],
+ "Provenance": [
+  "Donor: Elisha Whittelsey Fund 1964"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90070693"
+  }
+ }
+}

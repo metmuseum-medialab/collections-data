@@ -1,0 +1,37 @@
+{
+ "Date": "1860",
+ "Medium": "Albumen silver print from paper negative",
+ "Dimensions": "13.9 x 11.0 cm. (5  1/2  x 4  5/16  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Paul F. Walter, in memory of Christopher Hemphill, 1987",
+ "Accession Number": "1987.1183.65",
+ "Who": "Alfred Capel Cure",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 190017586,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP113915.jpg",
+ "related-artworks": [
+  190017565,
+  190017587,
+  190017590,
+  190017594,
+  190017597
+ ],
+ "Provenance": [
+  "Paul F. Walter"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190017586"
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "Author": "Thomas Frederick Goodall (British, 1857–1944)",
+ "Printer": "Valentine of Dundee",
+ "Date": "1885–86",
+ "Medium": "Platinum print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Joyce F. Menschel, 2008",
+ "Accession Number": "2008.669",
+ "Who": [
+  "Peter Henry Emerson",
+  "Valentine of Dundee",
+  "Thomas Frederick Goodall"
+ ],
+ "What": [
+  "Photographs",
+  "Platinum prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "International Pictorialism",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "id": 190045260,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP206321.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190018903"
+   },
+   {
+    "href": "http://scrapi.org/object/190018904"
+   },
+   {
+    "href": "http://scrapi.org/object/190036421"
+   },
+   {
+    "href": "http://scrapi.org/object/190039974"
+   },
+   {
+    "href": "http://scrapi.org/object/190040285"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190045260"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190045260"
+  }
+ }
+}

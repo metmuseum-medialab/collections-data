@@ -1,0 +1,42 @@
+{
+ "Date": "19th and 20th century",
+ "Culture": "French, Paris",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 3 in. (76 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Louis S. Levy, 1950",
+ "Accession Number": "50.194.148",
+ "Who": "Alexis Joseph Depaulis",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1900 A.D.–present",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120027940,
+ "related-artworks": [
+  120027995,
+  120027934,
+  120027937,
+  120027990,
+  120027973
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120027940"
+  }
+ }
+}

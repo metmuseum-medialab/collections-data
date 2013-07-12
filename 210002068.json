@@ -1,0 +1,39 @@
+{
+ "Date": "1960",
+ "Medium": "Oil on paper, mounted on wood",
+ "Dimensions": [
+  "H. 27-3/4, W. 39-1/2 inches",
+  "(70.5 x 100.3 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Arthur and Carol Goldberg, 1978",
+ "Accession Number": "1978.570.1",
+ "Who": "Robert Beauchamp",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210002068,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1978.570.1.jpg",
+ "related-artworks": [
+  210006867,
+  210002015,
+  210002458,
+  210002813
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210002068"
+  }
+ }
+}

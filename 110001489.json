@@ -1,0 +1,38 @@
+{
+ "Medium": "Oil on canvas",
+ "Dimensions": "17 7/8 x 25 1/4 in. (45.4 x 64.1 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Cole J. Younger, 1985",
+ "Accession Number": "1985.88",
+ "Who": "Anton Mauve",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110001489,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/ep1985.88.bw.R.jpg",
+ "related-artworks": [
+  110001486,
+  110001487,
+  110001490,
+  110001488,
+  90006237
+ ],
+ "Provenance": [
+  "Cole J. Younger, Fairfield, Conn. (until 1985)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001489"
+  }
+ }
+}

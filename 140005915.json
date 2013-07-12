@@ -1,0 +1,75 @@
+{
+ "Object Name": "Pair of doors",
+ "Date": "9th century",
+ "Geography": "Iraq, probably Samarra; Iraq, probably Takrit",
+ "Medium": "Wood (teak); carved",
+ "Dimensions": [
+  "Left door",
+  "H. 87 3/4 in. (222.9 cm)",
+  "W. 21 in. (53.3 cm)",
+  "D. 1 1/2 in. (3.8 cm)",
+  "Right door",
+  "H. 86 1/2 in. (219.7 cm)",
+  "W. 20 1/4 in. (51.4 cm)",
+  "D.  1 1/2 in. (3.8 cm)",
+  "Wt. 165 lbs. (74.8 kg)  weight includes 31.119.1, 31.119.2 and wooden mount without plexi.   Mount is probably half of this weight."
+ ],
+ "Classification": "Wood",
+ "Credit Line": "Fletcher Fund, 1931",
+ "Accession Number": "31.119.2",
+ "What": [
+  "Wood",
+  "Doors",
+  "Teak"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Samarra"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iraq (Mesopotamia) 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005915,
+ "gallery-id": 451,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP101034.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/140005916",
+  "http://scrapi.org/object/140005917",
+  "http://scrapi.org/object/140005914",
+  "http://scrapi.org/object/140016116",
+  "http://scrapi.org/object/140004882"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/is/original/DP101034.jpg",
+  "http://images.metmuseum.org/CRDImages/is/original/DT11778.jpg"
+ ],
+ "Description": "This carved pair (with 31.119.1) of teak doors imported into Iraq from Southeast Asia is probably from a royal or domestic residence. They epitomize the Beveled style—a symmetrical, abstract, vegetal form—and were probably originally painted and highlighted with gilding. The doors are said to have been found at Takrit, but were probably originally made in Samarra, the palace city of the Abbasid caliphs for a brief time in the mid‑ninth century.",
+ "Provenance": [
+  "[ B. Cooke, Inc., Harrow on the Hill, England, until 1931",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140005916"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140005917"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140005914"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140016116"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140004882"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140005915"
+  }
+ }
+}

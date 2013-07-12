@@ -1,0 +1,42 @@
+{
+ "Period": "Neolithic Period, Buto–Merimda–Maadi",
+ "Date": "ca. 4500–4000 B.C.",
+ "Geography": "Country of Origin Egypt, Western Delta, Merimda (Beni Salama), Vienna Academy of Science 1929–30",
+ "Medium": "Flint",
+ "Dimensions": "L 8.6 cm (3 3/8 in.)",
+ "Credit Line": "Gift of Albert Rothbart, 1933",
+ "Accession Number": "33.4.31",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Flint",
+  "Axes",
+  "Adzes"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100003795,
+ "gallery-id": 101,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs33.4.27e.jpg",
+ "related-artworks": [
+  100003756,
+  100003796,
+  100003791,
+  100003792,
+  100003794
+ ],
+ "Provenance": [
+  "Excavated by Hermann Junker for the Vienna Academy of Sciences, 1929-1930. Received by the excavators in the division of finds and distributed to donors, including Albert Rothbart, 1932-33. Donated to the Museum by Rothbart, 1933."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003795"
+  }
+ }
+}

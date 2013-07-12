@@ -1,0 +1,39 @@
+{
+ "Publisher": "WPA",
+ "Date": "1937",
+ "Medium": "Lithograph",
+ "Dimensions": "sheet 15 x 21 1/8 in. (38.1 x 53.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Harris Brisbane Dick Fund, 1940",
+ "Accession Number": "40.111.1",
+ "Who": [
+  "WPA",
+  "Raymond White Skolfield"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90072381,
+ "related-artworks": [
+  90072375,
+  90072376,
+  90072382,
+  90072383,
+  90072384
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90072381"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "1922",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "20-1/2 x 16-3/4 inches",
+  "(32.7 x 42.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Reverend Dr. Richard C. Pankow, 2001",
+ "Accession Number": "2001.71",
+ "Who": "Ernst Barlach",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90010604,
+ "related-artworks": [
+  90042495,
+  90042501,
+  90042507,
+  90042510,
+  90013445
+ ],
+ "Provenance": [
+  "Donor: Reverend Dr. Richard C. Pankow"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010604"
+  }
+ }
+}

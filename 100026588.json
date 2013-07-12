@@ -1,0 +1,39 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19–20",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Medinet Habu, Palace of Ramesses III, Davis 1912",
+ "Medium": "Egyptian Alabaster and faience",
+ "Credit Line": "Gift of Theodore M. Davis, 1914",
+ "Accession Number": "14.6.11",
+ "What": [
+  "Faience",
+  "Tile",
+  "Gypsum",
+  "Alabaster"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Medinet Habu"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100026588,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs14.6.11b.jpg",
+ "related-artworks": [
+  100026583,
+  100035872,
+  100035873,
+  100035881,
+  100035876
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100026588"
+  }
+ }
+}

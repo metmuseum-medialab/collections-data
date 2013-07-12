@@ -1,0 +1,43 @@
+{
+ "Period": "Kushite Period–Saite Period",
+ "Dynasty": "Dynasty 25–26",
+ "Date": "ca. 750–525 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri",
+ "Medium": "Wood, paint, gesso",
+ "Dimensions": "H 43 cm (16 15/16 in); W: 29 cm (11 7/16)",
+ "Credit Line": "Rogers Fund, 1927",
+ "Accession Number": "27.2.5",
+ "What": [
+  "Wood",
+  "Gesso",
+  "Stelae"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008073,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs27.2.5.jpg",
+ "related-artworks": [
+  100008074,
+  100008075,
+  100008093,
+  100008095,
+  100008096
+ ],
+ "Description": "As part of the burial equipment, funerary stelae made a prayer for offerings for the maintenance of the deceased.  In addition to forms of Osiris, Re-Harakhty and Atum—as the rising and setting sun and thus connected with continued life—are particularly favored focal gods.  In contrast to stelae of the Third Intermediate Period,subdued coloring and a more standardized style are adopted in this period.Here the lady of the house Tabimut, daughter of the doorkeeper of the house of Amun Ia and the lady of the house Harhabhes,adores Re-Harakhti followed by Isis and the Four Sons of Horus. The text mentions Re-Harakhti and Atum.",
+ "Provenance": [
+  "Purchased from a Luxor dealer in 1927."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008073"
+  }
+ }
+}

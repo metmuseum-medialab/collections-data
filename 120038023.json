@@ -1,0 +1,39 @@
+{
+ "Date": "1775–1800",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Dimensions": "12 1/2 x 19 inches (31.8 x 48.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.57.149",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120038023,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/45902.jpg",
+ "related-artworks": [
+  120010267,
+  120012666,
+  120012751,
+  120013646,
+  120013696
+ ],
+ "Provenance": [
+  "Lending CollectionMme  Marié (until 1920",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120038023"
+  }
+ }
+}

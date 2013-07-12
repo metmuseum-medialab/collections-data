@@ -1,0 +1,38 @@
+{
+ "Period": "Old Babylonian",
+ "Date": "ca. 17th–16th century B.C.",
+ "Geography": "Mesopotamia",
+ "Culture": "Babylonian",
+ "Medium": "Clay",
+ "Dimensions": "5 x 4.7 x 2 cm (2 x 1 7/8 x 3/4 in.)",
+ "Classification": "Clay",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.706.4",
+ "Who": "Babylonian",
+ "What": [
+  "Clay",
+  "Tablets",
+  "Cuneiform"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 2000–1000 B.C.",
+ "id": 30007530,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/vsx706_4a.jpg",
+ "related-artworks": [
+  30000304,
+  30000327,
+  30000332,
+  30000418,
+  30000572
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30007530"
+  }
+ }
+}

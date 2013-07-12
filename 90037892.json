@@ -1,0 +1,37 @@
+{
+ "Date": "1888",
+ "Medium": "Lithography on card",
+ "Dimensions": "sheet 4 x 2 13/16 in. (10.1 x 7.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 71, p.50",
+ "Who": "Charles Zoncada",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90037892,
+ "related-artworks": [
+  90023170,
+  90045765,
+  90045770,
+  90045778,
+  90074913
+ ],
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90037892"
+  }
+ }
+}

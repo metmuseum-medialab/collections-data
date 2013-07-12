@@ -1,0 +1,42 @@
+{
+ "Date": "late 12th century",
+ "Geography": "Made in Languedoc, France",
+ "Culture": "French",
+ "Medium": "Stone",
+ "Dimensions": "Overall 5 1/8 x 9 7/8 x 9 7/8 in. (13 x 25.1 x 25.1 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Cloisters Collection, 1925",
+ "Accession Number": "25.120.1026",
+ "What": [
+  "Sculpture",
+  "Stone"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Languedoc"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011083,
+ "gallery-id": 3,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi-st-g24.jpg",
+ "related-artworks": [
+  70011062,
+  70011063,
+  70011065,
+  70011081,
+  70011084
+ ],
+ "Provenance": [
+  "From the abbey church of St.-Guilhem-le-Désert, near MontpellierGeorge Grey Barnard American, Bellefonte, Pennsylvania 1863–1938 New York , New York (until 1925)",
+  "Pierre-Yvon Verniere , Aniane, France"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011083"
+  }
+ }
+}

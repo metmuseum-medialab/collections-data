@@ -1,0 +1,56 @@
+{
+ "Date": "19th century",
+ "Geography": "Senegal or Gambia",
+ "Culture": "Madinka people",
+ "Medium": "Gourd, skin, wood, leather",
+ "Dimensions": "L. 86 cm (33-7/8 in.); W. 28 cm (11-1/16 in.); D. 14 cm (5-1/2 in.)",
+ "Classification": "Chordophone-Harp",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.493",
+ "Who": [
+  "Maninka",
+  "Senegambia - Mandinka"
+ ],
+ "What": [
+  "Leather",
+  "Musical instruments",
+  "Chordophones",
+  "Gourd",
+  "Harps"
+ ],
+ "Where": [
+  "Africa",
+  "Senegal"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Western and Central Sudan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180012856,
+ "gallery-id": 681,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS223A.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/180014828"
+   },
+   {
+    "href": "http://scrapi.org/object/180012861"
+   },
+   {
+    "href": "http://scrapi.org/object/180012908"
+   },
+   {
+    "href": "http://scrapi.org/object/180014375"
+   },
+   {
+    "href": "http://scrapi.org/object/180012894"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/180012856"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/180012856"
+  }
+ }
+}

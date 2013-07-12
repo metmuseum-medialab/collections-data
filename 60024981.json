@@ -1,0 +1,42 @@
+{
+ "Period": "Bronze and Iron Age period",
+ "Date": "500 B.C.–A.D. 300",
+ "Culture": "Thailand",
+ "Medium": "Bronze",
+ "Dimensions": "H. 1 15/16 in. (4.9 cm); Diam. 3 1/4 in. (8.3 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Samuel Eilenberg Collection, Bequest of Samuel Eilenberg, 1998",
+ "Accession Number": "2001.433.192",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Bronze",
+  "Jewelry",
+  "Bracelets"
+ ],
+ "Where": [
+  "Asia",
+  "Thailand"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1–500A.D.",
+  "Southeast Asia, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60024981,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2001_433_192_O1.jpg",
+ "related-artworks": [
+  60004611,
+  60004676,
+  60004694,
+  60004703,
+  60012149
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60024981"
+  }
+ }
+}

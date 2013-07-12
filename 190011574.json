@@ -1,0 +1,43 @@
+{
+ "Date": "1890s",
+ "Medium": "Albumen silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Museum Accession, 1970",
+ "Accession Number": "1970.759.9",
+ "Who": "Phot. X.",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190011574,
+ "Provenance": [
+  "Calo Cacaro"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190011570"
+   },
+   {
+    "href": "http://scrapi.org/object/190011572"
+   },
+   {
+    "href": "http://scrapi.org/object/190011571"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190011574"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190011574"
+  }
+ }
+}

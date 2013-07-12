@@ -1,0 +1,33 @@
+{
+ "Date": "1700-1799",
+ "Medium": "Etching and hand coloring (watercolor)",
+ "Dimensions": "Image 3 3/16 x 2 1/16 in. (8.1 x 5.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Estate of James Hazen Hyde, 1959",
+ "Accession Number": "59.654.17",
+ "What": [
+  "Prints",
+  "Etching",
+  "Watercolors"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90091016,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP274074.jpg",
+ "related-artworks": [
+  90022014,
+  90022406,
+  90042944,
+  90049936,
+  90051120
+ ],
+ "Provenance": [
+  "James Hazen Hyde (American, New York 1876–1959)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90091016"
+  }
+ }
+}

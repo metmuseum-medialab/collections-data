@@ -1,0 +1,38 @@
+{
+ "Date": "1945",
+ "Medium": "Bronze",
+ "Dimensions": [
+  "H. 20, W. 17-1/2, D. 13 inches",
+  "(50.8 x 44.5 x 33 cm.)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Benjamin D. Bernstein, 1966",
+ "Accession Number": "66.6",
+ "Who": "Charles Rudy",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009734,
+ "related-artworks": [
+  210009246,
+  210000026,
+  210000704,
+  210000713
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009734"
+  }
+ }
+}

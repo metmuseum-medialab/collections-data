@@ -1,0 +1,30 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Bornean",
+ "Classification": "Krisses",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.1235",
+ "Where": [
+  "Asia",
+  "Borneo"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1600–1800 A.D.",
+  "Southeast Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40009695,
+ "related-artworks": [
+  40006244,
+  40008565,
+  40008569,
+  40008570,
+  40008571
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40009695"
+  }
+ }
+}

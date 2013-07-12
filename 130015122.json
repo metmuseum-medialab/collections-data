@@ -1,0 +1,41 @@
+{
+ "Period": "Classical",
+ "Date": "ca. 450-400 B.C.",
+ "Culture": "Greek, Ionian",
+ "Medium": "Chalcedony, white",
+ "Dimensions": "L. 2.5 cm",
+ "Classification": "Gems",
+ "Credit Line": "Gift of Joseph Brummer, 1949",
+ "Accession Number": "49.43.6",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Chalcedony",
+  "Gems",
+  "Scaraboids"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130015122,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP142918.jpg",
+ "related-artworks": [
+  130004103,
+  130004082,
+  130004106,
+  130005599,
+  130008471
+ ],
+ "Description": "Gazelle",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130015122"
+  }
+ }
+}

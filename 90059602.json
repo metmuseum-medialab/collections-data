@@ -1,0 +1,50 @@
+{
+ "Former Attribution": "Formerly attributed to Joris Hoefnagel (Netherlandish, Antwerp 1542–1601 Vienna)",
+ "Date": "17th century (?)",
+ "Medium": "Pen and black ink, gray wash, gouache, and watercolor",
+ "Dimensions": "sheet 3 5/16 x 2 5/16 in. (8.4 x 5.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Catherine G. Curran, 2008",
+ "Accession Number": "2008.425",
+ "Who": [
+  "Anonymous, Netherlandish, 16th century",
+  "Anonymous, Dutch, 17th century",
+  "Joris Hoefnagel"
+ ],
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90059602,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800021.jpg",
+ "related-artworks": [
+  90022742,
+  90059603,
+  90059604,
+  90003051,
+  90003919
+ ],
+ "Provenance": [
+  "Vladamir Argutinsky-Dologorukov",
+  "R. W. P. de Vries, Amsterdam, March 27, 1925, part of lot 10(as by Joris Hoefnagel",
+  "to Beets)",
+  "Franz Koenigs (Cologne 1881–1941 Haarlem/Rotterdam)",
+  "Sotheby's, New York, January 23, 2001, part of lot 10(as by a Netherlandish artist of the second half of the 16th century)",
+  "Donor: Mrs. Catherine G. Curran"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90059602"
+  }
+ }
+}

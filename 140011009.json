@@ -1,0 +1,32 @@
+{
+ "Geography": "Turkey, Bergama",
+ "Classification": "Textiles",
+ "Accession Number": "59.148",
+ "What": [
+  "Textiles",
+  "Rugs",
+  "Carpets"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey",
+  "Bergama"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Islamic Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 140011009,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/wb-59.148.JPG",
+ "related-artworks": [
+  140015316,
+  140009750,
+  140009962,
+  140004732,
+  140004733
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140011009"
+  }
+ }
+}

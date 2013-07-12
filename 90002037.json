@@ -1,0 +1,41 @@
+{
+ "Printer": "Printed by Plon, E. & Cie. (French)",
+ "Publisher": "Published by Plon, E. & Cie. (French)",
+ "Date": "1880",
+ "Medium": "hand-colored wood engraving",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1970",
+ "Accession Number": "1970.565.517",
+ "Who": [
+  "Charles-Albert Arnoux Bertall",
+  "Plon, E. & Cie."
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002037,
+ "related-artworks": [
+  90002252,
+  90002255,
+  90002261,
+  90013308,
+  90013306
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002037"
+  }
+ }
+}

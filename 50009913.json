@@ -1,0 +1,43 @@
+{
+ "Date": "before 16th century",
+ "Geography": "Guatemala, Mesoamerica",
+ "Culture": "Maya (?)",
+ "Medium": "Stone",
+ "Dimensions": "Length 3-11/16 in.",
+ "Classification": "Stone-Implements",
+ "Credit Line": "Bequest of Arthur M. Bullowa, 1993",
+ "Accession Number": "1994.35.380",
+ "Who": "Maya",
+ "What": [
+  "Stone",
+  "Celts"
+ ],
+ "Where": [
+  "North and Central America",
+  "Guatemala"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Maya Area, 1000–1400 A.D.",
+  "Maya Area, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50009913,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/hz1994_35_380.jpg",
+ "related-artworks": [
+  50009774,
+  50009893,
+  50009894,
+  50009877,
+  50009879
+ ],
+ "Provenance": [
+  "[Alan Winston, New York]",
+  "Arthur M. Bullowa, New York, until (d.)1993"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50009913"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "early 20th century",
+ "Medium": "Lithograph",
+ "Dimensions": "Sheet 15 3/4 × 11 7/16 in. (40 × 29 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1934",
+ "Accession Number": "34.25.9",
+ "Who": "Alexander Brook",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90104616,
+ "related-artworks": [
+  90104588,
+  90104610,
+  90104580,
+  90104583,
+  90104586
+ ],
+ "Provenance": [
+  "Vendor: Weyhe Gallery"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104616"
+  }
+ }
+}

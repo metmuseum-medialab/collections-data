@@ -1,0 +1,46 @@
+{
+ "Publisher": "Common Council, Corporation of the City of New York",
+ "Date": "1852",
+ "Medium": "Lithograph with tint stone",
+ "Dimensions": "sheet 6 7/8 x 13 3/8 in. (17.5 x 34 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954",
+ "Accession Number": "54.90.678",
+ "Who": [
+  "David Thomas Valentine",
+  "George Hayward",
+  "Common Council, Corporation of the City of New York",
+  "Valentine's Manual"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Stone"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90062383,
+ "related-artworks": [
+  90054547,
+  90054892,
+  90057142,
+  90100177,
+  90100198
+ ],
+ "Description": "A view of Castle Garden, place of entertainment off the Battery, New York, published in \"Manual of the Corporation of the city of New York\" (known as \"Valentine's Manual\").",
+ "Provenance": [
+  "Donor: Edward W. C. Arnold"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90062383"
+  }
+ }
+}

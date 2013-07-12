@@ -1,0 +1,38 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Ivory",
+ "Dimensions": "L. 14.5 cm (5 11/16 in); w. 3 cm (1 3/16 in)",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.8.221",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Models",
+  "Traps"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100012124,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/30-8-221_side.jpg",
+ "related-artworks": [
+  100030598,
+  100000013,
+  100000127,
+  100000251,
+  100000268
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100012124"
+  }
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "Date": "1850s–1910s",
+ "Classification": "Photographs",
+ "Credit Line": "Herbert Mitchell Collection, 2007",
+ "Accession Number": "2007.457.1410–.1423",
+ "Who": "Various, American",
+ "What": [
+  "Photographs",
+  "Stereographs"
+ ],
+ "In the Museum": "Photographs",
+ "id": 190045415,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/Mitchell2007.457.1410recto.jpg",
+ "related-artworks": [
+  190042816,
+  190045355,
+  190045356,
+  190045357,
+  190045358
+ ],
+ "Provenance": [
+  "Herbert Mitchell, New York City"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190045415"
+  }
+ }
+}

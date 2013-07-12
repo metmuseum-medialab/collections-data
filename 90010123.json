@@ -1,0 +1,37 @@
+{
+ "Artist": "After Agostino Veneziano (Agostino dei Musi) (Italian, Venice ca. 1490–after 1536 Rome)",
+ "Date": "dated 1517",
+ "Medium": "Engraving",
+ "Dimensions": "6 1/8 x 4 5/8 in.  (15.6 x 11.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.50.8",
+ "Who": [
+  "Agostino Veneziano (Agostino dei Musi)",
+  "Anonymous, Italian, 16th to early 17th century"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90010123,
+ "related-artworks": [
+  90009654,
+  90010025,
+  90010062,
+  90010148,
+  90008316
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010123"
+  }
+ }
+}

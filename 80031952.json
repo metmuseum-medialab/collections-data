@@ -1,0 +1,33 @@
+{
+ "Date": "18th century",
+ "Culture": "European",
+ "Medium": "silk, metallic thread",
+ "Dimensions": "Length (top to bottom) 6 in. (15.2 cm)",
+ "Credit Line": "Purchase, Judith and Gerson Leiber Fund, 1990",
+ "Accession Number": "1990.227",
+ "What": [
+  "Silk",
+  "Bags",
+  "Pouches"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80031952,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1990.227.jpg",
+ "related-artworks": [
+  80094718,
+  80107840,
+  80107900,
+  80094709,
+  80094329
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80031952"
+  }
+ }
+}

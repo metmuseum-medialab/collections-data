@@ -1,0 +1,61 @@
+{
+ "Date": "9th–10th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware; slip covered with monochrome slip decoration under transparent greenish glaze",
+ "Dimensions": [
+  "H. 2 1/4 in (5.7 cm)",
+  "Diam. 4 13/16 in. (12.2 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.40.166",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Bowls",
+  "Slip"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140006652,
+ "Provenance": [
+  "1937, excavated at Sabz Pushan in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1938, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/140006627"
+   },
+   {
+    "href": "http://scrapi.org/object/140006625"
+   },
+   {
+    "href": "http://scrapi.org/object/140006776"
+   },
+   {
+    "href": "http://scrapi.org/object/140006827"
+   },
+   {
+    "href": "http://scrapi.org/object/140006842"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140006652"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/140006652"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 11",
+ "Reign": "reign of Mentuhotep II",
+ "Date": "ca. 2030–1640 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Tomb of Neferu or Khety (TT 319/311, MMA 31/508), MMA 1922–1923",
+ "Medium": "Limestone",
+ "Dimensions": "H. 9.5 x W. 10 cm (3 3/4 x 3 15/16 in.)",
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "26.3.355e",
+ "What": [
+  "Sculpture",
+  "Fragments",
+  "Limestone",
+  "Reliefs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 8000–2000 B.C.",
+  "Egypt, 2000–1000 B.C."
+ ],
+ "id": 100036171,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/26.3.355e_EGDP013598.jpg",
+ "related-artworks": [
+  100010569,
+  100020301,
+  100020304,
+  100020335,
+  100020336
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100036171"
+  }
+ }
+}

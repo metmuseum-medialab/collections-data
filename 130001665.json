@@ -1,0 +1,41 @@
+{
+ "Period": "Cypro-Archaic II",
+ "Date": "6th century B.C.(?)",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta; hand-made",
+ "Dimensions": "H. 5 15/15 in. (15.1 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.1644",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130001665,
+ "gallery-id": 174,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/GR710_74.51.1644.jpg",
+ "related-artworks": [
+  130001470,
+  130001551,
+  130001553,
+  130001582,
+  130001581
+ ],
+ "Description": "This exceptional group shows a foot soldier, with conical helmet and round shield, beside an archer, with bow and quiver. Summary though it may be, the piece probably reflects political realities in Archaic Cyprus, which experienced successive domination by Assyria, Egypt, and Persian between the end of the eighth and the second half of the sixth century B.C.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130001665"
+  }
+ }
+}

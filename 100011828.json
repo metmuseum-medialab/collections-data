@@ -1,0 +1,62 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18, early",
+ "Date": "ca. 1550–1425 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes",
+ "Medium": "Steatite",
+ "Dimensions": "L. 1.8 cm (11/16 in)",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1905",
+ "Accession Number": "05.3.312",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Talc",
+  "Steatite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100011828,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs05.3.312a.jpg.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/eg/original/vs05.3.312a.jpg.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/vs05.3.312.jpg.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/vs05.3.312b.jpg.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/05-3-311-322.jpg"
+ ],
+ "Provenance": [
+  "Ex collection John Ward (before 1902). Collection purchased by J. Pierpont Morgan and donated to the Museum, 1905."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100003635"
+   },
+   {
+    "href": "http://scrapi.org/object/100004341"
+   },
+   {
+    "href": "http://scrapi.org/object/100005433"
+   },
+   {
+    "href": "http://scrapi.org/object/100005596"
+   },
+   {
+    "href": "http://scrapi.org/object/100006095"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100011828"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100011828"
+  }
+ }
+}

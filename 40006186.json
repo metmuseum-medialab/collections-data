@@ -1,0 +1,62 @@
+{
+ "Date": "ca. 1525",
+ "Culture": "German, Augsburg",
+ "Medium": "Steel, embossed, etched, and gilt",
+ "Classification": "Armor for Man",
+ "Credit Line": [
+  "Backplate and rump Gift of Bashford Dean, 1924",
+  "Vambraces Mrs. Stephen V. Harkness Fund, 1926",
+  "Top lames of vambraces Bashford Dean Memorial Collection",
+  "Funds from various donors, 1929"
+ ],
+ "Accession Number": "24.179; 26.188.1, .2; 29.158.363a, b",
+ "Who": "Kolman Helmschmid",
+ "What": [
+  "Metal",
+  "Costume",
+  "Etching",
+  "Gilt",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Armor",
+  "Embossing"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Augsburg"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Arms and Armor in Renaissance Europe",
+  "The Decoration of European Armor",
+  "Fashion in European Armor",
+  "Fashion in European Armor, 1500–1600",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "id": 40006186,
+ "gallery-id": 374,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/DT771.jpg",
+ "related-artworks": [
+  40001158,
+  40000194,
+  40001082,
+  40001299,
+  40001522
+ ],
+ "Description": "This armor reproduces in steel the extravagant puffed and slashed costume of the German Landsknechte (mercenary infantry troops). The matching pieces are preserved in the Musée de l'Armée, Paris. Coming from the Radziwill armory in Nesvizh in present-day Belarus, this armor may have been made for Jerzy Herkules Radziwill (1480–1541), a powerful Polish nobleman.",
+ "Provenance": [
+  "Ex. coll., backplate and rump: Radziwill armory, Nesvizh, Belarus",
+  "Pollak and Winterwitz, Vienna",
+  "Alfred Juritzki-Warburg, Krystall-Verlag, Vienna",
+  "Bashford Dean, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40006186"
+  }
+ }
+}

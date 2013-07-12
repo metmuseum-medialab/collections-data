@@ -1,0 +1,36 @@
+{
+ "Publisher": "Published by D. Lothrop and Co. (Boston, Massachusetts)",
+ "Date": "1887",
+ "Medium": "Commercial process",
+ "Dimensions": "9 7/8 x 7 5/8 x 9/16 in. (25.1 x 19.4 x 1.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of A. Hyatt Mayor, 1967",
+ "Accession Number": "67.840.5",
+ "Who": [
+  "D. Lothrop  Co.",
+  "J. H. Bufford & Sons"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90014627,
+ "related-artworks": [
+  90014202,
+  90054631,
+  90080847,
+  90054926
+ ],
+ "Provenance": [
+  "Donor: A. Hyatt Mayor (American, 1901–1980)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90014627"
+  }
+ }
+}

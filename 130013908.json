@@ -1,0 +1,34 @@
+{
+ "Period": "Helladic",
+ "Culture": "Aegean",
+ "Medium": "Terracotta",
+ "Classification": "Vases",
+ "Credit Line": "Anonymous Gift, 1933",
+ "Accession Number": "33.138.27",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta"
+ ],
+ "Where": [
+  "Aegean Sea"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013908,
+ "related-artworks": [
+  130013896,
+  130013900,
+  130013903,
+  130013904,
+  130013905
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013908"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Date": "late 18th century",
+ "Culture": "British, probably Bristol",
+ "Medium": "Glass",
+ "Dimensions": "H. 6 in.  (15.2 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Edward Holbrook Collection, Gift of Mrs. Edward Holbrook and John S. Holbrook, 1921",
+ "Accession Number": "21.110.113",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Drinking glasses",
+  "Wine glasses"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Bristol"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009508,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/48517.jpg",
+ "related-artworks": [
+  120009509,
+  120009510,
+  120009506,
+  120009465,
+  120009507
+ ],
+ "Provenance": [
+  "R. H. Soden-Smith",
+  "William Biden"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009508"
+  }
+ }
+}

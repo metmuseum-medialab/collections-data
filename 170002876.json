@@ -1,0 +1,49 @@
+{
+ "Date": "ca. 1435–50",
+ "Culture": "South Netherlandish",
+ "Medium": "Wool warp, wool and silk wefts",
+ "Dimensions": "Overall 93 1/2 x 121in. (237.5 x 307.3cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1907",
+ "Accession Number": "07.57.1",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Wool",
+  "Tapestries"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170002876,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/DP158388.jpg",
+ "related-artworks": [
+  170002880,
+  170007737,
+  170002879,
+  170002881,
+  170002878
+ ],
+ "Provenance": [
+  "King Juan II of Spain, Alcázar of Segovia, Spain",
+  "King Enrique IV of Spain, Alcázar of Segovia, Spain (by descent)",
+  "Queen Isabel la Católica, Alcázar of Segovia, Spain (in 1503)",
+  "bequeathed to Capilla Real, Granada (possibly by 1505–sold 1871)",
+  "Mariano Fortuny Marsal (Spanish, Reus 1838–1874 Rome), Granada and Rome (1871–75)",
+  "[ Hôtel Drouot, Paris (Atelier de Fortuny, April 26-30, 1875, no. 139)]",
+  "[ Hôtel Drouot, Paris (April 23-28, 1888, nos. 613-615)]",
+  "[ Bacri Frères, Paris and New York (sold 1907 to Morgan)]",
+  "J. Pierpont Morgan, London and New York (in 1907)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170002876"
+  }
+ }
+}

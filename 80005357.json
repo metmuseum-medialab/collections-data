@@ -1,0 +1,43 @@
+{
+ "Manufacturer": "Margot, Inc. (American)",
+ "Date": "fall/winter 1955–56",
+ "Culture": "American",
+ "Medium": "wool, silk",
+ "Dimensions": [
+  "(a) Length at CB 43 1/8 in. (109.5 cm)",
+  "(b) Length at CB 15 in. (38.1 cm)"
+ ],
+ "Credit Line": "Gift of Miss Anne Fogarty, 1959",
+ "Accession Number": "C.I.59.16.6a, b",
+ "Who": [
+  "Anne Fogarty",
+  "Margot, Inc."
+ ],
+ "What": [
+  "Silk",
+  "Wool",
+  "Ensembles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80005357,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI59.16.6ab_F2.jpg",
+ "related-artworks": [
+  80017842,
+  80019024,
+  80005433,
+  80018206,
+  80017817
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80005357"
+  }
+ }
+}

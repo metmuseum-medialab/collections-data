@@ -1,0 +1,43 @@
+{
+ "Date": "1807",
+ "Medium": "Etching with drypoint; third state of four",
+ "Dimensions": [
+  "sheet 12 7/8 x 18 5/8 in. (32.7 x 47.3 cm)",
+  "plate 9 1/4 x 13 11/16 in. (23.5 x 34.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Algernon S. Sullivan, 1919",
+ "Accession Number": "19.56.63",
+ "Who": "Jean Jacques de Boissieu",
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90070193,
+ "related-artworks": [
+  90009639,
+  90070190,
+  90070537,
+  90009637,
+  90009634
+ ],
+ "Provenance": [
+  "Donor: Mrs. Algernon S. Sullivan"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90070193"
+  }
+ }
+}

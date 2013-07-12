@@ -1,0 +1,37 @@
+{
+ "Date": "19th century",
+ "Culture": "Dutch",
+ "Medium": "Walnut",
+ "Dimensions": "H. 9-1/2 in. (24.1 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "The Lesley and Emma Shaefer Collection, Bequest of Emma A. Shaefer, 1973",
+ "Accession Number": "Inst.1974.21.33",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Walnut",
+  "Planters",
+  "Jardinières"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 120025701,
+ "related-artworks": [
+  120009730,
+  120019252,
+  120021418,
+  120024729,
+  120050703
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120025701"
+  }
+ }
+}

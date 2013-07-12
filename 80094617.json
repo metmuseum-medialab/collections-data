@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1945",
+ "Culture": "American",
+ "Medium": "wool, silk",
+ "Dimensions": "5 x 14 in. (12.7 x 35.6 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Myles Friedman, 1960",
+ "Accession Number": "2009.300.1988",
+ "Who": "Saks Fifth Avenue",
+ "What": [
+  "Costume",
+  "Silk",
+  "Wool",
+  "Hats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80094617,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/60.158.43_CP3.jpg",
+ "related-artworks": [
+  80045417,
+  80045384,
+  80045723,
+  80107757,
+  80108279
+ ],
+ "Description": "The silk soutache ornament, ribbon and tassels featured on this hat lend a military feel, which could have been a way for the wearer to show support for the American soldiers during World War II. Women frequently wore elaborate millinery creations during the war years to off-set their subdued clothing, influenced by rationing, and to show support for American industry.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80094617"
+  }
+ }
+}

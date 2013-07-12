@@ -1,0 +1,43 @@
+{
+ "Date": "18th century",
+ "Culture": "Spanish",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. front 42 inches; back 53 inches (front 106.7 cm; back 134.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Frank Heap Slack, 1908",
+ "Accession Number": "08.219",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace",
+  "Skirts"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120033040,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/5548.jpg",
+ "related-artworks": [
+  120030586,
+  120037522,
+  120030886,
+  120036448,
+  120038418
+ ],
+ "Provenance": [
+  "Mrs. Frank Heap Slack (until 1908",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120033040"
+  }
+ }
+}

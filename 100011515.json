@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Stone",
+ "Dimensions": "L. 1.4 cm (9/16 in)",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1905",
+ "Accession Number": "05.3.257",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100011515,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs05.3.257b.jpg",
+ "related-artworks": [
+  100000987,
+  100001695,
+  100001717,
+  100002428,
+  100005550
+ ],
+ "Provenance": [
+  "Ex collection John Ward (before 1902). Collection purchased by J. Pierpont Morgan and donated to the Museum, 1905."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100011515"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Indian",
+ "Classification": "Shields",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.588",
+ "What": [
+  "Costume",
+  "Armor",
+  "Shields"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia and the Himalayan Region, 1800–1900 A.D.",
+  "South Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40010354,
+ "related-artworks": [
+  40010244,
+  40010240,
+  40005106,
+  40010232,
+  40010226
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40010354"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Artist": "After John Smart (British, Norfolk 1741–1811 London)",
+ "Sitter": "Sir Henry Clinton (British, 1730–1795)",
+ "Publisher": "William Dickinson (British, 1746–1823)",
+ "Date": "October 8, 1780",
+ "Medium": "Stipple engraving and etching; third state of three",
+ "Dimensions": [
+  "image 6 3/4 x 5 1/8 in. (17.1 x 13 cm)",
+  "sheet 7 5/8 x 6 3/16 in. (19.4 x 15.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.756-2301",
+ "Who": [
+  "Francesco Bartolozzi",
+  "William Dickinson",
+  "John Smart",
+  "Sir Henry Clinton",
+  "Thomas Watson"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving",
+  "Intaglio prints",
+  "Engravings",
+  "Stippling",
+  "Stipple engravings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 90050124,
+ "related-artworks": [
+  90050075,
+  90050122,
+  90050838,
+  90050851,
+  90050878
+ ],
+ "Provenance": [
+  "Donor: Harris Brisbane Dick Fund"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050124"
+  }
+ }
+}

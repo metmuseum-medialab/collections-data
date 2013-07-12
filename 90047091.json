@@ -1,0 +1,39 @@
+{
+ "Date": "1914",
+ "Medium": "Wood engraving",
+ "Dimensions": "block 2 3/4 x 3 1/4 inches (7 x 8.3 cm) sheet: 6 x 4 1/4 inches (15.2 x 10.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Museum Accession, 1962",
+ "Accession Number": "62.650.441",
+ "Who": "Rockwell Kent",
+ "What": [
+  "Prints",
+  "Engraving",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90047091,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP817715.jpg",
+ "related-artworks": [
+  90016368,
+  90028290,
+  90047068,
+  90047065,
+  90047070
+ ],
+ "Provenance": [
+  "Donor: Museum Accession"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90047091"
+  }
+ }
+}

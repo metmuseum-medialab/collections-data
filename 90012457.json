@@ -1,0 +1,33 @@
+{
+ "Publisher": "Published by Maison Quantin (Paris)",
+ "Date": "1892",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1964",
+ "Accession Number": "64.654.6.1-.12",
+ "Who": [
+  "Maison Quantin",
+  "Octave Uzanne"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012457,
+ "related-artworks": [
+  90021097,
+  90021098,
+  90026204,
+  90026205,
+  90026206
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90012457"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "1918",
+ "Medium": "Watercolor, metallic paint, and graphite on paper",
+ "Dimensions": "18 1/2 x 12 7/8 in. (47 x 32.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of William S. Lieberman, 2005",
+ "Accession Number": "2007.49.36",
+ "Who": "Sonia Delaunay",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Graphite",
+  "Metallic paint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210014287,
+ "related-artworks": [
+  210006039,
+  90015929,
+  90015930,
+  90087552,
+  90087553
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210014287"
+  }
+ }
+}

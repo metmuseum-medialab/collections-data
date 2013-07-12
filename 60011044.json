@@ -1,0 +1,37 @@
+{
+ "Culture": "Tibet",
+ "Medium": "Jadeite",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.56",
+ "What": [
+  "Fragments",
+  "Jade",
+  "Jadeite"
+ ],
+ "Where": [
+  "Asia",
+  "China",
+  "Tibet"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 60011044,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/02_18_56 Fragment.JPG",
+ "related-artworks": [
+  60011036,
+  60011038,
+  60011040,
+  60011042,
+  60011034
+ ],
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60011044"
+  }
+ }
+}

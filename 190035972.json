@@ -1,0 +1,43 @@
+{
+ "Person in photograph": "Walker Evans (American, St. Louis, Missouri 1903–1975 New Haven, Connecticut)",
+ "Date": "August 1949",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "5.6 x 5.4 cm (2 3/16 x 2 1/8 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Anonymous Gift, 1999",
+ "Accession Number": "1999.246.76",
+ "Who": [
+  "Walker Evans",
+  "Unknown, American"
+ ],
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190035972,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP49466.jpg",
+ "related-artworks": [
+  190018495,
+  190035982,
+  190035999,
+  190040532,
+  190048766
+ ],
+ "Provenance": [
+  "Walker Evans",
+  "donor"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190035972"
+  }
+ }
+}

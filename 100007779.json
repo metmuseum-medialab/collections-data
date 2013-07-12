@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "Joint reign of Hatshepsut and Thutmose III",
+ "Date": "ca. 1473–1458 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Temple of Hatshepsut, Foundation Deposit 1, 4, MMA 1923–1924",
+ "Medium": "Blue faience",
+ "Dimensions": "1.35 cm",
+ "Credit Line": "Rogers Fund, 1923",
+ "Accession Number": "23.3.200",
+ "What": [
+  "Sculpture",
+  "Faience",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100007779,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/23.3.200_EGDP010917.jpg",
+ "related-artworks": [
+  100000723,
+  100001537,
+  100002149,
+  100002151,
+  100003505
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100007779"
+  }
+ }
+}

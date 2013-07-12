@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan (Shiga)",
+ "Medium": "Hemp",
+ "Dimensions": "13 1/4 x 12 1/4 in. (33.66 x 31.11 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Seymour Fund, 1966",
+ "Accession Number": "66.122.28",
+ "What": [
+  "Textiles",
+  "Painting",
+  "Printing",
+  "Plant fiber",
+  "Hemp"
+ ],
+ "Where": [
+  "Asia",
+  "Japan",
+  "Shiga"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60044160,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/185532.jpg",
+ "related-artworks": [
+  60044145,
+  60044161,
+  60044159,
+  60044144,
+  60044146
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044160"
+  }
+ }
+}

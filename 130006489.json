@@ -1,0 +1,36 @@
+{
+ "Date": "V Century B.C.",
+ "Culture": "Etruscan",
+ "Medium": "GOLD",
+ "Dimensions": "Other 1/4 × 5/16 × 5/8 in. (0.7 × 0.8 × 1.6 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "Purchase by subscription, 1895",
+ "Accession Number": "95.15.269",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Pendants"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006489,
+ "related-artworks": [
+  130006454,
+  130011140,
+  130006450,
+  130006451,
+  130006452
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006489"
+  }
+ }
+}

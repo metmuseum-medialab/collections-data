@@ -1,0 +1,34 @@
+{
+ "Artist": "Peter Henry Emerson (British, born Cuba, 1856–1936)",
+ "Date": "1888",
+ "Medium": "Book",
+ "Classification": "Books",
+ "Credit Line": "Joyce F. Menschel Photography Library Fund, transferred from the Joyce F. Menschel Photography Library, 2012",
+ "Accession Number": "2012.267.1, .2",
+ "Who": [
+  "Peter Henry Emerson",
+  "Isaak Walton"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190056898,
+ "related-artworks": [
+  190043745,
+  190044720,
+  190018848,
+  190017714,
+  190018903
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190056898"
+  }
+ }
+}

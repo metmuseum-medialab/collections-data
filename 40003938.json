@@ -1,0 +1,34 @@
+{
+ "Date": "dated 1612",
+ "Culture": "Austrian",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Frederick C. Hewitt Fund, 1912",
+ "Accession Number": "12.141.6",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Staff weapons",
+  "Halberds"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40003938,
+ "related-artworks": [
+  40003941,
+  40010803,
+  40010897,
+  40013350,
+  40006020
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40003938"
+  }
+ }
+}

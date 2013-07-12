@@ -1,0 +1,40 @@
+{
+ "Period": "Mid–Late Imperial",
+ "Date": "2nd–3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 6 3/16 in. (15.7 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.1844",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jars"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130010725,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP107354.jpg",
+ "related-artworks": [
+  130000406,
+  130000407,
+  130000409,
+  130000410,
+  130000424
+ ],
+ "Description": "The incised grooves around the body imitate the hoops around a wooden barrel.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130010725"
+  }
+ }
+}

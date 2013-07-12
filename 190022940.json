@@ -1,0 +1,31 @@
+{
+ "Date": "1960s",
+ "Medium": "Chromogenic print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 1966",
+ "Accession Number": "66.714.10",
+ "Who": "Rudy Muller",
+ "What": [
+  "Photographs",
+  "Chromogenic prints"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190022940,
+ "related-artworks": [
+  190022939,
+  190022941,
+  190022942,
+  190022943,
+  190022944
+ ],
+ "Provenance": [
+  "Rudy Muller"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190022940"
+  }
+ }
+}

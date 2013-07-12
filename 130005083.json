@@ -1,0 +1,42 @@
+{
+ "Period": "Mid Imperial",
+ "Date": "2nd–3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": [
+  "Overall 2 1/4in. (5.7cm)",
+  "Diam. 2 13/16 x 2 3/8 in. (7.1 x 6 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.5736",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Cups"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "id": 130005083,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP203345.jpg",
+ "related-artworks": [
+  130000201,
+  130000282,
+  130000272,
+  130000274,
+  130000275
+ ],
+ "Description": "Colorless with greenish tinge.Rounded, everted rim; very narrow indented neck; uneven sides expanding downwards with slight projecting ridge at base, then turned to bottom with pointed kick at center.Intact; pinprick bubbles; pitting and brilliant iridescent weathering; some soil encrustation and limy weathering on interior.",
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130005083"
+  }
+ }
+}

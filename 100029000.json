@@ -1,0 +1,40 @@
+{
+ "Period": "Ptolemaic or Roman Period",
+ "Date": "304 B.C.–A.D. 364",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Mosaic glass",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.2560",
+ "What": [
+  "Glass",
+  "Marble",
+  "Mosaic glass"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1000 B.C.–1 A.D.",
+  "Egypt, 1–500A.D."
+ ],
+ "id": 100029000,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs28adishp.jpg",
+ "related-artworks": [
+  100028990,
+  100028992,
+  100028994,
+  100029013,
+  100028998
+ ],
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100029000"
+  }
+ }
+}

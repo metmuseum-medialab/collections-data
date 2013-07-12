@@ -1,0 +1,56 @@
+{
+ "Publisher": "Issued by American Tobacco Company",
+ "Date": "1892",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 4 1/8 × 2 1/2 in. (10.5 × 6.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 205, N109.13",
+ "Who": [
+  "W. Duke, Sons & Co.",
+  "American Tobacco Company"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90102649,
+ "Description": "Trade cards from the \"Flags and Costumes\" series (N109), issued in a set of 25 cards in 1892 to promote Honest Long Cut Tobacco, manufactured by W. Duke Sons & Co, a branch of the American Tobacco Company.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90096342"
+   },
+   {
+    "href": "http://scrapi.org/object/90098302"
+   },
+   {
+    "href": "http://scrapi.org/object/90098328"
+   },
+   {
+    "href": "http://scrapi.org/object/90098442"
+   },
+   {
+    "href": "http://scrapi.org/object/90098520"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90102649"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90102649"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "1969",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1972",
+ "Accession Number": "1972.645.3",
+ "Who": "Philip Perkis",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190012082,
+ "related-artworks": [
+  190012080,
+  190012081,
+  190012083,
+  190018101,
+  190018110
+ ],
+ "Provenance": [
+  "Philip Perkis"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190012082"
+  }
+ }
+}

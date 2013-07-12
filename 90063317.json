@@ -1,0 +1,39 @@
+{
+ "Publisher": "Published by Wiener Werkstätte",
+ "Date": "ca. 1907/8–14",
+ "Medium": "Color lithograph",
+ "Dimensions": "sheet 5 9/16 x 3 7/16 in. (14.1 x 8.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Museum Accession, transferred from the Library",
+ "Accession Number": "WW.66",
+ "Who": [
+  "Wiener Werkstätte",
+  "Moriz Jung"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "id": 90063317,
+ "related-artworks": [
+  90063215,
+  90063312,
+  90063646,
+  90063990,
+  90064010
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90063317"
+  }
+ }
+}

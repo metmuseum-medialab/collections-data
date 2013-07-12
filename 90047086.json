@@ -1,0 +1,52 @@
+{
+ "Date": "1928",
+ "Medium": "Chiaroscuro Lithograph",
+ "Dimensions": "image 14 5/8 x 19 1/4 inches (37.2 x 48.9 cm) sheet: 18 1/2 x 22 3/4 inches (47 x 57.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Miss Mabel Torrance, 1963",
+ "Accession Number": "63.694",
+ "Who": "Rockwell Kent",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90047086,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820786.jpg",
+ "Provenance": [
+  "Donor: Mabel Torrance"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90047082"
+   },
+   {
+    "href": "http://scrapi.org/object/90047060"
+   },
+   {
+    "href": "http://scrapi.org/object/90047072"
+   },
+   {
+    "href": "http://scrapi.org/object/90047073"
+   },
+   {
+    "href": "http://scrapi.org/object/90047066"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90047086"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90047086"
+  }
+ }
+}

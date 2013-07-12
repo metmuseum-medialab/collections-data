@@ -1,0 +1,45 @@
+{
+ "Date": "10th–16th century",
+ "Geography": "Colombia, Guatavita Lake region",
+ "Culture": "Muisca",
+ "Medium": "Gold",
+ "Dimensions": "H. 4 1/2 x W. 2 1/4 x D. 3/8 in. (11.4 x 5.7 x 1cm)",
+ "Classification": "Metal-Sculpture",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.530",
+ "Who": "Chibcha",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Gold",
+  "Figures"
+ ],
+ "Where": [
+  "South America",
+  "Colombia"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Northern Andes, 500–1000 A.D.",
+  "Northern Andes, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50005401,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1979.206.530.jpg",
+ "related-artworks": [
+  50002526,
+  50005905,
+  50011090,
+  50005620,
+  50005809
+ ],
+ "Provenance": [
+  "[Ralph M. Chait, New York, until 1957]",
+  "Nelson A. Rockefeller, New York, 1957, on loan to The Museum of Primitive Art, New York, 1957–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50005401"
+  }
+ }
+}

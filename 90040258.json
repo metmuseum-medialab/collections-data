@@ -1,0 +1,41 @@
+{
+ "Publisher": "Published by Ivan Pouillier (French, active 19th century)",
+ "Date": "19th century",
+ "Medium": "plates hand colored lithography",
+ "Dimensions": "14 x 11 x 3/8 in. (35.5 x 28 x 1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1932",
+ "Accession Number": "32.46.4",
+ "Who": [
+  "Eugene Louvet",
+  "P. Frick",
+  "Pingot & Pouillier",
+  "Ivan Pouillier"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90040258,
+ "related-artworks": [
+  90040253,
+  90040263,
+  90040260,
+  90040262
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90040258"
+  }
+ }
+}

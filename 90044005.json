@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1934",
+ "Medium": "Black ink over graphite",
+ "Dimensions": "sheet 13 13/16 x 16 13/16 in. (35.1 x 42.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mrs. Stuart Davis, 1981",
+ "Accession Number": "1981.1002.12",
+ "Who": "Stuart Davis",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90044005,
+ "related-artworks": [
+  90043997,
+  90044166,
+  90043996,
+  90044003,
+  90044004
+ ],
+ "Provenance": [
+  "Donor: Mrs. Stuart Davis"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90044005"
+  }
+ }
+}

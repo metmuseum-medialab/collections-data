@@ -1,0 +1,55 @@
+{
+ "Period": "Early Imperial, Julio-Claudian",
+ "Date": "1st half of 1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; cast",
+ "Dimensions": "Overall 1 1/4 x 2 in. (3.2 x 5.1 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1668",
+ "What": [
+  "Glass",
+  "Fragments"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130017552,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP21853.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/130000366",
+  "http://scrapi.org/object/130005210",
+  "http://scrapi.org/object/130005964",
+  "http://scrapi.org/object/130005966",
+  "http://scrapi.org/object/130006247"
+ ],
+ "related-images": [],
+ "Description": "Part of the flat bottom of a dish with a low base ring on the exterior. The opaque red color was very popular and appears on numerous examples of Roman cast monochrome glass. The surface often appears as a weathered green color because the copper, added to the glass to give it is vivid red color, has leeched out over time.",
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130000366"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130005210"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130005964"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130005966"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130006247"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130017552"
+  }
+ }
+}

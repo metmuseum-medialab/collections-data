@@ -1,0 +1,35 @@
+{
+ "Date": "15th–17th Century",
+ "Culture": "European",
+ "Medium": "Wood",
+ "Dimensions": "Overall 156 x 9 x 9 in. (396.2 x 22.9 x 22.9 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of Mrs. Robert W. deForest, 1932",
+ "Accession Number": "X.198.1",
+ "What": [
+  "Woodwork",
+  "Beams"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "The Cloisters",
+ "MetPublications": "Search for related Met publications",
+ "id": 70014618,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdix-198-1-2.jpg",
+ "related-artworks": [
+  70017156,
+  70006155,
+  70006003,
+  70006510,
+  70008403
+ ],
+ "Provenance": [
+  "Emily Johnston De Forest (until 1932)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70014618"
+  }
+ }
+}

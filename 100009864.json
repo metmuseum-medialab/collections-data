@@ -1,0 +1,59 @@
+{
+ "Period": "Roman Period",
+ "Date": "30 B.C.–A.D. 364",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Copper alloy",
+ "Dimensions": "L. 9.6 x W. 1.4 x Th. 0.4 cm",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.2.9",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Copper"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1000 B.C.–1 A.D.",
+  "Egypt, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100009864,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/25.2.9_EGDP010555.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/100000188",
+  "http://scrapi.org/object/100000291",
+  "http://scrapi.org/object/100000269",
+  "http://scrapi.org/object/100000309",
+  "http://scrapi.org/object/100000342"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/eg/original/25.2.9_EGDP010555.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/25.2.9_EGDP010556.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000188"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000291"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000269"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000309"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000342"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100009864"
+  }
+ }
+}

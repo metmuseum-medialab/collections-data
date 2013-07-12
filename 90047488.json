@@ -1,0 +1,59 @@
+{
+ "Publisher": "Published by Pierre Mariette (French, 1596–1657)",
+ "Date": "ca. 1641",
+ "Medium": "Etching, state ii",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest,  1917",
+ "Accession Number": "17.50.17-247",
+ "Who": [
+  "Stefano della Bella",
+  "Pierre Mariette"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Printed Image in the West History and Techniques",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90047488,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP817237.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90047615",
+  "http://scrapi.org/object/90049304",
+  "http://scrapi.org/object/90049391",
+  "http://scrapi.org/object/90049452",
+  "http://scrapi.org/object/90049460"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90047615"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90049304"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90049391"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90049452"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90049460"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90047488"
+  }
+ }
+}

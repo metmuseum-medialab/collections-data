@@ -1,0 +1,42 @@
+{
+ "Date": "May 1865",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "Approx. 3 3/4 x 4 1/2",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Museum Purchase, 2005",
+ "Accession Number": "2005.100.1195",
+ "Who": "Alexander Gardner",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photography and the Civil War, 1861–1865",
+  "Carleton Watkins (1829–1916) and the West 1860s–1870s",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "id": 190049075,
+ "related-artworks": [
+  190011347,
+  190011348,
+  190011346,
+  190011351,
+  190011352
+ ],
+ "Provenance": [
+  "Frederick Hill Meserve Collection",
+  "[Paul Katz, North Bennington, Vermont, March 29, 1984]",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190049075"
+  }
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "Date": "1646–47",
+ "Culture": "British, London",
+ "Medium": "Silver gilt",
+ "Dimensions": "Overall (confirmed) H. 14 x W. 9 1/4 x D. 7 1/4 in., 58 oz.  18 dwt. (35.6 x 23.5 x 18.4 cm, 1.832kg)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1968",
+ "Accession Number": "68.141.201",
+ "Who": "Richard Blackwell II",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Flagons"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020758,
+ "gallery-id": 510,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP268438.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/DP268438.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP268439.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP268435.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP266970.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP268440.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP266972.jpg"
+ ],
+ "Description": "These wine flagons bear the mark of a silversmith who supplied many prominent Royalist and high-church clients during the turbulent period of the Civil War. For the sensitively chased floral ornament here, he must have employed a Dutch or Netherlandish artist.",
+ "Provenance": [
+  "Shroton Church, Dorset (until 1960)",
+  "[ Sotheby's, London , June 30, 1960, no. 101 ]",
+  "[ S. J. Phillips",
+  "sold to Untermyer, January 18, 1963 ]",
+  "Irwin Untermyer (1963–68; to MMA)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120020757"
+   },
+   {
+    "href": "http://scrapi.org/object/120020683"
+   },
+   {
+    "href": "http://scrapi.org/object/120020707"
+   },
+   {
+    "href": "http://scrapi.org/object/120058928"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120020758"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120020758"
+  }
+ }
+}

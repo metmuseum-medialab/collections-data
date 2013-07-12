@@ -1,0 +1,35 @@
+{
+ "Date": "1630–40",
+ "Culture": "British",
+ "Medium": "leather",
+ "Dimensions": "Length at CB 28 1/2 in. (72.4 cm)",
+ "Credit Line": "Gift of Mary Alice Dykman Dean (Mrs. Bashford Dean), 1950",
+ "Accession Number": "C.I.50.98.3",
+ "What": [
+  "Costume",
+  "Leather",
+  "Coats"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80002714,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI50.98.jpg",
+ "related-artworks": [
+  80030010,
+  80025701,
+  80064387,
+  80064464,
+  80100222
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002714"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "January 1788",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock-printed book, 2 vols.",
+ "Dimensions": "10 1/2 x 7 7/32 in. (26.7 x 18.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "JP1056",
+ "Who": "Kitagawa Utamaro",
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Printing"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japonisme",
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60001399,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP135561.jpg",
+ "related-artworks": [
+  60001378,
+  60001389,
+  60001386,
+  60001392,
+  60001387
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60001399"
+  }
+ }
+}

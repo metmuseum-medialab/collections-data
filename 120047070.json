@@ -1,0 +1,57 @@
+{
+ "Date": "ca. 1890",
+ "Culture": "British",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 13 x W. 12 inches",
+  "33.0 x 30.5 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Everfast Industries Inc., 1971",
+ "Accession Number": "1971.270.42",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120047070,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/198699.jpg",
+ "Provenance": [
+  "Everfast Fabrics Inc. (until 1971)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120039593"
+   },
+   {
+    "href": "http://scrapi.org/object/120039683"
+   },
+   {
+    "href": "http://scrapi.org/object/120039886"
+   },
+   {
+    "href": "http://scrapi.org/object/120041613"
+   },
+   {
+    "href": "http://scrapi.org/object/120041625"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120047070"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120047070"
+  }
+ }
+}

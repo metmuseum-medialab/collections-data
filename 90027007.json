@@ -1,0 +1,37 @@
+{
+ "Date": "1766",
+ "Medium": "plates etching",
+ "Dimensions": "18 1/4 x 23 in. (46.4 x 58.4 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1953",
+ "Accession Number": "53.599.1bis",
+ "Who": "George Stubbs",
+ "What": [
+  "Etching",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 90027007,
+ "related-artworks": [
+  90010926,
+  90010918,
+  90010919,
+  90015764,
+  90067067
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90027007"
+  }
+ }
+}

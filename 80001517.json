@@ -1,0 +1,41 @@
+{
+ "Date": "1960–79",
+ "Culture": "American",
+ "Medium": "synthetic",
+ "Dimensions": "Length at CB 59 in. (149.9 cm)",
+ "Credit Line": "Gift of Mrs. Anne Markley Spivak, 1994",
+ "Accession Number": "1994.279.8",
+ "Who": "Halston",
+ "What": [
+  "Costume",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "American Ingenuity Sportswear, 1930s–1970s",
+  "Classical Art and Modern Dress",
+  "The Chiton, Peplos, and Himation in Modern Dress",
+  "Classicism in Modern Dress",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80001517,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DT3716.jpg",
+ "related-artworks": [
+  80000153,
+  80000371,
+  80000372,
+  80000377,
+  80000386
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001517"
+  }
+ }
+}

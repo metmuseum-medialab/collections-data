@@ -1,0 +1,43 @@
+{
+ "Date": "n.d.",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "sheet 10 3/16 x 7 3/8 in. (25.8 x 18.7 cm)",
+  "mount 12 11/16 x 9 7/16 in. (32.2 x 24 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.66",
+ "Who": "Hendrick Goltzius",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Rediscovery of Classical Antiquity",
+  "Hendrick Goltzius (1558–1617)",
+  "Dutch and Flemish Artists in Rome, 1500–1600",
+  "Low Countries, 1400–1600 A.D.",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90073265,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821020.jpg",
+ "related-artworks": [
+  90000413,
+  90000414,
+  90000415,
+  90001882,
+  90003573
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90073265"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Artist": "After Jacopo Tintoretto (Jacopo Robusti) (Italian, Venice 1519–1594 Venice)",
+ "Date": "ca. 1873",
+ "Medium": "Graphite on off-white wove paper",
+ "Dimensions": "6 15/16 x 4 in. (17.6 x 10.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mrs. Francis Ormond, 1950",
+ "Accession Number": "50.130.154e recto",
+ "Who": [
+  "John Singer Sargent",
+  "Jacopo Tintoretto (Jacopo Robusti)"
+ ],
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite",
+  "Wove paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "America Comes of Age 1876–1900",
+  "American Impressionism",
+  "Nineteenth–Century American Drawings",
+  "John Singer Sargent (1856–1925)",
+  "Americans in Paris, 1860–1900",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20012570,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/217634.jpg",
+ "related-artworks": [
+  20001895,
+  20012468,
+  20012628,
+  20012629,
+  20012712
+ ],
+ "Provenance": [
+  "the artist, until d. 1925",
+  "his sisters, Mrs. Francis Ormond (Violet Sargent) and Miss Emily Sargent, until 1936 (Emily Sargent's death)",
+  "Mrs. Francis Ormond, until 1950"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20012570"
+  }
+ }
+}

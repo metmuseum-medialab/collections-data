@@ -1,0 +1,44 @@
+{
+ "Date": "5th–4th century B.C.",
+ "Culture": "Northwest China and southwestern Inner Mongolia",
+ "Medium": "Bronze",
+ "Dimensions": "H. 4 1/4 in. (10.8 cm); L. 5 1/4 in. (13.3 cm); W. (betw. ears) 1 5/8 in. (4.1 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mr. and Mrs. Eugene V. Thaw, 2002",
+ "Accession Number": "2002.201.50",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Chariots",
+  "Yokes"
+ ],
+ "Where": [
+  "Asia",
+  "China",
+  "Inner Mongolia"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1000 B.C.–1 A.D.",
+  "China, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60030739,
+ "gallery-id": 207,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2002_201_50_O1.jpg",
+ "related-artworks": [
+  60030741,
+  60023121,
+  60030707,
+  60030730,
+  60030732
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030739"
+  }
+ }
+}

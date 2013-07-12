@@ -1,0 +1,38 @@
+{
+ "Date": "18th century",
+ "Culture": "Balkan",
+ "Classification": "Firearms",
+ "Credit Line": "The Collection of Giovanni P. Morosini, presented by his daughter Giulia, 1932",
+ "Accession Number": "32.75.108",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Locks",
+  "Small arms",
+  "Artillery",
+  "Flintlocks",
+  "Snaphances",
+  "Long guns",
+  "Shotguns",
+  "Blunderbusses"
+ ],
+ "Where": [
+  "Europe",
+  "Balkan Peninsula"
+ ],
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40010742,
+ "related-artworks": [
+  40009012,
+  40011233,
+  40009058,
+  40003133,
+  40010872
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40010742"
+  }
+ }
+}

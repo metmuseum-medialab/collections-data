@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1976",
+ "Culture": "American",
+ "Medium": "synthetic, metal",
+ "Dimensions": "Length at CB 44 in. (111.8 cm)",
+ "Credit Line": "Gift of Harold Koda and Alan Kornberg, 2013",
+ "Accession Number": "2013.192",
+ "Who": "Halston",
+ "What": [
+  "Metal",
+  "Costume",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "American Ingenuity Sportswear, 1930s–1970s",
+  "Classicism in Modern Dress",
+  "Classical Art and Modern Dress",
+  "The Chiton, Peplos, and Himation in Modern Dress",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80128193,
+ "related-artworks": [
+  80000039,
+  80000153,
+  80000371,
+  80000372,
+  80000386
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80128193"
+  }
+ }
+}

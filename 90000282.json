@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1812–20",
+ "Medium": "Brush and brown wash on laid paper",
+ "Dimensions": "Sheet 8-1/16 x 5-11/16 in. (20.5 x 14.5cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1935",
+ "Accession Number": "35.103.37",
+ "Who": "Goya (Francisco de Goya y Lucientes)",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Laid paper"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90000282,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800219.jpg",
+ "related-artworks": [
+  90000266,
+  90000274,
+  90000275,
+  90000288,
+  90000264
+ ],
+ "Provenance": [
+  "Javier Goya y Bayeu (Spanish)(1928)",
+  "Mariano Goya y Goicoechea (Spanish)(1854)",
+  "Federico de Madrazo y Küntz (Spanish, Rome 1815–1894 Madrid)(ca. 1855-60)",
+  "Mariano Fortuny y Madrazo (Venice, 1894–1935), Venice (1894)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90000282"
+  }
+ }
+}

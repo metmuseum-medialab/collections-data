@@ -1,0 +1,44 @@
+{
+ "Date": "1822",
+ "Geography": "Mid-Atlantic, New York, United States",
+ "Culture": "American",
+ "Medium": "Cotton embroidered with cotton thread",
+ "Dimensions": "Including fringe 96 1/2 x 85 1/4 in. (245.1 x 216.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1946",
+ "Accession Number": "46.125",
+ "Who": "Catharine Woolsey",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Needlework",
+  "Embroidery",
+  "Bed coverings",
+  "Bedcovers",
+  "Coverlets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10014006,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/137182.jpg",
+ "related-artworks": [
+  10014000,
+  10013991,
+  10013977,
+  10014018,
+  10013976
+ ],
+ "Description": "This whitework coverlet is made of two panels of ribbed cotton that are seamed at the center. It is embroidered with heavy white cotton thread in stem, back, and running stitches, French knots, and tufting. The central ground is embroidered with equally spaced flowers and floral sprigs, and there is a swag-and-tassel border. The piece is fringed on three sides.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014006"
+  }
+ }
+}

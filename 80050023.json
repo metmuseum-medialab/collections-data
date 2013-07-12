@@ -1,0 +1,36 @@
+{
+ "Date": "1790–1800",
+ "Culture": "French",
+ "Medium": "leather, metal",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Purchase, Irene Lewisohn Bequest, 1970",
+ "Accession Number": "1970.161.4",
+ "What": [
+  "Metal",
+  "Costume",
+  "Leather",
+  "Bags",
+  "Purses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80050023,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1970.161.4.jpg",
+ "related-artworks": [
+  80000276,
+  80005310,
+  80006710,
+  80006711,
+  80020104
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80050023"
+  }
+ }
+}

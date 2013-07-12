@@ -1,0 +1,44 @@
+{
+ "Artist": "After Edward Francis Burney (British, Worcester 1760–1848 London)",
+ "Sitter": "Portrait of George Frederick Handel (German, 1685–1759)",
+ "Date": "January 8, 1785",
+ "Medium": "Etching and engraving, printed in brown ink",
+ "Dimensions": "sheet 8 1/2 x 6 9/16 in. (21.6 x 16.7 cm) (clipped impression)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.2704",
+ "Who": [
+  "Francesco Bartolozzi",
+  "Edward Francis Burney",
+  "George Frederick Handel"
+ ],
+ "What": [
+  "Prints",
+  "Ink",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 90050141,
+ "related-artworks": [
+  90050678,
+  90050075,
+  90050088,
+  90050132,
+  90050198
+ ],
+ "Provenance": [
+  "Donor: Harris Brisbane Dick Fund"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050141"
+  }
+ }
+}

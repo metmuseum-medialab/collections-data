@@ -1,0 +1,34 @@
+{
+ "Date": "18th century",
+ "Culture": "American or European",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. J. C. Hawthorne, 1946",
+ "Accession Number": "C.I.46.82.9",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hoods",
+  "Calashes"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80049701,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI46.82.9_S.jpg",
+ "related-artworks": [
+  80031878,
+  80049164,
+  80049614,
+  80095618,
+  80106910
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80049701"
+  }
+ }
+}

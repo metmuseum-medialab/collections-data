@@ -1,0 +1,48 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 11",
+ "Date": "ca. 2051–1981 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Temple of Mentuhotep II, North Triangular Court, Pit 20, Temple platform, MMA 1922–23",
+ "Medium": "Gold (sheet), twine",
+ "Dimensions": "11.2 cm long",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.3.254b",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Bracelets",
+  "Cord",
+  "Twine"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 2000–1000 B.C.",
+  "Egypt, 8000–2000 B.C."
+ ],
+ "id": 100034954,
+ "gallery-id": 105,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs25.3.254.jpg",
+ "related-artworks": [
+  100001738,
+  100000354,
+  100050408,
+  100001617,
+  100000445
+ ],
+ "Provenance": [
+  "Museum excavations 1922–23. Acquired by the Museum in the division of finds, 1925."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100034954"
+  }
+ }
+}

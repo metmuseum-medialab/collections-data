@@ -1,0 +1,41 @@
+{
+ "Date": "14th–15th century",
+ "Geography": "Egypt",
+ "Medium": "Earthenware",
+ "Classification": "Ceramics",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "x.393",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Tile"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1000–1400 A.D.",
+  "Egypt, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140000075,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf-x-393a.jpg",
+ "related-artworks": [
+  140000050,
+  140000049,
+  140001575,
+  140002324,
+  140002329
+ ],
+ "Provenance": [
+  "Acquired by Museum by 1962"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140000075"
+  }
+ }
+}

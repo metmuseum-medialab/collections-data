@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Culture": "British (after a Russian original)",
+ "Medium": "Silver on base metal",
+ "Dimensions": "H. 10 in. (25.4 cm.); L. with chair 42 in. (106.7 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Henry G. Marquand, 1883",
+ "Accession Number": "83.18.153",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Printing plates",
+  "Electrotype",
+  "Censers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000796,
+ "related-artworks": [
+  120000795,
+  120000003,
+  120000011,
+  120000715,
+  120000683
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000796"
+  }
+ }
+}

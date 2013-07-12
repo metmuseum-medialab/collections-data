@@ -1,0 +1,35 @@
+{
+ "Date": "1601",
+ "Medium": "Engraving",
+ "Dimensions": "13 3/8 x 19 11/16 in.  (34 x 50 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Georgiana W. Sargent, in memory of John Osborne Sargent, 1924",
+ "Accession Number": "24.63.2026",
+ "Who": "Francesco Villamena",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "id": 90009613,
+ "related-artworks": [
+  90009533,
+  90009534,
+  90009535,
+  90009536,
+  90009537
+ ],
+ "Provenance": [
+  "Donor: Georgiana W. Sargent"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90009613"
+  }
+ }
+}

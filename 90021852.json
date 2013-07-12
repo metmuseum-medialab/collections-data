@@ -1,0 +1,50 @@
+{
+ "Editor": "Henry Charles Beeching (British, London 1859–1919 Norwich)",
+ "Artist": "Etchings, mezzotints, copper engravings by William Hyde (British, active from 1889, died 1925)",
+ "Publisher": "Astolat Press (Guildford, Surrey)",
+ "Date": "1904",
+ "Medium": "Etching, mezzotint, copper engraving",
+ "Dimensions": "Overall 13 5/16 x 10 9/16 x 1 1/16 in. (33.8 x 26.8 x 2.7 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1966",
+ "Accession Number": "66.540.40",
+ "Who": [
+  "John Milton",
+  "William Hyde",
+  "Astolat Press",
+  "Henry Charles Beeching"
+ ],
+ "What": [
+  "Prints",
+  "Metal",
+  "Etching",
+  "Engraving",
+  "Books",
+  "Copper",
+  "Intaglio prints",
+  "Engravings",
+  "Mezzotints",
+  "Copper engravings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021852,
+ "related-artworks": [
+  90000202,
+  90000338,
+  90047181,
+  90002606,
+  90014846
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021852"
+  }
+ }
+}

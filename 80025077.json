@@ -1,0 +1,37 @@
+{
+ "Date": "1932",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 144 in. (365.8 cm)",
+ "Credit Line": "Gift of Toni Frissell Bacon, 1974",
+ "Accession Number": "1974.81.5",
+ "Who": "Elizabeth Hawes",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Wedding dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80025077,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1974.81.5.JPG",
+ "related-artworks": [
+  80097244,
+  80002913,
+  80006156,
+  80017717,
+  80093537
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80025077"
+  }
+ }
+}

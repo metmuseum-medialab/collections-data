@@ -1,0 +1,40 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Colored lacquer, gold, and ceramic on natural wood",
+ "Dimensions": "H. 10 3/4 in. (27.3 cm); L. 17 3/4 in. (45.1 cm); W. 10 1/4 in. (26 cm)",
+ "Classification": "Lacquer",
+ "Credit Line": "The Howard Mansfield Collection, Purchase, Rogers Fund, 1936",
+ "Accession Number": "36.100.145a, b",
+ "Who": "Mochizuki Hanzan",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Gold",
+  "Furniture",
+  "Lacquer",
+  "Case furniture",
+  "Chests"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60029131,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/36_100_145ab_O.JPG",
+ "related-artworks": [
+  60012571,
+  60030127,
+  60024721
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029131"
+  }
+ }
+}

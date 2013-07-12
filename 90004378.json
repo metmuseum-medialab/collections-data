@@ -1,0 +1,68 @@
+{
+ "Date": "ca. 1810–12",
+ "Medium": "Graphite on wove paper",
+ "Dimensions": "7 11/16 x 14 3/4 in.  (19.6 x 37.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.125.2",
+ "Who": "Jean-Auguste-Dominique Ingres",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite",
+  "Wove paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Legacy of Jacques–Louis David (1748–1825)",
+  "Romanticism",
+  "Islamic Carpets in European Paintings",
+  "Nineteenth–Century Classical Music",
+  "Orientalism in Nineteenth–Century Art",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90004378,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP806766.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90004478",
+  "http://scrapi.org/object/90038834",
+  "http://scrapi.org/object/90083989",
+  "http://scrapi.org/object/90083990",
+  "http://scrapi.org/object/90083991"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Jacques Édouard Gatteaux (French, Paris 1788–1881 Paris)",
+  "Édouard Dubufe",
+  "François Flameng (French, Paris 1856–1923 Paris),his sale Paris 5/26-7,1919 lot 126",
+  "Vendor: Jacques Seligmann and Co., New York"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90004478"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90038834"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90083989"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90083990"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90083991"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90004378"
+  }
+ }
+}

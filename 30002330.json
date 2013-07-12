@@ -1,0 +1,43 @@
+{
+ "Period": "Chalcolithic–Early Bronze Age",
+ "Date": "5th–3rd millennium B.C.",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Ceramic",
+ "Dimensions": "3.31 x 0.47 in. (8.41 x 1.19 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.40.358",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Fragments",
+  "Sherds"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30002330,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME38_40_358.jpg",
+ "related-artworks": [
+  30002285,
+  30002287,
+  30002288,
+  30002289,
+  30002281
+ ],
+ "Provenance": [
+  "1937, excavated by the Metropolitan Museum of Art’s Iranian Expedition under a concession granted by the Council of Ministers, Iran, upon the recommendation of the Ministry of Education of Iran",
+  "title transferred to the Metropolitan Museum of Art pursuant to the concession."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30002330"
+  }
+ }
+}

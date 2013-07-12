@@ -1,0 +1,45 @@
+{
+ "Artist": "After an ivory relief attributed to Jacob Auer (Austrian, 1645–1706)",
+ "Date": "1752",
+ "Medium": "Etching and engraving",
+ "Dimensions": "Sheet 6 5/8 × 3 5/8 in. (16.8 × 9.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Robert Hartshorne, 1924",
+ "Accession Number": "24.33",
+ "Who": [
+  "Charles Dominique Joseph Eisen",
+  "Madame la Marquise de Pompadour",
+  "Jacob Auer"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90099456,
+ "related-artworks": [
+  90099166,
+  90099363,
+  90099381,
+  90099429,
+  90099399
+ ],
+ "Provenance": [
+  "Mary Baroness Currie (British, Beauport Park 1843–1905 Harrogate)",
+  "Margaret Warrender",
+  "Donor: Robert Hartshorne (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90099456"
+  }
+ }
+}

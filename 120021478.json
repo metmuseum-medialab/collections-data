@@ -1,0 +1,57 @@
+{
+ "Date": "ca. 1560",
+ "Culture": "British",
+ "Medium": "Oak",
+ "Dimensions": "25-7/8 x 22-1/2 x 19-3/4 in.  (65.7 x 57.1 x 50.2 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Bequest of Irwin Untermyer, 1973",
+ "Accession Number": "1974.28.22",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Oak",
+  "Tables"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021478,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/203487.jpg",
+ "Provenance": [
+  "Francis Cecil Millar (before 1928–66; sale, Christie's, London, February 17, 1966, no . 35)",
+  "[ Christie's, London (in 1972; sale, July 27, 1972, lot 126) ]"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120021012"
+   },
+   {
+    "href": "http://scrapi.org/object/120015803"
+   },
+   {
+    "href": "http://scrapi.org/object/120025573"
+   },
+   {
+    "href": "http://scrapi.org/object/120019418"
+   },
+   {
+    "href": "http://scrapi.org/object/120009811"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120021478"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120021478"
+  }
+ }
+}

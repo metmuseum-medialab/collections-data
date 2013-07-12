@@ -1,0 +1,43 @@
+{
+ "Date": "1759–80",
+ "Culture": "French (Strasbourg)",
+ "Medium": "Earthenware",
+ "Dimensions": "Diameter 9 1/2 in. (24.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Morris Hawkes, 1924",
+ "Accession Number": "24.214.3",
+ "Who": "Joseph Hannong",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Plates"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Alsace",
+  "Strasbourg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009972,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES8448.jpg",
+ "related-artworks": [
+  120016000,
+  120025582,
+  120025581
+ ],
+ "Provenance": [
+  "Mrs. Morris Hawkes (until 1924",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009972"
+  }
+ }
+}

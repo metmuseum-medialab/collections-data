@@ -1,0 +1,50 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "dated 1901",
+ "Culture": "China",
+ "Medium": "Hanging scroll; ink on paper",
+ "Dimensions": "34 3/8 x 15 3/4 in. (87.3 x 40 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1986",
+ "Accession Number": "1986.267.75",
+ "Who": "Weng Tonghe",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60000259,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60000186"
+   },
+   {
+    "href": "http://scrapi.org/object/60020134"
+   },
+   {
+    "href": "http://scrapi.org/object/60000355"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60000259"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60000259"
+  }
+ }
+}

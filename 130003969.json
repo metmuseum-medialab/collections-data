@@ -1,0 +1,39 @@
+{
+ "Date": "1st century B.C.–3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Gold",
+ "Dimensions": "Other 9/16 x 5/8 x 1/4 in. (1.4 x 1.6 x 0.7 cm)",
+ "Classification": "Gems",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.4086",
+ "What": [
+  "Metal",
+  "Gold",
+  "Gems",
+  "Rings"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Italian Peninsula, 1–500A.D.",
+  "Italian Peninsula, 1000 B.C.–1 A.D."
+ ],
+ "id": 130003969,
+ "related-artworks": [
+  130003973,
+  130003983,
+  130003976,
+  130003978,
+  130003986
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130003969"
+  }
+ }
+}

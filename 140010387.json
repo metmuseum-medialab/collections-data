@@ -1,0 +1,44 @@
+{
+ "Object Name": "Playing card",
+ "Date": "second half 19th century",
+ "Geography": "Iran",
+ "Medium": "Paper, paint, lacquer, and gold",
+ "Dimensions": [
+  "H. 2 1/8 in. (5.4 cm)",
+  "W. 1 1/2 in. (3.8 cm)"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "Gift of Ruth Blumka, 1980",
+ "Accession Number": "1980.229.19",
+ "What": [
+  "Metal",
+  "Paper",
+  "Gold",
+  "Manuscripts",
+  "Lacquer",
+  "Codices",
+  "Playing cards"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran (Persia), 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140010387,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf1980-229-19.jpg",
+ "related-artworks": [
+  140010386,
+  140010388,
+  140010371,
+  140010393,
+  140010389
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010387"
+  }
+ }
+}

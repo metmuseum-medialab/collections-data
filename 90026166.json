@@ -1,0 +1,40 @@
+{
+ "Manufacturer": "F. A. Sinclair (Syracuse, New York)",
+ "Date": "1892",
+ "Medium": "Lithography",
+ "Dimensions": "8 11/16 x 5 3/8 in. (22 x 13.7 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1952",
+ "Accession Number": "52.573.2",
+ "Who": [
+  "F. A. Sinclair",
+  "Union Chair Works"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90026166,
+ "related-artworks": [
+  90011651,
+  90012121,
+  90015218,
+  90017859,
+  90018519
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026166"
+  }
+ }
+}

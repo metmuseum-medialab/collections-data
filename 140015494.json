@@ -1,0 +1,45 @@
+{
+ "Reign": "Nuh ibn Mansur (976–97)",
+ "Date": "976–97",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Silver",
+ "Classification": "Coins",
+ "Credit Line": "Rogers Fund, 1939",
+ "Accession Number": "39.40.127.70",
+ "What": [
+  "Metal",
+  "Silver",
+  "Money",
+  "Coins"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 500–1000 A.D.",
+  "Iran, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140015494,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/39.40.127.70a.JPG",
+ "related-artworks": [
+  140015465,
+  140015461,
+  140015471,
+  140015476,
+  140015497
+ ],
+ "Provenance": [
+  "Purchased from Hajji Luftullah in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1939, accessioned by the Museum"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140015494"
+  }
+ }
+}

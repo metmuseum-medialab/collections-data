@@ -1,0 +1,50 @@
+{
+ "Date": "1933",
+ "Medium": "Woodcut",
+ "Dimensions": [
+  "Block 5 9/16 × 9 1/16 in. (14.1 × 23 cm)",
+  "Sheet 9 × 12 in. (22.8 × 30.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Accession Number": "55.553.36",
+ "Who": "Olin Dows",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90106845,
+ "Provenance": [
+  "Donor: The Society of American Graphic Artists"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90080919"
+   },
+   {
+    "href": "http://scrapi.org/object/90003450"
+   },
+   {
+    "href": "http://scrapi.org/object/90006818"
+   },
+   {
+    "href": "http://scrapi.org/object/90007346"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90106845"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90106845"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "1785–90",
+ "Culture": "British, Etruria, Staffordshire",
+ "Medium": "Jasperware",
+ "Dimensions": "H. 14 in.  (35.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.101.2a, b",
+ "Who": "Josiah Wedgwood  Sons",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Vases",
+  "Pedestals"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120006066,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP104597.jpg",
+ "related-artworks": [
+  120011915,
+  120005786,
+  120006065,
+  120011905,
+  120058337
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006066"
+  }
+ }
+}

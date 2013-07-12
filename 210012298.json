@@ -1,0 +1,38 @@
+{
+ "Date": "1930",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "Sheet (sight) 8 1/2 x 11 3/4 in.  (21.6 x 29.8 cm)",
+  "Image 7 1/4 x 10 in."
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Reba and Dave Williams, 1999",
+ "Accession Number": "1999.529.146",
+ "Who": "Albert A. Smith",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 210012298,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/1999529146.jpg",
+ "related-artworks": [
+  210012294,
+  210012295,
+  210012296,
+  210012429,
+  210012297
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210012298"
+  }
+ }
+}

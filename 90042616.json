@@ -1,0 +1,51 @@
+{
+ "Author": "Written by Giorgio Agricola (German, 1494–1555)",
+ "Illustrator": "Illustrated by Bernard Salomon (French, ca. 1508–ca. 1561)",
+ "Publisher": "Published by Jean de Tournes (French, 1504–1564)",
+ "Date": "1552",
+ "Medium": "Printed book with woodcut illustrations",
+ "Dimensions": "Overall 9 13/16 x 6 1/2 x 1 7/16 in. (25 x 16.5 x 3.6 cm)",
+ "Classification": "Books",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.100.505",
+ "Who": [
+  "Marcus Pollio Vitruvius",
+  "Guillaume Philander",
+  "Jean de Tournes",
+  "Bernard Salomon",
+  "Giorgio Agricola"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90042616,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/sf41_100_505-cover_spinedtl01.JPG",
+ "related-artworks": [
+  90038911,
+  90038962,
+  90039570,
+  90039577,
+  90042615
+ ],
+ "Provenance": [
+  "William Gedney Beatty",
+  "Olin Lane Merriam"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90042616"
+  }
+ }
+}

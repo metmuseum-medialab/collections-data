@@ -1,0 +1,35 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "Unknown",
+ "Dimensions": "10 x 2 1/2 inches (25.4 x 6.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.103.169",
+ "What": [
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Fringe"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120031329,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP5582.jpg",
+ "related-artworks": [
+  120031078,
+  120031293,
+  120031294,
+  120031318,
+  120031327
+ ],
+ "Provenance": [
+  "Samuel B. Dean (until 1908",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120031329"
+  }
+ }
+}

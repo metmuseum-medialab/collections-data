@@ -1,0 +1,34 @@
+{
+ "Date": "1505",
+ "Medium": "Woodcut",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.2380",
+ "Who": "Hans Baldung (called Hans Baldung Grien)",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "id": 90091282,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP826527.jpg",
+ "related-artworks": [
+  90003224,
+  90003227,
+  90005841,
+  90010381,
+  90010382
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90091282"
+  }
+ }
+}

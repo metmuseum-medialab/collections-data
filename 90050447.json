@@ -1,0 +1,44 @@
+{
+ "Artist": "After Giovanni Battista Cipriani (Italian, Florence 1727–1785 Hammersmith (active London))",
+ "Author": "Written by Thomas Hollis (British, London 1720–1774)",
+ "Date": "March 20, 1780",
+ "Medium": "Etching and engraving; fifth state of five",
+ "Dimensions": [
+  "plate 12 1/8 x 9 1/16 in. (30.8 x 23 cm)",
+  "sheet 13 3/4 x 10 7/16 in. (34.9 x 26.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.533",
+ "Who": [
+  "Francesco Bartolozzi",
+  "Giovanni Battista Cipriani",
+  "Thomas Hollis"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90050447,
+ "related-artworks": [
+  90027966,
+  90050122,
+  90050124,
+  90050129,
+  90050132
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050447"
+  }
+ }
+}

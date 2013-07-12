@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1800",
+ "Geography": "China",
+ "Culture": "Chinese, for American market",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 4 7/8 in. (12.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Elizabeth Hazard and Marion H. McVitty, in memory of their mother, Mrs. Lauriston H. Hazard, 1960",
+ "Accession Number": "60.111.31",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Drinking vessels",
+  "Cups",
+  "Mugs"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10005525,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/171554.jpg",
+ "related-artworks": [
+  10005447,
+  10005446,
+  10005456,
+  10002159,
+  10002160
+ ],
+ "Provenance": [
+  "Elizabeth Hazard and Marion H. McVitty, Westport, Connecticut, until 1960"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005525"
+  }
+ }
+}

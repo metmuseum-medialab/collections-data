@@ -1,0 +1,45 @@
+{
+ "Date": "18th century",
+ "Culture": "Italian",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 44 1/2 x W. 27 inches (113.0 x 68.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Alan L. Wolfe, 1956",
+ "Accession Number": "56.84.5",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Vestments",
+  "Chasubles"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120045589,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/161271.jpg",
+ "related-artworks": [
+  120013067,
+  120039084,
+  120044002,
+  120044118,
+  120044976
+ ],
+ "Provenance": [
+  "Alan L. Wolfe (until 1956",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120045589"
+  }
+ }
+}

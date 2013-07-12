@@ -1,0 +1,50 @@
+{
+ "Date": "1850–1874",
+ "Medium": "Pen and black ink",
+ "Dimensions": "sheet 6 3/4 x 8 1/2 in. (17.1 x 21.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of William Brewster, 1923",
+ "Accession Number": "23.112.1714",
+ "Who": "Brewster & Co.",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90053418,
+ "Provenance": [
+  "Donor: William Brewster"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90034786"
+   },
+   {
+    "href": "http://scrapi.org/object/90034787"
+   },
+   {
+    "href": "http://scrapi.org/object/90034789"
+   },
+   {
+    "href": "http://scrapi.org/object/90034790"
+   },
+   {
+    "href": "http://scrapi.org/object/90043305"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90053418"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90053418"
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "Date": "late 19th–20th century",
+ "Medium": "Photomechanical process",
+ "Dimensions": "6 1/4 x 3 1/2 in. (15.9 x 8.9 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.609.18",
+ "Who": "Edison Co.",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90016834,
+ "related-artworks": [
+  90016833,
+  90000871,
+  90000872,
+  90000873
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90016834"
+  }
+ }
+}

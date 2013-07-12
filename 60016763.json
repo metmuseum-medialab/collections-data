@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "Culture": "China",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 6 5/8 in. (16.8 cm); Diam. 8 1/2 in. (21.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Edmund C. Converse, 1921",
+ "Accession Number": "21.175.28a, b",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Pots",
+  "Brushes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60016763,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/49220.jpg",
+ "related-artworks": [
+  60048576,
+  60015971,
+  60015850,
+  60015947,
+  60016117
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60016763"
+  }
+ }
+}

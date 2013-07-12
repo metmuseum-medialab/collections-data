@@ -1,0 +1,45 @@
+{
+ "Date": "15th century",
+ "Culture": "Italian (?)",
+ "Medium": "Iron",
+ "Dimensions": "Overall 54 in. (137.2 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "The Cloisters Collection, 1938",
+ "Accession Number": "38.168.3",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Lighting devices",
+  "Candleholders",
+  "Candlesticks"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011735,
+ "gallery-id": 1,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi38-168-3.jpg",
+ "related-artworks": [
+  70011736,
+  70012141,
+  70012172,
+  70012173,
+  70012285
+ ],
+ "Provenance": [
+  "[ Brummer Gallery , Paris and New York (sold 1938)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011735"
+  }
+ }
+}

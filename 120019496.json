@@ -1,0 +1,49 @@
+{
+ "Date": "ca. 1780",
+ "Culture": "British",
+ "Medium": "Mahogany and satinwood veneer, parcel gilt and inset with marble",
+ "Dimensions": "9 x 11-1/2 x 6-1/2 in.  (22.9 x 29.2 x 16.5 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.1191",
+ "What": [
+  "Gilt",
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Marble",
+  "Mahogany",
+  "Case furniture",
+  "Chests",
+  "Veneer",
+  "Satinwood",
+  "Tea chests"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120019496,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/194806.jpg",
+ "related-artworks": [
+  120019495,
+  120025668,
+  120017608,
+  120025671,
+  120019455
+ ],
+ "Provenance": [
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019496"
+  }
+ }
+}

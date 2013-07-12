@@ -1,0 +1,49 @@
+{
+ "Date": "10th–15th century",
+ "Geography": "Peru",
+ "Culture": "Peru; central coast (?)",
+ "Medium": "Camelid hair, cotton",
+ "Dimensions": [
+  "Overall 5 1/2 x 28 in. (13.97 x 71.12 cm)",
+  "Other 5 1/2 in. (13.97 cm)"
+ ],
+ "Classification": "Textiles-Woven",
+ "Credit Line": "Gift of George D. Pratt, 1933",
+ "Accession Number": "33.149.97",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Cotton",
+  "Woven",
+  "Hair",
+  "Borders",
+  "Camelidae"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1400–1600 A.D.",
+  "Central and Southern Andes, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50000684,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/97552.jpg",
+ "related-artworks": [
+  50000036,
+  50000536,
+  50000580,
+  50000608,
+  50000617
+ ],
+ "Provenance": [
+  "George D. Pratt, Glen Cove, N.Y., until 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000684"
+  }
+ }
+}

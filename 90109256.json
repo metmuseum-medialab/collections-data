@@ -1,0 +1,43 @@
+{
+ "Artist": "possibly by Andries Stock (Netherlandish, 1572/82–after 1648)",
+ "Medium": "Engraving and etching",
+ "Dimensions": [
+  "Sheet 4 7/8 × 7 3/8 in. (12.4 × 18.8 cm)",
+  "Plate 4 3/8 × 7 in. (11.1 × 17.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.885-7",
+ "Who": [
+  "Jacques de Gheyn II",
+  "Andries Stock"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 90109256,
+ "related-artworks": [
+  90109232,
+  90109236,
+  90109238,
+  90109276,
+  90109230
+ ],
+ "Provenance": [
+  "Vendor: Dick Estate, U.S. Trust"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90109256"
+  }
+ }
+}

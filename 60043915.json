@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911), Guangxu period (1875–1908)",
+ "Date": "20th century",
+ "Culture": "China",
+ "Medium": "Silk",
+ "Dimensions": "57 3/4 x 80 in. (146.69 x 203.20 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Gift of Mrs. Willis Wood, 1956",
+ "Accession Number": "56.92.2",
+ "What": [
+  "Costume",
+  "Silk",
+  "Needlework",
+  "Embroidery",
+  "Robes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043915,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/161430.jpg",
+ "related-artworks": [
+  60042557,
+  60042558,
+  60042561,
+  60042640,
+  60043122
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043915"
+  }
+ }
+}

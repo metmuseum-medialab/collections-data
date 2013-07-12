@@ -1,0 +1,44 @@
+{
+ "Date": "15th–19th century",
+ "Geography": "Mali",
+ "Culture": "Dogon peoples",
+ "Medium": "Wood",
+ "Dimensions": "H x W 10 1/4 x 34 1/2in. (26 x 87.6cm)",
+ "Classification": "Wood-Furniture",
+ "Credit Line": "Gift of Mr. and Mrs. Alan Bresler, Mr. and Mrs. Robert Bevill, Mr. and Mrs. Dale Ledbetter, and Mr. and Mrs. Gilbert Schulman, 1977",
+ "Accession Number": "1977.220.9",
+ "Who": "Dogon",
+ "What": [
+  "Furniture",
+  "Seating furniture",
+  "Stools"
+ ],
+ "Where": [
+  "Africa",
+  "Mali"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Western and Central Sudan, 1400–1600 A.D.",
+  "Western and Central Sudan, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50002874,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1977_220_9.jpg",
+ "related-artworks": [
+  50002961,
+  50004894,
+  50006809,
+  50002632,
+  50002966
+ ],
+ "Provenance": [
+  "[Alfred L. Scheinberg Galleries, New York]",
+  "Bevill, Bresler & Schulman, New Jersey, until 1977"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50002874"
+  }
+ }
+}

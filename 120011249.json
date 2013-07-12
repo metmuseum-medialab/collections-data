@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1620–35",
+ "Culture": "German (Augsberg)",
+ "Medium": "Case gilded brass and gilded silver on a base of ebony, and ebony veneered on fruitwood; Dial: silvered brass",
+ "Dimensions": "13-1/2 x 8 x 5-1/2 in.  (34.3 x 20.3 x 14.0 cm)",
+ "Classification": "Horology",
+ "Credit Line": "Gift of Mrs. Simon Guggenheim, 1929",
+ "Accession Number": "29.52.15",
+ "Who": "Karl Schmidt",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Silver",
+  "Gilt",
+  "Wood",
+  "Brass",
+  "Cases",
+  "Timepieces",
+  "Clocks",
+  "Ebony",
+  "Dials",
+  "Fruitwood"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011249,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES966.jpg",
+ "related-artworks": [
+  120008838,
+  120014915,
+  120019206
+ ],
+ "Provenance": [
+  "Mrs. Simon Guggenheim (until 1929",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011249"
+  }
+ }
+}

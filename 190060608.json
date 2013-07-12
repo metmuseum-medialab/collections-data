@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1864",
+ "Medium": "Albumen silver print",
+ "Dimensions": "Sheet 10.5 × 6 cm (4 1/8 × 2 3/8 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Susanna Myers, 1953",
+ "Accession Number": "53.627.1.17",
+ "Who": "Sergei Luvovich Levitsky",
+ "What": [
+  "Photographs",
+  "Albumen silver prints",
+  "Card photographs",
+  "Maps",
+  "Cartes-de-visite"
+ ],
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Anatolia and the Caucasus, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D.",
+  "Eastern Europe and Scandinavia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190060608,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP281178.jpg",
+ "related-artworks": [
+  190060607,
+  190042561,
+  190039576,
+  190023087,
+  190021486
+ ],
+ "Provenance": [
+  "Susanna Myers"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190060608"
+  }
+ }
+}

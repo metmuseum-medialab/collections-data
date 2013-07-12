@@ -1,0 +1,40 @@
+{
+ "Date": "1934",
+ "Medium": "Direct carbon print (Fresson process)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 1959",
+ "Accession Number": "59.645.8",
+ "Who": "José Ortiz-Echagüe",
+ "What": [
+  "Prints",
+  "Photographs",
+  "Photographic processes",
+  "Carbon prints",
+  "Carbon",
+  "Fresson process"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190022042,
+ "related-artworks": [
+  190022039,
+  190022034,
+  190022036,
+  190022037,
+  190022038
+ ],
+ "Provenance": [
+  "Jose Ortiz Echagüe"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190022042"
+  }
+ }
+}

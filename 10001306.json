@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1760",
+ "Geography": "England",
+ "Medium": "Brass",
+ "Dimensions": "H. 5 1/4 in. (13.3 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Bequest of Adeline R. Brown, 1947",
+ "Accession Number": "48.135.46",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Brass",
+  "Lighting devices",
+  "Candleholders",
+  "Candlesticks"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001306,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/142478.jpg",
+ "related-artworks": [
+  10001226,
+  10001227,
+  10001233,
+  10001245,
+  10001259
+ ],
+ "Provenance": [
+  "Adeline R. Brown, St. Albans, New York, until died 1947"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001306"
+  }
+ }
+}

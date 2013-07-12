@@ -1,0 +1,52 @@
+{
+ "Modeler": "After a model by Balthasar Permoser (German, Kammer, near Otting, Chiemgau, Bavaria 1651–1732 Dresden)",
+ "Date": "ca. 1760–70",
+ "Culture": "Italian, Florence",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 8 3/16 in. (20.8 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase, The Charles E. Sampson Memorial Fund and Gift of J. Pierpont Morgan, by exchange, 1982",
+ "Accession Number": "1982.28",
+ "Who": [
+  "Doccia manufactory",
+  "Balthasar Permoser"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Figures",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Florence"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120023044,
+ "gallery-id": 508,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES2973.jpg",
+ "related-artworks": [
+  120021560,
+  120003448,
+  120003442,
+  120016157,
+  120018739
+ ],
+ "Description": "These two figures derive from a set of the Four Seasons originally carved in ivory by Balthasar Permoser. Carlo Ginori (1702-1757), founder of the Doccia factory, owned examples of Permoser's work.",
+ "Provenance": [
+  "[ Roth , 1982",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120023044"
+  }
+ }
+}

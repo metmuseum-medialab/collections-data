@@ -1,0 +1,29 @@
+{
+ "Date": "1864",
+ "Classification": "Books",
+ "Credit Line": "A. Hyatt Mayor Purchase Fund, Marjorie Phelps Starr Bequest, 1979",
+ "Accession Number": "1979.575",
+ "Who": "J. E. Tilton  Company",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023188,
+ "related-artworks": [
+  90018488,
+  90025181,
+  90026193,
+  90003457,
+  90004257
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023188"
+  }
+ }
+}

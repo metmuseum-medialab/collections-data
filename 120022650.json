@@ -1,0 +1,45 @@
+{
+ "Date": "1775–76",
+ "Culture": "French (Paris)",
+ "Medium": "Silver",
+ "Dimensions": "L. 14-15/16 in. (37.9 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mrs. Reginald McVitty and Estate of Janet C. Livingston, 1976",
+ "Accession Number": "1976.357.2",
+ "Who": "Jacques-Nicolas Roettiers",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Ladles"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120022650,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES4693.jpg",
+ "related-artworks": [
+  120012375,
+  120015506,
+  120021457,
+  120022649,
+  120022631
+ ],
+ "Provenance": [
+  "Robert R. Livingston",
+  "Mrs. Reginald McVitty",
+  "and Estate of Janet C. Livingston (until 1976",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022650"
+  }
+ }
+}

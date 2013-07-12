@@ -1,0 +1,43 @@
+{
+ "Date": "5th–6th century",
+ "Culture": "China (Xinjiang Autonomous Region, Central Asia)",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 5 1/2 in. (14 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Seymour Fund, 1999",
+ "Accession Number": "1999.236",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Bowls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1–500A.D.",
+  "Central and North Asia, 500–1000 A.D.",
+  "China, 1–500A.D.",
+  "China, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60020301,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP164939.jpg",
+ "related-artworks": [
+  60029766,
+  60032601,
+  60032668,
+  60032427,
+  60032602
+ ],
+ "Description": "Paired fish are an auspicious emblem (mangala) that first appeared in conjunction with the earliest Buddhist and Jain images from India. The presence this motif suggests that this bowl likely had a ritual function. The animals and dancers relate to Central Asian art, while the palmette design is similar to Sogdian and earlier Gandharan production.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60020301"
+  }
+ }
+}

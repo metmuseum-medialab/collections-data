@@ -1,0 +1,46 @@
+{
+ "Period": "Imperial",
+ "Date": "ca. A.D. 100",
+ "Culture": "Roman",
+ "Medium": "Terracotta",
+ "Dimensions": [
+  "H. 6.2 cm.",
+  "diameter  9.9 cm"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.373",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130000424,
+ "gallery-id": 176,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP114285.jpg",
+ "related-artworks": [
+  130007207,
+  130010599,
+  130010590,
+  130010722,
+  130011258
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130000424"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "1651",
+ "Medium": "Pen and black ink",
+ "Dimensions": "sheet 4 1/16 x 6 3/16 in. (10.3 x 15.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Jean A. Bonna Gift, 2007",
+ "Accession Number": "2007.223.26",
+ "Who": "Conrad Meyer",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90054037,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803234.jpg",
+ "related-artworks": [
+  90026134,
+  90047237,
+  90054036,
+  90021765
+ ],
+ "Provenance": [
+  "Hans Wilpert Zoller (Swiss, Zurich 1673–1757 Zurich)",
+  "Wilhelm von Muralt- von Planta (1845–1937)",
+  "Hans Rohr Buchhandlung und Antiquariat zum Oberdorf, Zurich",
+  "Auktionshaus Stuker, Bern, November 28, 2006, no. 9060",
+  "Vendor: Galerie Arnoldi-Livie (Munich)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90054037"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Publisher": "Published by Editions Bernard Grasset",
+ "Date": "1947",
+ "Medium": "plates lithography",
+ "Dimensions": "Overall 6 7/8 x 4 7/16 x 3/8 in. (17.5 x 11.2 x 1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Museum Accession, 1970",
+ "Accession Number": "1970.570.1",
+ "Who": [
+  "Editions Bernard Grasset",
+  "Jean-Hippolyte Giraudoux"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018290,
+ "related-artworks": [
+  90018285,
+  90018288,
+  90012702
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90018290"
+  }
+ }
+}

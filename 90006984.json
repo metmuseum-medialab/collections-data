@@ -1,0 +1,56 @@
+{
+ "Date": "1829",
+ "Medium": "Lithograph with hand coloring in three panels",
+ "Dimensions": "54-3/4 x 24-3/4 in.  (139.1 x 62.9 cm) (for the group)",
+ "Classification": "Prints",
+ "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954",
+ "Accession Number": "54.90.1182(1-3)",
+ "Who": "Thomas Thompson",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Panels"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90006984,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DT2088.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DT2088.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/DT2089.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/DT2090.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/49G114R3CM.jpg"
+ ],
+ "Provenance": [
+  "Donor: Edward W. C. Arnold"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/20013178"
+   },
+   {
+    "href": "http://scrapi.org/object/90009569"
+   },
+   {
+    "href": "http://scrapi.org/object/90006117"
+   },
+   {
+    "href": "http://scrapi.org/object/90006118"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90006984"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90006984"
+  }
+ }
+}

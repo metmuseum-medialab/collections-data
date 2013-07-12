@@ -1,0 +1,42 @@
+{
+ "Artist": "After Carlo Maratti (Italian, Camerano 1625–1713 Rome)",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "sheet 27 13/16 x 20 1/4 in. (70.7 x 51.5 cm)",
+  "plate 22 13/16 x 13 1/2 in. (58 x 34.3 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.2623",
+ "Who": [
+  "Carlo Maratti",
+  "Benoit Farjat"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90075585,
+ "related-artworks": [
+  90075325,
+  90075482,
+  90075453,
+  90075537
+ ],
+ "Provenance": [
+  "P. & D. Colnaghi & Co., Ltd., London",
+  "Princes of Liechtenstein, Vaduz and Vienna"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90075585"
+  }
+ }
+}

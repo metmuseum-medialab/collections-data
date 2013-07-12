@@ -1,0 +1,48 @@
+{
+ "Period": "Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "Date": "late 17th–early 18th century",
+ "Culture": "China",
+ "Medium": "Porcelain covered with powdered blue glaze, painted with colored enamels over transparent glaze, and painted with gold (Jingdezhen ware)",
+ "Dimensions": "H. 18 in. (45.7 cm); Diam. 19 in. (48.3 cm); Diam. of foot 5 1/2 in. (14 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.231a, b",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Gold",
+  "Porcelain",
+  "Painting",
+  "Glaze",
+  "Jars",
+  "Enamels"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60009722,
+ "gallery-id": 200,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/23464.jpg",
+ "related-artworks": [
+  60009723,
+  60009864,
+  60009660,
+  60019261,
+  60023783
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009722"
+  }
+ }
+}

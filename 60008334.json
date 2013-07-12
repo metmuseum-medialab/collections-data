@@ -1,0 +1,35 @@
+{
+ "Period": "Modern",
+ "Culture": "China",
+ "Medium": "Bowenite",
+ "Dimensions": "H. 1 3/16 in. (3 cm); W. 5/8 in. (1.6 cm); L. 3 3/16 in. (8.1 cm)",
+ "Classification": "Seals",
+ "Credit Line": "Anonymous Gift, 1927",
+ "Accession Number": "27.129",
+ "What": "Seals",
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60008334,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/27_129_O1.jpg",
+ "related-artworks": [
+  60024641,
+  60024642,
+  60024643,
+  60046715,
+  60046718
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60008334"
+  }
+ }
+}

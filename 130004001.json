@@ -1,0 +1,32 @@
+{
+ "Medium": "Gold",
+ "Dimensions": "Diameter 3/4 × 1/4 in. (1.9 × 0.7 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.4118",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Rings"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130004001,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/sf74514118.jpg",
+ "related-artworks": [
+  130003342,
+  130003936,
+  130003935,
+  130003947,
+  130003948
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130004001"
+  }
+ }
+}

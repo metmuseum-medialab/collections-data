@@ -1,0 +1,43 @@
+{
+ "Date": "20th century",
+ "Medium": "Silk, gold leaf, synthetic yarn, wood",
+ "Dimensions": [
+  "H. 8, W. 19 inches",
+  "(20.3 x 48.3 cm.)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Clementine M. Tangeman, 1989",
+ "Accession Number": "1989.355",
+ "Who": "Louis (Loja) Gesellius Saarinen",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Gold",
+  "Woven",
+  "Gold leaf",
+  "Synthetic",
+  "Wallets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210005526,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP11198.jpg",
+ "related-artworks": [
+  210004780,
+  210001246,
+  210006242,
+  210001024
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210005526"
+  }
+ }
+}

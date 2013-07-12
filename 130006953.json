@@ -1,0 +1,28 @@
+{
+ "Medium": "Amber",
+ "Dimensions": "Diameter 1 1/2 x 1/2 in. (3.8 x 1.2 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Purchase, 1896",
+ "Accession Number": "96.9.486",
+ "What": [
+  "Resin",
+  "Amber",
+  "Whorls"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006953,
+ "related-artworks": [
+  130006950,
+  130006948,
+  130006949,
+  130006952,
+  130006954
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006953"
+  }
+ }
+}

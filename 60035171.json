@@ -1,0 +1,42 @@
+{
+ "Date": "19th–20th century",
+ "Culture": "China",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Bequest of Dorothy Graham Bennett, 1989",
+ "Accession Number": "CP400",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1900 A.D.–present",
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "id": 60035171,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/CP_400.jpg",
+ "related-artworks": [
+  60034520,
+  60034675,
+  60034729,
+  60034750,
+  60034730
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60035171"
+  }
+ }
+}

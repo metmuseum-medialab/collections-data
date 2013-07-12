@@ -1,0 +1,41 @@
+{
+ "Date": "6th century B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 5.99 cm.",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.5894",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups",
+  "Kylikes"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "id": 130005236,
+ "related-artworks": [
+  130000527,
+  130005240,
+  130000501,
+  130000522,
+  130000520
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130005236"
+  }
+ }
+}

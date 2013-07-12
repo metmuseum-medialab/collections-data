@@ -1,0 +1,39 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19–20",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Fainece",
+ "Dimensions": "L. 8 cm (3 1/8 in); w. 5.5 cm (2 3/16 in); h. 2.6 cm (1 in)",
+ "Credit Line": "Purchase, Fletcher Fund and The Guide Foundation Inc. Gift, 1966",
+ "Accession Number": "66.99.116",
+ "What": [
+  "Sculpture",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008167,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/66.99.116 top.jpg",
+ "related-artworks": [
+  100000445,
+  100000637,
+  100000638,
+  100000639,
+  100000640
+ ],
+ "Provenance": [
+  "Collection of Albert Gallatin, purchased by the Museum in 1966.  Purchased by him from Nicolas Tano, Cairo, March 1939."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008167"
+  }
+ }
+}

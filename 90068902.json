@@ -1,0 +1,38 @@
+{
+ "Artist": "After Pierre Paul Prud'hon (French, Cluny 1758–1823 Paris)",
+ "Date": "1849",
+ "Medium": "Lithograph",
+ "Dimensions": "sheet 10 11/16 x 13 7/8 in. (27.2 x 35.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1963",
+ "Accession Number": "63.625.349",
+ "Who": [
+  "Pierre Paul Prud'hon",
+  "Jules Boilly"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90068902,
+ "related-artworks": [
+  90024814,
+  90068895,
+  90068965,
+  90068966,
+  90068931
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90068902"
+  }
+ }
+}

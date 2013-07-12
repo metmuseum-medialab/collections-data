@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1750",
+ "Culture": "Italian",
+ "Medium": "silk",
+ "Dimensions": [
+  "a) L. 40 in. (101.6 cm)",
+  "b) L. at F. 17½ in. (44.5 cm)",
+  "c) L. 26 in. (66 cm)",
+  "d,e) L. 22½ in. (57.2 cm)",
+  "f,g) L. 23 in. (58.4 cm)"
+ ],
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "26.56.47a–g",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "id": 80005707,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/TSR 26.56.47_CI50.40.9.JPG",
+ "related-artworks": [
+  80005735,
+  80008565,
+  80013582,
+  80024958,
+  80036002
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80005707"
+  }
+ }
+}

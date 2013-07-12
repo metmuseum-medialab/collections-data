@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1904",
+ "Culture": "American",
+ "Medium": "Oak",
+ "Dimensions": "40 1/8 x 15 x 18 7/8 in. (101.9 x 38.1 x 47.9 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of William and Mary Drummond, 1981",
+ "Accession Number": "1981.437",
+ "Who": "Frank Lloyd Wright",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Oak",
+  "Side chairs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Frank Lloyd Wright (1867–1959)",
+  "Design, 1900–25",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10001741,
+ "gallery-id": 744,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/227509.jpg",
+ "related-artworks": [
+  10001739,
+  10001737,
+  10001738,
+  10001839,
+  10001840
+ ],
+ "Provenance": [
+  "William and Mary Drummond, Roslyn Heights, New York, until 1981"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001741"
+  }
+ }
+}

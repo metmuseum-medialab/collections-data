@@ -1,0 +1,43 @@
+{
+ "Date": "1800–1860",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Blown pattern-molded glass",
+ "Dimensions": "H. 6 in. (15.2 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Henry G. Schiff, 1980",
+ "Accession Number": "1980.502.66",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles",
+  "Blown glass",
+  "Flasks"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10006803,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA5062.jpg",
+ "related-artworks": [
+  10003846,
+  10003832,
+  10003834,
+  10003835,
+  10006786
+ ],
+ "Provenance": [
+  "Henry G. Schiff, South Salem, New York, until 1980"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006803"
+  }
+ }
+}

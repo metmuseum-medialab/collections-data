@@ -1,0 +1,41 @@
+{
+ "Period": "Late Middle Kingdom",
+ "Dynasty": "Dynasty 13–17",
+ "Date": "ca. 1748–1741 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Stone",
+ "Dimensions": "l. 2 cm (13/16 in)",
+ "Credit Line": "Purchase, Edward S. Harkness Gift, 1926",
+ "Accession Number": "26.7.93",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100014098,
+ "gallery-id": 111,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsgal8z12.jpg",
+ "related-artworks": [
+  100000987,
+  100001695,
+  100001717,
+  100002428,
+  100005550
+ ],
+ "Provenance": [
+  "Formerly Carnarvon Collection, purchased in Cairo before 1923. Carnarvon Collection purchased by the Museum from Lady Carnarvon, 1926."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100014098"
+  }
+ }
+}

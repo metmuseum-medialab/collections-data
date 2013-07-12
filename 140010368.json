@@ -1,0 +1,52 @@
+{
+ "Object Name": "Bezoar stone with case and stand",
+ "Date": "17th century",
+ "Geography": "India, probably Gujarat",
+ "Medium": "Silver, stone, mercury gilding",
+ "Dimensions": [
+  "-Stone",
+  "H. 1 3/8 in. (3.5 cm)",
+  "Diam. 1 1/4 in. (3.2 cm)",
+  "-Case",
+  "H. 1 7/16 in. (3.7 cm)",
+  "Diam. 1 7/16 in. (3.6 cm)",
+  "-Stand",
+  "H. 1 in. (2.5 cm)"
+ ],
+ "Classification": "Metal",
+ "Credit Line": "Gift of Mr. and Mrs. Gordon S. Haight, 1980",
+ "Accession Number": "1980.228.1, .2a, b, .3",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gilt",
+  "Stone",
+  "Furniture",
+  "Cases",
+  "Stands",
+  "Mercury"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Gujarat"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140010368,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf1980-228-1,2ab,3.jpg",
+ "related-artworks": [
+  140010668,
+  140004605,
+  140004226,
+  140003191,
+  140007937
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010368"
+  }
+ }
+}

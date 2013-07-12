@@ -1,0 +1,45 @@
+{
+ "Publisher": "Published by Universal Limited Art Editions",
+ "Date": "20th century",
+ "Medium": "Lithograph",
+ "Dimensions": "20 x 26 in. (50.8 x 66 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Dr. Joseph I. singer, 1976",
+ "Accession Number": "1976.654.6",
+ "Who": [
+  "Universal Limited Art Editions",
+  "Fritz Glarner"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Geometric Abstraction",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90044056,
+ "related-artworks": [
+  90000715,
+  90044057,
+  90044060,
+  90044062,
+  90044063
+ ],
+ "Provenance": [
+  "Donor: Dr. Joseph I. Singer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90044056"
+  }
+ }
+}

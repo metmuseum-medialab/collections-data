@@ -1,0 +1,44 @@
+{
+ "Period": "Tang dynasty (618–907) (?)",
+ "Culture": "China",
+ "Medium": "Gilt bronze",
+ "Dimensions": "H. 1 1/4 in. (3.2 cm); W. 1 in. (2.5 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Rogers Fund, 1924",
+ "Accession Number": "24.102.4",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Bronze",
+  "Gilt",
+  "Jewelry",
+  "Plate",
+  "Ormolu"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60032135,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/24_102_4_O1.JPG",
+ "related-artworks": [
+  60033056,
+  60031376,
+  60031375,
+  60009593,
+  60011968
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60032135"
+  }
+ }
+}

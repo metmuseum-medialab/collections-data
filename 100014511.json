@@ -1,0 +1,36 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 11",
+ "Date": "ca. 2124–2000 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, Tomb MMA 839, inside basket 31.3.50a, b, MMA 1929–1930",
+ "Medium": "Vegetable fiber",
+ "Credit Line": "Rogers Fund, 1931",
+ "Accession Number": "31.3.52k",
+ "What": [
+  "Cord",
+  "Rope"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "id": 100014511,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/31.3.52k-l-ac.jpg",
+ "related-artworks": [
+  100035584,
+  100004299,
+  100008041,
+  100010021,
+  100010101
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100014511"
+  }
+ }
+}

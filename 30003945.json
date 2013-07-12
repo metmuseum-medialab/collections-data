@@ -1,0 +1,41 @@
+{
+ "Period": "Iron Age II",
+ "Date": "ca. 9th century B.C.",
+ "Geography": "Iran, Hasanlu",
+ "Medium": "Glass, Egyptian blue (?)",
+ "Dimensions": "0.87 x 1.06 in. (2.21 x 2.69 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Purchase, Mrs. Constantine Sidamon-Eristoff Gift, 1961",
+ "Accession Number": "61.100.92",
+ "What": [
+  "Glass",
+  "Beads"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Hasanlu"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003945,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME61_100_92.jpg",
+ "related-artworks": [
+  30003687,
+  30003989,
+  30003977,
+  30004434,
+  30003691
+ ],
+ "Provenance": [
+  "1960, excavated by Robert H. Dyson Jr. on behalf of the Hasanlu Project sponsored by the University Museum of the University of Pennsylvania, the Archaeological Service of Iran, and The Metropolitan Museum of Art",
+  "acquired by the Museum in 1961, as a result of its financial contribution to the excavations."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003945"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Printer": "Los Angeles Press",
+ "Date": "1990",
+ "Medium": "Lithograph",
+ "Dimensions": "sheet 28 x 23 1/8 in. (71.1 x 58.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Deborah Ross, 2011",
+ "Accession Number": "2011.381.1",
+ "Who": [
+  "Robbie Conal",
+  "Los Angeles Press"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90073062,
+ "related-artworks": [
+  90058362,
+  90068127,
+  90073085,
+  90073067,
+  90073094
+ ],
+ "Provenance": [
+  "Donor: Deborah B. Ross"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90073062"
+  }
+ }
+}

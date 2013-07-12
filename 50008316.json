@@ -1,0 +1,44 @@
+{
+ "Date": "14th–15th century",
+ "Geography": "Peru",
+ "Culture": "Chimú (?)",
+ "Medium": "Silver",
+ "Dimensions": "Length 8-7/8 in. (22.5 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Bequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986",
+ "Accession Number": "1987.394.601",
+ "Who": "Chimú",
+ "What": [
+  "Metal",
+  "Silver",
+  "Pins"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1000–1400 A.D.",
+  "Central and Southern Andes, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50008316,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/VS1987_394_601.JPG",
+ "related-artworks": [
+  50001674,
+  50002538,
+  50007886,
+  50008275,
+  50008276
+ ],
+ "Provenance": [
+  "Arnold I. Goldberg, New York,  until (d.)1976",
+  "Jane Costello Goldberg, New York, 1976– (d.)1986"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50008316"
+  }
+ }
+}

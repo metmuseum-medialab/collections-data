@@ -1,0 +1,50 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "Joint reign of Hatshepsut and Thutmose III",
+ "Date": "ca. 1473–1458 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Sheikh Abd el-Qurna, Tomb of Senenmut (TT 71), below, deposit of hunting weapons, MMA 1935–1936",
+ "Medium": "Wood, ivory, bark",
+ "Dimensions": [
+  "Hilt and Shaft l. 124 cm (48 13/16 in); diam. of shaft 3/8 in)",
+  "Hilt l. 50.2 cm (19 3/4 in); diam. of knob 2.5 cm (1 in)"
+ ],
+ "Credit Line": "Rogers Fund, 1936",
+ "Accession Number": "36.3.207a",
+ "What": [
+  "Arms",
+  "Wood",
+  "Edged weapons",
+  "Bone",
+  "Ivory",
+  "Staff weapons",
+  "Spears",
+  "Hilts"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100006079,
+ "related-artworks": [
+  100006078,
+  100036619,
+  100036620,
+  100036618,
+  100002871
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1935–1936. Acquired by the Museum in the division of finds, 1936."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100006079"
+  }
+ }
+}

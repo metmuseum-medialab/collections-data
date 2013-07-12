@@ -1,0 +1,42 @@
+{
+ "Period": "Classical",
+ "Date": "ca. 400–390 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Marble, Pentelic",
+ "Dimensions": "H. 62 in. (157.5 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "Rogers Fund, 1947",
+ "Accession Number": "47.11.2",
+ "What": [
+  "Sculpture",
+  "Vessels",
+  "Stone",
+  "Marble",
+  "Jugs",
+  "Lekythoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130015073,
+ "gallery-id": 158,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/GR22.jpg",
+ "related-artworks": [
+  130009120,
+  130015112,
+  130013452,
+  130005278,
+  130005279
+ ],
+ "Description": "During the fifth and fourth centuries B.C., memorials to the dead sometimes took the form of monumental marble lekythoi.  The shape was appropriate, for the lekythos–a vase used exclusively to hold oil–played an important part in funerary preparation and ritual.  The figure of Kallisthenes, whose name is inscribed, is shown in low relief clasping the hand of a seated man, while a woman raises her hand to her chin in a customary gesture of mourning.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130015073"
+  }
+ }
+}

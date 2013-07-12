@@ -1,0 +1,57 @@
+{
+ "Period": "Archaic",
+ "Date": "ca. 650-600 B.C.",
+ "Culture": "Greek",
+ "Medium": "Bronze",
+ "Dimensions": "9 1/16 x 10 9/16 x 8 3/8in. (23 x 26.8 x 21.2cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.51.2",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Bronze",
+  "Helmets"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011405,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP119913.jpg",
+ "Description": "The historian Herodotos mentions the Corinthian helmet as part of the equipment of the Greek hoplite (foot soldier). As a result, the predominant type of helmet, with a rounded calotte, small openings for the eyes, and a distinct nose-piece has been identified as such. Thanks to the large number of examples excavated at Olympia, the typological variety and development are well understood. This example, said to be from Olympia, is quite early, as indicated by its unarticulated edges and the small cutout in the middle of each side.",
+ "Provenance": [
+  "Said to be from Olympia"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130008457"
+   },
+   {
+    "href": "http://scrapi.org/object/130008486"
+   },
+   {
+    "href": "http://scrapi.org/object/130008560"
+   },
+   {
+    "href": "http://scrapi.org/object/130009368"
+   },
+   {
+    "href": "http://scrapi.org/object/130011251"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130011405"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130011405"
+  }
+ }
+}

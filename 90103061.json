@@ -1,0 +1,45 @@
+{
+ "Artist": "After John Crome (British, Norwich 1768–1821 Norwich)",
+ "Date": "1912",
+ "Medium": "Wood engraving",
+ "Dimensions": [
+  "Image 6 11/16 × 5 1/8 in. (17 × 13 cm)",
+  "Sheet 11 1/2 × 9 1/4 in. (29.2 × 23.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Schuyler Van Rensselaer, 1917",
+ "Accession Number": "17.39",
+ "Who": [
+  "John Crome",
+  "Walter Monteith Aikman"
+ ],
+ "What": [
+  "Prints",
+  "Engraving",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90103061,
+ "related-artworks": [
+  90103070,
+  90012500,
+  90013385,
+  90015626
+ ],
+ "Provenance": [
+  "Donor: Mrs. Schuyler Van Rensselaer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90103061"
+  }
+ }
+}

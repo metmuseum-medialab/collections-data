@@ -1,0 +1,38 @@
+{
+ "Date": "1830–90",
+ "Medium": "Graphite",
+ "Dimensions": "Irregular sheet 10 11/16 x 13 3/8 in. (27.2 x 33.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mrs. Henry T. Curtis, 1953",
+ "Accession Number": "53.668.187",
+ "Who": "Eugène Ciceri",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90026446,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP810169.jpg",
+ "related-artworks": [
+  90025790,
+  90025802,
+  90025792,
+  90025793,
+  90025794
+ ],
+ "Provenance": [
+  "Donor: Mrs. Henry T. Curtis"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026446"
+  }
+ }
+}

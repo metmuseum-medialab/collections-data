@@ -1,0 +1,44 @@
+{
+ "Date": "1999",
+ "Medium": "Chromogenic print",
+ "Dimensions": [
+  "Image 43.2 x 120 cm (17 x 47 1/4 in.)",
+  "Sheet 47 x 126.7 cm (18 1/2 x 49 7/8 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Ethan Warsh, 2009",
+ "Accession Number": "2009.539.2",
+ "Who": "Wang Jinsong",
+ "What": [
+  "Photographs",
+  "Chromogenic prints"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190045981,
+ "related-artworks": [
+  190041876,
+  190045980,
+  190045983,
+  190045982,
+  190014725
+ ],
+ "Provenance": [
+  "The artist",
+  "[A. W. Asia, New York]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190045981"
+  }
+ }
+}

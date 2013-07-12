@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1843",
+ "Medium": "Watercolors and gouache over black chalk on brownish paper",
+ "Dimensions": "sheet 14 5/8 x 20 5/8 in. (37.1 x 52.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Anonymous Gift, 1961",
+ "Accession Number": "61.218.1",
+ "Who": "John Frederick Lewis",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Chalk",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023387,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP805927.jpg",
+ "related-artworks": [
+  90023388,
+  90008230,
+  90019633,
+  90033611
+ ],
+ "Provenance": [
+  "Christie's, London, May 4, 1877, lot 130 'Studies of Camels, Desert of Mt. Sinai'(to Critchell)",
+  "Critchell (British), bought work at preceding sale"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023387"
+  }
+ }
+}

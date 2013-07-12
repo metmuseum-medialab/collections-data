@@ -1,0 +1,42 @@
+{
+ "Date": "15th century",
+ "Culture": "Japanese",
+ "Medium": "Iron, copper, lacquer, etc.",
+ "Dimensions": [
+  "H 6 1/2 in.  ( 16.51 cm)",
+  "H. 6-1/2 in."
+ ],
+ "Classification": "Helmets",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.173",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Copper",
+  "Iron",
+  "Lacquer",
+  "Helmets"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40002291,
+ "related-artworks": [
+  40001237,
+  40001576,
+  40000841,
+  40000842,
+  40002292
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40002291"
+  }
+ }
+}

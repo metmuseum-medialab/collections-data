@@ -1,0 +1,30 @@
+{
+ "Author": "James Hutchinson",
+ "Date": "1860s",
+ "Classification": "Books",
+ "Credit Line": "Robert O. Dougan Collection, Gift of Warner Communications Inc., 1981",
+ "Accession Number": "1981.1229.91",
+ "Who": [
+  "Unknown, British",
+  "James Hutchinson"
+ ],
+ "What": "Books",
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "id": 190015048,
+ "related-artworks": [
+  190011483,
+  190011838,
+  190012526,
+  190012537,
+  190012721
+ ],
+ "Provenance": [
+  "Robert O. Dougan"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190015048"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1926",
+ "Medium": "Graphite on paper",
+ "Dimensions": [
+  "H. 10-7/8, W. 8-1/2 inches",
+  "(27.6 x 21.6 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Scofield Thayer, 1982",
+ "Accession Number": "1984.433.236",
+ "Who": "Gaston Lachaise",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210003583,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1984.433.236.jpg",
+ "related-artworks": [
+  210005290,
+  210005291,
+  210005292,
+  210009193,
+  210009194
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003583"
+  }
+ }
+}

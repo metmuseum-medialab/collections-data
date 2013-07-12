@@ -1,0 +1,42 @@
+{
+ "Date": "14th century",
+ "Culture": "German",
+ "Medium": "Copper alloy",
+ "Dimensions": "Overall 2 1/16 x 1 x 1/4 in. (5.2 x 2.6 x 0.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.100.145",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Copper",
+  "Brass",
+  "Keys"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170003189,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf10-100-145s1.jpg",
+ "related-artworks": [
+  170003191,
+  170002812,
+  170006012,
+  170003256,
+  170003264
+ ],
+ "Provenance": [
+  "Gomez(until 1910)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170003189"
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "Medium": "Lithograph",
+ "Dimensions": "16 3/4 x 11 7/16 in.",
+ "Classification": "Prints",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.2503",
+ "Who": "After Bellanger (?)",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Robert Lehman Collection",
+ "MetPublications": "Search for related Met publications",
+ "id": 150008045,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-2503.jpg",
+ "related-artworks": [
+  150001117,
+  150008533,
+  150009335,
+  150001145,
+  150007262
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008045"
+  }
+ }
+}

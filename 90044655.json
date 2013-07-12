@@ -1,0 +1,38 @@
+{
+ "Date": "1859",
+ "Medium": "Graphite",
+ "Dimensions": "sheet 8 1/4 x 10 5/16 in. (21 x 26.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harry G. Sperling Fund, 2006",
+ "Accession Number": "2006.195",
+ "Who": "Eduard Jakob von Steinle",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90044655,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804039.jpg",
+ "related-artworks": [
+  90038704,
+  90056047,
+  90090588,
+  90001909,
+  90014013
+ ],
+ "Provenance": [
+  "Vendor: Joseph Fach GmbH (Frankfurt am Main)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90044655"
+  }
+ }
+}

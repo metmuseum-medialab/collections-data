@@ -1,0 +1,45 @@
+{
+ "Manufacturer": "Yamato China Co. Ltd. (Tajimi, Japan)",
+ "Date": "ca. 1963",
+ "Medium": "Porcelain",
+ "Dimensions": "12 x 8 1/4 x 4 1/4 in. (30.5 x 21 x 10.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Russel Wright, 1976",
+ "Accession Number": "1976.67.8ab",
+ "Who": [
+  "Russel Wright",
+  "Yamato China Co. Ltd."
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Pots",
+  "Coffeepots"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1925–50",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 210001813,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1976.67.4, 8, 9.jpg",
+ "related-artworks": [
+  210001778,
+  210005861,
+  210001767,
+  210001752,
+  210001754
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210001813"
+  }
+ }
+}

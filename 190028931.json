@@ -1,0 +1,22 @@
+{
+ "Date": "1946",
+ "Classification": "Books",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.74",
+ "Who": "William Faulkner",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190028931,
+ "related-artworks": [
+  190028715,
+  190028858,
+  190028936
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028931"
+  }
+ }
+}

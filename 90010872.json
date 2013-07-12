@@ -1,0 +1,33 @@
+{
+ "Date": "between 1515-27",
+ "Medium": "Engraving",
+ "Dimensions": "13 3/8 x 9 1/8 in.  (33.9 x 23.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.570.282",
+ "Who": "Marco Dente",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "id": 90010872,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818693.jpg",
+ "related-artworks": [
+  90008317,
+  90008318,
+  90008578,
+  90008579,
+  90008580
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010872"
+  }
+ }
+}

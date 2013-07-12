@@ -1,0 +1,33 @@
+{
+ "Date": "7th century or earlier",
+ "Culture": "Japan",
+ "Classification": "Jewelry",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.37.76",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Beads"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60031875,
+ "related-artworks": [
+  60031876,
+  60031871,
+  60031872,
+  60031873,
+  60046477
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60031875"
+  }
+ }
+}

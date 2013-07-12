@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Silk and metallic thread embroidery on silk satin",
+ "Dimensions": "Overall 12 1/4 x 12 1/4in. (31.1 x 31.1cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of William Christian Paul, 1929",
+ "Accession Number": "30.75.1021",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Badges",
+  "Satin"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60021226,
+ "related-artworks": [
+  60031788,
+  60021225,
+  60031787,
+  60042467,
+  60042661
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60021226"
+  }
+ }
+}

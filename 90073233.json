@@ -1,0 +1,45 @@
+{
+ "Publisher": "WPA",
+ "Date": "1935–43",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "sheet 15 7/8 x 21 15/16 in. (40.4 x 55.8 cm)",
+  "image 12 7/16 x 18 1/8 in. (31.6 x 46.1 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, New York, 1943",
+ "Accession Number": "43.33.1143",
+ "Who": [
+  "WPA",
+  "Joseph Vogel"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90073233,
+ "related-artworks": [
+  90073202,
+  90073203,
+  90073204,
+  90073210,
+  90073211
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90073233"
+  }
+ }
+}

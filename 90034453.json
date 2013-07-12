@@ -1,0 +1,47 @@
+{
+ "Artist": "After Giulio Romano (Italian, Rome 1499?–1546 Mantua)",
+ "Date": "ca. 1540",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "sheet 9 7/16 x 13 3/8 in. (24 x 34 cm)",
+  "plate 8 7/8 x 13 1/8 in. (22.5 x 33.3 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.790",
+ "Who": [
+  "Giulio Romano",
+  "Giorgio Ghisi"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Lovers in Italian Mythological Prints",
+  "Poets in Italian Mythological Prints"
+ ],
+ "id": 90034453,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821259.jpg",
+ "related-artworks": [
+  90028464,
+  90032370,
+  90032418,
+  90039870,
+  90039877
+ ],
+ "Provenance": [
+  "Princes of Liechtenstein, Vaduz and Vienna"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90034453"
+  }
+ }
+}

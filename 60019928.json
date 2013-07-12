@@ -1,0 +1,43 @@
+{
+ "Period": "Muromachi period (1392–1573)",
+ "Date": "ca. 1500",
+ "Culture": "Japan",
+ "Medium": "Stoneware with natural ash glaze (Bizen ware)",
+ "Dimensions": "H. 13 in. (33 cm); Diam. 9 3/4 in. (24.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Dr. and Mrs. Roger G. Gerry Collection, Bequest of Dr. and Mrs. Roger G. Gerry, 2000",
+ "Accession Number": "2002.447.19",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Glaze",
+  "Jars",
+  "Stoneware",
+  "Ceramic glaze",
+  "Bizen",
+  "Ash glaze"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60019928,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2002_447_19.jpg",
+ "related-artworks": [
+  60046595,
+  60019927,
+  60012972,
+  60013383,
+  60019924
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60019928"
+  }
+ }
+}

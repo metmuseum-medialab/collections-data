@@ -1,0 +1,38 @@
+{
+ "Date": "1st century B.C.–1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Terracotta",
+ "Dimensions": "width     5.21 cm.",
+ "Classification": "Vases",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.1964",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Italian Peninsula, 1000 B.C.–1 A.D.",
+  "Italian Peninsula, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130010789,
+ "related-artworks": [
+  130008080,
+  130008081,
+  130008082,
+  130008087,
+  130008088
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130010789"
+  }
+ }
+}

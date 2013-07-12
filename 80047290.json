@@ -1,0 +1,31 @@
+{
+ "Date": "ca. 1910",
+ "Culture": "American or European",
+ "Medium": "metal",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "From the Hanna S. Kohn Collection, 1951",
+ "Accession Number": "51.47.1781–.1810",
+ "What": [
+  "Metal",
+  "Buttons"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "id": 80047290,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/51.47.1781–.1810.jpg",
+ "related-artworks": [
+  80037858,
+  80046486,
+  80047288,
+  80047289,
+  80047284
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80047290"
+  }
+ }
+}

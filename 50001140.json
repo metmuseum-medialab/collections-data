@@ -1,0 +1,70 @@
+{
+ "Date": "1st–6th century",
+ "Geography": "Peru",
+ "Culture": "Nasca",
+ "Medium": "Ceramic, pigment",
+ "Dimensions": [
+  "Overall 6 3/4 in. (17.15 cm)",
+  "Other 6 1/4 in. (15.88 cm)"
+ ],
+ "Classification": "Ceramics-Containers",
+ "Credit Line": "Gift of Mr. and Mrs. Nathan Cummings, 1964",
+ "Accession Number": "64.228.70",
+ "Who": "Nazca",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Bottles"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 500–1000 A.D.",
+  "Central and Southern Andes, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50001140,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/64.228.70_d.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/50000947",
+  "http://scrapi.org/object/50001023",
+  "http://scrapi.org/object/50001136",
+  "http://scrapi.org/object/50001148",
+  "http://scrapi.org/object/50001704"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ao/original/64.228.70_d.jpg",
+  "http://images.metmuseum.org/CRDImages/ao/original/64.228.70_c.jpg",
+  "http://images.metmuseum.org/CRDImages/ao/original/64.228.70_b.jpg",
+  "http://images.metmuseum.org/CRDImages/ao/original/64.228.70_a.jpg"
+ ],
+ "Provenance": [
+  "Bruno J. Wassermann-San Blas Collection, Buenos Aires, Argentina, acquired by 1938, until 1954",
+  "Nathan Cummings, Chicago, 1954–1964"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50000947"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50001023"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50001136"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50001148"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50001704"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50001140"
+  }
+ }
+}

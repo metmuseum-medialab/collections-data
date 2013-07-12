@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1745",
+ "Culture": "British, Staffordshire",
+ "Medium": "Salt-glazed stoneware",
+ "Dimensions": "H. 5 7/8 in.  (14.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Carleton Macy, 1934",
+ "Accession Number": "34.165.47 ab",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Glaze",
+  "Stoneware",
+  "Ceramic glaze",
+  "Teapots",
+  "Salt glaze"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120027045,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/99918.jpg",
+ "related-artworks": [
+  120012438,
+  120012441,
+  120012436,
+  120012510,
+  120012484
+ ],
+ "Provenance": [
+  "J. Henry Griffith (by 1925)",
+  "[ Frank Stoner (in 1933",
+  "sold to Macy, February 1933) ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120027045"
+  }
+ }
+}

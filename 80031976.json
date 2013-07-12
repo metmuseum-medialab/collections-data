@@ -1,0 +1,29 @@
+{
+ "Date": "ca. 1880",
+ "Culture": "American or European",
+ "Medium": "wood, metal",
+ "Dimensions": "Length 5 1/2 in. (14 cm)",
+ "Credit Line": "Gift of Thomas V. Hass, 1990",
+ "Accession Number": "1990.327",
+ "What": "Metal",
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80031976,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1990.327.jpg",
+ "related-artworks": [
+  80000085,
+  80000183,
+  80000184,
+  80000196,
+  80000197
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80031976"
+  }
+ }
+}

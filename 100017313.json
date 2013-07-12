@@ -1,0 +1,40 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12, late–early 13",
+ "Date": "ca. 1850–1750 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Tomb of Senwosret , inside, Pit 754, MMA 1906–1907",
+ "Medium": "Beryl",
+ "Credit Line": "Rogers Fund, 1915",
+ "Accession Number": "15.3.302",
+ "What": [
+  "Amulets",
+  "Beryl"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100017313,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/15.3.302-ac.jpg",
+ "related-artworks": [
+  100001509,
+  100002945,
+  100003351,
+  100014993,
+  100016505
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100017313"
+  }
+ }
+}

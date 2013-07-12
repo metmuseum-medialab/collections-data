@@ -1,0 +1,34 @@
+{
+ "Date": "1910s",
+ "Culture": "American or European",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. W. Bayard Cutting, 1940",
+ "Accession Number": "C.I.40.106.31",
+ "What": [
+  "Costume",
+  "Silk",
+  "Underwear",
+  "Underskirts"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80037638,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI40.106.31_F.jpg",
+ "related-artworks": [
+  80007957,
+  80007938,
+  80007943,
+  80007919,
+  80007958
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80037638"
+  }
+ }
+}

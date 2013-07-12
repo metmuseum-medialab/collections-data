@@ -1,0 +1,42 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "Joint reign of Hatshepsut and Thutmose III",
+ "Date": "ca. 1473–1458 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Temple of Hatshepsut, forecourt, Foundation Deposit 4 (D), MMA 1923–24",
+ "Medium": "Wood",
+ "Dimensions": "L. 38 cm (14 15/16 in)",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.3.110",
+ "What": [
+  "Wood",
+  "Pegs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100034356,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/25.3.110.jpg",
+ "related-artworks": [
+  100005692,
+  100035198,
+  100035200,
+  100035199,
+  100014529
+ ],
+ "Provenance": [
+  "Museum excavations 1923–24. Acquired by the Museum in the division of finds, 1925."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100034356"
+  }
+ }
+}

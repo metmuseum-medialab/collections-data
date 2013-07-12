@@ -1,0 +1,51 @@
+{
+ "Manufacturer": "Josep Llorens Artigas (Spanish, Barcelona 1892–1980 Barcelona)",
+ "Date": "1942",
+ "Medium": "Painted earthenware",
+ "Dimensions": [
+  "H. 13, Diam. 11 inches",
+  "(34.9 x 27.9 cm.)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Florene M. Schoenborn, 1989",
+ "Accession Number": "1989.402",
+ "Who": [
+  "Joan Miró",
+  "Josep Llorens Artigas"
+ ],
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Vases",
+  "Earthenware",
+  "Painting"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Postwar Print Renaissance in America",
+  "Surrealism",
+  "School of Paris",
+  "Iberian Peninsula, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210005537,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT6336.jpg",
+ "related-artworks": [
+  90024232,
+  90024229,
+  90102561,
+  210003252,
+  210006725
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210005537"
+  }
+ }
+}

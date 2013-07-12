@@ -1,0 +1,34 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 16 1/2 in. (41.9 cm)",
+ "Credit Line": "Gift of Mrs. Kerr Rainsford, 1952",
+ "Accession Number": "C.I.52.11.5",
+ "What": [
+  "Cotton",
+  "Collars"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80052467,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI52.11.5.jpg",
+ "related-artworks": [
+  80029767,
+  80029772,
+  80029820,
+  80052096,
+  80052420
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052467"
+  }
+ }
+}

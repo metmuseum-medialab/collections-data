@@ -1,0 +1,41 @@
+{
+ "Date": "1923",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Plate 11 3/4 x 14 3/4 in. (29.9 x 37.5 cm)",
+  "Sheet 13 7/8 x 16 7/8 in. (35.3 x 42.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1925",
+ "Accession Number": "25.31.5",
+ "Who": "Edward Hopper",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Edward Hopper (1882–1967)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90038688,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818649.jpg",
+ "related-artworks": [
+  90038683,
+  90038685,
+  90038686,
+  90038691,
+  90038687
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90038688"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1580",
+ "Culture": "British and German, Siegburg",
+ "Medium": "Silver gilt, pottery",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1968",
+ "Accession Number": "1970.131.1",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Metalwork",
+  "Silver",
+  "Pottery",
+  "Gilt",
+  "Drinking vessels",
+  "Tankards"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021027,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/193168.jpg",
+ "related-artworks": [
+  120021028,
+  120020678,
+  120020710,
+  120008967,
+  120008163
+ ],
+ "Provenance": [
+  "[ Sotheby's, London , Important English and Foreign Silver, June 19, 1969, #210 ]",
+  "[ S. J. Phillips",
+  "to Irwin Untermyer, July 7, 1969 ]",
+  "Irwin Untermyer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021027"
+  }
+ }
+}

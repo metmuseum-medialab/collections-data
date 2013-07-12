@@ -1,0 +1,43 @@
+{
+ "Period": "Archaic",
+ "Date": "ca. 500 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; black-figure",
+ "Dimensions": [
+  "Other (width w/ handles) 9 1/4 in. (23.5 cm)",
+  "Diameter 7 5/8 × 5 1/16 × 4 1/16 in. (19.4 × 12.8 × 10.4 cm)",
+  "Height 10 1/8 in. (25.7 cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1906",
+ "Accession Number": "06.1021.50",
+ "Who": "Red-Line Painter",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Hydriae"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130007696,
+ "related-artworks": [
+  130007197,
+  130007702,
+  130007701,
+  130017108,
+  130017117
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130007696"
+  }
+ }
+}

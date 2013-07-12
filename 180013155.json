@@ -1,0 +1,49 @@
+{
+ "Date": "late 19th century",
+ "Geography": "Aoba island, Ambae, Vanuatu",
+ "Medium": "cane",
+ "Dimensions": "L. 76.4, D. +/- 2.2 cm.(Richard Campbell, '80)",
+ "Classification": "Aerophone-Blow Hole",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.796",
+ "What": [
+  "Musical instruments",
+  "Aerophones",
+  "Flutes",
+  "Cane",
+  "Gores"
+ ],
+ "Where": [
+  "Oceania",
+  "Vanuatu"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Melanesia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180013155,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/180013137"
+   },
+   {
+    "href": "http://scrapi.org/object/180013150"
+   },
+   {
+    "href": "http://scrapi.org/object/180013152"
+   },
+   {
+    "href": "http://scrapi.org/object/180013133"
+   },
+   {
+    "href": "http://scrapi.org/object/180013151"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/180013155"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/180013155"
+  }
+ }
+}

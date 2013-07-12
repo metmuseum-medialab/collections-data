@@ -1,0 +1,65 @@
+{
+ "Date": "mid-16th century",
+ "Culture": "French (Limoges)",
+ "Medium": "Painted enamel on copper, partly gilt",
+ "Dimensions": "H. 2 7/8 in.; W. 2 1/4 in. (5.7 cm.)",
+ "Classification": "Enamels",
+ "Credit Line": "Gift of George Blumenthal, 1941",
+ "Accession Number": "41.100.250 h",
+ "Who": "Jean II Pénicaud",
+ "What": [
+  "Metal",
+  "Gilt",
+  "Copper",
+  "Painting",
+  "Enamels",
+  "Plaques",
+  "Enamel"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Limousin",
+  "Limoges"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120027650,
+ "gallery-id": 544,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES1205.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/ES1205.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/256797.jpg"
+ ],
+ "Provenance": [
+  "Sigismond Bardac (until at least 1900)",
+  "George and Florence Blumenthal"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120012011"
+   },
+   {
+    "href": "http://scrapi.org/object/120012012"
+   },
+   {
+    "href": "http://scrapi.org/object/120012010"
+   },
+   {
+    "href": "http://scrapi.org/object/120013794"
+   },
+   {
+    "href": "http://scrapi.org/object/120014715"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120027650"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120027650"
+  }
+ }
+}

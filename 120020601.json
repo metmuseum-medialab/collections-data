@@ -1,0 +1,52 @@
+{
+ "Date": "1675–76",
+ "Culture": "British, London",
+ "Medium": "Silver",
+ "Dimensions": "H. 12 in. (30.5 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1968",
+ "Accession Number": "68.141.37a, b",
+ "Who": "J. C. (), London",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Lighting devices",
+  "Candleholders",
+  "Candlesticks"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020601,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/193403.jpg",
+ "related-artworks": [
+  120020599,
+  120020603,
+  120020605,
+  120020607,
+  120012626
+ ],
+ "Provenance": [
+  "Lady Tweedsmouth (until 1945",
+  "her sale, Sotheby's, June 7, 1945, no. 153)",
+  "Lady Baron (until 1956",
+  "sale, Sotheby's, July 5, 1956, no. 119)",
+  "[ S. J. Phillips (until 1945",
+  "to Irwin Untermyer, September 26, 1956) ]",
+  "Irwin Untermyer (1956–68",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120020601"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Lithographer": "Lithography by Knapp & Company (American, New York)",
+ "Date": "1889",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 3 1/16 × 1 3/4 in. (7.8 × 4.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 204, N88.81",
+ "Who": [
+  "W. Duke, Sons & Co.",
+  "Knapp & Company"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90102249,
+ "related-artworks": [
+  90096235,
+  90096238,
+  90096236,
+  90096249,
+  90096250
+ ],
+ "Description": "Trade cards from the \"Terrors of America\" series (N88), issued in 1889 to promote Duke's Mixture Smoking Tobacco produced by W. Duke Sons & Co. N-series cards advertising Duke's Mixture are slightly larger than those advertising Duke's Cigarettes and are extremely rare.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90102249"
+  }
+ }
+}

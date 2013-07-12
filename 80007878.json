@@ -1,0 +1,37 @@
+{
+ "Date": "1875–80",
+ "Culture": "British",
+ "Medium": "cotton",
+ "Dimensions": "Length at CF 40 1/4 in. (102.2 cm)",
+ "Credit Line": "Purchase, Irene Lewisohn and Alice L. Crowley Bequests, 1986",
+ "Accession Number": "1986.106.10",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Underwear",
+  "Underskirts",
+  "Petticoats"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80007878,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1986.106.10_S.jpg",
+ "related-artworks": [
+  80006401,
+  80036911,
+  80116330,
+  80013139,
+  80013580
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007878"
+  }
+ }
+}

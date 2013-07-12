@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1826–27",
+ "Medium": "Pen and brown ink, brush and brown wash, over traces of graphite",
+ "Dimensions": "sheet 4 1/2 x 6 in. (11.4 x 15.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Anonymous Gift in memory of Sisi Cahan, 2000",
+ "Accession Number": "2000.516",
+ "Who": "Richard Parkes Bonington",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Watercolor Painting in Britain, 1750–1850",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90010469,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800806.jpg",
+ "related-artworks": [
+  90007975,
+  90007976,
+  90007974,
+  90034108,
+  90051033
+ ],
+ "Provenance": [
+  "Eugène Delacroix (French, Charenton-Saint-Maurice 1798–1863 Paris)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010469"
+  }
+ }
+}

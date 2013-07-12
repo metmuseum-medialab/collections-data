@@ -1,0 +1,39 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "China",
+ "Medium": "Silk",
+ "Dimensions": "79 x 39 in. (200.66 x 99.06 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of John M. Crawford Jr., 1977",
+ "Accession Number": "1977.2a",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60044350,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/TP528C.jpg",
+ "related-artworks": [
+  60011724,
+  60012236,
+  60021232,
+  60021227,
+  60022178
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044350"
+  }
+ }
+}

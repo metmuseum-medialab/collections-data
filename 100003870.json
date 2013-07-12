@@ -1,0 +1,37 @@
+{
+ "Period": "Predynastic, Late Naqada l–Naqada II",
+ "Date": "ca. 3900–3500 B.C.",
+ "Geography": "Country of Origin Egypt, Northern Upper Egypt, el-Balyana (Balliana)",
+ "Medium": "Ivory (elephant)",
+ "Dimensions": "h. 10 x w. 5.9 x th. 1 cm (3 15/16 x 2 5/16 x 3/8 in.)",
+ "Credit Line": "Rogers Fund, 1955",
+ "Accession Number": "55.144.2",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Combs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100003870,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DP237725.jpg",
+ "related-artworks": [
+  100000267,
+  100003850,
+  100003851,
+  100003853,
+  100002566
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003870"
+  }
+ }
+}

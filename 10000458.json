@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1880",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Cherry",
+ "Dimensions": "118 x 69 1/2 x 89 1/2 in. (299.7 x 176.5 x 227.3 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Paul Martini, 1969",
+ "Accession Number": "69.146.1",
+ "Who": "Herter Brothers",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Cherry",
+  "Bedframes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000458,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/193954.jpg",
+ "related-artworks": [
+  10005559,
+  10002069,
+  10003782,
+  10005008,
+  10007634
+ ],
+ "Provenance": [
+  "Jay Gould, New York",
+  "Paul Martini Galleries, New York, until 1969"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000458"
+  }
+ }
+}

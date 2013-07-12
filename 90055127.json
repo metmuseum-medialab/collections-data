@@ -1,0 +1,46 @@
+{
+ "Date": "18th century",
+ "Medium": "Etching",
+ "Dimensions": "Overall 14 5/16 x 11 x 3/16 in. (36.3 x 27.9 x 0.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1930",
+ "Accession Number": "30.58.2(132-135)",
+ "Who": "Anonymous",
+ "What": [
+  "Etching",
+  "Books"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90055127,
+ "related-artworks": [
+  "http://scrapi.org/object/90055129",
+  "http://scrapi.org/object/90043137",
+  "http://scrapi.org/object/90054056",
+  "http://scrapi.org/object/90058137",
+  "http://scrapi.org/object/90060140"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90055129"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90043137"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90054056"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90058137"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90060140"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90055127"
+  }
+ }
+}

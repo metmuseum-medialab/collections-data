@@ -1,0 +1,43 @@
+{
+ "Date": "20th century",
+ "Geography": "Democratic Republic of the Congo",
+ "Culture": "Pende peoples",
+ "Medium": "Wood, pigments",
+ "Dimensions": "H. 35 7/8 x W. 12 3/4 x D. 12 7/8 in. (91.1 x 32.4 x 32.7 cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Purchase, Nelson A. Rockefeller Gift, 1968",
+ "Accession Number": "1978.412.578",
+ "Who": "Pende",
+ "What": [
+  "Costume",
+  "Sculpture",
+  "Masks",
+  "Ceremonial masks"
+ ],
+ "Where": [
+  "Africa",
+  "Democratic Republic of the Congo"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central Africa, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50003619,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1978.412.578.jpg",
+ "related-artworks": [
+  50004977,
+  50005048,
+  50009416,
+  50013214,
+  50002864
+ ],
+ "Provenance": [
+  "[Henri Kamer, Paris and New York, until 1968]",
+  "The Museum of Primitive Art, New York, 1968–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50003619"
+  }
+ }
+}

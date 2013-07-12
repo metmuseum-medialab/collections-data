@@ -1,0 +1,38 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Paper, ivory.",
+ "Dimensions": "10 1/2 x 19 3/4 in.  (26.7 x 50.2 cm)",
+ "Classification": "Fans",
+ "Credit Line": "Gift of Mrs. William Randolph Hearst, 1963",
+ "Accession Number": "63.90.75",
+ "What": [
+  "Costume",
+  "Paper",
+  "Bone",
+  "Ivory",
+  "Fans"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120026673,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/178898.jpg",
+ "related-artworks": [
+  120015691,
+  120026645,
+  120026340,
+  120026399,
+  120026400
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120026673"
+  }
+ }
+}

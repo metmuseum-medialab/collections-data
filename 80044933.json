@@ -1,0 +1,63 @@
+{
+ "Date": "1918–22",
+ "Culture": "American",
+ "Medium": "silk, glass, metal",
+ "Dimensions": [
+  "Length 10 in. (25.4 cm)",
+  "Height (of heel) 2 3/4 in. (7 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. Lee Ault and Mrs. Ray Hill, in memory of Mrs. Charles R. Leonard, 1979",
+ "Accession Number": "1979.416.6a, b",
+ "Who": "Nancy Haggerty",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Glass",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80044933,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1979.416.6ab_F.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80044931",
+  "http://scrapi.org/object/80044932",
+  "http://scrapi.org/object/80038607",
+  "http://scrapi.org/object/80044934",
+  "http://scrapi.org/object/80044935"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1979.416.6ab_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1979.416.6ab_B.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80044931"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80044932"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80038607"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80044934"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80044935"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80044933"
+  }
+ }
+}

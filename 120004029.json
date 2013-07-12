@@ -1,0 +1,43 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Canvas",
+ "Dimensions": "33-1/8 x 54 in.  (84.1 x 137.2 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+ "Accession Number": "07.225.259",
+ "Who": "Anne Vallayer-Coster",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Overdoors"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Eighteenth–Century Women Painters in France",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120004029,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ep07.225.259.bw.R.jpg",
+ "related-artworks": [
+  120004239,
+  110002317,
+  90041434,
+  90041436,
+  120040776
+ ],
+ "Provenance": [
+  "Georges Hoentschel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120004029"
+  }
+ }
+}

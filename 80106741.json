@@ -1,0 +1,48 @@
+{
+ "Date": "1870–89",
+ "Culture": "French",
+ "Medium": "Tortoiseshell, silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. J. J. Wyle, 1940",
+ "Accession Number": "2009.300.4298",
+ "What": [
+  "Costume",
+  "Silk",
+  "Fans",
+  "Tortoise shell",
+  "Brisé fans"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 80106741,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/40.798_CP2.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80094581"
+   },
+   {
+    "href": "http://scrapi.org/object/80106734"
+   },
+   {
+    "href": "http://scrapi.org/object/80106937"
+   },
+   {
+    "href": "http://scrapi.org/object/80107108"
+   },
+   {
+    "href": "http://scrapi.org/object/80107819"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80106741"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80106741"
+  }
+ }
+}

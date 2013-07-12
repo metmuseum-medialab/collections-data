@@ -1,0 +1,54 @@
+{
+ "Artist": "after Francesco Primaticcio (Italian, Bologna 1504/5–1570 Paris)",
+ "Date": "ca. 1540–45",
+ "Medium": "Etching",
+ "Dimensions": "6 9/16 x 10 1/16 in.  (16.6 x 25.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1932",
+ "Accession Number": "32.92.4",
+ "Who": [
+  "Francesco Primaticcio",
+  "Léon Davent"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Fontainebleau",
+  "France, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90004414,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90003988"
+   },
+   {
+    "href": "http://scrapi.org/object/90004146"
+   },
+   {
+    "href": "http://scrapi.org/object/90004148"
+   },
+   {
+    "href": "http://scrapi.org/object/90004215"
+   },
+   {
+    "href": "http://scrapi.org/object/90004330"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90004414"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90004414"
+  }
+ }
+}

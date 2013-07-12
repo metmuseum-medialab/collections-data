@@ -1,0 +1,54 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19–20",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Steatite",
+ "Dimensions": "L.1.7 cm",
+ "Credit Line": "Purchase, Edward S. Harkness Gift, 1926",
+ "Accession Number": "26.7.502",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Talc",
+  "Steatite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100028127,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsc502b.jpg",
+ "Provenance": [
+  "Formerly Timmins Collection. Acquired by for his collection by Lord Carnarvon before 1923. Carnarvon Collection purchased by the Museum from Lady Carnarvon, 1926."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100000445"
+   },
+   {
+    "href": "http://scrapi.org/object/100000627"
+   },
+   {
+    "href": "http://scrapi.org/object/100000629"
+   },
+   {
+    "href": "http://scrapi.org/object/100000632"
+   },
+   {
+    "href": "http://scrapi.org/object/100000635"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100028127"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100028127"
+  }
+ }
+}

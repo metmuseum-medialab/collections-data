@@ -1,0 +1,52 @@
+{
+ "Period": "Late Period–Ptolemaic Period",
+ "Dynasty": "Dynasty 26–30",
+ "Date": "664–30 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Dimensions": "H. 4.2 cm",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.2461",
+ "What": [
+  "Faience",
+  "Amulets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "id": 100010378,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs17.194.2461.jpg",
+ "Provenance": [
+  "Formerly Gréau Collection. Purchased by J. Pierpont Morgan before 1903. Donated to the Museum, 1917."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100000287"
+   },
+   {
+    "href": "http://scrapi.org/object/100000329"
+   },
+   {
+    "href": "http://scrapi.org/object/100001732"
+   },
+   {
+    "href": "http://scrapi.org/object/100001821"
+   },
+   {
+    "href": "http://scrapi.org/object/100001818"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100010378"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100010378"
+  }
+ }
+}

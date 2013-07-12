@@ -1,0 +1,45 @@
+{
+ "Artist": "Unknown Spanish",
+ "Date": "19th century",
+ "Culture": "Italian or Spanish",
+ "Medium": "Reddish copper alloy with dull brown to pale green patina.",
+ "Dimensions": "H. 8.1 cm, diam. 11.1 cm (rim).",
+ "Classification": "Metalwork",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.1423",
+ "Who": [
+  "Unknown Italian",
+  "Unknown Spanish"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Copper",
+  "Patina",
+  "Mortar"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 150008052,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/1423-1.jpg",
+ "related-artworks": [
+  150007449,
+  150007823,
+  150007401,
+  150007405,
+  150008283
+ ],
+ "Provenance": [
+  "Mrs. Albert E. Goodhart, New York.  Bequeathed by Mrs. Goodhart to Robert Lehman in August 1952."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008052"
+  }
+ }
+}

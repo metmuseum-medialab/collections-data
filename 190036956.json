@@ -1,0 +1,75 @@
+{
+ "Date": "April 17, 1927",
+ "Medium": "Ink on paper",
+ "Classification": "Manuscript Materials",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.250.1.24",
+ "Who": "Walker Evans",
+ "What": [
+  "Ink",
+  "Paper",
+  "Manuscripts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Walker Evans (1903–1975)",
+  "Kodak and the Rise of Amateur Photography",
+  "Early Documentary Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190036956,
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42397.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42398.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42399.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42400.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42401.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42402.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42403.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42404.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42405.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42406.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42407.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42408.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42409.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42410.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42411.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42412.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42413.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42414.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42415.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42416.jpg",
+  "http://images.metmuseum.org/CRDImages/ph/original/DP42417.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190034852"
+   },
+   {
+    "href": "http://scrapi.org/object/190034854"
+   },
+   {
+    "href": "http://scrapi.org/object/190034853"
+   },
+   {
+    "href": "http://scrapi.org/object/190034855"
+   },
+   {
+    "href": "http://scrapi.org/object/190034859"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190036956"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190036956"
+  }
+ }
+}

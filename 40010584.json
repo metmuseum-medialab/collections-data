@@ -1,0 +1,45 @@
+{
+ "Date": "19th century",
+ "Culture": "Japanese",
+ "Classification": "Sword Furniture",
+ "Credit Line": "Bequest of Edward G. Kennedy, 1932",
+ "Accession Number": "33.40.59",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40010584,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40002602"
+   },
+   {
+    "href": "http://scrapi.org/object/40002635"
+   },
+   {
+    "href": "http://scrapi.org/object/40002611"
+   },
+   {
+    "href": "http://scrapi.org/object/40002862"
+   },
+   {
+    "href": "http://scrapi.org/object/40004252"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40010584"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40010584"
+  }
+ }
+}

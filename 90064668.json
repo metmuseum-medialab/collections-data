@@ -1,0 +1,25 @@
+{
+ "Date": "1800–1900",
+ "Medium": "Pen and wash",
+ "Dimensions": "16 x 9-1/2 in",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.692.12",
+ "Who": "Anonymous, Italian, 19th century",
+ "What": "Drawings",
+ "In the Museum": "Drawings and Prints",
+ "id": 90064668,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803892.jpg",
+ "related-artworks": [
+  90003949,
+  90007294,
+  90007299,
+  90009001,
+  90009144
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90064668"
+  }
+ }
+}

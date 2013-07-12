@@ -1,0 +1,41 @@
+{
+ "Artist": "After Antoine Coysevox (French, Lyons 1640–1724 Paris)",
+ "Date": "1720–81",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 19 11/16 x 8 11/16 x 3/8 in. (50 x 22 x 1 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.69.16",
+ "Who": [
+  "Jacques Dumont, called le Romain",
+  "Antoine Coysevox"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90015485,
+ "related-artworks": [
+  90016630,
+  90008880,
+  90071651,
+  90004102,
+  90004103
+ ],
+ "Provenance": [
+  "Pierre Germain (French, Villeneuve-lès-Avignon 1703–1783 Paris)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90015485"
+  }
+ }
+}

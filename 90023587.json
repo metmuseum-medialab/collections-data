@@ -1,0 +1,31 @@
+{
+ "Publisher": "Published by Bartolomeo Zanetti (Italian, active 1609–23)",
+ "Date": "August 1540",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1937",
+ "Accession Number": "37.37.3",
+ "Who": [
+  "Bartolomeo Zanetti",
+  "Francesco Priscianus"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023587,
+ "related-artworks": [
+  90023586,
+  90000769,
+  90012312,
+  90024200
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023587"
+  }
+ }
+}

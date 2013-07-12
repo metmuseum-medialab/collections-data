@@ -1,0 +1,39 @@
+{
+ "Period": "Hellenistic or Early Imperial",
+ "Date": "ca. 1st century B.C.–1st century A.D.",
+ "Culture": "Greek or Roman",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 5 5/16 in. (13.5 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "Gift of The American Society for the Excavation of Sardis, 1926",
+ "Accession Number": "26.199.52",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Italian Peninsula, 1000 B.C.–1 A.D.",
+  "Italian Peninsula, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130013113,
+ "related-artworks": [
+  130005215,
+  130005978,
+  130005979,
+  130005981,
+  130005983
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013113"
+  }
+ }
+}

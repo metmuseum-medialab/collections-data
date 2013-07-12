@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Geography": "Japan",
+ "Medium": "Wood",
+ "Dimensions": "L. 39.7 cm (15-5/8 in.)",
+ "Classification": "Aerophone-Blow Hole",
+ "Credit Line": "Gift of Mrs. Howard Mansfield, 1948",
+ "Accession Number": "48.126.1",
+ "What": [
+  "Musical instruments",
+  "Aerophones",
+  "Flutes",
+  "Transverse flutes",
+  "Ryuteki"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180014800,
+ "gallery-id": 681,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/142070.jpg",
+ "related-artworks": [
+  180014478,
+  180014741,
+  180013813,
+  180013840,
+  180014773
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180014800"
+  }
+ }
+}

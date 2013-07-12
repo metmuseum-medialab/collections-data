@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Culture": "German",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "4 1/4 x 6 inches",
+  "10.8 x 15.2 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.354",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120033409,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP526.jpg",
+ "related-artworks": [
+  120033370,
+  120033369,
+  120033462,
+  120033467,
+  120033472
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120033409"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "1799–1800",
+ "Medium": "Ink",
+ "Dimensions": "sheet 14 3/4 x 9 3/4 in. (37.5 x 24.8 cm)",
+ "Classification": "Albums",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.632.3",
+ "Who": "William Smith",
+ "What": [
+  "Ink",
+  "Books",
+  "Albums"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90025243,
+ "related-artworks": [
+  90000429,
+  90011834,
+  90012744,
+  90014913,
+  90015183
+ ],
+ "Provenance": [
+  "Vendor: Benjamin Weinreb (London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90025243"
+  }
+ }
+}

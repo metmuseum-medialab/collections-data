@@ -1,0 +1,38 @@
+{
+ "Period": "Central Javanese period",
+ "Date": "9th century",
+ "Culture": "Indonesia (Java)",
+ "Medium": "Andesite",
+ "Dimensions": "H. 13 3/8 in. (34 cm); W. 9 13/16 in. (25 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1982",
+ "Accession Number": "1982.220.3",
+ "What": [
+  "Sculpture",
+  "Andesite"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005216,
+ "gallery-id": 247,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1982_220_3.jpg",
+ "related-artworks": [
+  60005220,
+  60005218,
+  60005219,
+  60005222,
+  60005223
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005216"
+  }
+ }
+}

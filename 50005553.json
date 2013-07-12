@@ -1,0 +1,44 @@
+{
+ "Date": "3rd–16th century",
+ "Geography": "Colombia",
+ "Culture": "Quimbaya",
+ "Medium": "Ceramic",
+ "Dimensions": "H. 9 7/8 x W. 7 1/4 in. (25.1 x 18.4 cm)",
+ "Classification": "Ceramics-Containers",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.704",
+ "Who": "Quimbaya",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Bottles"
+ ],
+ "Where": [
+  "South America",
+  "Colombia"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Northern Andes, 1–500A.D.",
+  "Northern Andes, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50005553,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1979.206.704.jpg",
+ "related-artworks": [
+  50002334,
+  50010977,
+  50010978,
+  50010982,
+  50002822
+ ],
+ "Provenance": [
+  "Kurt Stavenhagen, Mexico City, until 1958",
+  "Nelson A. Rockefeller, New York, 1958, on loan to The Museum of Primitive Art, New York, 1958–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50005553"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "1981",
+ "Medium": "Cotton, rayon, sisal",
+ "Dimensions": "94 x 46in. (238.8 x 116.8cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Elizabeth Dann Jones, 1981",
+ "Accession Number": "1981.299",
+ "Who": "Cynthia Schira",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Woven",
+  "Plant fiber",
+  "Rayon",
+  "Sisal"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210002483,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT8688.jpg",
+ "related-artworks": [
+  210001015,
+  210004415,
+  210004417,
+  210001016,
+  210001073
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210002483"
+  }
+ }
+}

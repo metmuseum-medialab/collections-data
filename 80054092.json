@@ -1,0 +1,34 @@
+{
+ "Date": "ca. 1880",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. I. A. Simon, 1940",
+ "Accession Number": "C.I.40.93.23",
+ "What": [
+  "Needlework",
+  "Lace"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80054092,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI40.93.23.jpg",
+ "related-artworks": [
+  80030235,
+  80030909,
+  80054091,
+  80001325,
+  80001352
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80054092"
+  }
+ }
+}

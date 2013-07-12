@@ -1,0 +1,43 @@
+{
+ "Date": "late 17th century",
+ "Culture": "French",
+ "Medium": "Marble",
+ "Dimensions": "26-1/4 x 22-3/8 in.  (66.7 x 56.8 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1923",
+ "Accession Number": "23.34",
+ "Who": "François Girardon",
+ "What": [
+  "Sculpture",
+  "Reliefs",
+  "Marble"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009729,
+ "gallery-id": 531,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF23_34.jpg",
+ "related-artworks": [
+  120013334,
+  120000835,
+  120013750,
+  90042353,
+  90098248
+ ],
+ "Provenance": [
+  "said to have come from A German Collection",
+  "[ Goldschmidt , 1923",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009729"
+  }
+ }
+}

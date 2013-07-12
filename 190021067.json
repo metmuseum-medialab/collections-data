@@ -1,0 +1,39 @@
+{
+ "Date": "1850s–60s",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "28.0 x 32.3 cm. (11  x 12  3/4  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "David Hunter McAlpin Fund, 1948",
+ "Accession Number": "48.83.24",
+ "Who": "Franz Antoine",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190021067,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP111496.jpg",
+ "related-artworks": [
+  190021051,
+  190021052,
+  190021053,
+  190021054,
+  190021055
+ ],
+ "Provenance": [
+  "Franz Antoine III (son of the photographer)",
+  "Heinrich Schwarz, 1935"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190021067"
+  }
+ }
+}

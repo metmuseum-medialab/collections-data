@@ -1,0 +1,44 @@
+{
+ "Period": "Sasanian–early Islamic",
+ "Date": "ca. 6th–8th century A.D.",
+ "Geography": "Mesopotamia, Ctesiphon",
+ "Culture": "Sasanian or Islamic",
+ "Medium": "Glass",
+ "Dimensions": "1.12 in. (2.84 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1932",
+ "Accession Number": "32.150.153",
+ "Who": "Sasanian",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Ctesiphon"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30001385,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/me32_150_153.jpg",
+ "related-artworks": [
+  30001388,
+  30001376,
+  30001380,
+  30001381,
+  30001384
+ ],
+ "Provenance": [
+  "1931–32, excavated by the Joint Expedition of the Staatliche Museen of Berlin and the Metropolitan Museum of Art",
+  "acquired by the Museum in 1932, ceded in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30001385"
+  }
+ }
+}

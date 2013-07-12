@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1465",
+ "Medium": "Distemper on canvas",
+ "Dimensions": "43 x 63 in. (109.2 x 160 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of George Blumenthal, 1941",
+ "Accession Number": "41.190.21",
+ "Who": "Justus of Ghent (Joos van Wassenhove)",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Distemper"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "Early Netherlandish Painting",
+  "Low Countries, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110001247,
+ "gallery-id": 641,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT7230.jpg",
+ "related-artworks": [
+  110000209,
+  110001412,
+  110001948,
+  110000537,
+  110001599
+ ],
+ "Provenance": [
+  "Duques de Frías, Convento de Santa Clara, Medina de Pomar, near Burgos (probably until the 1880s)",
+  "[Jacques Seligmann, Paris and New York, by 1922–24",
+  "sold to Blumenthal]",
+  "George Blumenthal, New York (1924–d. 1941",
+  "cat., vol. 1, 1926, pl. XLVI)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001247"
+  }
+ }
+}

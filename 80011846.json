@@ -1,0 +1,38 @@
+{
+ "Date": "early 20th century",
+ "Culture": "Chinese",
+ "Medium": "silk",
+ "Dimensions": "Length 17 in. (43.2 cm)",
+ "Credit Line": "Gift of Mrs. David W. Griffiths, Mrs. John S. Dietz, and Mrs. George J. Telecki, 1978",
+ "Accession Number": "1978.386.16",
+ "What": [
+  "Costume",
+  "Silk",
+  "Headbands"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80011846,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.386.16.jpg",
+ "related-artworks": [
+  80011847,
+  80011848,
+  80060064,
+  80011842,
+  80010851
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80011846"
+  }
+ }
+}

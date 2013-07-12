@@ -1,0 +1,34 @@
+{
+ "Date": "13th century",
+ "Culture": "French or German",
+ "Classification": "Archery Equipment",
+ "Credit Line": "Gift of Clarence H. Mackay, Archer M. Huntington, Stephen H. P. Pell and Bashford Dean, 1928",
+ "Accession Number": "28.99.28–.29",
+ "What": [
+  "Arms",
+  "Archery",
+  "Bows",
+  "Crossbows"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40004756,
+ "related-artworks": [
+  40005882,
+  40005929,
+  40012204,
+  40012203,
+  40012531
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40004756"
+  }
+ }
+}

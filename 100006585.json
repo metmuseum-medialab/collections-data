@@ -1,0 +1,63 @@
+{
+ "Period": "New Kingdom, Amarna Period",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Akhenaten",
+ "Date": "ca. 1353–1336 B.C.",
+ "Geography": "Country of Origin Egypt, Middle Egypt, el-Amarna probably; Hermopolis possibly",
+ "Medium": "Limestone, paint",
+ "Dimensions": "H. 21.5 cm (8 7/16 in); w. 53.5 cm (21 1/16 in)",
+ "Credit Line": "Gift of Norbert Schimmel, 1985",
+ "Accession Number": "1985.328.14",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Reliefs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Amarna"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100006585,
+ "gallery-id": 121,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DT8199.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/100000253",
+  "http://scrapi.org/object/100000260",
+  "http://scrapi.org/object/100001287",
+  "http://scrapi.org/object/100001330",
+  "http://scrapi.org/object/100001331"
+ ],
+ "related-images": [],
+ "Description": "The spontaneous, festive mood of this cluster of young women is achieved by their irregular groupng and by the pose of the women at the upper right who raise their arms in welcome or celebration. Below, three women appear to be sipping from shallow bowls. Behind the group is part of another scene; the small bent figure of a servant apparently engaged in some domstic task.",
+ "Provenance": [
+  "Norbert Schimmel Collection, by 1964, published and exhibited frequently from that time. Donated to the Museum by Mr. Schimmel, 1985."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000253"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000260"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100001287"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100001330"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100001331"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100006585"
+  }
+ }
+}

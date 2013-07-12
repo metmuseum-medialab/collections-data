@@ -1,0 +1,37 @@
+{
+ "Date": "third quarter 19th century",
+ "Culture": "American",
+ "Medium": "glass, linen, metal, silk",
+ "Dimensions": "6 1/2 x 8 1/2 in. (16.5 x 21.6 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mr. and Mrs. Maxime L. Hermanos, 1966",
+ "Accession Number": "2009.300.2085",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Glass",
+  "Linen",
+  "Bags"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80094726,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/66.14.27_CP4.jpg",
+ "related-artworks": [
+  80094472,
+  80106639,
+  80107904,
+  80107905,
+  80094291
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80094726"
+  }
+ }
+}

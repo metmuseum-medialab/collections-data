@@ -1,0 +1,50 @@
+{
+ "Publisher": "Richard Ware (London)",
+ "Date": "1756",
+ "Dimensions": "4 3/4 x 2 3/4 in. (12.1 x 7 cm)",
+ "Classification": "Books",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.100.85",
+ "Who": [
+  "Batty Langley",
+  "Richard Ware"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90020704,
+ "Provenance": [
+  "Donor: Bequest of William Gedney Beatty"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90020620"
+   },
+   {
+    "href": "http://scrapi.org/object/90020624"
+   },
+   {
+    "href": "http://scrapi.org/object/90020621"
+   },
+   {
+    "href": "http://scrapi.org/object/90020623"
+   },
+   {
+    "href": "http://scrapi.org/object/90020626"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90020704"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90020704"
+  }
+ }
+}

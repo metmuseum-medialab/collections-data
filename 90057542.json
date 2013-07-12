@@ -1,0 +1,43 @@
+{
+ "Artist": "After Jan van der Straet, called Stradanus (Flemish, Bruges 1523–1605 Florence)",
+ "Date": "n.d.",
+ "Medium": "Engraving",
+ "Dimensions": "8 1/4 x 9 7/8 in. (21 x 25.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.95.1038",
+ "Who": [
+  "Adriaen Collaert",
+  "Jan van der Straet, called Stradanus"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Materials and Techniques of English Embroidery of the Late Tudor and Stuart Eras",
+  "English Embroidery of the Late Tudor and Stuart Eras",
+  "Low Countries, 1400–1600 A.D.",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90057542,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP168497.jpg",
+ "related-artworks": [
+  90025570,
+  90054109,
+  90089799,
+  90094962,
+  90101227
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90057542"
+  }
+ }
+}

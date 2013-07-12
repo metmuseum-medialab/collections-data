@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1904",
+ "Medium": "Graphite",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Hermann G. Pundt Gift and Edward Pearse Casey, 1981",
+ "Accession Number": "1981.1005.24",
+ "Who": "Frank Lloyd Wright",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Frank Lloyd Wright (1867–1959)",
+  "The Arts and Crafts Movement in America",
+  "Art Nouveau",
+  "America Comes of Age 1876–1900",
+  "Design, 1900–25",
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 90055591,
+ "related-artworks": [
+  90040147,
+  90040148,
+  90040175,
+  90040149,
+  90040150
+ ],
+ "Provenance": [
+  "Hermann G. Pundt (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90055591"
+  }
+ }
+}

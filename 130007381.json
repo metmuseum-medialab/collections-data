@@ -1,0 +1,41 @@
+{
+ "Period": "Mid-Imperial",
+ "Date": "late 1st–early 2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Bronze",
+ "Dimensions": "L. 12 1/2 in. (31.8 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Purchase, 1900",
+ "Accession Number": "00.13.7",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Shovels"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130007381,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP20385.jpg",
+ "related-artworks": [
+  130007379,
+  130007380,
+  130011682,
+  130004165,
+  130004677
+ ],
+ "Provenance": [
+  "Said to be from the Hauran, Syria"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130007381"
+  }
+ }
+}

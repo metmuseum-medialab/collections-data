@@ -1,0 +1,47 @@
+{
+ "Object Name": "Fragment of a bowl",
+ "Date": "9th–10th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware; yellow glaze over reddish body with white slip, black decoration",
+ "Dimensions": "Original H. 2 9/16 in. (6.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1940",
+ "Accession Number": "40.170.504",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Fragments",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Bowls",
+  "Slip"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140007459,
+ "related-artworks": [
+  140006308,
+  140006618,
+  140007446,
+  140007479,
+  140007515
+ ],
+ "Provenance": [
+  "1938, purchased in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1940, accessioned by the Museum"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007459"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Lithographer": "Knapp & Company (American, New York)",
+ "Date": "1889",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 4 3/16 × 2 1/2 in. (10.6 × 6.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 205, N107.31",
+ "Who": [
+  "W. Duke, Sons & Co.",
+  "Knapp & Company"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90103288,
+ "related-artworks": [
+  90096235,
+  90096238,
+  90096236,
+  90096249,
+  90096250
+ ],
+ "Description": "Trade cards from the \"Fancy Dress Ball Costumes\" series (N107), issued in a set of 50 cards in 1889 to promote Honest Long Cut Tobacco, manufactured by W. Duke Sons & Co. Each card depicts a famous actress of the day wearing an elaborate hat. Series N107 uses the same checklist of images as the smaller-format series, N73. In N107, however, each image is surrounded by a colored border, expanding the size of the overall card.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90103288"
+  }
+ }
+}

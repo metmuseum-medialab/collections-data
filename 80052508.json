@@ -1,0 +1,35 @@
+{
+ "Date": "1850–99",
+ "Culture": "French",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of the Heirs of Maud van Cortlandt Taylor Hill, 1965",
+ "Accession Number": "C.I.65.30.12",
+ "What": [
+  "Costume",
+  "Headcloths",
+  "Headscarves"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80052508,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI65.30.12.jpg",
+ "related-artworks": [
+  80096318,
+  80061718,
+  80095380,
+  80062105,
+  80095131
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052508"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Period": "Late Classical or Hellenistic",
+ "Date": "4th–3rd century B.C.",
+ "Culture": "Greek, South Italian, Tarentine",
+ "Medium": "Terracotta",
+ "Dimensions": [
+  "H. 6 3/4\" (17.1 cm)",
+  "width  2 1/2\"  (6.4 cm)",
+  "length  6 3/4\" (17.1 cm)"
+ ],
+ "Classification": "Terracottas",
+ "Credit Line": "Purchase, Abraham Foundation Gift, 2000",
+ "Accession Number": "2000.659",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130017980,
+ "gallery-id": 161,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/GR895.jpg",
+ "related-artworks": [
+  130007414,
+  130008377,
+  130008372,
+  130008641,
+  130009188
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130017980"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Period": "Early Minoan II-Late Minoan III",
+ "Date": "ca. 2900-1050 B.C.",
+ "Culture": "Minoan",
+ "Medium": "Bronze",
+ "Dimensions": "L. 3 9/16 in. (9 cm.)",
+ "Classification": "Bronzes",
+ "Credit Line": "Gift of the American Exploration Society, 1907",
+ "Accession Number": "07.232.1",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Tweezers"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades",
+  "Minoa"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southern Europe, 8000–2000 B.C.",
+  "Southern Europe, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130008092,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP20413.jpg",
+ "related-artworks": [
+  130012896,
+  130012879,
+  130008102,
+  130008103,
+  130008093
+ ],
+ "Description": "This tweezer type occurred first in the Early Minoan II period and became the standard type used on Crete in the Late Bronze Age.",
+ "Provenance": [
+  "From Gournia, Crete"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130008092"
+  }
+ }
+}

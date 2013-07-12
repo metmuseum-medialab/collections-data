@@ -1,0 +1,55 @@
+{
+ "Period": "Early to Mid Imperial",
+ "Date": "1st–2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": [
+  "Overall 4 in. (10.2 cm)",
+  "Diam. 2 1/4 x 1 1/4 in. (5.7 x 3.2 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.5782",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Jugs"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "id": 130005129,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP205594.jpg",
+ "Description": "Translucent pale blue green, with same color handle.Tubular rim, folded out, round, and in, and pressed into top of mouth; short cylindrical neck with uneven tooled indents; straight sides to conical body; pushed-in bottom; strap handle applied as a pad on top of body, drawn out in a loop and trailed on to edge of rim and top of neck, with vertical loop above.Intact; some pinprick bubbles; dulling, faint iridescence, limy encrustation and weathering.",
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130000156"
+   },
+   {
+    "href": "http://scrapi.org/object/130000157"
+   },
+   {
+    "href": "http://scrapi.org/object/130000192"
+   },
+   {
+    "href": "http://scrapi.org/object/130000185"
+   },
+   {
+    "href": "http://scrapi.org/object/130000173"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130005129"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130005129"
+  }
+ }
+}

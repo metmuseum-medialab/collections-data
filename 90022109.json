@@ -1,0 +1,34 @@
+{
+ "Date": "1887",
+ "Medium": "Photomechanical process",
+ "Dimensions": "10 9/16 x 6 13/16 in. (26.9 x 17.3 cm)",
+ "Classification": "Books",
+ "Credit Line": "Myra Carter Church Fund, 1957",
+ "Accession Number": "57.542.2",
+ "Who": "J. L. Mott Iron Works",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90022109,
+ "related-artworks": [
+  90022108,
+  90022118,
+  90022117,
+  90022110,
+  90022112
+ ],
+ "Provenance": [
+  "Donor: Myra Carter Church 1957"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90022109"
+  }
+ }
+}

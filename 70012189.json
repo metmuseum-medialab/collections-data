@@ -1,0 +1,40 @@
+{
+ "Date": "15th–16th century",
+ "Culture": "European",
+ "Medium": "Iron",
+ "Dimensions": "Overall 6 1/2 x 6 3/4 x 2 in. (16.5 x 17.1 x 5.1 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "The Cloisters Collection, 1955",
+ "Accession Number": "55.61.83a, b",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Plate",
+  "Nails"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "MetPublications": "Search for related Met publications",
+ "id": 70012189,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi55-61-83ab.jpg",
+ "related-artworks": [
+  70011980,
+  70012181,
+  70012182,
+  70012196,
+  70012197
+ ],
+ "Provenance": [
+  "Samuel Yellin (sold 1955)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70012189"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "1944",
+ "Medium": "Lithograph",
+ "Dimensions": "12 7/8 x 9 7/8 in. (32.7 x 25.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Pierre and Maria-Gaetana Matisse Collection, 2002",
+ "Accession Number": "2002.456.65",
+ "Rights and Reproduction": "© 2011 Artists Rights Society (ARS), New York",
+ "Who": "Jean Dubuffet",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "School of Paris",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210014587,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP105822.jpg",
+ "related-artworks": [
+  210006800,
+  210014585,
+  90049581,
+  90049582,
+  90049583
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210014587"
+  }
+ }
+}

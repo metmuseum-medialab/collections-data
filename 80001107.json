@@ -1,0 +1,39 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Culture": "Canadian",
+ "Medium": "cotton, wool",
+ "Dimensions": "Length at CB 29 in. (73.7 cm)",
+ "Credit Line": "The Jacqueline Loewe Fowler Costume Collection, Gift of Jacqueline Loewe Fowler, 1995",
+ "Accession Number": "1995.386.2",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Wool",
+  "Underwear",
+  "Undershirts"
+ ],
+ "Where": [
+  "North and Central America",
+  "Canada"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80001107,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1995.386.2.jpg",
+ "related-artworks": [
+  80002966,
+  80115480,
+  80005684,
+  80008126,
+  80014467
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001107"
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "Printer": "Destouches (Paris)",
+ "Publisher": "Martinet (Paris)",
+ "Date": "June 24, 1865",
+ "Medium": "Lithograph; second state",
+ "Dimensions": [
+  "Image 9 7/16 x 8 9/16 in. (24 x 21.8 cm)",
+  "Sheet 11 1/2 x 10 7/8 in. (29.2 x 27.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "22.61.297",
+ "Who": [
+  "Honoré Daumier",
+  "Martinet",
+  "Destouches"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Nineteenth–Century French Realism",
+  "The Print in the Nineteenth Century",
+  "Vincent van Gogh (1853–1890) The Drawings",
+  "Lithography in the Nineteenth Century",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90067964,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818589.jpg",
+ "related-artworks": [
+  90000157,
+  90000514,
+  90001678,
+  90001677,
+  90003040
+ ],
+ "Provenance": [
+  "Albert Maroni (French, 1852–1923)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90067964"
+  }
+ }
+}

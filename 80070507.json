@@ -1,0 +1,41 @@
+{
+ "Secondary Line": "Yves Saint Laurent Rive Gauche (French, founded 1966)",
+ "Date": "early 1970s",
+ "Culture": "French",
+ "Medium": "leather, metal",
+ "Dimensions": "Length 35 in. (88.9 cm)",
+ "Credit Line": "Gift of Thomas L. Kempner, 2006",
+ "Accession Number": "2006.420.157",
+ "Who": [
+  "Yves Saint Laurent, Paris",
+  "Yves Saint Laurent Rive Gauche"
+ ],
+ "What": [
+  "Metal",
+  "Costume",
+  "Leather",
+  "Belts"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80070507,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/TR.171.1666zz.2006.jpg",
+ "related-artworks": [
+  80116192,
+  80095316,
+  80070864,
+  80116349,
+  80001812
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80070507"
+  }
+ }
+}

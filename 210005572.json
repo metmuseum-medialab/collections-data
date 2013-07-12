@@ -1,0 +1,36 @@
+{
+ "Medium": "Tempera on paper",
+ "Dimensions": [
+  "H. 20-1/2, W. 26 inches",
+  "(52.1 x 66 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Allen Leepa, 1990",
+ "Accession Number": "1990.110.10",
+ "Who": "Abraham Rattner",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Tempera"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Modern and Contemporary Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 210005572,
+ "related-artworks": [
+  210005584,
+  210005585,
+  210005587,
+  210005573,
+  210005589
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210005572"
+  }
+ }
+}

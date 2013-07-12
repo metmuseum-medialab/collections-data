@@ -1,0 +1,41 @@
+{
+ "Artist": "After Giulio Romano (Italian, Rome 1499?–1546 Mantua)",
+ "Date": "1558",
+ "Medium": "Engraving; second state of three",
+ "Dimensions": "sheet 5 7/16 x 8 3/4 in. (13.8 x 22.2 cm) within platemark",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.1838",
+ "Who": [
+  "Giulio Romano",
+  "Giorgio Ghisi"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Lovers in Italian Mythological Prints",
+  "Poets in Italian Mythological Prints"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90040363,
+ "related-artworks": [
+  90028464,
+  90032370,
+  90032418,
+  90039870,
+  90039877
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90040363"
+  }
+ }
+}

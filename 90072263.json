@@ -1,0 +1,36 @@
+{
+ "Medium": "Engraving",
+ "Dimensions": "image 8 x 9 1/8 in. (20.3 x 23.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.382",
+ "Who": "Charles Errard le fils",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90072263,
+ "related-artworks": [
+  90072261,
+  90072260,
+  90072262,
+  90072276,
+  90072278
+ ],
+ "Provenance": [
+  "Phyllis D. Massar",
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90072263"
+  }
+ }
+}

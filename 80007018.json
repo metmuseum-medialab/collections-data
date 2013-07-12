@@ -1,0 +1,33 @@
+{
+ "Date": "19th century–early 20th century",
+ "Culture": "Asian, Central (Bokharan peoples)",
+ "Medium": "cotton, silk",
+ "Dimensions": "Length 51 in. (129.5 cm)",
+ "Credit Line": "Purchase, Irene Lewisohn Bequest, 1971",
+ "Accession Number": "1971.38.1",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Caftans"
+ ],
+ "Where": [
+  "Asia"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80007018,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1971.38.1_F.jpg",
+ "related-artworks": [
+  80006851,
+  80006852,
+  80007016,
+  80007019,
+  80007030
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007018"
+  }
+ }
+}

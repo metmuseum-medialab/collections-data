@@ -1,0 +1,43 @@
+{
+ "Period": "Cypro-Archaic II",
+ "Date": "ca. 575–550 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Limestone",
+ "Dimensions": "Overall 15 3/4 × 13 3/4 × 8 3/4 in. (40 × 34.9 × 22.2 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2517",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Limestone",
+  "Statues"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130002534,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP263902.jpg",
+ "related-artworks": [
+  130002484,
+  130002488,
+  130002477,
+  130002479,
+  130002500
+ ],
+ "Description": "Representations of flute players are found in both sanctuaries and tombs in Cyprus. They would play music eternally for the divinity or the deceased. The strap around the head of the player, a phorbeia, held the flute in place and prevented the cheeks from swelling, thus helping to control the breath. Egyptian influence is evident in the smooth wig. The piece may have formed a pair with 74.51.2509.",
+ "Provenance": [
+  "Golgoi–Ayios Photios, “West of the temple”"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002534"
+  }
+ }
+}

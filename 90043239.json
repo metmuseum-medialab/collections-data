@@ -1,0 +1,44 @@
+{
+ "Publisher": "Published by Universal Limited Art Editions",
+ "Printer": "Printed by Donn Steward",
+ "Date": "1967",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "32 1/2 x 27 1/2 in. (82.6 x 69.9 cm)",
+  "41 1/4 x 29 1/2 in. (104.8 x 74.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Stewart S. MacDermott Fund, 1968",
+ "Accession Number": "68.523.4",
+ "Who": [
+  "Universal Limited Art Editions",
+  "Donn Steward",
+  "Larry Rivers"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90043239,
+ "related-artworks": [
+  90003523,
+  90043172,
+  90043173,
+  90043168,
+  90043175
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90043239"
+  }
+ }
+}

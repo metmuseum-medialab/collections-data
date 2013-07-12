@@ -1,0 +1,37 @@
+{
+ "Date": "1906",
+ "Culture": "American",
+ "Medium": "linen",
+ "Dimensions": [
+  "(a) Length at CB 42 in. (106.7 cm)",
+  "(b) Length at CB 39 in. (99.1 cm)",
+  "(c) Other (Meas. around face) 13 in. (33 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. William Guggenheim, in memory of her son, Wm. Guggenheim, Jr., 1951",
+ "Accession Number": "C.I.51.64a–d",
+ "What": [
+  "Linen",
+  "Ensembles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80032163,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI51.64a_F.jpg",
+ "related-artworks": [
+  80000258,
+  80002594,
+  80023065,
+  80001742,
+  80002553
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80032163"
+  }
+ }
+}

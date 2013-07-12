@@ -1,0 +1,45 @@
+{
+ "Period": "Ming dynasty (1368–1644)",
+ "Culture": "China",
+ "Medium": "Folding fan mounted as an album leaf; ink on paper",
+ "Dimensions": "6 1/4 x 19 1/4 in. (15.9 x 48.9 cm)",
+ "Classification": "Calligraphy",
+ "Credit Line": "John Stewart Kennedy Fund, 1913",
+ "Accession Number": "13.100.92",
+ "Who": "Wang Maolin",
+ "What": [
+  "Costume",
+  "Ink",
+  "Paper",
+  "Books",
+  "Albums",
+  "Fans",
+  "Calligraphy"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1000–1400 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60019744,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP153879.jpg",
+ "related-artworks": [
+  60000022,
+  60000055,
+  60000025,
+  60007386,
+  60013600
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60019744"
+  }
+ }
+}

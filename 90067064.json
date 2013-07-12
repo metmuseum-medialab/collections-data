@@ -1,0 +1,41 @@
+{
+ "Publisher": "Published by Thomas McLean (London)",
+ "Date": "ca. 1835",
+ "Medium": "Hand-colored etching",
+ "Dimensions": [
+  "plate 10 13/16 x 8 13/16 in. (27.5 x 22.4 cm)",
+  "sheet 13 7/8 x 10 9/16 in. (35.2 x 26.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.888-276",
+ "Who": [
+  "Thomas McLean",
+  "Theodore Lane"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 90067064,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818377.jpg",
+ "related-artworks": [
+  90067061,
+  90067063,
+  90067065,
+  90067070,
+  90067056
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90067064"
+  }
+ }
+}

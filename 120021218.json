@@ -1,0 +1,42 @@
+{
+ "Date": "1527–34",
+ "Culture": "Italian, Florence",
+ "Medium": "Grey sandstone (pietra serena)",
+ "Dimensions": "H. 16'3\" (4.953 m.); W. 12'9-1/2\" (3.899 m.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Harris Brisbane Dick Fund, 1971",
+ "Accession Number": "1971.158.1",
+ "Who": "Simone Mosca",
+ "What": [
+  "Sculpture",
+  "Sandstone"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Florence"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021218,
+ "gallery-id": 503,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP246149.jpg",
+ "related-artworks": [
+  120000419,
+  120003277,
+  120003672,
+  120003710,
+  120005141
+ ],
+ "Provenance": [
+  "Palazzo Fossombroni, Arezzo, Italy"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021218"
+  }
+ }
+}

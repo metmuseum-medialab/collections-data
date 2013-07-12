@@ -1,0 +1,43 @@
+{
+ "Date": "late 19th century",
+ "Geography": "Syria",
+ "Medium": "Wood, parchment, horsehair.",
+ "Dimensions": "L.  68.6 cm (27 in.)",
+ "Classification": "Chordophone-Lute",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.388 a, b",
+ "What": [
+  "Musical instruments",
+  "Hair",
+  "Chordophones",
+  "Parchment",
+  "Lutes",
+  "Horsehair",
+  "Spike fiddles",
+  "Rebabs"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": [
+  "Arabian Peninsula and the Eastern Mediterranean, 1800–1900 A.D.",
+  "Arabian Peninsula and the Eastern Mediterranean, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 180012754,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS252A.jpg",
+ "related-artworks": [
+  180012756,
+  180015591,
+  180015805,
+  180012302,
+  180012755
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180012754"
+  }
+ }
+}

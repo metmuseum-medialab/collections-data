@@ -1,0 +1,39 @@
+{
+ "Date": "1954",
+ "Medium": "Color woodcut",
+ "Dimensions": [
+  "Image 10 1/16 × 6 15/16 in. (25.5 × 17.7 cm)",
+  "Sheet 12 1/16 × 12 1/16 in. (30.7 × 30.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Museum Accession, 1954",
+ "Accession Number": "Museum  Accession 1954.1",
+ "Who": "Irving Amen",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints",
+  "Color woodcuts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90103151,
+ "related-artworks": [
+  90103146,
+  90103152,
+  90103164,
+  90062733,
+  90103148
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90103151"
+  }
+ }
+}

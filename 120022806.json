@@ -1,0 +1,53 @@
+{
+ "Date": "ca. 1745–50",
+ "Culture": "French",
+ "Medium": "Oak veneered with Chinese lacquer and lacquered wood; gilt bronze; rouge royal marble",
+ "Dimensions": "H. 34 x W. 42-1/2 x D. 20-3/4 in.  (86.4 x 108.0 x 52.7 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+ "Accession Number": "1974.356.205",
+ "Who": "Jean Desforges",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Gilt",
+  "Wood",
+  "Furniture",
+  "Plate",
+  "Woodwork",
+  "Marble",
+  "Lacquer",
+  "Ormolu",
+  "Oak",
+  "Case furniture",
+  "Chests of drawers"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120022806,
+ "gallery-id": 523,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES2415.jpg",
+ "related-artworks": [
+  120009355,
+  120022673,
+  120017571,
+  120022565,
+  120023099
+ ],
+ "Provenance": [
+  "Lesley and Emma Sheafer (until 1973",
+  "her bequest to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022806"
+  }
+ }
+}

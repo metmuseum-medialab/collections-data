@@ -1,0 +1,44 @@
+{
+ "Period": "Neo-Babylonian or Achaemenid",
+ "Date": "ca. 7th–4th century B.C.",
+ "Geography": "Mesopotamia, probably from Sippar (modern Tell Abu Habba)",
+ "Culture": "Babylonian or Achaemenid",
+ "Medium": "Clay",
+ "Dimensions": "1.22 x 1.93 x 2.24 in. (3.1 x 4.9 x 5.69 cm)",
+ "Classification": "Clay",
+ "Credit Line": "Purchase, 1886",
+ "Accession Number": "86.11.417",
+ "Who": "Babylonian",
+ "What": [
+  "Clay",
+  "Fragments",
+  "Tablets",
+  "Cuneiform"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Sippar"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30000666,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/vs86_11_417.jpg",
+ "related-artworks": [
+  30000458,
+  30000454,
+  30000455,
+  30000485,
+  30000486
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1886, purchased from the Reverend William Hayes Ward."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30000666"
+  }
+ }
+}

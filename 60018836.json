@@ -1,0 +1,46 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "first half of the 19th century",
+ "Culture": "China",
+ "Medium": "Porcelain with red glaze",
+ "Dimensions": "H. 7 1/2 in. (19.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.76",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Vases",
+  "Glaze"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60018836,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/79_2_76_O1_sf.jpg",
+ "related-artworks": [
+  60015206,
+  60015221,
+  60015230,
+  60015265,
+  60015319
+ ],
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60018836"
+  }
+ }
+}

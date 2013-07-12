@@ -1,0 +1,24 @@
+{
+ "Date": "1910",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund",
+ "Accession Number": "59.557.4",
+ "Who": "The International Art Publishing Co.",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90019785,
+ "related-artworks": [
+  90037896,
+  90037915,
+  90042266,
+  90037896,
+  90037915
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90019785"
+  }
+ }
+}

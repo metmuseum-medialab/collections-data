@@ -1,0 +1,50 @@
+{
+ "Date": "1790",
+ "Culture": "American or European",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. Lee Simonson, 1939",
+ "Accession Number": "C.I.39.13.163",
+ "What": [
+  "Costume",
+  "Silk",
+  "Vests"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80013230,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI39.13.163_S2.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/CI39.13.163_S2.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI39.13.163_S1.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80002282"
+   },
+   {
+    "href": "http://scrapi.org/object/80003648"
+   },
+   {
+    "href": "http://scrapi.org/object/80004568"
+   },
+   {
+    "href": "http://scrapi.org/object/80005881"
+   },
+   {
+    "href": "http://scrapi.org/object/80005884"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80013230"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80013230"
+  }
+ }
+}

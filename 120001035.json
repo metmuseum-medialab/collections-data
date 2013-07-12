@@ -1,0 +1,49 @@
+{
+ "Date": "late 16th century",
+ "Culture": "German",
+ "Medium": "Iron",
+ "Dimensions": "Diam. of bail 2 1/8 in. (5.4 cm); Diam. of plate 2 1/8 in. (5.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Henry G. Marquand, 1887",
+ "Accession Number": "87.11.26ab",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Doors"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "id": 120001035,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120001034"
+   },
+   {
+    "href": "http://scrapi.org/object/120001336"
+   },
+   {
+    "href": "http://scrapi.org/object/120017294"
+   },
+   {
+    "href": "http://scrapi.org/object/120026199"
+   },
+   {
+    "href": "http://scrapi.org/object/120001060"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120001035"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120001035"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Artist": "Wolf Traut (German, 1486–1520)",
+ "Date": "1507",
+ "Medium": "Woodcuts",
+ "Dimensions": "12 5/16 x 8 3/8 x 13/16 in.  (31.2 x 21.3 x 2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.49.2",
+ "Who": [
+  "Hans Baldung (called Hans Baldung Grien)",
+  "Hans Schäufelein",
+  "Wolf Traut",
+  "Ulrich Pinder"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90005841,
+ "related-artworks": [
+  90023256,
+  90013932,
+  90023258,
+  120037042,
+  120037046
+ ],
+ "Provenance": [
+  "Henry Huth (British, 1815–1878)Ex Musaeo Huthii",
+  "Vendor: Bernard Quaritch, Ltd. (London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005841"
+  }
+ }
+}

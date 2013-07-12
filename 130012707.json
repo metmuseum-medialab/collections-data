@@ -1,0 +1,43 @@
+{
+ "Period": "Late Minoan I",
+ "Date": "ca. 1600-1450 B.C.",
+ "Culture": "Minoan",
+ "Medium": "Jasper",
+ "Dimensions": "L. 2 cm; W. 1.4 cm",
+ "Classification": "Gems",
+ "Credit Line": "Bequest of Richard B. Seager, 1926",
+ "Accession Number": "26.31.268",
+ "What": [
+  "Chalcedony",
+  "Seals",
+  "Gems",
+  "Jasper"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades",
+  "Minoa"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130012707,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP145076.jpg",
+ "related-artworks": [
+  130012734,
+  130011859,
+  130012556,
+  130012570,
+  130012602
+ ],
+ "Description": "Double ax",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130012707"
+  }
+ }
+}

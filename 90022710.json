@@ -1,0 +1,33 @@
+{
+ "Date": "after 1881",
+ "Medium": "Engraving",
+ "Dimensions": "12 1/16 x 9 13/16 x 3/8 in. (30.7 x 25 x 1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1946",
+ "Accession Number": "46.31",
+ "Who": "P. Orr  Sons",
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90022710,
+ "related-artworks": [
+  90039223,
+  90012494,
+  90035797,
+  90056521,
+  90012052
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90022710"
+  }
+ }
+}

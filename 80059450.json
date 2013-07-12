@@ -1,0 +1,43 @@
+{
+ "Design House": "Miyake Design Studio (Japanese)",
+ "Date": "fall/winter 1992–93",
+ "Culture": "Japanese",
+ "Medium": "synthetic",
+ "Dimensions": "Length at CB (approx.) 40 in. (101.6 cm)",
+ "Credit Line": "Gift of Muriel Kallis Newman, 2005",
+ "Accession Number": "2005.323.7",
+ "Who": [
+  "Issey Miyake",
+  "Miyake Design Studio"
+ ],
+ "What": [
+  "Costume",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Miyake, Kawakubo, and Yamamoto Japanese Fashion in the Twentieth Century",
+  "Japan, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80059450,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2005.323.7_F2.jpg",
+ "related-artworks": [
+  80043529,
+  80043530,
+  80000038,
+  80000211,
+  80000212
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80059450"
+  }
+ }
+}

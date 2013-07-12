@@ -1,0 +1,65 @@
+{
+ "Date": "15th–16th century",
+ "Geography": "Peru, Rio Ica",
+ "Culture": "Inca",
+ "Medium": "Cotton, camelid hair",
+ "Dimensions": "H. 31 x W. 41 1/2 in. (78.7 x 105.4 cm)",
+ "Classification": "Textiles-Woven",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.1131",
+ "Who": "Inca",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Cotton",
+  "Woven",
+  "Hair",
+  "Camelidae",
+  "Tunics"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 1400–1600 A.D.",
+ "id": 50005986,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1979.206.1131_a.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ao/original/1979.206.1131_a.jpg",
+  "http://images.metmuseum.org/CRDImages/ao/original/1979.206.1131_c.jpg",
+  "http://images.metmuseum.org/CRDImages/ao/original/1979.206.1131_d.jpg",
+  "http://images.metmuseum.org/CRDImages/ao/original/1979.206.1131_e.jpg",
+  "http://images.metmuseum.org/CRDImages/ao/original/1979.206.1131_f.jpg"
+ ],
+ "Provenance": [
+  "[Harold Kaye, New York and London]",
+  "[Everett Rassiga, New York, until 1965]",
+  "Nelson A. Rockefeller, New York, 1965, on loan to The Museum of Primitive Art, New York, 1965–1978"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50007194"
+   },
+   {
+    "href": "http://scrapi.org/object/50000687"
+   },
+   {
+    "href": "http://scrapi.org/object/50009606"
+   },
+   {
+    "href": "http://scrapi.org/object/50005814"
+   },
+   {
+    "href": "http://scrapi.org/object/50000559"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50005986"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50005986"
+  }
+ }
+}

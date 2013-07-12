@@ -1,0 +1,39 @@
+{
+ "Culture": "Etruscan",
+ "Medium": "Terracotta",
+ "Dimensions": [
+  "Overall 10 3/16in. (25.8cm)",
+  "Other (diameter of mouth) 8in. (20.3cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1916",
+ "Accession Number": "16.174.28",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009598,
+ "related-artworks": [
+  130006621,
+  130006622,
+  130006653,
+  130006665,
+  130006669
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009598"
+  }
+ }
+}

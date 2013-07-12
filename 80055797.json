@@ -1,0 +1,29 @@
+{
+ "Date": "1900–1973",
+ "Culture": "American or European",
+ "Medium": "cotton",
+ "Dimensions": "Length 35 in. (88.9 cm)",
+ "Credit Line": "Gift of Kate C. Lefferts, 1973",
+ "Accession Number": "1973.195.16",
+ "What": "Cotton",
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80055797,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1973.195.16.jpg",
+ "related-artworks": [
+  80000060,
+  80000089,
+  80000115,
+  80000116,
+  80000240
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80055797"
+  }
+ }
+}

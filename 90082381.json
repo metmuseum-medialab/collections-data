@@ -1,0 +1,32 @@
+{
+ "Publisher": "Giacomo Franco (Italian, Venice 1550–1620 Venice)",
+ "Date": "1611",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.1876",
+ "Who": [
+  "Giacomo Franco",
+  "Palma Il Giovane (Jacopo Palma the Younger)"
+ ],
+ "What": "Prints",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90082381,
+ "related-artworks": [
+  90001605,
+  90007650,
+  90017375,
+  90072517,
+  90072731
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90082381"
+  }
+ }
+}

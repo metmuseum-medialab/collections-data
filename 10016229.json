@@ -1,0 +1,43 @@
+{
+ "Date": "1800–1815",
+ "Geography": "Île-de-France, Paris, France",
+ "Culture": "French, for American market",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 1 1/4 in. (3.2 cm); Diam. 9 1/4 in. (23.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase, Solomon Grossman Gift, in memory of Berry B. Tracy, and The Vincent Astor Foundation Gift, 1994",
+ "Accession Number": "1994.480.16",
+ "Who": "Dihl et Guérhard",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Dinner plates"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10016229,
+ "gallery-id": 724,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DT3778.jpg",
+ "related-artworks": [
+  10016224,
+  10016225,
+  10016226,
+  10016227,
+  10016228
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10016229"
+  }
+ }
+}

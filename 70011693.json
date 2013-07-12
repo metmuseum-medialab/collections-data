@@ -1,0 +1,63 @@
+{
+ "Date": "15th century",
+ "Culture": "French",
+ "Medium": "oak",
+ "Dimensions": "Overall 41 1/2 x 30 1/2 x 21 1/2 in. (105.4 x 77.5 x 54.6 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "The Cloisters Collection, 1936",
+ "Accession Number": "36.79.2",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Oak",
+  "Stalls",
+  "Choir stalls"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Burgundy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011693,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi36-79-2s1a.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/cl/original/cdi36-79-2s1a.jpg",
+  "http://images.metmuseum.org/CRDImages/cl/original/cdi36-79-2s1b.jpg",
+  "http://images.metmuseum.org/CRDImages/cl/original/cdi36-79-2d3.jpg",
+  "http://images.metmuseum.org/CRDImages/cl/original/cdi36-79-2s1.jpg",
+  "http://images.metmuseum.org/CRDImages/cl/original/cdi36-79-2d2.jpg"
+ ],
+ "Provenance": [
+  "John D. Rockefeller Jr. , New York (until 1936)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/70011692"
+   },
+   {
+    "href": "http://scrapi.org/object/70011668"
+   },
+   {
+    "href": "http://scrapi.org/object/70011670"
+   },
+   {
+    "href": "http://scrapi.org/object/70011746"
+   },
+   {
+    "href": "http://scrapi.org/object/70011669"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/70011693"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/70011693"
+  }
+ }
+}

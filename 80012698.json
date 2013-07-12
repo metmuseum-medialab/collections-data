@@ -1,0 +1,37 @@
+{
+ "Date": "18th century–19th century",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "Length 33 in. (83.8 cm)",
+ "Credit Line": "Gift of W.J. Baer, 1908",
+ "Accession Number": "08.86.10",
+ "What": [
+  "Costume",
+  "Silk",
+  "Vests"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80012698,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/08.86.10_S1.jpg",
+ "related-artworks": [
+  80001035,
+  80003648,
+  80005516,
+  80005881,
+  80005910
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80012698"
+  }
+ }
+}

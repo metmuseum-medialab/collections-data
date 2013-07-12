@@ -1,0 +1,43 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "British, Staffordshire",
+ "Medium": "Blue printed ware",
+ "Dimensions": "H. 7 1/2 in.  (19.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Isaac Gibson Jaffray, in memory of her husband,1898",
+ "Accession Number": "98.1.9",
+ "Who": "William Adams",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Printing",
+  "Jugs"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1600–1800 A.D.",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120002697,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/6287.jpg",
+ "related-artworks": [
+  120006176,
+  120007607,
+  120005162,
+  120006175,
+  120007598
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120002697"
+  }
+ }
+}

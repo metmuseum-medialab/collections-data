@@ -1,0 +1,40 @@
+{
+ "Date": "16th century",
+ "Culture": "Turkish",
+ "Medium": "steel, leather",
+ "Classification": "Armor Parts",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.55a, b",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Leather",
+  "Iron alloy",
+  "Steel",
+  "Armor",
+  "Body armor",
+  "Mail"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40010549,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/sfsb36.25.55b (5-22-07)s1d2.JPG",
+ "related-artworks": [
+  40010548,
+  40002230,
+  40014483,
+  40004928,
+  40010402
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40010549"
+  }
+ }
+}

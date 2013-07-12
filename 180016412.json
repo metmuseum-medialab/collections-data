@@ -1,0 +1,38 @@
+{
+ "Date": "20th century",
+ "Geography": "Bolivia",
+ "Medium": "Reed, wool",
+ "Dimensions": "L. 13.4 cm (5-1/4 in.); W. 7.6 cm (3 in.); D. 2.5 cm (1 in.)",
+ "Classification": "Aerophone-Blow Hole",
+ "Credit Line": "Gift of Anabelle P. and Alberto C. Mariaca, 1995",
+ "Accession Number": "1995.541.12",
+ "What": [
+  "Wool",
+  "Musical instruments",
+  "Aerophones",
+  "Flutes",
+  "Reeds",
+  "Panpipes"
+ ],
+ "Where": [
+  "South America",
+  "Bolivia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "South America, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 180016412,
+ "related-artworks": [
+  180016410,
+  180016411,
+  180016413,
+  180016409,
+  180016415
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016412"
+  }
+ }
+}

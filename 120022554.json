@@ -1,0 +1,40 @@
+{
+ "Date": "1737–39",
+ "Culture": "German (Augsburg)",
+ "Medium": "Silver gilt",
+ "Dimensions": "10 3/8 x 7 3/8 in.  (26.4 x 18.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1976",
+ "Accession Number": "1976.155.90",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Salvers"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Augsburg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120022554,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/208185.jpg",
+ "related-artworks": [
+  120022222,
+  120022224,
+  120022230,
+  120022322,
+  120022223
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022554"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Engraver": "Bernard Baron (French, Paris 1696–1762 London)",
+ "Publisher": "Thomas Bowles II (British, ca. 1695–1767)",
+ "Date": "1746",
+ "Medium": "Printed book with etched illustrations",
+ "Dimensions": "Overall 26 3/16 x 19 5/16 x 11/16 in. (66.5 x 49 x 1.8 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1936",
+ "Accession Number": "36.28.15",
+ "Who": [
+  "Jacques Rigaud",
+  "Bernard Baron",
+  "Thomas Bowles II",
+  "Sarah Bridgeman"
+ ],
+ "What": [
+  "Etching",
+  "Books",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Grand Tour",
+  "The Eighteenth Century From Geometric to Informal Gardens",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90014038,
+ "related-artworks": [
+  90015118,
+  90024082,
+  90006061,
+  90008881,
+  90032258
+ ],
+ "Provenance": [
+  "Earl of Cork and Orrey (Irish)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90014038"
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "Date": "ca. 1100",
+ "Geography": "Made in Constantinople",
+ "Culture": "Byzantine",
+ "Medium": "Cloisonné enamel, gold, copper",
+ "Dimensions": [
+  "Overall 4 x 4 1/2in. (10.2 x 11.4cm)",
+  "Mount 14 x 16 x 7/8 in. (35.6 x 40.6 x 2.2 cm)"
+ ],
+ "Classification": "Enamels",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.645",
+ "What": [
+  "Metal",
+  "Fragments",
+  "Gold",
+  "Copper",
+  "Enamels",
+  "Cloisonné"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey",
+  "Marmara",
+  "Istanbul"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004402,
+ "gallery-id": 303,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-645s1.jpg",
+ "related-artworks": [
+  170004405,
+  170004401,
+  170004403,
+  170004404,
+  170004433
+ ],
+ "Description": "These panels were once part of a cover for an icon of the Virgin Hagiosoritissa, or Virgin of the Holy Soros (reliquary chest). Named for the church in Constantinople that contained the original icon of the type, this popular middle Byzantine icon shows the Virgin turning to the side with her hands raised in a gesture of prayer.",
+ "Provenance": [
+  "Alex W. von Zvenigorodskii (1837 - 1903), Russia",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004402"
+  }
+ }
+}

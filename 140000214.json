@@ -1,0 +1,42 @@
+{
+ "Date": "early 19th century",
+ "Geography": "Turkey",
+ "Medium": "Linen, silk; plain weave, embroidered",
+ "Classification": "Textiles",
+ "Credit Line": "Anonymous Gift, 1879",
+ "Accession Number": "Mobile Museum of Art",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Plain weave"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140000214,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/50986.jpg",
+ "related-artworks": [
+  140000207,
+  140000185,
+  140000186,
+  140000213,
+  140000197
+ ],
+ "Provenance": [
+  "Private collection(until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140000214"
+  }
+ }
+}

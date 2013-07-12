@@ -1,0 +1,39 @@
+{
+ "Date": "before 16th century",
+ "Geography": "Mexico, Mesoamerica",
+ "Culture": "Mexican",
+ "Medium": "Stone",
+ "Dimensions": "Length 1-3/8 in.",
+ "Classification": "Stone-Implements",
+ "Credit Line": "Bequest of Arthur M. Bullowa, 1993",
+ "Accession Number": "1994.35.230",
+ "What": "Stone",
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico, 1000–1400 A.D.",
+  "Mexico, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50009727,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/hz1994_35_230.jpg",
+ "related-artworks": [
+  50000005,
+  50000164,
+  50000171,
+  50000172,
+  50000169
+ ],
+ "Provenance": [
+  "[Fred Field, New York]",
+  "Arthur M. Bullowa, New York, until (d.)1993"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50009727"
+  }
+ }
+}

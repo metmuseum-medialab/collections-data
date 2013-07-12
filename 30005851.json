@@ -1,0 +1,51 @@
+{
+ "Period": "Neolithic",
+ "Date": "7th–6th millennium B.C.",
+ "Geography": "Syria",
+ "Medium": "Agate, banded",
+ "Dimensions": "0.32 x 0.85 x 0.91 in. (0.81 x 2.16 x 2.31 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Gift of Sheldon and Barbara Breitbart, 1985",
+ "Accession Number": "1985.356.61",
+ "What": [
+  "Stone",
+  "Chalcedony",
+  "Beads",
+  "Agate"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30005851,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/vz1985_356_6198.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/30005831"
+   },
+   {
+    "href": "http://scrapi.org/object/30005867"
+   },
+   {
+    "href": "http://scrapi.org/object/30005832"
+   },
+   {
+    "href": "http://scrapi.org/object/30005833"
+   },
+   {
+    "href": "http://scrapi.org/object/30005855"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/30005851"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/30005851"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Period": "Seleucid or Parthian",
+ "Date": "ca. late 4th century B.C.–early 3rd century A.D.",
+ "Geography": "Mesopotamia, probably from Babylon (modern Hilah)",
+ "Culture": "Seleucid or Parthian",
+ "Medium": "Clay",
+ "Dimensions": "0.55 x 0.51 x 0.91 in. (1.4 x 1.3 x 2.31 cm)",
+ "Classification": "Clay",
+ "Credit Line": "Purchase, 1886",
+ "Accession Number": "86.11.557",
+ "Who": "Seleucid",
+ "What": [
+  "Clay",
+  "Tablets",
+  "Cuneiform"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Babylon"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": [
+  "Mesopotamia, 1000 B.C.–1 A.D.",
+  "Mesopotamia, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 30000747,
+ "gallery-id": 402,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/vss86_11_288a.JPG",
+ "related-artworks": [
+  30000249,
+  30000246,
+  30000386,
+  30000538,
+  30000539
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1886, purchased from the Reverend William Hayes Ward."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30000747"
+  }
+ }
+}

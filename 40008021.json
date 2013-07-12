@@ -1,0 +1,32 @@
+{
+ "Date": "18th century",
+ "Culture": "Italian",
+ "Classification": "Swords",
+ "Credit Line": "Gift of Christian A. Zabriskie, 1937",
+ "Accession Number": "37.189.3",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Accessories"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40008021,
+ "related-artworks": [
+  40012561,
+  40012564,
+  40012567,
+  40005923,
+  40010693
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40008021"
+  }
+ }
+}

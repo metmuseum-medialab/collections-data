@@ -1,0 +1,38 @@
+{
+ "Artist": "After Parmigianino (Girolamo Francesco Maria Mazzola) (Italian, Parma 1503–1540 Casalmaggiore)",
+ "Date": "18th century",
+ "Medium": "Etching and aquatint (?)",
+ "Dimensions": "sheet 5 x 5 7/8 in. (12.7 x 14.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1962",
+ "Accession Number": "62.602.244",
+ "Who": [
+  "Parmigianino (Girolamo Francesco Maria Mazzola)",
+  "Stefano Mulinari, ca. 1741 - ca. 1790"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Aquatint"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90066464,
+ "related-artworks": [
+  90066460,
+  90066462,
+  90066714,
+  90066733,
+  90066736
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90066464"
+  }
+ }
+}

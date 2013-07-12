@@ -1,0 +1,45 @@
+{
+ "Medium": "Engraving; second state of two (New Hollstein)",
+ "Dimensions": "Sheet 3 1/16 × 1 3/4 in. (7.8 × 4.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.65.5",
+ "Who": "Albrecht Altdorfer",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Jews and the Arts in Medieval Europe",
+  "The Printed Image in the West History and Techniques",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90105651,
+ "related-artworks": [
+  90003295,
+  90003296,
+  90003294,
+  90003297,
+  90047160
+ ],
+ "Provenance": [
+  "William Esdaile (British, 1758–1837 London)",
+  "Christie's, London, June 11, 1840, part of lot 142 (with 4 others)",
+  "William Bell Scott (British, Edinburgh, Scotland 1811–1890 Ayreshire)",
+  "Adalbert Freiherr von Lanna (Czech, Prague 1836–1909)",
+  "Paul Davidsohn (German, born 1839)",
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90105651"
+  }
+ }
+}

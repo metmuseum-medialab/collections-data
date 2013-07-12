@@ -1,0 +1,59 @@
+{
+ "Architect": "Trench and Snook (American, 19th century)",
+ "Date": "1850–57",
+ "Medium": "Color lithograph",
+ "Dimensions": [
+  "image 17 3/4 x 24 9/16 in. (45.1 x 62.4 cm)",
+  "sheet 21 1/4 x 26 7/8 in. (54 x 68.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954",
+ "Accession Number": "54.90.1196",
+ "Who": [
+  "Sarony & Major",
+  "Trench  Snook"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90054965,
+ "Provenance": [
+  "Donor: Edward W. C. Arnold"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90038187"
+   },
+   {
+    "href": "http://scrapi.org/object/90054635"
+   },
+   {
+    "href": "http://scrapi.org/object/90054380"
+   },
+   {
+    "href": "http://scrapi.org/object/90054381"
+   },
+   {
+    "href": "http://scrapi.org/object/90054636"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90054965"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90054965"
+  }
+ }
+}

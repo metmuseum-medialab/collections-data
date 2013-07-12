@@ -1,0 +1,22 @@
+{
+ "Date": "19th century",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1929",
+ "Accession Number": "29.64.3",
+ "What": "Prints",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90057548,
+ "related-artworks": [
+  90098453,
+  90000013,
+  90000014,
+  90000015,
+  90000016
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90057548"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Period": "Second Intermediate Period–Early New Kingdom",
+ "Dynasty": "Dynasty 17–Early Dynasty 18",
+ "Date": "ca. 1635–1458 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, Courtyard CC 41, Pit 3, Burials B x, MMA 1915–1916",
+ "Medium": "Wood",
+ "Dimensions": "L. 20.3 cm (8 in)",
+ "Credit Line": "Rogers Fund, 1916",
+ "Accession Number": "16.10.412",
+ "What": "Wood",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100003654,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/16.10.412.jpg",
+ "related-artworks": [
+  100000010,
+  100000013,
+  100000014,
+  100000132,
+  100000335
+ ],
+ "Provenance": [
+  "Museum excavations, 1915–16. Acquired by the Museum in the division of finds, 1916."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003654"
+  }
+ }
+}

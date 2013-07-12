@@ -1,0 +1,45 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "French",
+ "Medium": "Bronze-gilt",
+ "Dimensions": "3 1/2 x 5 1/8 in.  (8.9 x 13.0 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+ "Accession Number": "07.225.510.355 ab",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Gilt",
+  "Plate",
+  "Ormolu",
+  "Capitals",
+  "Pilasters"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120004641,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/4206.jpg",
+ "related-artworks": [
+  120004908,
+  120026973,
+  120004902,
+  120004969,
+  120004474
+ ],
+ "Provenance": [
+  "Georges Hoentschel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120004641"
+  }
+ }
+}

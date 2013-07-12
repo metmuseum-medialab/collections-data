@@ -1,0 +1,38 @@
+{
+ "Printer": "George B. Ayres",
+ "Date": "1860, printed 1881",
+ "Medium": "Albumen silver print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Cecily B. Kerr, 1977",
+ "Accession Number": "1977.544",
+ "Who": [
+  "Alexander Hesler",
+  "George . Ayres"
+ ],
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190013740,
+ "related-artworks": [
+  190021462,
+  190021461,
+  190011345
+ ],
+ "Provenance": [
+  "Cecily B. Kerr"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190013740"
+  }
+ }
+}

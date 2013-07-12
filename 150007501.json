@@ -1,0 +1,33 @@
+{
+ "Classification": "Jewelry, Precious Metals and Precious Stones",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.1531",
+ "What": [
+  "Metal",
+  "Costume",
+  "Sculpture",
+  "Stone",
+  "Jewelry",
+  "Rings",
+  "Cameos",
+  "Gemstone",
+  "Precious stone"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Robert Lehman Collection",
+ "MetPublications": "Search for related Met publications",
+ "id": 150007501,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-1531.jpg",
+ "related-artworks": [
+  150007499,
+  150007503,
+  150007487,
+  150008063,
+  150008673
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150007501"
+  }
+ }
+}

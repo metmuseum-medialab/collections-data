@@ -1,0 +1,39 @@
+{
+ "Artist": "After Hyacinthe Rigaud (French, Perpignan 1659–1743 Paris)",
+ "Date": "18th century",
+ "Medium": "Engraving",
+ "Dimensions": "19 11/16 x 14 9/16 in.  (50 x 37 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Herbert Mitchell, 1994",
+ "Accession Number": "1994.338.3",
+ "Who": [
+  "Hyacinthe Rigaud",
+  "Claude Drevet"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90005292,
+ "related-artworks": [
+  90005294,
+  90061562,
+  90069803
+ ],
+ "Provenance": [
+  "Donor: Herbert Mitchell"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005292"
+  }
+ }
+}

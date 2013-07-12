@@ -1,0 +1,64 @@
+{
+ "Publisher": "N. Pokrovskii (Russian, active 19th century)",
+ "Date": "1858",
+ "Medium": "Lithography",
+ "Dimensions": [
+  "Sheet 13 1/8 × 17 3/8 in. (33.4 × 44.1 cm)",
+  "Image 8 1/4 × 15 1/16 in. (20.9 × 38.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.672.1",
+ "Who": [
+  ". Pokrovskii",
+  "P. Luk'ianov"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D.",
+  "Anatolia and the Caucasus, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90103408,
+ "related-artworks": [
+  "http://scrapi.org/object/90023330",
+  "http://scrapi.org/object/90024568",
+  "http://scrapi.org/object/90028149",
+  "http://scrapi.org/object/90028145",
+  "http://scrapi.org/object/90056692"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90023330"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90024568"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90028149"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90028145"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90056692"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90103408"
+  }
+ }
+}

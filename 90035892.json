@@ -1,0 +1,36 @@
+{
+ "Date": "1932",
+ "Medium": "Intaglio",
+ "Classification": "Prints",
+ "Credit Line": "Gift of John Taylor Arms, 1942",
+ "Accession Number": "42.21.56",
+ "Who": "John Taylor Arms",
+ "What": [
+  "Prints",
+  "Intaglio prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90035892,
+ "related-artworks": [
+  90035845,
+  90035843,
+  90035848,
+  90035847,
+  90035850
+ ],
+ "Provenance": [
+  "Donor: John Taylor Arms (American, Washington, D.C. 1887–1953 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90035892"
+  }
+ }
+}

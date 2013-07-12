@@ -1,0 +1,58 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19–20",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Steatite",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1905",
+ "Accession Number": "05.3.247",
+ "What": [
+  "Seals",
+  "Talc",
+  "Steatite",
+  "Cartouches"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100027992,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/05-3-246-249.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/100006036",
+  "http://scrapi.org/object/100007929",
+  "http://scrapi.org/object/100027991",
+  "http://scrapi.org/object/100001704",
+  "http://scrapi.org/object/100001696"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Ex collection John Ward (before 1902). Collection purchased by J. Pierpont Morgan and donated to the Museum, 1905."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100006036"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100007929"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100027991"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100001704"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100001696"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100027992"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Glass, silk, metallic thread, peacock feathers",
+ "Dimensions": "3 1/2 x 2 3/4 in. (8.89 x 6.99 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Florance Waterbury, 1944",
+ "Accession Number": "44.136.21",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Glass",
+  "Needlework",
+  "Embroidery",
+  "Mirrors",
+  "Feathers"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043358,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP14264.jpg",
+ "related-artworks": [
+  60043345,
+  60043349,
+  60043353,
+  60043357,
+  60039164
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043358"
+  }
+ }
+}

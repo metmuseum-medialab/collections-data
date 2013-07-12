@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1470–80",
+ "Culture": "South Netherlandish",
+ "Medium": "Pasteboard with pen and ink, tempera, applied gold and silver",
+ "Dimensions": "Each 4 3/4 x 2 3/4 in. (12 x 7 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "The Cloisters Collection, 1983",
+ "Accession Number": "1983.515.49",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Silver",
+  "Gold",
+  "Tempera",
+  "Pen",
+  "Playing cards"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "id": 70017307,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi1983-515-49s1.jpg",
+ "related-artworks": [
+  70017261,
+  70017282,
+  70017264,
+  70017267,
+  70017278
+ ],
+ "Provenance": [
+  "Hôtel Drouot , Paris (December 12, 1978, lot 50)",
+  "Sotheby's, London (December 6, 1983, lot 70)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70017307"
+  }
+ }
+}

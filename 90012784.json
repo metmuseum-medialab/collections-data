@@ -1,0 +1,44 @@
+{
+ "Artist": "Roger Kasemann",
+ "Date": "16th–17th century",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 11 x 7 1/2 x 1 5/16 in. (27.9 x 19.1 x 3.3 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1931",
+ "Accession Number": "31.74.1",
+ "Who": [
+  "Jacques Androuet Du Cerceau",
+  "Guercino (Giovanni Francesco Barbieri)",
+  "D. Antoine Pierretz",
+  "J. Barbet",
+  "Marie Briot",
+  "Roger Kasemann"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1600–1800 A.D.",
+  "France, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90012784,
+ "related-artworks": [
+  90013337,
+  90016507,
+  90016508,
+  90016510,
+  90016550
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90012784"
+  }
+ }
+}

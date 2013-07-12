@@ -1,0 +1,29 @@
+{
+ "Date": "19th century",
+ "Medium": "Pen and brown ink, brush and brown wash, heightened with white. Inlaid along, with 48.148(58a), on paper mount with pink and black framing lines.",
+ "Dimensions": "2 5/16 x 5 11/16 in.  (5.9 x 14.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1948",
+ "Accession Number": "48.148(58b)",
+ "Who": "Anonymous, German, 19th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "id": 90002723,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803575.jpg",
+ "related-artworks": [
+  90002699,
+  90002722,
+  90002725,
+  90002726,
+  90002735
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002723"
+  }
+ }
+}

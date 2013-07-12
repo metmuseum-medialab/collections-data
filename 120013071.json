@@ -1,0 +1,42 @@
+{
+ "Date": "18th century (?)",
+ "Culture": "French (Provincial)",
+ "Medium": "Silver",
+ "Dimensions": "L. 1-11/16 in. (4.3 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Jacques Helft, 1938",
+ "Accession Number": "38.113.4",
+ "Who": "L.S.",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013071,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/115930.jpg",
+ "related-artworks": [
+  120013083,
+  120002386,
+  120002550,
+  120013077
+ ],
+ "Provenance": [
+  "Jacques Helft (until 1938",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013071"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Thutmose III",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Wadi Gabbanat el-Qurud, Tomb of the 3 Foreign Wives of Thutmose III, Wadi D, Tomb 1",
+ "Medium": "Gold",
+ "Dimensions": "l. 0.7 cm (1/4 in)",
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "26.8.121h",
+ "What": [
+  "Metal",
+  "Gold",
+  "Beads"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100036269,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/cat191.jpg",
+ "related-artworks": [
+  100004280,
+  100001592,
+  100004279,
+  100007363,
+  100012316
+ ],
+ "Provenance": [
+  "Purchased in Luxor with other objects presumed to be from western Thebes, Wadi Gabbanat el-Qurud, Wadi D, Tomb 1, 1919-1922."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100036269"
+  }
+ }
+}

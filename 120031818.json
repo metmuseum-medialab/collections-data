@@ -1,0 +1,51 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Unknown",
+ "Medium": "Silk",
+ "Dimensions": [
+  "4 1/2 inches",
+  "11.4 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.103.657",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Cord"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120031818,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP6160.jpg",
+ "Provenance": [
+  "Samuel B. Dean (until 1908; sold to MMA)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120031823"
+   },
+   {
+    "href": "http://scrapi.org/object/120031824"
+   },
+   {
+    "href": "http://scrapi.org/object/120031827"
+   },
+   {
+    "href": "http://scrapi.org/object/120031815"
+   },
+   {
+    "href": "http://scrapi.org/object/120031816"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120031818"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120031818"
+  }
+ }
+}

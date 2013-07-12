@@ -1,0 +1,48 @@
+{
+ "Date": "early 18th century",
+ "Culture": "Italian or French",
+ "Medium": "Needle lace",
+ "Dimensions": [
+  "L. 16 x W. 2 1/4 inches",
+  "40.6 x 5.7 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mme. Chatron, 1906",
+ "Accession Number": "06.690.5",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1600–1800 A.D.",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120030604,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP4488_06.690.5.jpg",
+ "related-artworks": [
+  120030565,
+  120030566,
+  120030602,
+  120031150,
+  120032259
+ ],
+ "Provenance": [
+  "Mme. Chatron (until 1906",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120030604"
+  }
+ }
+}

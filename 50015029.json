@@ -1,0 +1,47 @@
+{
+ "Date": "19th century",
+ "Geography": "Mexico",
+ "Culture": "Mexican",
+ "Medium": "Linen, silk",
+ "Dimensions": "H. 13 1/2 x W. 40 1/4 in. (34.3 x 102.2 cm)",
+ "Classification": "Textiles-Woven",
+ "Credit Line": "Gift of Alfred L. Bush, 2011",
+ "Accession Number": "2011.578.3",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Samplers"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America Native Peoples, 1800–1900 A.D.",
+  "Mexico and Central America, 1800–1900 A.D."
+ ],
+ "id": 50015029,
+ "related-artworks": [
+  50015031,
+  50015030,
+  50015027,
+  50015028,
+  50015032
+ ],
+ "Provenance": [
+  "Acquired by U.S. woman in Mexico, by 1890s",
+  "by descent to her daughter, Mrs. Philip T. (Gladys?) White, Princeton, NJ, until 1970s",
+  "Alfred L. Bush, Princeton, NJ, 1970s–2011"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50015029"
+  }
+ }
+}

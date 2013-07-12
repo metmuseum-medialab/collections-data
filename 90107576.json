@@ -1,0 +1,34 @@
+{
+ "Date": "1909-10",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 × 1 1/2 in. (7 × 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 314, E97.3",
+ "Who": "C.A. Briggs Co., Boston",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90107576,
+ "related-artworks": [
+  90107551,
+  90107580,
+  90107581,
+  90107582,
+  90107583
+ ],
+ "Description": "Trade cards from the \"30 Ball Players\" series (E97), issued in a set of 30 cards in 1909-10 by C.A. Briggs Co. of Boston to promote their lozenges.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90107576"
+  }
+ }
+}

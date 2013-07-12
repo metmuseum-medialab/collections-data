@@ -1,0 +1,67 @@
+{
+ "Date": "11th–12th century",
+ "Geography": "probably Iran",
+ "Medium": "Gold",
+ "Classification": "Jewelry",
+ "Accession Number": "1980.541.9",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140010419,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/wb-1980.541.9.JPG",
+ "related-artworks": [
+  "http://scrapi.org/object/140004860",
+  "http://scrapi.org/object/140007128",
+  "http://scrapi.org/object/140008372",
+  "http://scrapi.org/object/140008374",
+  "http://scrapi.org/object/140008376"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/is/original/wb-1980.541.9.JPG",
+  "http://images.metmuseum.org/CRDImages/is/original/1980.541.9,10.jpg",
+  "http://images.metmuseum.org/CRDImages/is/original/wb-1980.541.9b.JPG",
+  "http://images.metmuseum.org/CRDImages/is/original/wb-1980.541.9c.JPG",
+  "http://images.metmuseum.org/CRDImages/is/original/wb-1980.541.9d.JPG",
+  "http://images.metmuseum.org/CRDImages/is/original/wb-1980.541.9e.JPG",
+  "http://images.metmuseum.org/CRDImages/is/original/wb-1980.541.9f.JPG",
+  "http://images.metmuseum.org/CRDImages/is/original/wb-1980.541.9g.JPG",
+  "http://images.metmuseum.org/CRDImages/is/original/wb-1980.541.9h.JPG",
+  "http://images.metmuseum.org/CRDImages/is/original/wb-1980.541.9i.JPG",
+  "http://images.metmuseum.org/CRDImages/is/original/wb-1980.541.9j.JPG"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140004860"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140007128"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140008372"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140008374"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140008376"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140010419"
+  }
+ }
+}

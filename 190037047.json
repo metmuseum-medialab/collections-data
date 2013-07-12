@@ -1,0 +1,29 @@
+{
+ "Date": "1850s",
+ "Medium": "daguerreotype",
+ "Dimensions": "6 x 4.7 cm (2 3/8 x 1 7/8 in. ) visible",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Mr. and Mrs. F.S. Sander, 1968",
+ "Accession Number": "68.552.5",
+ "Who": "Unknown, American",
+ "What": [
+  "Photographs",
+  "Daguerreotypes"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190037047,
+ "related-artworks": [
+  190037304,
+  190037336,
+  190017499,
+  190020482,
+  190020508
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190037047"
+  }
+ }
+}

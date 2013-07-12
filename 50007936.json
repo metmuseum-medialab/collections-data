@@ -1,0 +1,45 @@
+{
+ "Date": "10th–16th century",
+ "Geography": "Peru",
+ "Culture": "Peruvian",
+ "Medium": "Copper",
+ "Dimensions": "Length 7-5/8 in. (22 cm)",
+ "Classification": "Metal-Implements",
+ "Credit Line": "Bequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986",
+ "Accession Number": "1987.394.209",
+ "Who": "Peruvian",
+ "What": [
+  "Metal",
+  "Copper",
+  "Knives"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1400–1600 A.D.",
+  "Central and Southern Andes, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50007936,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1987_394_209.jpg",
+ "related-artworks": [
+  50007997,
+  50008013,
+  50008328,
+  50008329,
+  50008330
+ ],
+ "Provenance": [
+  "[Leon Buki, Miami, FL, until 1968]",
+  "Arnold I. Goldberg, New York, 1968–(d.)1976",
+  "Jane Costello Goldberg, New York, 1976– (d.)1986"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50007936"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Period": "Sasanian",
+ "Date": "ca. 6th–7th century A.D.",
+ "Geography": "Iran, Qasr-i Abu Nasr",
+ "Culture": "Sasanian",
+ "Medium": "Bronze",
+ "Dimensions": "0.87 x 5 in. (2.21 x 12.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1934",
+ "Accession Number": "34.107.78",
+ "Who": "Sasanian",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Flatware",
+  "Forks"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30001703,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/hb34_107_78.jpg",
+ "related-artworks": [
+  30001702,
+  30001704,
+  30001082,
+  30001629,
+  30001856
+ ],
+ "Provenance": [
+  "1933–34, excavated by J.M. Upton, W. Hauser and C.K. Wilkinson on behalf of The Persian Expedition of the Metropolitan Museum of Art",
+  "acquired by the Museum in 1934, ceded in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30001703"
+  }
+ }
+}

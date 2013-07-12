@@ -1,0 +1,41 @@
+{
+ "Date": "1855",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "image 18 3/4 x 31 9/16 in. (47.7 x 80.2 cm)",
+  "sheet 21 5/16 x 34 1/2 in. (54.1 x 87.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954",
+ "Accession Number": "54.90.1170",
+ "Who": "W. Stephenson & Co.",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90054941,
+ "related-artworks": [
+  90039367,
+  90054417,
+  90054418,
+  90054419,
+  90054822
+ ],
+ "Provenance": [
+  "Donor: Edward W. C. Arnold"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90054941"
+  }
+ }
+}

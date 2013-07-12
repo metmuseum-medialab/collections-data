@@ -1,0 +1,56 @@
+{
+ "Date": "19th century",
+ "Medium": "Wood engraving",
+ "Dimensions": "Sheet 4 1/2 x 6 1/2 in. (11.5 x 16.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1928",
+ "Accession Number": "28.108.469",
+ "Who": "Paul Gavarni [Chevalier]",
+ "What": [
+  "Prints",
+  "Engraving",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90085251,
+ "related-artworks": [
+  "http://scrapi.org/object/90002035",
+  "http://scrapi.org/object/90002106",
+  "http://scrapi.org/object/90018035",
+  "http://scrapi.org/object/90018047",
+  "http://scrapi.org/object/90018041"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Vendor: XVIIIth Century Shop"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002035"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002106"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90018035"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90018047"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90018041"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90085251"
+  }
+ }
+}

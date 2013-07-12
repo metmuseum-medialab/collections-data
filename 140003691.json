@@ -1,0 +1,44 @@
+{
+ "Date": "14th–15th century",
+ "Geography": "Egypt",
+ "Medium": "Earthenware; incised decoration through a white slip and coloring under a transparent glaze.",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.190.211",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Fragments",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Slip"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1400–1600 A.D.",
+  "Egypt, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140003691,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf13-190-211a.jpg",
+ "related-artworks": [
+  140002323,
+  140002328,
+  140002336,
+  140002331,
+  140002362
+ ],
+ "Provenance": [
+  "Sold to Albert M. Lythgoefor MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003691"
+  }
+ }
+}

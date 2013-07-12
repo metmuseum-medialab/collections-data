@@ -1,0 +1,36 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian",
+ "Medium": "Silk",
+ "Dimensions": "Overall 7 3/4 x 5 1/4 in. (19.7 x 13.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Nanette B. Kelekian, in honor of Olga Raggio, 2002",
+ "Accession Number": "2002.494.286",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120048003,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP103499.jpg",
+ "related-artworks": [
+  120030742,
+  120031034,
+  120033879,
+  120037032,
+  120037364
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120048003"
+  }
+ }
+}

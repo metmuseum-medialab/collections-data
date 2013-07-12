@@ -1,0 +1,51 @@
+{
+ "Artist": "or after Raphael (Raffaello Sanzio or Santi) (Italian, Urbino 1483–1520 Rome)",
+ "Date": "n.d.",
+ "Medium": "Engraving",
+ "Dimensions": "6 3/8 x 3 7/8 in.  (16.2 x 9.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1927",
+ "Accession Number": "27.78.2",
+ "Who": [
+  "Raphael (Raffaello Sanzio  Santi)",
+  "Marcantonio Raimondi",
+  "Parmigianino (Girolamo Francesco Maria Mazzola)"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Papacy and the Vatican Palace",
+  "Lovers in Italian Mythological Prints",
+  "The Rediscovery of Classical Antiquity",
+  "Poets in Italian Mythological Prints",
+  "Profane Love and Erotic Art in the Italian Renaissance",
+  "The Printed Image in the West History and Techniques",
+  "Heroes in Italian Mythological Prints"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90013046,
+ "related-artworks": [
+  90008249,
+  90009694,
+  90009696,
+  90009698,
+  90009699
+ ],
+ "Provenance": [
+  "Pierre Mariette le fils (French, Paris 1634–1716 Paris)",
+  "Pierre Jean Mariette (French, Paris 1694–1774 Paris)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90013046"
+  }
+ }
+}

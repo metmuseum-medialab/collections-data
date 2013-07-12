@@ -1,0 +1,39 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Reign": "reign of Amenemhat II–Senwosret II",
+ "Date": "ca. 1919–1878 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Gabbro",
+ "Dimensions": "8 in. (20.3 cm)",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.202.7",
+ "What": [
+  "Sculpture",
+  "Statues",
+  "Gabbro"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100000397,
+ "gallery-id": 111,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/08.202.7_04.jpg",
+ "related-artworks": [
+  100014324,
+  100004477,
+  100004625,
+  100004627,
+  100009262
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100000397"
+  }
+ }
+}

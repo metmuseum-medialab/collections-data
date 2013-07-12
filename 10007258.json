@@ -1,0 +1,45 @@
+{
+ "Date": "1829–35",
+ "Geography": "New England, East Cambridge, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Pressed glass",
+ "Dimensions": "1 15/16 x 2 1/8 x 2 7/8 in. (4.9 x 5.4 x 7.3 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Erving and Joyce Wolf, in memory of Diane R. Wolf, 1980",
+ "Accession Number": "1980.140",
+ "Who": "New England Glass Company",
+ "What": [
+  "Glass",
+  "Pressed glass",
+  "Salts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Cambridge",
+  "East Cambridge"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10007258,
+ "gallery-id": 704,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA5087.jpg",
+ "related-artworks": [
+  10007198,
+  10007129,
+  10007130,
+  10000839,
+  10000807
+ ],
+ "Provenance": [
+  "Erving and Joyce Wolf, New York, until 1980"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10007258"
+  }
+ }
+}

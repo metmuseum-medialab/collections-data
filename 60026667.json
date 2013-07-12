@@ -1,0 +1,41 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "1875",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "14 1/8 x 9 1/2 in. (35.9 x 24.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Lincoln Kirstein, 1960",
+ "Accession Number": "JP3352",
+ "Who": "Toyohara Kunichika",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60026667,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP143128.jpg",
+ "related-artworks": [
+  60013078,
+  60024792,
+  60026416,
+  60026670,
+  60026672
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026667"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "late 18th century",
+ "Culture": "Japan",
+ "Medium": "Lacquer",
+ "Dimensions": "H. 1 1/2 in. (3.8 cm); Diam. 2 in. (5.1 cm)",
+ "Classification": "Lacquer",
+ "Credit Line": "Gift of Mrs. George A. Crocker (Elizabeth Masten), 1937",
+ "Accession Number": "38.25.154a, b",
+ "What": [
+  "Boxes",
+  "Lacquer"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60029505,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/38_25_154_O.jpg",
+ "related-artworks": [
+  60012298,
+  60012572,
+  60012595,
+  60012606,
+  60012645
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029505"
+  }
+ }
+}

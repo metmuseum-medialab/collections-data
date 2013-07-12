@@ -1,0 +1,33 @@
+{
+ "Date": "1633",
+ "Medium": "Etching, state i",
+ "Classification": "Prints",
+ "Accession Number": "1971.521.2(74-b)",
+ "Who": "Stefano della Bella",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The Printed Image in the West History and Techniques",
+ "MetPublications": "Search for related Met publications",
+ "id": 90051516,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818153.jpg",
+ "related-artworks": [
+  90027803,
+  90028165,
+  90028166,
+  90032545,
+  90032854
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90051516"
+  }
+ }
+}

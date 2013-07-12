@@ -1,0 +1,24 @@
+{
+ "Date": "1955",
+ "Classification": "Books",
+ "Credit Line": "Gift of Indiana University College of Arts & Science",
+ "Accession Number": "55.575",
+ "Who": "Indiana University College of Arts & Science",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90019749,
+ "related-artworks": [
+  90000001,
+  90000402,
+  90000506,
+  90000530,
+  90000618
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90019749"
+  }
+ }
+}

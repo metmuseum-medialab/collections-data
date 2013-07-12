@@ -1,0 +1,42 @@
+{
+ "Period": "Archaic",
+ "Date": "ca. late 6th–early 5th century B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Gold",
+ "Dimensions": "L. 1.8 cm",
+ "Classification": "Gems",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.4059",
+ "What": [
+  "Metal",
+  "Gold",
+  "Gems",
+  "Rings"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "id": 130003942,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP142768.jpg",
+ "related-artworks": [
+  130003939,
+  130004023,
+  130004034,
+  130004092,
+  130004027
+ ],
+ "Description": "Two flying sirens flanking a palmette",
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130003942"
+  }
+ }
+}

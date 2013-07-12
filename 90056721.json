@@ -1,0 +1,58 @@
+{
+ "Artist": "Engraved by Charles Turner (British, Woodstock, Oxfordshire 1774–1857 London)",
+ "Publisher": "Published by Charles Turner (British, Woodstock, Oxfordshire 1774–1857 London)",
+ "Date": "February 20, 1808",
+ "Medium": "Etching and mezzotint; first state",
+ "Dimensions": [
+  "plate 7 1/8 x 10 7/16 in. (18.1 x 26.5 cm)",
+  "sheet 8 3/16 x 11 1/2 in. (20.8 x 29.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1928",
+ "Accession Number": "28.97.11",
+ "Who": [
+  "Joseph Mallord William Turner",
+  "Charles Turner"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Mezzotints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Salon and The Royal Academy",
+  "John Constable (1776–1837)",
+  "Joseph Mallord William Turner (1775–1851)",
+  "Romanticism",
+  "The Hudson River School",
+  "Roger Fenton (1819–1869)",
+  "Watercolor Painting in Britain, 1750–1850",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90056721,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821354.jpg",
+ "related-artworks": [
+  90056732,
+  90056739,
+  90056723,
+  90056743,
+  90056757
+ ],
+ "Provenance": [
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90056721"
+  }
+ }
+}

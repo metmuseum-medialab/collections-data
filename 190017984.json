@@ -1,0 +1,54 @@
+{
+ "Date": "1938",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "17.3 x 24 cm (6 13/16 x 9 7/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, The Horace W. Goldsmith Foundation Gift through Joyce and Robert Menschel and Harriette and Noel Levine Gift, 1990",
+ "Accession Number": "1990.1005",
+ "Who": "Dorothea Lange",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Walker Evans (1903–1975)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 190017984,
+ "Description": "Lange photographed this stretch of U.S. 54 in southern New Mexico while she was employed by the Farm Security Administration.  During the Depression, this highway was the west-bound route taken by many families who hoped to find work in California.  Upon discovering conditions no better than those they left behind, they often returned east.  In \"An American Exodus\" (1939), published by Lange and her husband, Paul Taylor, this image is accompanied by an observation made by someone they met in the field: \"They keep the road hot a goin' and a comin' . . . They've got roamin' in their head.\"  In the vernacular terms of the moment or in the timeless terms of the photograph, this picture is clearly an invitation to travel.",
+ "Provenance": [
+  "Sons of the artist",
+  "[Edwynn Houk, New York]"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190012084"
+   },
+   {
+    "href": "http://scrapi.org/object/190012138"
+   },
+   {
+    "href": "http://scrapi.org/object/190012140"
+   },
+   {
+    "href": "http://scrapi.org/object/190012137"
+   },
+   {
+    "href": "http://scrapi.org/object/190017049"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190017984"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190017984"
+  }
+ }
+}

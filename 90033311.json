@@ -1,0 +1,38 @@
+{
+ "Date": "1896",
+ "Medium": "Commercial lithography",
+ "Dimensions": "18 x 11-7/8 inches (45.8 x 29 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, The Lauder Foundation, Leonard and Evelyn Lauder Fund Gift, 1990",
+ "Accession Number": "1990.1105.3",
+ "Who": "Joseph J. Gould, Jr.",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90033311,
+ "related-artworks": [
+  90006206,
+  90006207,
+  90006209,
+  90006210,
+  90006211
+ ],
+ "Provenance": [
+  "Vendor: George M. Dembo"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90033311"
+  }
+ }
+}

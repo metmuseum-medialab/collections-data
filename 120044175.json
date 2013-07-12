@@ -1,0 +1,45 @@
+{
+ "Date": "early 19th century",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Dimensions": [
+  "H. 3 3/4 x W. 8 1/2 inches",
+  "9.5 x 21.6 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1940",
+ "Accession Number": "40.63.20",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Borders"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044175,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP2185.jpg",
+ "related-artworks": [
+  120040802,
+  120040800,
+  120040834,
+  120040835,
+  120040836
+ ],
+ "Provenance": [
+  "[ Staack , 1940",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044175"
+  }
+ }
+}

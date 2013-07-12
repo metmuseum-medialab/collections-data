@@ -1,0 +1,38 @@
+{
+ "Date": "10th century(?)",
+ "Culture": "Indonesia (Java)",
+ "Medium": "Bronze",
+ "Dimensions": "H. 6 1/4 in. (15.9 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Abby Aldrich Rockefeller, 1942",
+ "Accession Number": "42.25.24",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60006306,
+ "related-artworks": [
+  60005989,
+  60005997,
+  60005998,
+  60005979,
+  60006002
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60006306"
+  }
+ }
+}

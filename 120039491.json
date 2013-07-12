@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1800",
+ "Culture": "British",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 27 1/4 x 25 3/4 inches",
+  "69.2 x 65.4 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "26.201.2",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1800–1900 A.D.",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120039491,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SC30371.jpg",
+ "related-artworks": [
+  120018389,
+  120036271,
+  120036809,
+  120036810,
+  120036811
+ ],
+ "Provenance": [
+  "[ Ginsburg & Levy, Inc. , 1926",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120039491"
+  }
+ }
+}

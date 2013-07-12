@@ -1,0 +1,61 @@
+{
+ "Date": "1915–1918",
+ "Medium": "Black and white gouache, pen and ink and brush",
+ "Dimensions": "sheet 16 7/8 x 10 7/8 in. (42.9 x 27.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1967",
+ "Accession Number": "67.566.22a",
+ "Who": "A. Foa",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90061260,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP807484.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90034020",
+  "http://scrapi.org/object/90034028",
+  "http://scrapi.org/object/90034029",
+  "http://scrapi.org/object/90061256",
+  "http://scrapi.org/object/90061257"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP807484.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/DP807485.jpg"
+ ],
+ "Provenance": [
+  "Vendor: Benjamin Weinreb (London)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90034020"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90034028"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90034029"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90061256"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90061257"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90061260"
+  }
+ }
+}

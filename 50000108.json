@@ -1,0 +1,41 @@
+{
+ "Date": "13th–16th century",
+ "Geography": "Colombia",
+ "Culture": "Colombia",
+ "Medium": "Gold",
+ "Dimensions": "Diameter 5/8 in.",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Museum Purchase, 1891",
+ "Accession Number": "91.37.35",
+ "What": [
+  "Metal",
+  "Gold"
+ ],
+ "Where": [
+  "South America",
+  "Colombia"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Northern Andes, 1000–1400 A.D.",
+  "Northern Andes, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50000108,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/VS91_37_35.jpg",
+ "related-artworks": [
+  50000002,
+  50000003,
+  50000000,
+  50000041,
+  50000058
+ ],
+ "Provenance": [
+  "[Hoadley & Co., New York, until 1891]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000108"
+  }
+ }
+}

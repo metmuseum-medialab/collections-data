@@ -1,0 +1,38 @@
+{
+ "Date": "1890–92",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 53 in. (134.6 cm)",
+ "Credit Line": "Gift of Mrs. William Harrison Givens, Jr., 1987",
+ "Accession Number": "1987.430.1",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Gowns",
+  "Leather dressing",
+  "Dressing gowns"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80014231,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1987.430.1_F.jpg",
+ "related-artworks": [
+  80036203,
+  80097115,
+  80034327,
+  80035895,
+  80035911
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80014231"
+  }
+ }
+}

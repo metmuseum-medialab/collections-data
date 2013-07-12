@@ -1,0 +1,45 @@
+{
+ "Date": "20th century",
+ "Culture": "China",
+ "Medium": "One bound, navy fabric-covered volume; ink, pencil on paper",
+ "Dimensions": [
+  "Overall (sketchbook closed) 9 3/16 x 13 x 3/4 in. (23.3 x 33 x 1.9 cm)",
+  "Page (each) 8 11/16 x 12 7/8 in. (22.1 x 32.7 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Sarah Shay, 2005",
+ "Accession Number": "2005.411.16.3",
+ "Who": "Xie Zhiliu",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Pencil",
+  "Cloth"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60049949,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP222279.jpg",
+ "related-artworks": [
+  60049953,
+  60049954,
+  60049968,
+  60049978,
+  60049971
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60049949"
+  }
+ }
+}

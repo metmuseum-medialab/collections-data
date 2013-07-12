@@ -1,0 +1,44 @@
+{
+ "Artist": "Possibly by Louise Deglane (French)",
+ "Date": "1862",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "21.6 x 16 cm (8 1/2 x 6 5/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, Gift of The Howard Gilman Foundation, by exchange, 2005",
+ "Accession Number": "2005.100.631",
+ "Who": [
+  "François-Benjamin-Maria Delessert",
+  "Louise Deglane"
+ ],
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190040306,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP223754.jpg",
+ "related-artworks": [
+  190015051,
+  190021327,
+  190021324,
+  190021325,
+  190021326
+ ],
+ "Description": "An intimate-rather than official-portrait, this photograph is by an aristocratic amateur photographer who had access to the imperial court. Like his cousin Édouard, seen at the far left in Olympe Aguado's Presentation of the Prince Imperial (2005.100.175), Benjamin Delessert probably learned photography in the studio of Gustave LeGray.",
+ "Provenance": [
+  "[Gérard Lévy]",
+  "Gilman Paper Company Collection, New York, April 23, 1987"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190040306"
+  }
+ }
+}

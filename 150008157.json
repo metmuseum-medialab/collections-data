@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1961",
+ "Culture": "Belgian",
+ "Medium": "Oil on canvas",
+ "Dimensions": "23 3/8 x 38 1/4 in. (59.4 x 97.2 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.2041",
+ "Who": "Pierre Alechinsky",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "Europe",
+  "Belgium"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 150008157,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/2041-1.jpg",
+ "related-artworks": [
+  210002562,
+  90047362,
+  210001882,
+  90004261,
+  90025965
+ ],
+ "Provenance": [
+  "Acquired from the Lefebre Gallery, New York, by Robert Lehman, New York, April 1965."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008157"
+  }
+ }
+}

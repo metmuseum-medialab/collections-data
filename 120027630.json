@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Culture": "French (Paris)",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "Diam. 8 3/4 in. (22.2 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+ "Accession Number": "1974.356.575",
+ "Who": "Samson",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 120027630,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/205252.jpg",
+ "related-artworks": [
+  120022109,
+  120014104,
+  120014103,
+  120000067,
+  120014102
+ ],
+ "Provenance": [
+  "Lesley and Emma Sheafer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120027630"
+  }
+ }
+}

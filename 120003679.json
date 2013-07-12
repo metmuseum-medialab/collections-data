@@ -1,0 +1,43 @@
+{
+ "Date": "1889",
+ "Culture": "French",
+ "Medium": "Silver, struck",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Mr. and Mrs. Frederick S. Wait, 1907",
+ "Accession Number": "07.124.6",
+ "Who": "Louis-Oscar Roty",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Silver",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003679,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/1969.jpg",
+ "related-artworks": [
+  120001727,
+  120001743,
+  120001762,
+  120002344,
+  120003680
+ ],
+ "Provenance": [
+  "Mr. and Mrs. Frederick S. Wait (until 1907",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120003679"
+  }
+ }
+}

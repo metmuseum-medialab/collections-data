@@ -1,0 +1,55 @@
+{
+ "Period": "Classical",
+ "Date": "ca. 500 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": [
+  "H. 14 7/16 in. (36.6 cm)",
+  "diameter  12 1/4 in. (31.1 cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.210.19",
+ "Who": "Berlin Painter",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Hydriae",
+  "Kalpides"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Kithara in Ancient Greece",
+  "The Art of Classical Greece (ca. 480–323 B.C.)",
+  "Ancient Greek Dress",
+  "Athenian Vase Painting Black– and Red–Figure Techniques",
+  "Music in Ancient Greece",
+  "Ancient Greece, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130008781,
+ "gallery-id": 157,
+ "related-artworks": [
+  130015698,
+  130008423,
+  130011623,
+  130011698,
+  130014669
+ ],
+ "Description": "Achilles and PenthesileaPenthesilea, the queen of the Amazons who assisted the Trojans in the Trojan War, was killed by the Greek hero Achilles. He fell in love with her even as he dealt the mortal blow. The Berlin Painter wraps the figures diagonally around the shoulder of the kalpis. For artistic effect, Penthesilea is disproportionately tall and assumes an unnaturally balletic pose. The composition, however, is admirably appropriate for its placement.",
+ "Provenance": [
+  "Said to be from Falerii"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130008781"
+  }
+ }
+}

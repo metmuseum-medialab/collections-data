@@ -1,0 +1,38 @@
+{
+ "Artist": "Designed by Nicodemus Tessin, the Younger (Stockholm, 1654–1728)",
+ "Date": "[1700]",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 11 3/4 x 15 3/16 x 1/4 in. (29.9 x 38.5 x 0.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.43",
+ "Who": [
+  "Sébastien Leclerc I",
+  "Nicodemus Tessin, the Younger"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90054248,
+ "related-artworks": [
+  90026232,
+  90043917,
+  90043923,
+  90043919,
+  90043908
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90054248"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "17th century",
+ "Geography": "Italy",
+ "Medium": "Wood, various materials",
+ "Dimensions": "L. 78 in. (198.1 cm), W. 16-1/4 in. (41.3 cm)",
+ "Classification": "Chordophone-Lute",
+ "Credit Line": "Gift of Joseph W. Drexel, 1889",
+ "Accession Number": "89.2.161",
+ "What": [
+  "Musical instruments",
+  "Chordophones",
+  "Lutes",
+  "Chitarrones"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Musical Instruments",
+ "MetPublications": "Search for related Met publications",
+ "id": 180013379,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS1147B2.jpg",
+ "related-artworks": [
+  180013406,
+  180012284,
+  180012285,
+  180012287,
+  180012281
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180013379"
+  }
+ }
+}

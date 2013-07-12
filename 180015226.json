@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1710–20",
+ "Geography": "Italy",
+ "Medium": "Wood, ivory, metal",
+ "Dimensions": "Length  app. 56.5 cm (22¼ in.)",
+ "Classification": "Aerophone-Reed Vibrated",
+ "Credit Line": "Purchase, Clara Mertens Bequest, in memory of André Mertens, 1994",
+ "Accession Number": "1994.364",
+ "Who": "Castel",
+ "What": [
+  "Metal",
+  "Bone",
+  "Ivory",
+  "Musical instruments",
+  "Aerophones",
+  "Reeds",
+  "Reedpipes",
+  "Oboes"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Musical Instruments",
+ "MetPublications": "Search for related Met publications",
+ "id": 180015226,
+ "gallery-id": 684,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DP218076.jpg",
+ "related-artworks": [
+  180016702,
+  180013785,
+  180015454,
+  180016338,
+  180014611
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180015226"
+  }
+ }
+}

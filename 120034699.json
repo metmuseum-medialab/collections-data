@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1730 (?)",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Dimensions": "8 3/4 x 24 inches (22.2 x 61.0 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2241",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 120034699,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/13658.jpg",
+ "related-artworks": [
+  120012666,
+  120013696,
+  120030781,
+  120030820,
+  120030825
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120034699"
+  }
+ }
+}

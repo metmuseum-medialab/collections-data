@@ -1,0 +1,33 @@
+{
+ "Date": "17th century",
+ "Medium": "Etching",
+ "Dimensions": "image 4 1/8 x 6 1/4 in. (10.5 x 15.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Museum Accession, by exchange, 1967",
+ "Accession Number": "67.683.3",
+ "Who": "Giulio Carpioni",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018678,
+ "related-artworks": [
+  90032403,
+  90032412,
+  90072358,
+  90072359,
+  90072360
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90018678"
+  }
+ }
+}

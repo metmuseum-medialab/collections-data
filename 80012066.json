@@ -1,0 +1,36 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Culture": "Dutch",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Irene Lewisohn and Mrs. Alice Lewisohn Crowley, 1946",
+ "Accession Number": "C.I.46.9.112",
+ "What": [
+  "Costume",
+  "Headdresses"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe and Low Countries, 1800–1900 A.D.",
+  "Low Countries, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80012066,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI46.9.112.jpg",
+ "related-artworks": [
+  80011654,
+  80012063,
+  80012049,
+  80012058,
+  80012201
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80012066"
+  }
+ }
+}

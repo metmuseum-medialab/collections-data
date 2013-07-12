@@ -1,0 +1,43 @@
+{
+ "Date": "1727–39",
+ "Geography": "Delft, South Holland, Netherlands",
+ "Culture": "Dutch",
+ "Medium": "Earthenware",
+ "Dimensions": "H. 13 1/4 in. (33.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1933",
+ "Accession Number": "33.57.3a, b",
+ "Who": "Rose factory",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Vases",
+  "Earthenware"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands",
+  "Delft"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10002628,
+ "gallery-id": 708,
+ "related-artworks": [
+  10002626,
+  10002627,
+  10009816,
+  10009817
+ ],
+ "Provenance": [
+  "John Wise Ltdied, New York, until 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10002628"
+  }
+ }
+}

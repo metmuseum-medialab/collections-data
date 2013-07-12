@@ -1,0 +1,45 @@
+{
+ "Period": "Parthian",
+ "Date": "ca. 1st century B.C.–1st century A.D.",
+ "Geography": "Iran, Shahr-i Qumis (ancient Hecatompylos)",
+ "Culture": "Parthian",
+ "Medium": "Bronze",
+ "Dimensions": "0.2 in. (0.51 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, H. Dunscombe Colt Gift, 1978",
+ "Accession Number": "1978.93.53",
+ "Who": "Parthian",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Buttons"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30005165,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME1978_93_53.jpg",
+ "related-artworks": [
+  30005164,
+  30005168,
+  30005169,
+  30005170,
+  30005167
+ ],
+ "Provenance": [
+  "1971, excavated by David Stronach and John Hansman, representing the British Institute of Persian Studies and the Oriental Institute of the University of Chicago",
+  "acquired by the Museum in 1978, as a result of its financial contribution to the excavations at Nush-i Jan."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30005165"
+  }
+ }
+}

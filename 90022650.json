@@ -1,0 +1,44 @@
+{
+ "Date": "20th century",
+ "Medium": "Photomechanical process",
+ "Dimensions": "9 1/4 x 12 3/8 in. (23.5 x 31.4 cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1966",
+ "Accession Number": "66.597.5",
+ "Who": "Ohio Foundry  Manufacturing Company",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90022650,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90000852"
+   },
+   {
+    "href": "http://scrapi.org/object/90000850"
+   },
+   {
+    "href": "http://scrapi.org/object/90000855"
+   },
+   {
+    "href": "http://scrapi.org/object/90000864"
+   },
+   {
+    "href": "http://scrapi.org/object/90000866"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90022650"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90022650"
+  }
+ }
+}

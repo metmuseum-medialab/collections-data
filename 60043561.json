@@ -1,0 +1,39 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Silk, metallic thread",
+ "Dimensions": "38 1/4 x 66 1/2 in. (97.16 x 168.91 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Anonymous Gift,1949",
+ "Accession Number": "49.32.111",
+ "What": [
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Robes"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60043561,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP254854.jpg",
+ "related-artworks": [
+  60041828,
+  60041869,
+  60041874,
+  60041871,
+  60041875
+ ],
+ "Description": "This robe, an example of a Buddhist vestment (Japanese: kesa; Sanskrit: kashaya) meant to distinguish the clergy from laypersons, is made from a woven textile that was cut up and reconfigured into a rectangular, bordered patchwork. As such, these garments embody both a form of pious donation and the practice of recycling textiles. The labor-intensive practice of piecing together fragments of cloth into specific columnar layouts was itself considered an act of religious devotion. The auspicious pattern of interlocking circles, which has a long history in East Asian art, suggests the design’s potential to continue endlessly in four directions.  Various East Asian textiles with this type of pattern can be found in the mid-eighth century collection in the Shōsō -in imperial repository in Nara, Japan.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043561"
+  }
+ }
+}

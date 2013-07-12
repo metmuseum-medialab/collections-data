@@ -1,0 +1,36 @@
+{
+ "Date": "19th century",
+ "Geography": "India",
+ "Dimensions": "H. 3 1/4 in. x Diam. 4 1/8 in.",
+ "Classification": "Membranophone-double-headed / waisted drum",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2846",
+ "What": [
+  "Musical instruments",
+  "Membranophones",
+  "Drums",
+  "Damarus",
+  "Rattle drums"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1800–1900 A.D.",
+ "id": 180017276,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/midp89.4.2846.jpg",
+ "related-artworks": [
+  180015200,
+  180016339,
+  180017143,
+  180017354,
+  180015483
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180017276"
+  }
+ }
+}

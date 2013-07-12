@@ -1,0 +1,39 @@
+{
+ "Date": "1939",
+ "Medium": "Carbon print",
+ "Classification": "Photographs",
+ "Credit Line": "Bequest of Alexander Keighley, 1954",
+ "Accession Number": "54.642.1",
+ "Who": "Alexander Keighley",
+ "What": [
+  "Photographs",
+  "Carbon prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "International Pictorialism",
+  "Great Britain and Ireland, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190021582,
+ "related-artworks": [
+  190021583,
+  190021584,
+  190021321,
+  190021322,
+  190021513
+ ],
+ "Provenance": [
+  "Alexander Keighley"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190021582"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1790",
+ "Culture": "British, Sheffield",
+ "Medium": "Sheffield plate",
+ "Dimensions": "3 3/4 x 3 1/2 in.  (9.5 x 8.9 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.16.6a, b",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Plate",
+  "Caddies",
+  "Sheffield plate",
+  "Tea caddies"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Sheffield",
+  "South Yorkshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 120005850,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF10_16_6ab.jpg",
+ "related-artworks": [
+  120006652,
+  120009620,
+  120023449,
+  120006247,
+  120003573
+ ],
+ "Provenance": [
+  "Viscountess Wolseley",
+  "[ Gorham Manufacturing Company , 1910",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120005850"
+  }
+ }
+}

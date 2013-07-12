@@ -1,0 +1,58 @@
+{
+ "Date": "1760–70",
+ "Culture": "French",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 13 x W. 4 1/2 inches (33.0 x 11.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.681",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120041470,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/112174.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120030848",
+  "http://scrapi.org/object/120033997",
+  "http://scrapi.org/object/120034115",
+  "http://scrapi.org/object/120034383",
+  "http://scrapi.org/object/120034398"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120030848"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120033997"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120034115"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120034383"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120034398"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120041470"
+  }
+ }
+}

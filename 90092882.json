@@ -1,0 +1,48 @@
+{
+ "Publisher": "Issued for Fleischmann Bakery (American, New York)",
+ "Artist": "Photograph by Underwood & Underwood (American)",
+ "Date": "1916",
+ "Medium": "Offset lithograph",
+ "Dimensions": "Sheet 5 3/8 x 2 3/4 in. (13.7 x 7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 308, D381.12",
+ "Who": [
+  "Underwood & Underwood",
+  "Bradford & Company",
+  "Fleischmann Bakery"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Baseball cards",
+  "Lithography",
+  "Offset lithography",
+  "Offset lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90092882,
+ "related-artworks": [
+  90092880,
+  90092881,
+  90092871,
+  90092883,
+  90092872
+ ],
+ "Description": "Trade cards from the \"Fleischmann Bread\" series (D381), published in 1916 by Bradford & Co. of St. Joseph, Michigan, to promote Fleischmann Bakery of New York City and Ferguson Bakery of Boston. The full series of cards was printed in two complete sets, each promoting the individual baking companies. The Fleischmann cards were more widely distributed than those of Ferguson Bakery, and so the set has come to be known as the \"Fleischmann Bread\" series.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90092882"
+  }
+ }
+}

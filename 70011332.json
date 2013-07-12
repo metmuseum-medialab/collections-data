@@ -1,0 +1,47 @@
+{
+ "Date": "15th century",
+ "Geography": "Made in Catalonia, Spain",
+ "Culture": "Catalan",
+ "Medium": "Tempera on wood, gold ground",
+ "Dimensions": "39-1/4 x 38-3/4 in.",
+ "Classification": "Paintings",
+ "Credit Line": "The Cloisters Collection, 1925",
+ "Accession Number": "25.120.671",
+ "Who": "Domingo Ram",
+ "What": [
+  "Metal",
+  "Paintings",
+  "Gold",
+  "Panels",
+  "Tempera"
+ ],
+ "Where": [
+  "Europe",
+  "Spain",
+  "Catalonia"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": [
+  "Jews and the Arts in Medieval Europe",
+  "Iberian Peninsula, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 70011332,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi25-120-671.jpg",
+ "related-artworks": [
+  70011333,
+  70011334,
+  70011330,
+  70011331,
+  70011376
+ ],
+ "Provenance": [
+  "George Grey Barnard American, Bellefonte, Pennsylvania 1863–1938 New York , New York (until 1925)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011332"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Period": "late Qing dynasty (1644–1911)",
+ "Date": "early 20th century",
+ "Culture": "China",
+ "Medium": "Pale blue Peking glass",
+ "Dimensions": "H. 2 1/2 in. (6.4 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Purchase, Everfast Fund, 1973",
+ "Accession Number": "1973.132.2",
+ "What": [
+  "Costume",
+  "Glass",
+  "Jewelry",
+  "Hats",
+  "Finials"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60032185,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1973_132_2_O1.jpg",
+ "related-artworks": [
+  60032190,
+  60032188,
+  60032189,
+  60032191,
+  60032184
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60032185"
+  }
+ }
+}

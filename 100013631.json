@@ -1,0 +1,37 @@
+{
+ "Period": "First Intermediate Period–early Middle Kingdom",
+ "Dynasty": "Dynasty 9–12",
+ "Date": "ca. 2100–1950 B.C.",
+ "Geography": "Country of Origin Egypt, Northern Upper Egypt, Hiw (Hu; Diospolis Parva)",
+ "Medium": "Carnelian (?)",
+ "Credit Line": "Gift of Egypt Exploration Fund, 1899",
+ "Accession Number": "99.4.47",
+ "What": [
+  "Chalcedony",
+  "Amulets",
+  "Carnelian"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100013631,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs99.4.47x.jpg",
+ "related-artworks": [
+  100009449,
+  100013308,
+  100013310,
+  100013298,
+  100013300
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100013631"
+  }
+ }
+}

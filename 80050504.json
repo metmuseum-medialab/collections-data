@@ -1,0 +1,39 @@
+{
+ "Date": "early 20th century",
+ "Culture": "French",
+ "Medium": "lizard, metal, glass",
+ "Dimensions": "Width 5 in. (12.7 cm)",
+ "Credit Line": "Gift of A. Hyatt Mayor, 1977",
+ "Accession Number": "1977.33",
+ "What": [
+  "Metal",
+  "Glass",
+  "Leather",
+  "Lizard leather",
+  "Eyeglasses",
+  "Binoculars",
+  "Opera glasses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80050504,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.33.jpg",
+ "related-artworks": [
+  80050505,
+  80058013,
+  80029607,
+  80058276,
+  80058277
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80050504"
+  }
+ }
+}

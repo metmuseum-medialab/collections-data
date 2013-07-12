@@ -1,0 +1,35 @@
+{
+ "Date": "17th century",
+ "Culture": "Indian, Tanjore",
+ "Classification": "Daggers",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.779",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Daggers"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Tamil Nadu",
+  "Thanjavur"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "South Asia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40010199,
+ "related-artworks": [
+  40009854,
+  40009855,
+  40009857,
+  40009946,
+  40009852
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40010199"
+  }
+ }
+}

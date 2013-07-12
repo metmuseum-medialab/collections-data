@@ -1,0 +1,39 @@
+{
+ "Artist": "Unknown, French",
+ "Date": "1935–38",
+ "Medium": "Gelatin silver prints",
+ "Dimensions": "11 x 7.9 cm (4 5/16 x 3 1/8 in.) each",
+ "Classification": "Albums",
+ "Credit Line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+ "Accession Number": "2005.100.383.2",
+ "Who": [
+  "Unknown, French",
+  "Henry Mathouillot Archive"
+ ],
+ "What": [
+  "Photographs",
+  "Books",
+  "Gelatin silver prints",
+  "Albums"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190040428,
+ "related-artworks": [
+  190039907,
+  190040429,
+  190040410,
+  190040431,
+  190040433
+ ],
+ "Provenance": [
+  "(sold, Swann Galleries, April 19, 1997, lot 470)",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190040428"
+  }
+ }
+}

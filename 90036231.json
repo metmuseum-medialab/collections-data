@@ -1,0 +1,51 @@
+{
+ "Date": "1826–61",
+ "Medium": "Cut paper and wash",
+ "Dimensions": [
+  "image 9 1/2 x 13 3/8 in. (24.2 x 33.9 cm)",
+  "sheet 10 1/4 x 13 1/2 in. (26 x 34.3 cm)"
+ ],
+ "Classification": "Cut Paper",
+ "Credit Line": "Bequest of Mary Martin, 1938",
+ "Accession Number": "38.145.392",
+ "Who": "Auguste Edouart",
+ "What": "Paper",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90036231,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP141861.jpg",
+ "Provenance": [
+  "Donor: Bequest of Mary Martin"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90004095"
+   },
+   {
+    "href": "http://scrapi.org/object/90037740"
+   },
+   {
+    "href": "http://scrapi.org/object/90043594"
+   },
+   {
+    "href": "http://scrapi.org/object/90057939"
+   },
+   {
+    "href": "http://scrapi.org/object/90057941"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90036231"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90036231"
+  }
+ }
+}

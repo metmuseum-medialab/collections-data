@@ -1,0 +1,33 @@
+{
+ "Date": "1799–1815",
+ "Culture": "American or European",
+ "Medium": "cotton",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Constance Winde, 1940",
+ "Accession Number": "C.I.40.154",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Hats",
+  "Bonnets"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80049508,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI40.154_S.jpg",
+ "related-artworks": [
+  80017003,
+  80024760,
+  80031412,
+  80031438,
+  80044730
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80049508"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian",
+ "Medium": "Linen",
+ "Dimensions": [
+  "L. (each) 1 1/2 inches",
+  "3.8 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. J. Pierpont Morgan, 1921",
+ "Accession Number": "21.83.74, .75",
+ "What": [
+  "Textiles",
+  "Linen",
+  "Trimming",
+  "Passementerie"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120038942,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP6655.jpg",
+ "related-artworks": [
+  120038863,
+  120038897,
+  120038919,
+  120038898,
+  120038899
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120038942"
+  }
+ }
+}

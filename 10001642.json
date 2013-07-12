@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1820",
+ "Geography": "New England, Boston, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Mahogany, birch",
+ "Dimensions": "33 3/4 x 18 x 18 in. (85.7 x 45.7 x 45.7 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Bequest of May Blackstone Huntington, 1938",
+ "Accession Number": "39.148.3",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Mahogany",
+  "Side chairs",
+  "Birch"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Boston"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001642,
+ "gallery-id": 774,
+ "related-artworks": [
+  10001641,
+  10001734,
+  10001805,
+  10001806,
+  10001686
+ ],
+ "Provenance": [
+  "Mrs. Austin (May Blackstone) Huntington, New York, until died 1938"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001642"
+  }
+ }
+}

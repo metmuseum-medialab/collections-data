@@ -1,0 +1,59 @@
+{
+ "Date": "mid-18th century",
+ "Culture": "French",
+ "Dimensions": [
+  "L. 7 1/2 x W. 2 inches",
+  "19.1 x 5.1 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.1820",
+ "What": [
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Fringe"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120042596,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP5579.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/DP5579.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP5579_36.90.1820.jpg"
+ ],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120042568"
+   },
+   {
+    "href": "http://scrapi.org/object/120042574"
+   },
+   {
+    "href": "http://scrapi.org/object/120042594"
+   },
+   {
+    "href": "http://scrapi.org/object/120042747"
+   },
+   {
+    "href": "http://scrapi.org/object/120042584"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120042596"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120042596"
+  }
+ }
+}

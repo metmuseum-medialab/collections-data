@@ -1,0 +1,22 @@
+{
+ "Date": "1922",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1929",
+ "Accession Number": "29.57.2",
+ "Who": "Marées Gesellschaft",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90014472,
+ "related-artworks": [
+  90011929,
+  90024721,
+  90000001
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90014472"
+  }
+ }
+}

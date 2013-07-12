@@ -1,0 +1,59 @@
+{
+ "Date": "17th century",
+ "Culture": "possibly Italian",
+ "Medium": "Wool on canvas",
+ "Dimensions": "L. 10 3/4 x W. 7 inches (27.3 x 17.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2446",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Wool",
+  "Embroidery",
+  "Canvas"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "id": 120034782,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP2540.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/DP2540.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP2540_09.50.2446.jpg"
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120046775"
+   },
+   {
+    "href": "http://scrapi.org/object/120030789"
+   },
+   {
+    "href": "http://scrapi.org/object/120041669"
+   },
+   {
+    "href": "http://scrapi.org/object/120040182"
+   },
+   {
+    "href": "http://scrapi.org/object/120040803"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120034782"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120034782"
+  }
+ }
+}

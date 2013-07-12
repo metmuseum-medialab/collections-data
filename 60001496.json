@@ -1,0 +1,47 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1794–95",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper with mica ground",
+ "Dimensions": "12 11/32 x 5 3/4 in. (31.4 x 14.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund and Rogers Fund, 1949",
+ "Accession Number": "JP3131",
+ "Who": "Tōshūsai Sharaku",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Art of the Edo Period (1615–1868)",
+  "Art of the Pleasure Quarters and the Ukiyo–e Style",
+  "Japonisme",
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Japan, 1600–1800 A.D."
+ ],
+ "id": 60001496,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP130212.jpg",
+ "related-artworks": [
+  60000770,
+  60001282,
+  60001283,
+  60001432,
+  60001455
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60001496"
+  }
+ }
+}

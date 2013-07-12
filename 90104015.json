@@ -1,0 +1,31 @@
+{
+ "Date": "1700-1730 ca.",
+ "Medium": "Pen and black ink, gray wash.",
+ "Dimensions": "Sheet 7 11/16 × 12 in. (19.5 × 30.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, the Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.608.104",
+ "Who": "Anonymous, 18th century",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90104015,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP830818.jpg",
+ "related-artworks": [
+  90056941,
+  90083985,
+  90104014,
+  90056921,
+  90056999
+ ],
+ "Description": "Design for a heavily decorated wooden bench. The design is presented in a frontal view showing the decoration of the backboard with an overall croisillon motif a portrait en profil and a large palmette crowning the center.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104015"
+  }
+ }
+}

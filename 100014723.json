@@ -1,0 +1,46 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12–13",
+ "Date": "ca. 1981–1640 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Cemetery, MMA 1920–1922",
+ "Medium": "Wood",
+ "Dimensions": [
+  "a) l. 7 cm (2 3/4 in)",
+  "b) l. 6.5 cm (2 9/16 in)"
+ ],
+ "Credit Line": "Rogers Fund, 1915",
+ "Accession Number": "15.3.1102a, b",
+ "What": [
+  "Arms",
+  "Wood",
+  "Edged weapons",
+  "Daggers",
+  "Models"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100014723,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs22.1.664a.jpg",
+ "related-artworks": [
+  100014724,
+  100003484,
+  100013459,
+  100014801,
+  100014802
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100014723"
+  }
+ }
+}

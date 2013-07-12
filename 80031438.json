@@ -1,0 +1,33 @@
+{
+ "Date": "1800–1943",
+ "Culture": "American or European",
+ "Medium": "cotton",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Estate of Mrs. Robert B. Noyes, 1943",
+ "Accession Number": "C.I.43.7.85a, b",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Hats",
+  "Bonnets",
+  "Sunbonnets"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "id": 80031438,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI43.7.85ab.jpg",
+ "related-artworks": [
+  80017003,
+  80049610,
+  80031437,
+  80108094,
+  80031435
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80031438"
+  }
+ }
+}

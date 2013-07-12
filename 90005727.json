@@ -1,0 +1,45 @@
+{
+ "Artist": "After Guido Reni (Italian, Bologna 1575–1642 Bologna)",
+ "Date": "January 15, 1779",
+ "Medium": "Stipple engraving printed in reddish brown ink",
+ "Dimensions": "13-7/8 x 10-11/16 in.  (35.2 x 27.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Leo Steinberg, 1999",
+ "Accession Number": "1999.509.4",
+ "Who": [
+  "Guido Reni",
+  "Angelo Albanesi"
+ ],
+ "What": [
+  "Prints",
+  "Ink",
+  "Engraving",
+  "Intaglio prints",
+  "Engravings",
+  "Stippling",
+  "Stipple engravings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90005727,
+ "related-artworks": [
+  90011830,
+  90050531,
+  90050233,
+  90050438,
+  90050444
+ ],
+ "Provenance": [
+  "Donor: Leo Steinberg (American, Moscow 1921–2011 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005727"
+  }
+ }
+}

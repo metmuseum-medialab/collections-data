@@ -1,0 +1,38 @@
+{
+ "Date": "1941",
+ "Medium": "Commercial lithograph",
+ "Dimensions": "sheet 2 3/8 x 2 11/16 in. (6 x 6.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 317, R40.208",
+ "Who": "W. S.",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90078924,
+ "related-artworks": [
+  90078921,
+  90078923,
+  90078947,
+  90078948,
+  90078932
+ ],
+ "Description": "Defending America is a series of 48 patriotic trade cards that were inserted into candy and gum packages in 1941.  Each card has text both on the front identifying the set and scene as well as on the reverse.  The more extensive text of the back of each card provides a thorough description of the planes, ships, guns, submarines, tanks, or activities of war being employed or enacted in the image.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90078924"
+  }
+ }
+}

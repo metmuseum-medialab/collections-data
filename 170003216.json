@@ -1,0 +1,41 @@
+{
+ "Date": "16th century",
+ "Culture": "German",
+ "Medium": "Iron",
+ "Dimensions": "Overall 8 1/16 x 3 1/8 x 3/4 in. (20.4 x 8 x 1.9 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.100.67",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Keys"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170003216,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf10-100-67s1.jpg",
+ "related-artworks": [
+  170003172,
+  170003175,
+  170003186,
+  170003162,
+  170003187
+ ],
+ "Provenance": [
+  "Gomez(until 1910)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170003216"
+  }
+ }
+}

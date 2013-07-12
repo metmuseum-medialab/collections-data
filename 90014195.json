@@ -1,0 +1,46 @@
+{
+ "Lithographer": "William Westall (British, Hartford 1781–1850 London)",
+ "Dedicatee": "Robert Earl Grosvenor (British, active 19th century)",
+ "Publisher": "William Clarke (British, 19th century)",
+ "Printer": "Samuel & Richard Bentley (London)",
+ "Date": "1826",
+ "Medium": "Lithography",
+ "Dimensions": "Overall 24 x 16 15/16 x 13/16 in. (61 x 43 x 2 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.515.9",
+ "Who": [
+  "James Duffield Harding",
+  "William Westall",
+  "Samuel & Richard Bentley",
+  "William Clarke",
+  "John Chessell Buckler",
+  "Robert Earl Grosvenor"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90014195,
+ "related-artworks": [
+  90014194,
+  90013657,
+  90019106,
+  90019100
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90014195"
+  }
+ }
+}

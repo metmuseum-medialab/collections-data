@@ -1,0 +1,45 @@
+{
+ "Date": "4th–7th century",
+ "Geography": "Made in Kharga Oasis, Byzantine Egypt",
+ "Culture": "Coptic",
+ "Medium": "Stone",
+ "Dimensions": "Overall 2 3/16 x 1 5/16 x 1 3/4 in. (5.5 x 3.4 x 4.4 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.10.24.40",
+ "What": "Stone",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170020637,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cop0359.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/70008697",
+  "http://scrapi.org/object/170002829",
+  "http://scrapi.org/object/170002830",
+  "http://scrapi.org/object/170002831",
+  "http://scrapi.org/object/170002854"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70008697"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/170002829"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/170002830"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/170002831"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/170002854"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/170020637"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Date": "16th–17th century",
+ "Geography": "United States, Arroyo Sequit Canyon, Malibu region, California",
+ "Culture": "Chumash",
+ "Medium": "Steatite, red cinnabar, shell",
+ "Dimensions": "H. 1 3/8 x W. 2 3/4 x D. 2 3/4 in. (3.5 x 7 x 7 cm)",
+ "Classification": "Stone-Containers",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.398",
+ "What": [
+  "Vessels",
+  "Stone",
+  "Talc",
+  "Steatite",
+  "Shell",
+  "Cinnabar"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "California",
+  "Malibu"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "North America, 1400–1600 A.D.",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50005199,
+ "gallery-id": 356,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DP259576.jpg",
+ "related-artworks": [
+  50005198,
+  50011428,
+  50005407,
+  50005601,
+  50015303
+ ],
+ "Provenance": [
+  "[Stendahl Gallery, New York and Los Angeles, until 1955]",
+  "Nelson A. Rockefeller, New York, 1955, on loan to The Museum of Primitive Art, New York, 1956–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50005199"
+  }
+ }
+}

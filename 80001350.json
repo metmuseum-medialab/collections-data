@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1900",
+ "Culture": "American or European",
+ "Medium": "silk, rhinestones",
+ "Dimensions": "Length 14 3/4 in. (37.5 cm)",
+ "Credit Line": "Gift of Saidie E. Scudder, 1995",
+ "Accession Number": "1995.507.5",
+ "What": [
+  "Costume",
+  "Silk",
+  "Glass",
+  "Jewelry",
+  "Necklaces",
+  "Glass paste",
+  "Rhinestone"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80001350,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1995.507.5.jpg",
+ "related-artworks": [
+  80058231,
+  80024465,
+  80024467,
+  80028512,
+  80028513
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001350"
+  }
+ }
+}

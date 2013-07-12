@@ -1,0 +1,31 @@
+{
+ "Date": "fourth quarter 17th century",
+ "Culture": "European",
+ "Medium": "Silk, metallic",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the executors of the estate of Clara M. Blum in memory of Mr. and Mrs. Albert Blum, 1966",
+ "Accession Number": "2009.300.5470",
+ "What": [
+  "Silk",
+  "Bags",
+  "Pouches"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "id": 80107900,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/66.9.298_CP2.jpg",
+ "related-artworks": [
+  80094709,
+  80094718,
+  80107840,
+  80031952,
+  80094324
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107900"
+  }
+ }
+}

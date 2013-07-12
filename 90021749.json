@@ -1,0 +1,33 @@
+{
+ "Date": "[after 1876]",
+ "Dimensions": "10 1/2 x 7 in. (26.7 x 17.8 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1963",
+ "Accession Number": "63.586.16",
+ "Who": "Messenger & Co.",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021749,
+ "related-artworks": [
+  90019077,
+  90000066,
+  90000026,
+  90000034,
+  90000027
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021749"
+  }
+ }
+}

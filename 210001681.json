@@ -1,0 +1,37 @@
+{
+ "Date": "1970–74",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "H. 74, W. 120 inches",
+  "(138 x 304.8 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Purchase, Gifts of friends of the artist, in his memory, 1976",
+ "Accession Number": "1976.195",
+ "Who": "Gandy Brodie",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210001681,
+ "related-artworks": [
+  210007303,
+  210001384,
+  90000875,
+  90000876
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210001681"
+  }
+ }
+}

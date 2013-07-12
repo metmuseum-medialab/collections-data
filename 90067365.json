@@ -1,0 +1,38 @@
+{
+ "Artist": "After Claude Mellan (French, Abbeville 1598–1688 Paris)",
+ "Medium": "Engraving; reverse copy",
+ "Dimensions": "sheet 6 7/16 x 8 9/16 in. (16.4 x 21.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "17.3.1983",
+ "Who": [
+  "Claude Mellan",
+  "Claude Goyrand"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90067365,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP822304.jpg",
+ "related-artworks": [
+  90049997,
+  90049998,
+  90055704,
+  90055705,
+  90072240
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90067365"
+  }
+ }
+}

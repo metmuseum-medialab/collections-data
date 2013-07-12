@@ -1,0 +1,41 @@
+{
+ "Period": "Mid-Imperial",
+ "Date": "mid–late 2nd century A.D.",
+ "Culture": "Roman, Cypriot",
+ "Medium": "Glass; blown, cut, and tooled",
+ "Dimensions": "H. 8.92 cm.",
+ "Classification": "Glass",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.230",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Beakers"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130000281,
+ "gallery-id": 176,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP233493.jpg",
+ "related-artworks": [
+  130000271,
+  130000276,
+  130000299,
+  130000326,
+  130000361
+ ],
+ "Description": "Uneven, knocked-off rim, with bulging collar beneath; cylindrical sides to body, curving in to integral, low base ring; pushed-in bottom.Band of fine abraded horizontal lines below collar; six deep vertical indents in sides.Intact, except for minor cracks in rim; pinprick bubbles and a few glassy inclusions; slight dulling, pitting, and areas of iridescent weathering.",
+ "Provenance": [
+  "From Cyprus, said to be from a tomb at Idalion (modern Dali)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130000281"
+  }
+ }
+}

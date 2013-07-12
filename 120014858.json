@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1750",
+ "Culture": "German",
+ "Medium": "Glass",
+ "Dimensions": "H. 6 1/4 in.  (15.9 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Walter R. Stout, 1946",
+ "Accession Number": "46.89",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Cups",
+  "Mugs"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120014858,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/136637.jpg",
+ "related-artworks": [
+  120006687,
+  120011507,
+  120005913,
+  120010682,
+  120010710
+ ],
+ "Provenance": [
+  "Mrs. Walter R. Stout (until 1946",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120014858"
+  }
+ }
+}

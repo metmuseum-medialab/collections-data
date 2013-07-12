@@ -1,0 +1,37 @@
+{
+ "Date": "1981",
+ "Culture": "American",
+ "Medium": "leather",
+ "Dimensions": "Length 10 in. (25.4 cm)",
+ "Credit Line": "Gift of Susan Bennis Warren Edwards, 1982",
+ "Accession Number": "1982.107.16a, b",
+ "Who": "Susan Bennis/Warren Edwards",
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Boots"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80047832,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1982.107.16ab.jpg",
+ "related-artworks": [
+  80047817,
+  80047861,
+  80047818,
+  80047827,
+  80047819
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80047832"
+  }
+ }
+}

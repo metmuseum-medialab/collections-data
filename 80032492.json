@@ -1,0 +1,37 @@
+{
+ "Date": "1970",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mary Sykes Cahan, 1976",
+ "Accession Number": "1976.118.1",
+ "Who": "Sarmi",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80032492,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1976.118.1_F2.jpg",
+ "related-artworks": [
+  80032531,
+  80116632,
+  80006477,
+  80032544,
+  80116059
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80032492"
+  }
+ }
+}

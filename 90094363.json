@@ -1,0 +1,41 @@
+{
+ "Artist": "After Jacques Callot (French, Nancy 1592–1635 Nancy)",
+ "Date": "17th century",
+ "Medium": "Etching",
+ "Dimensions": "Sheet 6 7/16 x 12 13/16 in. (16.4 x 32.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Edwin De T. Bechtel, 1957",
+ "Accession Number": "57.650.330",
+ "Who": [
+  "Jacques Callot",
+  "Anonymous"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90094363,
+ "related-artworks": [
+  90060208,
+  90060254,
+  90060258,
+  90089224,
+  90089232
+ ],
+ "Provenance": [
+  "Donor: Edwin De Turck Bechtel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90094363"
+  }
+ }
+}

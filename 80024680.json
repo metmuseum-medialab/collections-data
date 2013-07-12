@@ -1,0 +1,37 @@
+{
+ "Date": "early 19th century",
+ "Culture": "European",
+ "Medium": "cotton, glass beads",
+ "Dimensions": [
+  "Length 7 1/2 in. (19.1 cm)",
+  "Width 5 in. (12.7 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. Julian Street, Jr., 1975",
+ "Accession Number": "1975.213.5",
+ "What": [
+  "Costume",
+  "Glass",
+  "Cotton",
+  "Caps"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80024680,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1975.213.5.jpg",
+ "related-artworks": [
+  80024678,
+  80024679,
+  80029659,
+  80095367,
+  80024550
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80024680"
+  }
+ }
+}

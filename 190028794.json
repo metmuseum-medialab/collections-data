@@ -1,0 +1,23 @@
+{
+ "Date": "1930",
+ "Classification": "Books",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.308",
+ "Who": "Alfred H. Barr",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "id": 190028794,
+ "related-artworks": [
+  190028795,
+  190028793,
+  190028797,
+  190028855,
+  190036559
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028794"
+  }
+ }
+}

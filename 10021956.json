@@ -1,0 +1,55 @@
+{
+ "Date": "1883–91",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Ink on brown board",
+ "Dimensions": [
+  "Overall 9 5/8 x 11 5/16 in. (24.4 x 28.7 cm)",
+  "Design 9 5/8 x 9 1/4 in. (24.4 x 23.5 cm)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Tiffany and Co., 1987",
+ "Accession Number": "1987.1047.10",
+ "Who": "Tiffany & Co.",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10021956,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP133113.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10021793"
+   },
+   {
+    "href": "http://scrapi.org/object/10021788"
+   },
+   {
+    "href": "http://scrapi.org/object/10021795"
+   },
+   {
+    "href": "http://scrapi.org/object/10021949"
+   },
+   {
+    "href": "http://scrapi.org/object/10021951"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10021956"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10021956"
+  }
+ }
+}

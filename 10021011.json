@@ -1,0 +1,40 @@
+{
+ "Medium": "Glass",
+ "Dimensions": "Diam. 3 in. (7.6 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Eric Streiner, 2004",
+ "Accession Number": "2004.540.4",
+ "Who": "Louis Comfort Tiffany",
+ "What": [
+  "Glass",
+  "Balls"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The Arts and Crafts Movement in America",
+  "America Comes of Age 1876–1900",
+  "Nineteenth–Century American Jewelry",
+  "Louis Comfort Tiffany (1848–1933)",
+  "Art Nouveau",
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10021011,
+ "related-artworks": [
+  10000122,
+  10000123,
+  10000135,
+  10000533,
+  10000561
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10021011"
+  }
+ }
+}

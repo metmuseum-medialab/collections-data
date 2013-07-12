@@ -1,0 +1,36 @@
+{
+ "Period": "Early Imperial",
+ "Date": "1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": "H. 3 3/8 in. (8.6 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Bequest of Mary Anna Palmer Draper, 1914",
+ "Accession Number": "15.43.240",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles",
+  "Perfume bottles"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009475,
+ "related-artworks": [
+  130000063,
+  130000085,
+  130000067,
+  130000071,
+  130000108
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009475"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Walnut",
+ "Dimensions": "60 x 46-1/4 x 21-1/8 in.  (152.4 x 117.5 x 53.7 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.790",
+ "Who": "Hugues Sambin",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Walnut",
+  "Case furniture",
+  "Cabinets"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120007415,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/24269.jpg",
+ "related-artworks": [
+  120007411,
+  120010204,
+  120007427,
+  120007413,
+  90024515
+ ],
+ "Provenance": [
+  "Oscar Hainauer",
+  "Benjamin Altman (until d. 1913",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120007415"
+  }
+ }
+}

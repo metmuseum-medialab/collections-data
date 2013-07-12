@@ -1,0 +1,35 @@
+{
+ "Publisher": "Published by Vincent Freal et Cie.",
+ "Date": "1931",
+ "Medium": "Commercial photo process",
+ "Dimensions": "Overall 12 1/2 x 8 1/4 x 13/16 in. (31.8 x 21 x 2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Edward Pearce Casey Fund, 1981",
+ "Accession Number": "1981.1089",
+ "Who": [
+  "Roger Poulain",
+  "Vincent Freal et Cie."
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90054310,
+ "related-artworks": [
+  90000001,
+  90000771,
+  90002346,
+  90002538,
+  90003322
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90054310"
+  }
+ }
+}

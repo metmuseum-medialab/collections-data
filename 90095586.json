@@ -1,0 +1,39 @@
+{
+ "Date": "1888",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 x 1 1/2 in. (7 x 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 202, N33.42",
+ "Who": "Allen & Ginter",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90095586,
+ "related-artworks": [
+  90080953,
+  90080954,
+  90080951,
+  90080952,
+  90080957
+ ],
+ "Description": "Trade cards from the \"World's Smokers\" series (N33), issued in 1888 in a set of 50 cards to promote Allen & Ginter brand cigarettes. Printer's samples included in set, as well. The printer's sample cards are on thinner card stock and do not have any printed text.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90095586"
+  }
+ }
+}

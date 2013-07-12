@@ -1,0 +1,58 @@
+{
+ "Date": "1921",
+ "Medium": "Watercolor and transferred printing ink on paper",
+ "Dimensions": [
+  "H. 12-3/8, W. 8-5/8 inches",
+  "(31.4 x 21.9 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "The Berggruen Klee Collection, 1987",
+ "Accession Number": "1987.455.7",
+ "Who": "Paul Klee",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Paul Klee (1879–1940)",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210005089,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT1767.jpg",
+ "Description": "In this watercolor, Klee somewhat expanded the story of the creation of man. His Eve, after growing from Adam's rib, stays right there. She also remains a child. Evchen (\"Little Eve\") looks like a schoolgirl with flaxen hair tied in a braid. Adam is a broad-faced, grown man who sports earrings and a mustache. By placing the figures against a shallow ground with a reddish curtain, Klee seems to set the oddly matched pair on a puppet-theater stage.",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210003257"
+   },
+   {
+    "href": "http://scrapi.org/object/210003340"
+   },
+   {
+    "href": "http://scrapi.org/object/210003363"
+   },
+   {
+    "href": "http://scrapi.org/object/210003349"
+   },
+   {
+    "href": "http://scrapi.org/object/210003342"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210005089"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210005089"
+  }
+ }
+}

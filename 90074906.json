@@ -1,0 +1,40 @@
+{
+ "Date": "1767",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 8 7/16 x 7 1/2 in. (21.5 x 19 cm)",
+  "sheet 15 3/8 x 10 15/16 in. (39.1 x 27.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Olga Sichel and Max Philippson, 1962",
+ "Accession Number": "62.557.156",
+ "Who": "Salomon Gessner",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90074906,
+ "related-artworks": [
+  90043136,
+  90043137,
+  90074520,
+  90074901,
+  90074903
+ ],
+ "Provenance": [
+  "Donor: Mrs. Olga Sichel Donor: Max Philippson (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90074906"
+  }
+ }
+}

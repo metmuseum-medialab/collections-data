@@ -1,0 +1,38 @@
+{
+ "Date": "1830–1900",
+ "Medium": "Ink, graphite, watercolor",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Jessie F. Hume, 1930",
+ "Accession Number": "30.16.47",
+ "Who": "Robert William Hume",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90066324,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP805765.jpg",
+ "related-artworks": [
+  90066301,
+  90066305,
+  90066309,
+  90066285,
+  90066283
+ ],
+ "Provenance": [
+  "Donor: Jessie F. Hume (through Mary Howell Smith)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90066324"
+  }
+ }
+}

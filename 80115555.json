@@ -1,0 +1,41 @@
+{
+ "Retailer": "Lord and Taylor (American, founded 1826)",
+ "Date": "ca. 1945",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Robert Riley, 1961",
+ "Accession Number": "2009.300.7169",
+ "Who": [
+  "Lord  Taylor",
+  "Fortune Cravats"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Neckwear",
+  "Bows",
+  "Neckties",
+  "Ties",
+  "Bow ties"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80115555,
+ "related-artworks": [
+  80116282,
+  80116299,
+  80116300,
+  80116297,
+  80116283
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80115555"
+  }
+ }
+}

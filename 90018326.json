@@ -1,0 +1,37 @@
+{
+ "Publisher": "George Virtue (London)",
+ "Date": "1836",
+ "Dimensions": "5 3/8 x 8 1/2 in. (13.7 x 21.6 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1970",
+ "Accession Number": "1970.565.92",
+ "Who": [
+  "Nathaniel Whittock",
+  "George Virtue"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018326,
+ "related-artworks": [
+  90018331,
+  90005549,
+  90012299,
+  90018329,
+  90018327
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90018326"
+  }
+ }
+}

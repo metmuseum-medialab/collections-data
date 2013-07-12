@@ -1,0 +1,41 @@
+{
+ "Period": "Third Intermediate Period or later",
+ "Dynasty": "Dynasty 21–25",
+ "Date": "ca. 1070–664 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht South, MMA 1908–1909",
+ "Medium": "Faience",
+ "Dimensions": "W. 2.3 x L. 2.8 cm (7/8 x 1 1/8 in.)",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.180.2507",
+ "What": [
+  "Faience",
+  "Amulets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100011174,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsgal24arow.jpg",
+ "related-artworks": [
+  100000300,
+  100003032,
+  100003082,
+  100003471,
+  100003487
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100011174"
+  }
+ }
+}

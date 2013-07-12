@@ -1,0 +1,44 @@
+{
+ "Date": "12th–15th century",
+ "Geography": "Peru",
+ "Culture": "Chimú",
+ "Medium": "Gold",
+ "Dimensions": "Diam. 5 3/8 in. (1.3 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.766",
+ "Who": "Chimú",
+ "What": [
+  "Metal",
+  "Gold"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1000–1400 A.D.",
+  "Central and Southern Andes, 1400–1600 A.D."
+ ],
+ "id": 50004835,
+ "gallery-id": 357,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_206_766.jpg",
+ "related-artworks": [
+  50003217,
+  50000504,
+  50002818,
+  50002819,
+  50002842
+ ],
+ "Description": "During the Sican (Lambayeque) and subsequent Chimu era on Peru's northern coast, the use of precious metals in ostentatious ornaments for the ruling elite grew dramatically, due perhaps to the greater availablility of such materials or to their increased cultural importance. This disk is decorated around the rim with embossed running figures created by hammering the sheet over a carved mold. It may have been a textile ornament.",
+ "Provenance": [
+  "[Mirko Sors, Montevideo, Uruguay, until 1958]",
+  "Nelson A. Rockefeller, New York, 1958, on loan to The Museum of Primitive Art, 1958–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50004835"
+  }
+ }
+}

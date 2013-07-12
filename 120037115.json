@@ -1,0 +1,38 @@
+{
+ "Date": "early 19th century",
+ "Culture": "British",
+ "Dimensions": "4 1/2 x 8 1/2 inches (11.4 x 21.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1913",
+ "Accession Number": "13.68.1",
+ "What": [
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120037115,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/15758.jpg",
+ "related-artworks": [
+  120023638,
+  120025683,
+  120029879,
+  120030819,
+  120030799
+ ],
+ "Provenance": [
+  "Mrs. Russell Sage (until 1913",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120037115"
+  }
+ }
+}

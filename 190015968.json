@@ -1,0 +1,35 @@
+{
+ "Date": "1930s",
+ "Medium": "Ravogravure",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Paul Cohen, 1984",
+ "Accession Number": "1984.1142.15",
+ "Who": "Ben Magid Rabinovitch",
+ "What": [
+  "Photographs",
+  "Photomechanical reproductions"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 190015968,
+ "related-artworks": [
+  190015970,
+  190015984,
+  190015967,
+  190015969,
+  190015979
+ ],
+ "Provenance": [
+  "Paul Cohen"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190015968"
+  }
+ }
+}

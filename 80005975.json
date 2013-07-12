@@ -1,0 +1,36 @@
+{
+ "Date": "1830–40",
+ "Culture": "French",
+ "Medium": "wool",
+ "Dimensions": "Length (excluding fringe) 134 in. (340.4 cm)",
+ "Credit Line": "Catharine Breyer Van Bomel Foundation Fund, 1981",
+ "Accession Number": "1981.280.1",
+ "What": [
+  "Costume",
+  "Wool",
+  "Outerwear",
+  "Shawls"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80005975,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1981.280.1.jpg",
+ "related-artworks": [
+  80005940,
+  80005978,
+  80024828,
+  80029765,
+  80031977
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80005975"
+  }
+ }
+}

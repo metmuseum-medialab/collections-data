@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1775",
+ "Culture": "Russian (St. Petersburg)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 4-1/8 in. (10.5 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+ "Accession Number": "1982.60.170a, b",
+ "Who": "Imperial Porcelain Manufactory, St. Petersburg",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Jugs",
+  "Milk jugs"
+ ],
+ "Where": [
+  "Asia",
+  "Russia",
+  "Saint Petersburg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120026238,
+ "gallery-id": 538,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES6562.jpg",
+ "related-artworks": [
+  120014439,
+  120003163,
+  120014440,
+  120020239,
+  120023206
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120026238"
+  }
+ }
+}

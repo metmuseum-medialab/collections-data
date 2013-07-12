@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Classification": "Firearms",
+ "Credit Line": "Gift of Charles M. Schott Jr., 1917",
+ "Accession Number": "19.53.75",
+ "What": [
+  "Costume",
+  "Arms",
+  "Armor",
+  "Firearms",
+  "Body armor",
+  "Small arms",
+  "Handguns",
+  "Pistols"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40011785,
+ "related-artworks": [
+  40005584,
+  40005585,
+  40002171,
+  40003156,
+  40003170
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40011785"
+  }
+ }
+}

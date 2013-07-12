@@ -1,0 +1,49 @@
+{
+ "Artist": "Previously connected to Master f (North Italian, active ca. 1525–40)",
+ "Date": "1450–1550",
+ "Medium": "Pen and brown ink over stylus ruling",
+ "Dimensions": "Sheet 6 7/8 x 4 3/4 in. (17.4 x 12.1 cm)",
+ "Classification": "Ornament & Architecture",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.64.5",
+ "Who": [
+  "Master f",
+  "Anonymous, Italian  Spanish, late 15th to early 16th century",
+  "Giovanni Battista di Jacopo Cennini"
+ ],
+ "What": "Ink",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90086895,
+ "Description": "Design for a round, Islamic, geometric pattern made up out of two intricate, interlacing polygonal figures and two circles. The larger circle forms the frame of the figure. In its center, the two polygons are interlaced and together form a ten pointed star. The second circle runs through and connects the points of the star. The same design, but in a different scale, can be seen in 49.64.5(23).",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90013671"
+   },
+   {
+    "href": "http://scrapi.org/object/90086373"
+   },
+   {
+    "href": "http://scrapi.org/object/90086374"
+   },
+   {
+    "href": "http://scrapi.org/object/90086375"
+   },
+   {
+    "href": "http://scrapi.org/object/90086378"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90086895"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90086895"
+  }
+ }
+}

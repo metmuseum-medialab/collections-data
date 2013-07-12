@@ -1,0 +1,41 @@
+{
+ "Period": "Hellenistic",
+ "Date": "ca. 330–300 B.C.",
+ "Culture": "Greek, South Italian, Campanian, Teano",
+ "Medium": "Terracotta",
+ "Dimensions": "diameter  4 5/8in. (11.7cm)",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.221.46q",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jugs"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Caserta",
+  "Teano"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "id": 130008674,
+ "gallery-id": 161,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP111880.jpg",
+ "related-artworks": [
+  130008671,
+  130008660,
+  130008667,
+  130008661,
+  130008670
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130008674"
+  }
+ }
+}

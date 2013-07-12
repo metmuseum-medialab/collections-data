@@ -1,0 +1,39 @@
+{
+ "Date": "1918",
+ "Medium": "Woodcut",
+ "Dimensions": "block 7 x 8 9/16 inches (17.8 x 22.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Julia Feininger, 1966",
+ "Accession Number": "66.665.1",
+ "Who": "Lyonel Charles Feininger",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90042430,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP819502.jpg",
+ "related-artworks": [
+  90042420,
+  90042424,
+  90042421,
+  90042422,
+  90042423
+ ],
+ "Provenance": [
+  "Donor: Mrs. Julia Feininger"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90042430"
+  }
+ }
+}

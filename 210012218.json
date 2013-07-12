@@ -1,0 +1,37 @@
+{
+ "Date": "1942",
+ "Medium": "Relief etching",
+ "Dimensions": [
+  "Sheet 12 5/8 x 9 1/4 in. (32.1 x 23.5 cm)",
+  "Plate  11 7/8 x  8 7/8 in. (30.2 x 22.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Reba and Dave Williams, 1999",
+ "Accession Number": "1999.529.21",
+ "Who": "Calvin Burnett",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210012218,
+ "related-artworks": [
+  210012217,
+  210012214,
+  210012215,
+  210012216,
+  210012219
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210012218"
+  }
+ }
+}

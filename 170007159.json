@@ -1,0 +1,37 @@
+{
+ "Date": "16th century",
+ "Culture": "European",
+ "Medium": "Colorless glass",
+ "Dimensions": "Overall 6 1/2 x 1 in. (16.5 x 2.5 cm)",
+ "Classification": "Glass-Stained",
+ "Credit Line": "Gift of George D. Pratt, 1930",
+ "Accession Number": "30.73.24",
+ "What": [
+  "Glass",
+  "Fragments",
+  "Stained glass"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170007159,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cdi30-73-24.jpg",
+ "related-artworks": [
+  170006008,
+  170006007,
+  170006009,
+  170006364,
+  170006367
+ ],
+ "Provenance": [
+  "George D. Pratt, Glen Cove, NY (until 1930)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170007159"
+  }
+ }
+}

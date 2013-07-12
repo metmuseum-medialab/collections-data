@@ -1,0 +1,43 @@
+{
+ "Period": "Classical",
+ "Date": "ca. 450–400 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; black-glaze",
+ "Dimensions": "H. 7.62 cm.",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.5875",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Skyphoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "id": 130005218,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP121161.jpg",
+ "related-artworks": [
+  130005337,
+  130013676,
+  130014885,
+  130014886,
+  130015104
+ ],
+ "Provenance": [
+  "Said to be from Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130005218"
+  }
+ }
+}

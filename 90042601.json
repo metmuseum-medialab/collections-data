@@ -1,0 +1,40 @@
+{
+ "Artist": "After Jusepe de Ribera (called Lo Spagnoletto) (Spanish, Játiva 1591–1652 Naples)",
+ "Publisher": "John Boydell (British, Shropshire 1720–1804 London)",
+ "Date": "1767",
+ "Medium": "Mezzotint",
+ "Dimensions": "sheet 15 7/8 x 19 15/16 in. (40.3 x 50.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1925",
+ "Accession Number": "25.62.61v",
+ "Who": [
+  "John Boydell",
+  "Jusepe de Ribera (called Lo Spagnoletto)",
+  "Charles Phillips"
+ ],
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Mezzotints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 90042601,
+ "related-artworks": [
+  90040279,
+  90049682,
+  90042535,
+  90065396
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90042601"
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "Date": "12th century",
+ "Culture": "German",
+ "Classification": "Equestrian Equipment",
+ "Credit Line": "Gift of Stephen V. Grancsay, 1942",
+ "Accession Number": "42.50.251",
+ "What": [
+  "Costume",
+  "Spurs",
+  "Prick spurs"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40007596,
+ "related-artworks": [
+  40007590,
+  40007594,
+  40007595,
+  40007597,
+  40007599
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40007596"
+  }
+ }
+}

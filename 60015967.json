@@ -1,0 +1,49 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "first half of the 19th century",
+ "Culture": "China",
+ "Medium": "Porcelain painted in overglaze famille rose enamels",
+ "Dimensions": "H. 9 1/2 in. (24.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.677",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Vases",
+  "Painting",
+  "Enamels",
+  "Overglazing",
+  "Famille"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60015967,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/79_2_677_O1_sf.jpg",
+ "related-artworks": [
+  60016766,
+  60016087,
+  60020004,
+  60021632,
+  60022960
+ ],
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60015967"
+  }
+ }
+}

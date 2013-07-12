@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1790",
+ "Geography": "New England, Guilford, Vermont, United States",
+ "Culture": "American",
+ "Medium": "Wool",
+ "Dimensions": "67 1/2 x 36 1/2 in. (171.5 x 92.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Alexander G. Cummins, 1940",
+ "Accession Number": "40.93",
+ "Who": "Elizabeth Stowell",
+ "What": [
+  "Textiles",
+  "Wool",
+  "Rugs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Vermont",
+  "Guilford"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10013957,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/121617.jpg",
+ "related-artworks": [
+  10013955,
+  10014479,
+  10002077,
+  10002038,
+  10002040
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10013957"
+  }
+ }
+}

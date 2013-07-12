@@ -1,0 +1,39 @@
+{
+ "Date": "16th century",
+ "Medium": "Pen and dark brown ink (recto).  On off-white paper. Pen and dark brown ink (verso)",
+ "Dimensions": "13-1/4 x 9 in.  (33.7 x 22.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1952",
+ "Accession Number": "52.570.331",
+ "Who": "Andrés de Melgar",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90004605,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800644.jpg",
+ "related-artworks": [
+  90004265,
+  90004270,
+  90004543,
+  90004544,
+  90004545
+ ],
+ "Provenance": [
+  "János Scholz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90004605"
+  }
+ }
+}

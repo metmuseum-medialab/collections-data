@@ -1,0 +1,37 @@
+{
+ "Date": "1973",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 57 in. (144.8 cm)",
+ "Credit Line": "Gift of Emma Gibbs-Battie–former Emma De Berge, 1981",
+ "Accession Number": "1981.261.2",
+ "Who": "Emma Gibbs-Battie",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80052620,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1981.261.2_F.jpg",
+ "related-artworks": [
+  80052626,
+  80052627,
+  80052619,
+  80052623,
+  80052625
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052620"
+  }
+ }
+}

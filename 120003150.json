@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1755",
+ "Culture": "British, Chelsea",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. 12 1/2 in. (31.8 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Alfred Duane Pell, 1902",
+ "Accession Number": "02.6.254 ab",
+ "Who": "Chelsea Porcelain Factory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Faience",
+  "Porcelain",
+  "Vases",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London",
+  "Chelsea"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003150,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/32300.jpg",
+ "related-artworks": [
+  120007464,
+  120007461,
+  120007462,
+  120007463,
+  120007495
+ ],
+ "Provenance": [
+  "Rev. Alfred Duane Pell (until 1902",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120003150"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1940",
+ "Culture": "American",
+ "Medium": "leather, metal",
+ "Dimensions": [
+  "Length (a) 9 1/4 in. (23.5 cm)",
+  "Length (b) 29 3/8 in. (74.6 cm)"
+ ],
+ "Credit Line": "Gift of Dorelle Moulton Tanner, 1983",
+ "Accession Number": "1983.484.1a, b",
+ "What": [
+  "Metal",
+  "Leather",
+  "Accessories"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80050332,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1983.484.1a.jpg",
+ "related-artworks": [
+  80020388,
+  80038596,
+  80095650,
+  80038595,
+  80051716
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80050332"
+  }
+ }
+}

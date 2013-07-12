@@ -1,0 +1,52 @@
+{
+ "Date": "1644",
+ "Medium": "Etching; first state of three",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.81.3.18",
+ "Who": "Wenceslaus Hollar (Wenzel Vaclav)",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Czech Republic",
+  "Bohemia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90031672,
+ "related-artworks": [
+  "http://scrapi.org/object/90003017",
+  "http://scrapi.org/object/90024388",
+  "http://scrapi.org/object/90024394",
+  "http://scrapi.org/object/90031067",
+  "http://scrapi.org/object/90031070"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90003017"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90024388"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90024394"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90031067"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90031070"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90031672"
+  }
+ }
+}

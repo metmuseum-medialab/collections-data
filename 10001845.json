@@ -1,0 +1,45 @@
+{
+ "Date": "1877–80",
+ "Geography": "Mid-Atlantic, New York, United States",
+ "Culture": "American",
+ "Medium": "Mahogany",
+ "Dimensions": "Dimensions unavailable",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Richard T. Button, 1970",
+ "Accession Number": "1970.290.8",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Mahogany",
+  "Side chairs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001845,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/199193.jpg",
+ "related-artworks": [
+  10001841,
+  10001843,
+  10001844,
+  10001851,
+  10001853
+ ],
+ "Provenance": [
+  "Douglas Merrit, Rhinebeck, New York",
+  "Richard T. Button, New York, until 1970"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001845"
+  }
+ }
+}

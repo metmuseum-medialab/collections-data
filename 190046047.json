@@ -1,0 +1,34 @@
+{
+ "Date": "2008",
+ "Medium": "Inkjet print",
+ "Dimensions": "101.6 x 76.2 cm (40 x 30 in.) each",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Vital Projects Fund Inc. Gift, through Joyce and Robert Menschel, 2010",
+ "Accession Number": "2010.46a–d",
+ "Rights and Reproduction": "© 2009 Erin Shirreff",
+ "Who": "Erin Shirreff",
+ "What": [
+  "Prints",
+  "Photographs",
+  "Inkjet prints"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190046047,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/xShirreffTR432a-d.2009.jpg",
+ "related-artworks": [
+  190046266,
+  190046266,
+  190016780,
+  190018749
+ ],
+ "Provenance": [
+  "the artist"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190046047"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III probably",
+ "Date": "ca. 1390–1352 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Bronze or copper alloy",
+ "Dimensions": "H. 8.2 cm (3 1/4 in)",
+ "Credit Line": "Purchase, Edward S. Harkness Gift, 1926",
+ "Accession Number": "26.7.838",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Copper alloy",
+  "Bronze",
+  "Copper",
+  "Pitchers"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100005514,
+ "gallery-id": 119,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsgal15jug.jpg",
+ "related-artworks": [
+  100005810,
+  100027175,
+  100001170,
+  100028606,
+  100001171
+ ],
+ "Provenance": [
+  "Purchased in Luxor from Mohammed Mohassib by Lord Carnarvon before 1923. Carnarvon Collection purchased by the Museum from Lady Carnarvon, 1926."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100005514"
+  }
+ }
+}

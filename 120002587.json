@@ -1,0 +1,39 @@
+{
+ "Date": "first half 19th century",
+ "Culture": "Dutch",
+ "Medium": "Silver",
+ "Dimensions": "4 in.  (10.2 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mrs. Samuel P. Avery, 1897",
+ "Accession Number": "97.2.233",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Flatware",
+  "Spoons",
+  "Mustard spoons"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120002587,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/17960.jpg",
+ "related-artworks": [
+  120002602,
+  120002605,
+  120002600,
+  120002598,
+  120002544
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120002587"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Pottery; flat with raised rim; design of chrysanthemums and butterfly painted in iron pigment on face of plate (Seto ware)",
+ "Dimensions": "Diam. 8 1/2in. (21.6cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Gertrude C. Kilburn, 1974",
+ "Accession Number": "1974.349.1",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Metalwork",
+  "Pottery",
+  "Iron and iron alloy",
+  "Painting",
+  "Iron",
+  "Plate",
+  "Seto"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60016674,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/203894.jpg",
+ "related-artworks": [
+  60016673,
+  60023295,
+  60035030,
+  60035031,
+  60023294
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60016674"
+  }
+ }
+}

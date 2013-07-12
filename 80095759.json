@@ -1,0 +1,36 @@
+{
+ "Date": "1895–1900",
+ "Culture": "American",
+ "Medium": "silk, linen",
+ "Dimensions": "Length at CB 34 in. (86.4 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Anonymous gift, 1937",
+ "Accession Number": "2009.300.3014",
+ "What": [
+  "Costume",
+  "Silk",
+  "Linen",
+  "Underwear",
+  "Underskirts",
+  "Petticoats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80095759,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/37.327_front_CP4.jpg",
+ "related-artworks": [
+  80095080,
+  80013141,
+  80013135,
+  80051489,
+  80095730
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80095759"
+  }
+ }
+}

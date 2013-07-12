@@ -1,0 +1,45 @@
+{
+ "Date": "mid-20th century",
+ "Geography": "Indonesia, Papua Province (Irian Jaya), Amanamkai village, Assuwe (As) River region",
+ "Culture": "Asmat people",
+ "Medium": "Bamboo, paint",
+ "Dimensions": "H. 25 in. (63.5 cm)",
+ "Classification": "Wood-Musical Instruments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection; Gift of Nelson A. Rockefeller and Mrs. Mary C. Rockefeller, 1965",
+ "Accession Number": "1978.412.1014",
+ "Who": "Bifarji",
+ "What": [
+  "Musical instruments",
+  "Grass",
+  "Bamboo",
+  "Horn"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Irian Jaya"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50004050,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1978_412_1014.jpg",
+ "related-artworks": [
+  50004034,
+  50004037,
+  50004041,
+  50004044,
+  50004049
+ ],
+ "Provenance": [
+  "Michael C. Rockefeller Expedition, collected 1961",
+  "Nelson A. Rockefeller, New York, 1961–1965",
+  "The Museum of Primitive Art, New York, 1965–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50004050"
+  }
+ }
+}

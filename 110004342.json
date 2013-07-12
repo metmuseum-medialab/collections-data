@@ -1,0 +1,47 @@
+{
+ "Date": "1834",
+ "Medium": "Oil on paper, laid down on card",
+ "Dimensions": "5 3/4 x 10 1/8 in. (14.6 x 25.7 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+ "Accession Number": "2009.400.57",
+ "Who": "Thomas Fearnley",
+ "What": [
+  "Paper",
+  "Paintings",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Norway"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110004342,
+ "gallery-id": 806,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP168521.jpg",
+ "related-artworks": [
+  110004341,
+  110004357,
+  110004343,
+  90076152,
+  90047449
+ ],
+ "Provenance": [
+  "the artist (until d. 1842)",
+  "his son, Hofjaegermester Thomas Fearnley, Oslo (1842–d. 1927)",
+  "his son, Thomas Fearnley, Norway (1927–d. 1961)",
+  "Fearnley family, Norway (1961–2006",
+  "sold to Day & Faber)",
+  "[Day & Faber, London, 2006",
+  "sold to Thaw]",
+  "Eugene V. Thaw, New York (2006–9)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110004342"
+  }
+ }
+}

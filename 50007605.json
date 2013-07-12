@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1937",
+ "Geography": "United States, Arizona",
+ "Culture": "Hopi",
+ "Medium": "Wood, paint, feathers",
+ "Dimensions": "H. 7 1/2 in. (19.1 cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Gift of Lillian Dunn Miller, 1986",
+ "Accession Number": "1986.35.14",
+ "Who": [
+  "Pueblo",
+  "Hopi",
+  "Chief of Oraibi, Willy Tewaquaptewa"
+ ],
+ "What": [
+  "Sculpture",
+  "Statues",
+  "Figurines",
+  "Feathers",
+  "Dolls",
+  "Katsina"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Arizona"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50007605,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1986.35.14_a.JPG",
+ "related-artworks": [
+  50000787,
+  50007594,
+  50012114,
+  50000785,
+  50000788
+ ],
+ "Provenance": [
+  "[Gallup Indian Trading Co., Gallup, NM]",
+  "Lillian Dunn Miller, Los Angeles, until 1986"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50007605"
+  }
+ }
+}

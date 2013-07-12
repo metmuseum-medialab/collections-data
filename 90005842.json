@@ -1,0 +1,40 @@
+{
+ "Date": "mid-18th–late 18th century",
+ "Medium": "Watercolor over black chalk. Framing line in pen and black ink.",
+ "Dimensions": "15-5/8 x 21-5/8 inches (39.6 x 32 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Melvin R. Seiden Gift, in honor of Anne and Jean Bonna, 2000",
+ "Accession Number": "2000.10",
+ "Who": "Johann Edler Goll van Franckenstein",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90005842,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800928.jpg",
+ "related-artworks": [
+  90005865,
+  90012413,
+  90061804,
+  90002055,
+  90002562
+ ],
+ "Provenance": [
+  "Vendor: Vermeer Associates Ltd. Vendor: Christie's, London , Scharf sale, 2 July 1991, lot 360"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005842"
+  }
+ }
+}

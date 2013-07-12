@@ -1,0 +1,41 @@
+{
+ "Period": "Bronze and Iron Age period",
+ "Date": "500 B.C.–A.D. 300",
+ "Culture": "Indonesia",
+ "Medium": "Bronze",
+ "Dimensions": "H. 1 1/16 in. (2.7 cm); W. 5/8 in. (1.6 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Samuel Eilenberg Collection, Bequest of Samuel Eilenberg, 1998",
+ "Accession Number": "2001.433.533",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1000 B.C.–1 A.D.",
+  "Southeast Asia, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60027745,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2001_433_533_O3.jpg",
+ "related-artworks": [
+  60022195,
+  60022191,
+  60022197,
+  60022198,
+  60027746
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60027745"
+  }
+ }
+}

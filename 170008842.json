@@ -1,0 +1,41 @@
+{
+ "Date": "15th century",
+ "Culture": "German",
+ "Medium": "Iron",
+ "Dimensions": "Overall 2 1/2 x 1/16 in. (6.4 x 0.2 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Henry G. Marquand, 1887",
+ "Accession Number": "87.11.64",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Doors"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170008842,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf87-11-64s1.jpg",
+ "related-artworks": [
+  170008779,
+  170008766,
+  170008767,
+  170008771,
+  170008774
+ ],
+ "Provenance": [
+  "Henry G. Marquand, New York (until 1887)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170008842"
+  }
+ }
+}

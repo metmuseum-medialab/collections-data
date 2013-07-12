@@ -1,0 +1,48 @@
+{
+ "Date": "1888",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "sheet 2 5/8 x 1 1/2 in. (6.6 x 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 214, N162.41",
+ "Who": "Goodwin & Company",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "id": 90075350,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821744.jpg",
+ "Description": "The Goodwin Champions series of trading cards (N162), was issued by Goodwin & Company in 1888 to promote Old Judge and Gypsy Queen Cigarettes. The series of 50 cards depicts athletes in various disciplines. The Metropolitan Museum of Art owns all 50 cards from the series.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90075275"
+   },
+   {
+    "href": "http://scrapi.org/object/90075279"
+   },
+   {
+    "href": "http://scrapi.org/object/90075267"
+   },
+   {
+    "href": "http://scrapi.org/object/90075280"
+   },
+   {
+    "href": "http://scrapi.org/object/90075282"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90075350"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90075350"
+  }
+ }
+}

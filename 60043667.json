@@ -1,0 +1,40 @@
+{
+ "Date": "20th century",
+ "Culture": "China",
+ "Medium": "Silk / Cut velvet",
+ "Dimensions": "51 x 61 in. (129.54 x 154.94 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Gift of the Estate of Mrs. Edward Robinson, 1952",
+ "Accession Number": "52.126.21",
+ "What": [
+  "Costume",
+  "Silk",
+  "Woven",
+  "Robes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043667,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/154136.jpg",
+ "related-artworks": [
+  60043673,
+  60042582,
+  60042583,
+  60043320,
+  60043604
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043667"
+  }
+ }
+}

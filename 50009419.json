@@ -1,0 +1,41 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Geography": "Papua New Guinea, Wuvulu",
+ "Culture": "Wuvuluvian",
+ "Medium": "Wood, shell, fiber",
+ "Dimensions": "Length 14 in.",
+ "Classification": "Wood-Implements",
+ "Credit Line": "Purchase, Fred and Rita Richman Gift, 1992",
+ "Accession Number": "1992.358",
+ "What": [
+  "Shell",
+  "Graters"
+ ],
+ "Where": [
+  "Oceania",
+  "Papua New Guinea"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Melanesia, 1800–1900 A.D.",
+  "Melanesia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50009419,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1992_358.jpg.jpg",
+ "related-artworks": [
+  50010656,
+  50000776,
+  50003750,
+  50003742,
+  50003731
+ ],
+ "Provenance": [
+  "[Acher Eskenasy, Paris, until 1992]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50009419"
+  }
+ }
+}

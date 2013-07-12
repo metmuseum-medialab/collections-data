@@ -1,0 +1,60 @@
+{
+ "Period": "Hellenic",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta",
+ "Dimensions": [
+  "H. 6 7/16 in. (16.4 cm)",
+  "diameter of mouth  9 5/8 in. (24.5 cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.600",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Bowls"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130000653,
+ "related-artworks": [
+  "http://scrapi.org/object/130000628",
+  "http://scrapi.org/object/130000423",
+  "http://scrapi.org/object/130000427",
+  "http://scrapi.org/object/130000490",
+  "http://scrapi.org/object/130000491"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130000628"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130000423"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130000427"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130000490"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130000491"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130000653"
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "Date": "18th century",
+ "Medium": "Etching",
+ "Dimensions": "sheet 9 11/16 x 18 7/16 in. (24.6 x 46.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.1260",
+ "Who": "Jean-Baptise Rigaud",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90040610,
+ "related-artworks": [
+  90040611,
+  90040608,
+  90098453
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90040610"
+  }
+ }
+}

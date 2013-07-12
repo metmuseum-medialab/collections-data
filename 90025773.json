@@ -1,0 +1,24 @@
+{
+ "Date": "1881",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1964",
+ "Accession Number": "64.643.5",
+ "Who": "Testolini",
+ "What": "Books",
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90025773,
+ "related-artworks": [
+  90019077,
+  90000024,
+  90000031,
+  90000033,
+  90000066
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90025773"
+  }
+ }
+}

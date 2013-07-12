@@ -1,0 +1,53 @@
+{
+ "Date": "first quarter 18th century",
+ "Culture": "Italian",
+ "Medium": "silk, metal",
+ "Dimensions": "Length at CB 41 in. (104.1 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Pratt Institute, 1934",
+ "Accession Number": "2009.300.3012",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Vestments",
+  "Chasubles"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "id": 80095757,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/34.371_front_CP4.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/34.371_front_CP4.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/34.371_back_CP4.jpg"
+ ],
+ "Description": "The textile used in this chasuble is a magnificent example of the early-18th century aesthetic in textile design. The definition of the pomegranate seeds and leaves and the varying shades of the petals are extraordinarily rendered and the fanciful quality of the images exudes creativity.",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80095686"
+   },
+   {
+    "href": "http://scrapi.org/object/80114842"
+   },
+   {
+    "href": "http://scrapi.org/object/80116020"
+   },
+   {
+    "href": "http://scrapi.org/object/80116169"
+   },
+   {
+    "href": "http://scrapi.org/object/80094352"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80095757"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80095757"
+  }
+ }
+}

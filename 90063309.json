@@ -1,0 +1,52 @@
+{
+ "Publisher": "Published by Abraham Waesberge (Dutch)",
+ "Date": "n.d.",
+ "Medium": "Engraving",
+ "Dimensions": "For the whole series plate circa : 5 x 3 13/16 in. (12.7 x 9.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1947",
+ "Accession Number": "47.100.160",
+ "Who": [
+  "Albrecht Dürer",
+  "Abraham Waesberge"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Jan Gossart (ca. 1478–1532) and His Circle",
+  "Anselm Kiefer (born 1945)",
+  "The Printed Image in the West History and Techniques",
+  "Rembrandt van Rijn (1606–1669) Prints",
+  "The Rediscovery of Classical Antiquity",
+  "Portraiture in Renaissance and Baroque Europe",
+  "The Reformation",
+  "Arms and Armor – Common Misconceptions and Frequently Asked Questions",
+  "The Decoration of Arms and Armor",
+  "Albrecht Dürer (1471–1528)",
+  "Europe and the Age of Exploration",
+  "Low Countries, 1400–1600 A.D.",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90063309,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820383.jpg",
+ "related-artworks": [
+  90063287,
+  90063288,
+  90063285,
+  90063289,
+  90063286
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90063309"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Period": "Late Classical",
+ "Date": "ca. 375–350 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Marble, Pentelic ?",
+ "Dimensions": "H. as restored  40 1/2 in. (102.9 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.159",
+ "What": [
+  "Sculpture",
+  "Vessels",
+  "Stone",
+  "Marble",
+  "Jugs",
+  "Lekythoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009120,
+ "gallery-id": 158,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DT203385.jpg",
+ "related-artworks": [
+  130015073,
+  130015112,
+  130013452,
+  130005279,
+  130005287
+ ],
+ "Description": "The monument was presumably erected in memory of the young long-haired girl who clasps her father's hand while her seated mother presents a bird to her little sister.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009120"
+  }
+ }
+}

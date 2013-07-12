@@ -1,0 +1,59 @@
+{
+ "Date": "1873",
+ "Medium": "Watercolor, gouache, and graphite on light tan wove paper.",
+ "Dimensions": "12 7/8 x 9 7/16 in. (32.7 x 24 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Susan Dwight Bliss, 1966",
+ "Accession Number": "67.55.140",
+ "Who": "William Trost Richards",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Watercolors",
+  "Graphite",
+  "Gouaches"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "Nineteenth–Century American Drawings",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20012254,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap67.55.140.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ap/original/ap67.55.140.jpg",
+  "http://images.metmuseum.org/CRDImages/ap/original/186930.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/20012261"
+   },
+   {
+    "href": "http://scrapi.org/object/20012265"
+   },
+   {
+    "href": "http://scrapi.org/object/20012255"
+   },
+   {
+    "href": "http://scrapi.org/object/20012256"
+   },
+   {
+    "href": "http://scrapi.org/object/20012257"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/20012254"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/20012254"
+  }
+ }
+}

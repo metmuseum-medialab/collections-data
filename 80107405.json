@@ -1,0 +1,36 @@
+{
+ "Date": "1880–89",
+ "Culture": "French",
+ "Medium": "Ivory, silk, mother-of-pearl",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of M. Smyth, 1957",
+ "Accession Number": "2009.300.4966",
+ "What": [
+  "Costume",
+  "Silk",
+  "Bone",
+  "Ivory",
+  "Fans",
+  "Pearl"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 80107405,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/57.131.18_CP2.jpg",
+ "related-artworks": [
+  80094623,
+  80094783,
+  80106732,
+  80107106,
+  80106993
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107405"
+  }
+ }
+}

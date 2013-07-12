@@ -1,0 +1,37 @@
+{
+ "Date": "1967",
+ "Culture": "American",
+ "Medium": "leather",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Samuel Winston, Inc., 1968",
+ "Accession Number": "C.I.68.27.2a, b",
+ "Who": "Herbert Levine Inc.",
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80046405,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI68.27.2ab_F.jpg",
+ "related-artworks": [
+  80031770,
+  80046217,
+  80046220,
+  80046246,
+  80046274
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80046405"
+  }
+ }
+}

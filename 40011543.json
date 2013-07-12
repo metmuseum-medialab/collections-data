@@ -1,0 +1,28 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Gift of Bashford Dean, 1920",
+ "Accession Number": "20.152.112",
+ "What": "Buckles",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40011543,
+ "related-artworks": [
+  40011523,
+  40011509,
+  40011510,
+  40011511,
+  40011512
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40011543"
+  }
+ }
+}

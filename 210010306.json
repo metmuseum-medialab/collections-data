@@ -1,0 +1,44 @@
+{
+ "Date": "1974",
+ "Medium": "Oil pastel and graphite on paper",
+ "Dimensions": "25 5/8 x 19 3/4 in. (65.1 x 50.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Norman Dubrow, 2010",
+ "Accession Number": "2010.427.2",
+ "Who": "Jerome Witkin",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Graphite",
+  "Oil paintings",
+  "Pastels"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210010306,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/2010.427.2.jpg",
+ "related-artworks": [
+  210005098,
+  210002280,
+  210010305
+ ],
+ "Provenance": [
+  "The artist, Syracuse, N.Y. (1974-87)",
+  "[Sherry French Gallery, New York 1987",
+  "sold to Dubrow]",
+  "Norman Dubrow, New York (1987-96",
+  "promised gift to MMA, 1996-2010)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210010306"
+  }
+ }
+}

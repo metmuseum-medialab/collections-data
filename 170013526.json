@@ -1,0 +1,34 @@
+{
+ "Date": "6th century or later",
+ "Medium": "Cast copper alloy",
+ "Dimensions": "Overall 8 x 6 1/2 x 1/2 in. (20.3 x 16.5 x 1.3 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Estate of Lawrence J. Majewski, 1999",
+ "Accession Number": "1999.519.4",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Copper",
+  "Crosses"
+ ],
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170013526,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf1999-519-4s1.jpg",
+ "related-artworks": [
+  170014083,
+  170003241,
+  170004564,
+  170005312,
+  170005850
+ ],
+ "Provenance": [
+  "Lawrence J. Majewski, Wappingers Falls, New York (1950s-1999)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170013526"
+  }
+ }
+}

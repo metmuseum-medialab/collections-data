@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "Culture": "China",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 21 1/4 in. (54 cm); W. 12 1/2 in. (31.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.61.1a, b",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Jars"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60015435,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/39107.jpg",
+ "related-artworks": [
+  60009892,
+  60015470,
+  60015918,
+  60018591,
+  60018668
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60015435"
+  }
+ }
+}

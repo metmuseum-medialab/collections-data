@@ -1,0 +1,41 @@
+{
+ "Date": "1936",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "Image 22.9 x 28.6 cm (9 x 11 1/4 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Museum Purchase, 2005",
+ "Accession Number": "2005.100.470",
+ "Who": "Robert Capa",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photography in Europe, 1945–60",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190039777,
+ "related-artworks": [
+  190012455,
+  190012456,
+  190012457,
+  190012458,
+  190012459
+ ],
+ "Provenance": [
+  "Cornell Capa",
+  "Gilman Paper Company Collection, New York, March 17, 1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190039777"
+  }
+ }
+}

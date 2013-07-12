@@ -1,0 +1,33 @@
+{
+ "Date": "ca. 1525",
+ "Culture": "European",
+ "Medium": "Leather",
+ "Dimensions": "7 x 13 in. (17.7 x 33 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Bashford Dean Memorial Collection, Funds from various donors, 1929",
+ "Accession Number": "29.158.441",
+ "What": [
+  "Costume",
+  "Leather",
+  "Helmets"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005322,
+ "related-artworks": [
+  40000118,
+  40000433,
+  40000435,
+  40000437,
+  40002912
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40005322"
+  }
+ }
+}

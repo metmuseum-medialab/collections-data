@@ -1,0 +1,40 @@
+{
+ "Artist": "Johannes Sadeler I (Netherlandish, Brussels 1550–1600 Venice (?))",
+ "Date": "1550–1603",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 3 1/4 x 2 1/2 in. (8.2 x 6.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.601.16",
+ "Who": [
+  "Maerten de Vos",
+  "Johannes Sadeler I"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Low Countries, 1400–1600 A.D.",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90040903,
+ "related-artworks": [
+  90000887,
+  90015377,
+  90028075,
+  90028076,
+  90028487
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90040903"
+  }
+ }
+}

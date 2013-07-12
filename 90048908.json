@@ -1,0 +1,43 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1935–43",
+ "Medium": "Color Lithograph",
+ "Dimensions": "image 9 3/4 x 10 1/2 in. (24.8 x 26.7 cm) sheet: 11 1/4 x 12 1/4 in. (28.6 x 31.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, New York, 1943",
+ "Accession Number": "43.33.1177",
+ "Who": [
+  "WPA",
+  "Beatrice Mandelman"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90048908,
+ "related-artworks": [
+  90048919,
+  90048921,
+  90048927,
+  90048929,
+  90048920
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90048908"
+  }
+ }
+}

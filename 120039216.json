@@ -1,0 +1,42 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Dimensions": "L. about 26 1/4 inches (66.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Miss Frances Morris, 1924",
+ "Accession Number": "24.126.4",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Ribbon"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120039216,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP6440.jpg",
+ "related-artworks": [
+  120034534,
+  120038335,
+  120038337,
+  120038339,
+  120038341
+ ],
+ "Provenance": [
+  "Frances Morris (until 1924",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120039216"
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1353 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Malqata, Palace of Amenhotep III, MMA 1910–1911",
+ "Medium": "Violet and white faience",
+ "Dimensions": "diam. 2 cm (13/16 in)",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.215.94",
+ "What": [
+  "Faience",
+  "Rings"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100018990,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/11.215.94.jpg",
+ "Provenance": [
+  "Museum excavations, 1910–11. Acquired by the Museum in the Division of Finds, 1911."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100005523"
+   },
+   {
+    "href": "http://scrapi.org/object/100008425"
+   },
+   {
+    "href": "http://scrapi.org/object/100008555"
+   },
+   {
+    "href": "http://scrapi.org/object/100008726"
+   },
+   {
+    "href": "http://scrapi.org/object/100008720"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100018990"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100018990"
+  }
+ }
+}

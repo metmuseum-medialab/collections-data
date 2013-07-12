@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1690",
+ "Culture": "British",
+ "Medium": "Walnut",
+ "Dimensions": "53-1/2 x 35 x 27 in.  (135.9 x 88.9 x 68.6 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.912",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Seating furniture",
+  "Chairs",
+  "Walnut"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 120019255,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/194532.jpg",
+ "related-artworks": [
+  120007416,
+  120014374,
+  120021638,
+  120024743,
+  120006100
+ ],
+ "Provenance": [
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019255"
+  }
+ }
+}

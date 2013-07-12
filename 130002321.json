@@ -1,0 +1,35 @@
+{
+ "Culture": "Greek",
+ "Medium": "Limestone",
+ "Dimensions": "Overall 3 1/8 x 11 3/4 x 2 1/2 in. (7.9 x 29.8 x 6.4 cm)",
+ "Classification": "Cesnola Inscriptions",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2301",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Statues"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130002321,
+ "related-artworks": [
+  130002464,
+  130012440,
+  130015000,
+  130001521,
+  130001722
+ ],
+ "Provenance": [
+  "From Cyprus\r\nCyprus, Golgoi"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002321"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "late 19th century",
+ "Geography": "Turkey",
+ "Culture": "Turkey",
+ "Dimensions": "L. 34 in., W. 14 in.",
+ "Classification": "Chordophone-Zither",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.1248",
+ "What": [
+  "Musical instruments",
+  "Chordophones",
+  "Zithers",
+  "Qanuns"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180013577,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS248A.jpg",
+ "related-artworks": [
+  180012310,
+  180012701,
+  180012737,
+  180014781,
+  180012723
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180013577"
+  }
+ }
+}

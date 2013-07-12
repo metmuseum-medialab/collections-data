@@ -1,0 +1,42 @@
+{
+ "Design House": "Hattie Carnegie, Inc. (American)",
+ "Date": "1940",
+ "Culture": "American",
+ "Medium": "wool, feathers, silk",
+ "Dimensions": "Length 8 in. (20.3 cm)",
+ "Credit Line": "Gift of Mrs. Byron C. Foy, 1953",
+ "Accession Number": "C.I.53.40.35",
+ "Who": [
+  "Hattie Carnegie, Inc.",
+  "Hattie Carnegie"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Wool",
+  "Hats",
+  "Feather"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80005351,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI53.40.35_S.jpg",
+ "related-artworks": [
+  80038504,
+  80094127,
+  80045702,
+  80006033,
+  80025062
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80005351"
+  }
+ }
+}

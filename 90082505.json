@@ -1,0 +1,45 @@
+{
+ "Artist": "After Annibale Carracci (Italian, Bologna 1560–1609 Rome)",
+ "Publisher": "Gavin Hamilton (British, Murdieston, Lothian, Scotland 1723–1798 Rome)",
+ "Date": "1772",
+ "Medium": "Engraving and etching",
+ "Dimensions": [
+  "Sheet 21 5/8 x 15 9/16 in. (55 x 39.5 cm)",
+  "Plate 12 3/8 x 14 7/16 in. (31.5 x 36.7 cm) printed horizontally"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, transferred from the Library",
+ "Accession Number": "41.71.1.21",
+ "Who": [
+  "Annibale Carracci",
+  "Gavin Hamilton",
+  "Domenico Cunego"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90082505,
+ "related-artworks": [
+  90082474,
+  90082465,
+  90082521,
+  90082509,
+  90082510
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90082505"
+  }
+ }
+}

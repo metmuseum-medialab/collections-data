@@ -1,0 +1,56 @@
+{
+ "Date": "late 18th century",
+ "Culture": "French (Paris)",
+ "Medium": "Terracotta, on painted and gilt wood pedestal",
+ "Dimensions": [
+  "(Group) 7-5/16 x 10-1/2 x 6-5/8 (18.6 x 26.7 x 16.8 cm.)",
+  "(Pedestal) 4- 7/8 x 12-1/4 x 9-7/8 (12.3 x 31.2 x 25.1)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1983",
+ "Accession Number": "1983.185.6",
+ "Who": "Joseph-Charles Marin",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Gilt",
+  "Terracotta",
+  "Wood",
+  "Painting",
+  "Statues",
+  "Figurines",
+  "Pedestals"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120025606,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES5377.jpg",
+ "related-artworks": [
+  120023514,
+  120022403,
+  150007670,
+  120015726,
+  120014738
+ ],
+ "Provenance": [
+  "Marquis de Bailleul",
+  "Comtesse de la Potterie",
+  "[ sale, Sotheby's, London , July 3, 1959, no. 65",
+  "to Rosenberg ]",
+  "Rosenberg (from 1959)",
+  "Charles and Jayne Wrightsman (until 1983",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120025606"
+  }
+ }
+}

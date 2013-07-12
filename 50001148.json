@@ -1,0 +1,44 @@
+{
+ "Date": "1st–6th century",
+ "Geography": "Peru",
+ "Culture": "Nasca-Wari",
+ "Medium": "Ceramic, pigment",
+ "Dimensions": "Overall 7 in. (17.78 cm)",
+ "Classification": "Ceramics-Containers",
+ "Credit Line": "Gift of Nathan Cummings, 1964",
+ "Accession Number": "64.228.78",
+ "Who": "Nazca",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Bottles"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 500–1000 A.D.",
+  "Central and Southern Andes, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50001148,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/64.228.78_a.jpg",
+ "related-artworks": [
+  50001136,
+  50001135,
+  50008937,
+  50000947,
+  50001024
+ ],
+ "Provenance": [
+  "Bruno J. Wassermann-San Blas Collection, Buenos Aires, Argentina, acquired by 1938, until 1954",
+  "Nathan Cummings, Chicago, 1954–1964"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50001148"
+  }
+ }
+}

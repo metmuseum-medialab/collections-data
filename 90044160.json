@@ -1,0 +1,34 @@
+{
+ "Date": "19th century",
+ "Medium": "Etching",
+ "Dimensions": "sheet 10 5/16 x 13 11/16 in. (26.2 x 34.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1947",
+ "Accession Number": "47.100.895",
+ "Who": "Johann Adam Klein",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90044160,
+ "related-artworks": [
+  90044075,
+  90044076,
+  90044078,
+  90044079,
+  90044080
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90044160"
+  }
+ }
+}

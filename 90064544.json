@@ -1,0 +1,28 @@
+{
+ "Period": "19th century",
+ "Date": "19th century",
+ "Dimensions": "sheet 9 3/4 x 16 in. (24.7 x 40.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Janos Scholz, 1961",
+ "Accession Number": "61.636.44",
+ "What": "Drawings",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90064544,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803604.jpg",
+ "related-artworks": [
+  90000002,
+  90000004,
+  90000005,
+  90000006,
+  90000007
+ ],
+ "Provenance": [
+  "Donor: János Scholz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90064544"
+  }
+ }
+}

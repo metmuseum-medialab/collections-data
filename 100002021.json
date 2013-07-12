@@ -1,0 +1,54 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Reign": "reign of Senwosret II–Amenemhat III",
+ "Date": "ca. 1887–1813 B.C.",
+ "Geography": "Country of Origin Egypt, Fayum Entrance Area, el-Lahun (Illahun, Kahun; Ptolemais Hormos), Tomb of Sithathoryunet (BSA Tomb 8), Chamber E, box 1, EES 1914",
+ "Medium": "Gold, carnelian, feldspar, pellets of copper-silver alloy, cowrie shells",
+ "Dimensions": "l. 84 cm (33 1/16 in)",
+ "Credit Line": "Purchase, Rogers Fund and Henry Walters Gift, 1916",
+ "Accession Number": "16.1.5",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Gold",
+  "Copper",
+  "Chalcedony",
+  "Shell",
+  "Carnelian",
+  "Girdles",
+  "Sea shell",
+  "Cowrie shell",
+  "Feldspar",
+  "Silver alloy"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Al Lāhūn"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100002021,
+ "gallery-id": 111,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs16.1.7m.jpg",
+ "related-artworks": [
+  100000450,
+  100002020,
+  100002008,
+  100015967,
+  100001576
+ ],
+ "Provenance": [
+  "Excavated by Petrie at Lahun under sponsorship of the Egypt Exploration Society, 1914. Received by Petrie in the division of finds. Purchased by the Museum from Petrie, 1916."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100002021"
+  }
+ }
+}

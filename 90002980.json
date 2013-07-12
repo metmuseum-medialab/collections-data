@@ -1,0 +1,42 @@
+{
+ "Artist": "Designed by school of Andrea Mantegna (Italian, Isola di Carturo 1430/31–1506 Mantua)",
+ "Date": "1776",
+ "Medium": "Etching, 2nd state",
+ "Dimensions": "sheet 12 13/16 x 15 9/16 in. (32.5 x 39.5 cm) trimmed to platemark",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.570.242",
+ "Who": [
+  "Andrea Mantegna",
+  "Giovanni David"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Lovers in Italian Mythological Prints",
+  "Heroes in Italian Mythological Prints",
+  "Poets, Lovers, and Heroes in Italian Mythological Prints"
+ ],
+ "id": 90002980,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821768.jpg",
+ "related-artworks": [
+  90002251,
+  90002253,
+  90002642,
+  90002643,
+  90002644
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002980"
+  }
+ }
+}

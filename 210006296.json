@@ -1,0 +1,39 @@
+{
+ "Date": "1990–91",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "H. 77, W. 88 inches",
+  "(195.6 x 223.5 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Arthur Hoppock Hearn Fund, 1992",
+ "Accession Number": "1992.371",
+ "Who": "Melissa Meyer",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210006296,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/SF1992.371.jpg",
+ "related-artworks": [
+  210005108,
+  210004715,
+  210004716,
+  210004717,
+  210004718
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006296"
+  }
+ }
+}

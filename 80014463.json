@@ -1,0 +1,39 @@
+{
+ "Date": "1960s",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "Length 19 in. (48.3 cm)",
+ "Credit Line": "Gift of Marvin B. Patterson (Mrs. Jefferson Patterson), 1978",
+ "Accession Number": "1978.582.175",
+ "Who": "Brooks Brothers",
+ "What": [
+  "Costume",
+  "Silk",
+  "Underwear",
+  "Underpants",
+  "Shorts",
+  "Boxer shorts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80014463,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.582.175.jpg",
+ "related-artworks": [
+  80014464,
+  80014465,
+  80005684,
+  80014467,
+  80002059
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80014463"
+  }
+ }
+}

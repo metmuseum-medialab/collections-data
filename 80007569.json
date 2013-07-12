@@ -1,0 +1,40 @@
+{
+ "Date": "1897–1905",
+ "Culture": "French",
+ "Medium": "silk, metal thread",
+ "Dimensions": "Length 70 in. (177.8 cm)",
+ "Credit Line": "Gift of Grace Rainey Rogers, 1940",
+ "Accession Number": "40.182.9",
+ "Who": "Callot Soeurs",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Gowns"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1900 A.D.–present",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80007569,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/40.182.9_F.jpg",
+ "related-artworks": [
+  80026738,
+  80037102,
+  80007545,
+  80007571,
+  80017439
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007569"
+  }
+ }
+}

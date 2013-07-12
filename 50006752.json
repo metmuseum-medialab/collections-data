@@ -1,0 +1,47 @@
+{
+ "Date": "19th–20th century",
+ "Geography": "Nigeria",
+ "Culture": "Yoruba peoples, Oyo group",
+ "Medium": "Wood, beads, metal, kaolin, camwood powder",
+ "Dimensions": "H. 10 3/8 x W. 3 3/4 x D. 3 3/8 in. (26.4 x 9.5 x 8.6 cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Gift of Dr. Jeffrey S. Hammer, 1979",
+ "Accession Number": "1979.527.28",
+ "Who": "Yoruba",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Clay",
+  "Wood",
+  "Figures",
+  "Camwood",
+  "Kaolin"
+ ],
+ "Where": [
+  "Africa",
+  "Nigeria"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Guinea Coast, 1900 A.D.–present",
+  "Guinea Coast, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50006752,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_527_28.jpg",
+ "related-artworks": [
+  50006213,
+  50006211,
+  50006993,
+  50006994,
+  50007075
+ ],
+ "Provenance": [
+  "Dr. Jeffrey S. Hammer, New York, until 1979"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50006752"
+  }
+ }
+}

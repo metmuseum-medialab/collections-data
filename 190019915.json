@@ -1,0 +1,41 @@
+{
+ "Date": "1861–65",
+ "Medium": "Albumen silver print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.65.29",
+ "Who": "Mathew . Brady",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photography and the Civil War, 1861–1865",
+  "The Daguerreian Era and Early American Photography on Paper, 1839–1860",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190019915,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP70802.jpg",
+ "related-artworks": [
+  190019811,
+  190019791,
+  190019795,
+  190019852,
+  190019855
+ ],
+ "Provenance": [
+  "Loyal Legion, Boston Chapter, Commandery of the State of Massachusetts"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190019915"
+  }
+ }
+}

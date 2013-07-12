@@ -1,0 +1,43 @@
+{
+ "Date": "18th century",
+ "Culture": "Danish (Copenhagen)",
+ "Medium": "Silver",
+ "Dimensions": "H. 4 3/4 in. (12.1 cm); L. 6 3/4 in. (17.1)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Rev. Alfred Duane Pell, 1903",
+ "Accession Number": "03.2.7",
+ "Who": "Jacob von Holten",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Teapots"
+ ],
+ "Where": [
+  "Europe",
+  "Denmark",
+  "Copenhagen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003195,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/17550.jpg",
+ "related-artworks": [
+  120013852,
+  120003194,
+  120009746,
+  120009343,
+  120009342
+ ],
+ "Provenance": [
+  "Rev. Alfred Duane Pell (until 1903",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120003195"
+  }
+ }
+}

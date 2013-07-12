@@ -1,0 +1,42 @@
+{
+ "Date": "1864 or 1866",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "Image 25.6 × 35.9 cm (10 1/16 × 14 1/8 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Pfeiffer and Rogers Funds, 1970",
+ "Accession Number": "1970.525",
+ "Who": "George . Barnard",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Industrialization of French Photography after 1860",
+  "Photography and the Civil War, 1861–1865",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190048810,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP274629.jpg",
+ "related-artworks": [
+  190020044,
+  190020071,
+  190037061,
+  190019731,
+  190019712
+ ],
+ "Provenance": [
+  "Harvey Brewer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190048810"
+  }
+ }
+}

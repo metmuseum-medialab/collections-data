@@ -1,0 +1,38 @@
+{
+ "Period": "New Kingdom",
+ "Date": "ca. 1550–1070 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Hematite",
+ "Dimensions": "4 cm (1 9/16 in.)",
+ "Credit Line": "Bequest of Howard Carter, 1939",
+ "Accession Number": "49.105.3",
+ "What": [
+  "Hematite",
+  "Plummets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100007898,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs17p3.jpg",
+ "related-artworks": [
+  100003430,
+  100005619,
+  100000319,
+  100001185,
+  100003228
+ ],
+ "Provenance": [
+  "Bequeathed to the museum by Howard Carter at his death in 1939."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100007898"
+  }
+ }
+}

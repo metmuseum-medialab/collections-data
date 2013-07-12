@@ -1,0 +1,29 @@
+{
+ "Period": "Classical",
+ "Date": "5th century B.C.",
+ "Culture": "Italic",
+ "Medium": "Amber",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Gift of Mr. and Mrs. Jonathan P. Rosen, 1992",
+ "Accession Number": "1992.267.4",
+ "What": [
+  "Resin",
+  "Amber"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130018363,
+ "related-artworks": [
+  130006963,
+  130006950,
+  130006965,
+  130006946,
+  130006984
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130018363"
+  }
+ }
+}

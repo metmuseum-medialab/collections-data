@@ -1,0 +1,49 @@
+{
+ "Date": "7th century",
+ "Geography": "Made in North France",
+ "Culture": "Frankish",
+ "Medium": "Iron, silver, niello, garnet",
+ "Dimensions": "Overall 6 11/16 x 3 3/8 x 13/16 in. (17 x 8.5 x 2 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.191.343",
+ "What": [
+  "Metal",
+  "Costume",
+  "Metalwork",
+  "Silver",
+  "Iron and iron alloy",
+  "Iron",
+  "Buckles",
+  "Belts",
+  "Garnet",
+  "Niellos"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004962,
+ "gallery-id": 301,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-191-343s1.jpg",
+ "related-artworks": [
+  170004961,
+  170004966,
+  170004931,
+  170004933,
+  170004938
+ ],
+ "Description": "Belts were important features of early medieval dress. Not only did they serve the practical function of holding weapons and tools, but their fittings, which could vary in terms of material, decoration, and size, were also highly visible indicators of rank and status. Iron buckles, many imposing in size, were worn by both men and women. Their intricate decoration was achieved by squeezing narrow twisted strips of silver into patterns engraved on the surface of the prefabricated iron pieces. A complete belt would have consisted of a buckle, a counter plate that was placed opposite the buckle, and sometimes a rectangular plate placed in the middle of the belt at the back for decoration.",
+ "Provenance": [
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004962"
+  }
+ }
+}

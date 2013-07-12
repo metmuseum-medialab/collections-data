@@ -1,0 +1,44 @@
+{
+ "Date": "1830–70",
+ "Geography": "New England, Bennington, Vermont, United States",
+ "Culture": "American",
+ "Medium": "Parian porcelain",
+ "Dimensions": "2 1/8 x 4 x 2 7/8 in. (5.4 x 10.2 x 7.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Dr. Charles W. Green, 1947",
+ "Accession Number": "47.90.110a, b",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Boxes",
+  "Parian"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Vermont",
+  "Bennington"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 10000965,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP267903.jpg",
+ "related-artworks": [
+  10000960,
+  10000961,
+  10000963,
+  10000984,
+  10009122
+ ],
+ "Provenance": [
+  "Dr. Charles W. Green, New York, until 1947"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000965"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Date": "1839",
+ "Medium": "Photogenic drawing",
+ "Dimensions": "21.4 x 17.4 cm (8 7/16 x 6 7/8 in.), irregularly trimmed",
+ "Classification": "Photographs",
+ "Credit Line": "Harris Brisbane Dick Fund, 1936",
+ "Accession Number": "36.37",
+ "Who": "William Henry Fox Talbot",
+ "What": [
+  "Photographs",
+  "Drawings",
+  "Negatives",
+  "Photogenic drawings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "David Octavius Hill (1802–1870) and Robert Adamson (1821–1848) (1840s)",
+  "Gustave Le Gray (1820–1884)",
+  "The Daguerreian Era and Early American Photography on Paper, 1839–1860",
+  "Édouard  Baldus (1813–1889)",
+  "William Henry Fox Talbot (1800–1877) and the Invention of Photography",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190043080,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP202191.jpg",
+ "related-artworks": [
+  190035943,
+  190036253,
+  190043083,
+  190043107,
+  190043086
+ ],
+ "Provenance": [
+  "Antonio Bertoloni, Bologna, Italy",
+  "[...]",
+  "[Mario Galanti, Paris, France]",
+  "[E.P. Goldschmidt & Co., London, England (Feb. 1936)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190043080"
+  }
+ }
+}

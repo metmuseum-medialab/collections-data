@@ -1,0 +1,59 @@
+{
+ "Date": "1712–93",
+ "Medium": "Pen and brown ink, brush and brown wash, over charcoal (recto). Framing lines in pen and brown ink; charcoal (verso)",
+ "Dimensions": "sheet 9 1/16 x 15 1/2 in. (23 x 39.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1937",
+ "Accession Number": "37.165.77",
+ "Who": "Francesco Guardi",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Charcoal"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Venice in the Eighteenth Century",
+ "MetPublications": "Search for related Met publications",
+ "id": 90006022,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP810118.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP810118.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/37.165.77 RECTO.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/37.165.77 VERSO.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/DP810117.jpg"
+ ],
+ "Provenance": [
+  "Baron Mathey(According to Biron inventory)",
+  "Guillaume de Gontaut-Biron, marquis de Biron"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90006003"
+   },
+   {
+    "href": "http://scrapi.org/object/90006006"
+   },
+   {
+    "href": "http://scrapi.org/object/90006004"
+   },
+   {
+    "href": "http://scrapi.org/object/90006007"
+   },
+   {
+    "href": "http://scrapi.org/object/90006005"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90006022"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90006022"
+  }
+ }
+}

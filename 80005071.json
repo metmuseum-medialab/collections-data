@@ -1,0 +1,42 @@
+{
+ "Designer": "Christian Dior (French, Granville 1905–1957 Montecatini)",
+ "Date": "ca. 1956",
+ "Culture": "French",
+ "Medium": "silk, glass beads",
+ "Dimensions": "Length 44 in. (111.8 cm)",
+ "Credit Line": "Gift of Mrs. David Kluger, 1960",
+ "Accession Number": "C.I.60.21.2",
+ "Who": [
+  "House of Dior",
+  "Christian Dior"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Glass",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80005071,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI60.21.2_F.jpg",
+ "related-artworks": [
+  80018878,
+  80002634,
+  80018201,
+  80018932,
+  80019012
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80005071"
+  }
+ }
+}

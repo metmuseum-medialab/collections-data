@@ -1,0 +1,48 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1800–15",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print (surimono); ink and color on paper",
+ "Dimensions": "7 5/16 x 19 7/8 in. (18.6 x 50.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "JP1865",
+ "Who": "Katsushika Hokusai",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Surimono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Art of the Pleasure Quarters and the Ukiyo–e Style",
+  "Japonisme",
+  "Art of the Edo Period (1615–1868)",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60025572,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP143418.jpg",
+ "related-artworks": [
+  60025244,
+  60025322,
+  60025221,
+  60025324,
+  60025490
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60025572"
+  }
+ }
+}

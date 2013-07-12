@@ -1,0 +1,33 @@
+{
+ "Printer": "Bartlett-Orr Press (New York, NY)",
+ "Date": "1912",
+ "Medium": "Photomechanical process, some in color",
+ "Dimensions": "9 1/16 x 6 in. (23 x 15.3 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.672.4",
+ "Who": [
+  "Macbeth-Evans Glass Company",
+  "Bartlett-Orr Press"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021272,
+ "related-artworks": [
+  90011919,
+  90021271,
+  90014031
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021272"
+  }
+ }
+}

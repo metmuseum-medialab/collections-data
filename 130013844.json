@@ -1,0 +1,50 @@
+{
+ "Period": "Archaic",
+ "Date": "early 5th century B.C.",
+ "Culture": "Graeco-Phoenician",
+ "Medium": "Jasper, green",
+ "Classification": "Gems",
+ "Credit Line": "Fletcher Fund, 1931",
+ "Accession Number": "31.11.14",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Chalcedony",
+  "Gems",
+  "Jasper"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013844,
+ "gallery-id": 157,
+ "Description": "winged scorpion with forepart of IsisIsis, the preeminent Egyptian goddess, became significant in Greek culture during the Hellenistic period. The Phoenicians contributed to her introduction in the western Mediterranean.",
+ "Provenance": [
+  "Said to be from Iviza, North Africa"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130004029"
+   },
+   {
+    "href": "http://scrapi.org/object/130009330"
+   },
+   {
+    "href": "http://scrapi.org/object/130014252"
+   },
+   {
+    "href": "http://scrapi.org/object/130014435"
+   },
+   {
+    "href": "http://scrapi.org/object/130014954"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130013844"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130013844"
+  }
+ }
+}

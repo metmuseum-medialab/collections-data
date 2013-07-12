@@ -1,0 +1,50 @@
+{
+ "Date": "late 18th century",
+ "Culture": "British",
+ "Medium": "Rosewood",
+ "Dimensions": "42-1/2 x 18 x 12 in.  (108.0 x 45.7 x 30.5 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Cadwalader Fund, 1915",
+ "Accession Number": "15.92",
+ "Who": "Wedgwood  Bentley",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Case furniture",
+  "Rosewood",
+  "Cabinets"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120007866,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/30941.jpg",
+ "related-artworks": [
+  120019232,
+  120020258,
+  120006333,
+  120010331,
+  120011714
+ ],
+ "Provenance": [
+  "Kensington Palace, London, England (Queen Charlotte,wife of George III)\r\nQueen Charlotte, consort of George III of England",
+  "Augustus, Duke of Sussex and Earl of Inverness",
+  "Lady Cecelia Gore (until d. 1873)",
+  "Anne Jane Charlotte (nee Lockwood), (wife of 10th Baron Napier and 1st Baron Ettrick) (in 1873)",
+  "[ Harding",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120007866"
+  }
+ }
+}

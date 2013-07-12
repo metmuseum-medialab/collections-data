@@ -1,0 +1,42 @@
+{
+ "Artist": "After Parmigianino (Girolamo Francesco Maria Mazzola) (Italian, Parma 1503–1540 Casalmaggiore)",
+ "Date": "1515–30",
+ "Medium": "Woodcut",
+ "Dimensions": "sheet 10 11/16 x 7 3/8 in. (27.2 x 18.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund",
+ "Accession Number": "39.20.6",
+ "Who": [
+  "Parmigianino (Girolamo Francesco Maria Mazzola)",
+  "Ugo da Carpi"
+ ],
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Poets, Lovers, and Heroes in Italian Mythological Prints",
+  "Heroes in Italian Mythological Prints"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90058150,
+ "related-artworks": [
+  90004084,
+  90022408,
+  90026349,
+  90027907,
+  90032428
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90058150"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Binder": "Bound by Francis Bedford (British, 1799–1883)",
+ "Date": "ca. 1516–21",
+ "Medium": "Printed on vellum",
+ "Dimensions": "Tall narrow 8vo (154 x 85 mm)",
+ "Classification": "Books",
+ "Credit Line": "Museum Accession, transferred from the Library, 1921",
+ "Accession Number": "21.36.147",
+ "Who": [
+  "Francis Bedford",
+  "Gilles Hardouyn"
+ ],
+ "What": [
+  "Books",
+  "Parchment",
+  "Vellum"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90019540,
+ "Provenance": [
+  "Lucy Wharton Drexel"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/170008922"
+   },
+   {
+    "href": "http://scrapi.org/object/90005365"
+   },
+   {
+    "href": "http://scrapi.org/object/90005367"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90019540"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90019540"
+  }
+ }
+}

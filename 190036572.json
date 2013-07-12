@@ -1,0 +1,44 @@
+{
+ "Date": "1930s",
+ "Medium": "Pencil on paper",
+ "Dimensions": "13 x 7.5 cm (5 1/8 x 2 15/16 in. )",
+ "Classification": "Manuscript Materials",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.250.103",
+ "Who": "Walker Evans",
+ "What": [
+  "Paper",
+  "Books",
+  "Manuscripts",
+  "Pencil",
+  "Appointment books",
+  "Journals",
+  "Diaries"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Kodak and the Rise of Amateur Photography",
+  "Walker Evans (1903–1975)",
+  "Early Documentary Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190036572,
+ "related-artworks": [
+  190036574,
+  190036575,
+  190036578,
+  190036579,
+  190036585
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190036572"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Period": "Mughal period (1526–1858)",
+ "Date": "18th–19th century",
+ "Culture": "India",
+ "Medium": "Jade (nephrite) inlaid with gold and stone",
+ "Dimensions": "H. 4 13/16 in. (12.2 cm); W. 2 11/16 in. (6.8 cm); D. 7/8 in. (2.2 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.778",
+ "What": [
+  "Metal",
+  "Gold",
+  "Arms",
+  "Stone",
+  "Edged weapons",
+  "Swords",
+  "Jade",
+  "Nephrite"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia and the Himalayan Region, 1800–1900 A.D.",
+  "South Asia, 1600–1800 A.D."
+ ],
+ "id": 60027388,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP108029.jpg",
+ "related-artworks": [
+  60027378,
+  60027377,
+  60027380,
+  60027381,
+  60027385
+ ],
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60027388"
+  }
+ }
+}

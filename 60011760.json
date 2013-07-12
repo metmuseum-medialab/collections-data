@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Agate",
+ "Dimensions": "H. 1 in. (2.5 cm)",
+ "Classification": "Hardstone",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.897",
+ "What": [
+  "Dishes",
+  "Chalcedony",
+  "Agate"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "id": 60011760,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/32762.jpg",
+ "related-artworks": [
+  60010892,
+  60011726,
+  60011736,
+  60011757,
+  60011855
+ ],
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60011760"
+  }
+ }
+}

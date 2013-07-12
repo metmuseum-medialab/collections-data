@@ -1,0 +1,60 @@
+{
+ "Date": "1894–95",
+ "Culture": "French",
+ "Medium": "cotton, silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Susan Dwight Bliss, 1935",
+ "Accession Number": "35.134.5",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80028698,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/35.134.5_F.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80034338",
+  "http://scrapi.org/object/80036168",
+  "http://scrapi.org/object/80037981",
+  "http://scrapi.org/object/80097071",
+  "http://scrapi.org/object/80002676"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/35.134.5_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/35.134.5_S.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/35.134.5_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/35.134.5_d.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/35.134.5_label.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80034338"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80036168"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80037981"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80097071"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80002676"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80028698"
+  }
+ }
+}

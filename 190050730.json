@@ -1,0 +1,43 @@
+{
+ "Date": "2009",
+ "Medium": "Inkjet print",
+ "Dimensions": [
+  "Image 72.4 x 89.5 cm (28 1/2 x 35 1/4 in.)",
+  "Frame 73.7 × 91.4 cm (29 × 36 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, The Robert A. and Renée E. Belfer Family Foundation Gift, 2011",
+ "Accession Number": "2011.420",
+ "Rights and Reproduction": "© Gregory Crewdson, Gagosian Gallery",
+ "Who": "Gregory Crewdson",
+ "What": [
+  "Prints",
+  "Photographs",
+  "Inkjet prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190050730,
+ "related-artworks": [
+  190050710,
+  190050709,
+  190050731,
+  190018243,
+  190018295
+ ],
+ "Provenance": [
+  "the artist",
+  "[Gagosian Gallery, New York, 2010–11]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190050730"
+  }
+ }
+}

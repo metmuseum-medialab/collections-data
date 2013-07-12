@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1815",
+ "Culture": "British",
+ "Medium": "cotton",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Purchase, Irene Lewisohn Bequest, 1972",
+ "Accession Number": "1972.78.3",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Robes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80036093,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1972.78.3_F.jpg",
+ "related-artworks": [
+  80029656,
+  80002131,
+  80002819,
+  80005213,
+  80013038
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80036093"
+  }
+ }
+}

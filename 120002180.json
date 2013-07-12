@@ -1,0 +1,39 @@
+{
+ "Date": "second quarter 16th century",
+ "Culture": "Spanish (Valencia)",
+ "Medium": "Earthenware, lustered",
+ "Dimensions": "H. 2 7/8 in. (7.3 cm), Diam. 15 7/8 in. (40.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Henry G. Marquand, 1894",
+ "Accession Number": "94.4.379",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware"
+ ],
+ "Where": [
+  "Europe",
+  "Spain",
+  "Valencia"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120002180,
+ "gallery-id": 535,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SFES2463D.jpg",
+ "related-artworks": [
+  120001467,
+  120001468,
+  120001466,
+  120002166,
+  120002178
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120002180"
+  }
+ }
+}

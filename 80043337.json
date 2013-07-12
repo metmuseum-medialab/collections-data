@@ -1,0 +1,36 @@
+{
+ "Date": "1790s",
+ "Culture": "American (probably)",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. Claggett Wilson, 1941",
+ "Accession Number": "C.I.41.146.1a, b",
+ "What": [
+  "Costume",
+  "Footwear",
+  "Shoes",
+  "Slippers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80043337,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI41.146.1ab_F2.jpg",
+ "related-artworks": [
+  80008491,
+  80017698,
+  80020343,
+  80020384,
+  80024660
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80043337"
+  }
+ }
+}

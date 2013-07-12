@@ -1,0 +1,42 @@
+{
+ "Period": "Classical",
+ "Date": "late 5th century B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": "H. 6 13/16 in. (17.3 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Fletcher Fund, 1924",
+ "Accession Number": "24.97.35",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jugs",
+  "Lekythoi",
+  "Squat lekythoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011983,
+ "gallery-id": 159,
+ "related-artworks": [
+  130005291,
+  130008437,
+  130011692,
+  130011699,
+  130011984
+ ],
+ "Description": "Winged Eros playing tambourine as woman dances",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011983"
+  }
+ }
+}

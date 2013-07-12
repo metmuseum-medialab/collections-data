@@ -1,0 +1,36 @@
+{
+ "Date": "1887",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "sheet 2 11/16 x 1 1/2 in. (6.9 x 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 214, N166.52",
+ "Who": "Goodwin & Company",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "id": 90075657,
+ "gallery-id": 773,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP823289.jpg",
+ "related-artworks": [
+  90075269,
+  90075270,
+  90075271,
+  90075276,
+  90075277
+ ],
+ "Description": "The \"Occupations for Women\" series of trading cards (N166) was issued by Goodwin & Company in 1887 to promote Old Judge and Dogs Head Cigarettes. The Metropolitan Museum of Art owns all 50 cards in the series, as well as three duplicate cards.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90075657"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Date": "mid-16th century",
+ "Culture": "Italian, Rome",
+ "Medium": "Pen and brown ink, brush and brown wash, over traces of black chalk; squared in red chalk.",
+ "Dimensions": "9 5/16 x 7 1/16 in.  (23.6 x 17.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.321",
+ "Who": "Francesco Salviati (Francesco de' Rossi)",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk",
+  "Pen",
+  "Black chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Rome"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 150000543,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/DT235531.jpg",
+ "related-artworks": [
+  90008296,
+  90008297,
+  90013491,
+  90013493,
+  90013502
+ ],
+ "Provenance": [
+  "[Prejean, Paris(?)].  Acquired by Robert Lehman in November 1955."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150000543"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "mid-20th century",
+ "Culture": "Japanese",
+ "Medium": "cotton",
+ "Dimensions": "Length 154 in. (391.2 cm)",
+ "Credit Line": "Gift of Mrs. Estelle Sheinman, 1977",
+ "Accession Number": "1977.71.4",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Obis"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Japan, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80010431,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.71.4.jpg",
+ "related-artworks": [
+  80010430,
+  80004465,
+  80010438,
+  80010451,
+  80010460
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80010431"
+  }
+ }
+}

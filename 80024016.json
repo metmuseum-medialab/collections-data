@@ -1,0 +1,40 @@
+{
+ "Date": "1964",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Dan J. Epstein, 1973",
+ "Accession Number": "1973.191.1",
+ "Who": "Norman Norell",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Dressing for the Cocktail Hour",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80024016,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1973.191.1_F.jpg",
+ "related-artworks": [
+  80005870,
+  80024014,
+  80024027,
+  80024039,
+  80097445
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80024016"
+  }
+ }
+}

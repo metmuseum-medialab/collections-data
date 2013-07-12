@@ -1,0 +1,52 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19–20",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Steatite",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.543",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Talc",
+  "Steatite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100028010,
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100000644"
+   },
+   {
+    "href": "http://scrapi.org/object/100000627"
+   },
+   {
+    "href": "http://scrapi.org/object/100000629"
+   },
+   {
+    "href": "http://scrapi.org/object/100000652"
+   },
+   {
+    "href": "http://scrapi.org/object/100000632"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100028010"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100028010"
+  }
+ }
+}

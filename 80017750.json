@@ -1,0 +1,33 @@
+{
+ "Date": "19th century",
+ "Culture": "American or European",
+ "Medium": "glass, metal",
+ "Dimensions": "Total Length 7 3/4 in. (19.7 cm)",
+ "Credit Line": "Gift of Clare Vincent, in memory of Lillie Cole, 1994",
+ "Accession Number": "1994.100.2",
+ "What": [
+  "Metal",
+  "Glass",
+  "Pins",
+  "Hatpins"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80017750,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1994.100.2.jpg",
+ "related-artworks": [
+  80049359,
+  80049394,
+  80049395,
+  80049399,
+  80049397
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80017750"
+  }
+ }
+}

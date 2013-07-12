@@ -1,0 +1,40 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1625",
+ "Culture": "Japan",
+ "Medium": "Porcelain with underglaze blue (Hizen ware)",
+ "Dimensions": "H. 7/8 in. (2.2 cm); Diam. 5 7/8 in. (14.9 cm); Diam. of foot 2 in. (5.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+ "Accession Number": "1975.268.456",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Underglazing",
+  "Hizen ware"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60021047,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1975_268_456_tms.JPG",
+ "related-artworks": [
+  60023200,
+  60023202,
+  60023207,
+  60034928,
+  60023198
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60021047"
+  }
+ }
+}

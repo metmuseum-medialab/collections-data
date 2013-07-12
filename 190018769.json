@@ -1,0 +1,33 @@
+{
+ "Date": "1968",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "14.6 x 21.6 cm. (5  3/4  x 8  1/2  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Addison Thompson, 1993",
+ "Accession Number": "1993.473",
+ "Who": "Unknown",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190018769,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP147820.jpg",
+ "related-artworks": [
+  190060818,
+  190060962,
+  190060963,
+  190060964,
+  190060961
+ ],
+ "Provenance": [
+  "Addison Thompson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190018769"
+  }
+ }
+}

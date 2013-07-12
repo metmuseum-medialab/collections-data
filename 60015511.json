@@ -1,0 +1,45 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "late 18th–19th century",
+ "Culture": "China",
+ "Medium": "Porcelain painted in overglaze polychrome enamels",
+ "Dimensions": "H. 6 1/2 in. (16.5 cm); Diam. 4 1/2 in. (11.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Avery Fund, 1909",
+ "Accession Number": "09.70.68a, b",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Painting",
+  "Enamels",
+  "Overglazing",
+  "Urns"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "id": 60015511,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/86740.jpg",
+ "related-artworks": [
+  60015506,
+  60015548,
+  60015505,
+  60015523,
+  60015538
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60015511"
+  }
+ }
+}

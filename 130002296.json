@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 389 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Marble, white",
+ "Dimensions": "Overall 3 1/4 x 4 3/4 x 7/8 in. (8.3 x 12.1 x 2.2 cm)",
+ "Classification": "Cesnola Inscriptions",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2277",
+ "What": [
+  "Fragments",
+  "Bowls",
+  "Marble"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "id": 130002296,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/204144.jpg",
+ "related-artworks": [
+  130002306,
+  130002295,
+  130002291,
+  130002297,
+  130002301
+ ],
+ "Provenance": [
+  "From Cyprus\r\nFrom the sanctuary of Phoenician diety Eshmun-melqarth, Kition, Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002296"
+  }
+ }
+}

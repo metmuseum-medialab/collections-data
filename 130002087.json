@@ -1,0 +1,32 @@
+{
+ "Date": "1st century B.C.–1st century A.D.",
+ "Medium": "Terracotta",
+ "Dimensions": "Other 1 5/8 x 5 1/4 in. (4.1 x 13.3 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2068",
+ "What": [
+  "Clay",
+  "Terracotta",
+  "Lighting devices",
+  "Lamps"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "id": 130002087,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP627.jpg",
+ "related-artworks": [
+  130001845,
+  130001848,
+  130001851,
+  130001860,
+  130001863
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002087"
+  }
+ }
+}

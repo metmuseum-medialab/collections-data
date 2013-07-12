@@ -1,0 +1,45 @@
+{
+ "Date": "winter 1938–39",
+ "Culture": "French",
+ "Medium": "silk, metallic",
+ "Dimensions": "Length at CB 40 in. (101.6 cm)",
+ "Credit Line": "Gift of Estate of Lady Mendl, 1951",
+ "Accession Number": "C.I.51.83",
+ "Who": "Elsa Schiaparelli",
+ "What": [
+  "Costume",
+  "Silk",
+  "Outerwear",
+  "Capes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Twentieth–Century Silhouette and Support",
+  "Costume in The Metropolitan Museum of Art",
+  "Le Colis de Trianon–Versailles and Paris Openings",
+  "Dressing for the Cocktail Hour",
+  "Elsa Schiaparelli (1890–1973)",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80002288,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DT438.jpg",
+ "related-artworks": [
+  80095915,
+  80001928,
+  80002833,
+  80008279,
+  80009116
+ ],
+ "Description": "In a sui generis gesture to one client, this velvet cape for Lady Mendl refers to her taste for eighteenth-century style and the spectacular, and celebrates the Apollo Founrtain and its proximity to her house in the Parc de Varsailles.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002288"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "18th–19th century",
+ "Geography": "India",
+ "Medium": "Gold; enameled",
+ "Classification": "Jewelry",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1151",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Flasks"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia, 1600–1800 A.D.",
+  "South Asia and the Himalayan Region, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140001857,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/91.1.1151.jpg",
+ "related-artworks": [
+  140001848,
+  140001850,
+  140001862,
+  140003944,
+  140003952
+ ],
+ "Provenance": [
+  "Edward C. Moore, New York (until d. 1891)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140001857"
+  }
+ }
+}

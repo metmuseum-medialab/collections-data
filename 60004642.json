@@ -1,0 +1,41 @@
+{
+ "Period": "Eastern Javanese period",
+ "Date": "ca. 12th–14th century",
+ "Culture": "Indonesia (Java)",
+ "Medium": "Bronze",
+ "Dimensions": "H. 13 5/8 in. (34.6 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Samuel Eilenberg Collection, Gift of Samuel Eilenberg, 1987",
+ "Accession Number": "1987.142.28",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Lids"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60004642,
+ "gallery-id": 247,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1987_142_28.jpg",
+ "related-artworks": [
+  60022514,
+  60004645,
+  60004646,
+  60004621,
+  60004627
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60004642"
+  }
+ }
+}

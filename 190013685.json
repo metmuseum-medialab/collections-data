@@ -1,0 +1,40 @@
+{
+ "Printer": "Jurgen Wilde",
+ "Date": "ca. 1928, printed 1975",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "24.9 x 15.9 cm. (9  13/16  x 6  1/4  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Warner Communications Inc. Purchase Fund, 1976",
+ "Accession Number": "1976.638.1",
+ "Who": [
+  "Karl Blossfeldt",
+  "Jurgen Wilde"
+ ],
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190013685,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/MM67761.jpg",
+ "related-artworks": [
+  190013686,
+  190013988,
+  190039899
+ ],
+ "Provenance": [
+  "Sonnabend Gallery"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190013685"
+  }
+ }
+}

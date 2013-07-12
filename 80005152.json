@@ -1,0 +1,39 @@
+{
+ "Date": "spring/summer 1996",
+ "Culture": "American",
+ "Medium": "(a, b) silk; (c, d) leather",
+ "Dimensions": [
+  "Length at CB (a) 30 in. (76.2 cm)",
+  "Total Length (b) 34 1/2 in. (87.6 cm)",
+  "Heel to Toe (c, d) 10 in. (25.4 cm)"
+ ],
+ "Credit Line": "Gift of Todd Oldham Studio, 2002",
+ "Accession Number": "2002.193.21a–d",
+ "Who": "Todd Oldham",
+ "What": [
+  "Silk",
+  "Leather",
+  "Ensembles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80005152,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2002.193.21a_F.jpg",
+ "related-artworks": [
+  80005145,
+  80005149,
+  80005147,
+  80005156,
+  80005182
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80005152"
+  }
+ }
+}

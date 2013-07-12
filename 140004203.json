@@ -1,0 +1,48 @@
+{
+ "Object Name": "Star-shaped tile",
+ "Date": "A.H. 846/A.D. 1442–43",
+ "Geography": "Iran, Khargird",
+ "Medium": "Stonepaste; polychrome glaze within black wax resist outlines (cuerda seca technique)",
+ "Dimensions": [
+  "H. 15 7/8 in. (40.3 cm)",
+  "W. 15 7/8 in. (40.3 cm)",
+  "D. 1 1/4 in. (3.2 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Philip M. Lydig, 1917",
+ "Accession Number": "17.143.1",
+ "What": [
+  "Ceramics",
+  "Glaze",
+  "Tile",
+  "Wax"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140004203,
+ "gallery-id": 455,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf17-143-1a.jpg",
+ "related-artworks": [
+  140005651,
+  140010186,
+  140010772,
+  140013588,
+  140004482
+ ],
+ "Description": "This star‑shaped tile with interlaced design once graced the walls of the west iwan (vault) of the Madrasa al‑Ghiyathiyya, a religious school completed in 846/1442–43 in the city of Khargird in northeastern Iran. This example was executed in the so‑called cuerda seca (dry cord) technique wherein a greasy material separates the various colored glazes. During the firing process, the greasy line melts, leaving behind an unglazed band between the glazed areas.",
+ "Provenance": [
+  "Madrasaat Khargird, Iran (from about 1445)",
+  "Philip M. Lydig, New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004203"
+  }
+ }
+}

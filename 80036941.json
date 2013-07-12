@@ -1,0 +1,30 @@
+{
+ "Date": "1930s",
+ "Culture": "French",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Alice Bohmfalk, 1970",
+ "Accession Number": "1970.255.2a–c",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80036941,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1970.255.2a–c_F.jpg",
+ "related-artworks": [
+  80000037,
+  80000042,
+  80000045,
+  80000050,
+  80000055
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80036941"
+  }
+ }
+}

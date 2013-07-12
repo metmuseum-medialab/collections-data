@@ -1,0 +1,61 @@
+{
+ "Publisher": "Pierre Mariette le fils (French, Paris 1634–1716 Paris)",
+ "Date": "17th century",
+ "Medium": "Etching; second state of two (Préaud)",
+ "Dimensions": [
+  "Sheet 13 3/8 × 8 7/16 in. (34 × 21.5 cm)",
+  "Plate 7 7/8 × 5 3/8 in. (20 × 13.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.84(2.27)",
+ "Who": [
+  "Jean Le Pautre",
+  "Pierre Mariette le fils"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "French Decorative Arts during the Reign of Louis XIV (1654–1715)",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90106927,
+ "Description": "This print is bound in Volume II of Oeuvres.  Jombert published his collection of Le Pautre in 1751. Volume II contains \"desseins... pour la décoration des Eglises et des Jardins;.\" This print is part of a series of twelve plates depicting altars and altarpieces.  The series was published by Jean I Leblond around 1651, by Pierre II Mariette, and by Jombert in 1751.",
+ "Provenance": [
+  "Vendor: James Rimell & Son"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90006707"
+   },
+   {
+    "href": "http://scrapi.org/object/90008866"
+   },
+   {
+    "href": "http://scrapi.org/object/90050943"
+   },
+   {
+    "href": "http://scrapi.org/object/90055313"
+   },
+   {
+    "href": "http://scrapi.org/object/90074105"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90106927"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90106927"
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "Date": "1924",
+ "Culture": "Austrian",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 28 3/4 in. (73 cm)",
+ "Credit Line": "Gift of Elizabeth Catherine Mayer, 1979",
+ "Accession Number": "1979.372.6",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80030599,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1979.372.6_F.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80024346",
+  "http://scrapi.org/object/80026521",
+  "http://scrapi.org/object/80058312",
+  "http://scrapi.org/object/80091679",
+  "http://scrapi.org/object/80095312"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1979.372.6_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1979.372.6_B.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80024346"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80026521"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80058312"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80091679"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80095312"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80030599"
+  }
+ }
+}

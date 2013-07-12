@@ -1,0 +1,32 @@
+{
+ "Date": "1850s",
+ "Medium": "Salted paper print from paper negative",
+ "Classification": "Photographs",
+ "Credit Line": "David Hunter McAlpin Fund, 1946",
+ "Accession Number": "46.1.91",
+ "Who": "Unknown, British",
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190020865,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP115213.jpg",
+ "related-artworks": [
+  190017553,
+  190017554,
+  190017552,
+  190017556,
+  190017555
+ ],
+ "Provenance": [
+  "E. Weil, London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190020865"
+  }
+ }
+}

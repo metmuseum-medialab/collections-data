@@ -1,0 +1,33 @@
+{
+ "Date": "1860s",
+ "Culture": "American or European",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Irene Lewisohn, 1941",
+ "Accession Number": "C.I.41.170.3a–c",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80036543,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.41.170.3a–c_F.jpg",
+ "related-artworks": [
+  80001240,
+  80001521,
+  80001727,
+  80002258,
+  80002668
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80036543"
+  }
+ }
+}

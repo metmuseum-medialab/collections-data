@@ -1,0 +1,44 @@
+{
+ "Date": "1870–1900",
+ "Geography": "England",
+ "Culture": "British, possibly",
+ "Medium": "Blown glass",
+ "Dimensions": "H. 4 1/16 in. (10.3 cm); Diam. 3 5/8 in. (9.2 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Darwin S. Morse, 1963",
+ "Accession Number": "63.200.24",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Blown glass",
+  "Drinking glasses",
+  "Wine glasses",
+  "Champagne glasses"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001978,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/179329.jpg",
+ "related-artworks": [
+  10001979,
+  10001982,
+  10001980,
+  10001981,
+  10010215
+ ],
+ "Provenance": [
+  "Mrs. Darwin Morse, Richmond, Massachusetts, until 1963"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001978"
+  }
+ }
+}

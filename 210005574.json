@@ -1,0 +1,37 @@
+{
+ "Medium": "Graphite and watercolor on paper",
+ "Dimensions": [
+  "H. 15, W. 12 inches",
+  "(38.1 x 30.5 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Allen Leepa, 1990",
+ "Accession Number": "1990.110.12",
+ "Who": "Abraham Rattner",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Modern and Contemporary Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 210005574,
+ "related-artworks": [
+  210005571,
+  210005575,
+  210005588,
+  210005577,
+  210005572
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210005574"
+  }
+ }
+}

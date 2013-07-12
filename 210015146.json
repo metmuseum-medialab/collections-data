@@ -1,0 +1,35 @@
+{
+ "Date": "1999",
+ "Medium": "Linocut",
+ "Dimensions": "37 1/4 x 44 5/8 in. (94.6 x 113.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Tyler Graphics Ltd., in honor of William S. Lieberman, 2003",
+ "Accession Number": "2003.433.11",
+ "Who": "Per Inge Bjørlo",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Linoleum cuts"
+ ],
+ "Where": [
+  "Europe",
+  "Norway"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210015146,
+ "related-artworks": [
+  210015150,
+  210015153,
+  210015144,
+  210015145,
+  210015148
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210015146"
+  }
+ }
+}

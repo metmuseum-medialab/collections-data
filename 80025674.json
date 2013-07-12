@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1964",
+ "Culture": "Italian",
+ "Medium": "silk",
+ "Dimensions": "Length 40 in. (101.6 cm)",
+ "Credit Line": "Gift of Baron Philippe de Rothschild, 1983",
+ "Accession Number": "1983.619.13",
+ "What": [
+  "Costume",
+  "Silk",
+  "Trousers",
+  "Toreador pants"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80025674,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1983.619.13_S.jpg",
+ "related-artworks": [
+  80025676,
+  80116151,
+  80032395,
+  80032394,
+  80032931
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80025674"
+  }
+ }
+}

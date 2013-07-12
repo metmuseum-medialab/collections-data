@@ -1,0 +1,36 @@
+{
+ "Date": "1924",
+ "Medium": "Watercolor over graphite",
+ "Dimensions": "Sheet 19 3/4 x 25 9/16 in. (50.2 x 65 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Bella C. Landauer",
+ "Accession Number": "Ref. Cassé",
+ "Who": "Marcel Cassé",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 90096849,
+ "related-artworks": [
+  90096796,
+  90001614,
+  90007274,
+  90010249
+ ],
+ "Provenance": [
+  "Donor: Bella C. Landauer (American, New York 1874–1960)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90096849"
+  }
+ }
+}

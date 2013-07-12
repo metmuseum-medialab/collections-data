@@ -1,0 +1,44 @@
+{
+ "Period": "Middle Kingdom",
+ "Date": "ca. 2030–1640 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Glazed steatite",
+ "Dimensions": "H. 11.7 cm (4 5/8 in)",
+ "Credit Line": "Purchase, Fletcher Fund and The Guide Foundation Inc. Gift, 1966",
+ "Accession Number": "66.99.153",
+ "What": [
+  "Sculpture",
+  "Statues",
+  "Figurines",
+  "Glazing",
+  "Talc",
+  "Steatite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 8000–2000 B.C.",
+  "Egypt, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100016269,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/66.99.153.jpg",
+ "related-artworks": [
+  100019342,
+  100001263,
+  100010263,
+  100002420,
+  100004523
+ ],
+ "Provenance": [
+  "Collection of Albert Gallatin, purchased by the Museum in 1966.  Purchased by him from K. J. Hewett, London, September 1952."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100016269"
+  }
+ }
+}

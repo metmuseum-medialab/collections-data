@@ -1,0 +1,33 @@
+{
+ "Illustrator": "Illustrated by Louis-Maurice Boutet de Monvel (French, 1851–1913)",
+ "Publisher": "Published by Boussod, Valadon and Co. (Paris)",
+ "Date": "1890",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1969",
+ "Accession Number": "69.708.33",
+ "Who": [
+  "Louis-Maurice Boutet de Monvel",
+  "Boussod, Valadon  Co.",
+  "Ferdinand Fabre"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017148,
+ "related-artworks": [
+  90017149,
+  90017147,
+  90019310
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017148"
+  }
+ }
+}

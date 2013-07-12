@@ -1,0 +1,54 @@
+{
+ "Date": "1949",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "Image 9 9/16 × 13 3/4 in. (24.3 × 35 cm)",
+  "Sheet 11 15/16 × 16 in. (30.4 × 40.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Alan Crane, 1973",
+ "Accession Number": "1973.582.40",
+ "Who": "Alan H. Crane",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90108110,
+ "Provenance": [
+  "Donor: Mrs. Alan Crane"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90107952"
+   },
+   {
+    "href": "http://scrapi.org/object/90106783"
+   },
+   {
+    "href": "http://scrapi.org/object/90107941"
+   },
+   {
+    "href": "http://scrapi.org/object/90107966"
+   },
+   {
+    "href": "http://scrapi.org/object/90107944"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90108110"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90108110"
+  }
+ }
+}

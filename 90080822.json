@@ -1,0 +1,34 @@
+{
+ "Publisher": "Paul Prouté, Paris",
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1995",
+ "Accession Number": "1995.584.3",
+ "Who": [
+  "Anthonie Waterloo",
+  "Paul Prouté, Paris"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90080822,
+ "related-artworks": [
+  90026743,
+  90026744,
+  90026745,
+  90026746,
+  90026747
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90080822"
+  }
+ }
+}

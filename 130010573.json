@@ -1,0 +1,48 @@
+{
+ "Period": "Mid Imperial",
+ "Date": "mid-2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Terracotta; East Gaulish terra sigillata ware",
+ "Dimensions": [
+  "H. 1 13/16 in. (4.6 cm)",
+  "diameter with handles  10 9/16 in. (26.9 cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.867",
+ "Who": "Sabinianus",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Dishes",
+  "Plates"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Roman Banquet",
+  "Italian Peninsula, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130010573,
+ "gallery-id": 168,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP107080.JPG",
+ "related-artworks": [
+  130006599,
+  130010566,
+  130010574,
+  130010709,
+  130016418
+ ],
+ "Description": "The large carved handles resemble those found on contemporary Roman silver or bronze serving dishes and trays. At the center of the plate is a stamp with the name of the maker, Sabinianus.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130010573"
+  }
+ }
+}

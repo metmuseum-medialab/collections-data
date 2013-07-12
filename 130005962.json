@@ -1,0 +1,43 @@
+{
+ "Period": "Early Imperial",
+ "Date": "mid-1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown, trailed, and tooled",
+ "Dimensions": [
+  "Height 2 13/16 in. (7.2 cm)",
+  "Diameter 3 13/16 × 2 13/16 in. (9.6 × 7.1 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Gift of Henry G. Marquand, 1881",
+ "Accession Number": "81.10.345",
+ "What": [
+  "Glass",
+  "Bowls"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130005962,
+ "related-artworks": [
+  130000298,
+  130000329,
+  130000305,
+  130000308,
+  130000306
+ ],
+ "Description": "Translucent cobalt blue, with opaque white trail.Knocked-off, uneven rim; short concave neck; deep globular body curving in to flat bottom.Trail wound spirally around body, with large circular patch on bottom; sides tooled into twenty-three irregular, vertical ribs.Broken with large cracks running around body and small chip in rim; some bubbles; dulling, pitting, faint iridescence, and weathering of trail around lower body and between ribs.",
+ "Provenance": [
+  "Said to be from Arelate (modern Arles, southern France) (Froehner 1879, p. 138, pl. VII, 39)Until 1881, collection of Jules Charvet, Le Pecq, Île-de-France",
+  "1881, purchased from J. Charvet by Henry G. Marquand",
+  "acquired in 1881, gift of Henry G. Marquand."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130005962"
+  }
+ }
+}

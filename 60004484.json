@@ -1,0 +1,40 @@
+{
+ "Date": "14th century",
+ "Culture": "Vietnam",
+ "Medium": "Stoneware with underglaze cobalt blue decoration",
+ "Dimensions": "H. 16 5/8 in. (42.2 cm);  Diam. 4 3/4 in. (12.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Betty and John R. Menke, 1991",
+ "Accession Number": "1991.456.12",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Pottery",
+  "Stoneware",
+  "Underglazing",
+  "Cobalt"
+ ],
+ "Where": [
+  "Asia",
+  "Vietnam"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60004484,
+ "gallery-id": 250,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DT6787.jpg",
+ "related-artworks": [
+  60004377,
+  60004481,
+  60004488,
+  60005505,
+  60004379
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60004484"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "12th century",
+ "Geography": "Iran",
+ "Medium": "artificial paste, molded or carved and glazed",
+ "Dimensions": [
+  "H. 14 1/4 in.. (36.2 cm)",
+  "Diam. 10 3/8 in. (26.4 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of E. Safani, 1968",
+ "Accession Number": "68.29",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Faience",
+  "Vases",
+  "Glazing"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140009359,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf68-29a.jpg",
+ "related-artworks": [
+  140004377,
+  140006964,
+  140008940,
+  140001653,
+  140001687
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009359"
+  }
+ }
+}

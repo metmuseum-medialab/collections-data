@@ -1,0 +1,36 @@
+{
+ "Date": "1955–57",
+ "Culture": "Belgian",
+ "Medium": "leather",
+ "Dimensions": "Heel to Toe 9 in. (22.9 cm)",
+ "Credit Line": "Gift of Mr. and Mrs. Herbert Patterson, 1975",
+ "Accession Number": "1975.298.4a, b",
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "Europe",
+  "Belgium"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80046204,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1975.298.4ab_F.jpg",
+ "related-artworks": [
+  80046205,
+  80107769,
+  80096284,
+  80043487,
+  80048354
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80046204"
+  }
+ }
+}

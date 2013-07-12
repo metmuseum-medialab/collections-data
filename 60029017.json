@@ -1,0 +1,30 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1751",
+ "Culture": "Japan",
+ "Classification": "Illustrated Books",
+ "Credit Line": "The Howard Mansfield Collection, Gift of Howard Mansfield, 1936",
+ "Accession Number": "JIB125",
+ "Who": "Sesshosai",
+ "What": "Books",
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60029017,
+ "related-artworks": [
+  60001399,
+  60001378,
+  60001392,
+  60001396,
+  60001400
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029017"
+  }
+ }
+}

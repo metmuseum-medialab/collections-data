@@ -1,0 +1,32 @@
+{
+ "Medium": "Engraving; second state of three",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1962",
+ "Accession Number": "62.650.8",
+ "Who": "Allart van Everdingen",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90105066,
+ "related-artworks": [
+  90058263,
+  90058265,
+  90102581,
+  90102563,
+  90102559
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90105066"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Artist": "Copy after Reynier Nooms Zeeman (Dutch, 1623–ca. 1663)",
+ "Date": "1865–66",
+ "Medium": "Etching; seventh state of seven",
+ "Dimensions": "plate 6 9/16 x 10 1/2 in. (16.7  x 26.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of James N. Rosenberg, 1957",
+ "Accession Number": "57.609.24",
+ "Who": [
+  "Charles Meryon",
+  "Reynier Nooms Zeeman"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90050425,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP813267.jpg",
+ "related-artworks": [
+  90000535,
+  90026874,
+  90027809,
+  90028258,
+  90034572
+ ],
+ "Provenance": [
+  "James N. Rosenberg (American, Allegheny City, Pennsylvania 1874–1970 White Plains, New York)",
+  "Donor: James N. Rosenberg (American, Allegheny City, Pennsylvania 1874–1970 White Plains, New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050425"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "?",
+ "Geography": "Egypt, Maghagha",
+ "Classification": "Jewelry",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.182.112",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Islamic Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 140003441,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf12-182-112a.jpg",
+ "related-artworks": [
+  140003442,
+  140016330,
+  140006295,
+  140006293,
+  140006294
+ ],
+ "Provenance": [
+  "[ Nicolas Tano, Cairo, until 1912",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003441"
+  }
+ }
+}

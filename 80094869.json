@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1925",
+ "Culture": "American",
+ "Medium": "metal",
+ "Dimensions": "5 1/4 x 7 in. (13.3 x 17.8 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Annella Brown, 1985",
+ "Accession Number": "2009.300.2213",
+ "Who": "Whiting  Davis Company, Inc.",
+ "What": [
+  "Metal",
+  "Costume",
+  "Bags",
+  "Purses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80094869,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/85.145_CP4.jpg",
+ "related-artworks": [
+  80050084,
+  80050306,
+  80050309,
+  80050314,
+  80000810
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80094869"
+  }
+ }
+}

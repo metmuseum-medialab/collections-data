@@ -1,0 +1,30 @@
+{
+ "Date": "1911",
+ "Medium": "Photomechanical process",
+ "Dimensions": "9 3/4 x 6 5/8 in. (24.7 x 16.8 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1955",
+ "Accession Number": "55.573.2",
+ "Who": "Tuttle & Bailey Manufacturing Company",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90026142,
+ "related-artworks": [
+  90026141,
+  90000871,
+  90000872,
+  90000873
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026142"
+  }
+ }
+}

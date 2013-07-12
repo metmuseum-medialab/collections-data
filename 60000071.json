@@ -1,0 +1,47 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "dated 1845",
+ "Culture": "China",
+ "Medium": "Hanging scroll; ink on paper",
+ "Dimensions": [
+  "Image 46 x 10 3/4 in. (116.8 x 27.3 cm)",
+  "Overall with mounting 97 1/2 x 17 1/2 in. (247.7 x 44.5 cm)",
+  "Overall with knobs 97 1/2 x 20 1/8 in. (247.7 x 51.1 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "John Stewart Kennedy Fund, 1913",
+ "Accession Number": "13.220.36",
+ "Who": "Tang Yifen",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60000071,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/13_220_36.jpg",
+ "related-artworks": [
+  60000220,
+  60046572,
+  60000070
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60000071"
+  }
+ }
+}

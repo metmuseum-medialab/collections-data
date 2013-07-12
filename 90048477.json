@@ -1,0 +1,42 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1935–43",
+ "Medium": "Lithograph",
+ "Dimensions": "image 11 3/4 x 15 in. (29.8 x 38.1 cm) sheet: 14 3/4 x 18 in. (37.5 x 45.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, New York, 1943",
+ "Accession Number": "43.33.716",
+ "Who": [
+  "WPA",
+  "William Hicks"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90048477,
+ "related-artworks": [
+  90048471,
+  90048468,
+  90048469,
+  90048470,
+  90048472
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90048477"
+  }
+ }
+}

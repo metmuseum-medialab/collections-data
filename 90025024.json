@@ -1,0 +1,33 @@
+{
+ "Artist": "Possibly by Nicolo Consoni (Italian, 1814–1884)",
+ "Date": "n.d.",
+ "Dimensions": "each sheet ca. 11 7/16 x ca. 17 5/16 in. (29 x 44 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "1993.1098.1-.49",
+ "Who": [
+  "Raphael (Raffaello Sanzio  Santi)",
+  "Monogrammist NC",
+  "Nicolo Consoni"
+ ],
+ "What": "Prints",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1900 A.D.–present",
+ "id": 90025024,
+ "related-artworks": [
+  90000835,
+  90004083,
+  90005514,
+  90008316,
+  90008317
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90025024"
+  }
+ }
+}

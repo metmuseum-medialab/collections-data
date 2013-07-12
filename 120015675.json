@@ -1,0 +1,33 @@
+{
+ "Date": "19th–20th century",
+ "Culture": "European",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Costume Accessories",
+ "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+ "Accession Number": "48.187.564",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Necklaces",
+  "Accessories"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120015675,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/147236.jpg",
+ "related-artworks": [
+  120015631,
+  120015632,
+  120015633,
+  120015634,
+  120015622
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120015675"
+  }
+ }
+}

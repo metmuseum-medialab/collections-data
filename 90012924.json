@@ -1,0 +1,63 @@
+{
+ "Artist": "Eugène-Pierre Gourdet (French, born Paris, 1820)",
+ "Date": "1875–1879",
+ "Medium": "Watercolor and gouache",
+ "Dimensions": "10 1/4 x 12 1/4 in.  (26.0 x 31.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Dodge Fund, 1967",
+ "Accession Number": "67.827.9",
+ "Who": [
+  "Jules-Edmond-Charles Lachaise",
+  "Eugène-Pierre Gourdet"
+ ],
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90012924,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP806944.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90010298",
+  "http://scrapi.org/object/90012828",
+  "http://scrapi.org/object/90012823",
+  "http://scrapi.org/object/90017131",
+  "http://scrapi.org/object/90033649"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP806944.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/67.827.9.jpg"
+ ],
+ "Provenance": [
+  "Vendor: Benjamin Weinreb (London)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90010298"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90012828"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90012823"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90017131"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90033649"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90012924"
+  }
+ }
+}

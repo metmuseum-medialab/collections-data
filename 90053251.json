@@ -1,0 +1,32 @@
+{
+ "Date": "1850–70",
+ "Medium": "Watercolor and gouache",
+ "Dimensions": "5 3/8 x 8 3/8 in. (13.7 x 21.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of William Brewster, 1923",
+ "Accession Number": "23.112.1547",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90053251,
+ "related-artworks": [
+  90000003,
+  90000032,
+  90000157,
+  90000460,
+  90000560
+ ],
+ "Provenance": [
+  "Donor: William Brewster"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90053251"
+  }
+ }
+}

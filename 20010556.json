@@ -1,0 +1,29 @@
+{
+ "Medium": "Watercolor on off-white wove paper",
+ "Dimensions": "8 15/16 x 6 7/8 in. (22.7 x 17.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of James C. McGuire, 1926",
+ "Accession Number": "26.213.33 recto",
+ "Who": "Henry Brent",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Wove paper"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "id": 20010556,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap26.213.33 recto.jpg",
+ "related-artworks": [
+  20018624,
+  20006404,
+  20010447,
+  20010483
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20010556"
+  }
+ }
+}

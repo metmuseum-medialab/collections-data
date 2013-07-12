@@ -1,0 +1,38 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Culture": "Japan",
+ "Medium": "Paper, silk",
+ "Dimensions": "17 x 12 1/2 in. (43.18 x 31.75 cm)",
+ "Classification": "Stencils",
+ "Credit Line": "Gift of Miss D. Lorraine Yerkes, 1959",
+ "Accession Number": "1975.90.6",
+ "What": [
+  "Silk",
+  "Paper",
+  "Stencils"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60044320,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP13909.jpg",
+ "related-artworks": [
+  60007099,
+  60024259,
+  60024926,
+  60024927,
+  60024932
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044320"
+  }
+ }
+}

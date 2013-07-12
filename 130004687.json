@@ -1,0 +1,37 @@
+{
+ "Culture": "Cypriot",
+ "Medium": "Bronze",
+ "Dimensions": "length    10.80 cm.",
+ "Classification": "Bronzes",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.5337",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Awls"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130004687,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP9060.jpg",
+ "related-artworks": [
+  130004688,
+  130004686,
+  130004869,
+  130004870,
+  130004689
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130004687"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "1936",
+ "Medium": "Watercolor on paper",
+ "Dimensions": [
+  "H. 15-1/8, W. 22-3/8 inches",
+  "(38.4 x 56.8 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "George A. Hearn Fund, 1939",
+ "Accession Number": "39.162.2",
+ "Who": "Philip Dike",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210008110,
+ "related-artworks": [
+  210000834,
+  210001408,
+  210001614,
+  210001888,
+  210002098
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210008110"
+  }
+ }
+}

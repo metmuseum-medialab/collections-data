@@ -1,0 +1,33 @@
+{
+ "Author": "Written by Alfredo Zalce (Mexican, 1908–2003)",
+ "Date": "1946",
+ "Classification": "Books",
+ "Credit Line": "Whittelsey Fund",
+ "Accession Number": "46.46.453",
+ "Who": [
+  "Jean Charlot",
+  "Alfredo Zalce",
+  "La Estampa Mexicana"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017241,
+ "related-artworks": [
+  90014763,
+  90014760,
+  90014761,
+  90014764
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017241"
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "Date": "4th–7th century",
+ "Geography": "Made in Kharga Oasis, Byzantine Egypt",
+ "Culture": "Coptic",
+ "Medium": "Earthenware",
+ "Dimensions": "Overall 1 1/8 x 3 3/8 x 2 3/16 in. (2.8 x 8.5 x 5.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.10.20.68",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Lighting devices",
+  "Lamps"
+ ],
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170020867,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cop0425s1.jpg",
+ "related-artworks": [
+  170005740,
+  170020859,
+  170020861,
+  170020860,
+  170020864
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170020867"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Period": "Predynastic Period",
+ "Date": "ca. 3850–2960 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Pottery",
+ "Credit Line": "Rogers Fund, 1915",
+ "Accession Number": "15.2.33",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Jars"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100016100,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/15.2.33_EGDP011238.jpg",
+ "related-artworks": [
+  100002595,
+  100002773,
+  100003768,
+  100003758,
+  100003882
+ ],
+ "Provenance": [
+  "Ex-collection of Robert de Rustafjaell. Purchased by the Museum at Anderson Gallery, New York, 1915."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100016100"
+  }
+ }
+}

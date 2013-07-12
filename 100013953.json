@@ -1,0 +1,40 @@
+{
+ "Period": "Second Intermediate Period",
+ "Dynasty": "Dynasty 14–15",
+ "Date": "ca. 1640–1550 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Steatite, green glazed",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1905",
+ "Accession Number": "05.3.345",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Glazing",
+  "Talc",
+  "Steatite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100013953,
+ "related-artworks": [
+  100001579,
+  100002235,
+  100003637,
+  100006094,
+  100006882
+ ],
+ "Provenance": [
+  "Ex collection John Ward (before 1902). Collection purchased by J. Pierpont Morgan and donated to the Museum, 1905."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100013953"
+  }
+ }
+}

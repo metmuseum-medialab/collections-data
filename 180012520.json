@@ -1,0 +1,49 @@
+{
+ "Date": "19th century",
+ "Geography": "India",
+ "Medium": "Wood",
+ "Dimensions": "L. 116.8 cm (46 in.); D. 11.4 cm (4½ in.); W.  16.5 cm (6½ in.)",
+ "Classification": "Chordophone-Lute",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.210",
+ "What": [
+  "Musical instruments",
+  "Chordophones",
+  "Lutes",
+  "Vinas"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180012520,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS180A.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/180012459"
+   },
+   {
+    "href": "http://scrapi.org/object/180012514"
+   },
+   {
+    "href": "http://scrapi.org/object/180012541"
+   },
+   {
+    "href": "http://scrapi.org/object/180017344"
+   },
+   {
+    "href": "http://scrapi.org/object/180012515"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/180012520"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/180012520"
+  }
+ }
+}

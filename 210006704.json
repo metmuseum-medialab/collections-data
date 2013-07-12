@@ -1,0 +1,39 @@
+{
+ "Designer": "Designer Unknown",
+ "Date": "1910–28",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "H. 18, W. 15-1/2 inches",
+  "(45.7 x 39.4 cm.)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Eugene Silbert, 1994",
+ "Accession Number": "1994.549.4",
+ "Who": [
+  "Designer Unknown",
+  "Wiener Werkstätte"
+ ],
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing",
+  "Samples"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 210006704,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP8737.jpg",
+ "related-artworks": [
+  210003869,
+  210007581,
+  210006679,
+  210006682,
+  210006693
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006704"
+  }
+ }
+}

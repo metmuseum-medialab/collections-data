@@ -1,0 +1,37 @@
+{
+ "Date": "fall/winter 1996–97",
+ "Culture": "British",
+ "Medium": "wool, silk",
+ "Dimensions": "Length at CB 29 in. (73.7 cm)",
+ "Credit Line": "Purchase, Irene Lewisohn Bequest, 2004",
+ "Accession Number": "2004.410",
+ "Who": "John Galliano",
+ "What": [
+  "Costume",
+  "Silk",
+  "Wool",
+  "Coats"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80037486,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DP154596.jpg",
+ "related-artworks": [
+  80053558,
+  80001163,
+  80001162,
+  80016873,
+  80012150
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80037486"
+  }
+ }
+}

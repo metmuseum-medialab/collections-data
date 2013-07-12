@@ -1,0 +1,42 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Needle lace",
+ "Dimensions": [
+  "L. 78 x W. 3 3/4 inches",
+  "198.1 x 9.5 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Emma T. Gray, 1937",
+ "Accession Number": "37.20.270",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace",
+  "Borders"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120043817,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP16622.jpg",
+ "related-artworks": [
+  120035998,
+  120043746,
+  120043767,
+  120043813,
+  120043814
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120043817"
+  }
+ }
+}

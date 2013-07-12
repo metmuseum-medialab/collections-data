@@ -1,0 +1,57 @@
+{
+ "Date": "ca. 1891",
+ "Medium": "Drypoint; first state of five (Mathews & Shapiro)",
+ "Dimensions": [
+  "plate 14 3/8 x 10 3/8 in. (36.5 x 26.4 cm)",
+  "sheet 18 9/16 x 12 3/16 in. (47.1 x 31 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Gustavus S. Wallace, 1932",
+ "Accession Number": "32.109.11",
+ "Who": "Mary Cassatt",
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "American Scenes of Everyday Life, 1840–1910",
+  "Mary Stevenson Cassatt (1844–1926)",
+  "Nineteenth–Century American Drawings",
+  "The Salon and The Royal Academy",
+  "America Comes of Age 1876–1900",
+  "Edgar Degas (1834–1917) Painting and Drawing",
+  "Women Artists in Nineteenth–Century France",
+  "The Print in the Nineteenth Century",
+  "Impressionism Art and Modernity",
+  "Americans in Paris, 1860–1900",
+  "American Impressionism",
+  "Japonisme",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90051024,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP815289.jpg",
+ "related-artworks": [
+  90000929,
+  90004089,
+  90016817,
+  90016818,
+  90019950
+ ],
+ "Provenance": [
+  "Donor: Mrs. Gustavus S. Wallace"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90051024"
+  }
+ }
+}

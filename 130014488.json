@@ -1,0 +1,47 @@
+{
+ "Culture": "Roman",
+ "Medium": "Agate, banded",
+ "Dimensions": "Other 7/16 x 3/8 x 1/16 in. (1.2 x 1 x 0.2 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.160.904",
+ "What": [
+  "Sculpture",
+  "Chalcedony",
+  "Gems",
+  "Intaglios",
+  "Agate"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130014488,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130014371"
+   },
+   {
+    "href": "http://scrapi.org/object/130014381"
+   },
+   {
+    "href": "http://scrapi.org/object/130014422"
+   },
+   {
+    "href": "http://scrapi.org/object/130014425"
+   },
+   {
+    "href": "http://scrapi.org/object/130014457"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130014488"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130014488"
+  }
+ }
+}

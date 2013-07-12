@@ -1,0 +1,43 @@
+{
+ "Date": "18th–19th century",
+ "Geography": "Northern India",
+ "Medium": "Gold",
+ "Classification": "Jewelry",
+ "Credit Line": "John Stewart Kennedy Fund, 1915",
+ "Accession Number": "15.95.23",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Bracelets"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia, 1600–1800 A.D.",
+  "South Asia and the Himalayan Region, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140003945,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/15.95.23.jpg",
+ "related-artworks": [
+  140003944,
+  140003952,
+  140003953,
+  140003955,
+  140003956
+ ],
+ "Provenance": [
+  "Lockwood de Forest (American, New York 1850–1932 Santa Barbara, California), New York (until 1915",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003945"
+  }
+ }
+}

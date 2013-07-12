@@ -1,0 +1,40 @@
+{
+ "Date": "1940",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "20.6 x 25.4 cm (8 1/8 x 10 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Ford Motor Company Collection, Gift of Ford Motor Company and John C. Waddell, 1987",
+ "Accession Number": "1987.1100.252",
+ "Rights and Reproduction": "© Weegee / International Center of Photography.",
+ "Who": "Weegee",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190017085,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP106361.jpg",
+ "related-artworks": [
+  190013727,
+  190013736,
+  190014000,
+  190014001,
+  190014024
+ ],
+ "Provenance": [
+  "[Daniel Wolf, New York]",
+  "John C. Waddell, New York (September 25, 1979)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190017085"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "1862-67",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": [
+  "Image 37.5 x 28.2 cm (14 3/4 x 11 1/8 in.)",
+  "Mount 60.3 x 48 cm (23 3/4 x 18 7/8 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Peter C. Bunnell Gift, 2011",
+ "Accession Number": "2011.537",
+ "Who": "Médéric Mieusement",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190050759,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP273481.jpg",
+ "related-artworks": [
+  190022697,
+  190013050,
+  190013055,
+  190013063
+ ],
+ "Provenance": [
+  "[Serge Kakou, Paris, ?-2010]",
+  "[Charles Isaacs, New York, 2010–11]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190050759"
+  }
+ }
+}

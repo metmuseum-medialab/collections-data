@@ -1,0 +1,42 @@
+{
+ "Period": "Iron Age III",
+ "Date": "ca. 8th–7th century B.C.",
+ "Geography": "Iran, probably from Luristan",
+ "Medium": "Bronze",
+ "Dimensions": "4.8 x 0.98 in. (12.19 x 2.49 cm)",
+ "Classification": "(not assigned)",
+ "Credit Line": "Cora Timken Burnett Collection of Persian Miniatures and Other Persian Art Objects, Bequest of Cora Timken Burnett, 1956",
+ "Accession Number": "57.51.47",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Luristan"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003339,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME57_51_47.jpg",
+ "related-artworks": [
+  30001228,
+  30001503,
+  30001506,
+  30001536,
+  30003336
+ ],
+ "Provenance": [
+  "Formerly Cora Timken Burnett Collection of Persian Miniatures and Other Persian Art Objects",
+  "acquired by the Museum in 1956 (accessioned in 1957), bequest of Cora Timken Burnett."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003339"
+  }
+ }
+}

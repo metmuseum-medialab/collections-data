@@ -1,0 +1,46 @@
+{
+ "Date": "late 19th–early 18th century",
+ "Culture": "Romanian",
+ "Medium": "Silk, wool, metal thread, cotton",
+ "Dimensions": "L. 9 x 15 1/2 inches (22.9 x 39.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mary Kennedy, in memory of her brother, James Kennedy, 1987",
+ "Accession Number": "1987.122",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Cotton",
+  "Woven",
+  "Wool",
+  "Aprons"
+ ],
+ "Where": [
+  "Europe",
+  "Romania"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe and Low Countries, 1800–1900 A.D.",
+  "Central Europe (not Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120047635,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP7715.jpg",
+ "related-artworks": [
+  120039017,
+  120034253,
+  120034252,
+  120039043,
+  120039047
+ ],
+ "Provenance": [
+  "Mary Kennedy (until 1987",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120047635"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "1820–40",
+ "Geography": "England; United States",
+ "Culture": "American",
+ "Medium": "Blown pattern-molded glass",
+ "Dimensions": "Dimensions unavailable",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.109.3",
+ "What": [
+  "Glass",
+  "Blown glass",
+  "Salts"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10007150,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/8105.jpg",
+ "related-artworks": [
+  10007152,
+  10007155,
+  10007156,
+  10007161,
+  10007162
+ ],
+ "Provenance": [
+  "Dr. Edwin A. Barber, Philadelphia, until 1910"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10007150"
+  }
+ }
+}

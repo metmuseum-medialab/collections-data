@@ -1,0 +1,45 @@
+{
+ "Date": "1800–1830",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": "L. 8 7/8 in. (22.5 cm)",
+ "Classification": "Silver",
+ "Credit Line": "Bequest of Alphonso T. Clearwater, 1933",
+ "Accession Number": "33.120.443",
+ "Who": "William G. Forbes",
+ "What": [
+  "Metal",
+  "Silver",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10008059,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/97931.jpg",
+ "related-artworks": [
+  10008401,
+  10008402,
+  10008403,
+  10008404,
+  10017540
+ ],
+ "Provenance": [
+  "Alphonso T. Clearwater, Kingston, New York, until died 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10008059"
+  }
+ }
+}

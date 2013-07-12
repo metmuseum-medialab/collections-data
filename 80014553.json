@@ -1,0 +1,34 @@
+{
+ "Date": "18th century",
+ "Culture": "American",
+ "Medium": "leather, cotton",
+ "Dimensions": "Length at CB 25 in. (63.5 cm)",
+ "Credit Line": "Gift of Mary Alice Dykman Dean (Mrs. Bashford Dean), 1950",
+ "Accession Number": "C.I.50.98.2",
+ "What": [
+  "Cotton",
+  "Leather"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80014553,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.50.98.2_F.jpg",
+ "related-artworks": [
+  80013129,
+  80006747,
+  80013134,
+  80013256,
+  80094232
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80014553"
+  }
+ }
+}

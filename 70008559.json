@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1470–80",
+ "Geography": "Made in probably Alcarez, Spain",
+ "Culture": "Spanish",
+ "Medium": "Wool and linen",
+ "Dimensions": "Overall 204 x 95 1/2 in. (518.2 x 242.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "The Cloisters Collection, 1961",
+ "Accession Number": "61.49",
+ "What": [
+  "Textiles",
+  "Wool",
+  "Linen",
+  "Rugs"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70008559,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/dp247407.jpg",
+ "related-artworks": [
+  70008432,
+  70006514,
+  70008404,
+  70008421,
+  70008440
+ ],
+ "Provenance": [
+  "[ Charlat ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70008559"
+  }
+ }
+}

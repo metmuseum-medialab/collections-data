@@ -1,0 +1,53 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Nephrite",
+ "Dimensions": "H. 10 in. (25.4 cm); W. 5 3/4 in. (14.6 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Bequest of Edmund C. Converse, 1921",
+ "Accession Number": "21.175.78a, b",
+ "What": [
+  "Vessels",
+  "Vases",
+  "Jade",
+  "Nephrite"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60010851,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/49202.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60009277"
+   },
+   {
+    "href": "http://scrapi.org/object/60009314"
+   },
+   {
+    "href": "http://scrapi.org/object/60009388"
+   },
+   {
+    "href": "http://scrapi.org/object/60009395"
+   },
+   {
+    "href": "http://scrapi.org/object/60009378"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60010851"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60010851"
+  }
+ }
+}

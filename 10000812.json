@@ -1,0 +1,43 @@
+{
+ "Date": "1870–1900",
+ "Geography": "England",
+ "Culture": "British",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 3 5/8 in. (9.2 cm); Diam. 6 in. (15.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of William H. Huntington, 1883",
+ "Accession Number": "83.2.129",
+ "Who": "W. T. Copeland  Sons",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Bowls"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000812,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP247750.jpg",
+ "related-artworks": [
+  10000703,
+  10002360,
+  10002558,
+  10002186,
+  10002187
+ ],
+ "Provenance": [
+  "William H. Huntington, France, until 1883"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000812"
+  }
+ }
+}

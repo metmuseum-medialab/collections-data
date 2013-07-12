@@ -1,0 +1,36 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Senenmut Quarry, 18th Dynasty rubbish, MMA 1926–1927",
+ "Medium": "Fiber",
+ "Credit Line": "Rogers Fund, 1927",
+ "Accession Number": "27.3.583",
+ "What": "Baskets",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100030958,
+ "related-artworks": [
+  100000929,
+  100001209,
+  100001210,
+  100001211,
+  100001549
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1926–1927. Acquired by the Museum in the division of finds, 1927."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100030958"
+  }
+ }
+}

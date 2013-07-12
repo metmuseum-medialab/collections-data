@@ -1,0 +1,38 @@
+{
+ "Date": "1911",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 13 1/16 x 8 9/16 in. (33.2 x 21.7 cm)",
+  "sheet 20 1/4 x 14 1/16 in. (51.4 x 35.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Hermann W. Williams, Jr., 1941",
+ "Accession Number": "41.129",
+ "Who": "Thomas Theodor Heine",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90072840,
+ "related-artworks": [
+  90027002,
+  90073528,
+  90015813
+ ],
+ "Provenance": [
+  "Donor: Hermann Warner Williams, Jr."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90072840"
+  }
+ }
+}

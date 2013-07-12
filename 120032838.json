@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Culture": "Swedish (Delsbo) (Dalarna)",
+ "Medium": "Bobbin lace",
+ "Dimensions": [
+  "L. 11 x W. 4 1/4 inches",
+  "27.9 x 10.8 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.822",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "Sweden",
+  "Delsbo",
+  "Gävleborg"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120032838,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP3645.jpg",
+ "related-artworks": [
+  120030978,
+  120032837,
+  120030969,
+  120030977,
+  120030968
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032838"
+  }
+ }
+}

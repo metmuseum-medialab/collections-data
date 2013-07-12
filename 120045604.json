@@ -1,0 +1,41 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "Spanish",
+ "Medium": "Silk",
+ "Dimensions": "L. 270 inches (685.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Giles Whiting, 1956",
+ "Accession Number": "56.133.10a–g",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Game pieces"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120045604,
+ "related-artworks": [
+  120045597,
+  120045601,
+  120034003,
+  120045598,
+  120045599
+ ],
+ "Provenance": [
+  "possibly Private Collection, Spain (Toledo)",
+  "possibly Marquis de Valverde",
+  "Mrs. Giles Whiting (until 1956",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120045604"
+  }
+ }
+}

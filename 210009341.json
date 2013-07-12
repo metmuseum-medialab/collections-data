@@ -1,0 +1,45 @@
+{
+ "Manufacturer": "Royal Worcester",
+ "Date": "1936",
+ "Medium": "Bone china porcelain",
+ "Dimensions": [
+  "H. 8-1/8 inches",
+  "(20.6 cm.)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Thomas F. Staley, 1960",
+ "Accession Number": "60.180.5",
+ "Who": [
+  "Dorothy Doughty",
+  "Royal Worcester"
+ ],
+ "What": [
+  "Ceramics",
+  "Sculpture",
+  "Clay",
+  "Porcelain",
+  "Bone",
+  "Bone china"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009341,
+ "related-artworks": [
+  210009336,
+  210009337,
+  210009338,
+  210009339,
+  210009340
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009341"
+  }
+ }
+}

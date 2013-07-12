@@ -1,0 +1,33 @@
+{
+ "Date": "4th–7th century",
+ "Geography": "Made in Kharga Oasis, Byzantine Egypt",
+ "Culture": "Coptic",
+ "Medium": "Faience",
+ "Dimensions": "Overall 1 13/16 x 1 x 1 in. (4.6 x 2.5 x 2.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.10.24.43",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Faience",
+  "Earthenware",
+  "Amulets"
+ ],
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170020656,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cop0372s1.jpg",
+ "related-artworks": [
+  170005451,
+  170005461,
+  170005498,
+  170005730,
+  170016669
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170020656"
+  }
+ }
+}

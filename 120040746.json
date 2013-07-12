@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Dimensions": "L. 64 x W. 21 inches (162.6 x 53.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1935",
+ "Accession Number": "35.97.3",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Panels"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120040746,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/101396.jpg",
+ "related-artworks": [
+  120027654,
+  120039813,
+  120039894,
+  120044062,
+  120044635
+ ],
+ "Provenance": [
+  "A. Roche , 1935",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120040746"
+  }
+ }
+}

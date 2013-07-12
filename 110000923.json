@@ -1,0 +1,62 @@
+{
+ "Date": "probably 1870s",
+ "Medium": "Oil on canvas",
+ "Dimensions": "21 1/2 x 24 3/4 in. (54.6 x 62.9 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Henry H. Cook, 1905",
+ "Accession Number": "05.13.4",
+ "Who": "Jean-Léon Gérôme",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "Orientalism in Nineteenth–Century Art",
+  "France, 1900 A.D.–present",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110000923,
+ "gallery-id": 804,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT1037.jpg",
+ "Provenance": [
+  "[Boussod, Valadon & Cie, Paris, 1884",
+  "stock no. 17025",
+  "purchased from the artist on April 3, 1884, as \"Fondeur de balles dans un café,\" for Fr 12,500",
+  "sold on June 28, for Fr 22,500, to Knoedler]",
+  "[Knoedler, New York, from 1884]",
+  "Mrs. Mary J. Morgan, New York (until d. 1885; her estate sale, American Art Association, New York, March 3–5, 1886, no. 221, as \"Coffee House — Cairo,\" for $4800 to Cook)",
+  "Henry H. Cook, New York (1886–d. 1905)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/110000925"
+   },
+   {
+    "href": "http://scrapi.org/object/110005728"
+   },
+   {
+    "href": "http://scrapi.org/object/110000924"
+   },
+   {
+    "href": "http://scrapi.org/object/110000926"
+   },
+   {
+    "href": "http://scrapi.org/object/90004041"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/110000923"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/110000923"
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "Period": "Middle Kingdom–Second Intermediate Period",
+ "Dynasty": "Dynasty 12–17",
+ "Date": "ca. 1981–1550 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Carnelian",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.2338",
+ "What": [
+  "Chalcedony",
+  "Amulets",
+  "Carnelian"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100016743,
+ "related-artworks": [
+  "http://scrapi.org/object/100002896",
+  "http://scrapi.org/object/100003086",
+  "http://scrapi.org/object/100003441",
+  "http://scrapi.org/object/100003446",
+  "http://scrapi.org/object/100003487"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100002896"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100003086"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100003441"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100003446"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100003487"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100016743"
+  }
+ }
+}

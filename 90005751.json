@@ -1,0 +1,28 @@
+{
+ "Date": "n.d.",
+ "Medium": "Engraving",
+ "Dimensions": "mat size  19-1/4 x 14-1/4 in.",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1930",
+ "Accession Number": "30.111.18",
+ "Who": "Baltasar le Mersier",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90005751,
+ "related-artworks": [
+  90005751,
+  90000033,
+  90000066,
+  90000067,
+  90000034
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005751"
+  }
+ }
+}

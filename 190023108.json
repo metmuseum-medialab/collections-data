@@ -1,0 +1,40 @@
+{
+ "Date": "1858",
+ "Medium": "Salted paper print from paper negative",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Kay Gregory, 1967",
+ "Accession Number": "67.606.5",
+ "Who": "Luigi Pesce",
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Nineteenth–Century Iran Art and the Advent of Modernity",
+  "Southern Europe, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190023108,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP163261.jpg",
+ "related-artworks": [
+  190023091,
+  190023095,
+  190023098,
+  190023100,
+  190023110
+ ],
+ "Provenance": [
+  "Kay Gregory"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190023108"
+  }
+ }
+}

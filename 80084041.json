@@ -1,0 +1,41 @@
+{
+ "Date": "late 1980s–early 1990s",
+ "Culture": "French",
+ "Medium": "wool, silk, metal",
+ "Dimensions": "Length at CB 37 1/2 in. (95.3 cm)",
+ "Credit Line": "Gift of Marilyn Joy Samuels, 2010",
+ "Accession Number": "2010.414.2",
+ "Who": "Christian Lacroix",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Wool",
+  "Coats"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Haute Couture",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80084041,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2010.414.2_F.JPG",
+ "related-artworks": [
+  80065220,
+  80001886,
+  80039529,
+  80065219,
+  80004264
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80084041"
+  }
+ }
+}

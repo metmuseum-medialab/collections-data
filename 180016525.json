@@ -1,0 +1,41 @@
+{
+ "Date": "1801",
+ "Geography": "England",
+ "Medium": "Wood, various",
+ "Dimensions": "Overall 257.5 x 110.8 x 56.5cm (101 3/8 x 43 5/8 x 22 1/4in.)",
+ "Classification": "Chordophone-Zither",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2804",
+ "Who": "M. & W. Stodart",
+ "What": [
+  "Furniture",
+  "Musical instruments",
+  "Chordophones",
+  "Case furniture",
+  "Zithers",
+  "Cabinets",
+  "Pianos"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 180016525,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/82270.jpg",
+ "related-artworks": [
+  180015422,
+  180016232,
+  180014814,
+  180014824,
+  180016119
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016525"
+  }
+ }
+}

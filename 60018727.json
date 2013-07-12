@@ -1,0 +1,42 @@
+{
+ "Period": "Yüan dynasty (1271–1368)",
+ "Culture": "China",
+ "Medium": "Porcelain (Shu Fu ware)",
+ "Dimensions": "H. 2 1/8 in. (5.4 cm); Diam. 6 7/8 in. (17.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1927",
+ "Accession Number": "27.222",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Bowls",
+  "Red pigment",
+  "Vermilion"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000–1400 A.D.",
+  "Central and North Asia, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60018727,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/146716.jpg",
+ "related-artworks": [
+  60020011,
+  60016422,
+  60008266,
+  60009922,
+  60009931
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60018727"
+  }
+ }
+}

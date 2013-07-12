@@ -1,0 +1,45 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Needle lace",
+ "Dimensions": [
+  "L. 9 3/8 x W. 8 7/8 inches",
+  "23.8 x 22.5 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Margaret Taylor Johnstone, 1926",
+ "Accession Number": "26.156.6",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120039481,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP18295.jpg",
+ "related-artworks": [
+  120030050,
+  120030064,
+  120030151,
+  120030564,
+  120030602
+ ],
+ "Provenance": [
+  "Margaret Taylor Johnstone (until 1926",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120039481"
+  }
+ }
+}

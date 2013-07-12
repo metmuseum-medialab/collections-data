@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1775",
+ "Culture": "Dutch",
+ "Medium": "Glass",
+ "Dimensions": "H. 7 3/8 in.  (18.7 cm); Diam. 2 7/8 in. (7.3 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Munsey Fund, 1927",
+ "Accession Number": "27.185.245",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Drinking glasses",
+  "Wine glasses"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010839,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/69757.jpg",
+ "related-artworks": [
+  120009432,
+  120010847,
+  120010856,
+  120001544,
+  120009437
+ ],
+ "Provenance": [
+  "Steengracht (until 1913)",
+  "Jacques Mühsam (until 1927)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120010839"
+  }
+ }
+}

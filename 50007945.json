@@ -1,0 +1,44 @@
+{
+ "Date": "2nd–7th century",
+ "Geography": "Peru",
+ "Culture": "Moche",
+ "Medium": "Copper (cast)",
+ "Dimensions": "Width 9-1/2 in. (24.1 cm.)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Bequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986",
+ "Accession Number": "1987.394.218",
+ "Who": "Moche",
+ "What": [
+  "Metal",
+  "Copper"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 500–1000 A.D.",
+  "Central and Southern Andes, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50007945,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1987_394_218.jpg",
+ "related-artworks": [
+  50001294,
+  50001418,
+  50001457,
+  50001460,
+  50001462
+ ],
+ "Provenance": [
+  "[Leon Buki, Miami, FL, until 1968]",
+  "Arnold I. Goldberg, New York, 1968–(d.)1976",
+  "Jane Costello Goldberg, New York, 1976– (d.)1986"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50007945"
+  }
+ }
+}

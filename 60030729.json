@@ -1,0 +1,43 @@
+{
+ "Date": "6th–5th century B.C.",
+ "Culture": "North China and south-central Inner Mongolia",
+ "Medium": "Tinned bronze",
+ "Dimensions": "H. 1 7/8 in. (4.8 cm); W 2 7/8 in. (7.3 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mr. and Mrs. Eugene V. Thaw, 2002",
+ "Accession Number": "2002.201.39",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Buckles",
+  "Hooks"
+ ],
+ "Where": [
+  "Asia",
+  "China",
+  "Inner Mongolia"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000 B.C.–1 A.D.",
+  "Central and North Asia, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60030729,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2002_201_39_O1.jpg",
+ "related-artworks": [
+  60038725,
+  60038726,
+  60030730,
+  60030731,
+  60030732
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030729"
+  }
+ }
+}

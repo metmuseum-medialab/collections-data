@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1770–80",
+ "Culture": "French",
+ "Medium": "Marble",
+ "Dimensions": "H. 12-1/2 in. (31.8 cm); H. (without base) 8 in. (20.3 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Jules Bache Collection, 1949",
+ "Accession Number": "49.7.66",
+ "What": [
+  "Sculpture",
+  "Statues",
+  "Figurines",
+  "Marble"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120015724,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/147868.jpg",
+ "related-artworks": [
+  120014736,
+  120015719,
+  120015723,
+  120020359,
+  120023481
+ ],
+ "Provenance": [
+  "Jules S. Bache"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120015724"
+  }
+ }
+}

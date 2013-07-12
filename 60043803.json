@@ -1,0 +1,38 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "17th–18th century",
+ "Culture": "Japan",
+ "Medium": "Silk, metallic thread",
+ "Dimensions": "42 x 81 in. (106.68 x 205.74 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Samuel Hopkins Adams, 1955",
+ "Accession Number": "55.152",
+ "What": [
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Robes"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60043803,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/160036.jpg",
+ "related-artworks": [
+  60024562,
+  60039082,
+  60041828,
+  60041871,
+  60041869
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043803"
+  }
+ }
+}

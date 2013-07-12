@@ -1,0 +1,46 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Albanian or Montenegrin",
+ "Medium": "Silk on canvas",
+ "Dimensions": "L. 5 3/4 x W. 5 1/4 inches (14.6 x 13.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.190",
+ "What": [
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Embroidery",
+  "Canvas"
+ ],
+ "Where": [
+  "Europe",
+  "Albania"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Southern Europe, 1800–1900 A.D.",
+  "Balkan Peninsula, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120033256,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/85672.jpg",
+ "related-artworks": [
+  120033268,
+  120033227,
+  120033229,
+  120033243,
+  120033248
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120033256"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1750–60",
+ "Culture": "French (Mennecy)",
+ "Medium": "Soft-paste porcelain, gold",
+ "Dimensions": "L. 3 9/16 in. (9.0 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+ "Accession Number": "1982.60.363",
+ "Who": "Mennecy",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Gold",
+  "Faience",
+  "Porcelain",
+  "Soft paste porcelain",
+  "Snuff containers",
+  "Snuffboxes"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Mennecy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120023371,
+ "gallery-id": 538,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES6168.jpg",
+ "related-artworks": [
+  120009986,
+  120023361,
+  120016028,
+  120016027,
+  120023277
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120023371"
+  }
+ }
+}

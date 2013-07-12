@@ -1,0 +1,44 @@
+{
+ "Date": "7th century",
+ "Culture": "Frankish",
+ "Medium": "Copper alloy, remnants of iron pin",
+ "Dimensions": "Overall 1 7/16 x 3/8 in. (3.6 x 0.9 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.193.274",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Metalwork",
+  "Jewelry",
+  "Iron and iron alloy",
+  "Copper",
+  "Iron",
+  "Pins",
+  "Brooches"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170005509,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-193-274s1.jpg",
+ "related-artworks": [
+  170004720,
+  170004733,
+  170004722,
+  170004727,
+  170004748
+ ],
+ "Provenance": [
+  "Friedrich Queckenberg, Niederbreisig, Germany",
+  "Joseph Queckenberg, Niederbreisig, Germany",
+  "J. Pierpont Morgan, London and New York (until 1913)",
+  "Estate of J. Pierpont Morgan(1913–1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005509"
+  }
+ }
+}

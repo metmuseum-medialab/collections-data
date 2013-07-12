@@ -1,0 +1,40 @@
+{
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+ "Accession Number": "2005.100.382",
+ "What": "Photographs",
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Photographs",
+ "id": 190041731,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP143535.jpg",
+ "Provenance": [
+  "Emma Charlotte Dillwyn Llewelyn (photographer's daughter)",
+  "[Galerie Bischofberger, Dec. 8, 1983]",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190060842"
+   },
+   {
+    "href": "http://scrapi.org/object/190060838"
+   },
+   {
+    "href": "http://scrapi.org/object/190060869"
+   },
+   {
+    "href": "http://scrapi.org/object/190060941"
+   },
+   {
+    "href": "http://scrapi.org/object/190060942"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190041731"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190041731"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "1918",
+ "Medium": "Bromoil print",
+ "Dimensions": "20.5 x 15.9 cm (8 1/16 x 6 1/4 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Ford Motor Company Collection, Gift of Ford Motor Company and John C. Waddell, 1987",
+ "Accession Number": "1987.1100.284",
+ "Who": "Doris Ulmann",
+ "What": [
+  "Photographs",
+  "Oil prints",
+  "Bromoil prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190017119,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP222558.jpg",
+ "related-artworks": [
+  190013491,
+  190013960,
+  190017075,
+  190017109,
+  190017110
+ ],
+ "Provenance": [
+  "John Jacob Niles",
+  "[Witkin Gallery to Waddell, February 10, 1979]",
+  "John C. Waddell"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190017119"
+  }
+ }
+}

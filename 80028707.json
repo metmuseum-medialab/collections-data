@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1899",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Susan Dwight Bliss, 1935",
+ "Accession Number": "35.134.19",
+ "Who": "House of Worth",
+ "What": [
+  "Costume",
+  "Silk",
+  "Outerwear",
+  "Capes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Nineteenth–Century Silhouette and Support",
+  "Costume in The Metropolitan Museum of Art",
+  "Haute Couture",
+  "Charles Frederick Worth (1826–1895) and The House of Worth",
+  "Le Colis de Trianon–Versailles and Paris Openings",
+  "France, 1900 A.D.–present",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80028707,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/35.134.19_F.jpg",
+ "related-artworks": [
+  80033901,
+  80095533,
+  80096002,
+  80096663,
+  80115564
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80028707"
+  }
+ }
+}

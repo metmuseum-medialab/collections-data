@@ -1,0 +1,43 @@
+{
+ "Artist": "After The Master of the Small Landscapes (Netherlandish, 16th century)",
+ "Publisher": "Claes Jansz Visscher (Dutch, 1586–1652)",
+ "Date": "ca. 1610",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Plate 4 1/8 x 6 3/16 in. (10.4 x 15.7 cm)",
+  "Sheet 5 1/16 x 7 1/16 in. (12.8 x 18 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.52.11",
+ "Who": [
+  "Claes Jansz Visscher",
+  "The Master of the Small Landscapes"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90090362,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP825693.jpg",
+ "related-artworks": [
+  90008524,
+  90008705,
+  90008749,
+  90028069,
+  90035729
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90090362"
+  }
+ }
+}

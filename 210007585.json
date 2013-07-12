@@ -1,0 +1,44 @@
+{
+ "Manufacturer": "Possibly by Cheney Brothers (American, 1838–1955)",
+ "Date": "ca. 1923",
+ "Medium": "Silk",
+ "Dimensions": [
+  "H. 36 inches",
+  "(91.4 cm.)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Cheney Brothers, 1923",
+ "Accession Number": "23.70",
+ "Who": [
+  "Cheney Brothers",
+  "Hazel . Slaughter"
+ ],
+ "What": [
+  "Silk",
+  "Textiles",
+  "Printing",
+  "Samples"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210007585,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/52545.jpg",
+ "related-artworks": [
+  210007491,
+  210011903,
+  210015514,
+  210003994,
+  210004002
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210007585"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "c. 1957",
+ "Geography": "Ghana",
+ "Culture": "Fante peoples",
+ "Medium": "Cotton",
+ "Dimensions": "H. 35 1/2 × W. 55 1/2 in. (90.17 × 140.97 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Anonymous Gift, 2010",
+ "Accession Number": "2010.483.6",
+ "Who": "Fante",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Flags"
+ ],
+ "Where": [
+  "Africa",
+  "Ghana"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Guinea Coast, 1900 A.D.–present",
+ "id": 50015264,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/TR.490.1-.10.2010.6a.jpg",
+ "related-artworks": [
+  50015260,
+  50010716,
+  50015250,
+  50015261,
+  50015262
+ ],
+ "Provenance": [
+  "[Peter Adler, London, until 1990]",
+  "Private collection, New York, 1990–2010"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50015264"
+  }
+ }
+}

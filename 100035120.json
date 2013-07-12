@@ -1,0 +1,39 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "Joint reign of Hatshepsut and Thutmose III",
+ "Date": "ca. 1479–1458 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Lower Asasif, Hatshepsut Valley Temple, Carter/Carnarvon pre 1911",
+ "Medium": "Quartzite",
+ "Dimensions": "H. 17.7 cm (6 15/16 in); w. 18.2 cm (7 3/16 in)",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.181.306",
+ "What": [
+  "Stone",
+  "Quartzite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100035120,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/bw12.181.306.jpg",
+ "related-artworks": [
+  100012330,
+  100000548,
+  100001102,
+  100005889,
+  100012410
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100035120"
+  }
+ }
+}

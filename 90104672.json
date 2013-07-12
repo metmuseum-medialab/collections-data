@@ -1,0 +1,41 @@
+{
+ "Date": "1922",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "Image 8 1/16 × 10 1/4 in. (20.4 × 26 cm)",
+  "Sheet 10 1/8 × 12 15/16 in. (25.7 × 32.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Miss Mary Bonner, 1924",
+ "Accession Number": "24.56.14",
+ "Who": "Bolton Brown",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90104672,
+ "related-artworks": [
+  90062891,
+  90062888,
+  90062893,
+  90062894,
+  90062900
+ ],
+ "Provenance": [
+  "Donor: Miss Mary Bonner (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104672"
+  }
+ }
+}

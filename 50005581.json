@@ -1,0 +1,54 @@
+{
+ "Date": "6th–8th century",
+ "Geography": "Panama",
+ "Culture": "Conte (?)",
+ "Medium": "Gold",
+ "Dimensions": "H. 7 7/8 x W. 8 1/8 x D. 1/2 in. (20 x 20.6 x 1.3 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.732",
+ "What": [
+  "Metal",
+  "Gold",
+  "Plaques"
+ ],
+ "Where": [
+  "North and Central America",
+  "Panama"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central America and the Caribbean, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50005581,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_206_732.jpg",
+ "Provenance": [
+  "[John Wise Ltd., New York, until 1958]",
+  "Nelson A. Rockefeller, 1958, on loan to the Museum of Primitive Art, New York, 1958–1978"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50005277"
+   },
+   {
+    "href": "http://scrapi.org/object/50002529"
+   },
+   {
+    "href": "http://scrapi.org/object/50005274"
+   },
+   {
+    "href": "http://scrapi.org/object/50005275"
+   },
+   {
+    "href": "http://scrapi.org/object/50005406"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50005581"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50005581"
+  }
+ }
+}

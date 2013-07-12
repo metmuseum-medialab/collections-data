@@ -1,0 +1,40 @@
+{
+ "Date": "1920s",
+ "Medium": "Pochoir",
+ "Dimensions": [
+  "Sheet 29 1/8 × 20 1/16 in. (73.9 × 50.9 cm)",
+  "Image 23 7/8 × 14 3/4 in. (60.6 × 37.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Humanities Fund, Inc., The Boris Bakhmeteff Collection, 1972",
+ "Accession Number": "1972.744.52",
+ "Who": "Natalia Goncharova",
+ "What": [
+  "Prints",
+  "Stenciling",
+  "Pochoir"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 90097705,
+ "related-artworks": [
+  90097708,
+  90091904,
+  90097586,
+  90097706,
+  90097710
+ ],
+ "Provenance": [
+  "Donor: The Humanities Fund, Inc. Donor: Mrs. Boris Bakhmeteff"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90097705"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1840",
+ "Medium": "Watercolor on ivory",
+ "Dimensions": "2 1/16 x 1 5/8 in. (5.3 x 4 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Fletcher Fund, 2006",
+ "Accession Number": "2006.235.96",
+ "What": [
+  "Paintings",
+  "Watercolors",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20015913,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/APS6881.jpg",
+ "related-artworks": [
+  20010421,
+  20010472,
+  20010561,
+  20010563,
+  20010586
+ ],
+ "Provenance": [
+  "sale, Sotheby Parke-Bernet, New York, 17 July 1984, lot 90",
+  "with  Edward Sheppard, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20015913"
+  }
+ }
+}

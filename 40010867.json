@@ -1,0 +1,47 @@
+{
+ "Date": "1550–1600",
+ "Culture": "German",
+ "Classification": "Firearms",
+ "Credit Line": "Gift of Jean Jacques Reubell, in memory of his mother, Julia C. Coster, and of his wife, Adeline E. Post, both of New York City, 1926",
+ "Accession Number": "26.145.359, .360",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Small arms",
+  "Handguns",
+  "Pistols"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40010867,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40012228"
+   },
+   {
+    "href": "http://scrapi.org/object/40012234"
+   },
+   {
+    "href": "http://scrapi.org/object/40000155"
+   },
+   {
+    "href": "http://scrapi.org/object/40000163"
+   },
+   {
+    "href": "http://scrapi.org/object/40000589"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40010867"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40010867"
+  }
+ }
+}

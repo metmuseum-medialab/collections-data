@@ -1,0 +1,37 @@
+{
+ "Date": "first half 19th century",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Dimensions": "Dimensions not recorded.",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Maria P. James, 1911",
+ "Accession Number": "11.60.565",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Samples"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036901,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/122437.jpg",
+ "related-artworks": [
+  120036859,
+  120036838,
+  120036861,
+  120036847,
+  120036842
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036901"
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Malayan, Celebes",
+ "Classification": "Krisses",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.1138a, b",
+ "What": [
+  "Cases",
+  "Sheaths",
+  "Scabbards"
+ ],
+ "Where": [
+  "Asia",
+  "Malay Peninsula"
+ ],
+ "In the Museum": "Arms and Armor",
+ "id": 40009783,
+ "related-artworks": [
+  40009377,
+  40009409,
+  40009410,
+  40009635,
+  40009822
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40009783"
+  }
+ }
+}

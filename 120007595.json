@@ -1,0 +1,46 @@
+{
+ "Date": "18th century",
+ "Culture": "Russian",
+ "Medium": "Glazed pottery",
+ "Dimensions": "8 3/8 x 6 3/4 in.  (21.3 x 17.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Karl J. Freund, 1914",
+ "Accession Number": "14.96.6",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Glazing",
+  "Tile",
+  "Stoves"
+ ],
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Eastern Europe and Scandinavia, 1600–1800 A.D.",
+  "Anatolia and the Caucasus, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120007595,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/23907.jpg",
+ "related-artworks": [
+  120007594,
+  120007596,
+  120007590,
+  120007591,
+  120007592
+ ],
+ "Provenance": [
+  "Karl Freund (until 1914",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120007595"
+  }
+ }
+}

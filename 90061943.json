@@ -1,0 +1,37 @@
+{
+ "Date": "1927",
+ "Medium": "Graphite",
+ "Dimensions": "sheet 5 3/16 x 7 7/8 in. (13.2 x 20 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Grace A. Albee, 1962",
+ "Accession Number": "62.674.164(b)",
+ "Who": "Grace Arnold Albee",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90061943,
+ "related-artworks": [
+  90061969,
+  90061835,
+  90061944,
+  90061946,
+  90061966
+ ],
+ "Provenance": [
+  "Donor: Grace Arnold Albee (American, North Scituate, Rhode Island 1890–1985 Bristol, Rhode Island)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90061943"
+  }
+ }
+}

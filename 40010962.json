@@ -1,0 +1,32 @@
+{
+ "Date": "1725",
+ "Culture": "Italian",
+ "Classification": "Swords",
+ "Credit Line": "Gift of Jean Jacques Reubell, in memory of his mother, Julia C. Coster, and of his wife, Adeline E. Post, both of New York City, 1926",
+ "Accession Number": "26.145.273",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40010962,
+ "related-artworks": [
+  40003344,
+  40005772,
+  40005815,
+  40000122,
+  40000123
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40010962"
+  }
+ }
+}

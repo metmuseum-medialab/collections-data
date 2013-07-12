@@ -1,0 +1,41 @@
+{
+ "Date": "12th–13th century",
+ "Geography": "Iran",
+ "Medium": [
+  "Stonepaste; glazed",
+  "Molded reliefware"
+ ],
+ "Dimensions": [
+  "H. 4 5/16 in. (11 cm)",
+  "Diam. 7 1/2 in. (19.1 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Marquis and Marquise de la Begassiere, 1960",
+ "Accession Number": "60.99.1",
+ "What": [
+  "Ceramics",
+  "Bowls"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140008938,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf60-99-1c.jpg",
+ "related-artworks": [
+  140000076,
+  140002451,
+  140002452,
+  140002484,
+  140002824
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008938"
+  }
+ }
+}

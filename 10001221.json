@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1800",
+ "Geography": "Mexico",
+ "Culture": "Mexican",
+ "Medium": "Majolica earthenware",
+ "Dimensions": "H. 15 1/2 in. (39.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Robert W. de Forest, 1911",
+ "Accession Number": "11.87.78",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Lighting devices",
+  "Candleholders",
+  "Candlesticks",
+  "Maiolica"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America, 1600–1800 A.D.",
+  "Mexico and Central America Native Peoples, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10001221,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP250138.jpg",
+ "related-artworks": [
+  10000684,
+  10000687,
+  10000690,
+  10000695,
+  10002819
+ ],
+ "Provenance": [
+  "Albert Pepper Collection",
+  "Mrs. Robert W. de Forest, New York, until 1911"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001221"
+  }
+ }
+}

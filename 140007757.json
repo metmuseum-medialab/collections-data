@@ -1,0 +1,42 @@
+{
+ "Date": "6th century",
+ "Geography": "Egypt or Syria",
+ "Medium": "Glass; blown, applied decoration",
+ "Dimensions": [
+  "H. 5 9/16 in. (14.1 cm)",
+  "Max. diam. 2 13/16 in. (7.2 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Bequest of George Blumenthal, 1941",
+ "Accession Number": "41.190.222",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140007757,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf41-190-222a.jpg",
+ "related-artworks": [
+  140000009,
+  140000010,
+  140002468,
+  140004260,
+  140004261
+ ],
+ "Provenance": [
+  "George and Florence Blumenthal, New York (until 1941)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007757"
+  }
+ }
+}

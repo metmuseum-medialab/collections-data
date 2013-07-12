@@ -1,0 +1,49 @@
+{
+ "Date": "1759",
+ "Culture": "American",
+ "Classification": "Firearms Accessories",
+ "Credit Line": "The Collection of J. H. Grenville Gilbert, of Ware, Massachusetts, Gift of Mrs. Gilbert, 1937",
+ "Accession Number": "37.131.11",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Accessories",
+  "Horn",
+  "Powder flasks",
+  "Powder horns"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40007978,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40002878"
+   },
+   {
+    "href": "http://scrapi.org/object/40002880"
+   },
+   {
+    "href": "http://scrapi.org/object/40002883"
+   },
+   {
+    "href": "http://scrapi.org/object/40007914"
+   },
+   {
+    "href": "http://scrapi.org/object/40007977"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40007978"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40007978"
+  }
+ }
+}

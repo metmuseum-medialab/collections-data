@@ -1,0 +1,40 @@
+{
+ "Date": "1830s–40s",
+ "Culture": "French or British",
+ "Medium": "Silk",
+ "Dimensions": "L. 39 x W. 86 1/8 inches (99.1 x 218.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. William Henry Shackleton, 1980",
+ "Accession Number": "1980.423",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120047362,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/224867.jpg",
+ "related-artworks": [
+  120012751,
+  120021217,
+  120034206,
+  120034945,
+  120036777
+ ],
+ "Provenance": [
+  "Mrs. William Henry Shackleton (until 1980",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120047362"
+  }
+ }
+}

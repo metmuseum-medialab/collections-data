@@ -1,0 +1,42 @@
+{
+ "Date": "19th century",
+ "Culture": "Italian, Venice (Murano)",
+ "Medium": "Glass",
+ "Dimensions": "H. 5 1/2 in.  (14.0 cm); W. 2 1/4 in. (5.7 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of James Jackson Jarves, 1881",
+ "Accession Number": "81.8.91",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Drinking glasses",
+  "Cordial glasses"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000224,
+ "related-artworks": [
+  120000329,
+  120000330,
+  120000331,
+  120000332,
+  120000333
+ ],
+ "Description": "The four equidistant straps decorating the stem recall similar stem treatment occasionally found in Roman silver.",
+ "Provenance": [
+  "James Jackson Jarves (until 1881)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000224"
+  }
+ }
+}

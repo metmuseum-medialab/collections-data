@@ -1,0 +1,36 @@
+{
+ "Period": "Predynastic Period",
+ "Date": "ca. 3850–2960 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.2146",
+ "What": [
+  "Faience",
+  "Amulets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "id": 100029432,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/10.130.2146_EGDP011491.jpg",
+ "related-artworks": [
+  100003744,
+  100003990,
+  100029501,
+  100029503,
+  100029557
+ ],
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100029432"
+  }
+ }
+}

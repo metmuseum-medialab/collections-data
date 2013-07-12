@@ -1,0 +1,36 @@
+{
+ "Publisher": "Published by Louis Crépy (French)",
+ "Date": "1635–74",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 15 3/8 x 10 3/8 x 3/16 in. (39 x 26.3 x 0.4 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.71.7",
+ "Who": [
+  "Nicolas Pineau",
+  "Louis Crépy"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023268,
+ "related-artworks": [
+  90012600,
+  90023269,
+  90033281
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023268"
+  }
+ }
+}

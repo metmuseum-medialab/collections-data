@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1780",
+ "Geography": "Mid-Atlantic, Denver, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Cedar",
+ "Dimensions": "2 1/2 x 8 1/8 x 8 1/2 in. (6.4 x 20.6 x 21.6 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Mrs. Robert W. de Forest, 1933",
+ "Accession Number": "34.100.43",
+ "Who": "Henry Bucher",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Boxes",
+  "Softwood",
+  "Cedar",
+  "Trinkets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Denver"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000970,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/97153.jpg",
+ "related-artworks": [
+  10000971,
+  10000950,
+  10000951,
+  10001056
+ ],
+ "Provenance": [
+  "Mrs. Robert W. de Forest, New York, until 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000970"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Artist": "After Parmigianino (Girolamo Francesco Maria Mazzola) (Italian, Parma 1503–1540 Casalmaggiore)",
+ "Date": "17th century (?)",
+ "Dimensions": "2 5/16 x 1 13/16 in. (6 x 4.7 cm) (trimmed on plate line)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1917",
+ "Accession Number": "17.50.18-70",
+ "Who": [
+  "Wenceslaus Hollar (Wenzel Vaclav)",
+  "Parmigianino (Girolamo Francesco Maria Mazzola)"
+ ],
+ "What": "Prints",
+ "Where": [
+  "Europe",
+  "Czech Republic",
+  "Bohemia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90031282,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP823798.jpg",
+ "related-artworks": [
+  90003018,
+  90008852,
+  90024388,
+  90024392,
+  90024393
+ ],
+ "Provenance": [
+  "Earls of Pembroke (British, Wilton House, near Salisbury, Wiltshire)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90031282"
+  }
+ }
+}

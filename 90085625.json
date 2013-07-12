@@ -1,0 +1,33 @@
+{
+ "Date": "1935",
+ "Medium": "Commercial Lithograph",
+ "Dimensions": "Sheet 2 7/8 x 2 3/8 in. (7.3 x 6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 325, R327.62",
+ "Who": "National Chicle Gum Company, Cambridge, Massachusetts",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Baseball cards"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90085625,
+ "related-artworks": [
+  90084647,
+  90085567,
+  90085569,
+  90085571,
+  90085572
+ ],
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90085625"
+  }
+ }
+}

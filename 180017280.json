@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1850–89",
+ "Geography": "China",
+ "Medium": "Bamboo",
+ "Dimensions": "Overall 61cm (24in.)",
+ "Classification": "Chordophone-Musical Bow",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2850",
+ "What": [
+  "Musical instruments",
+  "Chordophones",
+  "Grass",
+  "Bamboo",
+  "Bows"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "id": 180017280,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/206135.jpg",
+ "related-artworks": [
+  180012354,
+  180018073,
+  180012351,
+  180012360,
+  180012361
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180017280"
+  }
+ }
+}

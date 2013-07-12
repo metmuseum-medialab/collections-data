@@ -1,0 +1,55 @@
+{
+ "Date": "1858",
+ "Medium": "Etching; first state of three (Van Gelder)",
+ "Dimensions": [
+  "Mount 10 5/16 × 14 13/16 in. (26.2 × 37.7 cm)",
+  "Sheet 2 5/8 × 4 15/16 in. (6.7 × 12.6 cm)",
+  "Plate 2 7/16 × 4 7/8 in. (6.2 × 12.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The J. B. Neumann Collection, Gift of Dr. Franz H. Hirschland, 1952",
+ "Accession Number": "52.508.17",
+ "Who": "Rodolphe Bresdin",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90105640,
+ "Provenance": [
+  "J. B. Neumann (New York, NY)",
+  "Donor: Dr. Franz H. Hirschland"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90005760"
+   },
+   {
+    "href": "http://scrapi.org/object/90005762"
+   },
+   {
+    "href": "http://scrapi.org/object/90036042"
+   },
+   {
+    "href": "http://scrapi.org/object/90062051"
+   },
+   {
+    "href": "http://scrapi.org/object/90062172"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90105640"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90105640"
+  }
+ }
+}

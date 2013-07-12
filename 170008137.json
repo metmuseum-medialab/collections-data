@@ -1,0 +1,48 @@
+{
+ "Date": "early 1400s",
+ "Geography": "Made in Florence, Tuscany, Italy",
+ "Culture": "Italian",
+ "Medium": "Tin-glazed earthenware",
+ "Dimensions": "Overall 11 15/16 x 7 1/2 in. (30.4 x 19 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Fletcher Fund, 1946",
+ "Accession Number": "46.85.8",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Earthenware",
+  "Jars",
+  "Glazing",
+  "Apothecary jars"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Florence"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170008137,
+ "gallery-id": 307,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf46-85-8s1.jpg",
+ "related-artworks": [
+  170003559,
+  170008128,
+  170008127,
+  170007560,
+  170008134
+ ],
+ "Provenance": [
+  "C. Canessa, New York",
+  "Mortimer L. Schiff, New York (sale May 4, 1946)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170008137"
+  }
+ }
+}

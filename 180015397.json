@@ -1,0 +1,40 @@
+{
+ "Date": "2002",
+ "Geography": "Barranquitas, Puerto Rico, United States",
+ "Medium": "Wood (yagumo & guaraguao), metal, wire",
+ "Dimensions": "L. 89.2 cm (35 1/8 in.), W. 30.2 cm (11 7/8 in.), D. 8.6 cm (3 3/8 in.)",
+ "Classification": "Chordophone-Lute",
+ "Credit Line": "Gift of Luis Ángel Colón, 2003",
+ "Accession Number": "2003.216.1",
+ "Who": "Luis Ángel Colón",
+ "What": [
+  "Metal",
+  "Musical instruments",
+  "Chordophones",
+  "Lutes"
+ ],
+ "Where": [
+  "North and Central America",
+  "Puerto Rico"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America, 1900 A.D.–present",
+  "Mexico and Central America Native Peoples, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 180015397,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DP2003.216.1.jpg",
+ "related-artworks": [
+  180015398,
+  180015399,
+  180015400
+ ],
+ "Description": "Puerto Rico's most popular melodic instrument, used in both secular and religious music, is the cuatro, a violin-shaped guitar. The cuatro originally had four double-strings but at the end of the nineteenth century a fifth was added as its popularity rose in north-central coastal towns. Its tuning, in octaves, except for the first two courses, is B1-E-A-d-g, the same as the 16th-century vihuelas and lutes, and its playing technique is the same as that of the vihuela de peñola. The body of the instrument is made of guaraguao and the top is yagrumo.The term cuatro is found throughout South America and the West Indies and may refer to various guitar-like instruments.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180015397"
+  }
+ }
+}

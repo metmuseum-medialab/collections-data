@@ -1,0 +1,41 @@
+{
+ "Period": "Middle Corinthian",
+ "Date": "ca. 590–570 B.C.",
+ "Culture": "Greek, Corinthian",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 8 5/8 in. (21.9 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1906",
+ "Accession Number": "06.1021.23a, b",
+ "Who": "Canessa Painter",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Oinochoai"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130007670,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP119910.jpg",
+ "related-artworks": [
+  130007668,
+  130005290,
+  130005301,
+  130006085
+ ],
+ "Description": "Two friezes of animalsThe broad-bottomed oinochoe, represented by this example, is a characteristic and very long-lived shape in Corinth. The presence of a lid distinguishes it from oinochoai of other Greek regions as well. Although the conventional name is retained, the shape was not necessary used to pour wine.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130007670"
+  }
+ }
+}

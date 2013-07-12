@@ -1,0 +1,41 @@
+{
+ "Period": "Late Classical",
+ "Date": "ca. 350–300 B.C.",
+ "Culture": "Greek, South Italian, Apulian",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 13.79 cm.",
+ "Classification": "Vases",
+ "Credit Line": "Gift of L. P. di Cesnola, 1876",
+ "Accession Number": "76.12.4",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jugs",
+  "Lekythoi",
+  "Squat lekythoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130005326,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP1475.jpg",
+ "related-artworks": [
+  130005291,
+  130008437,
+  130011692,
+  130011699,
+  130011984
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130005326"
+  }
+ }
+}

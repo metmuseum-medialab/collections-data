@@ -1,0 +1,38 @@
+{
+ "Publisher": "Francesco Piranesi (Italian, 1758–1810)",
+ "Date": "ca. 1750-80",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Sheet 20 7/8 x 29 1/2 in. (53 x 75 cm)",
+  "Plate 26 15/16 x 18 11/16 in. (68.5 x 47.5 cm) printed horizontally"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, transferred from the Library",
+ "Accession Number": "41.71.1.6",
+ "Who": "Francesco Piranesi",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90082094,
+ "related-artworks": [
+  90039213,
+  90079946,
+  90079955,
+  90079967,
+  90079979
+ ],
+ "Description": "The term \"primo ordine\" does not refer to the classical architectural orders (Doric), but most likely to the ordinance of the pillars within the interior of the Pantheon.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90082094"
+  }
+ }
+}

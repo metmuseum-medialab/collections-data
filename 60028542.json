@@ -1,0 +1,44 @@
+{
+ "Date": "17th century",
+ "Culture": "Japan",
+ "Medium": "Pair of six-panel folding screens; paint and gilt on paper",
+ "Dimensions": "Overall (each screen) 70 1/4 x 77 1/4 in. (178.4 x 196.2 cm)",
+ "Classification": "Screens",
+ "Credit Line": "Gift of Major General R. B. Woodruff, 1953",
+ "Accession Number": "53.156.1, .2",
+ "Who": "Kano Tan'yū",
+ "What": [
+  "Paper",
+  "Gilt",
+  "Furniture",
+  "Panels",
+  "Screens"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Zen Buddhism",
+  "Painting Formats in East Asian Art",
+  "The Kano School of Painting",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60028542,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/53_156_1.jpg",
+ "related-artworks": [
+  60013545,
+  60011918,
+  60027251,
+  60019737,
+  60019738
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028542"
+  }
+ }
+}

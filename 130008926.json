@@ -1,0 +1,34 @@
+{
+ "Culture": "Greek",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 3 1/2 in. (8.89 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.210.164",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Reliefs"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130008926,
+ "related-artworks": [
+  130008910,
+  130008927,
+  130013839,
+  130013973,
+  130007137
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130008926"
+  }
+ }
+}

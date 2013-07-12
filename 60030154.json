@@ -1,0 +1,52 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": [
+  "Gold maki-e with mother-of-pearl inlay and black lacquer",
+  "Ojime ivory",
+  "Netsuke carved bone with moon and goose"
+ ],
+ "Dimensions": "H. 3 1/8 in. (8 cm); W. 2 1/8 in. (5.4 cm); D. 15/16 in. (2.4 cm)",
+ "Classification": "Inrō",
+ "Credit Line": "The Howard Mansfield Collection, Purchase, Rogers Fund, 1936",
+ "Accession Number": "36.100.218",
+ "Who": "Koma School",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Gold",
+  "Bone",
+  "Ivory",
+  "Beads",
+  "Lacquer",
+  "Netsukes",
+  "Pearl",
+  "Inro",
+  "Sagemono",
+  "Ojime",
+  "Maki-e"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60030154,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/36_100_218_O3.JPG",
+ "related-artworks": [
+  60025055,
+  60013265,
+  60012571,
+  60025380,
+  60029913
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030154"
+  }
+ }
+}

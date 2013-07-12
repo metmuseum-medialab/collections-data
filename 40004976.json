@@ -1,0 +1,28 @@
+{
+ "Date": "ca. 1580",
+ "Culture": "Italian",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.252",
+ "What": "Arms",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40004976,
+ "related-artworks": [
+  40000126,
+  40000153,
+  40000196,
+  40000389,
+  40000392
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40004976"
+  }
+ }
+}

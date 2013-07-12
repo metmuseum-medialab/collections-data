@@ -1,0 +1,36 @@
+{
+ "Date": "1820–30",
+ "Culture": "French",
+ "Medium": "bone, paper",
+ "Dimensions": "9 in. (22.9 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. S. W. Quackenbush, 1917",
+ "Accession Number": "2009.300.1657",
+ "Who": "Dubois",
+ "What": [
+  "Costume",
+  "Bone",
+  "Fans"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80094251,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/17.28_front_CP4.jpg",
+ "related-artworks": [
+  120006032,
+  120027944,
+  120027945,
+  120027952,
+  120027963
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80094251"
+  }
+ }
+}

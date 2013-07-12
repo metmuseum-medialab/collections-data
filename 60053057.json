@@ -1,0 +1,46 @@
+{
+ "Period": "Heisei period (1989–present)",
+ "Date": "2011",
+ "Culture": "Japan",
+ "Medium": "Sand-glazed stoneware with matte white slip",
+ "Dimensions": "H. 28 in. (71.1 cm); W. 28 3/4 in. (73 cm); D. 20 1/2 in. (52.1 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Halsey and Alice North and Joseph A. Precker Gifts, 2012",
+ "Accession Number": "2012.512",
+ "Rights and Reproduction": "© Fujikasa Satoko",
+ "Who": "Fujikasa Satoko",
+ "What": [
+  "Ceramics",
+  "Sculpture",
+  "Clay",
+  "Pottery",
+  "Figures",
+  "Glazing",
+  "Stoneware",
+  "Slip"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 60053057,
+ "gallery-id": 228,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2012_512_sf.jpg",
+ "related-artworks": [
+  60039183,
+  60000189,
+  60023276,
+  60046092,
+  60051015
+ ],
+ "Description": "This stoneware sculpture captures form in dynamic motion while testing the limits of ceramic technique to create an organic shape that seems to defy gravity and solidify movement. The core of the sculpture is sand-glazed and covered with a matte white slip that is reminiscent in color and texture of the stalactites found in the limestone caves of Akiyoshi Plateau, in Yamaguchi Prefecture, where the artist was born.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60053057"
+  }
+ }
+}

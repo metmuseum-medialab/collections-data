@@ -1,0 +1,44 @@
+{
+ "Date": "1990",
+ "Culture": "British",
+ "Medium": "cotton, acetate",
+ "Dimensions": [
+  "(a) L. at center back  16 in. (40.6 cm)",
+  "(b) L. at side seam  17¾ in. (45 cm)"
+ ],
+ "Credit Line": "Gift of the Estate of Luciana Martinez de la Rosa, 1997",
+ "Accession Number": "1997.59.9a, b",
+ "Who": "Vivienne Westwood",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Suits"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Costume in The Metropolitan Museum of Art",
+  "Shoes in The Costume Institute",
+  "Vivienne Westwood (born 1941) and the Postmodern Legacy of Punk Style",
+  "Great Britain and Ireland, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80000536,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1997.59.9ab_F.JPG",
+ "related-artworks": [
+  80001000,
+  80015208,
+  80064468,
+  80015215,
+  80064466
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80000536"
+  }
+ }
+}

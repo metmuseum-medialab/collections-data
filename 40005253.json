@@ -1,0 +1,39 @@
+{
+ "Date": "18th century",
+ "Culture": "Japanese",
+ "Medium": "Iron with shibuichi back with inlaid flakes of silver and gold",
+ "Classification": "Sword Furniture",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.909",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Arms",
+  "Iron and iron alloy",
+  "Edged weapons",
+  "Swords",
+  "Iron",
+  "Knives"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005253,
+ "related-artworks": [
+  40005172,
+  40004403,
+  40008141,
+  40004083,
+  40004304
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40005253"
+  }
+ }
+}

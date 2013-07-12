@@ -1,0 +1,57 @@
+{
+ "Date": "1897",
+ "Medium": "Oil on canvas",
+ "Dimensions": "28 7/8 x 36 1/2 in. (73.3 x 92.7 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mr. and Mrs. Charles S. McVeigh, 1960",
+ "Accession Number": "60.154",
+ "Who": "Claude Monet",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "John Singer Sargent (1856–1925)",
+  "The Transformation of Landscape Painting in France",
+  "Japonisme",
+  "Édouard Manet (1832–1883)",
+  "American Impressionism",
+  "Impressionism Art and Modernity",
+  "Americans in Paris, 1860–1900",
+  "Claude Monet (1840–1926)",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110001574,
+ "gallery-id": 819,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/EP112.jpg",
+ "related-artworks": [
+  110001570,
+  110001571,
+  110001572,
+  110001575,
+  110001573
+ ],
+ "Provenance": [
+  "?[Petit, Bernheim, and Montaignac, Paris, from 1898",
+  "bough from the artist]",
+  "Frederic Bonner, New York (until d. 1911",
+  "sale, American Art Association, New York, January 24, 1912, no. 37, as \"Near Vernon\" for $2,000 to Durand-Ruel)",
+  "[Durand-Ruel, New York, 1912–16]",
+  "Mrs. Charles H. Senff, New York (1916–d. 1928)",
+  "her nephew and his wife, Mr. and Mrs. Charles S. McVeigh, New York (1928–60",
+  "life interest, MMA received 2/3 interest in 1960 and the remaining 1/3 interest in 1961, accepted by the Director on December 21, 1961)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001574"
+  }
+ }
+}

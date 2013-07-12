@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1830–ca. 1870",
+ "Geography": "West Midlands, England",
+ "Culture": "British (American market)",
+ "Medium": "Earthenware, transfer-printed",
+ "Dimensions": "Diam. 3 3/8 in. (8.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Constance R. Brown, 1939",
+ "Accession Number": "40.150.327",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Printing",
+  "Plates",
+  "Transfer printing"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "West Midlands"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10006189,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/123830.jpg",
+ "related-artworks": [
+  10006126,
+  10006273,
+  10006277,
+  10006357,
+  10006343
+ ],
+ "Provenance": [
+  "Constance R. Brown, Kalamazoo, Michigan, until 1940."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006189"
+  }
+ }
+}

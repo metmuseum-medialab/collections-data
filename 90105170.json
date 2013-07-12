@@ -1,0 +1,43 @@
+{
+ "Artist": "After François Boucher (French, Paris 1703–1770 Paris)",
+ "Publisher": "Gabriel Huquier (French, Orléans 1695–1772 Paris)",
+ "Date": "1730–70",
+ "Medium": "Etching and engraving",
+ "Dimensions": "Sheet 10 5/8 × 12 3/8 in. (27 × 31.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.1004",
+ "Who": [
+  "François Boucher",
+  "Gabriel Huquier"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90105170,
+ "related-artworks": [
+  90013891,
+  90013892,
+  90013889,
+  90013893,
+  90013890
+ ],
+ "Provenance": [
+  "Princes of Liechtenstein",
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90105170"
+  }
+ }
+}

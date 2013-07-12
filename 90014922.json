@@ -1,0 +1,27 @@
+{
+ "Illustrator": "Wanda Gawin-Lange",
+ "Date": "1964",
+ "Classification": "Books",
+ "Credit Line": "Gift of Mrs. Joseph Y. Smith, 1966",
+ "Accession Number": "66.718.6",
+ "Who": [
+  "Wanda Gawin-Lange",
+  "Zofia Chmurowa"
+ ],
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90014922,
+ "related-artworks": [
+  90000001,
+  90000402,
+  90000530,
+  90000506,
+  90000618
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90014922"
+  }
+ }
+}

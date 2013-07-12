@@ -1,0 +1,46 @@
+{
+ "Date": "early–mid-16th century",
+ "Culture": "Italian",
+ "Medium": "Pen and brown ink, brown wash, over black chalk.",
+ "Dimensions": "10 3/8 x 7 1/4 in.  (26.4 x 18.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.421",
+ "Who": "Follower of Sodoma",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk",
+  "Pen",
+  "Black chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Siena"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 150000540,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975-1-421-r.JPG",
+ "related-artworks": [
+  150000491,
+  150000471,
+  150000485,
+  150000522,
+  150000551
+ ],
+ "Provenance": [
+  "Victor Koch, London",
+  "Koch sale 1923, lot 28",
+  "Herbert Lehman."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150000540"
+  }
+ }
+}

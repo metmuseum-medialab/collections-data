@@ -1,0 +1,57 @@
+{
+ "Etcher": "Frontispiece etched by George Cruikshank (British, London 1792–1878 London)",
+ "Publisher": "Septimus Prowett (London)",
+ "Printer": "Anne Maurice (London)",
+ "Date": "1828",
+ "Medium": "Etching",
+ "Dimensions": "Overall 8 1/4 x 5 1/4 in. (21 x 13.3 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1953",
+ "Accession Number": "53.648.17",
+ "Who": [
+  "George Cruikshank",
+  "Septimus Prowett",
+  "Anne Maurice"
+ ],
+ "What": [
+  "Etching",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90043712,
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90013142"
+   },
+   {
+    "href": "http://scrapi.org/object/90015585"
+   },
+   {
+    "href": "http://scrapi.org/object/90015586"
+   },
+   {
+    "href": "http://scrapi.org/object/90015587"
+   },
+   {
+    "href": "http://scrapi.org/object/90015589"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90043712"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90043712"
+  }
+ }
+}

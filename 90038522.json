@@ -1,0 +1,42 @@
+{
+ "Printer": "Atelier Franck Bordas, Paris",
+ "Publisher": "American Abstract Artists (Princeton, New Jersey)",
+ "Date": "1987",
+ "Medium": "Lithograph",
+ "Dimensions": "Sheet 12 3/4 × 9 13/16 in. (32.4 × 25 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of American Abstract Artists, 1988",
+ "Accession Number": "1988.1095",
+ "Who": [
+  "Atelier Franck Bordas, Paris",
+  "American Abstract Artists",
+  "Jean Cohen"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90038522,
+ "related-artworks": [
+  90045808,
+  90038530,
+  90038523,
+  90038524
+ ],
+ "Provenance": [
+  "Donor: American Abstract Artists (Princeton, New Jersey)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90038522"
+  }
+ }
+}

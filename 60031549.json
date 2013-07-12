@@ -1,0 +1,35 @@
+{
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Ivory",
+ "Classification": "Netsuke",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1910",
+ "Accession Number": "10.211.1077",
+ "What": [
+  "Sculpture",
+  "Bone",
+  "Ivory",
+  "Netsukes"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60031549,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/10_211_1077_9824.jpg",
+ "related-artworks": [
+  60007096,
+  60012571,
+  60013265,
+  60013283,
+  60025379
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60031549"
+  }
+ }
+}

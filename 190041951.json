@@ -1,0 +1,54 @@
+{
+ "Photography Studio": "Sun Sculpture Works and Studios (American)",
+ "Person in photograph": "First Lady Ida Saxton McKinley (American, 1847–1907)",
+ "Publisher": "William Hibbert (American)",
+ "Artist": "Alfred Hewitt",
+ "Date": "1850s–1910s",
+ "Dimensions": "Mounts approximately 8.9 x 17.8 cm (3 1/2 x 7 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Weston J. Naef, in memory of Kathleen W. Naef and Weston J. Naef Sr., 1982",
+ "Accession Number": "1982.1182.647–.658",
+ "Who": [
+  "Underwood & Underwood",
+  "Keystone View Company, London",
+  "Sun Sculpture Works  Studios",
+  "C. H. Graves",
+  "H. C. White Company",
+  "Universal Photo Art Co.",
+  "William McKinley",
+  "First Lady Ida Saxton McKinley",
+  "Alfred Hewitt",
+  "First Lady Grace Anna Goodhue Coolidge",
+  "Major General Adna Romanza Chaffee",
+  "Pope Pius X",
+  "President John Calvin Coolidge Jr.",
+  "William Hibbert"
+ ],
+ "What": [
+  "Photographs",
+  "Stereographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "id": 190041951,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP75442.jpg",
+ "related-artworks": [
+  190041900,
+  190041915,
+  190041917,
+  190041935,
+  190041936
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190041951"
+  }
+ }
+}

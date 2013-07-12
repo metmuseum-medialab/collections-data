@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1970s",
+ "Culture": "China",
+ "Medium": "Horizontal hanging scroll; ink and color on paper",
+ "Dimensions": "17 x 26 1/2 in. (43.2 x 67.3 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1986",
+ "Accession Number": "1986.267.445",
+ "Who": "Fu Xiaoshi",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60020465,
+ "related-artworks": [
+  60000301,
+  60000302,
+  60000352,
+  60000356,
+  60000361
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60020465"
+  }
+ }
+}

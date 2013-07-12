@@ -1,0 +1,43 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Jade",
+ "Dimensions": "H. 13 7/16 in. (34.2 cm); W. 9 7/16 in. (24 cm); D. 1 15/16 in. (5 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.644",
+ "What": [
+  "Stone",
+  "Musical instruments",
+  "Jade"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Music and Art of China",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60011547,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP132700.jpg",
+ "related-artworks": [
+  60011549,
+  60027724,
+  60011555,
+  60011632,
+  60011633
+ ],
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60011547"
+  }
+ }
+}

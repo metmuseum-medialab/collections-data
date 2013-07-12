@@ -1,0 +1,42 @@
+{
+ "Period": "Middle Minoan II",
+ "Date": "ca. 1800–1700 B.C.",
+ "Culture": "Minoan",
+ "Medium": "Steatite",
+ "Dimensions": "Other 1/2 x 3/8 x 5/16 in. (1.2 x 1 x 0.8 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Bequest of Richard B. Seager, 1926",
+ "Accession Number": "26.31.58",
+ "What": [
+  "Seals",
+  "Talc",
+  "Steatite",
+  "Gems",
+  "Signets"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades",
+  "Minoa"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130012499,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP110237.jpg",
+ "related-artworks": [
+  130012468,
+  130012518,
+  130012485,
+  130012553,
+  130012739
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130012499"
+  }
+ }
+}

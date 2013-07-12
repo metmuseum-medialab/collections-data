@@ -1,0 +1,26 @@
+{
+ "Date": "n.d.",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Charles Carruth, 1946",
+ "Accession Number": "46.119.17",
+ "What": "Drawings",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90065512,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804985.jpg",
+ "related-artworks": [
+  90000002,
+  90000004,
+  90000005,
+  90000006,
+  90000007
+ ],
+ "Provenance": [
+  "Donor: Charles Carruth"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90065512"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Artist": "After Jean-Michel Moreau the Younger (French, Paris 1741–1814 Paris)",
+ "Author": "François Arouet Voltaire (French, 1694–1778)",
+ "Printer": "L'Imprimerie de la Société Littéraire Typographique (Kehl)",
+ "Publisher": "Jean-Michel Moreau the Younger (French, Paris 1741–1814 Paris)",
+ "Date": "1782",
+ "Medium": "Etching and engraving; fourth state of four (Bocher)",
+ "Dimensions": [
+  "Sheet 10 9/16 × 7 5/16 in. (26.8 × 18.5 cm)",
+  "Plate 8 11/16 × 5 13/16 in. (22 × 14.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Joseph Verner Reed, 1964",
+ "Accession Number": "64.542.215",
+ "Who": [
+  "Jean-Michel Moreau the Younger",
+  "François Arouet Voltaire",
+  "Antoine Jean Duclos",
+  "L'Imprimerie de la Société Littéraire Typographique (Kehl)"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90102843,
+ "related-artworks": [
+  90028269,
+  90042443,
+  90069331,
+  90098847,
+  90099580
+ ],
+ "Provenance": [
+  "Donor: Joseph Verner Reed (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90102843"
+  }
+ }
+}

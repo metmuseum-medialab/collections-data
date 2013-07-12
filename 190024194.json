@@ -1,0 +1,56 @@
+{
+ "Date": "1863",
+ "Medium": "Salted paper print from paper negative",
+ "Dimensions": "19.8 x 25.9 cm (7 13/16 x 10 3/16 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Harriette and Noel Levine Gift and Rogers Fund, 1996",
+ "Accession Number": "1996.331",
+ "Who": "Eugène Cuvelier",
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Barbizon School French Painters of Nature",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190024194,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP156449.jpg",
+ "Description": "The granite quarries at the edge of Fontainebleau Forest, on the Arbonne plane near Macherin, provided cobblestones for the new boulevards of Paris in the 1850s and 1860s.  Here, the piles of freshly cut stone look more like the ruins of a past civilization in a barren landscape beneath a foreboding sky than the building blocks of an emerging imperial capital.  At the edge of the this road, quarrymen have built a shelter of rejected blocks.",
+ "Provenance": [
+  "John Chandler Bancroft, Middletown, Rhode Island, 1860s",
+  "(sold, Gustave J. S. White Co., Auctioneers, Newport, Rhode Island, March 28, 1989, to a New England antiques dealer)",
+  "Mack Lee and William Schaeffer, 1989",
+  "private collector",
+  "sold or consigned to Lee and Schaeffer in 1996."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190016858"
+   },
+   {
+    "href": "http://scrapi.org/object/190017689"
+   },
+   {
+    "href": "http://scrapi.org/object/190024193"
+   },
+   {
+    "href": "http://scrapi.org/object/190041811"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190024194"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190024194"
+  }
+ }
+}

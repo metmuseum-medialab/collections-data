@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1830",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. John Innes Kane, 1919.",
+ "Accession Number": "19.181.4",
+ "What": [
+  "Costume",
+  "Silk",
+  "Vests"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80013541,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/19.181.4_F.jpg",
+ "related-artworks": [
+  80005516,
+  80013515,
+  80013735,
+  80013858,
+  80013878
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80013541"
+  }
+ }
+}

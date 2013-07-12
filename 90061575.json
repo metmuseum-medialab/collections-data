@@ -1,0 +1,38 @@
+{
+ "Date": "18th century",
+ "Medium": "Watercolor and gouache",
+ "Dimensions": "sheet 8 15/16 x 13 13/16 in. (22.7 x 35.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Guy Wildenstein Gift, 2000",
+ "Accession Number": "2000.260.2",
+ "Who": "Gerard Melder",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90061575,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800478.jpg",
+ "related-artworks": [
+  90007450,
+  90002997,
+  90004532,
+  90012413
+ ],
+ "Provenance": [
+  "Vendor: Galerie de Bayser, Paris"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90061575"
+  }
+ }
+}

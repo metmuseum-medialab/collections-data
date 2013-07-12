@@ -1,0 +1,44 @@
+{
+ "Date": "late 17th–early 18th century",
+ "Culture": "British, London",
+ "Medium": "Silver",
+ "Dimensions": "H. 3 1/8 in.  (7.9 cm); W. 1 1/4 in. (3.2 cm.); D. 1 1/4 in. (3.2 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "The Joseph M. and Aimee Loeb May Collection, 1963",
+ "Accession Number": "63.53.261",
+ "Who": "David Clayton",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Miniature",
+  "Side chairs"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120018383,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/177813.jpg",
+ "related-artworks": [
+  120018320,
+  120018365,
+  120018333,
+  120018244,
+  120018245
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120018383"
+  }
+ }
+}

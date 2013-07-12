@@ -1,0 +1,46 @@
+{
+ "Period": "Pre-Columbian",
+ "Date": "1300–1500",
+ "Geography": "Sierra Nevada de Santa Marta, Colombia",
+ "Culture": "Tairona People; Gayraca style",
+ "Medium": "Ceramic",
+ "Dimensions": "L. 8.4 cm (1-5/16 in.); Diam. 3.9 cm (1-9/16 in.)",
+ "Classification": "Aerophone-Whistle Flute",
+ "Credit Line": "Gift of Roberta Lee Boxer, 1984",
+ "Accession Number": "1984.507.8",
+ "Who": "Tairona",
+ "What": [
+  "Ceramics",
+  "Musical instruments",
+  "Aerophones",
+  "Flutes",
+  "Duct flutes",
+  "Whistles",
+  "Fipple flutes",
+  "Recorders"
+ ],
+ "Where": [
+  "South America",
+  "Colombia"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": [
+  "Northern Andes, 1400–1600 A.D.",
+  "Northern Andes, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 180015010,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DP159020.jpg",
+ "related-artworks": [
+  180015020,
+  180014927,
+  180015026,
+  180015021,
+  180015023
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180015010"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Period": "Old Babylonian",
+ "Date": "ca. 19th–16th century B.C.",
+ "Geography": "Mesopotamia",
+ "Culture": "Babylonian",
+ "Medium": "Hematite (?)",
+ "Dimensions": "0.67 in. (1.7 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Gift of Frederic Newlin Price, 1959",
+ "Accession Number": "59.209.40",
+ "Who": "Babylonian",
+ "What": [
+  "Stone",
+  "Seals",
+  "Cylinder seals",
+  "Hematite"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003650,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/SS59_209_40.jpg",
+ "related-artworks": [
+  30002667,
+  30006309,
+  30001021,
+  30001022,
+  30002435
+ ],
+ "Provenance": [
+  "Formerly collection of Arthur B. Davies (until d. 1928)",
+  "1928–1959, Frederic Newlin Price (Ferargil Galleries, New York) who handled the Estate of Arthur B. Davies",
+  "acquired by the Museum in 1959, gift of Frederic Newlin Price, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003650"
+  }
+ }
+}

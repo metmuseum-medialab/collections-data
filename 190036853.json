@@ -1,0 +1,42 @@
+{
+ "Date": "1960s",
+ "Medium": "Film negative",
+ "Dimensions": "35mm",
+ "Classification": "Manuscript Materials",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.253.809.1-25",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": "Walker Evans",
+ "What": [
+  "Photographs",
+  "Negatives",
+  "Film",
+  "Manuscripts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Walker Evans (1903–1975)",
+  "Early Documentary Photography",
+  "Kodak and the Rise of Amateur Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 190036853,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP68339.jpg",
+ "related-artworks": [
+  190024437,
+  190024439,
+  190024438,
+  190024440,
+  190024441
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190036853"
+  }
+ }
+}

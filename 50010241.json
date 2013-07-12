@@ -1,0 +1,41 @@
+{
+ "Date": "before 16th century",
+ "Geography": "Mexico, Mesoamerica",
+ "Culture": "Mexican",
+ "Medium": "Obsidian, green",
+ "Dimensions": "Height 2-1/8 in.",
+ "Classification": "Stone-Containers",
+ "Credit Line": "Bequest of Arthur M. Bullowa, 1993",
+ "Accession Number": "1994.35.741",
+ "What": [
+  "Stone",
+  "Bowls",
+  "Obsidian"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico, 1000–1400 A.D.",
+  "Mexico, 1400–1600 A.D."
+ ],
+ "id": 50010241,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1994_35_741.jpg",
+ "related-artworks": [
+  50000301,
+  50005945,
+  50009775,
+  50009777,
+  50010064
+ ],
+ "Provenance": [
+  "Arthur M. Bullowa, New York, until (d.)1993"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50010241"
+  }
+ }
+}

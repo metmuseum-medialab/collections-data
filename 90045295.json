@@ -1,0 +1,39 @@
+{
+ "Date": "1941",
+ "Medium": "Drypoint",
+ "Dimensions": [
+  "plate 7 1/2 x 10 1/4 inches (19.1 x 26 cm)",
+  "sheet 11 1/2 x 15 3/4 inches (29.2 x 40 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Museum Accession, transferred from the Library, 1962",
+ "Accession Number": "62.695.7",
+ "Who": "Peggy Bacon",
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90045295,
+ "related-artworks": [
+  90004615,
+  90045278,
+  90045279,
+  90045272,
+  90045273
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90045295"
+  }
+ }
+}

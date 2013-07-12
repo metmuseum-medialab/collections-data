@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1475–85 or modern",
+ "Geography": "Made in England",
+ "Culture": "British",
+ "Medium": "Colorless glass, silver stain, vitreous paint",
+ "Dimensions": "Overall Diam. 8 1/4 in. (21 cm)",
+ "Classification": "Glass-Stained",
+ "Credit Line": "The Cloisters Collection, 1932",
+ "Accession Number": "32.24.17",
+ "What": [
+  "Metal",
+  "Glass",
+  "Silver",
+  "Stained glass",
+  "Roundels"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1900 A.D.–present",
+  "Great Britain and Ireland, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 70011561,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi32-24-17.jpg",
+ "related-artworks": [
+  70009941,
+  70011560,
+  70011562,
+  70011564,
+  70011569
+ ],
+ "Provenance": [
+  "[ Roy Grosvenor Thomas London and New York (sold 1932)]",
+  "John D. Rockefeller Jr. , New York (until 1932)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011561"
+  }
+ }
+}

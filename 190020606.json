@@ -1,0 +1,36 @@
+{
+ "Date": "1915",
+ "Medium": "Carbon print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Mrs. Pirie MacDonald and Mr. and Mrs. Everett Tutchings, 1943",
+ "Accession Number": "43.10.21",
+ "Who": "Pirie MacDonald",
+ "What": [
+  "Photographs",
+  "Carbon prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190020606,
+ "related-artworks": [
+  190020593,
+  190020594,
+  190020595,
+  190020596,
+  190020597
+ ],
+ "Provenance": [
+  "Mrs. Pirie MacDonald and Mr. and Mrs. Everett Tutchings,"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190020606"
+  }
+ }
+}

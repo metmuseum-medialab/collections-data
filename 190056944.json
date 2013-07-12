@@ -1,0 +1,45 @@
+{
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Eva Kasiska, 1947",
+ "Accession Number": "47.46.56a",
+ "Who": "Unknown",
+ "What": "Photographs",
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190056944,
+ "related-artworks": [
+  "http://scrapi.org/object/190060842",
+  "http://scrapi.org/object/190060838",
+  "http://scrapi.org/object/190060869",
+  "http://scrapi.org/object/190060941",
+  "http://scrapi.org/object/190060942"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "[...]",
+  "Eva Kasiska, Pocatello, Idaho"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190060842"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190060838"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190060869"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190060941"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190060942"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190056944"
+  }
+ }
+}

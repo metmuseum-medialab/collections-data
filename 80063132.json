@@ -1,0 +1,32 @@
+{
+ "Date": "1911–16",
+ "Culture": "French",
+ "Medium": "[no medium available]",
+ "Dimensions": "Height 12 in. (30.5 cm)",
+ "Credit Line": "Gift of Claras, 1972",
+ "Accession Number": "1972.154.7",
+ "Who": "Lafitte Desirat",
+ "What": "Toys",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80063132,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1972.154.7_F.jpg",
+ "related-artworks": [
+  80063135,
+  80063134,
+  80063111,
+  80063113,
+  80063112
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80063132"
+  }
+ }
+}

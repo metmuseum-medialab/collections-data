@@ -1,0 +1,45 @@
+{
+ "Artist": "After Alexander Roslin (Swedish, Malmö 1718–1793 Paris)",
+ "Sitter": "Portrait of Nikita Ivanovich Panin (Russian, 1718 - 1783)",
+ "Date": "1792",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "Sheet 21 1/2 × 14 7/16 in. (54.6 × 36.7 cm)",
+  "Plate 16 1/4 × 11 15/16 in. (41.2 × 30.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Humanities Fund, Inc., The Boris Bakhmeteff Collection, 1972",
+ "Accession Number": "1972.744.39",
+ "Who": [
+  "Alexander Roslin",
+  "Antoine Radigues",
+  "Nikita Ivanovich Panin"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90056699,
+ "related-artworks": [
+  90013885,
+  90087952,
+  90050679,
+  90000410,
+  90000409
+ ],
+ "Provenance": [
+  "Donor: Mrs. Boris Bakhmeteff"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90056699"
+  }
+ }
+}

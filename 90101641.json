@@ -1,0 +1,53 @@
+{
+ "Artist": "After Jean-Jacques-François Le Barbier (French, Rouen 1738–1826 Paris)",
+ "Author": "Ovid (Roman, Sulmo 43 B.C.–A.D. 17 Tomis, Moesia)",
+ "Translator": "G. T. Villenave",
+ "Printer": "Pierre Didot l'ainé (French, 1761–1853)",
+ "Publisher": "Ch. Guestard (French)",
+ "Date": "1807",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Sheet 14 3/8 × 10 1/4 in. (36.5 × 26 cm)",
+  "Plate 12 5/8 × 9 5/8 in. (32 × 24.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1946",
+ "Accession Number": "46.132.1",
+ "Who": [
+  "Ovid",
+  "Pierre Didot l'ainé",
+  "Ch. Guestard",
+  "F. Gay",
+  "G. T. Villenave",
+  "Jean-Jacques-François Le Barbier",
+  "Abraham Pietersz Hulk"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90101641,
+ "related-artworks": [
+  90100992,
+  90101340,
+  90101341,
+  90101342,
+  90101344
+ ],
+ "Provenance": [
+  "Vendor: H. P. Kraus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90101641"
+  }
+ }
+}

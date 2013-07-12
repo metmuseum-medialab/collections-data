@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1550",
+ "Culture": "Italian (Urbino)",
+ "Medium": "Maiolica (tin-enameled earthenware)",
+ "Dimensions": "Overall 2 x 10 1/8 in. (5.1 x 25.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+ "Accession Number": "32.100.370",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Maiolica"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Urbino"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120012123,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/88404.jpg",
+ "related-artworks": [
+  120002141,
+  120003302,
+  120012118,
+  120012132,
+  120012136
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120012123"
+  }
+ }
+}

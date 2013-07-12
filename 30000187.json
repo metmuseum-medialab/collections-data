@@ -1,0 +1,66 @@
+{
+ "Period": "Sasanian",
+ "Date": "ca. 3rd–7th century A.D.",
+ "Geography": "Iran or Mesopotamia",
+ "Culture": "Sasanian",
+ "Medium": "Onyx, nicolo",
+ "Dimensions": "0.28 x 0.12 x 0.35 in. (0.71 x 0.3 x 0.89 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Gift of John Taylor Johnston, 1881",
+ "Accession Number": "81.6.266",
+ "Who": "Sasanian",
+ "What": [
+  "Stone",
+  "Chalcedony",
+  "Seals",
+  "Onyx"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 1–500A.D.",
+  "Iran, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 30000187,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss81_6_266.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/30000205",
+  "http://scrapi.org/object/30000206",
+  "http://scrapi.org/object/30000186",
+  "http://scrapi.org/object/30000903",
+  "http://scrapi.org/object/30001161"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Formerly collection of George Eastwood, London",
+  "before 1866, purchased by Rev. Charles W. King, Trinity College, Cambridge, England",
+  "1881, purchased by John Taylor Johnston, New York, from Rev. Charles W. King, through Gaston L. Feuardent",
+  "acquired by the Museum in 1881, gift of John Taylor Johnston."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000205"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000206"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000186"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000903"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30001161"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/30000187"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "early 17th century",
+ "Culture": "Italian (Venice)",
+ "Medium": "Bronze",
+ "Dimensions": "H. 22-1/2 in. (57.1 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.185",
+ "Who": "Niccolò Roccatagliata",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120006216,
+ "gallery-id": 536,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP236680.jpg",
+ "related-artworks": [
+  120010550,
+  120010549,
+  120010147,
+  120014734,
+  120010155
+ ],
+ "Provenance": [
+  "[ Julius Böhler , 1910 ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006216"
+  }
+ }
+}

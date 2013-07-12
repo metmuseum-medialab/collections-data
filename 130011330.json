@@ -1,0 +1,41 @@
+{
+ "Period": "Late Classical",
+ "Date": "ca. 330–310 B.C.",
+ "Culture": "Greek, South Italian, Apulian",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": "H. 10.80 cm.",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.192.81.4",
+ "Who": "Baltimore Painter",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Kraters",
+  "Volute kraters"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011330,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP19192814.jpg",
+ "related-artworks": [
+  130011297,
+  130011298,
+  130011299,
+  130011307,
+  130011319
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011330"
+  }
+ }
+}

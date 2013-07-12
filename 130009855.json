@@ -1,0 +1,48 @@
+{
+ "Period": "Late Imperial",
+ "Date": "3rd–4th century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": "H. 4 5/16 in. (11 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.131",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009855,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130000070"
+   },
+   {
+    "href": "http://scrapi.org/object/130000073"
+   },
+   {
+    "href": "http://scrapi.org/object/130000106"
+   },
+   {
+    "href": "http://scrapi.org/object/130000142"
+   },
+   {
+    "href": "http://scrapi.org/object/130000148"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130009855"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130009855"
+  }
+ }
+}

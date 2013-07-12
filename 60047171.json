@@ -1,0 +1,41 @@
+{
+ "Period": "20th century",
+ "Culture": "China",
+ "Medium": "Drawing; unmounted sheet with two designs for fans; ink on tracing paper",
+ "Dimensions": "Overall (each sheet) 25 5/16 x 22 15/16 in. (64.3 x 58.2 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Sarah Shay, 2005",
+ "Accession Number": "2005.411.175",
+ "Who": "Xie Zhiliu",
+ "What": [
+  "Costume",
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Fans"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "id": 60047171,
+ "related-artworks": [
+  60047232,
+  60046709,
+  60047165,
+  60047167,
+  60047168
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60047171"
+  }
+ }
+}

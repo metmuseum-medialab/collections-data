@@ -1,0 +1,39 @@
+{
+ "Date": "14th century",
+ "Culture": "Italian",
+ "Medium": "Ivory",
+ "Dimensions": "Overall 1 9/16 x 3 7/8 x 3/8 in. (3.9 x 9.8 x 0.9 cm)",
+ "Classification": "Ivories",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.244",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Plaques"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004113,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-244s1.jpg",
+ "related-artworks": [
+  170003875,
+  170004128,
+  170004227,
+  170004407,
+  170004127
+ ],
+ "Provenance": [
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004113"
+  }
+ }
+}

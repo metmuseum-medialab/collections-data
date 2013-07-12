@@ -1,0 +1,45 @@
+{
+ "Date": "mid-20th century",
+ "Geography": "Indonesia, Papua Province (Irian Jaya), Omadesep village, Faretsj River region",
+ "Culture": "Asmat people",
+ "Medium": "wood, lizard skin",
+ "Dimensions": "H. 22 3/4 in. (57.8 cm)",
+ "Classification": "Wood-Musical Instruments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection; Gift of Nelson A. Rockefeller and Mrs. Mary C. Rockefeller, 1965",
+ "Accession Number": "1978.412.992",
+ "Who": "Aiombiu",
+ "What": [
+  "Leather",
+  "Musical instruments",
+  "Membranophones",
+  "Drums",
+  "Lizard leather"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Irian Jaya"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1900 A.D.–present",
+ "id": 50004028,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1978_412_992.jpg",
+ "related-artworks": [
+  50004007,
+  50004010,
+  50003994,
+  50004014,
+  50003995
+ ],
+ "Provenance": [
+  "Michael C. Rockefeller Expedition, collected 1961",
+  "Nelson A. Rockefeller, New York, 1961–1965",
+  "The Museum of Primitive Art, New York, 1965–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50004028"
+  }
+ }
+}

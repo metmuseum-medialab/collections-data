@@ -1,0 +1,38 @@
+{
+ "Period": "Late Imperial",
+ "Date": "late 2nd–3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Gold, beryl",
+ "Dimensions": "Other 11/16 in. (1.7 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "Purchase by subscription, 1895",
+ "Accession Number": "95.15.131",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Rings",
+  "Beryl"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006404,
+ "gallery-id": 169,
+ "related-artworks": [
+  130007289,
+  130011504,
+  130006565,
+  130011472,
+  130012426
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006404"
+  }
+ }
+}

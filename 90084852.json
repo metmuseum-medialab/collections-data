@@ -1,0 +1,47 @@
+{
+ "Printer": "Lemercier (Paris)",
+ "Publisher": "Paulin et Le Chevalier",
+ "Date": "1853",
+ "Medium": "Lithograph; first state of two (Armelhault & Bocher)",
+ "Dimensions": [
+  "Sheet 9 1/4 x 7 1/16 in. (23.5 x 18 cm)",
+  "Image 7 7/8 x 6 3/8 in. (20 x 16.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers, Harris Brisbane Dick, and The Elisha Whittelsey Funds, 1961",
+ "Accession Number": "61.653.3",
+ "Who": [
+  "Paul Gavarni [Chevalier]",
+  "Lemercier",
+  "Paulin et Le Chevalier"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90084852,
+ "related-artworks": [
+  90018048,
+  90024410,
+  90028473,
+  90032320,
+  90049446
+ ],
+ "Provenance": [
+  "Donor: Philadelphia Museum of Art by Exchange"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90084852"
+  }
+ }
+}

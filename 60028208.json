@@ -1,0 +1,40 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "12 1/8 x 5 3/8 in. (30.8 x 13.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+ "Accession Number": "JP2764",
+ "Who": "Torii Kiyomitsu",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60028208,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP123722.jpg",
+ "related-artworks": [
+  60026531,
+  60026756,
+  60027669,
+  60000773,
+  60001021
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028208"
+  }
+ }
+}

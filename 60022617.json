@@ -1,0 +1,48 @@
+{
+ "Artist": "In the style of Lü Ji (Chinese, active late 15th century)",
+ "Period": "Ming dynasty (?) (1368–1644)",
+ "Culture": "China",
+ "Medium": "Hanging scroll; ink and color on silk",
+ "Dimensions": "75 x 38 7/8 in. (190.5 x 98.7 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947",
+ "Accession Number": "47.18.105",
+ "Who": [
+  "Unidentified Artist",
+  "Lü Ji"
+ ],
+ "What": [
+  "Silk",
+  "Ink",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1600–1800 A.D.",
+  "China, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60022617,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/47_18_105_d.jpg",
+ "related-artworks": [
+  60000128,
+  60000139,
+  60006851,
+  60007480,
+  60008761
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60022617"
+  }
+ }
+}

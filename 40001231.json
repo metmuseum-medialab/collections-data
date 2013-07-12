@@ -1,0 +1,59 @@
+{
+ "Date": "A.D. 700 or later",
+ "Culture": "Japanese",
+ "Medium": "Iron of looped links of heavy wire",
+ "Dimensions": [
+  "L 13 1/2 in.  ( 34.29 cm)",
+  "L. 13-1/2\""
+ ],
+ "Classification": "Equestrian Equipment",
+ "Credit Line": "Fletcher Fund, 1928",
+ "Accession Number": "28.60.39–40",
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Iron",
+  "Wire",
+  "Stirrups",
+  "Chains"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40001231,
+ "related-artworks": [
+  "http://scrapi.org/object/40000900",
+  "http://scrapi.org/object/40000280",
+  "http://scrapi.org/object/40000282",
+  "http://scrapi.org/object/40000283",
+  "http://scrapi.org/object/40000285"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000900"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000280"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000282"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000283"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000285"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40001231"
+  }
+ }
+}

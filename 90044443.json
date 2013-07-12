@@ -1,0 +1,46 @@
+{
+ "Translator": "Translated by Querico Viviani (Italian)",
+ "Illustrator": "Illustrated by Vincenzo Tuzzi (Italian)",
+ "Publisher": "Published by Fratelli Mattiuzzi (Italian, active 19th century)",
+ "Date": "1830–32",
+ "Medium": "Printed book with engraved illustrations",
+ "Dimensions": "Overall 9 x 5 1/2 x 7/8 in. (22.8 x 14 x 2.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.100.437.10",
+ "Who": [
+  "Marcus Pollio Vitruvius",
+  "Fratelli Mattiuzzi",
+  "Querico Viviani",
+  "Vincenzo Tuzzi"
+ ],
+ "What": [
+  "Engraving",
+  "Books",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90044443,
+ "related-artworks": [
+  90044611,
+  90042409,
+  90042410,
+  90042542,
+  90044419
+ ],
+ "Provenance": [
+  "William Gedney Beatty"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90044443"
+  }
+ }
+}

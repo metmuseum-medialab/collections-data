@@ -1,0 +1,40 @@
+{
+ "Date": "1961, printed 1990",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Arthur Stephen Penn and Marilyn Penn, 1991",
+ "Accession Number": "1991.1351",
+ "Rights and Reproduction": "© William Klein",
+ "Who": "William Klein",
+ "What": [
+  "Prints",
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Kodak and the Rise of Amateur Photography",
+  "Photography and Everyday Life in America, 1945–60",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190024135,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/MM83394.jpg",
+ "related-artworks": [
+  190024131,
+  190024132,
+  190024133,
+  190024134,
+  190016845
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190024135"
+  }
+ }
+}

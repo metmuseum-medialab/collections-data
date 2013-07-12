@@ -1,0 +1,70 @@
+{
+ "Designer": "Karl Lagerfeld (French, born Hamburg, 1938)",
+ "Date": "spring/summer 2004",
+ "Culture": "French",
+ "Medium": "cotton, silk, feathers, plastic",
+ "Dimensions": "Length at CB 58 in. (147.3 cm)",
+ "Credit Line": "Gift of Mrs. Charles Wrightsman, 2005",
+ "Accession Number": "2005.324.1",
+ "Who": [
+  "House of Chanel",
+  "Karl Lagerfeld"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Dresses",
+  "Plastic",
+  "Evening dresses",
+  "Feather"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Gabrielle \"Coco\" Chanel (1883–1971) and the House of Chanel",
+  "Costume in The Metropolitan Museum of Art",
+  "Dressing for the Cocktail Hour",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80054248,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DP123537.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/DP123537.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/2005.324.1_label2.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/2005.324.1_label.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/2005.324.1_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/2005.324.1_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/2005.324.1_d1.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80004386"
+   },
+   {
+    "href": "http://scrapi.org/object/80004883"
+   },
+   {
+    "href": "http://scrapi.org/object/80019871"
+   },
+   {
+    "href": "http://scrapi.org/object/80101314"
+   },
+   {
+    "href": "http://scrapi.org/object/80004895"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80054248"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80054248"
+  }
+ }
+}

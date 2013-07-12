@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1895",
+ "Culture": "French",
+ "Medium": "Stoneware",
+ "Dimensions": "H. 2-1/4 in. (5.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Alice Stern, 1991",
+ "Accession Number": "1991.166.2",
+ "Who": "Alexandre Bigot",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Stoneware",
+  "Pitchers"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120024136,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES3732.jpg",
+ "related-artworks": [
+  210007702,
+  120024137,
+  210007695,
+  210007694,
+  120024138
+ ],
+ "Provenance": [
+  "Mrs. Alice Stern (until 1991",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120024136"
+  }
+ }
+}

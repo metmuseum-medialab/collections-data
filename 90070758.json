@@ -1,0 +1,45 @@
+{
+ "Publisher": "WPA",
+ "Date": "1935–43",
+ "Medium": "Colored woodcut",
+ "Dimensions": [
+  "sheet 15 7/16 x 18 in. (39.2 x 45.7 cm)",
+  "block 11 13/16 x 14 1/8 in. (30 x 35.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, New York, 1943",
+ "Accession Number": "43.33.988",
+ "Who": [
+  "WPA",
+  "Louis Schanker"
+ ],
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90070758,
+ "related-artworks": [
+  90070748,
+  90070749,
+  90070750,
+  90070751,
+  90070752
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90070758"
+  }
+ }
+}

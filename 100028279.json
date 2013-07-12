@@ -1,0 +1,42 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1479–1425 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Glazed steatite",
+ "Dimensions": "H. 2 cm (13/16 in)",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1905",
+ "Accession Number": "05.3.264",
+ "What": [
+  "Glazing",
+  "Amulets",
+  "Plaques",
+  "Talc",
+  "Steatite",
+  "Cartouches"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100028279,
+ "related-artworks": [
+  100006036,
+  100007414,
+  100008135,
+  100028036,
+  100028037
+ ],
+ "Provenance": [
+  "Ex collection John Ward (before 1902). Collection purchased by J. Pierpont Morgan and donated to the Museum, 1905."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100028279"
+  }
+ }
+}

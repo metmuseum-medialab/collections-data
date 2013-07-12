@@ -1,0 +1,36 @@
+{
+ "Culture": "New Zealand",
+ "Medium": "Jadeite",
+ "Dimensions": "L. 11 1/4 in. (28.5 cm); W. 3 15/16 in. (10 cm); D. 1 7/8 in. (4.8 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.299",
+ "What": [
+  "Jade",
+  "Jadeite"
+ ],
+ "Where": [
+  "Oceania",
+  "New Zealand"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 60011286,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/02_18_299.JPG",
+ "related-artworks": [
+  60011146,
+  60011147,
+  60011152,
+  60011148,
+  60011149
+ ],
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60011286"
+  }
+ }
+}

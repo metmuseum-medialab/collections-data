@@ -1,0 +1,57 @@
+{
+ "Publisher": "Israël Henriet (French, Nancy ca. 1590–1661 Paris)",
+ "Date": "1636",
+ "Medium": "Etching; second state of two (Lieure)",
+ "Dimensions": "Sheet 2 9/16 x 1 15/16 in. (6.5 x 5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1917",
+ "Accession Number": "17.50.17-371",
+ "Who": [
+  "Jacques Callot",
+  "Israël Henriet"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90094688,
+ "Description": "This print is part of a series comprised of a title page, frontispiece, and 122 plates.  Each of these 122 plates contains four oval scenes depicting Saints and Religious Events for each day of the year.  This etching was originally one of four oval scenes on a plate in the series.",
+ "Provenance": [
+  "Earls of Pembroke (British, Wilton House, near Salisbury, Wiltshire)",
+  "Sotheby's, LondonWilton House Sale, July 1917",
+  "Colnaghi & Co. (London)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90014436"
+   },
+   {
+    "href": "http://scrapi.org/object/90028114"
+   },
+   {
+    "href": "http://scrapi.org/object/90072437"
+   },
+   {
+    "href": "http://scrapi.org/object/90073397"
+   },
+   {
+    "href": "http://scrapi.org/object/90073410"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90094688"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90094688"
+  }
+ }
+}

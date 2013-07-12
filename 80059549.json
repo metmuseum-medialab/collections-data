@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1900",
+ "Culture": "Thai (Lu Mien Yao peoples)",
+ "Medium": "silver",
+ "Dimensions": [
+  "Width (a) 2 3/4 in. (7 cm)",
+  "Width (b) 2 3/4 in. (7 cm)"
+ ],
+ "Credit Line": "Purchase, Gould Family Foundation Gift, in memory of Jo Copeland, 2005",
+ "Accession Number": "2005.355a, b",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Jewelry",
+  "Bracelets"
+ ],
+ "Where": [
+  "Asia",
+  "Thailand"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1800–1900 A.D.",
+  "Southeast Asia, 1900 A.D.–present"
+ ],
+ "id": 80059549,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/TR.364.1ab.2005.jpg",
+ "related-artworks": [
+  80062666,
+  80062665,
+  80006115,
+  80025211,
+  80079458
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80059549"
+  }
+ }
+}

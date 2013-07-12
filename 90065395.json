@@ -1,0 +1,44 @@
+{
+ "Artist": "William Sharp (British, London 1749–1824 London)",
+ "Publisher": "Thomas Macklin (British, active 1787–1800)",
+ "Date": "August 12, 1792",
+ "Medium": "Etching and engraving; before title; Baker third state of five; Hamilton: second state of three",
+ "Dimensions": "sheet (trimmed within plate) 24 3/16 x 18 7/16 in. (61.5 x 46.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Manuel Schonhorn, 2009",
+ "Accession Number": "2009.545.2",
+ "Who": [
+  "Sir Joshua Reynolds",
+  "William Sharp",
+  "Thomas Macklin"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90065395,
+ "related-artworks": [
+  90024033,
+  90050122,
+  90050144,
+  90050146,
+  90050154
+ ],
+ "Provenance": [
+  "Donor: Manuel and Bonnie Schonhorn (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90065395"
+  }
+ }
+}

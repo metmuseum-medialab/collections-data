@@ -1,0 +1,37 @@
+{
+ "Date": "1972",
+ "Culture": "American",
+ "Medium": "leather",
+ "Dimensions": "Heel to Toe 8 1/2 in. (21.6 cm)",
+ "Credit Line": "Gift of Herbert Levine, 1975",
+ "Accession Number": "1975.113a, b",
+ "Who": "Herbert Levine Inc.",
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Sandals"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80047714,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1975.113ab_F.jpg",
+ "related-artworks": [
+  80108697,
+  80003163,
+  80006596,
+  80010549,
+  80046239
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80047714"
+  }
+ }
+}

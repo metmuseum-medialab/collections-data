@@ -1,0 +1,24 @@
+{
+ "Date": "1966",
+ "Classification": "Books",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.263",
+ "Who": "Tom S. Matthews",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190028744,
+ "related-artworks": [
+  190036611,
+  190034924,
+  190035532,
+  190034924,
+  190035532
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028744"
+  }
+ }
+}

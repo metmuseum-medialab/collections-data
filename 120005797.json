@@ -1,0 +1,48 @@
+{
+ "Date": "1769–80",
+ "Culture": "British, Etruria, Staffordshire",
+ "Medium": "Porphyry ware",
+ "Dimensions": "H. 7 5/8 in.  (19.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.194.30 ab",
+ "Who": "Wedgwood  Bentley",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Vases",
+  "Porphyry"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120005797,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/181860.jpg",
+ "related-artworks": [
+  120005785,
+  120005961,
+  120013635,
+  120013650,
+  120006454
+ ],
+ "Provenance": [
+  "George Wills (until 1908",
+  "his sale, Fifth Avenue Art Galleries, New York, February 15, 1908, no. 240)",
+  "Mrs. Garrett Ryckman Pier (until 1909",
+  "her sale, American Art Galleries, New York, November 19, 1909, no. 807",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120005797"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "18th century",
+ "Geography": "Morocco, Azemmour",
+ "Medium": "Cotton",
+ "Dimensions": "14 in. high 102.00 in. wide (35.6 cm high 259.1 cm wide)",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Richard B. Seager, 1926",
+ "Accession Number": "26.34.75",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Needlework",
+  "Embroidery",
+  "Valances"
+ ],
+ "Where": [
+  "Africa",
+  "Morocco",
+  "Azemmour"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Western North Africa (The Maghrib), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005157,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/63151.jpg",
+ "related-artworks": [
+  140004944,
+  140002896,
+  140002899,
+  140002900,
+  140002901
+ ],
+ "Provenance": [
+  "Richard B. Seager, Crete (until d. 1925)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005157"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Date": "1789",
+ "Medium": "Oil on canvas",
+ "Dimensions": "71 x 107 in. (180.3 x 271.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Purchase, Pauline V. Fullerton Bequest; Mr. and Mrs. James Walter Carter and Mr. and Mrs. Raymond J. Horowitz Gifts; Erving Wolf Foundation and Vain and Harry Fish Foundation Inc. Gifts; Gift of Hanson K. Corning, by exchange; and Maria DeWitt Jesup and Morris K. Jesup Funds, 1976",
+ "Accession Number": "1976.332",
+ "Who": "John Trumbull",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "Students of Benjamin West (1738–1820)",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20013200,
+ "gallery-id": 753,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DT61.jpg",
+ "related-artworks": [
+  20013194,
+  20013195,
+  20013197,
+  20013191,
+  20013199
+ ],
+ "Description": "This painting depicts the events of the night of November 26, 1781, when British troops, long besieged by Spanish forces at Gibraltar, made a sortie, or sudden attack, against the encroaching enemy batteries. The focal point of the painting is the tragic death of the  Spanish officer Don Jose de Barboza. Abandoned by his fleeing troops, he charged the attacking column alone, fell mortally wounded, and, refusing all assistance, died near his post. Trumbull portrays him  rejecting the aid of General George Eliott, commander of the British troops. This work, the largest and last of three versions of the subject that Trumbull executed between 1786 and 1789, demonstrates his ambition to solidify his reputation on the basis of the highly respected genre of history painting.",
+ "Provenance": [
+  "John Trumbull, 1789–May 1824",
+  "Private collection, England, 1824–27",
+  "John Trumbull, 1827–28",
+  "Boston Athenaeum, 1828–1976",
+  "with  Hirschl & Adler Galleries, New York, 1976"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20013200"
+  }
+ }
+}

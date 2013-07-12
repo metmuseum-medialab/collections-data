@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1750",
+ "Culture": "French (Lyons)",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 53 x W. 21 3/8 inches (loom width) (134.6 x 54.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Anonymous Gift, 1949",
+ "Accession Number": "49.32.57a, b",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Panels"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Rhône",
+  "Lyon"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120045149,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/114315.jpg",
+ "related-artworks": [
+  120040660,
+  120044037,
+  120044038,
+  120012666,
+  120044039
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120045149"
+  }
+ }
+}

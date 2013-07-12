@@ -1,0 +1,77 @@
+{
+ "Artist": "Decorated by Geneviève-Louise Bouillat (active 1776–98)",
+ "Maker": "Gilder Michel-Barnabé Chauvaux (active 1752–88)",
+ "Date": "1780",
+ "Culture": "French (Sèvres)",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. 1 in. (2.5 cm.); Diam. 9 5/8 in. (24.4 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Emma T. Gary, 1937",
+ "Accession Number": "37.20.60",
+ "Who": [
+  "Sèvres Manufactory",
+  "Michel-Barnabé Chauvaux",
+  "Edme François Bouillat père",
+  "Geneviève-Louise Bouillat"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Sèvres"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Sèvres Porcelain in the Nineteenth Century",
+  "Empire Style, 1800–1815",
+  "Jean–Baptiste Carpeaux (1827–1875)",
+  "French Furniture in the Eighteenth Century Case Furniture",
+  "Exoticism in the Decorative Arts",
+  "Art Nouveau",
+  "Saint Petersburg",
+  "Louis–Rémy Robert (1810–1882)",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120012827,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/110853.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120005725",
+  "http://scrapi.org/object/120012915",
+  "http://scrapi.org/object/120022539",
+  "http://scrapi.org/object/120005733",
+  "http://scrapi.org/object/120005729"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120005725"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120012915"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120022539"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120005733"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120005729"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120012827"
+  }
+ }
+}

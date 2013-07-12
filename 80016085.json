@@ -1,0 +1,62 @@
+{
+ "Date": "spring/summer 1989",
+ "Culture": "American",
+ "Medium": "(a, b, d) synthetic; (c, e) Lucite",
+ "Dimensions": [
+  "Total Length (a) 66 in. (167.6 cm)",
+  "Length at CB (b) 20 1/2 in. (52.1 cm)",
+  "Total Length (c) 34 in. (86.4 cm)",
+  "Length at CF (d) 8 in. (20.3 cm)",
+  "Total Length (e) 8 1/4 in. (21 cm)"
+ ],
+ "Credit Line": "Gift of Martin F. Price, 1998",
+ "Accession Number": "1998.493.542a–e",
+ "Who": "Giorgio di Sant'Angelo",
+ "What": "Ensembles",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80016085,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1998.493.542a–d_F.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80000762",
+  "http://scrapi.org/object/80003679",
+  "http://scrapi.org/object/80003678",
+  "http://scrapi.org/object/80013318",
+  "http://scrapi.org/object/80015629"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1998.493.542a–d_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1998.493.542a–d_TQR.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1998.493.542a–d_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1998.493.542a–d_d.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1998.493.542e_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1998.493.542e_B.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80000762"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80003679"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80003678"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80013318"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80015629"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80016085"
+  }
+ }
+}

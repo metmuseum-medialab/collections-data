@@ -1,0 +1,42 @@
+{
+ "Date": "2000",
+ "Medium": "Wood engraving",
+ "Dimensions": [
+  "sheet  20-3/4  x 17-1/4 inches (52.7 x 43.8 cm)",
+  "plate  8-1/4 x 10-1/4 inches (21 x 26 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Catherine Woodard and Nelson Blitz Jr. Gift, in honor of their daughters, Perri and Allison Blitz, 2002",
+ "Accession Number": "2002.127",
+ "Who": "Vija Celmins",
+ "What": [
+  "Prints",
+  "Engraving",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90020866,
+ "related-artworks": [
+  90068566,
+  90005309,
+  90008037,
+  90011085,
+  90020796
+ ],
+ "Provenance": [
+  "Vendor: Grenfell Press (New York, NY)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90020866"
+  }
+ }
+}

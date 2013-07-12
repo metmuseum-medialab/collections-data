@@ -1,0 +1,34 @@
+{
+ "Date": "early 19th century",
+ "Culture": "French",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase, 1985, Funds From Various Donors",
+ "Accession Number": "1985.151.4f",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Samples"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 120047589,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP7451.jpg",
+ "related-artworks": [
+  120035580,
+  120036845,
+  120036848,
+  120036873,
+  120036876
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120047589"
+  }
+ }
+}

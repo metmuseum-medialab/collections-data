@@ -1,0 +1,44 @@
+{
+ "Date": "3rd century",
+ "Culture": "Late Roman",
+ "Medium": "Copper alloy",
+ "Dimensions": "Overall 1 13/16 x 5/8 x 5/8 in. (4.6 x 1.6 x 1.6 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Bastiaan Blok, 1992",
+ "Accession Number": "1992.108.3",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Jewelry",
+  "Copper",
+  "Pins",
+  "Brooches"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170006154,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf1992-108-3s4.jpg",
+ "related-artworks": [
+  170004844,
+  170006153,
+  170010717,
+  170004704,
+  170006178
+ ],
+ "Provenance": [
+  "W. Bastiaan Blok(until 1992)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006154"
+  }
+ }
+}

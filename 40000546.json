@@ -1,0 +1,49 @@
+{
+ "Date": "late 16th century",
+ "Culture": "German",
+ "Medium": "Steel, engraved, silvered, and gilt; brass; leather",
+ "Dimensions": "Length 21 1/2 in.  ( 54.61 cm)",
+ "Classification": "Armor Parts",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.906",
+ "What": [
+  "Metal",
+  "Costume",
+  "Engraving",
+  "Copper alloy",
+  "Gilt",
+  "Iron and iron alloy",
+  "Leather",
+  "Brass",
+  "Iron alloy",
+  "Steel",
+  "Armor",
+  "Gloves",
+  "Gauntlets"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40000546,
+ "gallery-id": 376,
+ "related-artworks": [
+  40001058,
+  40003137,
+  40014240,
+  40001057,
+  40001485
+ ],
+ "Description": "The exquisitely detailed decoration is undoubtedly the work of an important though unidentified engraver. The equestrian figure represents King David, one of the legendary Nine Worthies. His symbol, the harp, is emblazoned on his banner.",
+ "Provenance": [
+  "Ex coll.:  Frédéric Spitzer, Paris"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000546"
+  }
+ }
+}

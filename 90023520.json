@@ -1,0 +1,32 @@
+{
+ "Publisher": "Published by Imprimerie Cadart et Luce",
+ "Date": "1871",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1963",
+ "Accession Number": "63.629.14",
+ "Who": [
+  "Imprimerie Cadart et Luce",
+  "Adolphe-Martial Potément, called Martial"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023520,
+ "related-artworks": [
+  90027811,
+  90023521,
+  90028188,
+  90017730
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023520"
+  }
+ }
+}

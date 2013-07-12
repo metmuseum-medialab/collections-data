@@ -1,0 +1,35 @@
+{
+ "Date": "1647",
+ "Medium": "plates engraving",
+ "Dimensions": "Overall 8 11/16 x 11 7/16 x 9/16 in. (22 x 29 x 1.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1931",
+ "Accession Number": "31.70.2",
+ "Who": "Petré",
+ "What": [
+  "Engraving",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023139,
+ "related-artworks": [
+  90011917,
+  90012535,
+  90012536,
+  90012586,
+  90012588
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023139"
+  }
+ }
+}

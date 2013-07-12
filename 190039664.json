@@ -1,0 +1,54 @@
+{
+ "Date": "1858–59",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "Image 23.2 x 17.2; Sheet: 25.05 x 22.1",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 2005",
+ "Accession Number": "2005.100.816",
+ "Who": "Charles Nègre",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Rise of Paper Photography in 1850s France",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190039664,
+ "Provenance": [
+  "Joseph Negre, Cannes, France,  April 1, 1985",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190018933"
+   },
+   {
+    "href": "http://scrapi.org/object/190035143"
+   },
+   {
+    "href": "http://scrapi.org/object/190036325"
+   },
+   {
+    "href": "http://scrapi.org/object/190039282"
+   },
+   {
+    "href": "http://scrapi.org/object/190039655"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190039664"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190039664"
+  }
+ }
+}

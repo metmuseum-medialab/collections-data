@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1785",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "15 3/8 x 10 1/8 in. (39.1 x 25.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+ "Accession Number": "JP2802",
+ "Who": "Torii Kiyonaga",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60028269,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP124178.jpg",
+ "related-artworks": [
+  60000708,
+  60001268,
+  60001271,
+  60000704,
+  60000705
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028269"
+  }
+ }
+}

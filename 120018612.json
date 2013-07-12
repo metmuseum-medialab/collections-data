@@ -1,0 +1,49 @@
+{
+ "Modeler": "Johann Joachim Kändler (German, Fischbach 1706–1775 Meissen)",
+ "Date": "ca. 1741",
+ "Culture": "German (Meissen)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 9-5/8 in. (24.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.127",
+ "Who": [
+  "Meissen Manufactory",
+  "Johann Joachim Kändler"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Saxony",
+  "Meissen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120018612,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES2608.jpg",
+ "related-artworks": [
+  120018650,
+  120018654,
+  120018658,
+  120001425,
+  120001953
+ ],
+ "Provenance": [
+  "Baron Max von Goldschmidt-Rothschild",
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120018612"
+  }
+ }
+}

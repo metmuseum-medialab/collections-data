@@ -1,0 +1,43 @@
+{
+ "Period": "Iron Age",
+ "Date": "ca. 9th century B.C.",
+ "Geography": "Northwestern Iran",
+ "Medium": "Bronze",
+ "Dimensions": "7.72 in. (19.61 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mr. and Mrs. Nathaniel Spear, Jr., 1978",
+ "Accession Number": "1978.514.1",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Cages"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30005259,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME1978_514_1.jpg",
+ "related-artworks": [
+  30005260,
+  30001218,
+  30001219,
+  30001220,
+  30001213
+ ],
+ "Provenance": [
+  "By 1978, acquired in Beirut by Nathaniel Spear Jr.",
+  "acquired by the Museum in 1978, gift of Mr. and Mrs. Nathaniel Spear, Jr., New York. Published by the donor in A Treasury of Archaeological Bells (1978), no. 46."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30005259"
+  }
+ }
+}

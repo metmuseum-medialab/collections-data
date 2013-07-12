@@ -1,0 +1,51 @@
+{
+ "Date": "ca. 1700",
+ "Culture": "Italian, possibly Rome",
+ "Medium": "Painted and gilded elm and birch; green silk velvet (not original to frame)",
+ "Dimensions": "H. 19-3/8 x W. 23-3/4 x D. 19-3/8 in.  (49.2 x 60.3 x 49.2 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of Madame Lilliana Teruzzi, 1971",
+ "Accession Number": "1971.4.2",
+ "What": [
+  "Silk",
+  "Gilt",
+  "Wood",
+  "Furniture",
+  "Painting",
+  "Woodwork",
+  "Seating furniture",
+  "Frames",
+  "Stools",
+  "Birch",
+  "Elm"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Rome"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120025789,
+ "gallery-id": 508,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/196240.jpg",
+ "related-artworks": [
+  120013940,
+  120021366,
+  120020981,
+  120025992,
+  120021170
+ ],
+ "Provenance": [
+  "Prince Cesare Ludovico Ottoboni",
+  "Madame Lilliana Teruzzi (until 1971",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120025789"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "1700–1750",
+ "Culture": "French",
+ "Classification": "Daggers",
+ "Credit Line": "Gift of Jean Jacques Reubell, in memory of his mother, Julia C. Coster, and of his wife, Adeline E. Post, both of New York City, 1926",
+ "Accession Number": "26.145.153",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Knives",
+  "Daggers",
+  "Dirks"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40011036,
+ "related-artworks": [
+  40001121,
+  40010939,
+  40010935,
+  40010942,
+  40010921
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40011036"
+  }
+ }
+}

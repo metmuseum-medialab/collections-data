@@ -1,0 +1,52 @@
+{
+ "Publisher": "Published by Charles Antoine Jombert (French, 1712–1784)",
+ "Illustrator": "plates designed by Guido Reni (Italian, Bologna 1575–1642 Bologna)",
+ "Etcher": "etched by N. Dupuis Jr.",
+ "Date": "1755",
+ "Medium": "Printed book with etched illustrations",
+ "Dimensions": "Overall 11 3/4 x 9 1/8 x 1 11/16 in. (29.8 x 23.1 x 4.3 cm)",
+ "Classification": "Books",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.100.47",
+ "Who": [
+  "Raphael (Raffaello Sanzio  Santi)",
+  "Guido Reni",
+  "Charles Nicolas Cochin II",
+  "Titian (Tiziano Vecellio)",
+  "Charles Le Brun",
+  "Charles Antoine Jombert",
+  "Charles Nicolas Cochin I",
+  ". Dupuis Jr.",
+  "J. F. Poletnich"
+ ],
+ "What": [
+  "Etching",
+  "Books",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90020002,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP102039.jpg",
+ "related-artworks": [
+  90013844,
+  90015912,
+  90021717,
+  90027417,
+  90056181
+ ],
+ "Provenance": [
+  "Donor: William Gedney Beatty"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90020002"
+  }
+ }
+}

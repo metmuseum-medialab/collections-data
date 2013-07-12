@@ -1,0 +1,34 @@
+{
+ "Date": "mid-20th century",
+ "Medium": "Chesnut wood",
+ "Dimensions": [
+  "Length 699 mm",
+  "Weight 95 gr."
+ ],
+ "Classification": "Chordophone-Accessories",
+ "Credit Line": "Funds from various donors, 1983",
+ "Accession Number": "1983.118",
+ "What": [
+  "Musical instruments",
+  "Chordophones",
+  "Bows",
+  "Bass",
+  "Chestnut"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "MetPublications": "Search for related Met publications",
+ "id": 180016045,
+ "related-artworks": [
+  180015239,
+  180017217,
+  180015001,
+  180013298,
+  180014990
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016045"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Bronze-gilt, hard-paste porcelain",
+ "Dimensions": "Each 9 in.  (22.9 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Bequest of George Blumenthal, 1941",
+ "Accession Number": "41.190.62, .63",
+ "What": [
+  "Metal",
+  "Clay",
+  "Vessels",
+  "Copper alloy",
+  "Metalwork",
+  "Faience",
+  "Bronze",
+  "Porcelain",
+  "Gilt",
+  "Hard paste porcelain",
+  "Plate",
+  "Ormolu",
+  "Ewers"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013968,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/126118.jpg",
+ "related-artworks": [
+  120014459,
+  120023125,
+  120021317,
+  120056359,
+  120006629
+ ],
+ "Provenance": [
+  "possibly Lord Henry Cavendish Bentinck",
+  "George and Florence Blumenthal (before 1930–32",
+  "sale, George Blumenthal collection, Galerie Georges Petit, Paris, December 1–2, 1932, no. 90, pl. XLV",
+  "pair sold for fcs. 28,000",
+  "after 1932–1941)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013968"
+  }
+ }
+}

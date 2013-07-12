@@ -1,0 +1,37 @@
+{
+ "Period": "Han dynasty (206 B.C.–A.D. 220)",
+ "Date": "1st century B.C.",
+ "Culture": "China",
+ "Medium": "Cast bronze",
+ "Dimensions": "Diam. 8 7/8 in. (22.5 cm)",
+ "Classification": "Mirrors",
+ "Credit Line": "Bequest of Ann Eden Woodward, (Mrs. William Woodward Jr.), 1975",
+ "Accession Number": "1978.264.9",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Mirrors"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 60032730,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1978_264_9_215101.JPG",
+ "related-artworks": [
+  60048721,
+  60011912,
+  60012488,
+  60032412,
+  60032714
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60032730"
+  }
+ }
+}

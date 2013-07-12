@@ -1,0 +1,34 @@
+{
+ "Date": "June 18, 1858",
+ "Medium": "Ink and wash",
+ "Dimensions": "sheet 8 1/4 x 13 15/16 in. (21 x 35.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1924",
+ "Accession Number": "24.66.1405(53v)",
+ "Who": "Alexander Jackson Davis",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90068854,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP147204.jpg",
+ "related-artworks": [
+  90005765,
+  90005766,
+  90006943,
+  90006969,
+  90010737
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90068854"
+  }
+ }
+}

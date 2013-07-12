@@ -1,0 +1,42 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "1878",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "Image 14 1/2 x 9 7/8 in. (36.8 x 25.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of William S. Lieberman, 2005",
+ "Accession Number": "2007.49.315",
+ "Who": "Tsukioka Yoshitoshi",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60047562,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP148169.jpg",
+ "related-artworks": [
+  60047564,
+  60026411,
+  60026710,
+  60046698,
+  60046695
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60047562"
+  }
+ }
+}

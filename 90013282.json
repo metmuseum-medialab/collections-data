@@ -1,0 +1,36 @@
+{
+ "Artist": "C. Huette (French, 19th century)",
+ "Date": "1853",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1953",
+ "Accession Number": "53.599.3(1-3)",
+ "Who": [
+  "C. Bernard",
+  "C. Huette"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90013282,
+ "related-artworks": [
+  90002265,
+  90002350,
+  90002420,
+  90003853,
+  90004071
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90013282"
+  }
+ }
+}

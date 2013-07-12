@@ -1,0 +1,54 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Clay with crackled glaze and decoration in enamels and gold (Kyoto ware)",
+ "Dimensions": "H. 2 in. (5.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Charles Stewart Smith, 1893",
+ "Accession Number": "93.3.303a, b",
+ "Who": "Kinkozan",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Gold",
+  "Glaze",
+  "Enamels",
+  "Incense burners",
+  "Kyoto"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60034141,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60034120"
+   },
+   {
+    "href": "http://scrapi.org/object/60015805"
+   },
+   {
+    "href": "http://scrapi.org/object/60034612"
+   },
+   {
+    "href": "http://scrapi.org/object/60019428"
+   },
+   {
+    "href": "http://scrapi.org/object/60016461"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60034141"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60034141"
+  }
+ }
+}

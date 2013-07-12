@@ -1,0 +1,39 @@
+{
+ "Date": "16th century",
+ "Culture": "French",
+ "Medium": "Colorless glass",
+ "Dimensions": "Overall 4 15/16 x 9/16 in. (12.5 x 1.5 cm)",
+ "Classification": "Glass-Stained",
+ "Credit Line": "Gift of Dr. Bashford Dean, 1923",
+ "Accession Number": "23.229.5-27",
+ "What": [
+  "Glass",
+  "Fragments",
+  "Stained glass"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170006437,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cdi23-229-5-27.jpg",
+ "related-artworks": [
+  170006377,
+  170006378,
+  170006381,
+  170006367,
+  170006376
+ ],
+ "Provenance": [
+  "Bashford Dean, Riverdale, NY (until 1923)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006437"
+  }
+ }
+}

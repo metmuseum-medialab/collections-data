@@ -1,0 +1,35 @@
+{
+ "Date": "18th century",
+ "Culture": "British",
+ "Medium": "silk, metallic",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Purchase, Irene Lewisohn Bequest, 1962",
+ "Accession Number": "C.I.62.29.3",
+ "What": [
+  "Costume",
+  "Silk",
+  "Aprons"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80056749,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI62.29.3.jpg",
+ "related-artworks": [
+  80002726,
+  80024733,
+  80029624,
+  80055795,
+  80056127
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80056749"
+  }
+ }
+}

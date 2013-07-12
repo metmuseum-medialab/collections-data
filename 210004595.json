@@ -1,0 +1,53 @@
+{
+ "Manufacturer": "Grand Rapids Chair Company (Grand Rapids, Michigan)",
+ "Date": "ca. 1928",
+ "Medium": "Wood; metal",
+ "Dimensions": "33 1/4 x 72 x 20 in. (84.5 x 182.9 x 50.8 cm)",
+ "Classification": "Furniture",
+ "Credit Line": [
+  "Purchase, Theodore R. Gamble Jr. Gift, in honor of his mother,",
+  "Mrs. Theodore Robert Gamble Gift, 1985"
+ ],
+ "Accession Number": "1985.86.1",
+ "Who": [
+  "Kem Weber",
+  "Grand Rapids Chair Company"
+ ],
+ "What": [
+  "Metal",
+  "Furniture",
+  "Sideboards"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210004595,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT8061.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210004596"
+   },
+   {
+    "href": "http://scrapi.org/object/210011462"
+   },
+   {
+    "href": "http://scrapi.org/object/210004848"
+   },
+   {
+    "href": "http://scrapi.org/object/210011460"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210004595"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210004595"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18, early",
+ "Date": "ca. 1550–1425 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Dimensions": "L. 1.7 cm (11/16 in)",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1905",
+ "Accession Number": "05.3.399",
+ "What": [
+  "Sculpture",
+  "Faience",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100011829,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/05.3.399_EGDP013409.jpg",
+ "related-artworks": [
+  100001537,
+  100002151,
+  100006126,
+  100006321,
+  100007769
+ ],
+ "Provenance": [
+  "Ex collection John Ward (before 1902). Collection purchased by J. Pierpont Morgan and donated to the Museum, 1905."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100011829"
+  }
+ }
+}

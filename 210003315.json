@@ -1,0 +1,39 @@
+{
+ "Date": "1980",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "H. 42, W. 62-1/2 inches",
+  "(106.7 x 158.1 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mr. and Mrs. Klaus G. Perls, 1984",
+ "Accession Number": "1984.260",
+ "Who": "Walter Hatke",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210003315,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1984.260.jpg",
+ "related-artworks": [
+  210000759,
+  210000931,
+  210001233,
+  210001330,
+  210001649
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003315"
+  }
+ }
+}

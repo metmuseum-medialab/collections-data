@@ -1,0 +1,40 @@
+{
+ "Date": "1510–61",
+ "Medium": "Pen and brown ink",
+ "Dimensions": "13-1/8 x 8-9/16 in.  (33.3 x 21.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Walter C. Baker, 1971",
+ "Accession Number": "1972.118.7",
+ "Who": "Battista Franco",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90005885,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP809782.jpg",
+ "related-artworks": [
+  90005879,
+  90005888,
+  90005881,
+  90005882,
+  90005883
+ ],
+ "Provenance": [
+  "Earls of Pembroke (British, Wilton House, near Salisbury, Wiltshire)",
+  "Sotheby's, London, July 5–6, 9–10, 1917, part of no. 415.",
+  "Walter C. Baker, New York",
+  "Donor: Walter C. Baker"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005885"
+  }
+ }
+}

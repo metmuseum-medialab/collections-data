@@ -1,0 +1,32 @@
+{
+ "Culture": "Neolithic",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 1.50 cm.",
+ "Classification": "Vases",
+ "Credit Line": "Gift of Gisela M. A. Richter, 1923",
+ "Accession Number": "23.121.34",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011822,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP21398.jpg",
+ "related-artworks": [
+  130001427,
+  130004286,
+  130005228,
+  130005207,
+  130006655
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011822"
+  }
+ }
+}

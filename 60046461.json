@@ -1,0 +1,43 @@
+{
+ "Period": "Liao dynasty (907–1125)",
+ "Culture": "China",
+ "Medium": "Bronze inlaid with silver",
+ "Dimensions": "L. 38 in. (96.5 cm); Diam. 5/8 in. (1.6 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of James Freeman, 2005",
+ "Accession Number": "2005.304.2",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Silver",
+  "Bronze",
+  "Rods"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D.",
+  "China, 1000–1400 A.D.",
+  "Central and North Asia, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60046461,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2005_304_2_Strm1.JPG",
+ "related-artworks": [
+  60046455,
+  60020139,
+  60020153,
+  60020170,
+  60026444
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60046461"
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "Publisher": "Published by Israël Henriet (French, Nancy ca. 1590–1661 Paris)",
+ "Date": "ca. 1646–47",
+ "Medium": "Etching, state ii",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1937",
+ "Accession Number": "37.10.5",
+ "Who": [
+  "Stefano della Bella",
+  "Israël Henriet"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Printed Image in the West History and Techniques",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90056018,
+ "related-artworks": [
+  "http://scrapi.org/object/90047615",
+  "http://scrapi.org/object/90049304",
+  "http://scrapi.org/object/90049391",
+  "http://scrapi.org/object/90049452",
+  "http://scrapi.org/object/90049460"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90047615"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90049304"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90049391"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90049452"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90049460"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90056018"
+  }
+ }
+}

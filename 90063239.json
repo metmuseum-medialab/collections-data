@@ -1,0 +1,37 @@
+{
+ "Date": "November, 1863",
+ "Medium": "Watercolor",
+ "Dimensions": "sheet 6 11/16 x 10 13/16 in. (17 x 27.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954",
+ "Accession Number": "54.90.115",
+ "Who": "August Köllner",
+ "What": [
+  "Drawings",
+  "Watercolors"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90063239,
+ "related-artworks": [
+  90057261,
+  90057264,
+  90062326,
+  90057258,
+  90057259
+ ],
+ "Provenance": [
+  "Donor: Edward W. C. Arnold"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90063239"
+  }
+ }
+}

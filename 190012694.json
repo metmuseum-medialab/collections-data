@@ -1,0 +1,32 @@
+{
+ "Date": "1870s",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "20.5 x 25.4 cm. (8  1/16  x 10  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1973",
+ "Accession Number": "1973.594.80",
+ "Who": "Unknown",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190012694,
+ "related-artworks": [
+  190011576,
+  190011793,
+  190011794,
+  190012616,
+  190012631
+ ],
+ "Provenance": [
+  "Witkin Gallery"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190012694"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Yellow agate",
+ "Dimensions": "H. 3 in. (7.6 cm); W. 1 1/2 in. (3.8 cm)",
+ "Classification": "Hardstone",
+ "Credit Line": "Gift of George D. Pratt, 1927",
+ "Accession Number": "27.131.10a, b",
+ "What": [
+  "Vessels",
+  "Vases",
+  "Chalcedony",
+  "Agate"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60010896,
+ "related-artworks": [
+  60033333,
+  60010897,
+  60011730,
+  60011731,
+  60011734
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60010896"
+  }
+ }
+}

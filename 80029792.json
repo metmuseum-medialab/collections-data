@@ -1,0 +1,38 @@
+{
+ "Date": "mid-19th century",
+ "Culture": "Belgian",
+ "Medium": "[no medium available]",
+ "Dimensions": [
+  "Length 160 in. (406.4 cm)",
+  "Width 53 in. (134.6 cm)"
+ ],
+ "Credit Line": "Bequest of Catherine D. Wentworth, 1948",
+ "Accession Number": "48.187.622",
+ "What": [
+  "Costume",
+  "Outerwear",
+  "Shawls"
+ ],
+ "Where": [
+  "Europe",
+  "Belgium"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80029792,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/48.187.622.jpg",
+ "related-artworks": [
+  80029791,
+  80053988,
+  80096039,
+  80000178,
+  80000180
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80029792"
+  }
+ }
+}

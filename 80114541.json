@@ -1,0 +1,34 @@
+{
+ "Date": "second quarter 18th century",
+ "Culture": "Belgian",
+ "Medium": "Linen",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Robert B. Woodward, 1915",
+ "Accession Number": "2009.300.6235",
+ "What": [
+  "Costume",
+  "Linen",
+  "Neckwear",
+  "Neckcloths",
+  "Cravats"
+ ],
+ "Where": [
+  "Europe",
+  "Belgium"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 80114541,
+ "related-artworks": [
+  80108159,
+  80056811,
+  80058259,
+  80107336,
+  80107335
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80114541"
+  }
+ }
+}

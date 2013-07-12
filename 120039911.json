@@ -1,0 +1,40 @@
+{
+ "Date": "16th century",
+ "Culture": "Spanish",
+ "Medium": "Silk",
+ "Dimensions": "Overall 17 x 7 1/4 in. (43.2 x 18.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1929",
+ "Accession Number": "29.14",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120039911,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/73024.jpg",
+ "related-artworks": [
+  120030655,
+  120030863,
+  120030865,
+  120030870,
+  120030871
+ ],
+ "Provenance": [
+  "[ Loewi , 1929",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120039911"
+  }
+ }
+}

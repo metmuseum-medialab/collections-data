@@ -1,0 +1,35 @@
+{
+ "Date": "1886",
+ "Medium": "Photolithograph",
+ "Dimensions": "Sheet 2 5/8 x 1 1/2 in. (6.7 x 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 227, N508.4",
+ "Who": "Pacholder Tobacco",
+ "What": [
+  "Prints",
+  "Photomechanical reproductions",
+  "Photolithographs"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "id": 90096411,
+ "gallery-id": 773,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP827508.jpg",
+ "related-artworks": [
+  90096408,
+  90096409,
+  90096410,
+  90096413,
+  90096412
+ ],
+ "Description": "Trade cards from the series \"Women Baseball Players\" (N508), issued in 1886 by Patcholder Tobacco to promote Dixie and Sub Rosa Cigarettes.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90096411"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1975",
+ "Medium": "Silkscreen with collage maquette",
+ "Dimensions": [
+  "Image 11 × 12 1/16 in. (27.9 × 30.6 cm)",
+  "Sheet 19 1/8 × 20 1/16 in. (48.5 × 51 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Kenneth E. Tyler, 1977",
+ "Accession Number": "1977.565.12",
+ "Who": "Josef Albers",
+ "What": [
+  "Prints",
+  "Sculpture",
+  "Printing",
+  "Silkscreen",
+  "Collages",
+  "Maquettes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Geometric Abstraction",
+  "Design, 1925–50",
+  "The Bauhaus, 1919–1933",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90101659,
+ "related-artworks": [
+  90047209,
+  90047210,
+  90047211,
+  90047212,
+  90047216
+ ],
+ "Description": "Five grays",
+ "Provenance": [
+  "Donor: Kenneth E. Tyler (American, born East Chicago, Indiana, 1931)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90101659"
+  }
+ }
+}

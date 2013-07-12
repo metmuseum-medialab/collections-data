@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Agate",
+ "Dimensions": "H. 2 3/4 in. (7 cm)",
+ "Classification": "Snuff Bottles",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.490a, b",
+ "What": [
+  "Vessels",
+  "Bottles",
+  "Chalcedony",
+  "Snuff containers",
+  "Snuff bottles",
+  "Agate"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "id": 60009464,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/14.40.490.JPG",
+ "related-artworks": [
+  60008496,
+  60008473,
+  60008501,
+  60008503,
+  60008529
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009464"
+  }
+ }
+}

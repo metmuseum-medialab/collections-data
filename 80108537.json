@@ -1,0 +1,40 @@
+{
+ "Manufacturer": "Herbert Levine Inc. (American, founded 1949)",
+ "Date": "ca. 1962",
+ "Culture": "American",
+ "Medium": "Leather, metal",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Beth Levine in memory of her husband, Herbert, 1994",
+ "Accession Number": "2009.300.6097a, b",
+ "Who": [
+  "Herbert Levine Inc.",
+  "Beth Levine"
+ ],
+ "What": [
+  "Metal",
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80108537,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1994.40.19a-b_CP2.jpg",
+ "related-artworks": [
+  80108328,
+  80108699,
+  80037860,
+  80037861,
+  80083928
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108537"
+  }
+ }
+}

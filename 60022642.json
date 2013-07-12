@@ -1,0 +1,44 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "18th–19th century",
+ "Culture": "China",
+ "Medium": "Album leaf; ink on silk",
+ "Dimensions": "9 x 9 5/8 in. (22.9 x 24.4 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947",
+ "Accession Number": "47.18.141",
+ "Who": "Unidentified Artist",
+ "What": [
+  "Silk",
+  "Ink",
+  "Books",
+  "Paintings",
+  "Albums"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60022642,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP154430.jpg",
+ "related-artworks": [
+  60000056,
+  60000060,
+  60000061,
+  60000062,
+  60000074
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60022642"
+  }
+ }
+}

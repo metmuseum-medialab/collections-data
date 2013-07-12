@@ -1,0 +1,41 @@
+{
+ "Date": "1810",
+ "Culture": "British",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 47 mm.",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Assunta Sommella Peluso, Ada Peluso, and Romano I. Peluso, in memory of Ignazio Peluso, 2001",
+ "Accession Number": "2001.432.6",
+ "Who": ". Hyde",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120027742,
+ "gallery-id": 510,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP100481.jpg",
+ "related-artworks": [
+  120005121,
+  120005190,
+  120005197,
+  120024928,
+  120024933
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120027742"
+  }
+ }
+}

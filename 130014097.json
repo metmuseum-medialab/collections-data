@@ -1,0 +1,46 @@
+{
+ "Period": "Late Archaic",
+ "Date": "early 5th century B.C.",
+ "Culture": "Etruscan",
+ "Medium": "Gold, agate",
+ "Dimensions": "Diam. 7/8 in. (2.2 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "Harris Brisbane Dick Fund, 1940",
+ "Accession Number": "40.11.14",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Silver",
+  "Gold",
+  "Scarabs",
+  "Chalcedony",
+  "Rings",
+  "Agate"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130014097,
+ "gallery-id": 170,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP279011.jpg",
+ "related-artworks": [
+  130014200,
+  130004085,
+  130014098,
+  130006394,
+  130009628
+ ],
+ "Provenance": [
+  "Said to be part of a tomb group from Vulci"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130014097"
+  }
+ }
+}

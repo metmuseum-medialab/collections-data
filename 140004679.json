@@ -1,0 +1,41 @@
+{
+ "Object Name": "Water filter",
+ "Date": "14th–15th century",
+ "Geography": "Egypt",
+ "Medium": "Stonepaste; glazed",
+ "Classification": "Ceramics",
+ "Accession Number": "21.173.17",
+ "What": [
+  "Ceramics",
+  "Glazing",
+  "Filters"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1000–1400 A.D.",
+  "Egypt, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140004679,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf21-173-17b.jpg",
+ "related-artworks": [
+  140004699,
+  140004667,
+  140004666,
+  140004685,
+  140004686
+ ],
+ "Provenance": [
+  "Coptic Museum, Cairo(until 1921",
+  "sold to Herbert E. Winlock for MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004679"
+  }
+ }
+}

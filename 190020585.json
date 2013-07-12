@@ -1,0 +1,35 @@
+{
+ "Date": "1890s, printed 1897",
+ "Medium": "Platinum print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Marion P. Bolles, 1942",
+ "Accession Number": "42.120.1",
+ "Who": "Charles E. Bolles",
+ "What": [
+  "Photographs",
+  "Platinum prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190020585,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP113900.jpg",
+ "related-artworks": [
+  190020587,
+  190020586,
+  190011900
+ ],
+ "Provenance": [
+  "Marion P. Bolles"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190020585"
+  }
+ }
+}

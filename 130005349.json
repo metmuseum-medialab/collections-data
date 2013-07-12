@@ -1,0 +1,41 @@
+{
+ "Period": "Late Classical",
+ "Date": "late 5th–early 4th century B.C.",
+ "Culture": "Etruscan",
+ "Medium": "Carnelian",
+ "Dimensions": "Overall 3/4 in. (1.8 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Gift of John Taylor Johnston, 1881",
+ "Accession Number": "81.6.7",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Chalcedony",
+  "Gems",
+  "Carnelian"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130005349,
+ "gallery-id": 170,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP138673.jpg",
+ "related-artworks": [
+  130005347,
+  130005355,
+  130009331,
+  130014208,
+  130005348
+ ],
+ "Description": "Herakles and the Nemean lion",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130005349"
+  }
+ }
+}

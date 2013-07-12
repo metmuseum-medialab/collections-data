@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1515–20",
+ "Culture": "Italian (Venice)",
+ "Medium": "Bronze",
+ "Dimensions": "H. 9-3/4 in. (24.8 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of C. Ruxton Love Jr., 1964",
+ "Accession Number": "64.304.2",
+ "Who": "Vittore Gambello",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020209,
+ "gallery-id": 536,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DT232468.jpg",
+ "related-artworks": [
+  120009827,
+  120009264,
+  120013552,
+  120022901
+ ],
+ "Provenance": [
+  "Walter von Pannwitz",
+  "C. Ruxton Love, Jr. (until 1964",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120020209"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "1852–54",
+ "Medium": "Salted paper print from glass negative",
+ "Dimensions": "33.7 x 25.6 cm (13 1/4 x 10 1/16 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Harris Brisbane Dick Fund, 1995",
+ "Accession Number": "1995.96.24",
+ "Who": "Edmond Bacot",
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Rise of Paper Photography in 1850s France",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190035251,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP139298.jpg",
+ "related-artworks": [
+  190035244,
+  190035228,
+  190035229,
+  190035231,
+  190035232
+ ],
+ "Provenance": [
+  "Edmond Bacot",
+  "Victor Hugo [?]",
+  "[...]",
+  "Edouard Lagnel, Caen"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190035251"
+  }
+ }
+}

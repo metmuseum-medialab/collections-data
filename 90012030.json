@@ -1,0 +1,42 @@
+{
+ "Printer": "James Sutton & Co. (New York, NY)",
+ "Illustrator": "Eleanor Elizabeth Greatorex (American, New York 1854–1897/1917 Paris)",
+ "Date": "1872–79",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 16 9/16 x 11 5/8 in. (42 x 29.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Mrs. Algernon S. Sullivan, 1919",
+ "Accession Number": "19.37.1-.7",
+ "Who": [
+  "Thomas Moran",
+  "The Aldine Co.",
+  "Eleanor Elizabeth Greatorex",
+  "James Sutton & Co."
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012030,
+ "related-artworks": [
+  90012031,
+  90014892,
+  90051265
+ ],
+ "Provenance": [
+  "Donor: Mrs. Algernon S. Sullivan"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90012030"
+  }
+ }
+}

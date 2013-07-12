@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Culture": "British",
+ "Medium": "gold",
+ "Dimensions": "Dia 1 in. (25 mm)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of John Crosby Brown, 1897",
+ "Accession Number": "97.23.1",
+ "Who": "Thomas Brock, afterwards Sir Thomas",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Gold",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120002690,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF97_23_1_img1.jpg",
+ "related-artworks": [
+  120002691,
+  120002692,
+  120005282,
+  120027516,
+  120027678
+ ],
+ "Provenance": [
+  "John Crosby Brown (until 1897",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120002690"
+  }
+ }
+}

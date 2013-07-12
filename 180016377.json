@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Geography": "Mexico",
+ "Medium": "Clay",
+ "Dimensions": "H 69 mm;  W: 37 mm;  D: 36 mm;  Wt: 53 grams",
+ "Classification": "Idiophone-Shaken",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.3465",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Musical instruments",
+  "Idiophones",
+  "Rattles"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America Native Peoples, 1800–1900 A.D.",
+  "Mexico and Central America, 1800–1900 A.D."
+ ],
+ "id": 180016377,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DP157388.jpg",
+ "related-artworks": [
+  180013003,
+  180013006,
+  180013604,
+  180013606,
+  180013613
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016377"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "1947",
+ "Medium": "Wood engraving",
+ "Dimensions": [
+  "block 6 x 12 1/2 inches (15.2 x 31.8 cm)",
+  "sheet 10 x 15 3/4 inches (25.4 x 40 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1943",
+ "Accession Number": "53.550.1",
+ "Who": "Grace Arnold Albee",
+ "What": [
+  "Prints",
+  "Engraving",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90044950,
+ "related-artworks": [
+  90044942,
+  90044943,
+  90044963,
+  90044944,
+  90044945
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90044950"
+  }
+ }
+}

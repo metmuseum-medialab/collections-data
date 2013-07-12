@@ -1,0 +1,33 @@
+{
+ "Medium": "Silk",
+ "Dimensions": [
+  "H. 27-1/2, W. 10-1/2 inches",
+  "(69.9 x 26.7 cm.)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Nettie Rosenstein, 1942 (through Mrs. T.H.P. Whitney)",
+ "Accession Number": "42.45.10",
+ "Who": "Designer Unknown",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Samples",
+  "Ribbon"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 210008283,
+ "related-artworks": [
+  210008282,
+  210008286,
+  210008292,
+  210008293,
+  210008302
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210008283"
+  }
+ }
+}

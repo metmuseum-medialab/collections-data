@@ -1,0 +1,62 @@
+{
+ "Artist": "After Mihály Munkácsy (Hungarian, Mukachevo (Munkács) 1844–1900 Endenich)",
+ "Date": "1875–1914",
+ "Medium": "Etching; remark proof",
+ "Dimensions": [
+  "plate 18 7/8 x 23 3/4 in. (47.9 x 60.3 cm)",
+  "sheet 21 x 28 5/16 in. (53.3 x 71.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of S.P. Avery, 1883",
+ "Accession Number": "83.3",
+ "Who": [
+  "Mihály Munkácsy",
+  "Charles Koepping"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Proofs"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+  "Central Europe and Low Countries, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90059232,
+ "related-artworks": [
+  "http://scrapi.org/object/90059076",
+  "http://scrapi.org/object/90059077",
+  "http://scrapi.org/object/90059080",
+  "http://scrapi.org/object/90059235",
+  "http://scrapi.org/object/90059233"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90059076"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90059077"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90059080"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90059235"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90059233"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90059232"
+  }
+ }
+}

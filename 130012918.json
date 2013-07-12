@@ -1,0 +1,41 @@
+{
+ "Period": "Early Minoan II–III",
+ "Date": "ca. 2300–2100 B.C.",
+ "Culture": "Minoan",
+ "Medium": "Gold",
+ "Dimensions": "H. 2 5/8 in. (6.6 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "Bequest of Richard B. Seager, 1926",
+ "Accession Number": "26.31.509",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Pendants"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades",
+  "Minoa"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130012918,
+ "gallery-id": 151,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP260372.jpg",
+ "related-artworks": [
+  130012831,
+  130012833,
+  130012830,
+  130012837,
+  130012832
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130012918"
+  }
+ }
+}

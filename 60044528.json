@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Culture": "China",
+ "Medium": "Silk",
+ "Dimensions": "L. (neck to hem in back) 49 1/4  in. (125.1 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Gift of Hilary Knight, in memory of Katharine Sturges Knight, 1984",
+ "Accession Number": "1984.485.1",
+ "What": [
+  "Costume",
+  "Silk",
+  "Needlework",
+  "Embroidery",
+  "Robes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1600–1800 A.D.",
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60044528,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/258810.jpg",
+ "related-artworks": [
+  60038799,
+  60042150,
+  60042658,
+  60042648,
+  60042654
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044528"
+  }
+ }
+}

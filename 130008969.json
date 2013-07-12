@@ -1,0 +1,63 @@
+{
+ "Period": "Late Bronze Age",
+ "Date": "ca. 1450–1050 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Copper",
+ "Dimensions": [
+  "width  14 3/8in. (36.5cm)",
+  "length  17 1/2in. (44.5cm)"
+ ],
+ "Classification": "Bronzes",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.140.7",
+ "What": [
+  "Metal",
+  "Copper",
+  "Ingot"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130008969,
+ "gallery-id": 173,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/GR753.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/130002896",
+  "http://scrapi.org/object/130002897",
+  "http://scrapi.org/object/130002898",
+  "http://scrapi.org/object/130002899",
+  "http://scrapi.org/object/130002913"
+ ],
+ "related-images": [],
+ "Description": "Cyprus is thought to have been the main producer of copper in the Late Bronze Age, although very few ingots, apart from miniature votive ingots, have been found there. Ingots of this characteristic shape were made only in the Late Bronze Age and seem to be the usual form in which pure copper was transported as a raw material to the ports of the eastern Mediterranean. Copper was mixed with tin, usually in a nine-to-one ration, to make finished bronze objects such as the adjacent stand (74.51.5684). The ingot's irregular surface was produced as the pure copper cooled in the open mold in which the metal was cast. The sheer weight of the ingot, approximately sixty-three pounds, is testimony to the large scale of the copper industry at this time and the bulk quantities of copper that were being exchanged. The discovery off the coast of Anatolia at Ulu Burun of a Late Bronze Age shipwreck with a cargo of over ten tons of Cypriot copper ingots provides remarkable confirmation of the extensive international metals trade in which Cyprus clearly played an important role.",
+ "Provenance": [
+  "Said to come from Asia Minor"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130002896"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130002897"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130002898"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130002899"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130002913"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130008969"
+  }
+ }
+}

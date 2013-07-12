@@ -1,0 +1,39 @@
+{
+ "Date": "1952",
+ "Medium": "Bronze",
+ "Dimensions": [
+  "H. 45-1/8, W. 25-1/2, D. 15 inches",
+  "(114.6 x 64.8 x 38.1 cm.)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Mr. and Mrs. William Peyton Marin, 1955",
+ "Accession Number": "55.183",
+ "Who": "Nathaniel Kaz",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009087,
+ "related-artworks": [
+  210000026,
+  210000704,
+  210000713,
+  210000731,
+  210000751
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009087"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "early 18th century",
+ "Culture": "French",
+ "Medium": "Silk on silk",
+ "Dimensions": "H. 25 3/4 x W. 21 1/2 inches (65.4 x 54.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1944",
+ "Accession Number": "44.37.6",
+ "Who": "Daniel Marot the Elder",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Panels",
+  "Upholstery"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044699,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/132313.jpg",
+ "related-artworks": [
+  120044702,
+  120044697,
+  120044698,
+  120044700,
+  120044701
+ ],
+ "Provenance": [
+  "J. Pierpont Morgan",
+  "[ J. P. Morgan collection sale, Parke-Bernet Galleries , March 25, 1944, no. 690",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044699"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1743–45",
+ "Culture": "German, Augsburg",
+ "Medium": "Silver gilt",
+ "Dimensions": "Overall H. 3 3/8 x W. 5 x D. 3 15/16 in. (8.6 x 12.7 x 10 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, Anna-Maria and Stephen Kellen Foundation Gift, in memory of Stephen M. Kellen, 2005",
+ "Accession Number": "2005.364.12",
+ "Who": "Johann Conrad Lotter",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Boxes"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Augsburg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120049363,
+ "gallery-id": 551,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF2005_364_12.jpg",
+ "related-artworks": [
+  120049362,
+  120049360,
+  120049361,
+  120049364,
+  120049365
+ ],
+ "Provenance": [
+  "Counts Schenk von Stauffenberg , Schloss Jettingen, Germany (until 1990s)",
+  "[ art market , England]",
+  "[ sale, Sotheby's, London , November 9, 1996, no. 43 ]",
+  "[ Aveline, Paris , 2002]",
+  "[ Galerie Neuse Kunsthandel GmbH , Bremen (2005",
+  "sold to MMA)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120049363"
+  }
+ }
+}

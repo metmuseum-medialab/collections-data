@@ -1,0 +1,33 @@
+{
+ "Period": "Old Kingdom",
+ "Dynasty": "Dynasty 3",
+ "Reign": "reign of Djoser",
+ "Date": "ca. 2649–2630 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Saqqara; includes the Serapeum, Djoser Pyramid",
+ "Medium": "Blue green faience",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.613.23",
+ "What": "Faience",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Saqqara"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "id": 100032696,
+ "related-artworks": [
+  100000056,
+  100004150,
+  100028255,
+  100032677,
+  100032679
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100032696"
+  }
+ }
+}

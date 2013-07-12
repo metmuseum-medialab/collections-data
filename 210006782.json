@@ -1,0 +1,43 @@
+{
+ "Date": "1985",
+ "Medium": "Lead and shellac on photograph, mounted on board",
+ "Dimensions": "23 3/8 x 34 1/2 in. (59.4 x 87.6 cm)",
+ "Classification": "Enamels",
+ "Credit Line": "Purchase, Lila Acheson Wallace Gift, 1995",
+ "Accession Number": "1995.14.41",
+ "Who": "Anselm Kiefer",
+ "What": [
+  "Metal",
+  "Photographs",
+  "Enamels",
+  "Lead",
+  "Enamel paint",
+  "Shellac"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Anselm Kiefer (born 1945)",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210006782,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT202885.jpg",
+ "related-artworks": [
+  210006778,
+  210006771,
+  210006767,
+  210006777,
+  210006781
+ ],
+ "Description": "The title of this work and the lead cloud adhered to its top are blunt reminders of Kiefer's oxymoronic use of this heavy material to depict something usually thought of as vaporous and virtually weightless. The title puns on \"heavy water,\" which Kiefer regards as \"a synonym for radiation.\" In scientific parlance, heavy water is water in which heavy hydrogen has replaced ordinary hydrogen, enabling neutrons to split uranium in a process of nuclear fission. In nuclear reactors, the splitting of uranium heats fuel, which in turn can be used to produce electricity economically. Kiefer has pointed out that even though lead is used \"to seal radiation, as an envelope for this very dangerous stuff,\" his Heavy Cloud has \"a radiation leak,\" which is represented by the yellow shellac streaks seeping from the bottom of the lead cloud in the direction of the bleak landscape.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006782"
+  }
+ }
+}

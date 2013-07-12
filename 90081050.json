@@ -1,0 +1,41 @@
+{
+ "Artist": "Christopher Webb Smith (British, Camberwell (London) 1793–1871 Florence)",
+ "Printer": "Behar Lithographic Press (Bihar, India)",
+ "Date": "ca. 1828",
+ "Medium": "Lithograph",
+ "Dimensions": "Sheet 6 3/16 x 6 5/8 in. (15.7 x 16.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.521.13",
+ "Who": [
+  "Behar Lithographic Press",
+  "Sir Charles D'Oyly",
+  "Christopher Webb Smith"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90081050,
+ "related-artworks": [
+  90081014,
+  90081018,
+  90081022,
+  90081048,
+  90081052
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90081050"
+  }
+ }
+}

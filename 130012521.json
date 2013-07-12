@@ -1,0 +1,37 @@
+{
+ "Period": "Early Minoan III",
+ "Culture": "Minoan",
+ "Medium": "Serpentine",
+ "Dimensions": "Other 1/4 x 9/16 in. (0.7 x 1.5 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Bequest of Richard B. Seager, 1926",
+ "Accession Number": "26.31.80",
+ "What": [
+  "Seals",
+  "Gems",
+  "Serpentine"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades",
+  "Minoa"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130012521,
+ "related-artworks": [
+  130012463,
+  130012517,
+  130012573,
+  130012555,
+  130012780
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130012521"
+  }
+ }
+}

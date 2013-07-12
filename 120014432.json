@@ -1,0 +1,53 @@
+{
+ "Decorator": "Unidentified",
+ "Date": "ca. 1760–70",
+ "Culture": "German (Nymphenburg)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. with cover 7-1/4 in. (18.4 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Anonymous Gift, 1943",
+ "Accession Number": "43.100.55 ab",
+ "Who": [
+  "Nymphenburg Porcelain Manufactory",
+  "Unidentified"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Coffeepots"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Munich",
+  "Nymphenburg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120014432,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/130820.jpg",
+ "related-artworks": [
+  120027777,
+  120000431,
+  120023222,
+  120014358,
+  120014359
+ ],
+ "Provenance": [
+  "[ A. Beckhardt , New York, before 1943",
+  "sold to Wilson ]",
+  "R. Thornton Wilson (until 1943",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120014432"
+  }
+ }
+}

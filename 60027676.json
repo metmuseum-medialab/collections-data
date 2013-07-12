@@ -1,0 +1,42 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Monochrome woodblock print; ink on paper",
+ "Dimensions": "9 1/4 x 12 3/4 in. (23.5 x 32.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Morris Manges, in memory of her husband, Dr. Morris Manges, 1947",
+ "Accession Number": "JP3050",
+ "Who": "Nishikawa Sukenobu",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "id": 60027676,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP136951.jpg",
+ "related-artworks": [
+  60001221,
+  60026742,
+  60026900,
+  60026901,
+  60027677
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60027676"
+  }
+ }
+}

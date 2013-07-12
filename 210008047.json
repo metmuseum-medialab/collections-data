@@ -1,0 +1,38 @@
+{
+ "Date": "1933",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "H. 51, W. 35 inches",
+  "(129.5 x 88.9 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "George A. Hearn Fund, 1937",
+ "Accession Number": "37.152",
+ "Who": "Waldo Peirce",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210008047,
+ "related-artworks": [
+  210000746,
+  210000931,
+  210001106,
+  210001231,
+  210001330
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210008047"
+  }
+ }
+}

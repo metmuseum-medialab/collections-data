@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Donkey skin, cord",
+ "Dimensions": "H. (approx.) 9 1/4 in. (23.5 cm)",
+ "Classification": "Leatherwork",
+ "Credit Line": "Gift of H. J. Tei, 1920",
+ "Accession Number": "20.31.4",
+ "What": [
+  "Cord",
+  "Leatherwork"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60047189,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/20_31_4&3.JPG",
+ "related-artworks": [
+  60032289,
+  60047193,
+  60047194,
+  60047195,
+  60047196
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60047189"
+  }
+ }
+}

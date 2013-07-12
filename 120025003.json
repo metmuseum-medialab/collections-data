@@ -1,0 +1,48 @@
+{
+ "Designer": "Jean Baptiste Huet I (French, Paris 1745–1811 Paris)",
+ "Artist": "After an illustration by Louis François Cassas (French, Azay-le-Ferron 1756–1827 Versailles)",
+ "Date": "ca. 1808",
+ "Culture": "French (Jouy-en-Josas)",
+ "Medium": "Roller-printed cotton",
+ "Dimensions": "L. 98 1/2 x W. 38 inches (250.2 x 96.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.404",
+ "Who": [
+  "Oberkampf factory",
+  "Jean Baptiste Huet I",
+  "Louis François Cassas"
+ ],
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Linen",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Jouy-en-Josas"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Empire Style, 1800–1815",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120025003,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP109796.jpg",
+ "related-artworks": [
+  120039628,
+  120047207,
+  120037138,
+  120039544,
+  120039621
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120025003"
+  }
+ }
+}

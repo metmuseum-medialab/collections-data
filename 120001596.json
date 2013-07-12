@@ -1,0 +1,41 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian, possibly Venice (Murano)",
+ "Medium": "Glass",
+ "Dimensions": "H. 7 3/4 in.  (19.7 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1497",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Ewers"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001596,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/16795.jpg",
+ "related-artworks": [
+  120000268,
+  120000267,
+  120000541,
+  120001553,
+  120001700
+ ],
+ "Provenance": [
+  "Edward C. Moore"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001596"
+  }
+ }
+}

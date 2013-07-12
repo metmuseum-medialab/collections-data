@@ -1,0 +1,59 @@
+{
+ "Artist": "After Pietro da Cortona (Pietro Berrettini) (Italian, Cortona 1596–1669 Rome)",
+ "Medium": "Engraving; third state of three",
+ "Dimensions": "sheet 10 7/16 x 14 in. (26.5 x 35.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.4303",
+ "Who": [
+  "Claude Mellan",
+  "Pietro da Cortona (Pietro Berrettini)"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90068053,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP822689.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90000699",
+  "http://scrapi.org/object/90019002",
+  "http://scrapi.org/object/90027817",
+  "http://scrapi.org/object/90051724",
+  "http://scrapi.org/object/90051686"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Princes of Liechtenstein, Vaduz and Vienna",
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000699"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90019002"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90027817"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90051724"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90051686"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90068053"
+  }
+ }
+}

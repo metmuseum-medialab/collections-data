@@ -1,0 +1,40 @@
+{
+ "Period": "Hellenistic",
+ "Date": "ca. 2nd century B.C.",
+ "Culture": "Greek, Ptolemaic",
+ "Medium": "Faience",
+ "Dimensions": "h. 1 9/16 in. (3.9 cm); w. 2 5/16 in. (5.8 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Gift of Frieda Tchacos, 1997",
+ "Accession Number": "1997.292",
+ "What": [
+  "Vessels",
+  "Fragments",
+  "Faience",
+  "Askoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130017409,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP231275.jpg",
+ "related-artworks": [
+  130013087,
+  130007049,
+  130015672,
+  130007168,
+  130007903
+ ],
+ "Description": "A tiny hole in the beak of this duck head implies that it once belonged to an askos, which were often in the form of animals.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130017409"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "18th century",
+ "Culture": "German",
+ "Medium": "Silk on paper",
+ "Dimensions": "H. 5 3/4 x W. 3 3/4 inches (14.6 x 9.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.220",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Paper",
+  "Needlework",
+  "Embroidery"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120033284,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/AR765.jpg",
+ "related-artworks": [
+  120033283,
+  120033056,
+  120034655,
+  120035570,
+  120045635
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120033284"
+  }
+ }
+}

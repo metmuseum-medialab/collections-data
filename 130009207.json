@@ -1,0 +1,49 @@
+{
+ "Period": "Classical",
+ "Date": "ca. 420–400 B.C.",
+ "Culture": "Greek, South Italian, Lucanian",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": [
+  "H. 11 1/2 in. (29.2 cm)",
+  "diameter  16 in. (40.6 cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.235.4",
+ "Who": "Palermo Painter",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Skyphoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Five Wares of South Italian Vase Painting",
+  "Ancient Greece, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130009207,
+ "gallery-id": 161,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP111813.jpg",
+ "related-artworks": [
+  130009069,
+  130013273,
+  130013281,
+  130021039
+ ],
+ "Description": "The punishment of MarsyasIncomplete though it is, this beautiful work illustrates the South Italian predilection for large vases and the ample surface they provide for decoration. The goddess Athena invented the double flutes but rejected them because her face was disfigured when she played them. The satyr Marsyas mastered the instrument and in time challenged the god Apollo to a contest. Marsyas lost and was flayed for his presumption. On one side of the skyphos, Artemis and Leto, sister and mother of Apollo, face the satyr who leans on a pillar inscribed with his name and holds a large knife. The other side preserves much of Athena, with her martial attributes, seated pensively on a rock.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009207"
+  }
+ }
+}

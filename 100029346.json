@@ -1,0 +1,44 @@
+{
+ "Period": "Late Period–Ptolemaic Period",
+ "Date": "664–30 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Copper alloy",
+ "Dimensions": "10.6 cm (4 3/16 in.)",
+ "Credit Line": "Gift of James Douglas, 1890",
+ "Accession Number": "90.6.292",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Copper",
+  "Cases",
+  "Funerary containers",
+  "Mummies",
+  "Mummy cases"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100029346,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/90.6.292_EGDP014938.jpg",
+ "related-artworks": [
+  100010005,
+  100010006,
+  100010004,
+  100029358,
+  100029359
+ ],
+ "Provenance": [
+  "Collection of Dr. James Douglas, Quebec City. Donated to the Museum by his son James S Douglas, 1890."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100029346"
+  }
+ }
+}

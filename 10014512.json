@@ -1,0 +1,47 @@
+{
+ "Manufacturer": "Possibly New England Lace Company",
+ "Date": "ca. 1912",
+ "Geography": "Mid-Atlantic, Philadelphia, Pennsylvania, United States; New England, Pawtucket, Rhode Island, United States",
+ "Culture": "American",
+ "Medium": "Cotton (?) lace",
+ "Dimensions": "10 x 4 in. (25.4 x 10.2 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of M. H. Daudy, 1912",
+ "Accession Number": "12.46.1",
+ "Who": [
+  "Bert Edson",
+  "New England Lace Company",
+  "North American Lace Company"
+ ],
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Needlework",
+  "Lace",
+  "Samples"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Philadelphia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 10014512,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP8226.jpg",
+ "related-artworks": [
+  10014513,
+  10014514,
+  10014515,
+  10014516,
+  10014517
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014512"
+  }
+ }
+}

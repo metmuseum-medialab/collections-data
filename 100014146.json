@@ -1,0 +1,38 @@
+{
+ "Period": "Second Intermediate Period",
+ "Dynasty": "Dynasty 13–17",
+ "Date": "ca. 1640–1550 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Stone",
+ "Credit Line": "Gift of Darius Ogden Mills, 1904",
+ "Accession Number": "04.2.679",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100014146,
+ "related-artworks": [
+  100001695,
+  100001717,
+  100001917,
+  100002428,
+  100002534
+ ],
+ "Provenance": [
+  "Collection of Judge Elbert E. Farman, formed when he was U.S. consul general in Egypt 1876–84. Donated to the museum by Darius Ogden Mills, New York, in 1904."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100014146"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong mark and period (1736–95)",
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Porcelain with celadon glaze (Jingdezhen ware)",
+ "Dimensions": "H. 9 1/8 in. (23.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Edward G. Kennedy, 1932",
+ "Accession Number": "33.40.78",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Vases",
+  "Glaze",
+  "Ceramic glaze",
+  "Celadon"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60009884,
+ "gallery-id": 202,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/92209.jpg",
+ "related-artworks": [
+  60009684,
+  60009627,
+  60009824,
+  60019172,
+  60020525
+ ],
+ "Provenance": [
+  "Edward Guthrie Kennedy , New York (until d. 1932)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009884"
+  }
+ }
+}

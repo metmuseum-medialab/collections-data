@@ -1,0 +1,42 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian",
+ "Medium": "Needle lace",
+ "Dimensions": "Lace depth 5 1/2 inches (14.0 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Henrietta Seligman Lace Collection, Bequest of Mrs. Jesse Seligman, 1910",
+ "Accession Number": "10.102.33",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace",
+  "Borders"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036454,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/8110.jpg",
+ "related-artworks": [
+  120030209,
+  120032474,
+  120032503,
+  120032493,
+  120035748
+ ],
+ "Provenance": [
+  "Henrietta Seligman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036454"
+  }
+ }
+}

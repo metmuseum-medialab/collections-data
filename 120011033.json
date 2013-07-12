@@ -1,0 +1,43 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Dutch",
+ "Medium": "Tin-enameled earthenware",
+ "Dimensions": "5-1/8 x 5-1/8 in.  (13.0 x 13.0 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Fletcher Fund, 1927",
+ "Accession Number": "27.199.27",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Tile"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe and Low Countries, 1800–1900 A.D.",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120011033,
+ "gallery-id": 714,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/69496.jpg",
+ "related-artworks": [
+  120005409,
+  120005404,
+  120005405,
+  120005422,
+  120005420
+ ],
+ "Provenance": [
+  "Eelco M. Vis"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011033"
+  }
+ }
+}

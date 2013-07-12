@@ -1,0 +1,51 @@
+{
+ "Date": "1858",
+ "Medium": "Etching; second state of three (Glasgow); dark brown ink on buff chine on off-white wove paper",
+ "Dimensions": "8 7/8 x 6 1/8 in. (22.5 x 15.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.19",
+ "Who": "James McNeill Whistler",
+ "What": [
+  "Prints",
+  "Ink",
+  "Etching",
+  "Paper",
+  "Wove paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Americans in Paris, 1860–1900",
+  "William Merritt Chase (1849–1916)",
+  "Design Reform",
+  "Lithography in the Nineteenth Century",
+  "The Print in the Nineteenth Century",
+  "James McNeill Whistler (1834–1903)",
+  "Japonisme",
+  "Nineteenth–Century American Drawings",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90045330,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP813209.jpg",
+ "related-artworks": [
+  90045309,
+  90045307,
+  90045327,
+  90045497,
+  90045506
+ ],
+ "Provenance": [
+  "Vendor: Dick Estate, U.S. Trust"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90045330"
+  }
+ }
+}

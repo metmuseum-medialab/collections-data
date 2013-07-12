@@ -1,0 +1,39 @@
+{
+ "Date": "1960–69",
+ "Culture": "French",
+ "Medium": "wool",
+ "Dimensions": [
+  "Length at CB (a) 42 1/2 in. (108 cm)",
+  "Length at CB (b) 41 in. (104.1 cm)",
+  "Length (c) 43 in. (109.2 cm)",
+  "Length (d) 8 in. (20.3 cm)"
+ ],
+ "Credit Line": "Gift of (Mrs. Robert) Hortense Sacks, 1997",
+ "Accession Number": "1997.463a–d",
+ "Who": "Madame Grès (Alix Barton)",
+ "What": [
+  "Wool",
+  "Ensembles"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80000748,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1997.463a–c_F.jpg",
+ "related-artworks": [
+  80000614,
+  80000615,
+  80000606,
+  80000638,
+  80000645
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80000748"
+  }
+ }
+}

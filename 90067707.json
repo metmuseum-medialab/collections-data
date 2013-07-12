@@ -1,0 +1,45 @@
+{
+ "Artist": "After Anonymous, British, 19th century",
+ "Publisher": "Hannah Humphrey (London)",
+ "Date": "March 5, 1802",
+ "Medium": "Hand-colored etching",
+ "Dimensions": "sheet 10 1/16 x 12 11/16 in. (25.5 x 32.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Philip van Ingen, 1942",
+ "Accession Number": "42.121",
+ "Who": [
+  "Anonymous, British, 19th century",
+  "James Gillray",
+  "Hannah Humphrey"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90067707,
+ "related-artworks": [
+  90022015,
+  90027391,
+  90027866,
+  90040282,
+  90066364
+ ],
+ "Provenance": [
+  "Powersby, \"First Life Guards, 1861\" (British)",
+  "Mary Boydell",
+  "Donor: Dr. Philip van Ingen (American, 1875–1953)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90067707"
+  }
+ }
+}

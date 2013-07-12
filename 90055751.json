@@ -1,0 +1,40 @@
+{
+ "Date": "early 17th century",
+ "Medium": "Pen and brown and black ink, brown wash, heightened with body color",
+ "Dimensions": "sheet 10 1/4 x 7 1/2 in. (26.1 x 19.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, C. G. Boerner Gift, 2008",
+ "Accession Number": "2008.381",
+ "Who": "Gerhard Brück",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90055751,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821571.jpg",
+ "related-artworks": [
+  90001627,
+  90001625,
+  90001820,
+  90001811,
+  90001856
+ ],
+ "Provenance": [
+  "John Gulston (British, 1745–1786)The Lugt mark was previously attributed to P. Crozat and is now believed to probably be Gulston's.",
+  "Christie's, LondonJuly 3, 2007, lot 81",
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90055751"
+  }
+ }
+}

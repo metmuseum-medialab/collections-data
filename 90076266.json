@@ -1,0 +1,62 @@
+{
+ "Publisher": "Johannes Baptista Vrints (Netherlandish)",
+ "Date": "1608",
+ "Medium": "Etching, first state of two (Bartsch)",
+ "Dimensions": [
+  "sheet 20 1/2 x 14 7/8 in. (52 x 37.8 cm)",
+  "plate 8 3/4 x 11 1/4 in. (22.3 x 28.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.4085",
+ "Who": [
+  "Antonio Tempesta",
+  "Johannes Baptista Vrints"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Rembrandt van Rijn (1606–1669) Prints",
+ "id": 90076266,
+ "related-artworks": [
+  "http://scrapi.org/object/90032691",
+  "http://scrapi.org/object/90032693",
+  "http://scrapi.org/object/90032692",
+  "http://scrapi.org/object/90033241",
+  "http://scrapi.org/object/90072479"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "P. & D. Colnaghi & Co., Ltd., London",
+  "Princes of Liechtenstein, Vaduz and Vienna"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90032691"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90032693"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90032692"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90033241"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90072479"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90076266"
+  }
+ }
+}

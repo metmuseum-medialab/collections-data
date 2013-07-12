@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1825",
+ "Medium": "Watercolor on ivory",
+ "Dimensions": "3 x 2 in. (7.6 x 5.1 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Dale T. Johnson Fund, 2004",
+ "Accession Number": "2004.117a, b",
+ "Who": "William Dunlap",
+ "What": [
+  "Paintings",
+  "Watercolors",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20020100,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DP161500.jpg",
+ "related-artworks": [
+  20011133,
+  20011134,
+  210005723,
+  20011133,
+  20011134
+ ],
+ "Provenance": [
+  "Descended in the artist's family to his great-grand-nephew, Professor Theodore Salisbury Woolsey (Yale University)",
+  "to his son, Theodore Salisbury Woolsey, Jr.",
+  "to Sara Woolsey McLean."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20020100"
+  }
+ }
+}

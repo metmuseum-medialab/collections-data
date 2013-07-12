@@ -1,0 +1,35 @@
+{
+ "Date": "1830–60",
+ "Culture": "American",
+ "Medium": "Glass, silk, linen",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Margaret S. Bedell, 1930",
+ "Accession Number": "2009.300.4148",
+ "What": [
+  "Silk",
+  "Glass",
+  "Linen",
+  "Bags",
+  "Pouches"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80108555,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/30.8.23_CP1.jpg",
+ "related-artworks": [
+  80094250,
+  80094291,
+  80094292,
+  80094295,
+  80094296
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108555"
+  }
+ }
+}

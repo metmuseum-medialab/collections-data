@@ -1,0 +1,38 @@
+{
+ "Date": "n.d.",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Professor Maan Z. Madina and Dr. Marilyn Jenkins-Madina, 2006",
+ "Accession Number": "2006.50.84",
+ "What": "Prints",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90043111,
+ "Provenance": [
+  "Donor: Maan Z. Madina"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90098453"
+   },
+   {
+    "href": "http://scrapi.org/object/90000013"
+   },
+   {
+    "href": "http://scrapi.org/object/90000014"
+   },
+   {
+    "href": "http://scrapi.org/object/90000015"
+   },
+   {
+    "href": "http://scrapi.org/object/90000019"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90043111"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90043111"
+  }
+ }
+}

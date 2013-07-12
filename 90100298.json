@@ -1,0 +1,50 @@
+{
+ "Date": "1580–1600",
+ "Medium": "Engraving and blackwork",
+ "Dimensions": "Sheet 4 1/16 × 2 7/16 in. (10.3 × 6.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.35.1",
+ "Who": "Johann Theodor de Bry",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90100298,
+ "Description": "Design for a knife handle with the Marriage at Cana in a rectangle at center showing Jesus turning water into wine, on a blackwork background with grotesques. Above, a design for a finial with a mermaid and merman above a putto head. Flanking the central design, two blades engraved with Biblical texts below alternate finial designs. From a series of twelve plates.",
+ "Provenance": [
+  "Vendor: Kennedy & Co."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90074544"
+   },
+   {
+    "href": "http://scrapi.org/object/90074547"
+   },
+   {
+    "href": "http://scrapi.org/object/90074550"
+   },
+   {
+    "href": "http://scrapi.org/object/90074552"
+   },
+   {
+    "href": "http://scrapi.org/object/90085926"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90100298"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90100298"
+  }
+ }
+}

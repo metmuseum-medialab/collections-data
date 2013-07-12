@@ -1,0 +1,36 @@
+{
+ "Date": "19th century",
+ "Culture": "American",
+ "Medium": "metal",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Mary Turlay Robinson, 1946",
+ "Accession Number": "C.I.X.46.1.2a–c",
+ "What": [
+  "Metal",
+  "Costume",
+  "Jewelry",
+  "Hair"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80026934,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CIX46.1.2a–c.jpg",
+ "related-artworks": [
+  80017726,
+  80029662,
+  80058846,
+  80058901,
+  80058871
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80026934"
+  }
+ }
+}

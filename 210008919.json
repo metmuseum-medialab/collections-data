@@ -1,0 +1,49 @@
+{
+ "Date": "1920; reworked 1926, 1935, 1936",
+ "Medium": "Distemper on canvas",
+ "Dimensions": "59 1/2 x 43 5/8 in. (151.1 x 110.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1952",
+ "Accession Number": "52.183",
+ "Who": "Édouard Vuillard",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Distemper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Nabis and Decorative Painting",
+  "Japonisme",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210008919,
+ "gallery-id": 828,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT2555.jpg",
+ "related-artworks": [
+  150000226,
+  210008482,
+  210010396,
+  150000223,
+  210009080
+ ],
+ "Provenance": [
+  "the artist (to Hessel)",
+  "Monsieur and Mme Jos Hessel, Paris (by 1930–at least 1939)",
+  "their daughter, Mme Jacques Arpels, Paris (until 1952",
+  "consigned to Knoedler)",
+  "[Knoedler, New York, 1952",
+  "sold on November 28, 1952 to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210008919"
+  }
+ }
+}

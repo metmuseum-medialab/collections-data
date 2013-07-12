@@ -1,0 +1,56 @@
+{
+ "Period": "Middle Cypriot II",
+ "Date": "ca. 1800–1725 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 9 15/16 in. (25.3 cm)",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.1047",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jugs"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130001100,
+ "gallery-id": 173,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/GR609.jpg",
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130001086"
+   },
+   {
+    "href": "http://scrapi.org/object/130001132"
+   },
+   {
+    "href": "http://scrapi.org/object/130001184"
+   },
+   {
+    "href": "http://scrapi.org/object/130001227"
+   },
+   {
+    "href": "http://scrapi.org/object/130001295"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130001100"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130001100"
+  }
+ }
+}

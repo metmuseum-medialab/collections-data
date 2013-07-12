@@ -1,0 +1,61 @@
+{
+ "Date": "20th century",
+ "Geography": "Kenya",
+ "Culture": "Turkana peoples",
+ "Medium": "Calabash, beads, leather",
+ "Dimensions": "Height 10-1/2 in.",
+ "Classification": "Gourd-Containers",
+ "Credit Line": "Bequest of John B. Elliott, 1997",
+ "Accession Number": "1999.47.111",
+ "Who": "Turkana",
+ "What": [
+  "Vessels",
+  "Leather",
+  "Gourd",
+  "Calabashes"
+ ],
+ "Where": [
+  "Africa",
+  "Kenya"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Eastern Africa, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50010718,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/hz1999_47_111.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/50010720",
+  "http://scrapi.org/object/50007703",
+  "http://scrapi.org/object/50007535",
+  "http://scrapi.org/object/50007678",
+  "http://scrapi.org/object/50007653"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "John B. Elliott, Princeton, NJ, until (d.) 1997",
+  "John B. Elliott Estate, until 1999"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50010720"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50007703"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50007535"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50007678"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50007653"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50010718"
+  }
+ }
+}

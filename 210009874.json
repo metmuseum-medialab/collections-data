@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1926",
+ "Medium": "Graphite on paper",
+ "Dimensions": [
+  "H. 12-3/4, W. 7-1/4 inches",
+  "(32.4 x 18.4 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+ "Accession Number": "67.187.8",
+ "Rights and Reproduction": "© 2011 Artists Rights Society (ARS), New York",
+ "Who": "Tsuguharu Foujita",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009874,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf67.187.8.jpg",
+ "related-artworks": [
+  210009775,
+  210009879,
+  210009782,
+  210009870,
+  90010255
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009874"
+  }
+ }
+}

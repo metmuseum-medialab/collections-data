@@ -1,0 +1,46 @@
+{
+ "Period": "Ming dynasty (1368–1644)",
+ "Date": "dated 1478",
+ "Culture": "China",
+ "Medium": "Handscroll; ink on paper",
+ "Dimensions": [
+  "Image 12 1/4 x 297 1/2 in. (31.1 x 755.7 cm)",
+  "Overall with mounting 12 3/4 x 341 in. (32.4 x 866.1 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Purchase, Bequest of Dorothy Graham Bennett, 1978",
+ "Accession Number": "1978.5",
+ "Who": "Zhang Bi",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Handscrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1400–1600 A.D.",
+  "Central and North Asia, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60000187,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP204874_CRD.jpg",
+ "related-artworks": [
+  60019531,
+  60019564,
+  60000073,
+  60012251,
+  60012261
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60000187"
+  }
+ }
+}

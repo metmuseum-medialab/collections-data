@@ -1,0 +1,27 @@
+{
+ "Date": "1913–14",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1962",
+ "Accession Number": "62.573.2",
+ "Who": "James Davis",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90015829,
+ "related-artworks": [
+  10000112,
+  10000113,
+  90000855
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90015829"
+  }
+ }
+}

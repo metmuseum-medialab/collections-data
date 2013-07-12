@@ -1,0 +1,26 @@
+{
+ "Date": "n.d.",
+ "Classification": "Prints",
+ "Credit Line": "Gift of J. R. Watkins, 1942",
+ "Accession Number": "42.16.15",
+ "Who": "Anonymous, British",
+ "What": "Prints",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90034926,
+ "related-artworks": [
+  90013141,
+  90034922,
+  90034921,
+  90034923,
+  90034925
+ ],
+ "Provenance": [
+  "Donor: J. R. Watkins"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90034926"
+  }
+ }
+}

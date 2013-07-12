@@ -1,0 +1,42 @@
+{
+ "Period": "Classical",
+ "Date": "ca. 470 B.C.",
+ "Culture": "Greek",
+ "Medium": "Bronze",
+ "Dimensions": "H. 11 3/4 in. (29.8 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.258.10",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130008556,
+ "gallery-id": 153,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP109490.jpg",
+ "related-artworks": [
+  130008446,
+  130008634,
+  130011537,
+  130013473,
+  130015888
+ ],
+ "Description": "The gesture of this magnificent nude figure suggests that he is an athlete expressing veneration. The base makes it likely that the work was offered as a dedication.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130008556"
+  }
+ }
+}

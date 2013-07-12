@@ -1,0 +1,55 @@
+{
+ "Date": "ca. 1770",
+ "Geography": "Mid-Atlantic, Philadelphia, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Mahogany",
+ "Dimensions": "41 3/8 x 21 1/2 x 22 3/4 in. (105.1 x 54.6 x 57.8 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift in loving memory of Gardner D. Stout, from his wife and children, 1986",
+ "Accession Number": "1986.84.1",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Mahogany",
+  "Side chairs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Philadelphia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001701,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/240447.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10001617"
+   },
+   {
+    "href": "http://scrapi.org/object/10001650"
+   },
+   {
+    "href": "http://scrapi.org/object/10001757"
+   },
+   {
+    "href": "http://scrapi.org/object/10001769"
+   },
+   {
+    "href": "http://scrapi.org/object/10023844"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10001701"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10001701"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Author": "Written by Louis Forest",
+ "Publisher": "Published by Établissements Nicolas",
+ "Date": "1927",
+ "Dimensions": "Overall 8 1/4 x 6 x 3/4 in. (21 x 15.2 x 1.9 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "A. Hyatt Mayor Purchase Fund, Marjorie Phelps Starr Bequest, 1977",
+ "Accession Number": "1977.554",
+ "Who": [
+  "Charles Martin",
+  "Établissements Nicolas",
+  "Louis Forest"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017587,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90032828"
+   },
+   {
+    "href": "http://scrapi.org/object/90032829"
+   },
+   {
+    "href": "http://scrapi.org/object/90019703"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90017587"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90017587"
+  }
+ }
+}

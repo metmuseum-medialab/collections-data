@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1830–50",
+ "Culture": "French",
+ "Medium": "Mother-of-pearl, silk",
+ "Dimensions": "11 7/8 x 19 1/4 in.  (30.2 x 48.9 cm)",
+ "Classification": "Fans",
+ "Credit Line": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888-95",
+ "Accession Number": "90.2.60",
+ "What": [
+  "Costume",
+  "Silk",
+  "Fans",
+  "Mother of pearl"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120026786,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/12224.jpg",
+ "related-artworks": [
+  120026270,
+  120026443,
+  120026445,
+  120026547,
+  120026572
+ ],
+ "Provenance": [
+  "Moses Lazarus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120026786"
+  }
+ }
+}

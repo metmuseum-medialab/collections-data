@@ -1,0 +1,38 @@
+{
+ "Date": "1957",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "H. 59-1/4, W. 41-1/2 inches",
+  "(150.5 x 105.4 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mrs. Iola S. Haverstick, 1981",
+ "Accession Number": "1981.420",
+ "Who": "Adolph Gottlieb",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210002517,
+ "related-artworks": [
+  210001632,
+  210008923,
+  210009288,
+  210006631,
+  210009887
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210002517"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "1522",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "plate 4 3/4 x 3 3/8 in. (12 x 8.5 cm)",
+  "sheet 4 7/8 x 3 7/16 in. (12.4 x 8.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1991",
+ "Accession Number": "1991.1167",
+ "Who": "Jan Gossart (called Mabuse)",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Jan Gossart (ca. 1478–1532) and His Circle",
+  "Low Countries, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90003270,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP215653.jpg",
+ "related-artworks": [
+  90063590,
+  90063468,
+  90064477,
+  90002846,
+  90010683
+ ],
+ "Provenance": [
+  "Peter Vischer (Basel, 1751–1823)",
+  "Vendor: Hill-Stone, Inc."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90003270"
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "Publisher": "Published by Chez Barrois",
+ "Date": "1760",
+ "Medium": "Woodblock",
+ "Dimensions": "Overall 6 5/8 x 4 in. (16.8 x 10.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.500",
+ "Who": [
+  "Chez Barrois",
+  "Monsieur de Quérelles"
+ ],
+ "What": [
+  "Books",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90043822,
+ "related-artworks": [
+  "http://scrapi.org/object/90014497",
+  "http://scrapi.org/object/90043904",
+  "http://scrapi.org/object/90043905",
+  "http://scrapi.org/object/90027935",
+  "http://scrapi.org/object/90059985"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90014497"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90043904"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90043905"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90027935"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90059985"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90043822"
+  }
+ }
+}

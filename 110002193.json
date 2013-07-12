@@ -1,0 +1,35 @@
+{
+ "Medium": "Tempera and gold on canvas, transferred from wood",
+ "Dimensions": "34 1/2 x 34 1/2 in. (87.6 x 87.6 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+ "Accession Number": "32.100.128",
+ "Who": "Spanish (Catalan) Painter, mid-15th century",
+ "What": [
+  "Metal",
+  "Paintings",
+  "Gold",
+  "Canvas",
+  "Tempera"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Paintings",
+ "MetPublications": "Search for related Met publications",
+ "id": 110002193,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/ep32.100.128.bw.R.jpg",
+ "related-artworks": [
+  110002191,
+  110002192,
+  110000008
+ ],
+ "Provenance": [
+  "Marczell de Nemes, Budapest and Munich (until 1928",
+  "his sale, Frederik Muller, Amsterdam, November 13–14, 1928, no. 37, as by a French painter, about 1440, for £1,416)",
+  "Michael Friedsam, New York (until d. 1931)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110002193"
+  }
+ }
+}

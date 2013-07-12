@@ -1,0 +1,38 @@
+{
+ "Illustrator": "Ottavio Bertotti Scamozzi (Italian, 1719–1790)",
+ "Date": "1776",
+ "Medium": "Printed book with etched and engraved plates",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1946",
+ "Accession Number": "46.50.4",
+ "Who": [
+  "Andrea Palladio",
+  "Ottavio Bertotti Scamozzi"
+ ],
+ "What": [
+  "Etching",
+  "Engraving",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90022864,
+ "related-artworks": [
+  90022873,
+  90022863,
+  90014406,
+  90022871,
+  90016489
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90022864"
+  }
+ }
+}

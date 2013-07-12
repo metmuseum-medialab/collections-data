@@ -1,0 +1,44 @@
+{
+ "Artist": "After Philippe de Champaigne (French, Brussels 1602–1674 Paris)",
+ "Date": "1658",
+ "Medium": "Engraving; fourth state of six (Petitjean & Wickert)",
+ "Dimensions": [
+  "Sheet 14 3/4 × 11 1/8 in. (37.4 × 28.2 cm)",
+  "Plate 14 3/16 × 10 9/16 in. (36 × 26.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Dr. Ralph Weiler, 1960",
+ "Accession Number": "60.563.43",
+ "Who": [
+  "Robert Nanteuil",
+  "Philippe de Champaigne"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90104200,
+ "related-artworks": [
+  90016409,
+  90016410,
+  90016467,
+  90016466,
+  90016411
+ ],
+ "Provenance": [
+  "Donor: Dr. Ralph Weiler"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104200"
+  }
+ }
+}

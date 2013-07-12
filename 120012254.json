@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1750",
+ "Culture": "British, Bow",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. 3 1/4 in. (8.3 cm); L. 5 1/4 in. (13.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Misses Sarah and Joanna Williams, 1933",
+ "Accession Number": "33.36.1",
+ "Who": "Bow",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Soft paste porcelain",
+  "Sweetmeat dishes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120012254,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/92220.jpg",
+ "related-artworks": [
+  120002048,
+  120012255,
+  120019050,
+  120002981,
+  120003167
+ ],
+ "Provenance": [
+  "Miss Sarah Williams",
+  "and Miss Joanna Williams (until 1933",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120012254"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "16th century",
+ "Geography": "Spain",
+ "Medium": "Earthenware; tin-glazed, painted, and luster-painted.",
+ "Dimensions": [
+  "H. 2 1/2 in. (6.4 cm)",
+  "Diam. 15 3/16 in. (38.6 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Dr. and Mrs. Lewis Balamuth, 1968",
+ "Accession Number": "68.215.5",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Painting",
+  "Glazing",
+  "Tin"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140009371,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf68-215-5a.jpg",
+ "related-artworks": [
+  140009367,
+  140009369,
+  140009370,
+  140001693,
+  140001621
+ ],
+ "Provenance": [
+  "Dr. and Mrs. Lewis Balamuth, New York (until 1968)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009371"
+  }
+ }
+}

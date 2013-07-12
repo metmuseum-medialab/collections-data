@@ -1,0 +1,51 @@
+{
+ "Date": "1872",
+ "Medium": "Oil on canvas",
+ "Dimensions": "64 3/8 x 44 in. (163.5 x 111.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mrs. Elliot L. Kamen, in memory of her father, Bernard R. Armour, 1960",
+ "Accession Number": "60.122",
+ "Who": "William Bouguereau",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "The Salon and The Royal Academy",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110000186,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/ep60.122.R.jpg",
+ "related-artworks": [
+  110000185,
+  110000187,
+  110006977,
+  90000517,
+  90019707
+ ],
+ "Provenance": [
+  "[Goupil & Cie, Paris, 1872–74",
+  "stock no. 7349",
+  "purchased from the artist, as \"La Séduction,\" on November 29, 1872, for Fr 10,000",
+  "sold on April 21, 1874, half on account, to Knoedler]",
+  "[M. Knoedler, New York, from 1874]",
+  "Mrs. D. D. Colton, San Francisco (in 1892)",
+  "Bernard R. Armour, Englewood, N. J. (until d. 1949)",
+  "his wife, Mrs. Bernard R. (Martha S.) Armour, later Mrs. Jerome Gordon, Englewood, N. J. (from 1949)",
+  "her daughter, Mrs. Elliot L. (Ruth Armour) Kamen, Englewood, N. J. (until 1960",
+  "her gift to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110000186"
+  }
+ }
+}

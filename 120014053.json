@@ -1,0 +1,44 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "Spanish",
+ "Medium": "Wrought iron",
+ "Dimensions": ".484) L. 42 3/4 in.  (108.6 cm); .485) L. 42 1/4 in. (107.3 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Bequest of George Blumenthal, 1941",
+ "Accession Number": "41.190.484, .485",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Iron alloy",
+  "Lighting devices",
+  "Wrought iron",
+  "Sconces"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120014053,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/130228.jpg",
+ "related-artworks": [
+  120019580,
+  120009345,
+  120017205,
+  120017200,
+  120017770
+ ],
+ "Provenance": [
+  "George and Florence Blumenthal (until 1941)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120014053"
+  }
+ }
+}

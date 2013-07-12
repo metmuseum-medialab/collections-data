@@ -1,0 +1,38 @@
+{
+ "Date": "1951",
+ "Medium": "Ink on paper",
+ "Dimensions": [
+  "H. 19-15/16, W. 13-15/16 inches",
+  "(50.7 x 35.4 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1954",
+ "Accession Number": "54.67",
+ "Who": "John Groth",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009043,
+ "related-artworks": [
+  210001177,
+  210001319,
+  210001402,
+  210001660,
+  210001661
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009043"
+  }
+ }
+}

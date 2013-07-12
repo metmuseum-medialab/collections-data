@@ -1,0 +1,55 @@
+{
+ "Designer": "Designed by William Morris (British, Walthamstow, London 1834–1896 Hammersmith, London)",
+ "Maker": "Workshop of Morris & Company (British)",
+ "Date": "design registered in 1883; printed 1917–23",
+ "Culture": "British, Merton Abbey",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 108 x W. 37 inches",
+  "274.3 x 94.0 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Purchase, Edward C. Moore Jr. Gift, 1923",
+ "Accession Number": "23.163.11",
+ "Who": [
+  "William Morris",
+  "Morris & Company",
+  "Merton Abbey Tapestry Works"
+ ],
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing",
+  "Samples"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Surrey",
+  "Merton Abbey"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1800–1900 A.D.",
+  "Great Britain and Ireland, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120039158,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SC40382.jpg",
+ "related-artworks": [
+  120039156,
+  120039155,
+  120039157,
+  120047637,
+  120040026
+ ],
+ "Provenance": [
+  "[ Stead McAlpin & Co., Carlisle , 1965 ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120039158"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1725–30",
+ "Culture": "Chinese",
+ "Medium": "Hard-paste porcelain, silver",
+ "Dimensions": "H. 8 1/4 in. (21.0 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.60.3",
+ "Who": "Paul Le Riche",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Silver",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Jugs"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120010085,
+ "gallery-id": 201,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES4700.jpg",
+ "related-artworks": [
+  120014409,
+  120059388,
+  120000084
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120010085"
+  }
+ }
+}

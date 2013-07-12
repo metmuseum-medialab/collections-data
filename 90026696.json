@@ -1,0 +1,55 @@
+{
+ "Date": "1890",
+ "Medium": "etching and drypoint on laid paper; eighth state of eight",
+ "Dimensions": [
+  "sheet 10 15/16 x 7 11/16 in. (27.8 x 19.5 cm)",
+  "plate 7 13/16 x 5 1/4 in. (19.8 x 13.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund and Jacob H. Schiff Bequest, 1922",
+ "Accession Number": "22.60.17",
+ "Who": "Camille Pissarro",
+ "What": [
+  "Prints",
+  "Etching",
+  "Paper",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints",
+  "Laid paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Impressionism Art and Modernity",
+  "Vincent van Gogh (1853–1890) The Drawings",
+  "Paul Cézanne (1839–1906)",
+  "The Transformation of Landscape Painting in France",
+  "The Print in the Nineteenth Century",
+  "Georges Seurat (1859–1891) and Neo–Impressionism",
+  "Claude Monet (1840–1926)",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90026696,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821723.jpg",
+ "related-artworks": [
+  90026695,
+  90026709,
+  90026684,
+  90026714,
+  90026708
+ ],
+ "Provenance": [
+  "Vendor: Maurice Gobin"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026696"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 18–20",
+ "Date": "ca. 1550–1070 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Steatite",
+ "Dimensions": "L. 0.017m",
+ "Credit Line": "Gift of Darius Ogden Mills, 1904",
+ "Accession Number": "04.2.754",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Talc",
+  "Steatite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100007909,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs26.7.212yy.jpg",
+ "related-artworks": [
+  100000629,
+  100000632,
+  100000645,
+  100000638,
+  100000656
+ ],
+ "Provenance": [
+  "Collection of Judge Elbert E. Farman, formed when he was U.S. consul general in Egypt 1876–84. Donated to the museum by Darius Ogden Mills, New York, in 1904."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100007909"
+  }
+ }
+}

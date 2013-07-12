@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1770",
+ "Culture": "British, Plymouth",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 6 3/4 in. (17.1 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Alfred Duane Pell, 1902",
+ "Accession Number": "02.6.42 ab",
+ "Who": "Earls of Plymouth",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Teapots"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Plymouth"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120002971,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/120220.jpg",
+ "related-artworks": [
+  120019141,
+  120007742,
+  120006683
+ ],
+ "Provenance": [
+  "Rev. Alfred Duane Pell (until 1902",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120002971"
+  }
+ }
+}

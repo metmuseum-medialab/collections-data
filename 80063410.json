@@ -1,0 +1,36 @@
+{
+ "Date": "1775–90",
+ "Culture": "American",
+ "Medium": "linen, cotton",
+ "Dimensions": "Length 40 in. (101.6 cm)",
+ "Credit Line": "Purchase, NAMSB Foundation Inc. Gift, 2006",
+ "Accession Number": "2006.132",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Linen",
+  "Shirts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80063410,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2006.132_F.jpg",
+ "related-artworks": [
+  80063587,
+  80005713,
+  80030889,
+  80030905,
+  80030907
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80063410"
+  }
+ }
+}

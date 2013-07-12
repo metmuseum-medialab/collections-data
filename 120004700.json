@@ -1,0 +1,44 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Bronze-gilt",
+ "Dimensions": "Each H. approximately 17 in.  (43.2 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+ "Accession Number": "07.225.510.417 ab,418 ab",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Gilt",
+  "Plate",
+  "Ormolu",
+  "Wreaths"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 120004700,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/103750.jpg",
+ "related-artworks": [
+  120004680,
+  120004772,
+  120004776,
+  120004778,
+  120004944
+ ],
+ "Provenance": [
+  "Georges Hoentschel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120004700"
+  }
+ }
+}

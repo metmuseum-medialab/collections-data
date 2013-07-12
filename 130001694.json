@@ -1,0 +1,47 @@
+{
+ "Period": "Late Hellenistic",
+ "Date": "2nd–1st century B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta; mold-made and hand-made",
+ "Dimensions": "h. 5 7/16 in. (13.8 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.1673",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Statues",
+  "Figurines",
+  "Chordophones",
+  "Lyres",
+  "Box lyres",
+  "Kitharas"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130001694,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP101727.jpg",
+ "related-artworks": [
+  130001691,
+  130009191,
+  130002658,
+  130001461,
+  130001584
+ ],
+ "Provenance": [
+  "Said to be from Kition or the Salt Lake near Larnaca, Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130001694"
+  }
+ }
+}

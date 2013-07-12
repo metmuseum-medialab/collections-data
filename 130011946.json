@@ -1,0 +1,43 @@
+{
+ "Period": "Mid-Imperial",
+ "Date": "ca. A.D. 100-225",
+ "Culture": "Roman, Syrian",
+ "Medium": "Terracotta; alkaline-glazed ware",
+ "Dimensions": "H. 31.50 cm.",
+ "Classification": "Vases",
+ "Credit Line": "Purchase, 1924",
+ "Accession Number": "24.61",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Amphorae"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011946,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP121127.jpg",
+ "related-artworks": [
+  130014065,
+  130015039,
+  130000406,
+  130000407,
+  130000410
+ ],
+ "Description": "Probably made at Dura-Europos",
+ "Provenance": [
+  "Said to be from Salamias (modern Salamiye, Syria)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011946"
+  }
+ }
+}

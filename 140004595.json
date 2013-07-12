@@ -1,0 +1,43 @@
+{
+ "Date": "7th–9th century",
+ "Geography": "Egypt",
+ "Medium": "Bone; carved and incised",
+ "Dimensions": [
+  "H. 2 3/8 in. (6 cm)",
+  "W. 1 in. (2.6 cm)",
+  "D. 1/4 in. (0.7 cm)"
+ ],
+ "Classification": "Ivories and Bone",
+ "Credit Line": "Gift of Lily S. Place, 1921",
+ "Accession Number": "21.6.107",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Figures"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140004595,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP247590.jpg",
+ "related-artworks": [
+  140002126,
+  140003265,
+  140006794,
+  140006797,
+  140006806
+ ],
+ "Provenance": [
+  "Lily S. Place, Cairo (until 1921)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004595"
+  }
+ }
+}

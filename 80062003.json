@@ -1,0 +1,33 @@
+{
+ "Date": "1780",
+ "Culture": "European, Eastern",
+ "Medium": "wool",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. Lee Simonson, 1939",
+ "Accession Number": "C.I.39.13.12",
+ "What": [
+  "Costume",
+  "Wool",
+  "Vests"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80062003,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI39.13.12_F.jpg",
+ "related-artworks": [
+  80002282,
+  80012013,
+  80013479,
+  80013499,
+  80013526
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80062003"
+  }
+ }
+}

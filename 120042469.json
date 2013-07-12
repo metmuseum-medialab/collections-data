@@ -1,0 +1,46 @@
+{
+ "Date": "early 19th century",
+ "Culture": "French",
+ "Medium": "Silk and metal thread on felt",
+ "Dimensions": [
+  "L. 3 1/8 x W. 2 3/4 inches",
+  "7.9 x 7 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.1693",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Samples",
+  "Felt"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120042469,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP1904.jpg",
+ "related-artworks": [
+  120042358,
+  120042363,
+  120042372,
+  120042393,
+  120042410
+ ],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120042469"
+  }
+ }
+}

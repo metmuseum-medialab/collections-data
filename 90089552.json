@@ -1,0 +1,42 @@
+{
+ "Lithographer": "Lindner, Eddy & Claus (American, New York)",
+ "Date": "1888",
+ "Medium": "Commercial lithograph",
+ "Dimensions": "Sheet 2 15/16 x 3 1/4 in. (7.4 x 8.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 202, N43.48",
+ "Who": [
+  "Allen & Ginter",
+  "Lindner, Eddy & Claus"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90089552,
+ "related-artworks": [
+  90018978,
+  90081254,
+  90081340,
+  90081395,
+  90081569
+ ],
+ "Description": "Trade cards from \"World's Champions,\" Second Series (N43), issued in 1888 in a set of 50 cards to promote Allen & Ginter brand cigarettes.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90089552"
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "Object Name": "Fragment",
+ "Date": "660–880 AD",
+ "Geography": "Egypt, Akhmim",
+ "Medium": "Plain weave in red wool (dyed with madder); applied borders with pattern weft in blue and red wool and undyed linen",
+ "Dimensions": [
+  "Overall including sleeves H. 20 1/2 in. (52.1 cm)",
+  "W. 25 9/16 in. (64.9 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of George F. Baker, 1890",
+ "Accession Number": "90.5.174",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Wool",
+  "Linen",
+  "Plain weave",
+  "Borders",
+  "Dyeing",
+  "Madder"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Akhmim"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140000829,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP242245.jpg",
+ "related-artworks": [
+  140000777,
+  140000845,
+  140000846,
+  140000847,
+  140000848
+ ],
+ "Provenance": [
+  "Emil Brugsch-Bey(until 1890",
+  "sold to Baker)",
+  "George F. Baker, New York (1890)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140000829"
+  }
+ }
+}

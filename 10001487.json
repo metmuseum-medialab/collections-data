@@ -1,0 +1,59 @@
+{
+ "Date": "1810–20",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": [
+  "Mahogany, mahogany veneer, gilded brass",
+  "with yellow poplar"
+ ],
+ "Dimensions": "28 1/2 x 36 in. (72.4 x 91.4 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "The Sylmaris Collection, Gift of George Coe Graves, 1931",
+ "Accession Number": "31.44.11",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Gilt",
+  "Wood",
+  "Furniture",
+  "Brass",
+  "Mahogany",
+  "Tables",
+  "Poplar",
+  "Veneer",
+  "Tulipwood",
+  "Card tables"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Duncan Phyfe (1768–1854) and Charles–Honoré Lannuier (1779–1819)",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10001487,
+ "gallery-id": 726,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/82725.jpg",
+ "related-artworks": [
+  10016209,
+  10010345,
+  10016210,
+  10005789,
+  10001484
+ ],
+ "Provenance": [
+  "Louis Guerineau Myers, New York, until 1931",
+  "[George Coe Graves, Osterville, Massachusetts, 1931]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001487"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1822",
+ "Culture": "British",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length at CB (a) 9 1/4 in. (23.5 cm)",
+  "Length at CB (b) 43 1/2 in. (110.5 cm)"
+ ],
+ "Credit Line": "Purchase, Irene Lewisohn Bequest, 1980",
+ "Accession Number": "1980.145.1a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80003274,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1980.145.1ab_F.jpg",
+ "related-artworks": [
+  80001521,
+  80001727,
+  80002668,
+  80002669,
+  80002671
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80003274"
+  }
+ }
+}

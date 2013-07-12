@@ -1,0 +1,45 @@
+{
+ "Date": "late 15th–early 16th century",
+ "Geography": "Made in Limoges, France",
+ "Culture": "French",
+ "Medium": "Painted enamel, copper",
+ "Dimensions": "Overall (without frame) 5 3/8 x 5 1/8 x 1/16 in. (13.7 x 13 x 0.2 cm)",
+ "Classification": "Enamels",
+ "Credit Line": "Fletcher Fund, 1945",
+ "Accession Number": "45.60.31",
+ "Who": "High Foreheads",
+ "What": [
+  "Metal",
+  "Copper",
+  "Painting",
+  "Enamels",
+  "Plaques"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Limousin",
+  "Limoges"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170008074,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf45-60-31s1.jpg",
+ "related-artworks": [
+  170007709,
+  170007718,
+  170008073,
+  170021144,
+  170003531
+ ],
+ "Provenance": [
+  "Jules S. Bache, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170008074"
+  }
+ }
+}

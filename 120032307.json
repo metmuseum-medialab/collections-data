@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Machine net",
+ "Dimensions": [
+  "L. 22 x W. 18 inches",
+  "55.9 x 45.7 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.289",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Net",
+  "Curtains",
+  "Machine lace"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120032307,
+ "related-artworks": [
+  120032306,
+  120030313,
+  120032310,
+  120032341,
+  120030310
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032307"
+  }
+ }
+}

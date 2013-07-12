@@ -1,0 +1,45 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1795",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "H. 15 1/16 in. (38.3 cm); W. 9 7/8 in. (25.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "JP1438",
+ "Who": "Kitagawa Utamaro",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japonisme",
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60012862,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP135601.jpg",
+ "related-artworks": [
+  60012762,
+  60012860,
+  60000717,
+  60000718,
+  60000720
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60012862"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Period": "Song dynasty (960–1279)",
+ "Culture": "China",
+ "Medium": "Album leaf; ink and color on silk",
+ "Dimensions": "9 15/16 x 10 1/4 in. (25.2 x 26 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947",
+ "Accession Number": "47.18.63",
+ "Who": "Ma Lin",
+ "What": [
+  "Silk",
+  "Ink",
+  "Books",
+  "Paintings",
+  "Albums"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Chinese Painting",
+  "Southern Song Dynasty (1127–1279)",
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60000112,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP153508.jpg",
+ "related-artworks": [
+  60007271,
+  60000074,
+  60022556,
+  60022580,
+  60029970
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60000112"
+  }
+ }
+}

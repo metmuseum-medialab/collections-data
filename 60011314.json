@@ -1,0 +1,44 @@
+{
+ "Period": "Han dynasty (206 B.C.–A.D. 220)",
+ "Culture": "China",
+ "Medium": "Nephrite",
+ "Dimensions": "H. 10 5/8 in. (27 cm); W. 8 3/8 in. (21.2 cm); L. 1/2 in. (1.3 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.327",
+ "What": [
+  "Jade",
+  "Idiophones",
+  "Nephrite",
+  "Gongs"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000 B.C.–1 A.D.",
+  "Central and North Asia, 1–500A.D.",
+  "China, 1–500A.D.",
+  "Central and North Asia, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60011314,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/83075.jpg",
+ "related-artworks": [
+  60011591,
+  60011383,
+  60011390,
+  60000532,
+  60006654
+ ],
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60011314"
+  }
+ }
+}

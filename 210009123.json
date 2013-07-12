@@ -1,0 +1,32 @@
+{
+ "Date": "1953",
+ "Medium": "Graphite on paper",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Robert Beverly Hale, 1960",
+ "Accession Number": "56.106.2-43",
+ "Who": "Richard Lippold",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009123,
+ "related-artworks": [
+  210009353,
+  210009122,
+  210000827
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009123"
+  }
+ }
+}

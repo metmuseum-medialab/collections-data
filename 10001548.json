@@ -1,0 +1,46 @@
+{
+ "Date": "1870–90",
+ "Geography": "Mid-Atlantic, Tarentum, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Pressed purple marble glass",
+ "Dimensions": "H. 8 1/2 in. (21.6 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Emily Winthrop Miles, 1946",
+ "Accession Number": "46.140.652",
+ "Who": "Challinor, Taylor  Company",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Vases",
+  "Marble",
+  "Celery glasses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Tarentum"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001548,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/182053.jpg",
+ "related-artworks": [
+  10001549,
+  10009628,
+  10002725,
+  10002727,
+  10002726
+ ],
+ "Provenance": [
+  "Mrs. Emily Winthrop Miles, New York, until 1946"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001548"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1615–1868",
+ "Culture": "Japanese",
+ "Classification": "Armor Parts",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.372a–c",
+ "What": [
+  "Costume",
+  "Armor",
+  "Body armor",
+  "Cuirasses",
+  "Brigandines"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40002220,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40002404"
+   },
+   {
+    "href": "http://scrapi.org/object/40002405"
+   },
+   {
+    "href": "http://scrapi.org/object/40000741"
+   },
+   {
+    "href": "http://scrapi.org/object/40000743"
+   },
+   {
+    "href": "http://scrapi.org/object/40000775"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40002220"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40002220"
+  }
+ }
+}

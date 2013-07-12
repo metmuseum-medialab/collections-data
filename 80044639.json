@@ -1,0 +1,35 @@
+{
+ "Date": "1880s",
+ "Culture": "American or European",
+ "Medium": "straw, silk",
+ "Dimensions": "Length (front to back) 7 1/4 in. (18.4 cm)",
+ "Credit Line": "Gift of Mrs. Robert S. Kilborne, 1958",
+ "Accession Number": "C.I.58.67.32",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Straw",
+  "Bonnets"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80044639,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI58.67.32_S.jpg",
+ "related-artworks": [
+  80031855,
+  80005776,
+  80044442,
+  80106651,
+  80107015
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80044639"
+  }
+ }
+}

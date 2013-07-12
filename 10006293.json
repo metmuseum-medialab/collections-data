@@ -1,0 +1,45 @@
+{
+ "Maker": "Attributed to Joseph Harbeson (1770–1822)",
+ "Date": "ca. 1800",
+ "Geography": "Mid-Atlantic, Philadelphia, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Pewter",
+ "Dimensions": "Diam. 8 7/8 in. (22.5 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Joseph France, 1943",
+ "Accession Number": "43.162.28",
+ "Who": [
+  "Benjamin Harbeson Jr.",
+  "Joseph Harbeson"
+ ],
+ "What": [
+  "Metal",
+  "Dishes",
+  "Plates",
+  "Pewter"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Philadelphia"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10006293,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/132017.jpg",
+ "related-artworks": [
+  10006252,
+  10003376,
+  10003401,
+  10003374,
+  10025161
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006293"
+  }
+ }
+}

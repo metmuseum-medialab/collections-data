@@ -1,0 +1,36 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes",
+ "Medium": "Terracotta",
+ "Credit Line": "Gift of Norman de Garis Davies, 1930",
+ "Accession Number": "30.6.125",
+ "What": [
+  "Clay",
+  "Terracotta"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100012603,
+ "related-artworks": [
+  100001292,
+  100002146,
+  100002573,
+  100005262,
+  100006119
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100012603"
+  }
+ }
+}

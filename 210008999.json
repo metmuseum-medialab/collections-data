@@ -1,0 +1,42 @@
+{
+ "Date": "1923",
+ "Medium": "Oil on wood",
+ "Dimensions": [
+  "H. 20, W. 15 inches",
+  "(60.8 x 38.1 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Margaret Seligman Lewisohn, in memory of her husband, Sam A. Lewisohn, 1954",
+ "Accession Number": "54.143.4",
+ "Who": "Guy Pène du Bois",
+ "What": [
+  "Paintings",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210008999,
+ "related-artworks": [
+  210007399,
+  210008281,
+  210008429,
+  210009494,
+  210001394
+ ],
+ "Provenance": [
+  "Samuel A. Lewisohn, New York (1923/24–d. 1951)",
+  "his widow, Margaret Seligman Lewisohn, New York (1951–d. 1954",
+  "her bequest to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210008999"
+  }
+ }
+}

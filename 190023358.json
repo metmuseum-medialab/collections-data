@@ -1,0 +1,63 @@
+{
+ "Artist": "Elliott and Fry (British, London)",
+ "Date": "1860s–70s",
+ "Classification": "Albums",
+ "Credit Line": "Jefferson R. Burdick Bequest, 1969",
+ "Accession Number": "69.639.1",
+ "Who": [
+  "London Stereoscopic  Photographic Company",
+  "Jeremiah Gurney",
+  "Elliott  Fry",
+  "Hills  Saunders",
+  "William Downey",
+  "Charles DeForest Fredricks",
+  "Cornelius Jabez Hughes",
+  "Fritz Luckhardt",
+  "Russell  Sons",
+  "Appleton",
+  "Giulio Rossi",
+  "Renowden"
+ ],
+ "What": [
+  "Books",
+  "Albums"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190023358,
+ "Description": "The inexpensive eight-at-a-time method of making cartes de visite made it easy and inviting to give one's own portrait to friends and family and to collect theirs, along with pictures of notable public figures.  This album is filled with portraits of the British royal family, beginning with Queen Victoria and Prince Albert and including, at the left of this spread, Alexandra, Princess of Wales, whose personal photo-collage album is displayed in the center of this room.  Along with portraits of other European royalty, this album contains cartes of Dr. Livingstone, Garibaldi, Mark Twain, and Tom Thumb.Responding to the immense popularity of carte-de-visite collecting, albums were manufactured with pre-cut windows and slots through which one could insert standard size cartes.  Typically, such albums featured embossed decoration or simple decorative lines, as in this example, to frame the photographs.",
+ "Provenance": [
+  "Harvey Brewer"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190023338"
+   },
+   {
+    "href": "http://scrapi.org/object/190021443"
+   },
+   {
+    "href": "http://scrapi.org/object/190020590"
+   },
+   {
+    "href": "http://scrapi.org/object/190011618"
+   },
+   {
+    "href": "http://scrapi.org/object/190015034"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190023358"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190023358"
+  }
+ }
+}

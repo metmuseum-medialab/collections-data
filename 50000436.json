@@ -1,0 +1,46 @@
+{
+ "Date": "3rd–5th century",
+ "Geography": "Peru",
+ "Culture": "Moche",
+ "Medium": "Ceramic, slip",
+ "Dimensions": [
+  "Overall 8 5/8 x 5 1/8 in. (21.91 x 13 cm)",
+  "Other 5 1/8 in. (13 cm)"
+ ],
+ "Classification": "Ceramics-Containers",
+ "Credit Line": "Gift of Nathan Cummings, 1964",
+ "Accession Number": "64.228.35",
+ "Who": "Moche",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Bottles",
+  "Slip"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50000436,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/64.228.35.jpg",
+ "related-artworks": [
+  50000437,
+  50000976,
+  50000980,
+  50001079,
+  50001080
+ ],
+ "Provenance": [
+  "Bruno J. Wassermann-San Blas Collection, Buenos Aires, Argentina, acquired by 1938, until 1954",
+  "Nathan Cummings, Chicago, 1954–1964"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000436"
+  }
+ }
+}

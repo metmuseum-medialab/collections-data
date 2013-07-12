@@ -1,0 +1,53 @@
+{
+ "Date": "19th century",
+ "Culture": "European",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 8 1/4 x W. 6 1/4 inches",
+  "21.0 x 15.9 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.871",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "id": 120041660,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP2678.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/DP2678.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP2678_36.90.871.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120033362"
+   },
+   {
+    "href": "http://scrapi.org/object/120033364"
+   },
+   {
+    "href": "http://scrapi.org/object/120033367"
+   },
+   {
+    "href": "http://scrapi.org/object/120033395"
+   },
+   {
+    "href": "http://scrapi.org/object/120033373"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120041660"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120041660"
+  }
+ }
+}

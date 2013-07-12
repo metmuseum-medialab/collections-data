@@ -1,0 +1,40 @@
+{
+ "Period": "Nara period (710–794), Tempyō (729–749)",
+ "Date": "8th century",
+ "Culture": "Japan",
+ "Medium": "Plain cloth",
+ "Dimensions": "12 x 10 in. (30.48 x 25.40 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1944",
+ "Accession Number": "44.48.7",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Painting",
+  "Printing",
+  "Plain weave",
+  "Cloth"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60043182,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/132493.jpg",
+ "related-artworks": [
+  60038535,
+  60043177,
+  60043181,
+  60043183,
+  60043184
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043182"
+  }
+ }
+}

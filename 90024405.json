@@ -1,0 +1,43 @@
+{
+ "Publisher": "Published by Johann Christoph Weigel's Widow",
+ "Printer": "Printed by Lorenz Bieling (German)",
+ "Date": "1728–32",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 13 7/8 x 8 11/16 x 1 9/16 in. (35.2 x 22 x 4 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1958",
+ "Accession Number": "58.590.2",
+ "Who": [
+  "Johann Jakob Schübler",
+  "Johann Christoph Weigel's Widow",
+  "Lorenz Bieling"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024405,
+ "related-artworks": [
+  90011149,
+  90023775,
+  90023782,
+  90023770,
+  90023839
+ ],
+ "Provenance": [
+  "Vendor: F. & G. Staack"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024405"
+  }
+ }
+}

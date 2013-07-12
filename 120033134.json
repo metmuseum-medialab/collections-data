@@ -1,0 +1,44 @@
+{
+ "Date": "16th–17th century",
+ "Culture": "Italian or Greek",
+ "Medium": "Silk on linen",
+ "Dimensions": [
+  "L. 9 x W. 3 1/2 inches",
+  "22.9 x 8.9 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.68",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Linen",
+  "Embroidery"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120033134,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP2522.jpg",
+ "related-artworks": [
+  120030749,
+  120033121,
+  120034159,
+  120034175,
+  120034153
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120033134"
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "Date": "1898",
+ "Medium": "Lithograph printed with beige tint stone on vellum",
+ "Dimensions": "19-5/8 x 14-7/8 in.  (49.8 x 37.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. H. Wolf, 1917",
+ "Accession Number": "17.52.9",
+ "Who": "Henri de Toulouse-Lautrec",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Stone",
+  "Parchment",
+  "Vellum"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Vincent van Gogh (1853–1890) The Drawings",
+  "Henri de Toulouse–Lautrec (1864–1901)",
+  "The Print in the Nineteenth Century",
+  "Post–Impressionism",
+  "Art Nouveau",
+  "Japonisme",
+  "The Lure of Montmartre, 1880–1900",
+  "Lithography in the Nineteenth Century",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90001658,
+ "related-artworks": [
+  90000098,
+  90000138,
+  90000373,
+  90000436,
+  90000437
+ ],
+ "Provenance": [
+  "Donor: Mrs. H. Wolf"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90001658"
+  }
+ }
+}

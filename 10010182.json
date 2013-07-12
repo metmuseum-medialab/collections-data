@@ -1,0 +1,50 @@
+{
+ "Manufacturer": "Manufactured by Purcell, Feick and Elmslie (1909–13)",
+ "Date": "1911",
+ "Geography": "Midwest, Minneapolis, Minnesota, United States",
+ "Culture": "American",
+ "Medium": "Glass",
+ "Dimensions": "63 x 15 in. (160 x 38.1 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Roger G. Kennedy, 1972",
+ "Accession Number": "1972.20.2",
+ "Who": [
+  "George Grant Elmslie",
+  "Purcell, Feick  Elmslie"
+ ],
+ "What": [
+  "Glass",
+  "Stained glass",
+  "Windows"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Minnesota",
+  "Minneapolis"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The Arts and Crafts Movement in America",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10010182,
+ "gallery-id": 707,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP214426.jpg",
+ "related-artworks": [
+  10010181,
+  10010183,
+  210001204,
+  10003941
+ ],
+ "Provenance": [
+  "Roger Kennedy, New York, until 1911"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10010182"
+  }
+ }
+}

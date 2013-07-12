@@ -1,0 +1,41 @@
+{
+ "Artist": "or Giulio Romano (Italian, Rome 1499?–1546 Mantua)",
+ "Date": "ca. 1514–36",
+ "Medium": "Engraving",
+ "Dimensions": "9 x 6 1/8 in.  (22.8 x 15.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.97.166",
+ "Who": [
+  "Raphael (Raffaello Sanzio  Santi)",
+  "Giulio Romano",
+  "Agostino Veneziano (Agostino dei Musi)"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90010132,
+ "related-artworks": [
+  90003578,
+  90005546,
+  90010033,
+  90010034,
+  90010035
+ ],
+ "Provenance": [
+  "Graphische Sammlung Albertina"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010132"
+  }
+ }
+}

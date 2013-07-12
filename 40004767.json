@@ -1,0 +1,41 @@
+{
+ "Date": "13th century",
+ "Culture": "French or German",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Gift of Clarence H. Mackay, Archer M. Huntington, Stephen H. P. Pell and Bashford Dean, 1928",
+ "Accession Number": "28.99.45",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40004767,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40001113"
+   },
+   {
+    "href": "http://scrapi.org/object/40003950"
+   },
+   {
+    "href": "http://scrapi.org/object/40004765"
+   },
+   {
+    "href": "http://scrapi.org/object/40004755"
+   },
+   {
+    "href": "http://scrapi.org/object/40004750"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40004767"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40004767"
+  }
+ }
+}

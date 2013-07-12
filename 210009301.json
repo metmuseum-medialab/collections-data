@@ -1,0 +1,41 @@
+{
+ "Date": "1907",
+ "Medium": "Pastel on paper",
+ "Dimensions": "10 1/8 x 12 in. (25.7 x 30.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Alexandrine Sinsheimer, 1958",
+ "Accession Number": "59.23.86",
+ "Rights and Reproduction": "© 2011 Artists Rights Society (ARS), New York",
+ "Who": "John Marin",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Pastels"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "Georgia O'Keeffe (1887–1986)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210009301,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf59.23.86.jpg",
+ "related-artworks": [
+  210003604,
+  210005998,
+  210007105,
+  210007106,
+  210007400
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009301"
+  }
+ }
+}

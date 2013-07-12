@@ -1,0 +1,47 @@
+{
+ "Date": "10th–16th century",
+ "Geography": "Colombia, Guatavita Lake region",
+ "Culture": "Muisca",
+ "Medium": "Gold (cast)",
+ "Dimensions": "H. 2 3/8 x W. 5 7/8 x D. 3 1/8 in. (6 x 14.9 x 7.9 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.508",
+ "Who": "Chibcha",
+ "What": [
+  "Metal",
+  "Costume",
+  "Fragments",
+  "Gold",
+  "Headbands",
+  "Diadems"
+ ],
+ "Where": [
+  "South America",
+  "Colombia"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Northern Andes, 1400–1600 A.D.",
+  "Northern Andes, 500–1000 A.D."
+ ],
+ "id": 50005380,
+ "gallery-id": 357,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_206_508.jpg",
+ "related-artworks": [
+  50002004,
+  50010466,
+  50010467,
+  50002530,
+  50009390
+ ],
+ "Provenance": [
+  "[John Wise, Ltd., New York, until 1957]",
+  "Nelson A. Rockefeller, New York, 1957, on loan to The Museum of Primitive Art, New York, 1957–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50005380"
+  }
+ }
+}

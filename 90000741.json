@@ -1,0 +1,40 @@
+{
+ "Date": "1815–56",
+ "Medium": "Black chalk, stumped, with touches of brownish red chalk",
+ "Dimensions": "Sheet 14 1/4 x 22 1/4 in. (36.2 x 56.5cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Harry Leibovitz Bequest, 1990",
+ "Accession Number": "1990.219",
+ "Who": "Paul (Hippolyte) Delaroche",
+ "What": [
+  "Drawings",
+  "Chalk",
+  "Stumping"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90000741,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DT6477.jpg",
+ "related-artworks": [
+  90098928,
+  90006967,
+  90024402,
+  90093696,
+  90014846
+ ],
+ "Provenance": [
+  "Paul (Hippolyte) Delaroche (French, Paris 1797–1856 Paris)",
+  "Vendor: W. M. Brady and Co., Inc. (New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90000741"
+  }
+ }
+}

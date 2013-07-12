@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1774",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "14 7/8 x 9 5/8 in. (37.8 x 24.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Howard Mansfield Collection, Purchase, Rogers Fund, 1936",
+ "Accession Number": "JP2722",
+ "Who": "Utagawa Toyokuni I",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60028171,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP137004.jpg",
+ "related-artworks": [
+  60026188,
+  60026790,
+  60000809,
+  60026543,
+  60027207
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028171"
+  }
+ }
+}

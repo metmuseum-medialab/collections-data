@@ -1,0 +1,44 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian (Genoa)",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 8 x W. 1 1/2 inches  (20.3 x 3.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.186.59",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Liguria",
+  "Genoa"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120038545,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP3863.jpg",
+ "related-artworks": [
+  120038565,
+  120035379,
+  120038498,
+  120038554,
+  120038543
+ ],
+ "Provenance": [
+  "Ida Schiff",
+  "Miss Mary H. Smith , 1920",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120038545"
+  }
+ }
+}

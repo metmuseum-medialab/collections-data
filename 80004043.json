@@ -1,0 +1,39 @@
+{
+ "Date": "spring/summer 1996",
+ "Culture": "American",
+ "Medium": "(a) wool, wood; (b) leather, plastic",
+ "Dimensions": [
+  "Length at CB (a) 21 in. (53.3 cm)",
+  "Length (b) 35 1/4 in. (89.5 cm)"
+ ],
+ "Credit Line": "Gift of Geoffrey Beene, 2001",
+ "Accession Number": "2001.393.138a, b",
+ "Who": "Geoffrey Beene",
+ "What": [
+  "Wool",
+  "Leather",
+  "Ensembles",
+  "Plastic"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80004043,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2001.393.138ab_F.jpg",
+ "related-artworks": [
+  80003966,
+  80019891,
+  80004040,
+  80072292,
+  80011022
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80004043"
+  }
+ }
+}

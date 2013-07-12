@@ -1,0 +1,43 @@
+{
+ "Date": "1815–25",
+ "Culture": "French (Nantes or Rouen)",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 33 1/2 x W. 33 3/4 inches",
+  "85.1 x 85.7 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.69.7",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Rouen"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120037130,
+ "related-artworks": [
+  120037157,
+  120037214,
+  120039718,
+  120044023,
+  120048552
+ ],
+ "Provenance": [
+  "Alexander Wilson Drake , 1913",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120037130"
+  }
+ }
+}

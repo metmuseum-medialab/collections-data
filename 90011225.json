@@ -1,0 +1,40 @@
+{
+ "Publisher": "Published by J. P. Streng (German)",
+ "Date": "1842–43",
+ "Medium": "Lithograph",
+ "Dimensions": "10 13/16 x 16 15/16 x 13/16 in.  (27.5 x 43 x 2 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1968",
+ "Accession Number": "68.531",
+ "Who": [
+  "Wilhelm Kimbel",
+  "J. P. Streng"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90011225,
+ "related-artworks": [
+  90011224,
+  90011258,
+  90011259,
+  90011275,
+  90020056
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90011225"
+  }
+ }
+}

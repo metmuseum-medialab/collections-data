@@ -1,0 +1,41 @@
+{
+ "Date": "1970s",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "Image 26.1 x 26.9 cm (10 1/4 x 10 9/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.261.211",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": "Walker Evans",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Walker Evans (1903–1975)",
+  "Kodak and the Rise of Amateur Photography",
+  "Early Documentary Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190038118,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP111660.jpg",
+ "related-artworks": [
+  190011732,
+  190011722,
+  190011734,
+  190011723,
+  190011735
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190038118"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1st century",
+ "Culture": "Pakistan (ancient region of Gandhara)",
+ "Medium": "Stone",
+ "Dimensions": "H. 1 5/8 in. (4.1 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Samuel Eilenberg Collection, Gift of Samuel Eilenberg, 1987",
+ "Accession Number": "1987.142.97",
+ "What": [
+  "Costume",
+  "Stone",
+  "Jewelry",
+  "Molds"
+ ],
+ "Where": [
+  "Asia",
+  "Pakistan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia, 1–500A.D.",
+  "South Asia, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60005462,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1987_142_97_DP123345.jpg",
+ "related-artworks": [
+  60005657,
+  60004337,
+  60004671,
+  60004706,
+  60005688
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005462"
+  }
+ }
+}

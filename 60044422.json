@@ -1,0 +1,36 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Paper",
+ "Dimensions": "16 1/4 x 10 1/2 in. (41.3 x 26.7 cm)",
+ "Classification": "Stencils",
+ "Credit Line": "Purchase, Mrs. Helen M. Meserve Gift, 1981",
+ "Accession Number": "1981.10.11",
+ "What": [
+  "Paper",
+  "Stencils"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60044422,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP13812.jpg",
+ "related-artworks": [
+  60044448,
+  60044453,
+  60044456,
+  60044469,
+  60024259
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044422"
+  }
+ }
+}

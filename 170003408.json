@@ -1,0 +1,46 @@
+{
+ "Date": "late 14th–early 15th century",
+ "Geography": "Made in probably Orvieto, Umbria, Italy",
+ "Culture": "Italian",
+ "Medium": "Earthenware, tin-glaze (Majolica)",
+ "Dimensions": "Overall 10 13/16 x 8 in. (27.4 x 20.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.135.4",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Jugs",
+  "Maiolica"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Umbrian",
+  "Orvieto"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170003408,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf12-135-4s1.jpg",
+ "related-artworks": [
+  170003379,
+  170008027,
+  170003562,
+  170003377,
+  170008133
+ ],
+ "Provenance": [
+  "[ Julius Böhler Kunsthandlung, Munich (sold 1912)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170003408"
+  }
+ }
+}

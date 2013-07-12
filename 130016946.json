@@ -1,0 +1,44 @@
+{
+ "Period": "Late Classical",
+ "Date": "4th century B.C.",
+ "Culture": "Greek, South Italian, Campanian",
+ "Medium": "Terracotta; black-glaze",
+ "Dimensions": "H. 4.70 cm.",
+ "Classification": "Vases",
+ "Credit Line": "Bequest of Armida B. Colt, 2011",
+ "Accession Number": "2012.477.8",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Askoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130016946,
+ "related-artworks": [
+  130008947,
+  130014709,
+  130007049,
+  130008572,
+  130011889
+ ],
+ "Provenance": [
+  "By 1966 and until 1973, collection of Harris Dunscombe Colt, Jr., New York",
+  "1973-2011, collection of Mrs. Harris Dunscombe Colt, Washington and London",
+  "from 1966, on loan to the Metropolitan Museum of Art",
+  "acquired in 2012, bequest of Mrs. H.D. Colt."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130016946"
+  }
+ }
+}

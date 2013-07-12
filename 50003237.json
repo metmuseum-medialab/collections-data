@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Geography": "United States, Alaska",
+ "Culture": "Tlingit",
+ "Medium": "Bone, vegetable fiber, string",
+ "Dimensions": "L. (longest) 7 1/2 x L. (shortest) 3 5/3 in. (19.1 x 9.3 cm)",
+ "Classification": "Beads-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Gift of Mr. and Mrs. Robert W. Campbell, 1968",
+ "Accession Number": "1978.412.212",
+ "Who": "Tlingit",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Bone",
+  "Necklaces"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Alaska"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50003237,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1978.412.212.jpg",
+ "related-artworks": [
+  50005748,
+  50005749,
+  50005750,
+  50005765,
+  50012200
+ ],
+ "Provenance": [
+  "Private collection, Pacific Northwest, ca. 1885–mid-1940s",
+  "Robert W. Campbell, Portland, OR, mid-1940s–1968",
+  "The Museum of Primitive Art, New York, 1968–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50003237"
+  }
+ }
+}

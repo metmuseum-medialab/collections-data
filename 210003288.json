@@ -1,0 +1,38 @@
+{
+ "Medium": "Cotton and metallic threads",
+ "Dimensions": [
+  "H. 208, W. 52-3/8 inches",
+  "(528 x 133 cm.)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of the designer, 1984",
+ "Accession Number": "1984.242.16",
+ "Who": "Jack Lenor Larsen",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210003288,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/RT877.jpg",
+ "related-artworks": [
+  210001365,
+  210001369,
+  210003283,
+  210003285,
+  210003290
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003288"
+  }
+ }
+}

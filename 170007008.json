@@ -1,0 +1,35 @@
+{
+ "Date": "15th century",
+ "Culture": "European",
+ "Classification": "Glass-Stained",
+ "Credit Line": "Gift of George D. Pratt, 1930",
+ "Accession Number": "30.73.104",
+ "What": [
+  "Glass",
+  "Fragments",
+  "Stained glass"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170007008,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cdi30-73-104.jpg",
+ "related-artworks": [
+  170006009,
+  170006008,
+  170006364,
+  170006377,
+  170006378
+ ],
+ "Provenance": [
+  "George D. PrattGlen Cove, NY (until 1930)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170007008"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1625",
+ "Medium": "Etching and engraving; first state of two (Lieure)",
+ "Dimensions": [
+  "Sheet 7 5/16 x 10 1/2 in. (18.5 x 26.6 cm)",
+  "Plate 2 15/16 x 2 3/16 in. (7.5 x 5.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Edwin De T. Bechtel, 1957",
+ "Accession Number": "57.650.358",
+ "Who": "Jacques Callot",
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90092742,
+ "related-artworks": [
+  90010397,
+  90014436,
+  90028114,
+  90034063,
+  90034064
+ ],
+ "Provenance": [
+  "Junius Spencer Morgan",
+  "Donor: Edwin De Turck Bechtel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90092742"
+  }
+ }
+}

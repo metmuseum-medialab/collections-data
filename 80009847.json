@@ -1,0 +1,48 @@
+{
+ "Design House": "Miyake Design Studio (Japanese)",
+ "Date": "ca. 1984",
+ "Culture": "Japanese",
+ "Medium": "a,b) cotton, acrylic, acetate, nylon",
+ "Dimensions": [
+  "a) Length at CB 28 in. (71.1 cm)",
+  "b) Length at CB 20 in. (50.8 cm)"
+ ],
+ "Credit Line": "Gift of Muriel Kallis Newman, 2003",
+ "Accession Number": "2003.79.17a, b",
+ "Who": [
+  "Issey Miyake",
+  "Miyake Design Studio"
+ ],
+ "What": [
+  "Cotton",
+  "Ensembles",
+  "Plastic",
+  "Nylon",
+  "Acrylic"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Miyake, Kawakubo, and Yamamoto Japanese Fashion in the Twentieth Century",
+  "Japan, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80009847,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2003.79.17ab_F2.jpg",
+ "related-artworks": [
+  80052654,
+  80032798,
+  80032799,
+  80009846,
+  80043531
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80009847"
+  }
+ }
+}

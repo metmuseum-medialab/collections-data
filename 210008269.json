@@ -1,0 +1,37 @@
+{
+ "Date": "1938",
+ "Medium": "Macassar ebony",
+ "Dimensions": "52 x 14 7/8 x 12in. (132.1 x 37.8 x 30.5cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1942",
+ "Accession Number": "42.172",
+ "Rights and Reproduction": "© 2010 Artists Rights Society (ARS), New York",
+ "Who": "Chaim Gross",
+ "What": [
+  "Sculpture",
+  "Wood",
+  "Ebony"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210008269,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf42.172.jpg",
+ "related-artworks": [
+  210002766,
+  210003425,
+  210008247,
+  210002414,
+  210007211
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210008269"
+  }
+ }
+}

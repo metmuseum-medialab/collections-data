@@ -1,0 +1,43 @@
+{
+ "Object Name": "Illustrated single work",
+ "Reign": "Shah Jahan (1628–58)",
+ "Date": "17th century",
+ "Geography": "India",
+ "Medium": "Ink and wash on paper",
+ "Dimensions": "5 3/4 x 4in. (14.6 x 10.2cm)",
+ "Classification": "Codices",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.42",
+ "What": [
+  "Ink",
+  "Paper",
+  "Manuscripts",
+  "Codices"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140004302,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf19-42r.jpg",
+ "related-artworks": [
+  140003169,
+  140002466,
+  140003153,
+  140003797,
+  140005051
+ ],
+ "Provenance": [
+  "[ Kirkor Minassian, Paris and New York, by 1912–19",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004302"
+  }
+ }
+}

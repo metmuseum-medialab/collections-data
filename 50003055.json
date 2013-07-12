@@ -1,0 +1,42 @@
+{
+ "Date": "7th–8th century",
+ "Geography": "Mexico, Mesoamerica",
+ "Culture": "Maya",
+ "Medium": "Ceramic",
+ "Dimensions": "H. 3 3/8 x W. 1 7/8 x D. 2 1/2 in. (8.6 x 4.8 x 6.4 cm)",
+ "Classification": "Ceramics-Sculpture",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Gift of Nelson A. Rockefeller, 1963",
+ "Accession Number": "1978.412.19",
+ "Who": "Maya",
+ "What": [
+  "Ceramics",
+  "Sculpture"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Mexico, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50003055,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1978.412.19.JPG",
+ "related-artworks": [
+  50003048,
+  50003131,
+  50005577,
+  50006004,
+  50011495
+ ],
+ "Provenance": [
+  "[Stendahl Gallery, Los Angeles, until 1956]",
+  "Nelson A. Rockefeller, New York, 1956, on loan to The Museum of Primitive Art, New York, 1956–1963",
+  "The Museum of Primitive Art, New York, 1963–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50003055"
+  }
+ }
+}

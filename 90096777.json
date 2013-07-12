@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1620",
+ "Medium": "Etching; first state of four (Lieure)",
+ "Dimensions": "Sheet 3 3/8 x 3 9/16 in. (8.6 x 9.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry G. Friedman, 1962",
+ "Accession Number": "62.635.931",
+ "Who": "Jacques Callot",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90096777,
+ "related-artworks": [
+  90003572,
+  90008838,
+  90010396,
+  90010397,
+  90010780
+ ],
+ "Provenance": [
+  "Donor: Harry G. Friedman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90096777"
+  }
+ }
+}

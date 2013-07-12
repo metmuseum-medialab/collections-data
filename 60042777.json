@@ -1,0 +1,38 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "18th century(?)",
+ "Culture": "China",
+ "Medium": "Silk",
+ "Dimensions": "70 x 22 1/4 in. (177.80 x 56.52 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Fletcher Fund, 1941",
+ "Accession Number": "41.123.5",
+ "What": [
+  "Silk",
+  "Textiles"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60042777,
+ "related-artworks": [
+  60041430,
+  60041993,
+  60042443,
+  60042681,
+  60042788
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60042777"
+  }
+ }
+}

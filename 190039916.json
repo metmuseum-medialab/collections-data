@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1909–12",
+ "Medium": "Autochrome",
+ "Dimensions": "24 x 18.1 cm (9.44 x 7.12 in.)",
+ "Classification": "Transparencies",
+ "Credit Line": "Gilman Collection, Museum Purchase, 2005",
+ "Accession Number": "2005.100.750",
+ "Rights and Reproduction": "© Estate of Heinrich Kühn/Courtesy Gallery Kicken Berlin",
+ "Who": "Heinrich Kühn",
+ "What": [
+  "Photographs",
+  "Transparencies",
+  "Autochromes"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190039916,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP170750.jpg",
+ "related-artworks": [
+  190039701,
+  190039702,
+  190039911,
+  190039912,
+  190039913
+ ],
+ "Provenance": [
+  "Graphics International, Ltd., 10/17/79",
+  "Gilman Paper Company Collection"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190039916"
+  }
+ }
+}

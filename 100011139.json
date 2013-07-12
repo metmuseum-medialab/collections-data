@@ -1,0 +1,39 @@
+{
+ "Period": "Third Intermediate Period or later",
+ "Dynasty": "Dynasty 21–25",
+ "Date": "ca. 1070–664 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Blue faience",
+ "Dimensions": "h. 10.2 cm (4 in)",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.1069",
+ "What": [
+  "Sculpture",
+  "Faience",
+  "Shabti"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100011139,
+ "gallery-id": 130,
+ "related-artworks": [
+  100001207,
+  100001294,
+  100002497,
+  100006264,
+  100006282
+ ],
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100011139"
+  }
+ }
+}

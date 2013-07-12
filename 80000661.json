@@ -1,0 +1,49 @@
+{
+ "Date": "1940s",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": "Length at CB 12 1/4 in. (31.1 cm)",
+ "Credit Line": "The Jacqueline Loewe Fowler Costume Collection, Gift of Jacqueline Loewe Fowler, 1997",
+ "Accession Number": "1997.170.5",
+ "What": [
+  "Costume",
+  "Wool",
+  "Sports clothing",
+  "Trunks"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80000661,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1997.170.5.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80001400"
+   },
+   {
+    "href": "http://scrapi.org/object/80002327"
+   },
+   {
+    "href": "http://scrapi.org/object/80014669"
+   },
+   {
+    "href": "http://scrapi.org/object/80014673"
+   },
+   {
+    "href": "http://scrapi.org/object/80014682"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80000661"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80000661"
+  }
+ }
+}

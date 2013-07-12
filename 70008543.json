@@ -1,0 +1,45 @@
+{
+ "Date": "14th century",
+ "Geography": "Made in Florence, Italy",
+ "Culture": "Italian",
+ "Medium": "Silk on canvas",
+ "Dimensions": "11 3/8 x 16 1/2 in.  (28.9 x 41.9 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "The Cloisters Collection, 1960",
+ "Accession Number": "60.148.3",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Canvas",
+  "Panels"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Florence"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70008543,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/DP167113.jpg",
+ "related-artworks": [
+  70008542,
+  70008544,
+  70008545,
+  70008541,
+  70008558
+ ],
+ "Provenance": [
+  "[ Adolph Loewi, Inc. , Los Angeles (sold 1960)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70008543"
+  }
+ }
+}

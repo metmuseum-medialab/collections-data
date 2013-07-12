@@ -1,0 +1,45 @@
+{
+ "Date": "1825–40",
+ "Geography": "New England, Sandwich, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Blown-molded glass",
+ "Dimensions": "H. 2 15/16 in. (7.5 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Henry G. Schiff, 1980",
+ "Accession Number": "1980.502.31a, b",
+ "Who": "Boston & Sandwich Glass Company",
+ "What": [
+  "Glass",
+  "Blown glass",
+  "Toys",
+  "Decanters"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Sandwich"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10003151,
+ "gallery-id": 706,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP206746.jpg",
+ "related-artworks": [
+  10003149,
+  10003150,
+  10003152,
+  10003154,
+  10003168
+ ],
+ "Provenance": [
+  "Henry G. Schiff, South Salem, New York, until 1980"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003151"
+  }
+ }
+}

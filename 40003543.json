@@ -1,0 +1,36 @@
+{
+ "Date": "19th century",
+ "Culture": "Japanese",
+ "Medium": "Copper, Shakudo",
+ "Dimensions": "3-13/16 x 9/16 in.",
+ "Classification": "Sword Furniture",
+ "Credit Line": "Gift of Herman A. E. and Paul C. Jaehne, 1943",
+ "Accession Number": "43.120.295",
+ "What": [
+  "Metal",
+  "Arms",
+  "Edged weapons",
+  "Copper",
+  "Swords"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40003543,
+ "related-artworks": [
+  40000865,
+  40001275,
+  40004075,
+  40004247,
+  40004500
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40003543"
+  }
+ }
+}

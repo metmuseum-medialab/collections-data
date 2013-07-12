@@ -1,0 +1,42 @@
+{
+ "Artist": "Virginia Beahan",
+ "Date": "1988",
+ "Medium": "Chromogenic print",
+ "Dimensions": "74.3 x 94 cm (29 1/4 x 37 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Laura McPhee and Virginia Beahan, 2000",
+ "Accession Number": "2000.101",
+ "Rights and Reproduction": "© Laura McPhee and Virginia Beahan",
+ "Who": [
+  "Laura McPhee",
+  "Virginia Beahan"
+ ],
+ "What": [
+  "Photographs",
+  "Chromogenic prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190036897,
+ "related-artworks": [
+  190036867,
+  190036868,
+  190036865,
+  190036866,
+  190018676
+ ],
+ "Provenance": [
+  "the artists"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190036897"
+  }
+ }
+}

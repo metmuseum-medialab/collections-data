@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1883, based on earlier design",
+ "Medium": "Graphite, ink, and gouache",
+ "Dimensions": "sheet 15 15/16 x 11 in. (40.5 x 27.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Lila Acheson Wallace Gift, 1992",
+ "Accession Number": "1992.1046.14a, b",
+ "Who": "Christopher Dresser",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Graphite",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Nineteenth–Century European Textile Production",
+  "Exoticism in the Decorative Arts",
+  "Design Reform",
+  "Christopher Dresser (1834–1904)",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90034361,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP801229.jpg",
+ "related-artworks": [
+  90034352,
+  90034353,
+  90034363,
+  90034360,
+  90025781
+ ],
+ "Provenance": [
+  "Vendor: The Fine Art Society, London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90034361"
+  }
+ }
+}

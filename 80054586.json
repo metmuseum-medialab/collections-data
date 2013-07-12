@@ -1,0 +1,36 @@
+{
+ "Date": "spring/summer 1973",
+ "Culture": "American",
+ "Medium": "synthetic",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Hanes Hosiery, Inc., 1974",
+ "Accession Number": "1974.248.3a–c",
+ "Who": "Hanes Hosiery, Inc.",
+ "What": [
+  "Costume",
+  "Hosiery",
+  "Pantyhose"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80054586,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1974.248.3a–c.jpg",
+ "related-artworks": [
+  80054581,
+  80054585,
+  80054584,
+  80054589,
+  80054583
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80054586"
+  }
+ }
+}

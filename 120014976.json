@@ -1,0 +1,58 @@
+{
+ "Engraver": "Frieda Bastanier (German)",
+ "Date": "1931–39",
+ "Culture": "German, Berlin",
+ "Medium": "Bronze, silver, and ivory",
+ "Dimensions": [
+  "Chessboard, Diam. 55 in.  (139.7 cm);",
+  "48.150 a H. 4 7/8 in. (12.4 cm.);",
+  "48.150 c H. 6 3/4 in. (17.1 cm.);",
+  "48.150 e H. 7 3/4 in. (19.7 cm.);",
+  "48.150 f H. 6 3/4 in. (17.1 cm.);",
+  "48.150 h H. 4 7/8 in. (12.4 cm.);",
+  "48.150 cc H. 6 1/2 in. (16.5 cm.);",
+  "48.150 ee H. 7 3/4 in. (19.7 cm.);",
+  "48.150 ff H. 6 1/2 in. (16.5 cm.)"
+ ],
+ "Classification": "Chess Sets",
+ "Accession Number": "48.150 a-q, aa-pp",
+ "Who": [
+  "Max Esser",
+  "Frieda Bastanier"
+ ],
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Silver",
+  "Bronze",
+  "Bone",
+  "Ivory",
+  "Board games",
+  "Chess sets"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Berlin"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 120014976,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/142458.jpg",
+ "related-artworks": [
+  120015083,
+  120016804,
+  120015082,
+  120015087
+ ],
+ "Provenance": [
+  "Gustavus A. Pfeiffer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120014976"
+  }
+ }
+}

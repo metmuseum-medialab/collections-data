@@ -1,0 +1,49 @@
+{
+ "Date": "early 16th century",
+ "Culture": "French",
+ "Medium": "Ivory, modern silver-gilt base",
+ "Dimensions": [
+  "Overall (w/out base) 7 3/16 x 2 3/16 x 1 5/16 in. (18.2 x 5.5 x 3.4 cm)",
+  "Overall (w/ base) 9 x 3 7/16 x 1 15/16 in. (22.8 x 8.7 x 4.9 cm)"
+ ],
+ "Classification": "Ivories",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.298",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Silver",
+  "Gilt",
+  "Bone",
+  "Ivory",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004165,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-298s5.jpg",
+ "related-artworks": [
+  170007405,
+  170009817,
+  170003929,
+  170004029,
+  170007305
+ ],
+ "Provenance": [
+  "Ernest Odiot, Paris (sale, Hôtel Drouot, Paris, April 26-27, 1889, no. 32)",
+  "J. Pierpont Morgan, London and New York (until 1913)",
+  "Estate of J. Pierpont Morgan(1913–1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004165"
+  }
+ }
+}

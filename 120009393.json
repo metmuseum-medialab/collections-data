@@ -1,0 +1,45 @@
+{
+ "Date": "16th century",
+ "Culture": "German (Nuremberg) (?)",
+ "Medium": "Brass",
+ "Dimensions": "21 1/2 x 2 3/4 in.  (54.6 x 7.0 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1921",
+ "Accession Number": "21.25.4",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Copper alloy",
+  "Metalwork",
+  "Brass",
+  "Basins"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Nuremberg"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009393,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/47562.jpg",
+ "related-artworks": [
+  120009394,
+  120017272,
+  120019584,
+  120019582,
+  120019585
+ ],
+ "Provenance": [
+  "Henry C. Lawrence (until 1921",
+  "his sale, American Art Association, New York, 1921, no. 232)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009393"
+  }
+ }
+}

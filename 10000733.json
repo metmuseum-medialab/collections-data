@@ -1,0 +1,60 @@
+{
+ "Date": "1800–1830",
+ "Geography": "Mid-Atlantic, New Jersey, United States",
+ "Culture": "American",
+ "Medium": "Free-blown glass",
+ "Dimensions": "H. 5 1/8 in. (13 cm); Diam. 5 7/8 in. (14.9 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Bequest of Helen Hay Whitney, 1944",
+ "Accession Number": "45.35.18",
+ "What": [
+  "Glass",
+  "Bowls",
+  "Blown glass"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New Jersey"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000733,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/134127.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/10000708",
+  "http://scrapi.org/object/10002359",
+  "http://scrapi.org/object/10000700",
+  "http://scrapi.org/object/10000734",
+  "http://scrapi.org/object/10008222"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Helen Hay Whitney, Manhasset, New York, until died 1944"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10000708"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10002359"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10000700"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10000734"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10008222"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10000733"
+  }
+ }
+}

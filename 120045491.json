@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1720",
+ "Culture": "Italian (Venice)",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 58 x Gr. W. 7 inches (147.3 x 17.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Susan Dwight Bliss, 1955",
+ "Accession Number": "55.217.18",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Maniples"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120045491,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/160511.jpg",
+ "related-artworks": [
+  120038278,
+  120045492,
+  120045493,
+  120045539,
+  120044628
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120045491"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Designer": "Christian Dior (French, Granville 1905–1957 Montecatini)",
+ "Date": "fall/winter 1955–56",
+ "Culture": "French",
+ "Medium": "silk, sequins",
+ "Dimensions": "Length at CB 33 in. (83.8 cm)",
+ "Credit Line": "Gift of Mrs. Byron C. Foy, 1955",
+ "Accession Number": "C.I.55.76.13",
+ "Who": [
+  "House of Dior",
+  "Christian Dior"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Trimming",
+  "Evening dresses",
+  "Sequins"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80005072,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/264116.jpg",
+ "related-artworks": [
+  80001419,
+  80004534,
+  80004552,
+  80019008,
+  80002616
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80005072"
+  }
+ }
+}

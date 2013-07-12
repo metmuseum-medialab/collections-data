@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1765",
+ "Culture": "French",
+ "Medium": "Bronze-gilt",
+ "Dimensions": "7 3/8 x 6 5/8 in.  (18.7 x 16.8 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1971",
+ "Accession Number": "1971.206.32",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Gilt",
+  "Plate",
+  "Ormolu",
+  "Frames"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021325,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/200209.jpg",
+ "related-artworks": [
+  120004353,
+  120004389,
+  120004464,
+  120004669,
+  120004795
+ ],
+ "Provenance": [
+  "Mr. and Mrs. Charles Wrightsman (until 1971)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021325"
+  }
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "Designer": "Manolo Blahnik (British, born Spain, 1942)",
+ "Date": "fall/winter 1993–94",
+ "Culture": "American",
+ "Medium": "(a, b) silk; (c, d) silk, leather, glass",
+ "Dimensions": [
+  "Length at CB (a) 11 in. (27.9 cm)",
+  "Length at CB (b) 48 in. (121.9 cm)",
+  "Heel to Toe (c, d) 11 in. (27.9 cm)"
+ ],
+ "Credit Line": "Gift of Todd Oldham Studio, 2002",
+ "Accession Number": "2002.193.5a–d",
+ "Who": [
+  "Todd Oldham",
+  "Manolo Blahnik"
+ ],
+ "What": [
+  "Silk",
+  "Glass",
+  "Leather",
+  "Ensembles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80005136,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2002.193.5a_F.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80005137",
+  "http://scrapi.org/object/80005145",
+  "http://scrapi.org/object/80005156",
+  "http://scrapi.org/object/80005182",
+  "http://scrapi.org/object/80005148"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/2002.193.5a_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/2002.193.5a_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/2002.193.5a_d.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/2002.193.5cd_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/2002.193.5cd_B.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80005137"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80005145"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80005156"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80005182"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80005148"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80005136"
+  }
+ }
+}

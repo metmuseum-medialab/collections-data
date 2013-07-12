@@ -1,0 +1,42 @@
+{
+ "Period": "Ming dynasty (1368–1644)",
+ "Culture": "China",
+ "Medium": "Bronze",
+ "Dimensions": "H. 8 1/2 in. (21.6 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1943",
+ "Accession Number": "43.80a, b",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1600–1800 A.D.",
+  "China, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60033003,
+ "related-artworks": [
+  60005911,
+  60006189,
+  60020490,
+  60025211,
+  60032425
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033003"
+  }
+ }
+}

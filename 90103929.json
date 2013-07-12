@@ -1,0 +1,42 @@
+{
+ "Date": "mid 20th century",
+ "Medium": "Lithograph with blue and black pencil",
+ "Dimensions": [
+  "Plate 5 7/8 × 4 7/16 in. (15 × 11.3 cm)",
+  "Sheet 7 11/16 × 5 13/16 in. (19.5 × 14.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Hellmuch Wallach, 1960",
+ "Accession Number": "60.539.1",
+ "Who": "C.D. Batchelor",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Pencil"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90103929,
+ "related-artworks": [
+  90063623,
+  90063624,
+  90063619,
+  90063621,
+  90063622
+ ],
+ "Provenance": [
+  "Donor: Hellmuth Wallach"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90103929"
+  }
+ }
+}

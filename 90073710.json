@@ -1,0 +1,42 @@
+{
+ "Printer": "The Baynard Press (London)",
+ "Date": "1945",
+ "Medium": "Lithograph",
+ "Dimensions": "sheet 28 5/16 x 20 1/8 in. (71.9 x 51.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Dr. Hans Tietze, 1946",
+ "Accession Number": "46.28",
+ "Who": [
+  "Oskar Kokoschka",
+  "The Baynard Press"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90073710,
+ "related-artworks": [
+  90020369,
+  90028256,
+  90036184,
+  90036186,
+  90036187
+ ],
+ "Provenance": [
+  "Donor: Hans Tietze"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90073710"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1460",
+ "Culture": "Italian",
+ "Medium": "Steel, gilt copper, textile",
+ "Dimensions": "Overall 10 3/4 x 8 in., 4.727 lb. (27.3 x 20.3 cm, 2144 g)",
+ "Classification": "Helmets",
+ "Credit Line": "Bashford Dean Memorial Collection, Funds from various donors, 1929",
+ "Accession Number": "29.158.17",
+ "What": [
+  "Metal",
+  "Costume",
+  "Textiles",
+  "Gilt",
+  "Iron and iron alloy",
+  "Copper",
+  "Iron alloy",
+  "Steel",
+  "Armor",
+  "Body armor",
+  "Helmets",
+  "Sallets"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40001445,
+ "related-artworks": [
+  40001067,
+  40001444,
+  40001428,
+  40000335,
+  40004739
+ ],
+ "Provenance": [
+  "Ex colls.:  Count Gino Cittadella Vigodarzere, Villa Saonara, near Padua",
+  "Luigi Grassi, Florence",
+  "Bashford Dean, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40001445"
+  }
+ }
+}

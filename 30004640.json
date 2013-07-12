@@ -1,0 +1,37 @@
+{
+ "Period": "Iron Age III",
+ "Date": "ca. 6th century B.C.",
+ "Geography": "Iran, Tepe Nush-i Jan",
+ "Medium": "Ceramic",
+ "Dimensions": "1.46 x 2.05 in. (3.71 x 5.21 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase, H. Dunscombe Colt Gift, 1969",
+ "Accession Number": "69.24.16",
+ "What": "Ceramics",
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30004640,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME69_24_16.jpg",
+ "related-artworks": [
+  30001089,
+  30001845,
+  30001887,
+  30001894,
+  30002274
+ ],
+ "Provenance": [
+  "1967, excavated by David Stronach, on behalf of the British Institute of Persian Studies",
+  "acquired by the Museum in 1969, as a result of its financial contribution to the excavations."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30004640"
+  }
+ }
+}

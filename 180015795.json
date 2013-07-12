@@ -1,0 +1,36 @@
+{
+ "Geography": "Tanzania",
+ "Medium": "Gourd, hide, wood, nuts, shells",
+ "Dimensions": "Overall Diam. 27.9 x L. 61cm (11 x 24in.)",
+ "Classification": "Idiophone-Shaken",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2134",
+ "What": [
+  "Musical instruments",
+  "Idiophones",
+  "Shell",
+  "Rattles",
+  "Hide",
+  "Gourd"
+ ],
+ "Where": [
+  "Africa",
+  "Tanzania"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Musical Instruments",
+ "id": 180015795,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/202448.jpg",
+ "related-artworks": [
+  180015467,
+  180015477,
+  180018193,
+  180016351,
+  180015067
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180015795"
+  }
+ }
+}

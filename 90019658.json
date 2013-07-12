@@ -1,0 +1,36 @@
+{
+ "Designer": "James Duffield Harding (British, Deptford, Kent 1797–1863 Barnes, Surrey)",
+ "Lithographer": "Charles Joseph Hullmandel (British, London 1789–1850 London)",
+ "Publisher": "Published London by Henry G. Bohn",
+ "Date": "1844",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1935",
+ "Accession Number": "35.23.7",
+ "Who": [
+  "Charles Joseph Hullmandel",
+  "James Duffield Harding",
+  "Henry G. Bohn",
+  "Thomas F. Hunt"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90019658,
+ "related-artworks": [
+  90019659,
+  90019661,
+  90019662,
+  90019663
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90019658"
+  }
+ }
+}

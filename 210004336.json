@@ -1,0 +1,33 @@
+{
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Jack Lenor Larsen Incorporated, 1985",
+ "Accession Number": "1985.198.87",
+ "Who": "Margarete Willers",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Samples"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210004336,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP8542.jpg",
+ "related-artworks": [
+  210004150,
+  210004327,
+  210004324,
+  210004332,
+  210004333
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210004336"
+  }
+ }
+}

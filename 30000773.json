@@ -1,0 +1,46 @@
+{
+ "Period": "Parthian",
+ "Date": "ca. 3rd century B.C.–3rd century A.D.",
+ "Geography": "Iran",
+ "Culture": "Parthian",
+ "Medium": "Bronze",
+ "Dimensions": "4.21 in. (10.69 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Joseph W. Drexel, 1889",
+ "Accession Number": "89.2.553",
+ "Who": "Parthian",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 1000 B.C.–1 A.D.",
+  "Iran, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 30000773,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/hb89_2_553.jpg",
+ "related-artworks": [
+  30004218,
+  30004647,
+  30004648,
+  30004649,
+  30005165
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1889, gift of Joseph W. Drexel."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30000773"
+  }
+ }
+}

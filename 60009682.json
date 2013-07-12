@@ -1,0 +1,46 @@
+{
+ "Period": "Qing dynasty (1644–1911), Kangxi mark and period (1662–1722)",
+ "Date": "1678–88",
+ "Culture": "China",
+ "Medium": "Porcelain with peach-bloom glaze (Jingdezhen ware); Tiffany stand",
+ "Dimensions": "H. 6 1/8 in. (15.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.381",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Vases",
+  "Furniture",
+  "Glaze",
+  "Stands"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60009682,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/23297.jpg",
+ "related-artworks": [
+  60009712,
+  60009693,
+  60021486,
+  60015265,
+  60020520
+ ],
+ "Description": "As had been the case earlier in Europe, when American collectors such as Altman began to collect Chinese porcelains, they often commissioned elegant mounts to hold and display these precious pieces.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009682"
+  }
+ }
+}

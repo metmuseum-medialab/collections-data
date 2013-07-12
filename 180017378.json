@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1900",
+ "Geography": "New York, New York, United States",
+ "Medium": "Wood, skin, metal",
+ "Dimensions": "Diam. 38.1 cm (15 in.)",
+ "Classification": "Membranophone-double-headed / conical drum",
+ "Credit Line": "Gift of The Landmark Society, 1986",
+ "Accession Number": "1986.468.1, .2ab",
+ "Who": "Henry Eisele",
+ "What": [
+  "Metal",
+  "Musical instruments",
+  "Membranophones",
+  "Drums",
+  "Tubular drums",
+  "Snare drums",
+  "Snares"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 180017378,
+ "related-artworks": [
+  180016177,
+  180015554,
+  180012952,
+  180015717
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180017378"
+  }
+ }
+}

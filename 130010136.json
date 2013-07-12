@@ -1,0 +1,37 @@
+{
+ "Period": "Hellenistic",
+ "Date": "late 2nd–1st century B.C.",
+ "Culture": "Greek, Eastern Mediterranean",
+ "Medium": "Glass, molded; cast in a two-piece mold",
+ "Dimensions": "H. 1 in. (2.5 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.419",
+ "What": [
+  "Glass",
+  "Pendants"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130010136,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP121023.jpg",
+ "related-artworks": [
+  130003912,
+  130003914,
+  130003916,
+  130003917,
+  130009258
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130010136"
+  }
+ }
+}

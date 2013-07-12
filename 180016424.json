@@ -1,0 +1,39 @@
+{
+ "Date": "20th century",
+ "Geography": "Bolivia",
+ "Medium": "Reed",
+ "Dimensions": "L. 67.3 cm (26-1/2  in.); Diam. 3.2 cm (1-3/4 in.)",
+ "Classification": "Aerophone-Blow Hole",
+ "Credit Line": "Gift of Anabelle P. and Alberto C. Mariaca, 1995",
+ "Accession Number": "1995.541.24",
+ "What": [
+  "Musical instruments",
+  "Aerophones",
+  "Flutes",
+  "Reeds",
+  "Vertical flutes",
+  "Quenas"
+ ],
+ "Where": [
+  "South America",
+  "Bolivia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "South America, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 180016424,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DP164149.jpg",
+ "related-artworks": [
+  180016422,
+  180016423,
+  180016408,
+  180016414,
+  180016427
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016424"
+  }
+ }
+}

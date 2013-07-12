@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1777–80",
+ "Culture": "British, Staffordshire",
+ "Medium": "Jasper dip",
+ "Dimensions": "1 1/2 x 1 3/4 in.  (3.8 x 4.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Mary Clark Thompson, 1923",
+ "Accession Number": "24.80.52",
+ "Who": "Wedgwood  Bentley",
+ "What": [
+  "Ceramics",
+  "Sculpture",
+  "Pottery",
+  "Medals",
+  "Chalcedony",
+  "Medallions",
+  "Jasper",
+  "Cameos"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009858,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/56643.jpg",
+ "related-artworks": [
+  120006456,
+  120006454,
+  120009852,
+  120009857,
+  120005791
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009858"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Date": "ca. 1900",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Shell, diamonds, platinum",
+ "Dimensions": "1 5/16 x 1 5/8 in. (3.3 x 4.1 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Gift of Susan Dwight Bliss, 1953",
+ "Accession Number": "53.153.6",
+ "Who": "Tiffany & Co.",
+ "What": [
+  "Metal",
+  "Costume",
+  "Jewelry",
+  "Shell",
+  "Platinum",
+  "Diamond",
+  "Combs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10002239,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/156318.jpg",
+ "related-artworks": [
+  10002238,
+  10002237,
+  10007048,
+  10001063,
+  10002336
+ ],
+ "Provenance": [
+  "Susan Dwight Bliss, New York, until 1953."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10002239"
+  }
+ }
+}

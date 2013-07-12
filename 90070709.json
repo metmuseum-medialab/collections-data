@@ -1,0 +1,59 @@
+{
+ "Date": "1915",
+ "Medium": "Etching; twenty-ninth state of twenty-nine",
+ "Dimensions": "plate 9 x 7 1/2 in. (22.9 x 19.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Ernest Shapiro and Family, 1995",
+ "Accession Number": "1995.411.45",
+ "Who": "John Sloan",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "American Scenes of Everyday Life, 1840–1910",
+  "The Ashcan School",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90070709,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP815950.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP815950.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/DP815951.jpg"
+ ],
+ "Provenance": [
+  "Donor: Ernest Shapiro"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90035820"
+   },
+   {
+    "href": "http://scrapi.org/object/90035821"
+   },
+   {
+    "href": "http://scrapi.org/object/90040404"
+   },
+   {
+    "href": "http://scrapi.org/object/90040405"
+   },
+   {
+    "href": "http://scrapi.org/object/90040385"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90070709"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90070709"
+  }
+ }
+}

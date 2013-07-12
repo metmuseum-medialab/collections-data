@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1888",
+ "Medium": "Albumen photograph",
+ "Dimensions": "Sheet 2 3/4 x 1 3/8 in. (7 x 3.5 cm)",
+ "Classification": "Photographs",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 203, N45.226",
+ "Who": "Allen & Ginter",
+ "What": [
+  "Photographs",
+  "Albumen"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90086971,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP829564.jpg",
+ "related-artworks": [
+  90086321,
+  90086367,
+  90086368,
+  90086369,
+  90086350
+ ],
+ "Description": "Trade cards from the \"Actors and Actresses\" series (N45, Type 1), issued ca. 1888 by Allen & Ginter to promote Virginia Brights, Dixie, Our Little Beauties and Opera Puffs Cigarettes.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90086971"
+  }
+ }
+}

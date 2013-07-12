@@ -1,0 +1,47 @@
+{
+ "Date": "1795–1800",
+ "Geography": "Mid-Atlantic, Philadelphia, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Maple, ash",
+ "Dimensions": "38 x 21 1/2 x 19 in. (96.5 x 54.6 x 48.3 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Mrs. Samuel Auchmuty Tucker, 1947",
+ "Accession Number": "47.80.2",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Side chairs",
+  "Maple"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Philadelphia"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001774,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/138843.jpg",
+ "related-artworks": [
+  10001687,
+  10001776,
+  10015427,
+  10015533,
+  10022302
+ ],
+ "Provenance": [
+  "Elias Hasket Derby, Salem, Massachusetts, 1796–died 1799",
+  "descended in the Derby family",
+  "Mrs. Samuel Auchmuty (Anne Derby) Tucker, until 1947"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001774"
+  }
+ }
+}

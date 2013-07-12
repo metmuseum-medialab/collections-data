@@ -1,0 +1,34 @@
+{
+ "Date": "1840–60",
+ "Culture": "American",
+ "Medium": "Wool",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Louise M. Coleman, 1941",
+ "Accession Number": "2009.300.4350a, b",
+ "What": [
+  "Costume",
+  "Wool",
+  "Footwear",
+  "Bootees"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80106792,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/41.736a-b_CP1.jpg",
+ "related-artworks": [
+  80108143,
+  80094514,
+  80094803,
+  80106789,
+  80106790
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80106792"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Hanging scroll; ink on paper",
+ "Dimensions": "45 3/8 x 18 1/2 in. (115.3 x 47 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "The Howard Mansfield Collection, Purchase, Rogers Fund, 1936",
+ "Accession Number": "36.100.81",
+ "Who": "Kano Tan'yū",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Zen Buddhism",
+  "The Kano School of Painting",
+  "Painting Formats in East Asian Art",
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60028365,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/36_100_81_108901.jpg",
+ "related-artworks": [
+  60025737,
+  60028364,
+  60028422,
+  60047097,
+  60013319
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028365"
+  }
+ }
+}

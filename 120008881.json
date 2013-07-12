@@ -1,0 +1,51 @@
+{
+ "Date": "ca. 1660–70",
+ "Culture": "French (Corbigny)",
+ "Medium": "Pierced silver case, dial of gilt brass and painted enamel",
+ "Dimensions": "Diam. 1-3/4 in. (4.4 cm)",
+ "Classification": "Horology",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.1578",
+ "Who": "Abraham Cusin",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Silver",
+  "Gilt",
+  "Painting",
+  "Brass",
+  "Cases",
+  "Enamel",
+  "Timepieces",
+  "Watches",
+  "Dials"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Burgundy",
+  "Corbigny"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120008881,
+ "gallery-id": 532,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES588.jpg",
+ "related-artworks": [
+  120008860,
+  120008927,
+  120019175,
+  120008437,
+  120014876
+ ],
+ "Provenance": [
+  "Frederick George Hilton Price"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120008881"
+  }
+ }
+}

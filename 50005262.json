@@ -1,0 +1,45 @@
+{
+ "Date": "7th–9th century",
+ "Geography": "Peru",
+ "Culture": "Wari",
+ "Medium": "Feathers, cotton, camelid hair",
+ "Dimensions": "H. 25 x W.  82 1/4 x  D. 31 1/2 in. (63.5 x 208.9 x 80 cm)",
+ "Classification": "Textiles-Featherwork",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.471",
+ "Who": "Wari",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Hair",
+  "Camelidae",
+  "Feathers",
+  "Featherwork"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50005262,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DP269111.jpg",
+ "related-artworks": [
+  50004825,
+  50004826,
+  50005264,
+  50005260,
+  50005265
+ ],
+ "Provenance": [
+  "[Louis Slavitz, New York, until 1956]",
+  "Nelson A. Rockefeller, New York, 1956, on loan to The Museum of Primitive Art, New York, 1956–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50005262"
+  }
+ }
+}

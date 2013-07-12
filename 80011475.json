@@ -1,0 +1,35 @@
+{
+ "Date": "19th century",
+ "Culture": "Swiss",
+ "Medium": "linen",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.48.89",
+ "What": [
+  "Costume",
+  "Linen",
+  "Caps"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80011475,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/08.48.89_F.jpg",
+ "related-artworks": [
+  80094963,
+  80011521,
+  80012131,
+  80012129,
+  80012130
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80011475"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "1960s",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "David Hunter McAlpin Fund, 1965",
+ "Accession Number": "65.609.4",
+ "Who": "Jean Dieuzaide",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190022841,
+ "related-artworks": [
+  190015395,
+  190015396,
+  190021912,
+  190021910,
+  190021911
+ ],
+ "Provenance": [
+  "Jean Dieuzaide"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190022841"
+  }
+ }
+}

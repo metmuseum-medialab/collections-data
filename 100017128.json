@@ -1,0 +1,42 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Dira Abu el-Naga (Dra Abu el-Naga), Carter/Carnarvon, before 1911",
+ "Medium": "Wood, European White Birch",
+ "Dimensions": "L. 104 cm (40 15/16 in)",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.181.222",
+ "What": [
+  "Wood",
+  "Staffs",
+  "Birch"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100017128,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs12.181.220.jpg",
+ "related-artworks": [
+  100002054,
+  100006012,
+  100006014,
+  100033989,
+  100009902
+ ],
+ "Provenance": [
+  "Excavated by Lord Carnarvon and Howard Carter, 1906-1911. Retained by the Egyptian Antiquities Service in the division of finds. Purchased from the Egyptian Governement by the Metropolitan Museum, 1912."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100017128"
+  }
+ }
+}

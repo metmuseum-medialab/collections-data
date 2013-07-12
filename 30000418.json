@@ -1,0 +1,61 @@
+{
+ "Period": "Old Babylonian",
+ "Date": "ca. 1749–1712 B.C.",
+ "Geography": "Mesopotamia, probably from Sippar (modern Tell Abu Habba)",
+ "Culture": "Babylonian",
+ "Medium": "Clay",
+ "Dimensions": "4.1 x 3.4 x 2 cm (1 5/8 x 1 3/8 x 3/4 in.)",
+ "Classification": "Clay",
+ "Credit Line": "Purchase, 1886",
+ "Accession Number": "86.11.214a",
+ "Who": "Babylonian",
+ "What": [
+  "Clay",
+  "Tablets",
+  "Cuneiform"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Sippar"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30000418,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/vs86_11_214a.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/30000636",
+  "http://scrapi.org/object/30000327",
+  "http://scrapi.org/object/30000572",
+  "http://scrapi.org/object/30000579",
+  "http://scrapi.org/object/30000580"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Acquired by the Museum in 1886, purchased from the Reverend William Hayes Ward."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000636"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000327"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000572"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000579"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000580"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/30000418"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "18th century",
+ "Culture": "Flemish",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 38 1/2 x W. 2 1/2 inches (97.8 x 6.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase by subscription, 1909",
+ "Accession Number": "09.68.647",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace",
+  "Borders"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036237,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP16177.jpg",
+ "related-artworks": [
+  120032224,
+  120035885,
+  120037348,
+  120037608,
+  120040146
+ ],
+ "Provenance": [
+  "Arthur Blackborne collection, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036237"
+  }
+ }
+}

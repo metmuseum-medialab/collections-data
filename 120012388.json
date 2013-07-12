@@ -1,0 +1,65 @@
+{
+ "Date": "1774",
+ "Culture": "French",
+ "Medium": "White marble",
+ "Dimensions": "H. 28-3/4 in. (73 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1934",
+ "Accession Number": "34.91",
+ "Who": "Jean-Baptiste Lemoyne the Younger",
+ "What": [
+  "Sculpture",
+  "Figures",
+  "Marble",
+  "Busts"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120012388,
+ "gallery-id": 526,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES5995.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/ES5995.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/149934.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/98652.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/98654.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/98653.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/98655.jpg"
+ ],
+ "Description": "Félicité Sophie de Lannion, born in 1745, daughter of Hyacinthe-Gaëton, comte de Lannion, married François-Alexandre-Frédéric, Duc de Liancourt, later Duc de La Rochefoucauld et d'Estissac in 1764.",
+ "Provenance": [
+  "Château de Liancourt, near Beauvais, France[ Jonas , 1934",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120013751"
+   },
+   {
+    "href": "http://scrapi.org/object/120015730"
+   },
+   {
+    "href": "http://scrapi.org/object/120022402"
+   },
+   {
+    "href": "http://scrapi.org/object/120014866"
+   },
+   {
+    "href": "http://scrapi.org/object/120019639"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120012388"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120012388"
+  }
+ }
+}

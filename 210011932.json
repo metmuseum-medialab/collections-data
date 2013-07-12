@@ -1,0 +1,45 @@
+{
+ "Maker": "N. Fluegelman and Company",
+ "Date": "ca. 1942",
+ "Geography": "Object place Mid-Atlantic, New York, New York, America",
+ "Culture": "American",
+ "Medium": "Cotton, printed",
+ "Dimensions": "13 x 33 in. (33.0 cm. x 83.8 cm. )",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of N. Fluegelman and Company, 1943",
+ "Accession Number": "43.153.4",
+ "Who": [
+  ". Fluegelman  Company",
+  "Lucy Eisenberg"
+ ],
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing",
+  "Samples"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210011932,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP8177.jpg",
+ "related-artworks": [
+  210011872,
+  210011917,
+  210011930,
+  210011931,
+  210011933
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210011932"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Object Name": "Fragment of a bowl",
+ "Date": "late 7th–first half 8th century",
+ "Geography": "China; Iran, Nishapur",
+ "Medium": "Earthenware; applied relief medallion under three color (sancai) glaze",
+ "Dimensions": "2 5/8 in. (6.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.40.274",
+ "What": [
+  "Ceramics",
+  "Sculpture",
+  "Fragments",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Bowls",
+  "Reliefs",
+  "Medallions",
+  "Sancai"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140006755,
+ "gallery-id": 453,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP251986.jpg",
+ "related-artworks": [
+  140004908,
+  140003920,
+  140006308,
+  140006335,
+  140006618
+ ],
+ "Description": "Chinese ceramics were highly valued and commonly imitated in Nishapur. The Nishapur imitations took different forms: the whiteness of the Chinese porcelains led local potters to develop the opaque white glazes with which they covered their wares, while the three-color sancai Chinese imports led to the invention of splashware, made by dripping brown, yellow, and green glazes over their pots. This medallion from the base of a bowl, with the molded image of a dragon with a flaming jewel, is an example of an imported Chinese sancai ware object; its find at Nishapur is an important piece of evidence in the story of Nishapuri pottery development.",
+ "Provenance": [
+  "1937, excavated at Village Tepe in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1938, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140006755"
+  }
+ }
+}

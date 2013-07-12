@@ -1,0 +1,40 @@
+{
+ "Date": "1967–74",
+ "Medium": "Blueprint",
+ "Dimensions": [
+  "H. 17-3/4, W. 24 inches",
+  "(45.1 x 61 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Anonymous Gift, 1992",
+ "Accession Number": "1992.388.68",
+ "Who": "Dennis Oppenheim",
+ "What": [
+  "Drawings",
+  "Blueprints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Body/Landscape Photography and the Reconfiguration of the Sculptural Object",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210006363,
+ "related-artworks": [
+  210006306,
+  210006309,
+  210006312,
+  210006315,
+  210006318
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006363"
+  }
+ }
+}

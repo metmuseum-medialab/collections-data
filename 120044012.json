@@ -1,0 +1,43 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 2 1/2 inches (6.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of H. A. Elsberg, 1938",
+ "Accession Number": "38.92",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Ribbon"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044012,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP6460.jpg",
+ "related-artworks": [
+  120030770,
+  120033354,
+  120033342,
+  120033345,
+  120033338
+ ],
+ "Provenance": [
+  "Herman A. Elsberg (until 1938",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044012"
+  }
+ }
+}

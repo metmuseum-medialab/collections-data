@@ -1,0 +1,48 @@
+{
+ "Date": "mid-20th century",
+ "Culture": "Mexican",
+ "Medium": "cotton, wool, silk, leather",
+ "Dimensions": [
+  "(a) Length at CB 36 in. (91.4 cm)",
+  "(b) Length 35 in. (88.9 cm)",
+  "(c) Length 136 in. (345.4 cm)",
+  "(d) Length 53 1/2 in. (135.9 cm)",
+  "(e) Length 26 in. (66 cm)",
+  "(f, g) Heel to Toe 10 in. (25.4 cm)",
+  "(h) Length (in twisted form) 93 in. (236.2 cm)"
+ ],
+ "Credit Line": "Gift of Mr. Herbert H. Evans, 1957",
+ "Accession Number": "C.I.57.34.1a–h",
+ "What": [
+  "Silk",
+  "Cotton",
+  "Wool",
+  "Leather",
+  "Ensembles"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America Native Peoples, 1900 A.D.–present",
+  "Mexico and Central America, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80012413,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI57.34.1a.jpg",
+ "related-artworks": [
+  80010830,
+  80007625,
+  80061299,
+  80012438,
+  80012423
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80012413"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Artist": "Hugechi (Qugeci)",
+ "Date": "ca. 1900?",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper (crepon)",
+ "Dimensions": "14 1/4 x 10 5/8 in. (36.2 x 27 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Lincoln Kirstein, 1959",
+ "Accession Number": "JP3301",
+ "Who": [
+  "Unidentified Artist",
+  "Hugechi (Qugeci)"
+ ],
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1900 A.D.–present",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60026551,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP143107.jpg",
+ "related-artworks": [
+  60047621,
+  60051644,
+  60025093,
+  60025099,
+  60025108
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026551"
+  }
+ }
+}

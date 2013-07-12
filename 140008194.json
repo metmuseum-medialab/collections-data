@@ -1,0 +1,41 @@
+{
+ "Date": "probably 8th–12th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Jet",
+ "Classification": "Stone",
+ "Credit Line": "Rogers Fund, 1948",
+ "Accession Number": "48.101.251",
+ "What": [
+  "Stone",
+  "Jet"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 500–1000 A.D.",
+  "Iran, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140008194,
+ "related-artworks": [
+  140007366,
+  140014603,
+  140006574,
+  140006571,
+  140006575
+ ],
+ "Provenance": [
+  "1939, excavated in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1948, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008194"
+  }
+ }
+}

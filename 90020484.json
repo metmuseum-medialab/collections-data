@@ -1,0 +1,35 @@
+{
+ "Date": "1842",
+ "Medium": "platesengraving",
+ "Dimensions": "Overall 5 1/8 x 3 9/16 in. (13 x 9 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1945",
+ "Accession Number": "45.13.4",
+ "Who": "H. G. Clarke  Co.",
+ "What": [
+  "Engraving",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90020484,
+ "related-artworks": [
+  90040656,
+  90020479,
+  90020476,
+  90020477,
+  90015037
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90020484"
+  }
+ }
+}

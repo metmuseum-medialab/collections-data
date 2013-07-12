@@ -1,0 +1,27 @@
+{
+ "Medium": "Silk",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mr. and Mrs. H. O. Havemeyer, 1896",
+ "Accession Number": "96.14.1390",
+ "What": [
+  "Silk",
+  "Textiles"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 60038397,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/94764.jpg",
+ "related-artworks": [
+  60025557,
+  60038179,
+  60038395,
+  60038394,
+  60039133
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60038397"
+  }
+ }
+}

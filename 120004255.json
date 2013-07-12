@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1775",
+ "Culture": "French",
+ "Medium": "Carved, painted, and gilded oak",
+ "Dimensions": [
+  "Outside H. 30-1/4 x W. 99-1/8 in.  (76.8 x 251.8 cm);",
+  "Inside H. 25-1/4 x L. 94-7/8 in. (64.1 x 241 cm)"
+ ],
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+ "Accession Number": "07.225.464f",
+ "What": [
+  "Gilt",
+  "Wood",
+  "Painting",
+  "Panels",
+  "Woodwork",
+  "Oak",
+  "Overdoors"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 120004255,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/4374.jpg",
+ "related-artworks": [
+  120004251,
+  120004252,
+  120004253,
+  120004254,
+  120004250
+ ],
+ "Provenance": [
+  "Georges Hoentschel",
+  "J. Pierpont Morgan (until 1906",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120004255"
+  }
+ }
+}

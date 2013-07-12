@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1913",
+ "Medium": "Ink on paper",
+ "Dimensions": [
+  "H. 10, W. 7-7/8 inches",
+  "(25.5 x 20 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Martin Birnbaum, 1959",
+ "Accession Number": "59.63.22",
+ "Who": "E. de Kónódy",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper"
+ ],
+ "Where": [
+  "Europe",
+  "Hungary"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (not Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009322,
+ "related-artworks": [
+  210009320,
+  210009321,
+  210009316,
+  210009318,
+  210009317
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009322"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "8th–mid-16th century",
+ "Geography": "Peru",
+ "Culture": "Peru; north or central coast (?)",
+ "Medium": "Wood",
+ "Dimensions": "H x W 7 1/2 x 3 7/16in. (19.1 x 8.7cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Gift of Nathan Cummings, 1964",
+ "Accession Number": "64.228.744",
+ "What": [
+  "Sculpture",
+  "Figures"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1400–1600 A.D.",
+  "Central and Southern Andes, 500–1000 A.D."
+ ],
+ "id": 50001841,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/64.228.744_a.jpg",
+ "related-artworks": [
+  50000009,
+  50000473,
+  50001128,
+  50001300,
+  50001301
+ ],
+ "Provenance": [
+  "Bruno J. Wassermann-San Blas Collection, Buenos Aires, Argentina, acquired by 1938, until 1954",
+  "Nathan Cummings, Chicago, 1954–1964"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50001841"
+  }
+ }
+}

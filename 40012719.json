@@ -1,0 +1,49 @@
+{
+ "Date": "1480",
+ "Culture": "German",
+ "Classification": "Helmets",
+ "Credit Line": "Bashford Dean Memorial Collection, Funds from various donors, 1929",
+ "Accession Number": "29.158.6a, b",
+ "What": [
+  "Costume",
+  "Armor",
+  "Body armor",
+  "Helmets",
+  "Sallets",
+  "Bevors"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40012719,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40001302"
+   },
+   {
+    "href": "http://scrapi.org/object/40001305"
+   },
+   {
+    "href": "http://scrapi.org/object/40001416"
+   },
+   {
+    "href": "http://scrapi.org/object/40001448"
+   },
+   {
+    "href": "http://scrapi.org/object/40002935"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40012719"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40012719"
+  }
+ }
+}

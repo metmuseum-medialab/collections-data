@@ -1,0 +1,35 @@
+{
+ "Date": "1820s",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Agnes Clarke, 1941",
+ "Accession Number": "C.I.41.124.55",
+ "What": [
+  "Costume",
+  "Silk",
+  "Bodices"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80036113,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.41.124.55_F.jpg",
+ "related-artworks": [
+  80033899,
+  80035770,
+  80035876,
+  80000184,
+  80035964
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80036113"
+  }
+ }
+}

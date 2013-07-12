@@ -1,0 +1,61 @@
+{
+ "Date": "1896",
+ "Medium": "Oil on wood",
+ "Dimensions": "9 5/8 x 17 in. (24.4 x 43.2 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "The Walter H. and Leonore Annenberg Collection, Gift of Walter H. and Leonore Annenberg, 1997, Bequest of Walter H. Annenberg, 2002",
+ "Accession Number": "1997.60.3",
+ "Who": "Paul Gauguin",
+ "What": [
+  "Paintings",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "Japonisme",
+  "Vincent van Gogh (1853–1890) The Drawings",
+  "Post–Impressionism",
+  "Impressionism Art and Modernity",
+  "The Print in the Nineteenth Century",
+  "Paul Gauguin (1848–1903)",
+  "Vincent van Gogh (1853–1890)",
+  "Symbolism",
+  "The Nabis and Decorative Painting",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110002456,
+ "gallery-id": 823,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT1954.jpg",
+ "related-artworks": [
+  110000888,
+  110000891,
+  110000890,
+  110000893,
+  110000892
+ ],
+ "Provenance": [
+  "The artist, Tahiti (from 1896",
+  "reportedly sold or given to Dr. Gouzer, who brought it to France by 1898 [per letter from Georges-Daniel de Monfreid to Gauguin, November 11, 1898])",
+  "Dr. Nolet, Paris and Nantes",
+  "his heirs (until 1950",
+  "sold on June 30 to Wildenstein)",
+  "[Wildenstein, Paris and New York, 1950",
+  "sold on November 2 to Haupt]",
+  "Mr. and Mrs. Ira Haupt, New York (1950–his d. 1963)",
+  "Mrs. Enid A. Haupt, New York (1963–83",
+  "sold in 1983 to Annenberg)",
+  "her brother and his wife, Walter H. and Leonore Annenberg, Rancho Mirage, Calif. (1983–97",
+  "jointly with MMA, 1997–his d. 2002)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110002456"
+  }
+ }
+}

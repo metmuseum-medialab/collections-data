@@ -1,0 +1,38 @@
+{
+ "Date": "1978",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "H. 77, W. 188 inches",
+  "(195.6 x 477.5 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mr. and Mrs. Kendall G. Chen, 1979",
+ "Accession Number": "1979.319",
+ "Who": "Frederick J. Brown",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210002184,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/1979.319.jpg",
+ "related-artworks": [
+  210002903,
+  210003316,
+  210005041,
+  210006377
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210002184"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "16th century",
+ "Culture": "Southern German",
+ "Medium": "Terra cotta, lead glazed",
+ "Dimensions": "20 x 14 in.  (50.8 x 35.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.172.1",
+ "Who": "Vest",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Pottery",
+  "Glazing",
+  "Panels",
+  "Lead",
+  "Stoves"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120005355,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/4449.jpg",
+ "related-artworks": [
+  120020967,
+  120022805,
+  120020572,
+  120020573,
+  120016980
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120005355"
+  }
+ }
+}

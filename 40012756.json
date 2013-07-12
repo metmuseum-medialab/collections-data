@@ -1,0 +1,34 @@
+{
+ "Date": "early 18th century",
+ "Culture": "European",
+ "Medium": "Steel, wood",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Bashford Dean Memorial Collection, Gift of Edward S. Harkness, 1929",
+ "Accession Number": "29.156.11",
+ "What": [
+  "Metal",
+  "Arms",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40012756,
+ "related-artworks": [
+  40000148,
+  40000835,
+  40000936,
+  40001121,
+  40001136
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40012756"
+  }
+ }
+}

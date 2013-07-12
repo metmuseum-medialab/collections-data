@@ -1,0 +1,53 @@
+{
+ "Date": "ca. 1310–15",
+ "Culture": "Italian, Florence",
+ "Medium": "Tempera and gold on parchment",
+ "Dimensions": [
+  "5 3/8 x 5 1/4 in. (13.6 x 13.4cm)",
+  "Stave 1 5/16 in. (3.4cm)"
+ ],
+ "Classification": "Manuscripts and Illuminations",
+ "Credit Line": [
+  "Robert Lehman Collection, 1975",
+  "1975.1.2478"
+ ],
+ "Accession Number": "1975.1.2478",
+ "Who": "Maestro Daddesco",
+ "What": [
+  "Metal",
+  "Paintings",
+  "Gold",
+  "Manuscripts",
+  "Tempera",
+  "Parchment",
+  "Illuminations",
+  "Antiphonaries"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Florence"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 150008416,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3616.jpg",
+ "related-artworks": [
+  150000048,
+  150008095,
+  150008321,
+  150007977
+ ],
+ "Description": "The initial M illustrates an antiphon for the Feast of the Annunciation (March 25): Missus est Gabriel Angelus ad Mariam Virginem (\"The Angel Gabriel was sent to the Virgin Mary\").In this initial, the illuminator used the form of the letter M to divide and frame the figures of the Virgin and the angel Gabriel, kneeling before her. The wood floor, rendered with a spiraling grain pattern, suggests that the setting is a domestic interior. This cutting may be an early work by the anonymous painter and illuminator known as the Maestro Daddesco, who was either a contemporary or a follower of the Florentine artist Bernardo Daddi and was a major figure in Florentine illumination during the first half of the fourteenth century.",
+ "Provenance": [
+  "Madame Fould, Galerie Georges Petit, Paris, 26 December 1926, lot 47, pl. 5 (as Tuscan, fourteenth century)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008416"
+  }
+ }
+}

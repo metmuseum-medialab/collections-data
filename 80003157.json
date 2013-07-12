@@ -1,0 +1,37 @@
+{
+ "Date": "1820–39",
+ "Culture": "American",
+ "Medium": "Cotton, silk",
+ "Dimensions": "Length at CB 16 in. (40.6 cm)",
+ "Credit Line": "Gift of Mrs. Jerome Lauren, 2000",
+ "Accession Number": "2000.479",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Underwear",
+  "Corsets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80003157,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2000.479_F.jpg",
+ "related-artworks": [
+  80006744,
+  80007976,
+  80063572,
+  80095793,
+  80095872
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80003157"
+  }
+ }
+}

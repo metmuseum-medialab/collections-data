@@ -1,0 +1,50 @@
+{
+ "Date": "early 19th century",
+ "Medium": "Ink, graphite and watercolor",
+ "Dimensions": "sheet 11 3/4 x 16 1/16 in. (29.8 x 40.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1938",
+ "Accession Number": "38.37.258",
+ "Who": "Anonymous, British, 19th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Graphite"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90061231,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP807429.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90033920",
+  "http://scrapi.org/object/90060998",
+  "http://scrapi.org/object/90061038",
+  "http://scrapi.org/object/90061091",
+  "http://scrapi.org/object/90061185"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90033920"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90060998"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90061038"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90061091"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90061185"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90061231"
+  }
+ }
+}

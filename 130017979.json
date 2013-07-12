@@ -1,0 +1,55 @@
+{
+ "Period": "Mid-Imperial",
+ "Date": "2nd–3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; mold-blown",
+ "Dimensions": "4 3/4 x 2 5/8 x 2 5/8 in.  (12.1 x 6.7 x 6.7 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 2000",
+ "Accession Number": "2000.64",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130017979,
+ "gallery-id": 169,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/sf200064.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/gr/original/sf200064.jpg",
+  "http://images.metmuseum.org/CRDImages/gr/original/sf200064b.jpg"
+ ],
+ "Description": "Translucent blue green, with handle in same color.Slanting rim folded out, over, and in, and flattened on top surface, forming a restricted oval opening to mouth; concave cylindrical neck; uneven shoulder with rounded outer edges; square body with vertical sides; flat bottom, slightly pushed in at center with circular pontil scar; broad strap handle applied in a thick pad across shoulder, drawn up at a slant, turned in at an acute angle, and trailed onto neck and underside of rim.On bottom, Greek inscription in relief, written in retrograde in three lines: OMO at top, NOI at bottom, and A to one side in the middle.Intact, although top end of trail on handle is broken off with weathered edges, and one crack down side at one corner; many large and elongated bubbles; dulling, pitting, and iridescence, with patches of encrustation and black weathering on exterior, encrustation, weathering, and iridescence on interior.Many everyday containers were made in molds to a consistent size, like modern wine or beer bottles. Some of the molds included a stamp, usually on the base, as a trademark, although it remains uncertain whether this referred to the bottles or to their contents. On this example there is a inscription in large Greek letters on the base: it reads OMONOIA, probably a personal name.",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130000058"
+   },
+   {
+    "href": "http://scrapi.org/object/130000067"
+   },
+   {
+    "href": "http://scrapi.org/object/130000074"
+   },
+   {
+    "href": "http://scrapi.org/object/130000077"
+   },
+   {
+    "href": "http://scrapi.org/object/130000096"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130017979"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130017979"
+  }
+ }
+}

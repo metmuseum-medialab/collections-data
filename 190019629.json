@@ -1,0 +1,47 @@
+{
+ "Artist": "Alfred Stieglitz (American, Hoboken, New Jersey 1864–1946 New York)",
+ "Date": "1907, printed 1907–9",
+ "Medium": "Platinum print",
+ "Dimensions": "23.6 x 12.7 cm. (9  5/16  x 5  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Alfred Stieglitz Collection, 1933",
+ "Accession Number": "33.43.390",
+ "Who": [
+  "Alfred Stieglitz",
+  "Clarence H. White"
+ ],
+ "What": [
+  "Photographs",
+  "Platinum prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Structure of Photographic Metaphors",
+  "Pictorialism in America",
+  "Paul Strand (1890–1976)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190019629,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/MM58797.jpg",
+ "related-artworks": [
+  190019532,
+  190019533,
+  190019549,
+  190019550,
+  190019555
+ ],
+ "Provenance": [
+  "Alfred Stieglitz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190019629"
+  }
+ }
+}

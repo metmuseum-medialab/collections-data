@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1901",
+ "Culture": "American",
+ "Medium": "silk, cotton",
+ "Dimensions": "Length (front to back) 12 in. (30.5 cm)",
+ "Credit Line": "Gift of Mrs. Phillip H. Gray, 1950",
+ "Accession Number": "C.I.50.105.3",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Hats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80045650,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI50.105.3.jpg",
+ "related-artworks": [
+  80001372,
+  80038500,
+  80044633,
+  80005444,
+  80005629
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80045650"
+  }
+ }
+}

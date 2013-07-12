@@ -1,0 +1,43 @@
+{
+ "Period": "New Kingdom, Amarna Period",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Akhenaten to Haremhab",
+ "Date": "ca. 1353–1295 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Terracotta, glaze",
+ "Dimensions": "h. 11 cm (4 5/16 in)",
+ "Credit Line": "Rogers Fund, 1944",
+ "Accession Number": "44.4.13",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Terracotta",
+  "Glaze",
+  "Jars"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100002816,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs44.4.13yy.jpg",
+ "related-artworks": [
+  100001144,
+  100002146,
+  100003219,
+  100010640,
+  100013641
+ ],
+ "Provenance": [
+  "J. Pierpont Morgan Collection, acquired by him before 1913. Acquired by the Museum from the Estate of J. P. Morgan, 1944."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100002816"
+  }
+ }
+}

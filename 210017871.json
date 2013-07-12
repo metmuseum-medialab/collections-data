@@ -1,0 +1,42 @@
+{
+ "Date": "1901",
+ "Medium": "Bronze",
+ "Dimensions": [
+  "Diam. 3-9/16 inches",
+  "(9 cm.)"
+ ],
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Mr. and Mrs. Frederick S. Wait, 1909",
+ "Accession Number": "09.114b",
+ "Who": "James Earle Fraser",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210017871,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP169670.jpg",
+ "related-artworks": [
+  210000704,
+  210008931,
+  210000848,
+  20022219,
+  20023919
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210017871"
+  }
+ }
+}

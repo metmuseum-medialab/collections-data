@@ -1,0 +1,47 @@
+{
+ "Date": "1752–55",
+ "Culture": "British, Derby",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "5 1/2 x 3 1/2 x 4 1/8 in.  (14.0 x 8.9 x 10.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.768",
+ "Who": "Derby",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Lighting devices",
+  "Soft paste porcelain",
+  "Brackets"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Derbyshire",
+  "Derby"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120019117,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/210283.jpg",
+ "related-artworks": [
+  120019118,
+  120017031,
+  120019115,
+  120017032,
+  120019093
+ ],
+ "Provenance": [
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019117"
+  }
+ }
+}

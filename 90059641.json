@@ -1,0 +1,43 @@
+{
+ "Date": "late 16th–early 17th century",
+ "Medium": "Brush and brown ink, white body color; framing line in pen and brown ink",
+ "Dimensions": "Sheet 9 3/8 x 14 in. (23.8 x 35.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Alain and Marie-Christine van den Broek d'Obrenan Gift, 2009",
+ "Accession Number": "2009.133",
+ "Who": "Otto van Veen",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Low Countries, 1400–1600 A.D.",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90059641,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804154.jpg",
+ "related-artworks": [
+  90004454,
+  90015640,
+  90039336,
+  90059639,
+  90087596
+ ],
+ "Provenance": [
+  "Kaye Dowland (British, active ca. 1870-1872)",
+  "Julius S. Held (New York and Bennington, 1905–2002)",
+  "Christie's, New York, January 30, 2009, part of lot 315(as by an artist from the circle of Van Veen)",
+  "Vendor: Christie's, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90059641"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "1951",
+ "Medium": "Color film transparency",
+ "Dimensions": "9.4 x 12.1 cm (3 11/16 x 4 3/4 in. ) each",
+ "Classification": "Transparencies",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.259.6.1-18",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": "Walker Evans",
+ "What": [
+  "Film",
+  "Transparencies"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Walker Evans (1903–1975)",
+  "Kodak and the Rise of Amateur Photography",
+  "Early Documentary Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190036123,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP66735.jpg",
+ "related-artworks": [
+  190036120,
+  190036121,
+  190036124,
+  190036142,
+  190036556
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190036123"
+  }
+ }
+}

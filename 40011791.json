@@ -1,0 +1,49 @@
+{
+ "Date": "late 17th century",
+ "Culture": "Scotch",
+ "Classification": "Firearms Accessories",
+ "Credit Line": "Gift of Charles M. Schott Jr., 1917",
+ "Accession Number": "19.53.92",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Accessories",
+  "Flasks",
+  "Powder flasks"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40011791,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40006347"
+   },
+   {
+    "href": "http://scrapi.org/object/40011732"
+   },
+   {
+    "href": "http://scrapi.org/object/40006119"
+   },
+   {
+    "href": "http://scrapi.org/object/40012268"
+   },
+   {
+    "href": "http://scrapi.org/object/40000941"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40011791"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40011791"
+  }
+ }
+}

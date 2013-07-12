@@ -1,0 +1,43 @@
+{
+ "Date": "late 19th–early 20th century (13th–14th century style)",
+ "Culture": "German",
+ "Medium": "Stone, with paint and gilt",
+ "Dimensions": "Overall 22 1/4 in. (56.5 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.31",
+ "What": [
+  "Sculpture",
+  "Gilt",
+  "Stone",
+  "Figures",
+  "Busts"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe and Low Countries, 1800–1900 A.D.",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 170006744,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cdi29-100-31.jpg",
+ "related-artworks": [
+  170003992,
+  170003993,
+  170003527,
+  170002854,
+  170007631
+ ],
+ "Provenance": [
+  "Louisine W. Havemeyer, New York (until 1929)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006744"
+  }
+ }
+}

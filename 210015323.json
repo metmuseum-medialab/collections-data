@@ -1,0 +1,35 @@
+{
+ "Date": "1995",
+ "Medium": "Linocut",
+ "Dimensions": "each 18 x 14 in. (45.7 x 35.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Tyler Graphics Ltd., in honor of William S. Lieberman, 2003",
+ "Accession Number": "2003.433.98a-f",
+ "Who": "John Newman",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Linoleum cuts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 210015323,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/2003.433.98a.jpg",
+ "related-artworks": [
+  210015329,
+  210015332,
+  210015335,
+  210015339,
+  210015330
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210015323"
+  }
+ }
+}

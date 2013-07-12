@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1750",
+ "Culture": "British, Bristol",
+ "Medium": "Tin-enameled earthenware",
+ "Dimensions": "H. 7/8 in.  (2.2 cm); Diam. 8 7/8 in. (22.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. J. Insley Blair, 1940",
+ "Accession Number": "40.97.3",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Plates"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Bristol"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013642,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/121624.jpg",
+ "related-artworks": [
+  120006680,
+  120011418,
+  120011419,
+  120013062,
+  120011421
+ ],
+ "Provenance": [
+  "[ Stoner & Evans (in 1930",
+  "sold to Mrs. Blair, January 1930) ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013642"
+  }
+ }
+}

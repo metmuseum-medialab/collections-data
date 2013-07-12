@@ -1,0 +1,47 @@
+{
+ "Date": "1955–60",
+ "Geography": "Surakarta (Solo), Java, Indonesia",
+ "Medium": "Teak wood, bronze",
+ "Dimensions": "Case L. 82.2 cm (32.36 in.);  D. 39.5 cm (15.6 in.); H.  46.5 cm. (18.3 in.)",
+ "Classification": "Idiophone-Struck",
+ "Credit Line": "Gift of Carroll C., Beverly and Garry S. Bratman, 1977",
+ "Accession Number": "1977.393.16",
+ "Who": "Mangkunegaran Gamelan Factory",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Wood",
+  "Musical instruments",
+  "Idiophones",
+  "Teak",
+  "Metallophones",
+  "Genders",
+  "Slenthem"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java",
+  "Solo"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 180014866,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/213143.jpg",
+ "related-artworks": [
+  180014865,
+  180014861,
+  180014864,
+  180014859,
+  180014860
+ ],
+ "Description": "This instrument is part of the gamelan built to be used at the 1964 World's Fair in New York City.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180014866"
+  }
+ }
+}

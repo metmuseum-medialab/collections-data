@@ -1,0 +1,29 @@
+{
+ "Medium": "Graphite on off-white wove paper",
+ "Dimensions": "6 3/8 x 4 1/2 in. (16.2 x 11.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Emma Avery Welcher and Amy Ogden Welcher, 1965",
+ "Accession Number": "65.280.3",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite",
+  "Wove paper"
+ ],
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20013915,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap65.280.3.jpg",
+ "related-artworks": [
+  20001896,
+  20000196,
+  20001899,
+  20002062,
+  20001661
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20013915"
+  }
+ }
+}

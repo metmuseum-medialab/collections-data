@@ -1,0 +1,42 @@
+{
+ "Date": "early 1940s",
+ "Culture": "China",
+ "Medium": "Album of eight leaves; ink and color on paper",
+ "Dimensions": "10 5/8 x 10 1/8 in. (27 x 25.7 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1986",
+ "Accession Number": "1986.267.202a–h",
+ "Who": "Huang Binhong",
+ "What": [
+  "Ink",
+  "Paper",
+  "Books",
+  "Paintings",
+  "Albums"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60020309,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP162543_CRD.jpg",
+ "related-artworks": [
+  60000350,
+  60000529,
+  60000349,
+  60020310,
+  60009290
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60020309"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Date": "19th century",
+ "Culture": "Indian, south India",
+ "Classification": "Daggers",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.1044a, b",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Cases",
+  "Sheaths",
+  "Daggers",
+  "Scabbards"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1800–1900 A.D.",
+ "id": 40009880,
+ "related-artworks": [
+  40005105,
+  40009887,
+  40009882,
+  40009934,
+  40010182
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40009880"
+  }
+ }
+}

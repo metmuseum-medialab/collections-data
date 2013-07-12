@@ -1,0 +1,37 @@
+{
+ "Period": "Late Imperial",
+ "Date": "ca. 3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; mold-blown",
+ "Dimensions": "H. 2 1/2 x 2 in. (6.4 x 5.1 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Bequest of Mary Anna Palmer Draper, 1914",
+ "Accession Number": "15.43.253",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009483,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP224738.jpg",
+ "related-artworks": [
+  130000053,
+  130000078,
+  130000055,
+  130000063,
+  130000057
+ ],
+ "Description": "Colorless.Cylindrical neck; body in the shape of a double head; oval base with flat bottom and rounded, slightly bulging edge.On body, two heads, back to back, with similar features: hair rendered as three rows of evenly-spaced knobs framing the faces to below chin level, arched brows, almond-shaped eyes, flat nose, small mouth with full lips, fat cheeks, and rounded chin.Rim and upper part of neck missing, cracks running down from neck across body; bubbles; deep pitting and iridescent weathering, and heavily encrusted on interior.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009483"
+  }
+ }
+}

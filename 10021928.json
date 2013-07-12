@@ -1,0 +1,52 @@
+{
+ "Date": "ca. 1800",
+ "Geography": "Mid-Atlantic, New York, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": "L. 13 in. (33 cm)",
+ "Classification": "Silver",
+ "Credit Line": "Gift of Mr. and Mrs. Alfred Grima Johnson, 2005",
+ "Accession Number": "2005.462.10",
+ "Who": "John Vernon",
+ "What": [
+  "Metal",
+  "Silver",
+  "Ladles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States, 1600–1800 A.D."
+ ],
+ "id": 10021928,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP216783.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ad/original/DP216783.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/DP211917.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10002209"
+   },
+   {
+    "href": "http://scrapi.org/object/10009043"
+   },
+   {
+    "href": "http://scrapi.org/object/10009049"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10021928"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10021928"
+  }
+ }
+}

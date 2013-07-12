@@ -1,0 +1,53 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "17th–18th century",
+ "Culture": "Japan",
+ "Medium": "Carved red lacquer (tsuishu)",
+ "Dimensions": "H. 1 1/8 in. (2.9 cm); Diam. 6 3/4 in. (17.1 cm)",
+ "Classification": "Lacquer",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.635",
+ "What": [
+  "Lacquer",
+  "Trays"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60028975,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/91_1_635_T.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/as/original/91_1_635_T.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/91_1_635_O.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60029163"
+   },
+   {
+    "href": "http://scrapi.org/object/60029555"
+   },
+   {
+    "href": "http://scrapi.org/object/60035415"
+   },
+   {
+    "href": "http://scrapi.org/object/60029108"
+   },
+   {
+    "href": "http://scrapi.org/object/60029124"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60028975"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60028975"
+  }
+ }
+}

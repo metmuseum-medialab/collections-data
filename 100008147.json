@@ -1,0 +1,44 @@
+{
+ "Period": "New Kingdom, Amarna Period",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Akhenaten",
+ "Date": "ca. 1353–1336 B.C.",
+ "Geography": "Country of Origin Egypt, Middle Egypt, el-Amarna (Akhetaten); inc. el-Hagg Qandil, Q.41.6 Service Buildings Further South of GAT, EES 1932–1933",
+ "Medium": "Blue glazed steatite",
+ "Dimensions": "l. 1.5 cm (9/16 in.)",
+ "Credit Line": "Gift of Mrs. John Hubbard and Egypt Exploration Society, 1933",
+ "Accession Number": "33.6.3",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Glazing",
+  "Talc",
+  "Steatite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Amarna"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008147,
+ "related-artworks": [
+  100018038,
+  100032844,
+  100013274,
+  100026314,
+  100026386
+ ],
+ "Provenance": [
+  "Excavated at Amarna 1932-1933 by the Egypt Exploration Society, and received by them in partage. Donated to the museum by Mrs. John Hubbard and the Egypt Exploration Society, 1933."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008147"
+  }
+ }
+}

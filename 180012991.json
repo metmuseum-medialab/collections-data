@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Geography": "Oklahoma, United States",
+ "Culture": "Native American (Creek, Muskhogean family)",
+ "Medium": "wood, skin, and various materials",
+ "Dimensions": [
+  "Overall 19 x 40.5cm (7 1/2 x 15 15/16in.)",
+  "Other (heads) 39cm (15 3/8in.)"
+ ],
+ "Classification": "Membranophone-double-headed / cylindrical drum",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.629",
+ "Who": "Creek",
+ "What": [
+  "Musical instruments",
+  "Membranophones",
+  "Drums"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Oklahoma"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180012991,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MMA_89.4.629_2.jpg",
+ "related-artworks": [
+  180014528,
+  180012924,
+  180012988,
+  180012995,
+  180014589
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180012991"
+  }
+ }
+}

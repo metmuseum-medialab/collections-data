@@ -1,0 +1,40 @@
+{
+ "Period": "Angkor period",
+ "Date": "late 11th–12th century",
+ "Culture": "Cambodia",
+ "Medium": "Stoneware",
+ "Dimensions": "H. 4 7/8 in. (12.4 cm); Diam. 5 1/2 in. (14 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Cynthia Hazen Polsky, 1986",
+ "Accession Number": "1986.506.7",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Stoneware",
+  "Pots"
+ ],
+ "Where": [
+  "Asia",
+  "Cambodia"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60004368,
+ "gallery-id": 248,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1986_506_7.jpg",
+ "related-artworks": [
+  60004364,
+  60004363,
+  60047900,
+  60004366,
+  60004358
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60004368"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Lithographer": "Giles Lithographic Company (New York, NY and Boston, Massachusetts)",
+ "Date": "1888",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 1 1/2 × 2 3/4 in. (3.8 × 7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 204, N90.4",
+ "Who": [
+  "W. Duke, Sons & Co.",
+  "Giles Lithographic Company"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90101241,
+ "related-artworks": [
+  90096235,
+  90096238,
+  90096236,
+  90096249,
+  90096250
+ ],
+ "Description": "Trade cards from the \"Vehicles of the World\" series (N90), issued in a set of 50 cards in 1888. There are two variations within the series. One variation was issued by Duke's Cigarettes to promote the brand. A second variation was released the same year by Goodwin to promote Dogs Head and Old Judge Cigarettes. The only difference is the ad at the bottom of the card versos.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90101241"
+  }
+ }
+}

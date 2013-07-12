@@ -1,0 +1,49 @@
+{
+ "Date": "10th–12th century",
+ "Geography": "Peru",
+ "Culture": "Wari",
+ "Medium": "Cotton, camelid hair",
+ "Dimensions": [
+  "Overall 23 1/4 x 28 7/8 in. (59.06 x 73.34 cm)",
+  "Other 23 1/4 in. (59.06 cm)"
+ ],
+ "Classification": "Textiles-Woven",
+ "Credit Line": "Gift of George D. Pratt, 1930",
+ "Accession Number": "30.16.8",
+ "Who": "Wari",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Woven",
+  "Panels",
+  "Hair",
+  "Camelidae"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 500–1000 A.D.",
+  "Central and Southern Andes, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50000562,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DP18650_30.16.8.jpg",
+ "related-artworks": [
+  50000241,
+  50000682,
+  50000683,
+  50000240,
+  50000247
+ ],
+ "Provenance": [
+  "George D. Pratt, Glen Cove, N.Y., until 1930"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000562"
+  }
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "Date": "9th–10th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware; black slip, decoration in white, yellowish glaze",
+ "Dimensions": [
+  "H. 1 3/8 in. (3.5 cm)",
+  "Diam. 4 13/16 in. (12.2 cm)",
+  "Base 1 15/16 in. (4.9 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1940",
+ "Accession Number": "40.170.89",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Bowls",
+  "Slip"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140007066,
+ "related-artworks": [
+  "http://scrapi.org/object/140008488",
+  "http://scrapi.org/object/140006335",
+  "http://scrapi.org/object/140006366",
+  "http://scrapi.org/object/140006386",
+  "http://scrapi.org/object/140006406"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "1939, excavated in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1940, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140008488"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140006335"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140006366"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140006386"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140006406"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140007066"
+  }
+ }
+}

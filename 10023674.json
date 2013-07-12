@@ -1,0 +1,37 @@
+{
+ "Date": "1818",
+ "Culture": "American",
+ "Medium": "glass",
+ "Dimensions": "5 1/2 in. (14 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Purchase, William Cullen Bryant Fellows Gifts, 2008",
+ "Accession Number": "2008.594.32",
+ "Who": "Pellatt & Green",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Drinking glasses",
+  "Ale glasses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10023674,
+ "related-artworks": [
+  10023668,
+  10023669,
+  10023670,
+  10023671,
+  10023672
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10023674"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "1906",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "19.5 x 108.0 cm. (7  11/16  x 42  1/2  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Weston J. Naef, 1983",
+ "Accession Number": "1983.1142.1",
+ "Who": "Arthur Clarence Pillsbury",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 190015460,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/MM74135.jpg",
+ "related-artworks": [
+  190015461,
+  190011331,
+  190043417
+ ],
+ "Provenance": [
+  "Weston J. Naef"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190015460"
+  }
+ }
+}

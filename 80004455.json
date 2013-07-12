@@ -1,0 +1,41 @@
+{
+ "Designer": "Christian Dior (French, Granville 1905–1957 Montecatini)",
+ "Date": "1950s",
+ "Culture": "French",
+ "Medium": "straw, feathers",
+ "Dimensions": "Diameter 24 in. (61 cm)",
+ "Credit Line": "Gift of The Family of Mrs. M. Lincoln Schuster, 1977",
+ "Accession Number": "1977.363.10",
+ "Who": [
+  "House of Dior",
+  "Christian Dior"
+ ],
+ "What": [
+  "Costume",
+  "Hats",
+  "Feather",
+  "Straw"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80004455,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/264141.jpg",
+ "related-artworks": [
+  80027422,
+  80027415,
+  80027623,
+  80027569,
+  80094779
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80004455"
+  }
+ }
+}

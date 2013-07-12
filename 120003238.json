@@ -1,0 +1,45 @@
+{
+ "Date": "cast in plaster 1821, executed in bronze ca. 1833",
+ "Culture": "Italian",
+ "Medium": "Bronze",
+ "Dimensions": "H. 7-1/8 in. (18.1 cm.); W. 6-1/2 in. (16.5 cm.); L. 13-3/4 in. (34.9 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Mrs. Robert W. de Forest, 1903",
+ "Accession Number": "03.13",
+ "Who": "Francesco Antommarchi",
+ "What": [
+  "Metal",
+  "Costume",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Masks",
+  "Death masks"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003238,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/2402.jpg",
+ "related-artworks": [
+  120003366,
+  120000942,
+  120000977,
+  120003371,
+  120005087
+ ],
+ "Provenance": [
+  "Mrs. Robert W. De Forest (until 1903",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120003238"
+  }
+ }
+}

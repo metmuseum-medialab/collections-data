@@ -1,0 +1,51 @@
+{
+ "Manufacturer": "Manufactured by Union Porcelain Works (1863–ca. 1922)",
+ "Date": "ca. 1876",
+ "Geography": "Mid-Atlantic, Brooklyn, New York, United States",
+ "Culture": "American",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 3 7/8 in. (9.8 cm); Diam. 3 1/4 in. (8.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Franklin Chace, 1969",
+ "Accession Number": "69.194.14",
+ "Who": [
+  "Union Porcelain Works",
+  "Karl L. H. Müller"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Pots"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City",
+  "Brooklyn"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10002752,
+ "gallery-id": 706,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP223044.jpg",
+ "related-artworks": [
+  10001568,
+  10016371,
+  10005985,
+  10005986,
+  10005715
+ ],
+ "Provenance": [
+  "Mr. and Mrs. Franklin M. Chace, Easthampton, New York, until 1969"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10002752"
+  }
+ }
+}

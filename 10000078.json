@@ -1,0 +1,36 @@
+{
+ "Date": "1740–60",
+ "Medium": "Iron, brass",
+ "Dimensions": "21 1/4 x 17 3/4 in. (54 x 45.1 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Rogers Fund, 1937",
+ "Accession Number": "37.46.1",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Iron and iron alloy",
+  "Iron",
+  "Brass",
+  "Andirons"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000078,
+ "gallery-id": 774,
+ "related-artworks": [
+  10000070,
+  10000074,
+  10000075,
+  10000080,
+  10000081
+ ],
+ "Provenance": [
+  "Mr. and Mrs. Lawrence J. Ullman, Tarrytown, New York, until 1937"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000078"
+  }
+ }
+}

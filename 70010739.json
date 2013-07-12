@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1250",
+ "Geography": "Made in Burgundy, France",
+ "Culture": "French",
+ "Medium": "White oolitic limestone with traces of paint",
+ "Dimensions": [
+  "Overall 185 x 55 in. (469.9 x 139.7 cm)",
+  "Opening 110 x 66 in. (379.4 x 167.6 cm: 110 x 66 in. (279.4 x 167.6 cm)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "The Cloisters Collection, 1932",
+ "Accession Number": "32.147",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Limestone",
+  "Doorways",
+  "Oolitic limestone"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Burgundy"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70010739,
+ "gallery-id": 1,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/DP255158.jpg",
+ "related-artworks": [
+  70011678,
+  70012091,
+  70011206,
+  70011864,
+  70012766
+ ],
+ "Description": "According to tradition, the monastery of Moutiers-Saint-Jean was founded by the first Christian kings of France, Clovis I and his son Clothar I. They are almost certainly depicted in the standing figures presenting their charters, now installed in the embrasures on either side of the portal. The small seated figures in the flanking niches represent biblical personages believed to prefigure or foretell Christ's Crucifixion. The tympanum above the doorway depicts Christ crowning the Virgin as the Queen of Heaven. This portal, probably from the north aisle of the cloister, would have led from the monastic precinct into the abbey church. The portal suffered severe damage during the sixteenth-century Wars of Religion; the heads of the two kings may have been repaired in the seventeenth century.",
+ "Provenance": [
+  "From the abbey of Moutiers-Saint-Jean, near Dijon, FranceMlle. Cambillarc , Moutiers-St.-Jean, France",
+  "Jean Peslier , Vézelay, France",
+  "[ Brummer Gallery , Paris and New York (sold 1932)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70010739"
+  }
+ }
+}

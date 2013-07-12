@@ -1,0 +1,32 @@
+{
+ "Date": "ca. 1575",
+ "Culture": "Italian",
+ "Classification": "Shields",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.768",
+ "What": [
+  "Costume",
+  "Armor",
+  "Shields"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005599,
+ "related-artworks": [
+  40000184,
+  40000482,
+  40001102,
+  40003685,
+  40003688
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40005599"
+  }
+ }
+}

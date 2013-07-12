@@ -1,0 +1,53 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Italian, possibly Venice (Murano)",
+ "Medium": "Glass",
+ "Dimensions": "H. 4 1/4 in.  (10.8 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1448",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Vases"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001554,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/16674.jpg",
+ "Provenance": [
+  "Edward C. Moore"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120000249"
+   },
+   {
+    "href": "http://scrapi.org/object/120000253"
+   },
+   {
+    "href": "http://scrapi.org/object/120000255"
+   },
+   {
+    "href": "http://scrapi.org/object/120000257"
+   },
+   {
+    "href": "http://scrapi.org/object/120000361"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120001554"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120001554"
+  }
+ }
+}

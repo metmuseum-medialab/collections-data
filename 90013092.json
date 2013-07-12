@@ -1,0 +1,50 @@
+{
+ "Publisher": "Parts II and III published by George Virtue (London)",
+ "Author": "Part III written by William Beattie (British, 1793–1875)",
+ "Illustrator": "Parts II and III illustrated by William Henry Bartlett (British, London 1809–1854 at sea)",
+ "Date": "1834",
+ "Medium": "Engraving, lithography",
+ "Dimensions": "11 x 20 3/4 in. (27.9 x 52.7 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1970",
+ "Accession Number": "1970.565.100",
+ "Who": [
+  "William Henry Bartlett",
+  "George Virtue",
+  "Thomas Allom",
+  "Nathaniel Parker Willis",
+  "Fisher, Son & Co.",
+  "William Beattie"
+ ],
+ "What": [
+  "Prints",
+  "Engraving",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90013092,
+ "related-artworks": [
+  90024174,
+  90024182,
+  90024176,
+  90032840,
+  90017410
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90013092"
+  }
+ }
+}

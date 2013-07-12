@@ -1,0 +1,41 @@
+{
+ "Date": "1700–1900",
+ "Geography": "Mid-Atlantic, New York, United States",
+ "Culture": "American",
+ "Medium": "Linen, woven",
+ "Dimensions": "3 x 2 5/8 in. (7.6 x 6.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Eli N. Fordham, 1926",
+ "Accession Number": "26.23.8",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Linen",
+  "Samples"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10014586,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/62987.jpg",
+ "related-artworks": [
+  10014583,
+  10014582,
+  10014584,
+  10014585,
+  10014587
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014586"
+  }
+ }
+}

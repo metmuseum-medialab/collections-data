@@ -1,0 +1,41 @@
+{
+ "Period": "Cypro-Archaic I",
+ "Date": "ca. 750–600 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta; hand-made",
+ "Dimensions": "H. 5 7/16 in. (13.8 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.1775",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Statues"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130001796,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP101812.jpg",
+ "related-artworks": [
+  130001572,
+  130001579,
+  130001591,
+  130001596,
+  130001603
+ ],
+ "Provenance": [
+  "From Cyprus\r\nSaid to be from a tomb at Ormidhia"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130001796"
+  }
+ }
+}

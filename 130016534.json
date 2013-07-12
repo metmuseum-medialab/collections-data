@@ -1,0 +1,48 @@
+{
+ "Period": "Geometric",
+ "Date": "9th–8th century B.C.",
+ "Culture": "Italic, Villanovan",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 3 11/16 in. (9.3 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Gift of Mr. and Mrs. Jonathan P. Rosen, 1991",
+ "Accession Number": "1991.171.39",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Bronze",
+  "Jewelry",
+  "Bracelets"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130016534,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP20891.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130004829"
+   },
+   {
+    "href": "http://scrapi.org/object/130006907"
+   },
+   {
+    "href": "http://scrapi.org/object/130016533"
+   },
+   {
+    "href": "http://scrapi.org/object/130016537"
+   },
+   {
+    "href": "http://scrapi.org/object/130016546"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130016534"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130016534"
+  }
+ }
+}

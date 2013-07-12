@@ -1,0 +1,40 @@
+{
+ "Date": "1930–40 (?)",
+ "Medium": "Oil on canvas",
+ "Dimensions": "30 x 36 in. (76.2 x 49.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Estate of Anne Goldthwaite, 1944",
+ "Accession Number": "44.84",
+ "Who": "Anne Goldthwaite",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 20011306,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap44.84.jpg",
+ "related-artworks": [
+  20011304,
+  20011308,
+  20011309,
+  210007904,
+  20011305
+ ],
+ "Provenance": [
+  "the artist, New York, until died 1944",
+  "her estate, 1944"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20011306"
+  }
+ }
+}

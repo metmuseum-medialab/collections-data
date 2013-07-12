@@ -1,0 +1,39 @@
+{
+ "Artist": "After Giovanni Battista Cipriani (Italian, Florence 1727–1785 Hammersmith (active London))",
+ "Publisher": "Published by Michelangelo Pergolesi (Italian, active 1760–1801)",
+ "Date": "February 29, 1782",
+ "Medium": "Etching",
+ "Dimensions": "plate 17 7/8 x 11 in. (45.4 x 27.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1946",
+ "Accession Number": "46.50.2",
+ "Who": [
+  "Francesco Bartolozzi",
+  "Giovanni Battista Cipriani",
+  "Michelangelo Pergolesi"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90068022,
+ "related-artworks": [
+  90000857,
+  90002144,
+  90002145,
+  90002146,
+  90002147
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90068022"
+  }
+ }
+}

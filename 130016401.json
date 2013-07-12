@@ -1,0 +1,59 @@
+{
+ "": "Attributed to Makron",
+ "Period": "Archaic",
+ "Date": "ca. 490 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; red-figure",
+ "Classification": "Vases",
+ "Credit Line": "The Bothmer Purchase Fund, 1988",
+ "Accession Number": "1988.11.4",
+ "Who": [
+  "Makron",
+  "Hieron"
+ ],
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups",
+  "Kylikes"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130016401,
+ "gallery-id": 157,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130016164"
+   },
+   {
+    "href": "http://scrapi.org/object/130017441"
+   },
+   {
+    "href": "http://scrapi.org/object/130016126"
+   },
+   {
+    "href": "http://scrapi.org/object/130008602"
+   },
+   {
+    "href": "http://scrapi.org/object/130009174"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130016401"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130016401"
+  }
+ }
+}

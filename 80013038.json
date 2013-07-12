@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1780",
+ "Culture": "British",
+ "Medium": "cotton, flax",
+ "Dimensions": [
+  "Length at CB (a) 58 in. (147.3 cm)",
+  "Length at CB (b) 37 in. (94 cm)"
+ ],
+ "Credit Line": "Gifts in memory of Elizabeth Lawrence, 1982",
+ "Accession Number": "1982.291a, b",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Dresses",
+  "Robes",
+  "Plant fiber",
+  "Robe à la française",
+  "Flax"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 80013038,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1982.291ab_F.jpg",
+ "related-artworks": [
+  80005213,
+  80097104,
+  80001010,
+  80003827,
+  80005919
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80013038"
+  }
+ }
+}

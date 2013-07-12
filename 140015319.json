@@ -1,0 +1,50 @@
+{
+ "Date": "16th century",
+ "Geography": "Turkey, Western Anatolia",
+ "Medium": "Wool; symmetrically knotted pile",
+ "Dimensions": "L. 50 in. x W. 39 in.",
+ "Classification": "Textiles",
+ "Credit Line": "Gift from the Collection of Hillary Black Dumas and Dr. D. Gilbert Dumas, 2009",
+ "Accession Number": "2009.458.6",
+ "What": [
+  "Textiles",
+  "Wool",
+  "Rugs",
+  "Carpets"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140015319,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/Met_006.JPG",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/140004809"
+   },
+   {
+    "href": "http://scrapi.org/object/140009441"
+   },
+   {
+    "href": "http://scrapi.org/object/140015314"
+   },
+   {
+    "href": "http://scrapi.org/object/140002483"
+   },
+   {
+    "href": "http://scrapi.org/object/140008791"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140015319"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/140015319"
+  }
+ }
+}

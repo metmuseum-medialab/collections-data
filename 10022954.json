@@ -1,0 +1,35 @@
+{
+ "Culture": "American",
+ "Medium": "Netting with appliqué",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The Museum of the City of New York, 2008",
+ "Accession Number": "2009.226.6a, b",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Net",
+  "Curtains",
+  "Appliqué"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10022954,
+ "related-artworks": [
+  10022955,
+  10015050,
+  10018507,
+  10014049,
+  10014997
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10022954"
+  }
+ }
+}

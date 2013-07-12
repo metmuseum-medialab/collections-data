@@ -1,0 +1,33 @@
+{
+ "Date": "1815",
+ "Culture": "European, Eastern",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. Lee Simonson, 1939",
+ "Accession Number": "C.I.39.13.26",
+ "What": [
+  "Costume",
+  "Silk",
+  "Coats"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80012192,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.39.13.26_F.jpg",
+ "related-artworks": [
+  80002252,
+  80005390,
+  80005900,
+  80007324,
+  80007325
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80012192"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "1970s",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, 1974",
+ "Accession Number": "1974.642.4",
+ "Who": "Fred Floyd",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190012902,
+ "related-artworks": [
+  190012899,
+  190012900,
+  190012901,
+  190012903,
+  190012904
+ ],
+ "Provenance": [
+  "Fred Floyd"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190012902"
+  }
+ }
+}

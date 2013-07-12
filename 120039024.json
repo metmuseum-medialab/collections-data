@@ -1,0 +1,46 @@
+{
+ "Date": "early 17th century",
+ "Culture": "Italian",
+ "Medium": "Needle lace",
+ "Dimensions": [
+  "L. 10 3/4 x W. 7 3/4 inches",
+  "27.3 x 19.7 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Margaret Taylor Johnstone, 1921",
+ "Accession Number": "21.136.2",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120039024,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/48630.jpg",
+ "related-artworks": [
+  120030087,
+  120030150,
+  120030160,
+  120030645,
+  120030646
+ ],
+ "Provenance": [
+  "Margaret Taylor Johnstone (until 1921",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120039024"
+  }
+ }
+}

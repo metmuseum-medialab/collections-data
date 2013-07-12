@@ -1,0 +1,36 @@
+{
+ "Illustrator": "Illustrated by André Derain (French, Chatou 1880–1954 Garches)",
+ "Publisher": "Published by Daniel Henry Kahnweiler",
+ "Date": "1912",
+ "Medium": "wood cuts",
+ "Dimensions": "Overall 9 x 6 1/2 x 1 in. (22.9 x 16.5 x 2.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund",
+ "Accession Number": "25.70.27",
+ "Who": [
+  "André Derain",
+  "Daniel Henry Kahnweiler",
+  "Max Jacob"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90019863,
+ "related-artworks": [
+  90093255,
+  90012365,
+  90015695,
+  90018529
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90019863"
+  }
+ }
+}

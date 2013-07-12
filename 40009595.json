@@ -1,0 +1,40 @@
+{
+ "Date": "possibly 17th century",
+ "Culture": "Indian, Tanjore",
+ "Classification": "Swords",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.1331",
+ "What": [
+  "Costume",
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Gloves",
+  "Gauntlets"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Tamil Nadu",
+  "Thanjavur"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia, 1600–1800 A.D.",
+  "South Asia, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40009595,
+ "related-artworks": [
+  40009581,
+  40009846,
+  40009854,
+  40009852,
+  40009855
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40009595"
+  }
+ }
+}

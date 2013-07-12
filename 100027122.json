@@ -1,0 +1,42 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19–20",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Cemetery, MMA 1915–1916",
+ "Medium": "Serpentine",
+ "Dimensions": "h. 5.1 cm (2 in)",
+ "Credit Line": "Rogers Fund, 1915",
+ "Accession Number": "15.3.843",
+ "What": [
+  "Stone",
+  "Serpentine",
+  "Grinding stones"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100027122,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs15.3.847.jpg",
+ "related-artworks": [
+  100027121,
+  100027119,
+  100027118,
+  100027120,
+  100001450
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100027122"
+  }
+ }
+}

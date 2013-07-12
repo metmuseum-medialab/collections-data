@@ -1,0 +1,37 @@
+{
+ "Date": "16th century",
+ "Culture": "German",
+ "Medium": "Iron",
+ "Dimensions": "Each 3 3/4 x 4 1/8 in.  (9.5 x 10.5 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Henry G. Marquand, 1887",
+ "Accession Number": "87.11.348,349",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Hinges"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001119,
+ "related-artworks": [
+  120001036,
+  120001038,
+  120001092,
+  120001121,
+  120001082
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001119"
+  }
+ }
+}

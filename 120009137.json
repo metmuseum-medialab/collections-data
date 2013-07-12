@@ -1,0 +1,44 @@
+{
+ "Date": "1753–95",
+ "Culture": "French (Sceaux)",
+ "Medium": "Faience (tin-enameled earthenware)",
+ "Dimensions": "12-1/2 x 9-3/4 in.  (31.8 x 24.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.1945",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Faience",
+  "Earthenware",
+  "Basins"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Sceaux"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009137,
+ "gallery-id": 545,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/40657.jpg",
+ "related-artworks": [
+  120009104,
+  120009147,
+  120009099,
+  120009109,
+  120009120
+ ],
+ "Provenance": [
+  "Gaston Le Breton (before 1910)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009137"
+  }
+ }
+}

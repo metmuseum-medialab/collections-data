@@ -1,0 +1,34 @@
+{
+ "Date": "1792–93",
+ "Culture": "European",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 35 in. (88.9 cm)",
+ "Credit Line": "Purchase, The German Fur Federation Gift, 1981",
+ "Accession Number": "1981.352.1",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Scarves",
+  "Fichus"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80052122,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1981.352.1.jpg",
+ "related-artworks": [
+  80052146,
+  80058227,
+  80052024,
+  80052116,
+  80052518
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052122"
+  }
+ }
+}

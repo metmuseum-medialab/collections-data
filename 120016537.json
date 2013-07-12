@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1780",
+ "Culture": "Chinese",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 4 13/16 in. (12.2 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Helena Woolworth McCann Collection, Gift of Winfield Foundation, 1951",
+ "Accession Number": "51.86.408",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Pedestals"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120016537,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/151216.jpg",
+ "related-artworks": [
+  120000080,
+  120000072,
+  120000075,
+  120005037,
+  120009223
+ ],
+ "Provenance": [
+  "Helena Woolworth McCann"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120016537"
+  }
+ }
+}

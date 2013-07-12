@@ -1,0 +1,45 @@
+{
+ "Date": "mid-20th century",
+ "Geography": "Papua New Guinea, Upper Sepik River, May River",
+ "Culture": "Igom people (?)",
+ "Medium": "Sago palm petiole, paint",
+ "Dimensions": "H. 47 x W. 14 1/4 x D. 1 in. (119.4 x 36.2 x 2.5 cm)",
+ "Classification": "Bark-Paintings",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.1698",
+ "What": [
+  "Paintings",
+  "Palm leaf",
+  "Bark paintings",
+  "Stalk",
+  "Leafstalk"
+ ],
+ "Where": [
+  "Oceania",
+  "Papua New Guinea",
+  "East Sepik",
+  "Sepik"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Melanesia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50006209,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DP152742.jpg",
+ "related-artworks": [
+  50006578,
+  50006603,
+  50006605,
+  50006586,
+  50006589
+ ],
+ "Provenance": [
+  "[H.M. Lissauer, Melbourne, Australia, until 1965]",
+  "Nelson A. Rockefeller, New York, 1965, on permanent loan to The Museum of Primitive Art, New York, 1965–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50006209"
+  }
+ }
+}

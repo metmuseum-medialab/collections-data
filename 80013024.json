@@ -1,0 +1,34 @@
+{
+ "Date": "18th century–19th century",
+ "Culture": "European, Eastern",
+ "Medium": "metal",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.37.42a, b",
+ "What": [
+  "Metal",
+  "Costume",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80013024,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/09.37.42ab.jpg",
+ "related-artworks": [
+  80001776,
+  80001777,
+  80012871,
+  80013028,
+  80013023
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80013024"
+  }
+ }
+}

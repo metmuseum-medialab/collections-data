@@ -1,0 +1,44 @@
+{
+ "Date": "after a composition datable 1526",
+ "Culture": "Italian (Padua)",
+ "Medium": "Bronze",
+ "Dimensions": "H. 7 3/4 in. (19.7 cm.); W. 4 3/4 in. (12.1 cm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.70.16",
+ "Who": "Alvise of Padua",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Padua"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009242,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF18_70_16.jpg",
+ "related-artworks": [
+  120019539,
+  120010495,
+  120011619,
+  120006970
+ ],
+ "Provenance": [
+  "[ Stefano Bardini (until 1918",
+  "Bardini sale, American Art Galleries, New York, April 23-27, 1918, no. 228) ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009242"
+  }
+ }
+}

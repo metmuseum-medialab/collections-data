@@ -1,0 +1,37 @@
+{
+ "Date": "18th century",
+ "Culture": "Japanese",
+ "Medium": "Shibuichi, silver, shakudo, gold and copper",
+ "Classification": "Sword Furniture",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.893",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Arms",
+  "Edged weapons",
+  "Copper",
+  "Swords",
+  "Knives"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 40005164,
+ "related-artworks": [
+  40005163,
+  40005251,
+  40003929,
+  40004074,
+  40004069
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40005164"
+  }
+ }
+}

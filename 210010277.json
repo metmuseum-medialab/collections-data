@@ -1,0 +1,57 @@
+{
+ "Date": "1926",
+ "Medium": "Oil on canvas",
+ "Dimensions": "29 7/8 x 16 1/2 in. (75.9 x 41.9 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Jacques and Natasha Gelman Collection, 1998",
+ "Accession Number": "1999.363.8",
+ "Rights and Reproduction": "© 2011 Artists Rights Society (ARS), New York",
+ "Who": "Pierre Bonnard",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Lithography in the Nineteenth Century",
+  "School of Paris",
+  "Pierre Bonnard (1867–1947) The Late Interiors",
+  "The Nabis and Decorative Painting",
+  "Japonisme",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210010277,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT4452.jpg",
+ "related-artworks": [
+  150000192,
+  210001690,
+  210001959,
+  210010248,
+  210010259
+ ],
+ "Provenance": [
+  "the artist (1926–27",
+  "sold in February 1927 to Bernheim-Jeune)",
+  "[Bernheim-Jeune, Paris, from 1927]",
+  "Gaston Bernheim de Villers, Paris",
+  "Percy Moore Turner, London",
+  "Mrs. Pleydell [Bouverie], London",
+  "[Sam Salz, New York, until 1952",
+  "sold on November 14, 1952, for $18,500, to Gelman]",
+  "Jacques and Natasha Gelman, Mexico City and New York (1952–his d. 1986)",
+  "Natasha Gelman, Mexico City and New York (1986–d. 1998",
+  "her bequest to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210010277"
+  }
+ }
+}

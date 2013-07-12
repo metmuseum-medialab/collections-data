@@ -1,0 +1,45 @@
+{
+ "Manufacturer": "Friedman Silver Company (Brooklyn, New York)",
+ "Date": "1927",
+ "Medium": "Silver-plated metal",
+ "Dimensions": [
+  "H. 13-1/4, W. 3-5/8 inches",
+  "(33.7 x 9.2 cm)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "John C. Waddell Collection, Gift of John C. Waddell, 2000",
+ "Accession Number": "2000.600.19",
+ "Who": [
+  "Kem Weber",
+  "Friedman Silver Company"
+ ],
+ "What": [
+  "Metal",
+  "Vessels",
+  "Metalwork",
+  "Silver",
+  "Vases",
+  "Plated metal"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210011460,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP116584.jpg",
+ "related-artworks": [
+  210004595,
+  210004596,
+  210004848,
+  210011462
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210011460"
+  }
+ }
+}

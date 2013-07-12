@@ -1,0 +1,38 @@
+{
+ "Period": "New Kingdom, Amarna Period",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Akhenaten to Haremhab",
+ "Date": "ca. 1353–1295 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Pale blue, white",
+ "Dimensions": "h. 3.6 cm (1 7/16 in)",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1905",
+ "Accession Number": "O.C.3174",
+ "What": [
+  "Beads",
+  "Money",
+  "Coins",
+  "Elongated coins"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100008137,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsoc3174yy.jpg",
+ "related-artworks": [
+  100007945,
+  100018918,
+  100011626,
+  100027951,
+  100010658
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008137"
+  }
+ }
+}

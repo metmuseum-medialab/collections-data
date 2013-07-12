@@ -1,0 +1,36 @@
+{
+ "Date": "1941",
+ "Culture": "American",
+ "Medium": "Cotton, silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Sally Victor, Inc., 1944",
+ "Accession Number": "2009.300.4459",
+ "Who": "Sally Victor",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Hats",
+  "Turbans"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80106887,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/44.105.73_front_CP2.jpg",
+ "related-artworks": [
+  80108337,
+  80107814,
+  80094678,
+  80106853,
+  80106883
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80106887"
+  }
+ }
+}

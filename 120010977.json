@@ -1,0 +1,57 @@
+{
+ "Date": "early 19th century",
+ "Culture": "German",
+ "Medium": "Glass",
+ "Dimensions": "H. 1 13/16 in.  (4.6 cm); Diam. 15/16 in. (2.4 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Munsey Fund, 1927",
+ "Accession Number": "27.185.397",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Beakers"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010977,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/69459.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120001502",
+  "http://scrapi.org/object/120010742",
+  "http://scrapi.org/object/120010741",
+  "http://scrapi.org/object/120010949",
+  "http://scrapi.org/object/120010988"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Jacques Mühsam"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120001502"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120010742"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120010741"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120010949"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120010988"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120010977"
+  }
+ }
+}

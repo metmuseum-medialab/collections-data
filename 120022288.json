@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1650",
+ "Culture": "German (Augsburg)",
+ "Medium": "Silver gilt, enamel",
+ "Dimensions": "H. 9 in. (22.9 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+ "Accession Number": "1974.356.763 ab",
+ "Who": "Jonas Laminit",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Enamel",
+  "Canisters"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Augsburg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "id": 120022288,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/205387.jpg",
+ "related-artworks": [
+  120049359,
+  120008277,
+  120022195,
+  120022227,
+  120022259
+ ],
+ "Provenance": [
+  "Lesley and Emma Sheafer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022288"
+  }
+ }
+}

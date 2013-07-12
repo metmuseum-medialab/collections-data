@@ -1,0 +1,49 @@
+{
+ "Date": "ca. 1750",
+ "Culture": "British, Staffordshire",
+ "Medium": "Salt-glazed stoneware",
+ "Dimensions": "H. 7 in.  (17.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1943",
+ "Accession Number": "43.100.7",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Glaze",
+  "Jugs",
+  "Stoneware",
+  "Ceramic glaze",
+  "Salt glaze"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120014384,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/134184.jpg",
+ "related-artworks": [
+  120012490,
+  120012489,
+  120012471,
+  120012476,
+  120012532
+ ],
+ "Provenance": [
+  "Cyril Earle (until 1915",
+  "sale, The Earl collection of early Staffordshire pottery, 1915, col. pl. IV, no. 97, and pp. 60, 61)",
+  "Cecil Baring, Lord Revelstoke (until 1934",
+  "sale, Lord Cecil Baring Revelstoke collection, Puttick and Simpson, London, November 20–23, 1934, no. 391)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120014384"
+  }
+ }
+}

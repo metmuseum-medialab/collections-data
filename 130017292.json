@@ -1,0 +1,47 @@
+{
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 3 3/4 in. (9.5 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.248.21",
+ "What": [
+  "Clay",
+  "Terracotta",
+  "Lighting devices",
+  "Lamps"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130017292,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130013152"
+   },
+   {
+    "href": "http://scrapi.org/object/130015062"
+   },
+   {
+    "href": "http://scrapi.org/object/130005193"
+   },
+   {
+    "href": "http://scrapi.org/object/130005341"
+   },
+   {
+    "href": "http://scrapi.org/object/130010834"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130017292"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130017292"
+  }
+ }
+}

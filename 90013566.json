@@ -1,0 +1,39 @@
+{
+ "Publisher": "Published by Gabriele Giolito de Ferrari (Italian, born Ferrara, active Venice from 1538, died 1578)",
+ "Date": "1546",
+ "Medium": "Printed book with woodcut illustrations",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1937",
+ "Accession Number": "37.37.14",
+ "Who": [
+  "Giovanni Boccaccio",
+  "Gabriele Giolito de Ferrari"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90013566,
+ "related-artworks": [
+  90013565,
+  90005370,
+  90005368,
+  90043708,
+  90013562
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90013566"
+  }
+ }
+}

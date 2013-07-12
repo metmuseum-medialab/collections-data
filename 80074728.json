@@ -1,0 +1,39 @@
+{
+ "Date": "2006",
+ "Culture": "American",
+ "Medium": "(a) wool; (b) silk",
+ "Dimensions": [
+  "Length at CB (a) 57 in. (144.8 cm)",
+  "Length at Side Seam (b) 39 1/2 in. (100.3 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. Charles Wrightsman, 2007",
+ "Accession Number": "2007.238.2a, b",
+ "Who": "Ralph Rucci",
+ "What": [
+  "Silk",
+  "Wool",
+  "Ensembles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80074728,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2007.238.2ab_F.jpg",
+ "related-artworks": [
+  80058138,
+  80062978,
+  80062977,
+  80062976,
+  80058135
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80074728"
+  }
+ }
+}

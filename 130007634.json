@@ -1,0 +1,35 @@
+{
+ "Culture": "Greek, Lesbian",
+ "Medium": "Electrum",
+ "Dimensions": "Diameter 7/16 x 1/8 in. (1.1 x 0.3 cm)",
+ "Classification": "Coins",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1905",
+ "Accession Number": "05.44.640",
+ "What": [
+  "Metal",
+  "Money",
+  "Coins",
+  "Gold alloy",
+  "Electrum"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130007634,
+ "related-artworks": [
+  130015220,
+  130003481,
+  130003482,
+  130007280,
+  130007281
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130007634"
+  }
+ }
+}

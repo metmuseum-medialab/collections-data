@@ -1,0 +1,50 @@
+{
+ "Date": "1867–69",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Maple; rosewood; ash (secondary wood); upholstery not origin",
+ "Dimensions": "30 1/4 x 22 x 26 1/4 in. (76.8 x 55.9 x 66.7 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of James Graham and Sons, 1965",
+ "Accession Number": "65.186",
+ "Who": "Herter Brothers",
+ "What": [
+  "Needlework",
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Maple",
+  "Rosewood",
+  "Upholstery",
+  "Sewing"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10007820,
+ "gallery-id": 736,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA4655.jpg",
+ "related-artworks": [
+  10019456,
+  10005163,
+  10000223,
+  10001717,
+  10015804
+ ],
+ "Provenance": [
+  "James Graham and Sons, New York, until 1965"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10007820"
+  }
+ }
+}

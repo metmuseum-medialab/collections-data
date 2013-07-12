@@ -1,0 +1,40 @@
+{
+ "Date": "ca. A.D. 90–200",
+ "Culture": "Roman",
+ "Medium": "Terracotta; mold-made",
+ "Dimensions": "Overall 13/16 x 3 5/16 in. (2.1 x 8.4 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2256",
+ "What": [
+  "Clay",
+  "Terracotta",
+  "Lighting devices",
+  "Lamps"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "id": 130002275,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP427.jpg",
+ "related-artworks": [
+  130001850,
+  130001958,
+  130001961,
+  130001993,
+  130002034
+ ],
+ "Description": "On discus, locust eating grapes. The lamp was probably made in Syria–Palestine.",
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002275"
+  }
+ }
+}

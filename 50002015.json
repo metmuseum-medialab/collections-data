@@ -1,0 +1,44 @@
+{
+ "Date": "4th–7th century",
+ "Geography": "Peru",
+ "Culture": "Moche",
+ "Medium": "Ceramic, pigment",
+ "Dimensions": "H. 10 1/4 x Diam. 6 1/2 in. (26 x 16.5 cm)",
+ "Classification": "Ceramics-Containers",
+ "Credit Line": "Gift of Nathan Cummings, 1967",
+ "Accession Number": "67.167.5",
+ "Who": "Moche",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Bottles"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1–500A.D.",
+  "Central and Southern Andes, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50002015,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/67.167.5.JPG",
+ "related-artworks": [
+  50000437,
+  50000952,
+  50000978,
+  50000953,
+  50000955
+ ],
+ "Provenance": [
+  "Bruno J. Wassermann-San Blas Collection, Buenos Aires, Argentina, acquired by 1938, until 1954",
+  "Nathan Cummings, Chicago, 1954–1964"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50002015"
+  }
+ }
+}

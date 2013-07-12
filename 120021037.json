@@ -1,0 +1,45 @@
+{
+ "Date": "1678–79",
+ "Culture": "British, London",
+ "Medium": "Silver gilt",
+ "Dimensions": "Total H. 6 5/8 in.  (16.8 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1970",
+ "Accession Number": "1970.131.12",
+ "Who": "Francis Leake",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Drinking vessels",
+  "Tankards"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021037,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/193182.jpg",
+ "related-artworks": [
+  120020814,
+  120020679,
+  120023523,
+  120000012
+ ],
+ "Provenance": [
+  "Irwin Untermyer (until 1970",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021037"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Publisher": "Published by Tamarind Lithography Workshop",
+ "Date": "1969",
+ "Medium": "Lithograph",
+ "Dimensions": "Sheet 23 1/4 × 19 5/16 in. (59 × 49 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Angela Dogançay, 2004",
+ "Accession Number": "2004.495.9",
+ "Who": [
+  "Tamarind Lithography Workshop",
+  "Burhan Dogançay"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90105462,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP292005.jpg",
+ "related-artworks": [
+  90039108,
+  90105451,
+  90105452,
+  90105453,
+  90105454
+ ],
+ "Provenance": [
+  "Donor: Angela Dogançay"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90105462"
+  }
+ }
+}

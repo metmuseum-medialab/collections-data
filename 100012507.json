@@ -1,0 +1,41 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes",
+ "Medium": "Glass",
+ "Credit Line": "Gift of Bashford Dean, 1916",
+ "Accession Number": "16.7.10",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Fragments"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100012507,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs16.7.10.jpg",
+ "related-artworks": [
+  100012310,
+  100017728,
+  100001193,
+  100005296,
+  100005400
+ ],
+ "Provenance": [
+  "Donated to the Museum by Bashford Dean, 1916."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100012507"
+  }
+ }
+}

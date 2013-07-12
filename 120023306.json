@@ -1,0 +1,54 @@
+{
+ "Maker": "Possibly by Friedrich Elias Meyer (1723/1724–1785)",
+ "Date": "ca. 1748",
+ "Culture": "German (Meissen)",
+ "Medium": "Hard-paste porcelain with gilt-bronze mounts",
+ "Dimensions": "H. 11-3/4 in. (29.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+ "Accession Number": "1982.60.295",
+ "Who": [
+  "Meissen Manufactory",
+  "Johann Joachim Kändler",
+  "Friedrich Elias Meyer"
+ ],
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Copper alloy",
+  "Faience",
+  "Bronze",
+  "Porcelain",
+  "Gilt",
+  "Figures",
+  "Hard paste porcelain",
+  "Plate",
+  "Ormolu"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Saxony",
+  "Meissen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120023306,
+ "gallery-id": 538,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES6375.jpg",
+ "related-artworks": [
+  120016170,
+  120018518,
+  120018519,
+  120021916,
+  120021917
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120023306"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Artist": "Copy after Cui Bai (Chinese, active ca. 1040–70)",
+ "Period": "Ming (1368–1644) or Qing dynasty (1644–1911)",
+ "Culture": "China",
+ "Medium": "Handscroll; ink and color on silk",
+ "Dimensions": "16 5/8 x 101 in. (42.2 x 256.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947",
+ "Accession Number": "47.18.94",
+ "Who": [
+  "Unidentified Artist",
+  "Cui Bai"
+ ],
+ "What": [
+  "Silk",
+  "Ink",
+  "Paintings",
+  "Scroll paintings",
+  "Handscrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1000–1400 A.D.",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60022608,
+ "related-artworks": [
+  60006777,
+  60022125,
+  60022364,
+  60022539,
+  60022567
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60022608"
+  }
+ }
+}

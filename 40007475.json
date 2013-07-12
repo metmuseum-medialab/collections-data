@@ -1,0 +1,35 @@
+{
+ "Date": "17th century",
+ "Culture": "Dutch",
+ "Classification": "Swords",
+ "Credit Line": "Gift of Stephen V. Grancsay, 1942",
+ "Accession Number": "42.50.102",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Finials",
+  "Pommels"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40007475,
+ "related-artworks": [
+  40005877,
+  40007434,
+  40007454,
+  40007455,
+  40007484
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40007475"
+  }
+ }
+}

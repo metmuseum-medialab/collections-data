@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1735",
+ "Culture": "Austrian",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Bashford Dean Memorial Collection, Gift of Edward S. Harkness, 1929",
+ "Accession Number": "29.156.21",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Staff weapons",
+  "Partisans",
+  "Leading staffs",
+  "Spontoons"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40012765,
+ "related-artworks": [
+  40005381,
+  40008024,
+  40004980,
+  40013349,
+  40003358
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40012765"
+  }
+ }
+}

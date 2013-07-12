@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1480",
+ "Culture": "German",
+ "Medium": "Steel",
+ "Dimensions": "H. 14½ inches (37cm); W. 13 1/8 inches (34 cm); depth 5 inches (12.8 cm); Wt. 3 lb. 7 oz. (1571 g)",
+ "Classification": "Armor Parts",
+ "Credit Line": "Bashford Dean Memorial Collection, Bequest of Bashford Dean, 1928",
+ "Accession Number": "29.150.68",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Armor",
+  "Body armor",
+  "Escutcheons",
+  "Backplates"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40001350,
+ "related-artworks": [
+  40000608,
+  40001034,
+  40001035,
+  40001088,
+  40010874
+ ],
+ "Provenance": [
+  "Ex coll.:  Laking"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40001350"
+  }
+ }
+}

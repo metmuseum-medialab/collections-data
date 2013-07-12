@@ -1,0 +1,34 @@
+{
+ "Date": "1870s",
+ "Classification": "Books",
+ "Credit Line": "David Hunter McAlpin Fund, 1952",
+ "Accession Number": "52.648",
+ "Who": "Henry William Taunt",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190021459,
+ "related-artworks": [
+  190011437,
+  190011438,
+  190011647,
+  190011764,
+  190011838
+ ],
+ "Provenance": [
+  "[...]",
+  "Albert E. Marshall",
+  "[Swann Galleries, sale 311, 1952, lot 330]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190021459"
+  }
+ }
+}

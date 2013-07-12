@@ -1,0 +1,42 @@
+{
+ "Date": "1960s",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "18.9 x 19.3 cm (7 7/16 x 7 5/8 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Simon and Bonnie Levin, 1998",
+ "Accession Number": "1998.472.3",
+ "Rights and Reproduction": "© The Estate of Ralph Eugene Meatyard, Courtesy Fraenkel Gallery, San Francisco.",
+ "Who": "Ralph Eugene Meatyard",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Structure of Photographic Metaphors",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190035897,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP70269.jpg",
+ "related-artworks": [
+  190023049,
+  190035871,
+  190035872,
+  190035874,
+  190035877
+ ],
+ "Provenance": [
+  "Simon Levin"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190035897"
+  }
+ }
+}

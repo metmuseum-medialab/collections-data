@@ -1,0 +1,41 @@
+{
+ "Date": "1885 (?)",
+ "Geography": "Hungary",
+ "Medium": "Wood, metal",
+ "Dimensions": [
+  "Length  90.5 cm",
+  "Greatest width  16.1 cm",
+  "Depth of soundbox  7.8 cm",
+  "Sounding length of longest string  71.9 cm",
+  "Sounding length of shortest string  27.1 cm"
+ ],
+ "Classification": "Chordophone-Zither",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2740",
+ "What": [
+  "Metal",
+  "Musical instruments",
+  "Chordophones",
+  "Zithers"
+ ],
+ "Where": [
+  "Europe",
+  "Hungary"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 180015786,
+ "related-artworks": [
+  180016223,
+  180017595,
+  180016921,
+  180017213,
+  180013355
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180015786"
+  }
+ }
+}

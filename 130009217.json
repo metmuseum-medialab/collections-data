@@ -1,0 +1,39 @@
+{
+ "Period": "Late Republican",
+ "Date": "1st century B.C.",
+ "Culture": "Roman",
+ "Medium": "Marble",
+ "Dimensions": "width  50 3/4in. (128.9cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.115.1",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Furniture",
+  "Marble",
+  "Tables"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009217,
+ "gallery-id": 162,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DT203387.jpg",
+ "related-artworks": [
+  130007938,
+  130011904,
+  130007463,
+  130008615,
+  130008789
+ ],
+ "Description": "This marble trapezophoros is one of a pair of supports for a large tabletop that probably stood in the atrium of a wealthy family’s house. Its two sides are finely carved with grape vines and floral sprays issuing from acanthus fronds that bring to mind the intricate vegetal designs on public monuments of the Augustan age, notably the panels with acanthus and swan reliefs on the Ara Pacis Augustae inRome. At either end of the support, the head and torso of a winged griffin emerge from a feline leg. They form a striking contrast to the delicate floral decoration with their deep relief and powerful musculature, thereby solidly grounding what must have been a monumental piece of furniture.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009217"
+  }
+ }
+}

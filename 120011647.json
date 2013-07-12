@@ -1,0 +1,37 @@
+{
+ "Date": "17th century",
+ "Culture": "European",
+ "Medium": "Bronze",
+ "Dimensions": "Gr. Diam. 53 mm.",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Bequest of Gwynne M. Andrews, 1931",
+ "Accession Number": "31.33.168",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011647,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/82470.jpg",
+ "related-artworks": [
+  120010194,
+  120010198,
+  120010211,
+  120010215,
+  120017784
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011647"
+  }
+ }
+}

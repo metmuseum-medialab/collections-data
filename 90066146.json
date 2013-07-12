@@ -1,0 +1,42 @@
+{
+ "Artist": "After (?) Parmigianino (Girolamo Francesco Maria Mazzola) (Italian, Parma 1503–1540 Casalmaggiore)",
+ "Date": "16th century",
+ "Medium": "Etching on paper colored in blue",
+ "Dimensions": "sheet 7 1/16 x 3 3/8 in. (18 x 8.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.634.70",
+ "Who": [
+  "Anonymous, Italian, 16th century",
+  "Parmigianino (Girolamo Francesco Maria Mazzola)"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Paper"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90066146,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP826187.jpg",
+ "related-artworks": [
+  90049403,
+  90066149,
+  90066155,
+  90066156,
+  90066160
+ ],
+ "Provenance": [
+  "Pierre Jean Mariette (French, Paris 1694–1774 Paris)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90066146"
+  }
+ }
+}

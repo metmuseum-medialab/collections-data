@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1827–35",
+ "Medium": "Pressed and free-blown lead glass",
+ "Dimensions": "H. 4 in. (10.2 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Dr. Michael Heidelberger, in memory of Nina T. Heidelberger, 1982",
+ "Accession Number": "1982.439.21",
+ "What": [
+  "Metal",
+  "Glass",
+  "Lighting devices",
+  "Blown glass",
+  "Lead",
+  "Lamps",
+  "Oil",
+  "Oil lamps",
+  "Whale oil lamps"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005592,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA5309.jpg",
+ "related-artworks": [
+  10005578,
+  10005579,
+  10005580,
+  10005585,
+  10005587
+ ],
+ "Provenance": [
+  "Dr. Michael Heidelberger, New York, until 1982"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005592"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "1675–1725",
+ "Culture": "Italian",
+ "Medium": "[no medium available]",
+ "Dimensions": "Width 8 in. (20.3 cm)",
+ "Credit Line": "Gift of Miss Emily Chase, 1948",
+ "Accession Number": "C.I.48.22.5",
+ "What": [
+  "Costume",
+  "Neckwear",
+  "Collars",
+  "Berthas"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80052410,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI48.22.5.jpg",
+ "related-artworks": [
+  80024991,
+  80108168,
+  80029701,
+  80029702,
+  80029800
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052410"
+  }
+ }
+}

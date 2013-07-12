@@ -1,0 +1,29 @@
+{
+ "Medium": "Engraving",
+ "Dimensions": "Sheet 9 1/2 x 14 1/2 in. (24.1 x 36.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.95.2243",
+ "Who": "Isaak Major",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Drawings and Prints",
+ "id": 90080843,
+ "related-artworks": [
+  90069814,
+  90001848,
+  90064041
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90080843"
+  }
+ }
+}

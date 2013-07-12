@@ -1,0 +1,41 @@
+{
+ "Date": "1567 (?)",
+ "Medium": "Brush and black wash, watercolor, gouache",
+ "Dimensions": "sheet 13 7/16 x 10 5/8 in. (34.1 x 27 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Charles and Jessie Price Gift, 2007",
+ "Accession Number": "2007.267",
+ "Who": "Monogrammist AW",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90045720,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803577.jpg",
+ "related-artworks": [
+  90055727,
+  90001816,
+  90043216,
+  90054015,
+  90001742
+ ],
+ "Provenance": [
+  "August Artaria, Vienna, sale, Artaria, May 6-13, 1896, lot 1132",
+  "Reiss & Sohn, October 29, 2005, lot 6659",
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90045720"
+  }
+ }
+}

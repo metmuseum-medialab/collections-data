@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1890–95",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "18 x 24 3/16in. (45.7 x 61.4cm)",
+  "Framed 3 1/4 x 24 1/2 x 30 1/2 in. (8.3 x 62.2 x 77.5 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mrs. Samuel Hellinger, 1971",
+ "Accession Number": "1971.247",
+ "Who": "Louis Moeller",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20011945,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap1971.247.jpg",
+ "related-artworks": [
+  20011946,
+  20011944,
+  20010361
+ ],
+ "Provenance": [
+  "New York art market, early 1920s",
+  "Samuel and Bertha Hellinger, New York, early 1920s–1971"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20011945"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "1856",
+ "Medium": "Albumen silver print",
+ "Classification": "Photographs",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1963",
+ "Accession Number": "63.606.1.22",
+ "Who": "John Richardson Major",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190022666,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP209244.jpg",
+ "related-artworks": [
+  190022651,
+  190011807,
+  190011810,
+  190011819
+ ],
+ "Provenance": [
+  "Hugh Welch Diamond",
+  "Miss Mackinlay",
+  "...",
+  "Maggs Bros. Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190022666"
+  }
+ }
+}

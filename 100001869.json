@@ -1,0 +1,50 @@
+{
+ "Period": "Late Period",
+ "Dynasty": "Dynasty 26–30",
+ "Date": "664–332 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience, blue",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.202.41c",
+ "What": [
+  "Faience",
+  "Amulets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "id": 100001869,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs08.202.41c.jpg",
+ "Provenance": [
+  "Purchased by the museum from Maurice Nahman, Cairo, 1908."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100000287"
+   },
+   {
+    "href": "http://scrapi.org/object/100000329"
+   },
+   {
+    "href": "http://scrapi.org/object/100001732"
+   },
+   {
+    "href": "http://scrapi.org/object/100001821"
+   },
+   {
+    "href": "http://scrapi.org/object/100001818"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100001869"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100001869"
+  }
+ }
+}

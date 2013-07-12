@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1460",
+ "Geography": "Made in Utrecht (?), Netherlands",
+ "Culture": "North Netherlandish",
+ "Medium": "Limestone with traces of paint",
+ "Dimensions": "Overall 44 1/4 x 17 x 14 1/4 in. (112.4 x 43.2 x 36.2 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Bequest of Michael Dreicer, 1921",
+ "Accession Number": "22.60.4a, b",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Limestone",
+  "Statues"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands",
+  "Utrecht"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170006335,
+ "gallery-id": 305,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/DP144068.jpg",
+ "related-artworks": [
+  170007545,
+  170008688,
+  170010338,
+  170003021,
+  170003834
+ ],
+ "Description": "Saint Bavo (d. 657), patron saint of Ghent and Haarlem, is partially identified by his armor, sword, and rich clothing, which indicate his aristocratic status. The “book bag” in his right hand was a popular late medieval accessory.",
+ "Provenance": [
+  "Michael Dreicer, New York(until 1922)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006335"
+  }
+ }
+}

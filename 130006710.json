@@ -1,0 +1,43 @@
+{
+ "Period": "Archaic",
+ "Date": "ca. 550 B.C.",
+ "Culture": "Etruscan",
+ "Medium": "Terracotta; bucchero pesante",
+ "Dimensions": [
+  "total H. 10 11/16 in. (27.2 cm)",
+  "H. of bowl  9 3/16 in. (23.4 cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Purchase, 1896",
+ "Accession Number": "96.9.167",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Kraters"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006710,
+ "gallery-id": 170,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP245805.jpg",
+ "related-artworks": [
+  130009579,
+  130006604,
+  130007037,
+  130007895,
+  130011291
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006710"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "1800–1900",
+ "Medium": "Watercolor",
+ "Dimensions": "8-1/2 x 9 in",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.638.32",
+ "Who": "Anonymous, Italian, 19th century",
+ "What": [
+  "Drawings",
+  "Watercolors"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90064916,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803920.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90009001"
+   },
+   {
+    "href": "http://scrapi.org/object/90009144"
+   },
+   {
+    "href": "http://scrapi.org/object/90013667"
+   },
+   {
+    "href": "http://scrapi.org/object/90013757"
+   },
+   {
+    "href": "http://scrapi.org/object/90013754"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90064916"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90064916"
+  }
+ }
+}

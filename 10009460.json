@@ -1,0 +1,43 @@
+{
+ "Date": "1830–70",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Pressed glass",
+ "Dimensions": "H. 2 7/8 in. (7.3 cm); Diam. 2 3/4 in. (7 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Emily Winthrop Miles, 1946",
+ "Accession Number": "46.140.196",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Drinking glasses",
+  "Pressed glass",
+  "Tumblers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10009460,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/186846.jpg",
+ "related-artworks": [
+  10003877,
+  10003878,
+  10003883,
+  10009328,
+  10009329
+ ],
+ "Provenance": [
+  "Mrs. Emily Winthrop Miles, New York, until 1946"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10009460"
+  }
+ }
+}

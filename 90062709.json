@@ -1,0 +1,38 @@
+{
+ "Artist": "Eugène-Pierre Gourdet (French, born Paris, 1820)",
+ "Date": "second half 19th century",
+ "Medium": "Graphite, pen and black ink, and gray wash",
+ "Dimensions": "Overall 14 1/2 x 9 11/16 in. (36.9 x 24.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Dodge Fund, 1967",
+ "Accession Number": "67.827.522",
+ "Who": [
+  "Jules-Edmond-Charles Lachaise",
+  "Eugène-Pierre Gourdet"
+ ],
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90062709,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811660.jpg",
+ "related-artworks": [
+  90010287,
+  90010300,
+  90012772,
+  90012775,
+  90012777
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90062709"
+  }
+ }
+}

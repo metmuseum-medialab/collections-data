@@ -1,0 +1,56 @@
+{
+ "Date": "ca. 1690",
+ "Culture": "German",
+ "Medium": "Faience (tin-enameled earthenware)",
+ "Dimensions": "H. 13-3/16 in. (33.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of the family of Siegfried and Lola Kramarsky in their memory, 1991",
+ "Accession Number": "1991.207.2",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Faience",
+  "Earthenware"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120024148,
+ "gallery-id": 533,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/254909.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120016077",
+  "http://scrapi.org/object/120016085",
+  "http://scrapi.org/object/120016090",
+  "http://scrapi.org/object/120018776",
+  "http://scrapi.org/object/120024126"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120016077"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120016085"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120016090"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120018776"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120024126"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120024148"
+  }
+ }
+}

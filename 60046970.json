@@ -1,0 +1,44 @@
+{
+ "Date": "20th century",
+ "Culture": "China",
+ "Medium": "Drawing; ink with pencil and charcoal underdrawing on tracing paper",
+ "Dimensions": "Overall 10 1/16 x 20 1/4 in. (25.5 x 51.4 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Sarah Shay, 2005",
+ "Accession Number": "2005.411.76",
+ "Who": "Xie Zhiliu",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Pencil",
+  "Charcoal",
+  "Underdrawings"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60046970,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP222874.jpg",
+ "related-artworks": [
+  60046865,
+  60046725,
+  60046730,
+  60046726,
+  60046728
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60046970"
+  }
+ }
+}

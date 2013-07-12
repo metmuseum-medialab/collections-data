@@ -1,0 +1,35 @@
+{
+ "Date": "1875–85",
+ "Culture": "French",
+ "Medium": "Silk, beads",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Edith Gardiner, 1926",
+ "Accession Number": "2009.300.4102a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Footwear",
+  "Shoes",
+  "Slippers"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 80106558,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/26.391a-b_CP2.jpg",
+ "related-artworks": [
+  80094034,
+  80094164,
+  80096702,
+  80106559,
+  80106561
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80106558"
+  }
+ }
+}

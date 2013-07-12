@@ -1,0 +1,38 @@
+{
+ "Date": "1895",
+ "Medium": "Commercial lithography; yellow, vermilion, light green, dark green, and black",
+ "Dimensions": "19 13/16 x 9 3/16 in.",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Fern Bradley Dufner, 1952",
+ "Accession Number": "52.625.147",
+ "Who": "William Henry Bradley",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90006531,
+ "related-artworks": [
+  90006145,
+  90006121,
+  90006122,
+  90006147,
+  90006123
+ ],
+ "Provenance": [
+  "Donor: Fern Bradley Dufner (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90006531"
+  }
+ }
+}

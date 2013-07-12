@@ -1,0 +1,37 @@
+{
+ "Date": "1800–1944",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Edward E. Harkavy, 1944",
+ "Accession Number": "C.I.44.48.14a, b",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Hats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80031474,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI44.48.14ab_S.jpg",
+ "related-artworks": [
+  80001372,
+  80002147,
+  80005299,
+  80006124,
+  80016753
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80031474"
+  }
+ }
+}

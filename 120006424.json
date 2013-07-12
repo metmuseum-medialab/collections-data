@@ -1,0 +1,51 @@
+{
+ "Date": "ca. 1765–75",
+ "Culture": "Chinese",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": [
+  "Basin (.1) L. 12 1/8 in. (30.8 cm.)",
+  "Ewer (.2) H. 9 5/8 in. (24.4 cm.)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Miss Josephine C. Strong, 1911",
+ "Accession Number": "11.147.1, .2",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Ewers",
+  "Basins"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120006424,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/11316.jpg",
+ "related-artworks": [
+  120025625,
+  120025626,
+  120022918,
+  120023885,
+  120025544
+ ],
+ "Provenance": [
+  "Miss Josephine C. Strong (until 1911",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006424"
+  }
+ }
+}

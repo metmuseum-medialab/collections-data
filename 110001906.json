@@ -1,0 +1,55 @@
+{
+ "Date": "1648",
+ "Medium": "Oil on canvas",
+ "Dimensions": "82 1/2 x 60 3/4 in. (209.6 x 154.3 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Samuel D. Lee Fund, 1934",
+ "Accession Number": "34.73",
+ "Who": "Jusepe de Ribera (called Lo Spagnoletto)",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "Art of the Seventeenth and Eighteenth Centuries in Naples",
+  "Iberian Peninsula, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110001906,
+ "gallery-id": 610,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT16.jpg",
+ "related-artworks": [
+  110007018,
+  90028168,
+  90028170,
+  90028541,
+  90028542
+ ],
+ "Provenance": [
+  "private collection, Genoa (until 1807/8)",
+  "[Jean Baptiste Pierre Le Brun, Paris, 1807/8–at least 1810",
+  "unverified sale, Paris, April 1810, no. 128]",
+  "Sir Thomas Baring, 2nd Bart., Stratton Park, Southampton, Hampshire (by 1824–d. 1848)",
+  "his son, Thomas Baring, M.P. for Huntingdon (1848–d. 1873)",
+  "his nephew, Thomas George Baring, later 1st Earl of Northbrook, Stratton Park (1873–d. 1904",
+  "cat., 1889, no. 237)",
+  "his son, Francis George Baring, 2nd Earl of Northbrook, Stratton Park (1904–19",
+  "his sale, Christie's, London, December 12, 1919, no. 134, for £546 to Colnaghi)",
+  "[Colnaghi, London, 1919–21]",
+  "Henry George Charles Lascelles, Viscount Lascelles, later 6th Earl of Harewood, London (1921–34)",
+  "[Seligmann and Rey, Paris and New York, 1934",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001906"
+  }
+ }
+}

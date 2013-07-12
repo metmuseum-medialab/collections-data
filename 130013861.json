@@ -1,0 +1,39 @@
+{
+ "Period": "Imperial",
+ "Date": "late 3rd–early 4th century A.D.",
+ "Culture": "Roman",
+ "Medium": "Marble",
+ "Dimensions": "H.,9 1/2\", W.,5 3/4\", D.,3 5/8\"",
+ "Classification": "Stone Sculpture",
+ "Accession Number": "31.133",
+ "What": [
+  "Sculpture",
+  "Fragments",
+  "Stone",
+  "Reliefs",
+  "Marble"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013861,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP145791.jpg",
+ "related-artworks": [
+  130013041,
+  130015436,
+  130011190,
+  130011192,
+  130011202
+ ],
+ "Description": "This small altar was set up to the Everlasting [Gods] for the well-being of two men, Flavius Arsinoe and Flavius Appon, probably of Egyptian origin. The inscription testifies to the continued worship of pagan gods in late Roman times.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013861"
+  }
+ }
+}

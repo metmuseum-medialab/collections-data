@@ -1,0 +1,38 @@
+{
+ "Date": "1920s",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 34 in. (86.4 cm)",
+ "Credit Line": "The Jacqueline Loewe Fowler Costume Collection, Gift of Jacqueline Loewe Fowler, 1981",
+ "Accession Number": "1981.380.19",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Suits",
+  "Sports clothing",
+  "Beachwear",
+  "Bathing suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80008049,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1981.380.19_F.jpg",
+ "related-artworks": [
+  80001389,
+  80005256,
+  80008064,
+  80008065,
+  80114982
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80008049"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "1986",
+ "Culture": "American",
+ "Medium": "Metal, resin, quartz",
+ "Dimensions": [
+  "1 in. (2.5 cm) square amber stone",
+  "1 1/4 x 1/2 in. (3.2 x 1.3 cm) black onyx"
+ ],
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Tess Sholom, 1988",
+ "Accession Number": "2009.300.6018",
+ "Who": "Tess Sholom",
+ "What": [
+  "Metal",
+  "Costume",
+  "Jewelry",
+  "Bracelets",
+  "Resin"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80108425,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/88.101.13_back_CP2.jpg",
+ "related-artworks": [
+  80094212,
+  80108422,
+  80108426,
+  80058159,
+  80058844
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108425"
+  }
+ }
+}

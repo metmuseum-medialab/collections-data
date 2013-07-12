@@ -1,0 +1,39 @@
+{
+ "Date": "2000",
+ "Medium": "Oil on canvas, 12 panels",
+ "Dimensions": [
+  "overall 44 1/4 x 39 1/2 in. (112.4 x 100.3 cm)",
+  "panel 11 x 13 in. (27.9 x 33 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Purchase, Gift of The A.L. Levine Family Foundation, by exchange, 2003",
+ "Accession Number": "2003.284",
+ "Who": "Tom Levine",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings",
+  "Panels"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210014979,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/SF2003284.JPG",
+ "related-artworks": [
+  210007100,
+  210001392,
+  210004988,
+  210006606
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210014979"
+  }
+ }
+}

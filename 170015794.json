@@ -1,0 +1,33 @@
+{
+ "Date": "7th century",
+ "Geography": "Made in Byzantine Egypt",
+ "Culture": "Coptic",
+ "Medium": "Pottery fragment with ink inscription",
+ "Dimensions": "6 11/16 x 8 1/16 in. (17 x 20.4 cm)",
+ "Classification": "Ceramics",
+ "Accession Number": "12.180.225",
+ "What": [
+  "Ceramics",
+  "Ink",
+  "Fragments",
+  "Pottery",
+  "Ostraka"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170015794,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf12-180-225s1.jpg",
+ "related-artworks": [
+  170014199,
+  170014200,
+  170014201,
+  170014202,
+  170014203
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170015794"
+  }
+ }
+}

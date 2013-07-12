@@ -1,0 +1,38 @@
+{
+ "Period": "Middle Kingdom–Second Intermediate Period",
+ "Dynasty": "Dynasty 12–17",
+ "Date": "ca. 1981–1550 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Lapis lazuli",
+ "Credit Line": "Rogers Fund, 1907",
+ "Accession Number": "07.228.174",
+ "What": [
+  "Amulets",
+  "Lapis lazuli"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100013806,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs10.130.1931.jpg",
+ "related-artworks": [
+  100003242,
+  100003442,
+  100003443,
+  100003447,
+  100003444
+ ],
+ "Provenance": [
+  "Purchased by the Museum from Ghirgis and Abd el-Nour Ghabrial, Luxor and Cairo, 1907."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100013806"
+  }
+ }
+}

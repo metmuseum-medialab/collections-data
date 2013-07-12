@@ -1,0 +1,41 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Ivory",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.8.223",
+ "What": [
+  "Fragments",
+  "Bone",
+  "Ivory",
+  "Combs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100011902,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs10.130.1596.jpg",
+ "related-artworks": [
+  100001672,
+  100003665,
+  100003666,
+  100003667,
+  100009335
+ ],
+ "Provenance": [
+  "Formerly Theodore M. Davis Collection. Bequeathed to the Museum by Davis, 1915",
+  "accessioned, 1930."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100011902"
+  }
+ }
+}

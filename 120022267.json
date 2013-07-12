@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1731",
+ "Culture": "Estonian (Narva)",
+ "Medium": "Silver, partly gilt",
+ "Dimensions": "H. 6 1/2 in. (16.5 cm); Diam. 4 7/8 in. (12.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+ "Accession Number": "1974.356.742",
+ "Who": "Ludolf Lüders",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Drinking vessels",
+  "Beakers"
+ ],
+ "Where": [
+  "Europe",
+  "Estonia",
+  "Narva"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120022267,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/205369.jpg",
+ "related-artworks": [
+  120001391,
+  120056700,
+  120015436,
+  120001376,
+  120001377
+ ],
+ "Provenance": [
+  "Lesley and Emma Sheafer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022267"
+  }
+ }
+}

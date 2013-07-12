@@ -1,0 +1,38 @@
+{
+ "Artist": "After Polidoro da Caravaggio (Italian, Caravaggio ca. 1499–ca. 1543 Messina)",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 9 13/16 x 6 5/16 in. (25 x 16 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.124.1",
+ "Who": [
+  "Polidoro da Caravaggio",
+  "Cherubino Alberti (Zaccaria Mattia)"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90072108,
+ "related-artworks": [
+  90005749,
+  90032393,
+  90034722,
+  90036142,
+  90043437
+ ],
+ "Provenance": [
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90072108"
+  }
+ }
+}

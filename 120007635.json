@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Culture": "British, Cobridge, Staffordshire",
+ "Medium": "Pottery",
+ "Dimensions": "Diam. 9 3/4 in. (24.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Mrs. Mary Mandeville Johnston, 1914",
+ "Accession Number": "14.102.118",
+ "Who": "A. Stevenson, Cobridge",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Plates"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120007635,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/24895.jpg",
+ "related-artworks": [
+  120007652,
+  120007636,
+  120007642,
+  120007649,
+  120007620
+ ],
+ "Provenance": [
+  "Edward W. S. and Mary Mandeville Johnston"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120007635"
+  }
+ }
+}

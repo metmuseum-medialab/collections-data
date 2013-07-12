@@ -1,0 +1,40 @@
+{
+ "Date": "dated A.H. 79/ A.D. 698–99",
+ "Geography": "Syria",
+ "Medium": "Gold",
+ "Dimensions": "Diam. 13/16 in. (2.1 cm)",
+ "Classification": "Coins",
+ "Credit Line": "Bequest of Joseph H. Durkee, 1898",
+ "Accession Number": "99.35.2386",
+ "What": [
+  "Metal",
+  "Gold",
+  "Money",
+  "Coins"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140010870,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP239701.jpg",
+ "related-artworks": [
+  140005627,
+  140006489,
+  140002136,
+  140003261,
+  140015792
+ ],
+ "Provenance": [
+  "Joseph H. Durkee, New York (until d. 1898)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010870"
+  }
+ }
+}

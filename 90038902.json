@@ -1,0 +1,46 @@
+{
+ "Printer": "Printed by Universal Limited Art Editions",
+ "Publisher": "Published by Universal Limited Art Editions",
+ "Date": "1971",
+ "Medium": "Lithograph",
+ "Dimensions": "sheet 72 3/4 x 37 in. (184.8 x 94 cm)",
+ "Classification": "Prints",
+ "Credit Line": "John B. Turner Fund, 1971",
+ "Accession Number": "1971.567.6",
+ "Who": [
+  "Universal Limited Art Editions",
+  "Robert Motherwell"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Abstract Expressionism",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90038902,
+ "related-artworks": [
+  90038410,
+  90038835,
+  90038869,
+  90038885,
+  90038896
+ ],
+ "Provenance": [
+  "Vendor: Universal Limited Art Editions"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90038902"
+  }
+ }
+}

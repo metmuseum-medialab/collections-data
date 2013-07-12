@@ -1,0 +1,45 @@
+{
+ "Date": "11th–16th century",
+ "Geography": "Costa Rica or Panama",
+ "Culture": "Veraguas (?)",
+ "Medium": "Gold",
+ "Dimensions": "H. 2 in. (5.1 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Gift of Mica Ertegün, 2008",
+ "Accession Number": "2008.569.16",
+ "Who": "Veraguas",
+ "What": [
+  "Metal",
+  "Gold",
+  "Pendants"
+ ],
+ "Where": [
+  "North and Central America",
+  "Panama"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America Native Peoples, 1600–1800 A.D.",
+  "Mexico and Central America, 1600–1800 A.D.",
+  "South America, 1600–1800 A.D.",
+  "Central America and the Caribbean, 500–1000 A.D."
+ ],
+ "id": 50014719,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/TR.394.16.2008 Front.jpg",
+ "related-artworks": [
+  50005777,
+  50001686,
+  50002110,
+  50002111,
+  50002112
+ ],
+ "Provenance": [
+  "[Andre Emmerich, New York, from the 1960s]",
+  "Ioana M. Ertegün (Mica), New York, late 1960s–2008"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50014719"
+  }
+ }
+}

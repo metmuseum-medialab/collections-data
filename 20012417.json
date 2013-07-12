@@ -1,0 +1,44 @@
+{
+ "Date": "1911",
+ "Medium": "Oil on canvas",
+ "Dimensions": "28 1/8 x 36 1/8 in. (71.4 x 91.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.97.1",
+ "Who": "John Singer Sargent",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "John Singer Sargent (1856–1925)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20012417,
+ "gallery-id": 770,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DT5584.jpg",
+ "related-artworks": [
+  20012518,
+  20012543,
+  20012393,
+  20012436,
+  20012475
+ ],
+ "Provenance": [
+  "with M. Knoedler and Company, New York, until 1912",
+  "Harris Brisbane Dick, 1912–1917"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20012417"
+  }
+ }
+}

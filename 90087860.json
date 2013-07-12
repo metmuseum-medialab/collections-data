@@ -1,0 +1,47 @@
+{
+ "Artist": "After François Boucher (French, Paris 1703–1770 Paris)",
+ "Date": "1744",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Sheet 11 1/8 x 8 1/16 in. (28.2 x 20.5 cm)",
+  "Plate 7 11/16 x 5 1/16 in. (19.5 x 12.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Steuben Glass Gift, 1952",
+ "Accession Number": "52.539.1",
+ "Who": [
+  "François Boucher",
+  "Quentin Pierre Chedel"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90087860,
+ "related-artworks": [
+  90068718,
+  90088288,
+  90013885,
+  90045568,
+  90059503
+ ],
+ "Provenance": [
+  "Robert Hoe (British, 19th century)",
+  "J.H. Hutchinson",
+  "Cortlandt Field Bishop",
+  "Vendor: Howard Mott"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90087860"
+  }
+ }
+}

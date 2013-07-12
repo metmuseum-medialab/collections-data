@@ -1,0 +1,58 @@
+{
+ "Date": "8th–12th century",
+ "Culture": "Indonesia (Central Java)",
+ "Medium": "Gold",
+ "Dimensions": "H. 2 1/2 in. (6.4 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Gift of the Eilenberg-Rosen Partnership, 2001",
+ "Accession Number": "2001.794.254",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Pendants"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1000–1400 A.D.",
+  "Southeast Asia, 500–1000 A.D."
+ ],
+ "id": 60038528,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2001_794_254_O.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/60020374",
+  "http://scrapi.org/object/60020786",
+  "http://scrapi.org/object/60020787",
+  "http://scrapi.org/object/60020788",
+  "http://scrapi.org/object/60020829"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60020374"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60020786"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60020787"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60020788"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60020829"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60038528"
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "Date": "1935",
+ "Medium": "Oil on Masonite",
+ "Dimensions": [
+  "H. 30, W. 19 inches",
+  "(76.2 x 48.3 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mr. and Mrs. Harry L. Koeningsberg, 1978",
+ "Accession Number": "1978.569",
+ "Who": "Arthur . Carles",
+ "What": [
+  "Paintings",
+  "Oil paintings",
+  "Masonite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210002067,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/SF1978.569.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210001699"
+   },
+   {
+    "href": "http://scrapi.org/object/210009472"
+   },
+   {
+    "href": "http://scrapi.org/object/210005049"
+   },
+   {
+    "href": "http://scrapi.org/object/210006289"
+   },
+   {
+    "href": "http://scrapi.org/object/210006453"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210002067"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210002067"
+  }
+ }
+}

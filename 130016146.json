@@ -1,0 +1,42 @@
+{
+ "Period": "Classical",
+ "Date": "ca. 470 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": [
+  "Overall 14 7/16in. (36.6cm)",
+  "Other (height with handle) 14 7/16 x 5 3/8in. (36.6 x 13.6cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Gift of Mr. and Mrs. A. M. Adler, 1978",
+ "Accession Number": "1978.430",
+ "Who": "Providence Painter",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jugs",
+  "Lekythoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130016146,
+ "related-artworks": [
+  130008421,
+  130014680,
+  130014784,
+  130007754
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130016146"
+  }
+ }
+}

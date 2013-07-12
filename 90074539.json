@@ -1,0 +1,40 @@
+{
+ "Date": "1640",
+ "Medium": "Etching",
+ "Dimensions": "sheet 3 7/16 x 4 3/4 in. (8.8 x 12.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.663",
+ "Who": "Bartholomeus Breenbergh",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Baroque Rome",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "id": 90074539,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP828324.jpg",
+ "related-artworks": [
+  90074540,
+  90074543,
+  90089286,
+  90002053,
+  90002052
+ ],
+ "Provenance": [
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90074539"
+  }
+ }
+}

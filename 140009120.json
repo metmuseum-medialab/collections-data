@@ -1,0 +1,38 @@
+{
+ "Object Name": "Bracelet",
+ "Date": "15th century",
+ "Geography": "Central Asia or Iran",
+ "Medium": "Silver; cast and chased",
+ "Classification": "Jewelry",
+ "Credit Line": "Fletcher Fund, 1964",
+ "Accession Number": "64.133.4",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Jewelry",
+  "Bracelets"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140009120,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf64-133-4a.jpg",
+ "related-artworks": [
+  140009119,
+  140010455,
+  140010456,
+  140007706,
+  140008409
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009120"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "18th century",
+ "Culture": "Italian (Milan)",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 66 in., W. 7 1/2 in. (167.6 x 19.1 cm.)",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Mary Strong Shattuck, 1935",
+ "Accession Number": "35.80.49a",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace",
+  "Borders"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Lombardy",
+  "Milan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120040737,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP16324.jpg",
+ "related-artworks": [
+  120032710,
+  120035802,
+  120045409,
+  120033064,
+  120035805
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120040737"
+  }
+ }
+}

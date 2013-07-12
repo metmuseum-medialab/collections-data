@@ -1,0 +1,56 @@
+{
+ "Date": "20th century",
+ "Geography": "Liberia",
+ "Culture": "Kissi peoples",
+ "Medium": "Iron",
+ "Dimensions": "Length 17 in.",
+ "Classification": "Metal-Implements",
+ "Credit Line": "Gift of Richard L. Bloch in memory of Nettie and Fred Bloch, 1992",
+ "Accession Number": "1992.202.4",
+ "Who": "Kissi",
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Iron",
+  "Money"
+ ],
+ "Where": [
+  "Africa",
+  "Liberia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Guinea Coast, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50009407,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1992_202_4.jpg",
+ "Provenance": [
+  "Frederick H. and Nettie Bloch, collected Zorzor, Northern Liberia, 1923–1930",
+  "by descent, Richard L. Bloch, Edgewater, NJ, until 1992"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50009408"
+   },
+   {
+    "href": "http://scrapi.org/object/50002448"
+   },
+   {
+    "href": "http://scrapi.org/object/50007466"
+   },
+   {
+    "href": "http://scrapi.org/object/50007496"
+   },
+   {
+    "href": "http://scrapi.org/object/50010283"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50009407"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50009407"
+  }
+ }
+}

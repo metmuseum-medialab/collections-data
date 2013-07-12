@@ -1,0 +1,43 @@
+{
+ "Date": "1965",
+ "Medium": "Wood, metal, painted tin, plastic, bone, glass, wire, bolts, and shell",
+ "Dimensions": [
+  "H. 87, W. 33, D. 25-1/4 inches",
+  "(221 x 83.8 x 64.1 cm.)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Abby and B.H. Friedman, 1978",
+ "Accession Number": "1978.353",
+ "Who": "Alfonso Ossorio",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Glass",
+  "Bone",
+  "Painting",
+  "Plastic",
+  "Shell",
+  "Wire",
+  "Tin",
+  "Bolts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210001978,
+ "related-artworks": [
+  90022724,
+  210009237,
+  210004641
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210001978"
+  }
+ }
+}

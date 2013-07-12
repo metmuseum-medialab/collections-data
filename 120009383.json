@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1750–70",
+ "Culture": "British, Staffordshire",
+ "Medium": "Lead-glazed earthenware (creamware)",
+ "Dimensions": "H.  4-7/8 in. (12.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.178.22",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Earthenware",
+  "Glazing",
+  "Jugs",
+  "Lead",
+  "Creamware"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009383,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/47335.jpg",
+ "related-artworks": [
+  120009407,
+  120006598,
+  120006605,
+  120009408,
+  120011218
+ ],
+ "Provenance": [
+  "Robert Gilchrist (until 1920",
+  "his sale, American Art Association, 1920, no. 68)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009383"
+  }
+ }
+}

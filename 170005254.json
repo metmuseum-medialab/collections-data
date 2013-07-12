@@ -1,0 +1,44 @@
+{
+ "Date": "last half of 5th century",
+ "Geography": "Made in Northern France",
+ "Culture": "Frankish",
+ "Medium": "Iron, coated with gold foil, glass",
+ "Dimensions": "Overall 5 1/2 x 7/8 x 3/16 in. (14 x 2.3 x 0.5 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.192.43",
+ "What": [
+  "Metal",
+  "Glass",
+  "Metalwork",
+  "Gold",
+  "Iron and iron alloy",
+  "Iron"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Western and Central Europe, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170005254,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-192-43s1.jpg",
+ "related-artworks": [
+  170005275,
+  170005059,
+  170005060,
+  170005445,
+  170002885
+ ],
+ "Provenance": [
+  "Stanislas Baron, Paris",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005254"
+  }
+ }
+}

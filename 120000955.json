@@ -1,0 +1,50 @@
+{
+ "Artist": "Nicholas Guy Antoine Brenet (1773–1846)",
+ "Date": "1804",
+ "Culture": "French",
+ "Medium": "Gilt bronze, struck",
+ "Dimensions": "D. 1 5/8 in. (4.1 cm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Hon. Levi P. Morton, 1885",
+ "Accession Number": "85.2.73",
+ "Who": [
+  "Bertrand Andrieu",
+  "Nicholas Guy Antoine Brenet"
+ ],
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Gilt",
+  "Medals",
+  "Plate",
+  "Plaquettes",
+  "Ormolu"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000955,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/30703.jpg",
+ "related-artworks": [
+  120000888,
+  120000889,
+  120000912,
+  120000914,
+  120000943
+ ],
+ "Provenance": [
+  "Hon. Levi P. Morton until 1885"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000955"
+  }
+ }
+}

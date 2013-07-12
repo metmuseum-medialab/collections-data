@@ -1,0 +1,40 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Silk, metallic thread on silk, paint",
+ "Dimensions": "53 x 65 1/4 in. (134.62 x 165.74 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Gift of Mrs. Orme Wilson, 1962",
+ "Accession Number": "62.63",
+ "What": [
+  "Costume",
+  "Silk",
+  "Woven",
+  "Robes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60044055,
+ "related-artworks": [
+  60041852,
+  60042626,
+  60043575,
+  60043669,
+  60044135
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044055"
+  }
+ }
+}

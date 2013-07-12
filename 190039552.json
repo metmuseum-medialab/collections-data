@@ -1,0 +1,37 @@
+{
+ "Date": "1861, Yosemite",
+ "Medium": "Albumen silver print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 2005",
+ "Accession Number": "2005.100.1186",
+ "Who": "Carleton E. Watkins",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 190039552,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP205160.jpg",
+ "related-artworks": [
+  190011345,
+  190011430,
+  190011431,
+  190011432,
+  190011433
+ ],
+ "Provenance": [
+  "Rinhart Galleries, Inc., 07/19/85",
+  "Gilman Paper Company Collection"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190039552"
+  }
+ }
+}

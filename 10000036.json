@@ -1,0 +1,60 @@
+{
+ "Manufacturer": "Manufactured by Tiffany & Co. (1837–present)",
+ "Date": "1893–95",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Gold, amethysts, spessartites, tourmalines, fresh water pearls, quartzes, rock crystal, and enamel",
+ "Dimensions": [
+  "Overall 19 7/16 x 13 x 9 1/4 in. (49.4 x 33 x 23.5 cm); 352 oz. 18 dwt. (10977 g)",
+  "Body H. 18 7/8 in. (47.9 cm)",
+  "Cover 4 1/4 x 4 13/16 in. (10.8 x 12.2 cm); 19 oz. 6 dwt. (600.1 g)"
+ ],
+ "Classification": "Metal",
+ "Credit Line": "Gift of Edward D. Adams, 1904",
+ "Accession Number": "04.1a-c",
+ "Who": [
+  "Tiffany & Co.",
+  "Paulding Farnham"
+ ],
+ "What": [
+  "Metal",
+  "Vessels",
+  "Gold",
+  "Vases",
+  "Enamels",
+  "Pearl",
+  "Crystal",
+  "Quartz crystal",
+  "Amethyst"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Nineteenth–Century American Silver",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10000036,
+ "gallery-id": 706,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP162517.jpg",
+ "related-artworks": [
+  10005749,
+  10009917,
+  10005054
+ ],
+ "Provenance": [
+  "American Cotton Oil Company, until ca. 1894",
+  "Edward Dean Adams, New York, by 1895–1904."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000036"
+  }
+ }
+}

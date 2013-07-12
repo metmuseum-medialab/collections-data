@@ -1,0 +1,30 @@
+{
+ "Medium": "Jasper",
+ "Dimensions": "Other 1/2 x 3/4 x 1/8 in. (1.2 x 2 x 0.3 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Gift of Miss Helen Miller Gould, 1910",
+ "Accession Number": "10.130.1415",
+ "What": [
+  "Sculpture",
+  "Chalcedony",
+  "Gems",
+  "Intaglios",
+  "Jasper"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130008718,
+ "related-artworks": [
+  130014402,
+  130014413,
+  130014466,
+  130014472,
+  130005569
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130008718"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "1850–60",
+ "Geography": "Mid-Atlantic, Pittsburgh, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Pressed glass, diamond thumbprint",
+ "Dimensions": "H. 6 3/8 in. (16.2 cm); Diam. 3 5/8 in. (9.2 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Emily Winthrop Miles, 1946",
+ "Accession Number": "46.140.57",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Drinking glasses",
+  "Pressed glass",
+  "Goblets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Pittsburgh"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10004206,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/174210.jpg",
+ "related-artworks": [
+  10004219,
+  10004224,
+  10004225,
+  10004226,
+  10004227
+ ],
+ "Provenance": [
+  "Mrs. Emily Winthrop Miles, New York, until 1946"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10004206"
+  }
+ }
+}

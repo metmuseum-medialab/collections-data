@@ -1,0 +1,39 @@
+{
+ "Geography": "Rome ?, Italy",
+ "Medium": "bronze",
+ "Dimensions": "Height 38, Diameter 27, Weight 36 g",
+ "Classification": "Idiophone-Struck",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.1936",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Musical instruments",
+  "Idiophones",
+  "Bells",
+  "Clappers"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Rome"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Musical Instruments",
+ "MetPublications": "Search for related Met publications",
+ "id": 180014279,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS717A9.jpg",
+ "related-artworks": [
+  180013864,
+  180013940,
+  180015983,
+  180014280,
+  180014281
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180014279"
+  }
+ }
+}

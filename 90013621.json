@@ -1,0 +1,37 @@
+{
+ "Date": "1933",
+ "Medium": "Watercolor and black and metallic ink, over graphite",
+ "Dimensions": "Sheet 11 1/8 × 7 9/16 in. (28.2 × 19.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Giancorrado and Giacinta Ulrich, 1989",
+ "Accession Number": "1989.1105.8",
+ "Who": "Guglielmo Ulrich",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90013621,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP812160.jpg",
+ "related-artworks": [
+  90013622,
+  90013641,
+  90013616,
+  90013637,
+  90013645
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90013621"
+  }
+ }
+}

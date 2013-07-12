@@ -1,0 +1,52 @@
+{
+ "Manufacturer": "Sormani",
+ "Date": "1968",
+ "Medium": "Cast aluminum, steel, polyurethane, synthetic knit upholstery",
+ "Dimensions": [
+  "H.27-1/2, W.30-3/4, D.30-3/4 inches",
+  "(70 x 78 x 78 cm.) - chair",
+  "H.15-3/4, W.16-1/2, D.30-3/4 inches",
+  "(40 x 42 x 78 cm.) - ottoman"
+ ],
+ "Classification": "Furniture",
+ "Credit Line": "Purchase, Theodore R. Gamble Jr. Gift, in honor of his mother, Mrs. Theodore Robert Gamble, 1987",
+ "Accession Number": "1987.98.2a-i",
+ "Who": [
+  "Joe Colombo",
+  "Sormani"
+ ],
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Furniture",
+  "Iron alloy",
+  "Steel",
+  "Upholstery",
+  "Aluminum",
+  "Synthetic"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1950–75",
+  "Italian Peninsula, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210005169,
+ "related-artworks": [
+  210005168,
+  210006862,
+  210005047,
+  210007283,
+  210006863
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210005169"
+  }
+ }
+}

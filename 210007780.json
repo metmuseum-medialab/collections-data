@@ -1,0 +1,40 @@
+{
+ "Date": "1900–1910",
+ "Medium": "Pâte de verre",
+ "Dimensions": [
+  "H. 2-5/8, Diam. 2-3/16 inches",
+  "(6.7 x 5.6 cm.)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Purchase, Edward C. Moore Jr. Gift, 1927",
+ "Accession Number": "27.192.3",
+ "Who": "Albert-Louis Dammouse",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Vases"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210007780,
+ "gallery-id": 556,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf27.192.3.jpg",
+ "related-artworks": [
+  210007778,
+  210007779,
+  120024142,
+  120024139,
+  120024140
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210007780"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Artist": "After John Martin (British, Haydon Bridge, Northumberland 1789–1854 Douglas, Isle of Man)",
+ "Publisher": "Ackermann & Co. (London)",
+ "Date": "1835",
+ "Medium": "Mezzotint",
+ "Dimensions": [
+  "Plate 10 3/8 x 12 7/8 in. (26.4 x 32.7 cm)",
+  "Sheet 11 1/4 x 16 11/16 in. (28.5 x 42.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Georgiana W. Sargent, in memory of John Osborne Sargent, 1924",
+ "Accession Number": "24.63.832",
+ "Who": [
+  "John Martin",
+  "Ackermann & Co.",
+  "Charles Tilt",
+  "James G. S. Lucas",
+  "Rittner & Goupil"
+ ],
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Mezzotints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90087438,
+ "related-artworks": [
+  90047196,
+  90087318,
+  90087327,
+  90087436,
+  90087437
+ ],
+ "Provenance": [
+  "Donor: Georgiana W. Sargent"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90087438"
+  }
+ }
+}

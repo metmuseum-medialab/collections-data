@@ -1,0 +1,41 @@
+{
+ "Date": "18th century",
+ "Geography": "England; United States",
+ "Medium": "Iron",
+ "Dimensions": "H. 28 in. (71.1 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Mrs. J. Insley Blair, 1947",
+ "Accession Number": "47.137.3",
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Iron",
+  "Tongs"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10003757,
+ "gallery-id": 711,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/139866.jpg",
+ "related-artworks": [
+  10003759,
+  10000102,
+  10000103,
+  10003748,
+  10005081
+ ],
+ "Provenance": [
+  "Mrs. J. Insley Blair, Tuxedo Park, New York, until 1947"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003757"
+  }
+ }
+}

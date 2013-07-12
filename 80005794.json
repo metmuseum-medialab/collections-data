@@ -1,0 +1,38 @@
+{
+ "Date": "late 19th century",
+ "Culture": "American",
+ "Medium": "(a,f,h) wool; (b-d) wool, metallic thread; (g) leather, metallic thread",
+ "Dimensions": [
+  "Length at CB (a) 39 in. (99.1 cm)",
+  "Length (f) 45 3/4 in. (116.2 cm)"
+ ],
+ "Credit Line": "Gift of Jessie Leonard Hill, 1979",
+ "Accession Number": "1979.152.54a–h",
+ "What": [
+  "Costume",
+  "Wool",
+  "Leather",
+  "Uniforms"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80005794,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1979.152.54a–cf_F.jpg",
+ "related-artworks": [
+  80095727,
+  80097246,
+  80115235,
+  80115993,
+  80093693
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80005794"
+  }
+ }
+}

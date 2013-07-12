@@ -1,0 +1,39 @@
+{
+ "Designer": "Paul Poiret (French, Paris 1879–1944 Paris)",
+ "Date": "ca. 1974",
+ "Culture": "American",
+ "Medium": "paper",
+ "Dimensions": "Overall (each print) 10 x 10 in. (25.4 x 25.4 cm)",
+ "Credit Line": "Gift of Irving Penn, 2005",
+ "Accession Number": "2005.293.31",
+ "Who": [
+  "Irving Penn",
+  "Paul Poiret"
+ ],
+ "What": "Photographs",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Photography and Everyday Life in America, 1945–60",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80054195,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/TR.248.31.2005.jpg",
+ "related-artworks": [
+  80054168,
+  80054169,
+  80054170,
+  80054165,
+  80054166
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80054195"
+  }
+ }
+}

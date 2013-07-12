@@ -1,0 +1,40 @@
+{
+ "Date": "19th century",
+ "Culture": "German (Saxony)",
+ "Medium": "Filet",
+ "Dimensions": "L. 15 x W. 5 1/2 inches (38.1 x 14.0 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.346",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Lace",
+  "Samplers",
+  "Filet lace"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Saxony"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120032364,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP4530.jpg",
+ "related-artworks": [
+  120046061,
+  120046071,
+  120046079,
+  120039332,
+  120032351
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032364"
+  }
+ }
+}

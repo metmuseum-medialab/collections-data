@@ -1,0 +1,30 @@
+{
+ "Date": "13th century",
+ "Culture": "Crusader",
+ "Medium": "Stained Glass",
+ "Classification": "Glass-Stained",
+ "Credit Line": "Gift of Clarence H. Mackay, Archer M. Huntington, Stephen H. P. Pell and Bashford Dean, 1928",
+ "Accession Number": "28.99.650",
+ "What": [
+  "Glass",
+  "Fragments",
+  "Stained glass"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170016530,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf28-99-650.jpg",
+ "related-artworks": [
+  170005901,
+  170005902,
+  170005906,
+  170005907,
+  170005911
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170016530"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "1970s or later",
+ "Geography": "United States, Louisiana",
+ "Culture": "Chitimacha",
+ "Medium": "Dyed rivercane",
+ "Dimensions": "H. 8 x W. 13 1/2 in. (20.3 x 34.3 cm)",
+ "Classification": "Basketry-Containers",
+ "Credit Line": "Ralph T. Coe Collection, Gift of Ralph T. Coe Foundation for the Arts, 2011",
+ "Accession Number": "2011.154.106",
+ "Who": [
+  "Chitimacha",
+  "Attributed to Ernestine Walls"
+ ],
+ "What": [
+  "Baskets",
+  "Dyeing"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Louisiana"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50012317,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/TR.165.73a.2011.JPG",
+ "related-artworks": [
+  50015316,
+  50012316,
+  50012105,
+  50012183
+ ],
+ "Provenance": [
+  "Ralph T. Coe, Santa Fe, NM, until (d.) 2010",
+  "Ralph T. Coe Foundation for the Arts, 2010–2011"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50012317"
+  }
+ }
+}

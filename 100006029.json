@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "Joint reign of Hatshepsut and Thutmose III",
+ "Date": "ca. 1473–1458 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Senenmut Quarry, in hole, MMA 1926–1928",
+ "Medium": "Limestone, paint",
+ "Dimensions": "H. 36 cm (14 3/16 in)",
+ "Credit Line": "Rogers Fund, 1931",
+ "Accession Number": "31.3.155",
+ "What": "Limestone",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100006029,
+ "gallery-id": 115,
+ "related-artworks": [
+  100000385,
+  100000588,
+  100000613,
+  100001043,
+  100001177
+ ],
+ "Description": "This head belonged to a statue that represented Hatshepsut as Osiris, god of the underworld. It was one of four Osiride figures that decorated the sanctuary of Amun in her funerary temple at Deir el Bahri. This head and another in the collection (31.3.154) wear the White Crown of Upper Egypt and were originally at the southern end of the sanctuary. Another head in the collection (31.3.153) wears the Double Crown and came from the northern end. The Osiride statues that decorated Hatshepsut's temple were \"engaged\" statues - in other words, they were attached to the temple itself. However, approximately 20 years after her death, the statues were hacked off the walls and smashed. The fragments were then thrown into a quarried area next to the temple causeway where they were discovered there during the Museum's excavations in the early Twentieth Century.",
+ "Provenance": [
+  "Museum excavations, 1926-1928. Acquired by the Museum in the division of finds, 1931."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100006029"
+  }
+ }
+}

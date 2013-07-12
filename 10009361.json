@@ -1,0 +1,51 @@
+{
+ "Manufacturer": "Possibly Boston & Sandwich Glass Company (1825–1888)",
+ "Date": "1825–40",
+ "Geography": "New England, East Cambridge, Massachusetts, United States; New England, Sandwich, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Blown, pattern-molded glass",
+ "Dimensions": "H. 3 in. (7.6 cm); Diam. 3 in. (7.6 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Purchase, The Dietrich Foundation Inc. Gift, 1983",
+ "Accession Number": "1983.162",
+ "Who": [
+  "Boston & Sandwich Glass Company",
+  "New England Glass Company"
+ ],
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Blown glass",
+  "Drinking glasses",
+  "Tumblers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Cambridge",
+  "East Cambridge"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10009361,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP206762.jpg",
+ "related-artworks": [
+  10009389,
+  10009390,
+  10009423,
+  10009425,
+  10009426
+ ],
+ "Provenance": [
+  "W. M. Schwind Jr. Antiques, Yarmouth, Maine, until 1983"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10009361"
+  }
+ }
+}

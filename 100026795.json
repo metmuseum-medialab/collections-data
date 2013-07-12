@@ -1,0 +1,45 @@
+{
+ "Period": "New Kingdom",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Temple of Hatshepsut, forecourt, Foundation Deposit 4 (D), MMA 1923–24",
+ "Medium": "Wood, bronze or copper alloy, leather",
+ "Dimensions": "l. handle 27.9 cm (11 in); l. blade 16 cm (6 5/16 in); w. handle 4.6 cm (1 13/16 in)",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.3.114",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Wood",
+  "Copper",
+  "Leather",
+  "Adzes"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100026795,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/25.3.114.jpg",
+ "related-artworks": [
+  100026793,
+  100005693,
+  100026797,
+  100026799,
+  100032453
+ ],
+ "Provenance": [
+  "Museum excavations 1923–24. Acquired by the Museum in the division of finds, 1925."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100026795"
+  }
+ }
+}

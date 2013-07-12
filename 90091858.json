@@ -1,0 +1,41 @@
+{
+ "Artist": "probably a restrike by Rudolph Zacharias Derschau",
+ "Medium": "Woodcut",
+ "Dimensions": "Sheet 5 1/8 x 3 5/8 in. (13 x 9.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry G. Friedman, 1957",
+ "Accession Number": "57.658.98",
+ "Who": [
+  "Sebald Beham",
+  "Rudolph Zacharias Derschau"
+ ],
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90091858,
+ "related-artworks": [
+  90044701,
+  90005836,
+  90005839,
+  90005971,
+  90008830
+ ],
+ "Provenance": [
+  "Donor: Harry G. Friedman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90091858"
+  }
+ }
+}

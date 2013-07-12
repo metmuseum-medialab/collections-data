@@ -1,0 +1,35 @@
+{
+ "Date": "1560",
+ "Culture": "German (Augsburg)",
+ "Classification": "Armor Parts",
+ "Credit Line": "Gift of Archer M. Huntington, 1927",
+ "Accession Number": "27.160.4",
+ "What": [
+  "Costume",
+  "Armor",
+  "Body armor"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Augsburg"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40013358,
+ "related-artworks": [
+  40001030,
+  40001052,
+  40001299,
+  40003147,
+  40004727
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40013358"
+  }
+ }
+}

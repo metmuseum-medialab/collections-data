@@ -1,0 +1,39 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Blue agate",
+ "Dimensions": "H. 4 1/2 in. (11.4 cm); W. 7 in. (17.8 cm)",
+ "Classification": "Hardstone",
+ "Credit Line": "Bequest of Edmund C. Converse, 1921",
+ "Accession Number": "21.175.128",
+ "What": [
+  "Vessels",
+  "Vases",
+  "Chalcedony",
+  "Agate"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60033284,
+ "related-artworks": [
+  60011725,
+  60011728,
+  60011730,
+  60011731,
+  60011732
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033284"
+  }
+ }
+}

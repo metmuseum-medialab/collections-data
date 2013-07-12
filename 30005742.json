@@ -1,0 +1,45 @@
+{
+ "Period": "Middle Bronze Age",
+ "Date": "ca. 18th–17th century B.C.",
+ "Geography": "Mesopotamia, Tell al-Rimah",
+ "Culture": "Assyrian",
+ "Medium": "Ceramic",
+ "Dimensions": "1.77 x 2.64 in. (4.5 x 6.71 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase, Colt Archaeological Institute Inc. Gift, 1985",
+ "Accession Number": "1985.61.9",
+ "Who": "Assyrian",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Fragments",
+  "Sherds"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Tell al-Rimah"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30005742,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/vs1985_61_9.JPG",
+ "related-artworks": [
+  30005743,
+  30005739,
+  30005741,
+  30005744,
+  30005746
+ ],
+ "Provenance": [
+  "1966, excavated by David Oates, on behalf of the British School of Archaeology in Iraq",
+  "acquired by the Museum in 1985, as a result of its financial contribution to the excavations at Tell Brak."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30005742"
+  }
+ }
+}

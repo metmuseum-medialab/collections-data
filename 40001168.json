@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1550",
+ "Culture": "German",
+ "Medium": "Steel",
+ "Classification": "Armor Parts",
+ "Credit Line": "Gift of George D. Pratt, 1926",
+ "Accession Number": "26.234.11",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Armor",
+  "Body armor",
+  "Blades",
+  "Pauldrons"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40001168,
+ "related-artworks": [
+  40014249,
+  40000150,
+  40000504,
+  40001423,
+  40001519
+ ],
+ "Provenance": [
+  "Ex coll.:  Infantado",
+  "Argaiz",
+  "Pauilhac"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40001168"
+  }
+ }
+}

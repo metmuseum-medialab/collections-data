@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "British",
+ "Medium": "Blue printed ware",
+ "Dimensions": "H. 5 1/2 in.  (14.0 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Isaac Gibson Jaffray, in memory of her husband,1898",
+ "Accession Number": "98.1.11a, b",
+ "Who": "James  Ralph Clews",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Bowls",
+  "Printing",
+  "Sugar bowls"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120002698,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/7247.jpg",
+ "related-artworks": [
+  120002736,
+  120002719,
+  120002708,
+  120002706,
+  120002738
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120002698"
+  }
+ }
+}

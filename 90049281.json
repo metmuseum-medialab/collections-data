@@ -1,0 +1,42 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "ca. 1939",
+ "Medium": "Lithograph",
+ "Dimensions": "image 9 x 12 1/2 in. (22.9 x 31.8 cm) sheet: 11 1/2 x 15 in. (29.2 x 38.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, New York, 1943",
+ "Accession Number": "43.33.597",
+ "Who": [
+  "WPA",
+  "Julia Rogers"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90049281,
+ "related-artworks": [
+  90049275,
+  90049276,
+  90049277,
+  90049278,
+  90049279
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90049281"
+  }
+ }
+}

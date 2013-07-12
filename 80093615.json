@@ -1,0 +1,38 @@
+{
+ "Date": "1840–55",
+ "Culture": "American",
+ "Medium": "silk, cotton, wool",
+ "Dimensions": "Length at CB 41 1/2 in. (105.4 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Brooklyn Museum Collection",
+ "Accession Number": "2009.300.1084",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Wool",
+  "Underwear",
+  "Underskirts",
+  "Petticoats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80093615,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CP566_CP4.jpg",
+ "related-artworks": [
+  80096034,
+  80116033,
+  80096054,
+  80116003,
+  80093619
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80093615"
+  }
+ }
+}

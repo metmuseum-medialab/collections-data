@@ -1,0 +1,45 @@
+{
+ "Period": "Late Period, Kushite",
+ "Dynasty": "Dynasty 26",
+ "Reign": "reign of Shabaka",
+ "Date": "ca. 747–664 B.C.",
+ "Geography": "possibly from Nubia; Country of Origin Egypt and Sudan",
+ "Medium": "Glazed limestone",
+ "Dimensions": "l. 3.3 cm (1 5/16 in); w. 2.4 cm (15/16 in)",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.251",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Scarabs",
+  "Reliefs",
+  "Glazing",
+  "Scaraboids"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100011171,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs10.130.158z.jpg",
+ "related-artworks": [
+  100012881,
+  100008283,
+  100009972,
+  100010594,
+  100010944
+ ],
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100011171"
+  }
+ }
+}

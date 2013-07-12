@@ -1,0 +1,32 @@
+{
+ "Date": "1850–89",
+ "Culture": "American or European",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Lee Simonson, 1938",
+ "Accession Number": "C.I.38.23.272",
+ "What": [
+  "Costume",
+  "Vests"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80035738,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.38.23.272_F.jpg",
+ "related-artworks": [
+  80005911,
+  80013507,
+  80013511,
+  80013552,
+  80013543
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80035738"
+  }
+ }
+}

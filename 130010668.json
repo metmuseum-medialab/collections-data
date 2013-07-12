@@ -1,0 +1,39 @@
+{
+ "Period": "Early Imperial",
+ "Date": "1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Terracotta; lead-glazed ware",
+ "Dimensions": "width  3 1/2in. (8.9cm)",
+ "Classification": "Vases",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.1702",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130010668,
+ "gallery-id": 168,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP105601.jpg",
+ "related-artworks": [
+  130008077,
+  130010830,
+  130010863,
+  130010899,
+  130010916
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130010668"
+  }
+ }
+}

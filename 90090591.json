@@ -1,0 +1,45 @@
+{
+ "Artist": "After Francesco Maggiotto (Italian, Venice 1738–1805 Venice)",
+ "Publisher": "Niccolò Cavalli (Italian, Longarone, 1730–1822)",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "Sheet 15 1/2 × 18 9/16 in. (39.3 × 47.2 cm)",
+  "Plate 14 9/16 × 12 in. (37 × 30.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Brooke Russell Astor Bequest, 2013",
+ "Accession Number": "2013.223",
+ "Who": [
+  "Niccolò Cavalli",
+  "Francesco Maggiotto",
+  "Pellegrino dal Colle"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90090591,
+ "related-artworks": [
+  90049809,
+  90098401,
+  90072808,
+  90073011,
+  90073835
+ ],
+ "Provenance": [
+  "Galerie Bassenge (Berlin), “Druckgraphik des 15.-19. Jahrhunderts”, 31 May 2012, lot 5333",
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90090591"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Period": "Iron Age II",
+ "Date": "ca. early 1st millennium B.C.",
+ "Geography": "Northwestern Iran, Caspian region",
+ "Medium": "Ceramic",
+ "Dimensions": "H. 31.3 cm",
+ "Classification": "Ceramics",
+ "Credit Line": "Harris Brisbane Dick Fund, 1964",
+ "Accession Number": "64.130",
+ "What": [
+  "Ceramics",
+  "Sculpture",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30004354,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/an64.130.R.jpg",
+ "related-artworks": [
+  30002964,
+  30004247,
+  30004641,
+  30003657,
+  30004389
+ ],
+ "Description": "Some of the most elaborate representations of females in the art of the ancient Near East are images of divine and cult figures whose association with certain aspects of life made them essential to the welfare of humanity. Fertility, procreation, and the growth of crops and livestock were among the basic concepts identified with female divinities. Representations of nude females in clay, stone, and metal are the simplest and most obvious expression of these concepts, and such figures appear throughout antiquity in many regions.This striking example in clay from the South Caspian region of northwestern Iran is hollow and probably served as a cult vessel as well as a sacred image.",
+ "Provenance": [
+  "Acquired by the Museum in 1964, purchased from Nuri Farhadi and Habib Anavian, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30004354"
+  }
+ }
+}

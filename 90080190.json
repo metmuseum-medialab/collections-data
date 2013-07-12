@@ -1,0 +1,47 @@
+{
+ "Date": "printed 1800-09",
+ "Medium": "Etching; fourth state of five (Robison)",
+ "Dimensions": [
+  "Sheet 21 5/8 x 15 3/4 in. (55 x 40 cm)",
+  "Plate 15 5/8 x 9 5/8 in. (39.7 x 24.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, transferred from the Library",
+ "Accession Number": "41.71.1.8",
+ "Who": "Giovanni Battista Piranesi",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Neoclassicism",
+  "The Grand Tour",
+  "The Printed Image in the West History and Techniques",
+  "Venice in the Eighteenth Century",
+  "The Rediscovery of Classical Antiquity",
+  "Joseph Mallord William Turner (1775–1851)",
+  "Giovanni Battista Piranesi (1720–1778)",
+  "The French Academy in Rome",
+  "Southern Europe, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90080190,
+ "related-artworks": [
+  90080314,
+  90080317,
+  90080321,
+  90080197,
+  90080184
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90080190"
+  }
+ }
+}

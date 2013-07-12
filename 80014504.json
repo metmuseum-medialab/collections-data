@@ -1,0 +1,33 @@
+{
+ "Date": "1820–30",
+ "Culture": "American or European",
+ "Medium": "linen",
+ "Dimensions": "Length at Side Seam 42 in. (106.7 cm)",
+ "Credit Line": "Purchase, Catharine Breyer von Bomel Foundation Fund, 1986",
+ "Accession Number": "1986.300.9",
+ "What": [
+  "Costume",
+  "Linen",
+  "Trousers"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80014504,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1986.300.9_F.jpg",
+ "related-artworks": [
+  80007645,
+  80013530,
+  80013806,
+  80013809,
+  80013810
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80014504"
+  }
+ }
+}

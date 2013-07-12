@@ -1,0 +1,46 @@
+{
+ "Date": "early 19th century",
+ "Culture": "Chinese",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "Diam. 8 in. (20.3 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Helena Woolworth McCann Collection, Gift of Winfield Foundation, 1951",
+ "Accession Number": "51.86.81",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120016260,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/150901.jpg",
+ "related-artworks": [
+  120016300,
+  120016457,
+  120000104,
+  120016195,
+  120016196
+ ],
+ "Provenance": [
+  "Helena Woolworth McCann"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120016260"
+  }
+ }
+}

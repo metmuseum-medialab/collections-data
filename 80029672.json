@@ -1,0 +1,31 @@
+{
+ "Date": "mid-19th century",
+ "Culture": "Belgian",
+ "Medium": "[no medium available]",
+ "Dimensions": "Length (neckband) 14 in. (35.6 cm)",
+ "Credit Line": "Gift of Mrs. Nuttall, 1908",
+ "Accession Number": "08.180.173",
+ "What": "Collars",
+ "Where": [
+  "Europe",
+  "Belgium"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80029672,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/08.180.173.jpg",
+ "related-artworks": [
+  80000175,
+  80000172,
+  80029723,
+  80029801,
+  80029805
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80029672"
+  }
+ }
+}

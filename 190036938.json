@@ -1,0 +1,38 @@
+{
+ "Date": "1930",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "20.7 x 25.9 cm (8 1/8 x 10 3/16 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Sarah and Gary Wolkowitz, 2000",
+ "Accession Number": "2000.230",
+ "Who": "Hank Olen",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190036938,
+ "related-artworks": [
+  190011337,
+  190011365,
+  190011370,
+  190011380,
+  190011383
+ ],
+ "Provenance": [
+  "New York Daily News",
+  "[Sotheby's, New York, April 6, 2000 sale (lot 192)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190036938"
+  }
+ }
+}

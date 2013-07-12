@@ -1,0 +1,59 @@
+{
+ "Date": "11th–mid-16th century",
+ "Geography": "Peru",
+ "Culture": "Peru; north or central coast (?)",
+ "Medium": "Silver (hammered), gilt",
+ "Dimensions": [
+  "Height 3 3/8 in. (8.6 cm)",
+  "Diameter 1 1/4 in. (3.2 cm)"
+ ],
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Gift of Mr. and Mrs. Nathan Cummings, 1964",
+ "Accession Number": "64.228.522a-c",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gilt",
+  "Crowns"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1400–1600 A.D.",
+  "Central and Southern Andes, 1000–1400 A.D."
+ ],
+ "id": 50001602,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs64_228_522.jpg",
+ "Provenance": [
+  "Bruno J. Wassermann-San Blas Collection, Buenos Aires, Argentina, acquired by 1938, until 1954",
+  "Nathan Cummings, Chicago, 1954–1964"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50001613"
+   },
+   {
+    "href": "http://scrapi.org/object/50001620"
+   },
+   {
+    "href": "http://scrapi.org/object/50001605"
+   },
+   {
+    "href": "http://scrapi.org/object/50001607"
+   },
+   {
+    "href": "http://scrapi.org/object/50001600"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50001602"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50001602"
+  }
+ }
+}

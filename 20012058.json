@@ -1,0 +1,32 @@
+{
+ "Date": "1919",
+ "Medium": "Black ink and graphite on off-white wove paper",
+ "Dimensions": "7 3/16 x 5 7/8 in. (18.3 x 14.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mr. and Mrs. Chester Du Clos, 1976",
+ "Accession Number": "1976.339.2",
+ "Who": "Ethel Paxson",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Graphite",
+  "Wove paper"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20012058,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap1976.339.2.jpg",
+ "related-artworks": [
+  20012057,
+  20012614,
+  20003638,
+  20010457
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20012058"
+  }
+ }
+}

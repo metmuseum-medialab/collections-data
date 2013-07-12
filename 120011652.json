@@ -1,0 +1,41 @@
+{
+ "Date": "15th century",
+ "Culture": "Italian",
+ "Medium": "Bronze, traces of gilding",
+ "Dimensions": "Diam. 1 11/16 in. (43 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Bequest of Gwynne M. Andrews, 1931",
+ "Accession Number": "31.33.174",
+ "Who": "Andrea Guazzalotti ( Guacialoti)",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Gilt",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011652,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/82481.jpg",
+ "related-artworks": [
+  120009819,
+  120015826,
+  120009820,
+  120011640,
+  120002887
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011652"
+  }
+ }
+}

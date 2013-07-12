@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18–19",
+ "Date": "ca. 1550–1186 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Dimensions": "L. 1.6 cm (5/8 in)",
+ "Credit Line": "Gift of Joseph W. Drexel, 1889",
+ "Accession Number": "89.2.472",
+ "What": [
+  "Sculpture",
+  "Faience",
+  "Scarabs",
+  "Palm leaf"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100026279,
+ "related-artworks": [
+  100003302,
+  100003612,
+  100007785,
+  100007800,
+  100007795
+ ],
+ "Provenance": [
+  "Donated by Joseph W. Drexel, Philadelphia, 1889."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100026279"
+  }
+ }
+}

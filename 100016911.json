@@ -1,0 +1,60 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1353 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Malqata, Palace of Amenhotep III, MMA 1911–1912",
+ "Medium": "Faience",
+ "Dimensions": "L. 1.9 cm (3/4 in)",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.215.82",
+ "What": [
+  "Faience",
+  "Rings"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100016911,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/11.215.82.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/100006126",
+  "http://scrapi.org/object/100008790",
+  "http://scrapi.org/object/100008792",
+  "http://scrapi.org/object/100008802",
+  "http://scrapi.org/object/100016915"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Museum excavations, 1911–12. Acquired by the Museum in the Division of Finds."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100006126"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100008790"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100008792"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100008802"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100016915"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100016911"
+  }
+ }
+}

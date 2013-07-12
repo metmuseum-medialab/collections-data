@@ -1,0 +1,59 @@
+{
+ "Date": "1924",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": [
+  "Length at CB (a) 33 1/2 in. (85.1 cm)",
+  "Length (b) 44 1/2 in. (113 cm)",
+  "Length (c) 21 3/4 in. (55.2 cm)"
+ ],
+ "Credit Line": "Gift of George Mangini, 1975",
+ "Accession Number": "1975.244a–c",
+ "What": [
+  "Costume",
+  "Wool",
+  "Suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80014986,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1975.244a–c_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1975.244a–c_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1975.244a–c_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1975.244c_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1975.244a_label.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1975.244b_label.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80000275"
+   },
+   {
+    "href": "http://scrapi.org/object/80000361"
+   },
+   {
+    "href": "http://scrapi.org/object/80000446"
+   },
+   {
+    "href": "http://scrapi.org/object/80000592"
+   },
+   {
+    "href": "http://scrapi.org/object/80001022"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80014986"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80014986"
+  }
+ }
+}

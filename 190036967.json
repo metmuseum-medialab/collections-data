@@ -1,0 +1,39 @@
+{
+ "Date": "1933 or later",
+ "Medium": "Ink on paper",
+ "Classification": "Manuscript Materials",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.250.4.3",
+ "Who": "Walker Evans",
+ "What": [
+  "Ink",
+  "Paper",
+  "Manuscripts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Walker Evans (1903–1975)",
+  "Kodak and the Rise of Amateur Photography",
+  "Early Documentary Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190036967,
+ "related-artworks": [
+  190034852,
+  190034873,
+  190034853,
+  190034874,
+  190034854
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190036967"
+  }
+ }
+}

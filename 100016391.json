@@ -1,0 +1,56 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19",
+ "Reign": "reign of Ramesses II",
+ "Date": "ca. 1279–1213 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Tomb of Ramesses II (KV 7), Mummy of Ramesses II, Maspero 1881",
+ "Medium": "Linen",
+ "Credit Line": "Gift of George F. Baker, 1890",
+ "Accession Number": "90.5.58",
+ "What": [
+  "Fragments",
+  "Linen",
+  "Cloth",
+  "Mummies"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100016391,
+ "gallery-id": 130,
+ "Provenance": [
+  "Previously collection of Emil Brugsch Bey, Cairo. Purchased from Brugsch and donated to the museum in 1890 by George F. Baker, New York."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100012523"
+   },
+   {
+    "href": "http://scrapi.org/object/100012529"
+   },
+   {
+    "href": "http://scrapi.org/object/100016387"
+   },
+   {
+    "href": "http://scrapi.org/object/100018780"
+   },
+   {
+    "href": "http://scrapi.org/object/100005764"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100016391"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100016391"
+  }
+ }
+}

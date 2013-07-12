@@ -1,0 +1,49 @@
+{
+ "Date": "19th–early 20th century",
+ "Geography": "Papua New Guinea, East Sepik Province, Angoram village, Lower Sepik River",
+ "Culture": "Angoram people",
+ "Medium": "Wood, paint",
+ "Dimensions": "H. 15 1/4 x W. 4 3/8 x  D. 5 1/2 in. (38.7 x 11.1 x 14 cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.1573",
+ "What": [
+  "Costume",
+  "Sculpture",
+  "Masks",
+  "Ceremonial masks"
+ ],
+ "Where": [
+  "Oceania",
+  "Papua New Guinea",
+  "East Sepik",
+  "Sepik"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Melanesia, 1800–1900 A.D.",
+  "Melanesia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50006455,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/VS1979_206_1573.jpg",
+ "related-artworks": [
+  50002508,
+  50002578,
+  50002831,
+  50003811,
+  50003908
+ ],
+ "Provenance": [
+  "Museum für Völkerkunde, Hamburg, Germany",
+  "Pierre Loeb Collection, Paris, until 1951",
+  "[K. John Hewett, London (?), from 1951]",
+  "Werner Muensterberger, New York, until 1960",
+  "Nelson A. Rockefeller, New York, 1960, on permanent loan to The Museum of Primitive Art, New York, 1960–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50006455"
+  }
+ }
+}

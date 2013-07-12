@@ -1,0 +1,49 @@
+{
+ "Date": "ca. 1840",
+ "Geography": "China",
+ "Medium": "Wood, lacquer, mother-of-pearl, ivory, velvet",
+ "Dimensions": "6 1/8 x 15 1/4 x 10 3/4 in. (15.6 x 38.7 x 27.3 cm)",
+ "Classification": "Natural Substances",
+ "Credit Line": "Gift of Margaret Bancroft and Ruth Farish Reynolds, 1968",
+ "Accession Number": "68.119a–s",
+ "What": [
+  "Needlework",
+  "Bone",
+  "Ivory",
+  "Boxes",
+  "Lacquer",
+  "Mother of pearl",
+  "Sewing",
+  "Sewing boxes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10007672,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/189936.jpg",
+ "related-artworks": [
+  10023890,
+  10010080,
+  10013359,
+  10000213,
+  10001122
+ ],
+ "Provenance": [
+  "Miss Margaret Bancroft, New York",
+  "Miss Ruth Farish Reynolds, Mount Holly, New York, until 1968"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10007672"
+  }
+ }
+}

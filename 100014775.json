@@ -1,0 +1,53 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12–13",
+ "Date": "ca. 1981–1640 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Cemetery, MMA 1920–1922",
+ "Medium": "Limestone",
+ "Dimensions": "h. 4.7 cm (1 7/8 in); w. 4 cm (1 9/16 in); d. 2.8 cm (1 1/8 in)",
+ "Credit Line": "Rogers Fund and Edward S. Harkness Gift, 1922",
+ "Accession Number": "22.1.791",
+ "What": [
+  "Limestone",
+  "Weights"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100014775,
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100003035"
+   },
+   {
+    "href": "http://scrapi.org/object/100014759"
+   },
+   {
+    "href": "http://scrapi.org/object/100014786"
+   },
+   {
+    "href": "http://scrapi.org/object/100014789"
+   },
+   {
+    "href": "http://scrapi.org/object/100015122"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100014775"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100014775"
+  }
+ }
+}

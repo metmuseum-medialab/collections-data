@@ -1,0 +1,40 @@
+{
+ "Period": "Goryeo dynasty (918–1392)",
+ "Culture": "Korea",
+ "Medium": "Bronze",
+ "Dimensions": "L. 4 1/4 in. (10.8 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "22.141.17",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Tweezers"
+ ],
+ "Where": [
+  "Asia",
+  "Korea"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Korea, 500–1000 A.D.",
+  "Korea, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60028577,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/22_141_17.JPG",
+ "related-artworks": [
+  60028656,
+  60021177,
+  60028574,
+  60028640,
+  60028641
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028577"
+  }
+ }
+}

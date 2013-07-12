@@ -1,0 +1,40 @@
+{
+ "Date": "1561",
+ "Medium": "engraving",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1962",
+ "Accession Number": "62.600.530",
+ "Who": "Étienne Delaune",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Decoration of Arms and Armor",
+  "Fontainebleau",
+  "Famous Makers and European Centers of Arms and Armor Production",
+  "Fire Gilding of Arms and Armor",
+  "Patronage at the Later Valois Courts (1461–1589)",
+  "France, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90005525,
+ "related-artworks": [
+  90073959,
+  90073965,
+  90073964,
+  90074084,
+  90074085
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005525"
+  }
+ }
+}

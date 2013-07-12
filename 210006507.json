@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1971",
+ "Medium": "Porcelain",
+ "Dimensions": [
+  "H. 3-1/8, D. 5-1/2 inches",
+  "(7.9 x 14 cm.)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Anonymous Gift, 1993",
+ "Accession Number": "1993.448.1",
+ "Who": "Lucie Rie",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Bowls"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1950–75",
+  "Great Britain and Ireland, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210006507,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT3644.jpg",
+ "related-artworks": [
+  210006508,
+  210012971,
+  210012972,
+  210012973,
+  210006623
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006507"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Publisher": "Published by Chez L'Auteur",
+ "Date": "1765, 1819",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1940",
+ "Accession Number": "40.90.2",
+ "Who": [
+  "Chez L'Auteur",
+  "Antoine Marie Peyre",
+  "Prault, Jombert"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90023149,
+ "related-artworks": [
+  "http://scrapi.org/object/90023150",
+  "http://scrapi.org/object/90001589",
+  "http://scrapi.org/object/90022268",
+  "http://scrapi.org/object/90022993"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90023150"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90001589"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90022268"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90022993"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90023149"
+  }
+ }
+}

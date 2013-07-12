@@ -1,0 +1,35 @@
+{
+ "Publisher": "Zobel & Otis (Syracuse, New York)",
+ "Date": "1894",
+ "Medium": "Photomechanical process",
+ "Dimensions": "6 x 4 1/2 in. (15.2 x 11.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1964",
+ "Accession Number": "64.549.8",
+ "Who": [
+  "Mrs. J. C. Winter",
+  "Zobel & Otis"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017868,
+ "related-artworks": [
+  90000882,
+  90003457,
+  90004101,
+  90004257,
+  90004888
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017868"
+  }
+ }
+}

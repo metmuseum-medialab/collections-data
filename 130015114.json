@@ -1,0 +1,52 @@
+{
+ "Period": "Classical",
+ "Date": "ca. 450–440 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": "H. 10 1/4 in. (26 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1949",
+ "Accession Number": "49.11.6",
+ "Who": "Achilles Painter",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Hydriae",
+  "Kalpides"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Greek Gods and Religious Practices",
+  "Athletics in Ancient Greece",
+  "Africans in Ancient Greek Art",
+  "Athenian Vase Painting Black– and Red–Figure Techniques",
+  "The Cesnola Collection at The Metropolitan Museum of Art",
+  "Greek Art in the Archaic Period",
+  "Time of Day on Painted Athenian Vases",
+  "Death, Burial, and the Afterlife in Ancient Greece",
+  "Ancient Greece, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130015114,
+ "gallery-id": 159,
+ "related-artworks": [
+  130008058,
+  130008396,
+  130008435,
+  130008562,
+  130008563
+ ],
+ "Description": "Youth pursuing womanThe scene may represent Peleus pursuing Thetis. Their child was the Greek hero Achilles.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130015114"
+  }
+ }
+}

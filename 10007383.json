@@ -1,0 +1,46 @@
+{
+ "Date": "after 1883",
+ "Geography": "New England, East Cambridge, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Blown glass",
+ "Dimensions": "H. 1 1/2 in. (3.8 cm); Diam. 4 3/8 in. (11.1 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Emily Winthrop Miles, 1946",
+ "Accession Number": "46.140.500",
+ "Who": "New England Glass Company",
+ "What": [
+  "Glass",
+  "Dishes",
+  "Blown glass",
+  "Sauce dishes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Cambridge",
+  "East Cambridge"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10007383,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/176269.jpg",
+ "related-artworks": [
+  10007381,
+  10007382,
+  10003392,
+  10006333,
+  10009426
+ ],
+ "Provenance": [
+  "Mrs. Emily Winthrop Miles, New York, until 1946"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10007383"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Publisher": "Published by Galerie der Spiegel, Cologne",
+ "Date": "1967",
+ "Medium": "Screenprint",
+ "Dimensions": [
+  "image 19 5/8 x 19 5/8 in. (49.8 x 49.8 cm)",
+  "sheet 24 x 24 in. (61 x 61 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Stewart S. MacDermott Fund, 1968",
+ "Accession Number": "68.559.5",
+ "Who": [
+  "Josef Albers",
+  "Galerie der Spiegel, Cologne"
+ ],
+ "What": [
+  "Prints",
+  "Screen prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Bauhaus, 1919–1933",
+  "Design, 1925–50",
+  "Geometric Abstraction",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90046088,
+ "related-artworks": [
+  90046084,
+  90046085,
+  90046086,
+  90046087,
+  90046093
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90046088"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "16th century",
+ "Geography": "Iran",
+ "Medium": "Composite body; painted and glazed",
+ "Dimensions": [
+  "H. 3 15/16 in. (10 cm)",
+  "D. 8 1/8 in. (20.6 cm)",
+  "D. of the foot 3 in. (7.6 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Charles K. and Irma B. Wilkinson, 1981",
+ "Accession Number": "1981.475",
+ "What": [
+  "Ceramics",
+  "Painting",
+  "Bowls",
+  "Glazing"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140010563,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf1981-475a.jpg",
+ "related-artworks": [
+  140007578,
+  140010816,
+  140004152,
+  140005926,
+  140009360
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010563"
+  }
+ }
+}

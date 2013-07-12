@@ -1,0 +1,49 @@
+{
+ "Date": "5th–10th century",
+ "Geography": "Colombia",
+ "Culture": "Quimbaya",
+ "Medium": "Gold",
+ "Dimensions": [
+  "H. 1 1/8 in. (3 cm)",
+  "W. 2 1/8 in. (5.4 cm)"
+ ],
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Jan Mitchell and Sons Collection, Gift of Jan Mitchell, 2002",
+ "Accession Number": "2002.322.7",
+ "Who": "Quimbaya",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Nose ornaments"
+ ],
+ "Where": [
+  "South America",
+  "Colombia"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Northern Andes, 1000–1400 A.D.",
+  "Northern Andes, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50012040,
+ "gallery-id": 357,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs20023227.jpg",
+ "related-artworks": [
+  50005290,
+  50005292,
+  50000000,
+  50000001,
+  50000004
+ ],
+ "Provenance": [
+  "Jan Mitchell, New York, 1991–2002"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50012040"
+  }
+ }
+}

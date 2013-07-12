@@ -1,0 +1,43 @@
+{
+ "Date": "second half 18th century",
+ "Culture": "British or American",
+ "Medium": "Brass",
+ "Dimensions": "5 3/8 x 5 3/4 x 10 in.  (13.7 x 14.6 x 25.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mr. and Mrs. William A. Moore, 1923",
+ "Accession Number": "23.80.16a, b",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Brass",
+  "Pestles",
+  "Mortars"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009758,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/52544.jpg",
+ "related-artworks": [
+  120022848,
+  120005286,
+  120005995,
+  120005999,
+  120006024
+ ],
+ "Provenance": [
+  "Mr. and Mrs. William A. Moore (until 1923",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009758"
+  }
+ }
+}

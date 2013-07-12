@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1832–39",
+ "Geography": "New England, Beverly, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Pewter",
+ "Dimensions": "H. 5 1/4 in. (13.3 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Mrs. J. Insley Blair, in memory of her husband, 1940",
+ "Accession Number": "40.184.21",
+ "Who": "Oliver Trask",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Pewter",
+  "Beakers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Beverly"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000425,
+ "gallery-id": 774,
+ "related-artworks": [
+  10000424,
+  10002156,
+  10003876
+ ],
+ "Provenance": [
+  "Mrs. J. Insley Blair, Tuxedo Park, New York, until 1940"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000425"
+  }
+ }
+}

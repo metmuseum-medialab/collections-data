@@ -1,0 +1,44 @@
+{
+ "Date": "1560",
+ "Culture": "German",
+ "Medium": "Steel",
+ "Classification": "Armor for Man",
+ "Credit Line": "Bashford Dean Memorial Collection, Bequest of Bashford Dean, 1928",
+ "Accession Number": "29.150.10",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Armor"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40001307,
+ "gallery-id": 380,
+ "related-artworks": [
+  40001528,
+  40000439,
+  40000472,
+  40000517,
+  40000983
+ ],
+ "Provenance": [
+  "Ex coll.:  Arsenal of Segovia",
+  "Oxenham",
+  "Londesborough",
+  "Mappin"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40001307"
+  }
+ }
+}

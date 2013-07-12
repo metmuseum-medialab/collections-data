@@ -1,0 +1,37 @@
+{
+ "Date": "1800–1939",
+ "Culture": "Turkish",
+ "Medium": "leather",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Irene Lewisohn and Mrs. Alice Lewisohn Crowley, 1939",
+ "Accession Number": "C.I.39.91.43a, b",
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Boots"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Balkan Peninsula, 1900 A.D.–present",
+  "Southern Europe, 1800–1900 A.D."
+ ],
+ "id": 80011190,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI39.91.43ab_F.jpg",
+ "related-artworks": [
+  80011186,
+  80002861,
+  80043338,
+  80000506,
+  80011130
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80011190"
+  }
+ }
+}

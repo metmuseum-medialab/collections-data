@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1918",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 44 in. (111.8 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Robert G. Olmsted and Constable MacCracken, 1969",
+ "Accession Number": "2009.300.2592",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80095291,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/69.149.33_front_CP3.jpg",
+ "related-artworks": [
+  80093532,
+  80093534,
+  80093535,
+  80093539,
+  80093537
+ ],
+ "Description": "The lines of this evening dress represent the transitional shape found during the teens to the early 1920s. Executed in an appealing shade of blue, its shorter length and tubular shape presage the silhouette to come. While many examples of 1920s dresses are extant, dresses from this era are more difficult to find.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80095291"
+  }
+ }
+}

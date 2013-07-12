@@ -1,0 +1,39 @@
+{
+ "Date": "1929",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "22.6 x 17.5 cm (8 7/8 x 6 7/8 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Ford Motor Company Collection, Gift of Ford Motor Company and John C. Waddell, 1987",
+ "Accession Number": "1987.1100.295",
+ "Who": "Bill Brandt",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190017131,
+ "related-artworks": [
+  190013964,
+  190016472,
+  190016473,
+  190016474,
+  190016471
+ ],
+ "Provenance": [
+  "Bill Brandt Estate",
+  "[Edwynn Houk to Waddell, August 20, 1984]",
+  "John C. Waddell"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190017131"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Date": "ca. 1870",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Irene Lewisohn, 1939",
+ "Accession Number": "C.I.39.63.3a–c",
+ "What": [
+  "Silk",
+  "Ensembles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80035766,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.39.63.3ab_F.jpg",
+ "related-artworks": [
+  80001724,
+  80002253,
+  80002917,
+  80003349,
+  80003332
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80035766"
+  }
+ }
+}

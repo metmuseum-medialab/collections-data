@@ -1,0 +1,44 @@
+{
+ "Artist": "Robert Adamson (Scottish, St. Andrews 1821–1848 St. Andrews)",
+ "Date": "1843–47",
+ "Medium": "Salted paper print from paper negative",
+ "Classification": "Photographs",
+ "Credit Line": "David Hunter McAlpin Fund, 1946",
+ "Accession Number": "46.1.138",
+ "Who": [
+  "David Octavius Hill",
+  "Robert Adamson"
+ ],
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "David Octavius Hill (1802–1870) and Robert Adamson (1821–1848) (1840s)",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190020736,
+ "related-artworks": [
+  190013705,
+  190014446,
+  190014445,
+  190014935,
+  190014936
+ ],
+ "Provenance": [
+  "E. Weil, London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190020736"
+  }
+ }
+}

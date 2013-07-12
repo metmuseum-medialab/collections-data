@@ -1,0 +1,51 @@
+{
+ "Date": "1893",
+ "Medium": "Transfer lithograph with stumping; only state",
+ "Dimensions": "9 1/4 x 7 1/4 in. (23.5 x 18.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.194",
+ "Who": "James McNeill Whistler",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Transfer lithographs",
+  "Stumping"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Nineteenth–Century American Drawings",
+  "William Merritt Chase (1849–1916)",
+  "Japonisme",
+  "James McNeill Whistler (1834–1903)",
+  "Americans in Paris, 1860–1900",
+  "Design Reform",
+  "The Print in the Nineteenth Century",
+  "Lithography in the Nineteenth Century",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90045667,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP813896.jpg",
+ "related-artworks": [
+  90035924,
+  90045691,
+  90045701,
+  90045577,
+  90045663
+ ],
+ "Provenance": [
+  "Vendor: Dick Estate, U.S. Trust"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90045667"
+  }
+ }
+}

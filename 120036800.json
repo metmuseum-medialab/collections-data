@@ -1,0 +1,39 @@
+{
+ "Date": "after 1860",
+ "Culture": "British or American",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 76 x W. 23 inches",
+  "193.0 x 58.4 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Maria P. James, 1911",
+ "Accession Number": "11.60.445",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036800,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/121987.jpg",
+ "related-artworks": [
+  120018389,
+  120034254,
+  120036545,
+  120036792,
+  120036799
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036800"
+  }
+ }
+}

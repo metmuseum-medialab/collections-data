@@ -1,0 +1,36 @@
+{
+ "Culture": "Greek, Laconian",
+ "Medium": "Lead",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Gift of A. J. B. Wace, 1924",
+ "Accession Number": "24.195.167",
+ "What": [
+  "Metal",
+  "Costume",
+  "Lead",
+  "Wreaths"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Peloponnese",
+  "Laconia"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130012221,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP120925.jpg",
+ "related-artworks": [
+  130012223,
+  130012225,
+  130012226,
+  130012228,
+  130012230
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130012221"
+  }
+ }
+}

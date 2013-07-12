@@ -1,0 +1,51 @@
+{
+ "Date": "ca. 1743–45",
+ "Culture": "German, Augsburg",
+ "Medium": "Silver gilt",
+ "Dimensions": "Overall H. 1 x W. 2 1/4 x D. 1 3/4 in. (2.5 x 5.7 x 4.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, Anna-Maria and Stephen Kellen Foundation Gift, in memory of Stephen M. Kellen, 2005",
+ "Accession Number": "2005.364.33",
+ "Who": "Johann Engelbrecht",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Boxes",
+  "Spice boxes"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Augsburg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120049384,
+ "gallery-id": 551,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF2005_364_33_img1.jpg",
+ "related-artworks": [
+  120049379,
+  120049380,
+  120022293,
+  120022243,
+  120022251
+ ],
+ "Provenance": [
+  "Counts Schenk von Stauffenberg , Schloss Jettingen, Germany (until 1990s)",
+  "[ art market , England]",
+  "[ sale, Sotheby's, London , November 9, 1996, no. 43 ]",
+  "[ Aveline, Paris , 2002]",
+  "[ Galerie Neuse Kunsthandel GmbH , Bremen (2005",
+  "sold to MMA)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120049384"
+  }
+ }
+}

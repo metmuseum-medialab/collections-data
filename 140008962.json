@@ -1,0 +1,37 @@
+{
+ "Date": "19th century",
+ "Geography": "India",
+ "Medium": "Cotton",
+ "Dimensions": "3 in. high 52.50 in. wide (7.6 cm high 133.4 cm wide)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Alan Lloyd Wolfe, 1961",
+ "Accession Number": "61.80.7",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Painting",
+  "Printing"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140008962,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/172336.jpg",
+ "related-artworks": [
+  140002429,
+  140004649,
+  140005101,
+  140007998,
+  140007999
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008962"
+  }
+ }
+}

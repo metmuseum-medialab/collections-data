@@ -1,0 +1,40 @@
+{
+ "Date": "1931–32",
+ "Culture": "French",
+ "Medium": "cotton, silk",
+ "Dimensions": [
+  "Length (a) 58 in. (147.3 cm)",
+  "Length (b) 58 in. (147.3 cm)",
+  "Length (c) 53 1/2 in. (135.9 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. William Dubilier, 1964",
+ "Accession Number": "C.I.64.46.12a–c",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80027858,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI64.46.12ab_F.jpg",
+ "related-artworks": [
+  80001488,
+  80001885,
+  80001985,
+  80002285,
+  80002950
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80027858"
+  }
+ }
+}

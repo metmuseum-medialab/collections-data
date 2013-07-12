@@ -1,0 +1,41 @@
+{
+ "Artist": "After Giulio Romano (Italian, Rome 1499?–1546 Mantua)",
+ "Date": "1539",
+ "Medium": "Engraving; first state of seven (Hollstein)",
+ "Dimensions": "Sheet 16 1/4 × 21 5/8 in. (41.3 × 55 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1962",
+ "Accession Number": "62.602.110",
+ "Who": [
+  "Giulio Romano",
+  "Georg Pencz"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90003258,
+ "related-artworks": [
+  90003283,
+  90003285,
+  90008351,
+  90008355,
+  90008375
+ ],
+ "Provenance": [
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90003258"
+  }
+ }
+}

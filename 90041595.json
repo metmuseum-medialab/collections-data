@@ -1,0 +1,35 @@
+{
+ "Date": "1844",
+ "Medium": "plates engraving",
+ "Dimensions": "Overall 10 1/16 x 6 5/16 in. (25.5 x 16 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.689.2",
+ "Who": "George R. Graham",
+ "What": [
+  "Engraving",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90041595,
+ "related-artworks": [
+  90041587,
+  90041561,
+  90041562,
+  90041570,
+  90041579
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90041595"
+  }
+ }
+}

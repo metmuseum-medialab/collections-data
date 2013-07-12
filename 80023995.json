@@ -1,0 +1,58 @@
+{
+ "Date": "1960–63",
+ "Culture": "American",
+ "Medium": "wool, leather",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Kimberly Knitwear, Inc., 1974",
+ "Accession Number": "1974.137.15",
+ "Who": "Norman Norell",
+ "What": [
+  "Costume",
+  "Wool",
+  "Leather",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Dressing for the Cocktail Hour",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80023995,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1974.137.15_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1974.137.15_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1974.137.15_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1974.137.15_label.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80023994"
+   },
+   {
+    "href": "http://scrapi.org/object/80023694"
+   },
+   {
+    "href": "http://scrapi.org/object/80023686"
+   },
+   {
+    "href": "http://scrapi.org/object/80116221"
+   },
+   {
+    "href": "http://scrapi.org/object/80002166"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80023995"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80023995"
+  }
+ }
+}

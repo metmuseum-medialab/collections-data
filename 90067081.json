@@ -1,0 +1,42 @@
+{
+ "Date": "18th century",
+ "Medium": "Hand-colored stipple engraving on wove paper",
+ "Dimensions": [
+  "sheet 13 1/8 x 9 13/16 in. (33.3 x 24.9 cm)",
+  "plate 10 5/8 x 8 7/16 in. (27 x 21.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of David T. and Anne Wikler Mininberg, 2010",
+ "Accession Number": "2010.179.1",
+ "Who": "Pierre Joseph Redouté",
+ "What": [
+  "Prints",
+  "Paper",
+  "Engraving",
+  "Wove paper",
+  "Stippling"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90067081,
+ "related-artworks": [
+  90067082,
+  90067083,
+  90069776,
+  90069777,
+  90069779
+ ],
+ "Provenance": [
+  "Donor: Dr. David T. and Anne W. Mininberg"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90067081"
+  }
+ }
+}

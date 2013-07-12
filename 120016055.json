@@ -1,0 +1,48 @@
+{
+ "Date": "after 1787",
+ "Culture": "Belgian (Tournai)",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "Each H. 4-1/8 in. (10.5 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1950",
+ "Accession Number": "50.211.162, .163",
+ "Who": "Tournai",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Glass",
+  "Faience",
+  "Porcelain",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "Belgium",
+  "Tournai"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Low Countries, 1600–1800 A.D.",
+  "Central Europe and Low Countries, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120016055,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/149483.jpg",
+ "related-artworks": [
+  120012609,
+  120022723,
+  120002067,
+  120002066,
+  120003008
+ ],
+ "Provenance": [
+  "Baron Nathaniel de Rothschild",
+  "[ Stiebel Ltd. , New York, before 1950",
+  "sold to Wilson ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120016055"
+  }
+ }
+}

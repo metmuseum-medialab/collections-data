@@ -1,0 +1,34 @@
+{
+ "Date": "ca. 1942",
+ "Culture": "American",
+ "Medium": "Straw, synthetic",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. George A. Bonaventure in memory of Mrs. James Steel, 1965",
+ "Accession Number": "2009.300.5434a, b",
+ "Who": "Jay-Thorpe, Inc.",
+ "What": [
+  "Costume",
+  "Hats",
+  "Straw"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80107864,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/65.220.43_CP2.jpg",
+ "related-artworks": [
+  80106840,
+  80108244,
+  80027297,
+  80027300,
+  80027302
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107864"
+  }
+ }
+}

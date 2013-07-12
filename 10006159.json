@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1810–55",
+ "Geography": "Mid-Atlantic, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Earthenware; Redware with sgraffito decoration",
+ "Dimensions": "Diam. 11 3/8 in. (28.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Robert W. de Forest, 1933",
+ "Accession Number": "34.100.125",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Plates",
+  "Sgraffito",
+  "Redware"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10006159,
+ "gallery-id": 704,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP207700.jpg",
+ "related-artworks": [
+  10006161,
+  10006162,
+  10006147,
+  10006329,
+  10006354
+ ],
+ "Provenance": [
+  "Mrs. Robert W. de Forest, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006159"
+  }
+ }
+}

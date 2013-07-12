@@ -1,0 +1,41 @@
+{
+ "Date": "7th–6th century B.C.",
+ "Culture": "Northeast China",
+ "Medium": "Bronze",
+ "Dimensions": "H. 6 in. (15.3 cm); W. of base 2 3/8 in. (6 cm); L. 3 in. (7.6 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mr. and Mrs. Eugene V. Thaw, 2002",
+ "Accession Number": "2002.201.27",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Finials"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1000 B.C.–1 A.D.",
+  "China, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60038689,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2002_201_27.JPG",
+ "related-artworks": [
+  60030742,
+  60030767,
+  60030807,
+  60032654,
+  60032659
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60038689"
+  }
+ }
+}

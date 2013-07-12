@@ -1,0 +1,42 @@
+{
+ "Artist": "After William Hamilton (British, London 1751–1801 London)",
+ "Date": "1794",
+ "Medium": "Etching and engraving; second state of three",
+ "Dimensions": "sheet 5 1/4 x 3 9/16 in. (13.3 x 9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.390",
+ "Who": [
+  "Francesco Bartolozzi",
+  "William Hamilton"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90050445,
+ "related-artworks": [
+  90027966,
+  90050122,
+  90050124,
+  90050129,
+  90050132
+ ],
+ "Provenance": [
+  "Donor: Harris Brisbane Dick Fund"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050445"
+  }
+ }
+}

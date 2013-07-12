@@ -1,0 +1,39 @@
+{
+ "Period": "Late Period",
+ "Dynasty": "Dynasty 26–29",
+ "Date": "664–332 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Breccia",
+ "Dimensions": "L. 1.7 cm (11/16 in)",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.8.853",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Breccia"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "id": 100008278,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs30.8.853.jpg",
+ "related-artworks": [
+  100005128,
+  100036571,
+  100036572,
+  100001903,
+  100001910
+ ],
+ "Provenance": [
+  "Theodore M. Davis Collection, bequeathed by Theodore Davis in 1915."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008278"
+  }
+ }
+}

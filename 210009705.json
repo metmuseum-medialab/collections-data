@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1902",
+ "Medium": "Wood, brass",
+ "Dimensions": [
+  "H. 16-1/4, W. 8-3/8, D. 5-1/8 inches",
+  "(41.3 x 21.3 x 13 cm.)"
+ ],
+ "Classification": "Horology",
+ "Credit Line": "Harris Brisbane Dick Fund, 1966",
+ "Accession Number": "66.244.26",
+ "Who": "Joseph Garino",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Brass",
+  "Outerwear",
+  "Timepieces",
+  "Clocks",
+  "Mantles"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009705,
+ "gallery-id": 813,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf66.244.26.jpg",
+ "related-artworks": [
+  210004848,
+  210008439,
+  210009694,
+  210009699,
+  210002195
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009705"
+  }
+ }
+}

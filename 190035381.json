@@ -1,0 +1,30 @@
+{
+ "Date": "1920s",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "12 x 15.9 cm (4 3/4 x 6 1/4 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.263.81",
+ "Who": "Unknown, American",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190035381,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP68016.jpg",
+ "related-artworks": [
+  190011635,
+  190012789,
+  190012787,
+  190012790,
+  190012788
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190035381"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "early 15th century",
+ "Geography": "Made in Orvieto, Italy",
+ "Culture": "Italian",
+ "Medium": "Earthenware, tin-glaze (Majolica)",
+ "Dimensions": "Overall 8 1/8 x 5 9/16 x 4 5/8 in. (20.6 x 14.2 x 11.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Wilhelm Bode, 1911",
+ "Accession Number": "11.163.4",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Maiolica",
+  "Pitchers"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Umbrian",
+  "Orvieto"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170003379,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf11-163-4s4.jpg",
+ "related-artworks": [
+  170003562,
+  170003408,
+  170008027,
+  170003377,
+  170008133
+ ],
+ "Provenance": [
+  "Wilhelm Bode, Berlin (until 1911)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170003379"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "after 1547",
+ "Medium": "Engraving; copy after first state of three (Pauli)",
+ "Dimensions": "Plate 1 15/16 x 2 7/8 in. (5 x 7.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry G. Friedman, 1962",
+ "Accession Number": "62.635.86",
+ "Who": "Sebald Beham",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90091239,
+ "related-artworks": [
+  90003257,
+  90003289,
+  90003291,
+  90003292,
+  90003293
+ ],
+ "Description": "Two couples dancing left. The female of the couple at right is seen from behind.",
+ "Provenance": [
+  "Donor: Harry G. Friedman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90091239"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Paper, silk",
+ "Dimensions": "20 1/4 x 17 in. (51.4 x 43.2 cm)",
+ "Classification": "Stencils",
+ "Credit Line": "Gift of Mrs. Horace Havemeyer, 1942",
+ "Accession Number": "42.91.20",
+ "What": [
+  "Silk",
+  "Paper",
+  "Stencils"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60042812,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP13503.jpg",
+ "related-artworks": [
+  60024259,
+  60035764,
+  60035765,
+  60038742,
+  60039085
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60042812"
+  }
+ }
+}

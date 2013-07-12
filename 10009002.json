@@ -1,0 +1,30 @@
+{
+ "Date": "ca. 1876",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 1 3/8 in. (3.5 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of William H. Huntington, 1883",
+ "Accession Number": "83.2.450",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Tokens"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10009002,
+ "related-artworks": [
+  10008992,
+  10008993,
+  10008994,
+  10008995,
+  10008996
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10009002"
+  }
+ }
+}

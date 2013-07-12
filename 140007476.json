@@ -1,0 +1,53 @@
+{
+ "Object Name": "Fragments of a bowl",
+ "Date": "10th–11th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware; white slip, incised and splashed with polychrome glazes under transparent glaze (sgraffito ware)",
+ "Dimensions": [
+  "a 10 1/2 in. (26.7 cm)",
+  "b 2 9/16 in. (6.5 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1940",
+ "Accession Number": "40.170.521",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Fragments",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Bowls",
+  "Slip",
+  "Sgraffito"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 500–1000 A.D.",
+  "Iran, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140007476,
+ "related-artworks": [
+  140006618,
+  140007533,
+  140007565,
+  140007597,
+  140008081
+ ],
+ "Provenance": [
+  "1937, excavated at Village Tepe in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1940, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007476"
+  }
+ }
+}

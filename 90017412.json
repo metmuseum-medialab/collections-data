@@ -1,0 +1,33 @@
+{
+ "Publisher": "Published by Bradstreet Press (New York, NY)",
+ "Date": "1874",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1965",
+ "Accession Number": "65.524.1",
+ "Who": [
+  "J. W. Fiske",
+  "Bradstreet Press"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017412,
+ "related-artworks": [
+  90017415,
+  90017414,
+  90017416,
+  90017417,
+  90017413
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017412"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Date": "1800–1937",
+ "Culture": "Mexican",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Irene Lewisohn, 1937",
+ "Accession Number": "C.I.37.53.26",
+ "What": "Textiles",
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America Native Peoples, 1800–1900 A.D.",
+  "Mexico and Central America, 1800–1900 A.D.",
+  "Mexico and Central America Native Peoples, 1900 A.D.–present",
+  "Mexico and Central America, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80012466,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI37.53.26.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80012426"
+   },
+   {
+    "href": "http://scrapi.org/object/80012427"
+   },
+   {
+    "href": "http://scrapi.org/object/80012465"
+   },
+   {
+    "href": "http://scrapi.org/object/80007625"
+   },
+   {
+    "href": "http://scrapi.org/object/80010828"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80012466"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80012466"
+  }
+ }
+}

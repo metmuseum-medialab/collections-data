@@ -1,0 +1,44 @@
+{
+ "Manufacturer": "Yamato China Co. Ltd. (Tajimi, Japan)",
+ "Date": "ca. 1963",
+ "Medium": "Porcelain",
+ "Dimensions": "2 5/8 x 4 5/8 in. (6.7 x 11.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Russel Wright, 1976",
+ "Accession Number": "1976.67.7",
+ "Who": [
+  "Russel Wright",
+  "Yamato China Co. Ltd."
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Bowls"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1925–50",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210001812,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1976.67.1-13, 62.jpg",
+ "related-artworks": [
+  210001755,
+  210001810,
+  210001753,
+  210001751,
+  210001752
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210001812"
+  }
+ }
+}

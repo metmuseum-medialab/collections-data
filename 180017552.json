@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1740",
+ "Geography": "Mirecourt, France",
+ "Medium": "Wood",
+ "Dimensions": [
+  "Overall 19 x 10 x 56.8cm (7 1/2 x 3 15/16 x 22 3/8in.)",
+  "56.8 cm overall length, 32.6 cm body length (bottom), 15.7 / 10.7 / 19.0 cm width of bouts (bottom), 13.2 cm neck."
+ ],
+ "Classification": "Chordophone-Lute",
+ "Credit Line": "Purchase, Frederick M. Lehman Bequest, 2006",
+ "Accession Number": "2006.504",
+ "Who": "Nicholas Augustin Chappuy",
+ "What": [
+  "Musical instruments",
+  "Chordophones",
+  "Lutes",
+  "Viols",
+  "Pardessus de viole"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Lorraine",
+  "Vosges",
+  "Mirecourt"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180017552,
+ "gallery-id": 684,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DP153079.jpg",
+ "related-artworks": [
+  180013306,
+  180013673,
+  180017737,
+  180013298,
+  180015204
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180017552"
+  }
+ }
+}

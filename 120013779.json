@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1545",
+ "Culture": "Italian (Urbino)",
+ "Medium": "Maiolica (tin-enameled earthenware)",
+ "Dimensions": "Overall (confirmed) 11 1/8 x 21 1/2 x 19 7/8 in. (28.3 x 54.6 x 50.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of George Blumenthal, 1941",
+ "Accession Number": "41.100.282",
+ "Who": "Orazio Fontana",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Maiolica",
+  "Wine coolers"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Urbino"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Maiolica in the Renaissance",
+  "Florence and Central Italy, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120013779,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES8108.jpg",
+ "related-artworks": [
+  120012115,
+  120012119,
+  120012136,
+  120012138,
+  120012139
+ ],
+ "Provenance": [
+  "J. Pierpont Morgan",
+  "George and Florence Blumenthal (before 1926–until her death in 1930)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013779"
+  }
+ }
+}

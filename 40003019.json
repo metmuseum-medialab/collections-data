@@ -1,0 +1,53 @@
+{
+ "Designer": "Jacob H. Köchert (1795 - 1868)",
+ "Date": "ca. 1825",
+ "Culture": "Austrian (Vienna)",
+ "Medium": "Steel, gold, enamel, agate, wood, leather",
+ "Dimensions": "Length 26 15/16 in.  ( 68.5 cm)",
+ "Classification": "Swords",
+ "Credit Line": "Rogers Fund, 1948",
+ "Accession Number": "48.26a, b",
+ "Who": [
+  "Emanuel Pioté",
+  "Jacob H. Köchert"
+ ],
+ "What": [
+  "Metal",
+  "Gold",
+  "Arms",
+  "Iron and iron alloy",
+  "Edged weapons",
+  "Leather",
+  "Swords",
+  "Iron alloy",
+  "Enamels",
+  "Steel",
+  "Chalcedony",
+  "Agate",
+  "Hunting swords"
+ ],
+ "Where": [
+  "Europe",
+  "Austria",
+  "Vienna"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40003019,
+ "gallery-id": 376,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/sfsb48.26ab(120204)s2d2.JPG",
+ "related-artworks": [
+  40001124,
+  40014207,
+  40001557,
+  40003125,
+  40012619
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40003019"
+  }
+ }
+}

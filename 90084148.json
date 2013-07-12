@@ -1,0 +1,44 @@
+{
+ "Printer": "Lemercier (Paris)",
+ "Publisher": "Jeannin",
+ "Date": "19th century",
+ "Medium": "Lithograph; second state of three (Armelhault & Bocher)",
+ "Dimensions": "Sheet 14 3/16 x 10 13/16 in. (36 x 27.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Michael G. Wilson, 1979",
+ "Accession Number": "1979.673.23",
+ "Who": [
+  "Paul Gavarni [Chevalier]",
+  "Lemercier",
+  "Jeannin"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90084148,
+ "related-artworks": [
+  90018048,
+  90024410,
+  90028473,
+  90032320,
+  90049446
+ ],
+ "Provenance": [
+  "Albert Maroni (French, 1852–1923)",
+  "Donor: Michael G. Wilson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90084148"
+  }
+ }
+}

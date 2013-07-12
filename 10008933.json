@@ -1,0 +1,60 @@
+{
+ "Date": "1700–1750",
+ "Geography": "Delft, South Holland, Netherlands",
+ "Culture": "Dutch",
+ "Medium": "Earthenware",
+ "Dimensions": "6 x 6 in. (15.2 x 15.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Frederick Allien, in memory of her mother, Julia Taber Martin, 1924",
+ "Accession Number": "24.122dddd",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Tile"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands",
+  "Delft"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 10008933,
+ "gallery-id": 714,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/166185.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/10008855",
+  "http://scrapi.org/object/10008856",
+  "http://scrapi.org/object/10008857",
+  "http://scrapi.org/object/10008880",
+  "http://scrapi.org/object/10008863"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Mrs. Frederick Allien, New York, until 1924"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10008855"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10008856"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10008857"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10008880"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10008863"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10008933"
+  }
+ }
+}

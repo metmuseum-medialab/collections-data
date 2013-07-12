@@ -1,0 +1,40 @@
+{
+ "Period": "Cypro-Archaic I",
+ "Date": "second half of 7th century B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Clay",
+ "Dimensions": "H. 18 15/16 in. (48.1 cm)",
+ "Classification": "Cesnola Inscriptions",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2298a, b",
+ "What": [
+  "Clay",
+  "Amphorae"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "id": 130002318,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP121456.jpg",
+ "related-artworks": [
+  130000452,
+  130000494,
+  130000497,
+  130000503,
+  130000465
+ ],
+ "Description": "The painted inscription below the rim reads B‘LY (Baalay), the name of the owner of either the storage jar or its contents.",
+ "Provenance": [
+  "From Cyprus, said to be from the sanctuary of the Phoenician diety Eshmun-melqarth at Kition (modern Larnaka)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002318"
+  }
+ }
+}

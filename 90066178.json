@@ -1,0 +1,45 @@
+{
+ "Date": "early 16th century",
+ "Medium": "Etching",
+ "Dimensions": "sheet 4 7/16 x 2 1/2 in. (11.2 x 6.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "26.70.3",
+ "Who": "Parmigianino (Girolamo Francesco Maria Mazzola)",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Portraiture in Renaissance and Baroque Europe",
+  "Leonardo da Vinci (1452–1519)",
+  "Mannerism Bronzino (1503–1572) and his Contemporaries",
+  "Profane Love and Erotic Art in the Italian Renaissance",
+  "Sixteenth–Century Painting in Emilia–Romagna",
+  "The Printed Image in the West History and Techniques",
+  "Renaissance Drawings Material and Function",
+  "Lovers in Italian Mythological Prints",
+  "The Birth and Infancy of Christ in Italian Painting"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90066178,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP826186.jpg",
+ "related-artworks": [
+  90003731,
+  90003732,
+  90003733,
+  90003758,
+  90025961
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90066178"
+  }
+ }
+}

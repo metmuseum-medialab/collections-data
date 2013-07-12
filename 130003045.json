@@ -1,0 +1,41 @@
+{
+ "Period": "Late Bronze Age",
+ "Date": "ca. 1600–1100 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Gold",
+ "Dimensions": "Other 1 3/16 in. (3 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.3145",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Funnels"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 2000–1000 B.C.",
+ "id": 130003045,
+ "gallery-id": 173,
+ "related-artworks": [
+  130003048,
+  130003047,
+  130003046,
+  130002902,
+  130002908
+ ],
+ "Description": "Similar funnel-shaped objects with recurved rim have been found on Cyprus, where they were used as the crowning element of exotic ostrich egg vessels. Smaller examples were also used wrapped with cloth as bottle stoppers.",
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130003045"
+  }
+ }
+}

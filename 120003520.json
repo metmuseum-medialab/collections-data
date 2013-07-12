@@ -1,0 +1,42 @@
+{
+ "Date": "18th century",
+ "Culture": "German",
+ "Medium": "Pewter",
+ "Dimensions": "H. 5 7/8 in.  (14.9 cm); Diam. of bowl 4 7/8 in. (12.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1906",
+ "Accession Number": "06.794",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Furniture",
+  "Pewter",
+  "Stands",
+  "Egg stands"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003520,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/18443.jpg",
+ "related-artworks": [
+  120007449,
+  120049358,
+  120006762,
+  120022217,
+  120022227
+ ],
+ "Provenance": [
+  "Lady Selina Hervey"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120003520"
+  }
+ }
+}

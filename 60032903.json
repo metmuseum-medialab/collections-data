@@ -1,0 +1,41 @@
+{
+ "Period": "late Ming (1368–1644) or early Qing (1644–1911) dynasty",
+ "Culture": "China",
+ "Medium": "Mud",
+ "Dimensions": "H. 26 in. (66 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1929",
+ "Accession Number": "30.76.108",
+ "What": [
+  "Sculpture",
+  "Statues",
+  "Figurines",
+  "Mud"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1900 A.D.–present",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60032903,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/30_76_108_F.JPG",
+ "related-artworks": [
+  60032892,
+  60032893,
+  60032894,
+  60032895,
+  60032897
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60032903"
+  }
+ }
+}

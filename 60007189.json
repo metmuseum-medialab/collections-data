@@ -1,0 +1,47 @@
+{
+ "Period": "Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "Date": "ca. late 17th–first half of 18th century",
+ "Culture": "China",
+ "Medium": "Porcelain painted in overglaze polychrome enamels",
+ "Dimensions": "Diam. 14 1/2 in. (36.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.410",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Painting",
+  "Enamels",
+  "Overglazing"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60007189,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DT258462.jpg",
+ "related-artworks": [
+  60009862,
+  60009642,
+  60009770,
+  60009785,
+  60009788
+ ],
+ "Provenance": [
+  "Edward C. Moore , New York (until d. 1891)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60007189"
+  }
+ }
+}

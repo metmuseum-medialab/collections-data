@@ -1,0 +1,35 @@
+{
+ "Date": "1900–1923",
+ "Culture": "American (probably)",
+ "Medium": "leather",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Harrison Williams, Lady Mendl, and Mrs. Ector Munn, 1946",
+ "Accession Number": "C.I.46.46.12a, b",
+ "What": [
+  "Costume",
+  "Leather",
+  "Gaiters"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80047967,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI46.46.12ab.jpg",
+ "related-artworks": [
+  80055886,
+  80056838,
+  80055928,
+  80056841,
+  80094580
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80047967"
+  }
+ }
+}

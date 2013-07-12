@@ -1,0 +1,49 @@
+{
+ "Date": "1440–1460",
+ "Geography": "Made in probably Manises, Valencia, Spain",
+ "Culture": "Spanish",
+ "Medium": "Tin-glazed earthenware",
+ "Dimensions": [
+  "Overall 8 9/16 x 12 3/4 in. (21.7 x 32.4 cm)",
+  "Base (Foot) 3 3/16 in. (8.1 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "The Cloisters Collection, 1956",
+ "Accession Number": "56.171.76",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Bowls",
+  "Glazing"
+ ],
+ "Where": [
+  "Europe",
+  "Spain",
+  "Valencia",
+  "Manises"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70012296,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/sf56-171-76s1.jpg",
+ "related-artworks": [
+  70012294,
+  70012297,
+  70012360,
+  70012316,
+  70012301
+ ],
+ "Provenance": [
+  "G. d'Acquin",
+  "William Randolph Hearst American, 1863–1951 , New York and San Simeon (until 1951)",
+  "William Randolph Hearst Foundation , New York (1951–1956)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70012296"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "early 20th century",
+ "Geography": "India",
+ "Medium": "Wood, skin",
+ "Dimensions": "33 in. x 9-1/2 in.",
+ "Classification": "Chordophone",
+ "Credit Line": "Gift of Miss Alice Getty, 1946",
+ "Accession Number": "46.34.68",
+ "What": [
+  "Musical instruments",
+  "Chordophones"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 180017180,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/137421.jpg",
+ "related-artworks": [
+  180015107,
+  180015298,
+  180017141,
+  180017153,
+  180017625
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180017180"
+  }
+ }
+}

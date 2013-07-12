@@ -1,0 +1,39 @@
+{
+ "Manufacturer": "Salvatore Ferragamo (Italian, founded 1929)",
+ "Date": "ca. 1962",
+ "Culture": "Italian",
+ "Medium": "Leather",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Morehead Patterson, 1972",
+ "Accession Number": "2009.300.5828a, b",
+ "Who": [
+  "Salvatore Ferragamo",
+  "Fiamma Ferragamo"
+ ],
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1900 A.D.–present",
+ "id": 80108248,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/72.78.29a-b_CP2.jpg",
+ "related-artworks": [
+  80096739,
+  80108352,
+  80108379,
+  80108376,
+  80108377
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108248"
+  }
+ }
+}

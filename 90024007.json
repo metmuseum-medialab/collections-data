@@ -1,0 +1,73 @@
+{
+ "Designer": "Designed by Hubert Clerget (French, Dijon 1818–1899 Saint-Denis)",
+ "Engraver": "Engraved by Mme. Veuve Olympe Brux (French, Paris, active 19th century)",
+ "Publisher": "Published by Henri Plon",
+ "Date": "1867",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 12 3/16 x 17 1/2 x 1/2 in. (31 x 44.5 x 1.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1968",
+ "Accession Number": "68.533",
+ "Who": [
+  "Ernest Meissonier",
+  "François-Claudius Compte-Calix",
+  "Pierre Verdeil",
+  "Jules Dupré",
+  "Jules-Jean-Marie-Joseph Huyot",
+  "Adrien-Jean Nargeot",
+  "Auguste-Louis Chapon",
+  "Gustave Janet",
+  "Henry Duff Linton",
+  "Jules-Ferdinand Jacquemart",
+  "Emile Bayard",
+  "Hubert Clerget",
+  "Auguste Barbant",
+  "Henri-Félix-Emmanuel Philippoteaux",
+  "J. Gauchard",
+  "L. Dumont",
+  "Felix Ribeyre",
+  "Felix-Henri Giacomotti",
+  "Henri Plon",
+  "Mme. Veuve Olympe Brux",
+  "Tazzini",
+  "Émile Deschamps"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024007,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90018388"
+   },
+   {
+    "href": "http://scrapi.org/object/90021778"
+   },
+   {
+    "href": "http://scrapi.org/object/90001947"
+   },
+   {
+    "href": "http://scrapi.org/object/90018041"
+   },
+   {
+    "href": "http://scrapi.org/object/90024495"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90024007"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90024007"
+  }
+ }
+}

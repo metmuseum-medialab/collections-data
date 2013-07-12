@@ -1,0 +1,38 @@
+{
+ "Date": "1550",
+ "Medium": "Etching",
+ "Dimensions": "sheet 4 1/8 x 2 5/8 in. (10.4 x 6.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1921",
+ "Accession Number": "21.10.1",
+ "Who": "Jacques Androuet Du Cerceau",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90061973,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP213857.jpg",
+ "related-artworks": [
+  90005792,
+  90005793,
+  90009399,
+  90060822,
+  90061971
+ ],
+ "Provenance": [
+  "Donor: Rogers Fund"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90061973"
+  }
+ }
+}

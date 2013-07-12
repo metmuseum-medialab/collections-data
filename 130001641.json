@@ -1,0 +1,42 @@
+{
+ "Period": "Cypro-Archaic I",
+ "Date": "ca. 750–600 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 5 1/8 in. (13.0 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.1619",
+ "What": [
+  "Costume",
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Statues",
+  "Figurines",
+  "Masks"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130001641,
+ "gallery-id": 174,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/GR689.jpg",
+ "related-artworks": [
+  130002532,
+  130002555,
+  130001462,
+  130001582,
+  130001584
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130001641"
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "Date": "1933",
+ "Medium": "Graphite on paper",
+ "Dimensions": [
+  "H. 13-5/8, W. 9-1/2 inches",
+  "(34.3 x 24.1 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mrs. Arthur J. Cohen, 1964",
+ "Accession Number": "64.116.2",
+ "Who": "Walter Pach",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009549,
+ "related-artworks": [
+  "http://scrapi.org/object/210007896",
+  "http://scrapi.org/object/210007893",
+  "http://scrapi.org/object/210007894",
+  "http://scrapi.org/object/210007895",
+  "http://scrapi.org/object/90017315"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210007896"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210007893"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210007894"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210007895"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90017315"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210009549"
+  }
+ }
+}

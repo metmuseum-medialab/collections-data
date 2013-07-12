@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1905",
+ "Culture": "French",
+ "Medium": "silk, linen",
+ "Dimensions": "4 x 10 in. (10.2 x 25.4 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Lillian E. Glenn Peirce and Mabel Glenn Cooper, 1929",
+ "Accession Number": "2009.300.1689",
+ "Who": "Camille",
+ "What": [
+  "Costume",
+  "Silk",
+  "Linen",
+  "Hats"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80094286,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/29.959_CP3.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80106651",
+  "http://scrapi.org/object/80093984",
+  "http://scrapi.org/object/80094161"
+ ],
+ "related-images": [],
+ "Description": "The sovereignty of the leading Parisian milliners is exhibited in this whimsical creation, where mastery of technique, concept, materials, and creativity are brought into full cooperation.  While working within the expected media and vocabulary of the time - velvet manipulated to give shape and texture, trimmed at the side and underside with artificial flowers - the designer has beautifully integrated the shape, color and form to give the impression of a large cabbage rose.",
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80106651"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80093984"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80094161"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80094286"
+  }
+ }
+}

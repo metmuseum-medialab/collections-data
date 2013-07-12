@@ -1,0 +1,40 @@
+{
+ "Period": "Protocorinthian",
+ "Date": "late 8th-early 7th century B.C.",
+ "Culture": "Greek, Corinthian",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 2 9/16 in. (6.5 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "22.139.88",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Aryballoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011748,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP119915.jpg",
+ "related-artworks": [
+  130000890,
+  130001446,
+  130001450,
+  130001447,
+  130005250
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011748"
+  }
+ }
+}

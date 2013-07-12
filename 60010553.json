@@ -1,0 +1,38 @@
+{
+ "Period": "Han dynasty (206 B.C.–A.D. 220) or later",
+ "Culture": "China",
+ "Medium": "Jade",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Samuel T. Peters, 1913",
+ "Accession Number": "13.40.21",
+ "What": [
+  "Jade",
+  "Chisels"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000 B.C.–1 A.D.",
+  "Central and North Asia, 1–500A.D.",
+  "Central and North Asia, 1000 B.C.–1 A.D.",
+  "China, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60010553,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/13_40_21_15165.jpg",
+ "related-artworks": [
+  60010313,
+  60010314,
+  60010318,
+  60010319,
+  60010321
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60010553"
+  }
+ }
+}

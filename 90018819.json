@@ -1,0 +1,28 @@
+{
+ "Publisher": "Published by Roanne",
+ "Date": "1922",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lawrence B. Romaine",
+ "Accession Number": "60.715.16",
+ "Who": [
+  "E. Grapeloux",
+  "Roanne"
+ ],
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018819,
+ "related-artworks": [
+  90000001,
+  90000402,
+  90000506,
+  90000530,
+  90000618
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90018819"
+  }
+ }
+}

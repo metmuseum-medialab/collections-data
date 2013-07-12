@@ -1,0 +1,43 @@
+{
+ "Date": "late 19th–early 20th century (Frankish style)",
+ "Culture": "European",
+ "Medium": "Gold, granulation, intaglio",
+ "Dimensions": [
+  "Overall 13/16 x 3/4 x 7/16 in. (2.1 x 1.9 x 1.1 cm)",
+  "intaglio 1/8 x 1/2 in. (0.3 x 1.2 cm)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.192.205",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Metalwork",
+  "Gold",
+  "Rings",
+  "Intaglios"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170005174,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-192-205s6.jpg",
+ "related-artworks": [
+  170005051,
+  170005163,
+  170005165,
+  170005176,
+  170008394
+ ],
+ "Provenance": [
+  "[ Stanislas Baron, Paris ]",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005174"
+  }
+ }
+}

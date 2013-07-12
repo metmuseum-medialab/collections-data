@@ -1,0 +1,46 @@
+{
+ "Period": "Goryeo dynasty (918–1392)",
+ "Date": "first half of the 12th century",
+ "Culture": "Korea",
+ "Medium": "Stoneware with carved and incised decoration of bamboo under celadon glaze",
+ "Dimensions": "H. 8 1/2 in. (21.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Roger G. Gerry, 1996",
+ "Accession Number": "1996.471",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Glaze",
+  "Stoneware",
+  "Ceramic glaze",
+  "Grass",
+  "Bamboo",
+  "Ewers",
+  "Celadon"
+ ],
+ "Where": [
+  "Asia",
+  "Korea"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Korea, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60009737,
+ "gallery-id": 233,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/h1_1996.471.jpg",
+ "related-artworks": [
+  60021083,
+  60006601,
+  60021086,
+  60021081,
+  60021082
+ ],
+ "Description": "This elegant ewer demonstrates the Goryeo potter's skill in transforming everyday motifs from nature—in this case, melon and bamboo—into a practical yet attractive vessel.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009737"
+  }
+ }
+}

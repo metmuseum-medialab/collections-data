@@ -1,0 +1,51 @@
+{
+ "Date": "1809/1819 (?)",
+ "Medium": "Pen and black ink, graphite, gray watercolor washes, white gouache heightening, Conté crayon on blue paper",
+ "Dimensions": "sheet 15 x 12 11/16 in. (38.1 x 32.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Rogers Fund and Promised Gift of Leon D. and Debra R. Black, 2009",
+ "Accession Number": "2009.423",
+ "Who": "Jean-Auguste-Dominique Ingres",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Graphite",
+  "Gouache",
+  "Crayons",
+  "Conté crayons"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Legacy of Jacques–Louis David (1748–1825)",
+  "Islamic Carpets in European Paintings",
+  "Romanticism",
+  "Nineteenth–Century Classical Music",
+  "Orientalism in Nineteenth–Century Art",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90064044,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP220229.jpg",
+ "related-artworks": [
+  90038834,
+  90038836,
+  90083988,
+  90083989,
+  90083990
+ ],
+ "Provenance": [
+  "Vendor: Katrin Bellinger Kunsthandel , Munich Donor: Leon D. and Debra R. Black, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90064044"
+  }
+ }
+}

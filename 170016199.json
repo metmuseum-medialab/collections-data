@@ -1,0 +1,28 @@
+{
+ "Date": "3rd–5th century",
+ "Geography": "Made in Byzantine Egypt",
+ "Culture": "Coptic",
+ "Medium": "Wood",
+ "Dimensions": "Overall 3 7/8 x 2 5/16 x 1 5/16 in. (9.9 x 5.9 x 3.3 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.2.41",
+ "What": "Woodwork",
+ "When": "A.D. 1-500",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170016199,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf20-2-41s1.jpg",
+ "related-artworks": [
+  170007702,
+  170008041,
+  170016196,
+  170016197,
+  170016194
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170016199"
+  }
+ }
+}

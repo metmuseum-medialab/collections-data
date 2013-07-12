@@ -1,0 +1,35 @@
+{
+ "Date": "1942",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": "Length 63 in. (160 cm)",
+ "Credit Line": "Gift of Mme. Germaine Monteil, 1942",
+ "Accession Number": "42.123.9",
+ "What": [
+  "Costume",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80027324,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/42.123.9_F.jpg",
+ "related-artworks": [
+  80000074,
+  80000150,
+  80000153,
+  80000229,
+  80000199
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80027324"
+  }
+ }
+}

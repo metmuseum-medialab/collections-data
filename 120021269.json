@@ -1,0 +1,43 @@
+{
+ "Date": "20th century",
+ "Culture": "British, Leeds",
+ "Medium": "Creamware",
+ "Dimensions": "Diameter 9 7/8 in. (25.1 cm); H. 1 in .(2.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Flora E. Whiting, 1971",
+ "Accession Number": "1971.180.200",
+ "Who": "Senior factory",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Plates",
+  "Creamware"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "West Yorkshire",
+  "Leeds"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021269,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/197797.jpg",
+ "related-artworks": [
+  120021270,
+  120021268,
+  120021244,
+  120028276,
+  120028278
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021269"
+  }
+ }
+}

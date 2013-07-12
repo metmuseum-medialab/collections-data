@@ -1,0 +1,55 @@
+{
+ "Decorator": "Johann Gregor Höroldt (1696–1775)",
+ "Date": "ca. 1725",
+ "Culture": "German (Meissen)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "Overall (confirmed) 15/16 x 5 x 4 15/16 in. (2.4 x 12.7 x 12.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1954",
+ "Accession Number": "54.147.76",
+ "Who": [
+  "Meissen Manufactory",
+  "Johann Gregor Höroldt"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Hard paste porcelain",
+  "Saucers"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Saxony",
+  "Meissen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120057190,
+ "gallery-id": 533,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP223288.jpg",
+ "related-artworks": [
+  120003139,
+  120006945,
+  120013637,
+  120014197,
+  120014198
+ ],
+ "Description": "This beaker and saucer were part of a tea and chocolate service given to Vittorio Amadeo II, King of Sardinia (1666-1732) by Augustus the Strong, the Elector of Saxony, under whose patronage the Meissen factory was established.",
+ "Provenance": [
+  "Possibly Private Collection , Austria",
+  "[ Alex Ball , New York, before 1954",
+  "sold to Mr. Wilson ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120057190"
+  }
+ }
+}

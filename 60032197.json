@@ -1,0 +1,41 @@
+{
+ "Date": "mid-19th–late 19th century",
+ "Culture": "China",
+ "Medium": "Red lacquer",
+ "Dimensions": "H. 10 in. (25.4 cm); W. 9 3/4 in. (24.8 cm); L. 30 1/4 in. (76.8 cm)",
+ "Classification": "Lacquer",
+ "Credit Line": "Bequest of Stephen Whitney Phoenix, 1881",
+ "Accession Number": "81.1.141",
+ "What": [
+  "Boxes",
+  "Lacquer"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60032197,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/81_1_141_TQ.JPG",
+ "related-artworks": [
+  60032198,
+  60032199,
+  60032201,
+  60032221,
+  60032222
+ ],
+ "Provenance": [
+  "Stephen Whitney Phoenix , New York (until d. 1881)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60032197"
+  }
+ }
+}

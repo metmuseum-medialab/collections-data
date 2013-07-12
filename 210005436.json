@@ -1,0 +1,53 @@
+{
+ "Date": "1987",
+ "Medium": "Charcoal and colored inks on paper",
+ "Dimensions": [
+  "H. 44-1/4, W. 30 inches",
+  "(112.4 x 76.2 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Lila Acheson Wallace Gift, 1988",
+ "Accession Number": "1988.60",
+ "Rights and Reproduction": "© 2011 Artists Rights Society (ARS), New York",
+ "Who": "Howard Kanovitz",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Charcoal"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210005436,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1988.60.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210001170"
+   },
+   {
+    "href": "http://scrapi.org/object/210001215"
+   },
+   {
+    "href": "http://scrapi.org/object/210001332"
+   },
+   {
+    "href": "http://scrapi.org/object/210001406"
+   },
+   {
+    "href": "http://scrapi.org/object/210001408"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210005436"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210005436"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Date": "dated A.H. 582/ A.D. 1186",
+ "Geography": "Iran",
+ "Medium": "Stonepaste; polychrome in-glaze and overglaze painted on an opaque monochrome glaze (mina'i)",
+ "Dimensions": [
+  "H. 3 3/16 in. (8.1 cm)",
+  "Diam. of rim 8 1/2 in. (21.6 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Fletcher Fund, 1964",
+ "Accession Number": "64.178.1",
+ "Who": "Abu Zayd",
+ "What": [
+  "Ceramics",
+  "Painting",
+  "Glaze",
+  "Bowls",
+  "Overglazing"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 1000–1400 A.D.",
+  "Iran, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140009122,
+ "gallery-id": 453,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/wb-64.178.1.JPG",
+ "related-artworks": [
+  140003403,
+  140003463,
+  140008691,
+  140008702,
+  140008760
+ ],
+ "Description": "This bowl and 64.178.2 are the earliest dated pieces attributed to Abu Zaid al‑Kashani, a famous potter and painter specializing in both luster and mina'i. Inscribed in both Arabic and Persian, both bowls bear dates on the exterior, good wishes to their owners in the kufic band around the rim, and verses of poetry—composed by Abu Zaid himself—below the fish pond. The figural scenes do not directly illustrate the verses, but may relate thematically.",
+ "Provenance": [
+  "Emile Tabbagh, New York (until 1936",
+  "sale, Anderson Galleries, New York, January 4, 1936)",
+  "M. Parish-Watson, New York(by 1940)",
+  "Mr. and Mrs. Fred Olsen, Guildford, CT (until 1964",
+  "sale,Sotheby's, London, June 8, 1964, lot 135, to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009122"
+  }
+ }
+}

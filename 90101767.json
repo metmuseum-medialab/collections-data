@@ -1,0 +1,53 @@
+{
+ "Publisher": "Published by Gemini G.E.L.",
+ "Printer": "Printed by Kenneth E. Tyler (American, born East Chicago, Indiana, 1931)",
+ "Date": "1966",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "Image 15 3/4 × 15 3/4 in. (40 × 40 cm)",
+  "Sheet 20 7/8 × 20 7/8 in. (53 × 53 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Kenneth E. Tyler in memory of John J. McKendry, 1977",
+ "Accession Number": "1977.635.38",
+ "Who": [
+  "Josef Albers",
+  "Gemini G.E.L.",
+  "Kenneth E. Tyler"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Bauhaus, 1919–1933",
+  "Geometric Abstraction",
+  "Design, 1925–50",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90101767,
+ "related-artworks": [
+  90011925,
+  90045072,
+  90045949,
+  90045950,
+  90046015
+ ],
+ "Description": "Three oranges",
+ "Provenance": [
+  "Donor: Kenneth E. Tyler (American, born East Chicago, Indiana, 1931)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90101767"
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "Date": "4th–early 5th century",
+ "Geography": "Made in Kharga Oasis, Byzantine Egypt",
+ "Culture": "Coptic",
+ "Medium": "Glass",
+ "Dimensions": "Overall 1 1/8 x 15/16 in. (2.9 x 2.4 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.268.108",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Fragments"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170021306,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cop0805.jpg",
+ "related-artworks": [
+  170016793,
+  170018983,
+  170018985,
+  170018987,
+  170018988
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170021306"
+  }
+ }
+}

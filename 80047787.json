@@ -1,0 +1,40 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Culture": "American",
+ "Medium": "linen, cotton",
+ "Dimensions": [
+  "Length 15 in. (38.1 cm)",
+  "Length 16 in. (40.6 cm)"
+ ],
+ "Credit Line": "Gift of Jessie Leonard Hill, 1979",
+ "Accession Number": "1979.152.39",
+ "What": [
+  "Cotton",
+  "Linen",
+  "Collars"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80047787,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1979.152.39.jpg",
+ "related-artworks": [
+  80047788,
+  80047789,
+  80047794,
+  80047795,
+  80047793
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80047787"
+  }
+ }
+}

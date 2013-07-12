@@ -1,0 +1,42 @@
+{
+ "Date": "15th–16th century",
+ "Geography": "Egypt",
+ "Medium": "Wood; turned",
+ "Dimensions": [
+  "H. 72 in. (182.9 cm)",
+  "W. 72 in. (182.9 cm)",
+  "D. 2 in. (5.1 cm)"
+ ],
+ "Classification": "Wood",
+ "Credit Line": "Gift of S.S. Howland, 1910",
+ "Accession Number": "11.86.9",
+ "What": [
+  "Furniture",
+  "Screens"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140014620,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/11.86.9.JPG",
+ "related-artworks": [
+  140014612,
+  140014615,
+  140014618,
+  140014613,
+  140014619
+ ],
+ "Provenance": [
+  "S. S. Howland, New York (until 1910)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140014620"
+  }
+ }
+}

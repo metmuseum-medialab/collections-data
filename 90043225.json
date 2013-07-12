@@ -1,0 +1,52 @@
+{
+ "Date": "1735",
+ "Medium": "Ink and wash",
+ "Dimensions": "sheet 14 9/16 x 9 13/16 in. (37 x 25 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1925",
+ "Accession Number": "25.62.51r(a)",
+ "Who": "Isaac Ware",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 90043225,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP829106.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90041293",
+  "http://scrapi.org/object/90041295",
+  "http://scrapi.org/object/90041296",
+  "http://scrapi.org/object/90041297",
+  "http://scrapi.org/object/90041298"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90041293"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90041295"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90041296"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90041297"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90041298"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90043225"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1895",
+ "Medium": "Metal",
+ "Dimensions": "18 x 18 in. (45.7 x 45.7 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of New York Clearing House, 1963",
+ "Accession Number": "Inst.63.2.9",
+ "What": [
+  "Metal",
+  "Lighting devices",
+  "Lighting",
+  "Lighting fixtures",
+  "Gasoline"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10003993,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/177622.jpg",
+ "related-artworks": [
+  10003997,
+  10003998,
+  10003999,
+  10004000,
+  10004002
+ ],
+ "Provenance": [
+  "New York Clearing House, New York, until 1963"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003993"
+  }
+ }
+}

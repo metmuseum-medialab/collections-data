@@ -1,0 +1,34 @@
+{
+ "Date": "1920–40",
+ "Culture": "American",
+ "Medium": "linen",
+ "Dimensions": "Length 16 3/4 in. (42.5 cm)",
+ "Credit Line": "Gift of Mrs. C. S. Mott, 1977",
+ "Accession Number": "1977.295.7",
+ "What": [
+  "Linen",
+  "Collars"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80055888,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.295.7.jpg",
+ "related-artworks": [
+  80031670,
+  80052303,
+  80052487,
+  80055889,
+  80056304
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80055888"
+  }
+ }
+}

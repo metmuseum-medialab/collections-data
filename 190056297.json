@@ -1,0 +1,41 @@
+{
+ "Date": "1948",
+ "Medium": "Gelatin silver print",
+ "Dimensions": [
+  "Image 40.4 x 49.4 cm (15 7/8 x 19 7/16 in.)",
+  "Frame 63.5 x 76.2 cm (25 x 30 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Twentieth-Century Photography Fund, 2012",
+ "Accession Number": "2012.11",
+ "Who": "Grete Stern",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "South America",
+  "Argentina"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "South America, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190056297,
+ "related-artworks": [
+  190056296,
+  190017034,
+  190017316
+ ],
+ "Provenance": [
+  "Grete Stern",
+  "Horacio Coppola (the artist's ex-husband)",
+  "by descent to Coppola family",
+  "[Jorge Mara, Buenos Aires]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190056297"
+  }
+ }
+}

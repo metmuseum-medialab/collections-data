@@ -1,0 +1,35 @@
+{
+ "Date": "17th century",
+ "Medium": "Etching; third state of four",
+ "Dimensions": "11.5 x 12.1 cm",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1963",
+ "Accession Number": "63.616.41",
+ "Who": "Thomas Wijck",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90047269,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP828624.jpg",
+ "related-artworks": [
+  90047271,
+  90047273,
+  90047274,
+  90047275,
+  90047276
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90047269"
+  }
+ }
+}

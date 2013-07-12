@@ -1,0 +1,34 @@
+{
+ "Publisher": "Published by G. le Roy (Lyons)",
+ "Date": "1485",
+ "Dimensions": "Overall 11 1/8 x 7 3/4 x 11/16 in. (28.3 x 19.7 x 1.8 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.64.3",
+ "Who": [
+  "G. le Roy",
+  "Bertrand Du Guesclin"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90016586,
+ "related-artworks": [
+  90025689,
+  90001586,
+  90004685,
+  90005348,
+  90005362
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90016586"
+  }
+ }
+}

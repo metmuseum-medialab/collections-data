@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Medium": "Woodblock",
+ "Dimensions": "block 2 1/4 x 3 x 7/8 in. (5.7 x 7.6 x 2.2 cm)",
+ "Classification": "Blocks",
+ "Credit Line": "Gift of Mrs. Frederick M. Burr, 1932",
+ "Accession Number": "32.98.3",
+ "Who": "Alexander Anderson",
+ "What": [
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90059691,
+ "related-artworks": [
+  90059690,
+  90059693,
+  90059689,
+  90059692,
+  20013097
+ ],
+ "Provenance": [
+  "Donor: Mrs. Frederic M. Burr (American, 19th–20th century)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90059691"
+  }
+ }
+}

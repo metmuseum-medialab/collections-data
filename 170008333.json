@@ -1,0 +1,45 @@
+{
+ "Date": "15th–16th century",
+ "Culture": "Austrian",
+ "Medium": "Leather (Cuir bouilli)",
+ "Dimensions": "Overall 20 1/16 x 6 x 3 7/8 in. (50.9 x 15.2 x 9.9 cm)",
+ "Classification": "Leatherwork",
+ "Credit Line": "Rogers Fund, 1951",
+ "Accession Number": "51.118.1a, b",
+ "What": [
+  "Leather",
+  "Knives",
+  "Cases",
+  "Leatherwork",
+  "Cuir bouilli",
+  "Knife cases"
+ ],
+ "Where": [
+  "Europe",
+  "Austria",
+  "Tyrol"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170008333,
+ "gallery-id": 307,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf51-118abs5.jpg",
+ "related-artworks": [
+  170008335,
+  170008334,
+  170008924,
+  170008325,
+  170006484
+ ],
+ "Provenance": [
+  "Prince of Liechtenstein, Vaduz, Liechtenstein",
+  "Blumka Gallery, New York (sold 1951)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170008333"
+  }
+ }
+}

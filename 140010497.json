@@ -1,0 +1,41 @@
+{
+ "Object Name": "Folio from an illustrated manuscript",
+ "Date": "18th century",
+ "Geography": "Egypt or Syria",
+ "Medium": "Ink and opaque watercolor on paper",
+ "Dimensions": "12.5 in. high 8.87 in. wide (31.8 cm high 22.6 cm wide)",
+ "Classification": "Codices",
+ "Credit Line": "The Alice and Nasli Heeramaneck Collection, Gift of Alice Heeramaneck, 1981",
+ "Accession Number": "1981.373.39",
+ "What": [
+  "Ink",
+  "Paper",
+  "Watercolors",
+  "Manuscripts",
+  "Codices",
+  "Folios",
+  "Illuminated manuscripts"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140010497,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf1981-373-39b.jpg",
+ "related-artworks": [
+  140010485,
+  140010486,
+  140010464,
+  140010487,
+  140010488
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010497"
+  }
+ }
+}

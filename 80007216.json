@@ -1,0 +1,35 @@
+{
+ "Date": "20th century",
+ "Culture": "Indonesian (Javanese peoples)",
+ "Medium": "cotton",
+ "Dimensions": "Length 101 in. (256.5 cm)",
+ "Credit Line": "Gift of Mr. and Mrs. Teiji Ito, in memory of Yuji and Teiko Ito, 1964",
+ "Accession Number": "C.I.64.15.4",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Skirts"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80007216,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI64.15.4.JPG",
+ "related-artworks": [
+  80007218,
+  80007219,
+  80007220,
+  80007221,
+  80007236
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007216"
+  }
+ }
+}

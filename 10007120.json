@@ -1,0 +1,47 @@
+{
+ "Date": "1885–87",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Porcelain",
+ "Dimensions": "Diam. 7 3/8 in. (18.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Franklin Chace, 1969",
+ "Accession Number": "69.194.68",
+ "Who": "Union Porcelain Works",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Salad plates"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10007120,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP258774.jpg",
+ "related-artworks": [
+  10007102,
+  10007103,
+  10007104,
+  10007105,
+  10007106
+ ],
+ "Provenance": [
+  "Mr. and Mrs. Franklin M. Chace, Easthampton, New York, until 1969"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10007120"
+  }
+ }
+}

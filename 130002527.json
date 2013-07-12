@@ -1,0 +1,38 @@
+{
+ "Culture": "Cypriot",
+ "Medium": "Limestone",
+ "Dimensions": "Overall H.:6 1/8 x W.:4 x D.:2 in. (15.6 x 10.2 x 5.1 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2510",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Limestone",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130002527,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP155794.jpg",
+ "related-artworks": [
+  130002539,
+  130002546,
+  130002529,
+  130002520,
+  130002550
+ ],
+ "Provenance": [
+  "Sanctuary of Golgoi–Ayios Photios"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002527"
+  }
+ }
+}

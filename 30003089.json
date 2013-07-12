@@ -1,0 +1,42 @@
+{
+ "Period": "Early Dynastic III",
+ "Date": "ca. 2600–2350 B.C.",
+ "Geography": "Mesopotamia",
+ "Culture": "Sumerian",
+ "Medium": "Shell",
+ "Dimensions": "0.5 x 0.5 in. (1.27 x 1.27 cm)",
+ "Classification": "Shell",
+ "Credit Line": "Gift of Walter Hauser, 1955",
+ "Accession Number": "55.65.11",
+ "Who": "Sumerian",
+ "What": [
+  "Amulets",
+  "Shell"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003089,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/DP122480.jpg",
+ "related-artworks": [
+  30003539,
+  30004131,
+  30004132,
+  30004138,
+  30004133
+ ],
+ "Provenance": [
+  "From 1948, on loan by Walter Hauser to the Museum (L.48.49.10)",
+  "acquired by the Museum in 1955, gift of Walter Hauser, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003089"
+  }
+ }
+}

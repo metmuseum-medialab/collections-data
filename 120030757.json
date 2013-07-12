@@ -1,0 +1,41 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian or Greek",
+ "Medium": "Silk",
+ "Dimensions": "L. 16 1/2 x W. 4 inches (41.9 x 10.2 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1907",
+ "Accession Number": "07.62.55",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Borders"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120030757,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP166515.jpg",
+ "related-artworks": [
+  120029934,
+  120030134,
+  120030746,
+  120039980,
+  120040229
+ ],
+ "Provenance": [
+  "Arthur Blackborne , 1907",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120030757"
+  }
+ }
+}

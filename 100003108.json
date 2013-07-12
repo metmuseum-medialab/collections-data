@@ -1,0 +1,43 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Reign": "reign of Amenemhat I",
+ "Date": "ca. 1981–1952 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Pyramid Temple of Amenemhat I, Foundation deposit, MMA 1908–1909",
+ "Medium": "Sandstone",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.200.15dd",
+ "What": [
+  "Stone",
+  "Sandstone",
+  "Grinding stones"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100003108,
+ "gallery-id": 108,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/08.200.15dd.jpg",
+ "related-artworks": [
+  100003107,
+  100003110,
+  100003109,
+  100027118,
+  100027119
+ ],
+ "Description": "This grinding stone was part of a foundation deposit comprising 25 vessels of pottery and Egyptian alabaster, 1 stone burnisher of Egyptian alabaster, and 9 additional rough sandstone grinders. The deposit was discovered in a pit along the axis of the pyramid temple of Amenemhat I at Lisht North, where it had been buried during rituals performed by the king to mark the beginning of the temple's construction.See also 08.200.15a, 08.200.15b, 08.200.15c, 08.200.bb, 08.200.15ff, and 08.200.15jj.",
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art amd acquired by the Museum in the division of finds, 1908."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003108"
+  }
+ }
+}

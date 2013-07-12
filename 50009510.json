@@ -1,0 +1,43 @@
+{
+ "Date": "16th–17th century",
+ "Geography": "Peru",
+ "Culture": "Quechua",
+ "Medium": "Wood, pigmented resin inlay",
+ "Dimensions": "Height 7 in.",
+ "Classification": "Wood-Containers",
+ "Credit Line": "Bequest of Arthur M. Bullowa, 1993",
+ "Accession Number": "1994.35.15",
+ "Who": "Quechua",
+ "What": [
+  "Resin",
+  "Kero cups"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1400–1600 A.D.",
+  "South America, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50009510,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/hz1994_35_15.jpg",
+ "related-artworks": [
+  50009508,
+  50009519,
+  50009522,
+  50009509,
+  50009517
+ ],
+ "Description": "The counterpoised figures depicted here may echo the traditional Andean worldview of balanced dichotomy. The opposing forces, male figures (in short tunics) and females (in long dresses and shawls), each hold a mace and a banner.",
+ "Provenance": [
+  "Arthur M. Bullowa, New York, acquired in Cuzco, Peru,1960s, until (d.)1993"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50009510"
+  }
+ }
+}

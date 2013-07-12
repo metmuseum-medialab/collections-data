@@ -1,0 +1,39 @@
+{
+ "Date": "20th century",
+ "Culture": "Tibetan",
+ "Medium": "wool, silk, cotton, metal",
+ "Dimensions": "Height 3 1/2 in. (8.9 cm)",
+ "Credit Line": "Gift of Arthur Alden Leeper, 1986",
+ "Accession Number": "1986.247.2",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Wool",
+  "Hats"
+ ],
+ "Where": [
+  "Asia",
+  "China",
+  "Tibet"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80061469,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1986.247.2_F.jpg",
+ "related-artworks": [
+  80061467,
+  80061466,
+  80102198,
+  80061471,
+  80011851
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80061469"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "1985",
+ "Medium": "Acrylic and oil on canvas",
+ "Dimensions": [
+  "H. 96, W. 66 inches",
+  "(243.8 x 167.6 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Purchase, Louis and Bessie Adler Foundation, Inc. Gift, 1986 (Seymour M. Klein, President)",
+ "Accession Number": "1986.225",
+ "Who": "Doug Anderson",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings",
+  "Plastic",
+  "Acrylic"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210004639,
+ "related-artworks": [
+  210004573,
+  210006517,
+  210001005,
+  210001331,
+  210002321
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210004639"
+  }
+ }
+}

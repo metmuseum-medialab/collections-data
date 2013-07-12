@@ -1,0 +1,47 @@
+{
+ "Period": "Late Minoan I-II",
+ "Date": "ca. 1600–1400 B.C.",
+ "Culture": "Minoan",
+ "Medium": "Carnelian",
+ "Dimensions": "Diameter 1.63 cm",
+ "Classification": "Gems",
+ "Credit Line": "Bequest of Richard B. Seager, 1926",
+ "Accession Number": "26.31.278",
+ "What": [
+  "Chalcedony",
+  "Seals",
+  "Gems",
+  "Carnelian"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades",
+  "Minoa"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130012717,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP141983.jpg",
+ "related-artworks": [
+  130009356,
+  130012688,
+  130012588,
+  130012589,
+  130012600
+ ],
+ "Description": "Lion wounded with arrow",
+ "Provenance": [
+  "Until 1925, collection of Richard Berry Seager",
+  "acquired in 1926, bequest of Richard Berry Seager."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130012717"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "1525–76",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 6 7/8 x 4 5/8 in. (17.5 x 11.7 cm)",
+ "Classification": "Prints",
+ "Accession Number": "56.644.17",
+ "Who": "Lambert Suavius",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90067642,
+ "related-artworks": [
+  90003282,
+  90028108,
+  90058456,
+  90067640,
+  90067644
+ ],
+ "Provenance": [
+  "Vendor: Holman's Print Shop"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90067642"
+  }
+ }
+}

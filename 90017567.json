@@ -1,0 +1,34 @@
+{
+ "Publisher": "Published by Pierre Lafitte (French)",
+ "Date": "April 1920",
+ "Dimensions": "Overall 8 x 8 x 2 in. (20.3 x 20.3 x 5.1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Mrs. Edwin De T. Bechtel, 1961",
+ "Accession Number": "61.538.10.1-.2",
+ "Who": [
+  "Jean-Louis Forain",
+  "Pierre Lafitte"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017567,
+ "related-artworks": [
+  90024089,
+  90010253,
+  210003521,
+  90002594,
+  90013084
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017567"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1928",
+ "Medium": "Wood engraving and lithography",
+ "Dimensions": "6 7/8 x 4 15/16 in. (17.5 x 12.6 cm)",
+ "Classification": "Books",
+ "Credit Line": "Museum Accession, 1962",
+ "Accession Number": "62.502",
+ "Who": "Hammacher, Schlemmer & Co.",
+ "What": [
+  "Prints",
+  "Engraving",
+  "Planographic prints",
+  "Lithographs",
+  "Books",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90019084,
+ "related-artworks": [
+  90019083,
+  90022188,
+  90069768,
+  90012603
+ ],
+ "Provenance": [
+  "Donor: Museum Accession 1962"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90019084"
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "Date": "1889",
+ "Medium": "Albumen photograph",
+ "Dimensions": "sheet 2 11/16 x 1 3/8 in. (6.9 x 3.5 cm)",
+ "Classification": "Photographs",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 215, N172.1624",
+ "Who": "Goodwin & Company",
+ "What": [
+  "Photographs",
+  "Albumen",
+  "Baseball cards"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "id": 90078851,
+ "related-artworks": [
+  90072116,
+  90072114,
+  90072120,
+  90072121,
+  90072124
+ ],
+ "Description": "The \"Old Judge\" series of baseball cards (N172) was issued by Goodwin & Company from 1887 to 1890 to promote Old Judge Cigarettes.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90078851"
+  }
+ }
+}

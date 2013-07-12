@@ -1,0 +1,64 @@
+{
+ "Date": "ca. 10th century",
+ "Culture": "India (Gujarat)",
+ "Medium": "Copper alloy",
+ "Dimensions": "H. 9 7/16 in. (24 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Vijay K. Anand, M.D., Nanda Anand, Maya Anand, and Rohit Anand, 2011",
+ "Accession Number": "2011.501",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Copper",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Gujarat"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia South, 500–1000 A.D.",
+  "South Asia South, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60051141,
+ "gallery-id": 237,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2011_501_F_sf.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/as/original/2011_501_F_sf.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/2011_501_Strm1_01.JPG",
+  "http://images.metmuseum.org/CRDImages/as/original/2011_501_B_sf.jpg"
+ ],
+ "Provenance": [
+  "Acquired by Simon Digby (b. 1932–d.2010) prior to 1985",
+  "Digby collection sold after Digby's death by John Siudmak ."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60048796"
+   },
+   {
+    "href": "http://scrapi.org/object/60006417"
+   },
+   {
+    "href": "http://scrapi.org/object/60005533"
+   },
+   {
+    "href": "http://scrapi.org/object/60006418"
+   },
+   {
+    "href": "http://scrapi.org/object/60005901"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60051141"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60051141"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Date": "second quarter 19th century",
+ "Culture": "French (Lyons)",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 49 x W. 12 1/4 inches (124.5 x 31.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1940",
+ "Accession Number": "40.134.22",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Borders",
+  "Vestments"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Rhône",
+  "Lyon"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044204,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SC30478.jpg",
+ "related-artworks": [
+  120039814,
+  120044202,
+  120044203,
+  120044064,
+  120039817
+ ],
+ "Provenance": [
+  "Estate of Herman A. Elsberg , New York, 1940",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044204"
+  }
+ }
+}

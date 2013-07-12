@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1800",
+ "Culture": "Japanese",
+ "Classification": "Sword Furniture",
+ "Credit Line": "The Howard Mansfield Collection, Gift of Howard Mansfield, 1936",
+ "Accession Number": "36.120.309",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40008118,
+ "related-artworks": [
+  40000105,
+  40002845,
+  40002892,
+  40004688,
+  40008041
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40008118"
+  }
+ }
+}

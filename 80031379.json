@@ -1,0 +1,36 @@
+{
+ "Date": "1863–67",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "Length (at top) 8 1/4 in. (21 cm)",
+ "Credit Line": "Gift of Mrs. R. Houghton Trott, 1954",
+ "Accession Number": "C.I.54.44.13",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Bonnets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80031379,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI54.44.13_S.jpg",
+ "related-artworks": [
+  80044481,
+  80049498,
+  80049721,
+  80106501,
+  80108060
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80031379"
+  }
+ }
+}

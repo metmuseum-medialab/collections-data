@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "Culture": "China",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1941",
+ "Accession Number": "CP340",
+ "Who": "Huang Jinbao",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "id": 60035103,
+ "related-artworks": [
+  60034722,
+  60034727,
+  60034756,
+  60034755,
+  60034761
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60035103"
+  }
+ }
+}

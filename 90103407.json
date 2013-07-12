@@ -1,0 +1,38 @@
+{
+ "Date": "16th century",
+ "Medium": "Engraving; first state of two (New Hollstein)",
+ "Dimensions": "Sheet 3 11/16 × 2 5/8 in. (9.4 × 6.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Henry Walters, 1917",
+ "Accession Number": "17.37.119",
+ "Who": "Heinrich Aldegrever",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90103407,
+ "related-artworks": [
+  90003262,
+  90027973,
+  90032752,
+  90073866,
+  90104152
+ ],
+ "Description": "Eve, standing before a stag, holds up the apple in her left hand and gestures with her right. Her head is shown in profile, directed towards the serpent on a branch at the upper left.",
+ "Provenance": [
+  "Donor: Henry Walters"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90103407"
+  }
+ }
+}

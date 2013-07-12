@@ -1,0 +1,43 @@
+{
+ "Date": "later 1770s",
+ "Medium": "Oil on canvas",
+ "Dimensions": "Oval, 31 3/4 x 25 in. (80.6 x 63.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Margaret V. Haggin, 1965",
+ "Accession Number": "65.226",
+ "Who": "Jean Honoré Fragonard",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110000760,
+ "gallery-id": 529,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/EP955.jpg",
+ "related-artworks": [
+  110000761,
+  110000763,
+  110000762,
+  110000767,
+  110000765
+ ],
+ "Provenance": [
+  "?de la Fare family",
+  "[Wildenstein, Paris and New York, until 1927",
+  "sold to Mrs. Haggin]",
+  "Mrs. James B. Haggin, New York (1927–d. 1965)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110000760"
+  }
+ }
+}

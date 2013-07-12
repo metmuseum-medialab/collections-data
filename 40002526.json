@@ -1,0 +1,42 @@
+{
+ "Date": "18th century",
+ "Culture": "Indian",
+ "Medium": "Steel, gold",
+ "Dimensions": "Length, 19 in. (48.26 cm)",
+ "Classification": "Daggers",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.696",
+ "What": [
+  "Metal",
+  "Gold",
+  "Arms",
+  "Iron and iron alloy",
+  "Edged weapons",
+  "Iron alloy",
+  "Steel",
+  "Daggers"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "South Asia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40002526,
+ "gallery-id": 379,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/sfma36.25.696_108246.jpg",
+ "related-artworks": [
+  40001079,
+  40001080,
+  40002522,
+  40002523,
+  40010264
+ ],
+ "Description": "The watered steel blade has a chiseled medallion at the top of both sides decorated with an inscription that reads: \"Help from Allah and a speedy victory. So give the glad tidings to the believers\" (Koran 61:13).",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40002526"
+  }
+ }
+}

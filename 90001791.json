@@ -1,0 +1,36 @@
+{
+ "Former Attribution": "Formerly attributed to Anonymous, German, 19th century",
+ "Date": "18th century (?)",
+ "Medium": "Black chalk",
+ "Dimensions": "Oval 11 3/4 x 9 3/8 in.  (29.8 x 23.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Cephas G. Thompson, 1887",
+ "Accession Number": "87.12.128",
+ "Who": [
+  "Anonymous, German, 19th century",
+  "Anonymous, German, 18th century"
+ ],
+ "What": [
+  "Drawings",
+  "Chalk"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90001791,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804117.jpg",
+ "related-artworks": [
+  90001792,
+  90002743,
+  90002750,
+  90003896,
+  90056929
+ ],
+ "Provenance": [
+  "Donor: Cephas G. Thompson (American, 1809–1888)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90001791"
+  }
+ }
+}

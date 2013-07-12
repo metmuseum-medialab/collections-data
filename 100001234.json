@@ -1,0 +1,44 @@
+{
+ "Period": "Macedonian-Ptolemaic Period",
+ "Date": "332–30 B.C.",
+ "Geography": "Country of Origin Egypt, Northern Upper Egypt, Qena (Quina, Kena; Kainepolis)",
+ "Medium": "Glassy faience",
+ "Dimensions": "h. 11 cm (4 5/16 in); w. 3.3 cm (1 5/16 in); d. 4.8 cm (1 7/8 in)",
+ "Credit Line": "Purchase, Edward S. Harkness Gift, 1926",
+ "Accession Number": "26.7.1193",
+ "What": [
+  "Sculpture",
+  "Faience",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Qena"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100001234,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DP243443.jpg",
+ "related-artworks": [
+  100012160,
+  100028889,
+  100006203,
+  100010118,
+  100001249
+ ],
+ "Description": "This beautifully crafted statue represents the classic form of the hippopotamus goddess Taweret, guardian of women, particularly in pregnancy and childbirth. It could have been given as a gift to a pregnant women or presented in a temple to invoke Taweret's aid in a successful birth. The figure's pendant breasts are those of a human female, and her protruding belly is that of a pregnant woman. In front of her she holds the hieroglyphic symbol for \"protection,\" an explicit statement of her role in Egyptian life. The tang on her head may have once secured a headdress.",
+ "Provenance": [
+  "Carnarvon Collection, purchased in Cairo at some time before 1923. Carnarvon Collection until 1926. Purchased by the Metropolitan Museum of Art from Almina, Countess of Carnarvon, 1926."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100001234"
+  }
+ }
+}

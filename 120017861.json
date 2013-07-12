@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1750–60",
+ "Culture": "Chinese",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "Diam. 11 3/16 in. (28.4 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Elizabeth Hazard and Marion H. McVitty, in memory of their mother, Mrs. Lauriston H. Hazard, 1960",
+ "Accession Number": "60.111.15",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120017861,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/171538.jpg",
+ "related-artworks": [
+  120000093,
+  120000097,
+  120013554,
+  120014988,
+  120014989
+ ],
+ "Provenance": [
+  "Elizabeth Hazard",
+  "and Marion H. McVitty (until 1960",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120017861"
+  }
+ }
+}

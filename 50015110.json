@@ -1,0 +1,43 @@
+{
+ "Date": "early 20th century",
+ "Geography": "Ghana",
+ "Culture": "Akan peoples, Asante group",
+ "Medium": "Silk and cotton",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase, Mariana and Ray Herrmann Gift, 2010",
+ "Accession Number": "2010.557",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Cotton",
+  "Cloth"
+ ],
+ "Where": [
+  "Africa",
+  "Ghana"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Guinea Coast, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50015110,
+ "gallery-id": 350,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DP246631.jpg",
+ "related-artworks": [
+  50015108,
+  50011021,
+  50005022,
+  50015109,
+  50010715
+ ],
+ "Description": "Brilliantly colored and elaborately woven textiles known as kente are worn by individuals of distinction throughout the Asante society. Monumental kente wrappers are created from a long and narrow loom-woven cloth that is cut at specific intervals. These are sewn together to form a large panel composed of as many as twenty-four bands. The intricate designs characteristic of these textiles are individually named and may be reserved for the exclusive use of the king or other high-ranking officials. All plain woven textiles consist of two sets of yarns: the warp and weft. The warps are the elements under tension on the loom, which the weaver interlace with the wefts. In this example, a clever and rare technique creates the multiple white serpentine motifs that travel across the cloth in the horizontal and vertical directions. The indigo warps have been supplemented by an additional set of separately tensioned white yarns. These transition to wefts and back again to warps forming the undulating white pattern along the width of the cloth. This particular pattern gave its name, nkontompo ntama, (the liar's cloth) to this wrapper. According to Robert Sutherland Rattray, the author of an early monograph on Asante society, \"the King of Ashanti is said to have worn [it] when holding court, to confuse persons of doubtful veracity who came before him.\"",
+ "Provenance": [
+  "British private collection, acquired 1970s",
+  "[Duncan Clarke, London, until 2010]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50015110"
+  }
+ }
+}

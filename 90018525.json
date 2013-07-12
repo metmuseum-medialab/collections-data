@@ -1,0 +1,46 @@
+{
+ "Publisher": "Published by Jean I Leblond (French, died Paris, 1666 )",
+ "Date": "1632–33",
+ "Medium": "Etching; first state of two (Duplessis)",
+ "Dimensions": [
+  "sheet 11 x 14 1/2 in. (28 x 36.8 cm)",
+  "plate 10 1/16 x 13 3/16 in. (25.5 x 33.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "26.49.60",
+ "Who": [
+  "Abraham Bosse",
+  "Jean I Leblond"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018525,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818276.jpg",
+ "related-artworks": [
+  90015712,
+  90018505,
+  90018526,
+  90018507,
+  90018508
+ ],
+ "Provenance": [
+  "Fritz Rumpf (German, Potsdam, 1856–1927)",
+  "Vendor: Francisque Lefrançois, Paris"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90018525"
+  }
+ }
+}

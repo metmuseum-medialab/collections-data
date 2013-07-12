@@ -1,0 +1,52 @@
+{
+ "Date": "ca. 1740",
+ "Geography": "New England, Boston, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": [
+  "Overall 4 3/8 x 5 5/16 in. (11.1 x 13.5 cm); 9 oz. 9 dwt. (294.2 g)",
+  "Lip Diam. 3 3/8 in. (8.6 cm)",
+  "Base Diam. 3 15/16 in. (10 cm)"
+ ],
+ "Classification": "Silver",
+ "Credit Line": "Bequest of Alphonso T. Clearwater, 1933",
+ "Accession Number": "33.120.290",
+ "What": [
+  "Metal",
+  "Silver",
+  "Drinking vessels",
+  "Cups",
+  "Mugs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Boston"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005443,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP107235.jpg",
+ "related-artworks": [
+  10005807,
+  10005493,
+  10001441,
+  10002414,
+  10001529
+ ],
+ "Provenance": [
+  "The West Church in Lynd Street, Boston",
+  "with Francis H. Bigelow, Cambridge, MA",
+  "sold to Alphonso T. Clearwater, 1913",
+  "bequest to The Metropolitan Museum of Art, 1933."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005443"
+  }
+ }
+}

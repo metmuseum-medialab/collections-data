@@ -1,0 +1,42 @@
+{
+ "Publisher": "Robert Laurie & James Whittle (London)",
+ "Date": "1794",
+ "Medium": "plates engraved",
+ "Dimensions": "Overall 9 7/16 x 10 13/16 x 1/4 in. (24 x 27.5 x 0.6 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.638.31(1-1-25)",
+ "Who": [
+  "Robert Laurie & James Whittle",
+  "John Russell"
+ ],
+ "What": [
+  "Engraving",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Eighteenth–Century Pastel Portrait",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90024444,
+ "related-artworks": [
+  110002032,
+  110002036,
+  90067147,
+  110002034,
+  110002035
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024444"
+  }
+ }
+}

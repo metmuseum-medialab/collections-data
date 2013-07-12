@@ -1,0 +1,59 @@
+{
+ "Date": "1771",
+ "Culture": "Flemish (Mons)",
+ "Medium": "Silver, wood",
+ "Dimensions": "H.  13 1/2 in.  (34.3 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1923",
+ "Accession Number": "23.67.18",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Wood",
+  "Coffeepots"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009753,
+ "gallery-id": 551,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES7944.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/ES7944.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/52331.jpg"
+ ],
+ "Provenance": [
+  "Carl Robert Lamm (until 1923; sale, American Art Association, New York, February 21–24, 1923, no. 669)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120056216"
+   },
+   {
+    "href": "http://scrapi.org/object/120001627"
+   },
+   {
+    "href": "http://scrapi.org/object/120002484"
+   },
+   {
+    "href": "http://scrapi.org/object/120015247"
+   },
+   {
+    "href": "http://scrapi.org/object/120020841"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120009753"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120009753"
+  }
+ }
+}

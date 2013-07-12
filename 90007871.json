@@ -1,0 +1,40 @@
+{
+ "Date": "1625–1713",
+ "Medium": "Red chalk on blue paper",
+ "Dimensions": "7-15/16 x 6-7/16 in.  (20.2 x 16.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1963",
+ "Accession Number": "63.98.2",
+ "Who": "Carlo Maratti",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90007871,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP810445.jpg",
+ "related-artworks": [
+  90007864,
+  90007865,
+  90007890,
+  90007867,
+  90007891
+ ],
+ "Provenance": [
+  "Collection of Earls Spencer (Althorp)",
+  "T. Philipe (London), June 10–17, 1811, part of 454.",
+  "W. R. Jeudwine (London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90007871"
+  }
+ }
+}

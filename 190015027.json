@@ -1,0 +1,34 @@
+{
+ "Date": "1850s",
+ "Classification": "Books",
+ "Credit Line": "Robert O. Dougan Collection, Gift of Warner Communications Inc., 1981",
+ "Accession Number": "1981.1229.71",
+ "Who": "William Despard Hemphill",
+ "What": [
+  "Photographs",
+  "Books",
+  "Stereographs"
+ ],
+ "Where": [
+  "Europe",
+  "Republic of Ireland"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 190015027,
+ "related-artworks": [
+  190012106,
+  190012537,
+  190020890,
+  190021400
+ ],
+ "Provenance": [
+  "Robert O. Dougan"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190015027"
+  }
+ }
+}

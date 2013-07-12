@@ -1,0 +1,41 @@
+{
+ "Date": "spring/summer 2001",
+ "Culture": "American",
+ "Medium": "a, b) wool; plastic; b) silk/cotton blend; c) wool, silk",
+ "Dimensions": [
+  "Length at CB (a) 27 in. (68.6 cm)",
+  "Length at CB (b) 19 in. (48.3 cm)",
+  "Length at CB (c) 23 in. (58.4 cm)"
+ ],
+ "Credit Line": "Gift of Mercedes T. Bass, 2005",
+ "Accession Number": "2005.497.15a–c",
+ "Who": "Ralph Rucci",
+ "What": [
+  "Silk",
+  "Cotton",
+  "Wool",
+  "Ensembles",
+  "Plastic"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80062976,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2005.497.15a-c_F.jpg",
+ "related-artworks": [
+  80062977,
+  80062978,
+  80074728,
+  80058138,
+  80058136
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80062976"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "Date": "1859",
+ "Medium": "Gilt bronze",
+ "Dimensions": "Diam. 1 1/4 in. (3.2 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of William H. Huntington, 1883",
+ "Accession Number": "83.2.33",
+ "What": [
+  "Metal",
+  "Medals",
+  "Plate",
+  "Ormolu"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10008988,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/25366.jpg",
+ "related-artworks": [
+  10005234,
+  10005236,
+  10005082,
+  10005237,
+  10005238
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10008988"
+  }
+ }
+}

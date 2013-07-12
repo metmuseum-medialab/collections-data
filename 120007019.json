@@ -1,0 +1,57 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian, Venice (Murano)",
+ "Medium": "Glass, yellowish tint",
+ "Dimensions": "H. 7 3/8 in.  (18.7 cm); Diam. 7 3/8 in. (18.7 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.158.11",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Drinking glasses",
+  "Wine glasses"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120007019,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/18929.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120000279",
+  "http://scrapi.org/object/120000512",
+  "http://scrapi.org/object/120001564",
+  "http://scrapi.org/object/120000231",
+  "http://scrapi.org/object/120000264"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000279"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000512"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120001564"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000231"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000264"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120007019"
+  }
+ }
+}

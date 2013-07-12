@@ -1,0 +1,39 @@
+{
+ "Medium": "etching",
+ "Dimensions": "sheet 8 11/16 x 5 7/8 in. (22 x 15 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1937",
+ "Accession Number": "37.35.2",
+ "Who": "Guido Reni",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Domenichino (Domenico Zampieri) (1581–1641)",
+  "The Printed Image in the West History and Techniques",
+  "Lovers in Italian Mythological Prints",
+  "Gardens of Western Europe, 1600–1800",
+  "Art of the Seventeenth and Eighteenth Centuries in Naples",
+  "Poets, Lovers, and Heroes in Italian Mythological Prints"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90071751,
+ "related-artworks": [
+  90039571,
+  90071725,
+  90071726,
+  90071733,
+  90071735
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90071751"
+  }
+ }
+}

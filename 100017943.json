@@ -1,0 +1,39 @@
+{
+ "Period": "Late Period",
+ "Dynasty": "Dynasty 25–30",
+ "Date": "ca. 712–332 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Sheikh Abd el-Qurna, Tomb of Dagi (MMA 807), MMA",
+ "Medium": "Faience",
+ "Dimensions": "L. 2 cm",
+ "Credit Line": "Rogers Fund, 1928",
+ "Accession Number": "28.3.159",
+ "What": [
+  "Faience",
+  "Amulets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100017943,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs28.3.158.jpg",
+ "related-artworks": [
+  100008656,
+  100010052,
+  100010053,
+  100010054,
+  100012518
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100017943"
+  }
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "Printer": "Printed by Jacques Frélaut (French)",
+ "Publisher": "Published by Galerie Louise Leiris (Paris)",
+ "Date": "1934, printed 1961",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 9 3/8 x 11 3/4 in. (23.8 x 29.8 cm)",
+  "sheet 14 x 20 in. (35.6 x 50.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Reiss-Cohen Inc., 1983",
+ "Accession Number": "1983.1212.28",
+ "Rights and Reproduction": "©2010 Estate of Pablo Picasso/Artists Rights Society (ARS), New York",
+ "Who": [
+  "Pablo Picasso",
+  "Galerie Louise Leiris",
+  "Jacques Frélaut"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Lure of Montmartre, 1880–1900",
+  "African Influences in Modern Art",
+  "Pablo Picasso (1881–1973)",
+  "Symbolism",
+  "School of Paris",
+  "Surrealism",
+  "Paul Klee (1879–1940)",
+  "Cubism",
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "Geometric Abstraction",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90042444,
+ "Description": "The corrida, or bullfight, played a major role in Picasso's life and work.  He appreciated its rich cultural association with Spain and accorded the subject a key place in his personal iconography, particularly in his prints.  This image of a limp female bullfighter lying over the back of a disembowled horse is one of five that Picasso made in June 1934.  It would be reworked to become the central component of his greatest print, The Minotauromachy of 1935.",
+ "Provenance": [
+  "Donor: Reiss-Cohen Inc."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90012705"
+   },
+   {
+    "href": "http://scrapi.org/object/90028194"
+   },
+   {
+    "href": "http://scrapi.org/object/90042381"
+   },
+   {
+    "href": "http://scrapi.org/object/90042384"
+   },
+   {
+    "href": "http://scrapi.org/object/90042400"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90042444"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90042444"
+  }
+ }
+}

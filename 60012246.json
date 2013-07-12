@@ -1,0 +1,42 @@
+{
+ "Date": "17th century",
+ "Culture": "China",
+ "Medium": "Silk and gold-wrapped silk",
+ "Dimensions": "75 x 92 in. (190.5 x 233.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "William McCarty-Cooper Gift, 1989",
+ "Accession Number": "1989.206",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Gold",
+  "Needlework",
+  "Embroidery",
+  "Panels"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60012246,
+ "related-artworks": [
+  60006765,
+  60043412,
+  60043460,
+  60044373,
+  60024784
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60012246"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Period": "Solanki period",
+ "Date": "first half of the 11th century",
+ "Culture": "India (Gujarat or Rajasthan)",
+ "Medium": "Marble",
+ "Dimensions": "H. 39 in. (99 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Florence and Herbert Irving Gift, 1992",
+ "Accession Number": "1992.131",
+ "What": [
+  "Sculpture",
+  "Figures",
+  "Marble"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Gujarat"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia North, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005533,
+ "gallery-id": 241,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DT5161.jpg",
+ "related-artworks": [
+  60048796,
+  60051141,
+  60005092,
+  60004776,
+  60006490
+ ],
+ "Description": "At the heart of daily Jain religious observance is the veneration of the image of the jina, the conceptual basis of which is the pan-Indian ideal of the yogic ascetic. This ancient practice, celebrated in the Vedas (the most ancient Hindu texts), equates the acquisition of spiritual wisdom with the pursuit of advanced forms of meditation and withdrawal from material comforts. In Jainism, the twenty-four liberated souls who are recognized as having attained this elevated state are worshipped as tirthankaras (ford crossers). This jina-tirthankara, seated on a bejeweled throne cushion, was probably intended to represent Mahavira, the historical founder of Jainism, a near contemporary of the Buddha Shakyamuni in the fifth century B.C.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005533"
+  }
+ }
+}

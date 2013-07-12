@@ -1,0 +1,42 @@
+{
+ "Artist": "After Thomas Stothard (British, London 1755–1834 London)",
+ "Date": "1796",
+ "Medium": "Etching and engraving",
+ "Dimensions": "sheet 8 5/8 x 5 3/16 in. (21.9 x 13.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.402",
+ "Who": [
+  "Francesco Bartolozzi",
+  "Thomas Stothard"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90050434,
+ "related-artworks": [
+  90027966,
+  90050122,
+  90050124,
+  90050129,
+  90050132
+ ],
+ "Provenance": [
+  "Donor: Harris Brisbane Dick Fund"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050434"
+  }
+ }
+}

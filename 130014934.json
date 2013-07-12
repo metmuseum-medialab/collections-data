@@ -1,0 +1,41 @@
+{
+ "Period": "Late Hellenistic or Imperial",
+ "Date": "ca. 1st century B.C.-2nd century A.D.",
+ "Culture": "Greek or Roman",
+ "Medium": "Bronze",
+ "Dimensions": "L. 4 1/2 in. (11.5 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Rogers Fund, 1941",
+ "Accession Number": "41.162.269",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Pins"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Italian Peninsula, 1–500A.D.",
+  "Italian Peninsula, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130014934,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP20785.jpg",
+ "related-artworks": [
+  130004843,
+  130004912,
+  130009499,
+  130009506,
+  130016521
+ ],
+ "Description": "The head of the pin is in the form of Aphrodite Anadyomene standing on a Corinthian capital.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130014934"
+  }
+ }
+}

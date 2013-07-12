@@ -1,0 +1,52 @@
+{
+ "Period": "Archaic",
+ "Date": "primarily 7th century B.C.",
+ "Culture": "Etruscan",
+ "Medium": "Amber",
+ "Dimensions": "Other 7 1/16 in. (18 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Purchase, Renée E. and Robert A. Belfer, Patti Cadby Birch and The Joseph Rosen Foundation Inc. Gifts, and Harris Brisbane Dick Fund, 1992",
+ "Accession Number": "1992.11.52",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Necklaces",
+  "Resin",
+  "Amber"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130016619,
+ "gallery-id": 170,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130016570"
+   },
+   {
+    "href": "http://scrapi.org/object/130016621"
+   },
+   {
+    "href": "http://scrapi.org/object/130018352"
+   },
+   {
+    "href": "http://scrapi.org/object/130006333"
+   },
+   {
+    "href": "http://scrapi.org/object/130009256"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130016619"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130016619"
+  }
+ }
+}

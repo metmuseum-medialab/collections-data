@@ -1,0 +1,45 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Geography": "Indonesia, Lesser Sunda Islands, East Nusa Tenggara",
+ "Culture": "Sumba",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "Overall 52 x 106 in. (132.08 x 269.24 cm)",
+  "Other 52 in. (132.08 cm)"
+ ],
+ "Classification": "Textiles-Woven",
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.87.9",
+ "Who": "Sumba",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Woven",
+  "Cloth"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Nusa Tenggara"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50000569,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/VZS30.87.9A.JPG",
+ "related-artworks": [
+  50000568,
+  50000570,
+  50002289,
+  50002291,
+  50002290
+ ],
+ "Provenance": [
+  "[Aaron Vecht, Amsterdam, until 1930]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000569"
+  }
+ }
+}

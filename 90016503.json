@@ -1,0 +1,33 @@
+{
+ "Lithographer": "Lithographed and printed by Thierry Frères",
+ "Date": "ca. 1830–40",
+ "Medium": "lithography",
+ "Dimensions": "Overall 11 x 8 11/16 x 13/16 in. (28 x 22 x 2 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.67.1",
+ "Who": [
+  "Thierry Frères",
+  "J. J. Ducel Fils"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90016503,
+ "related-artworks": [
+  90012099,
+  90016502,
+  90021963
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90016503"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "early to mid-16th century",
+ "Medium": "Dark brown ink, black chalk, and incised lines",
+ "Dimensions": "sheet 14 5/8 x 10 15/16 in. (37.2 x 27.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Rogers Fund, Joseph Pulitzer Bequest, and Mark J. Millard Gift, 1968",
+ "Accession Number": "68.769.25",
+ "Who": "Anonymous, French, 16th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90033143,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP810813.jpg",
+ "related-artworks": [
+  90007019,
+  90016593,
+  90020660,
+  90023996,
+  90028550
+ ],
+ "Provenance": [
+  "Edmond Lechevallier-Chevignard (French, 1825–1902), before 1902",
+  "Georges-Paul Chedanne (French, 1861–1940), 1902-1940",
+  "Bloudelet, before 1968",
+  "Vendor: Lucien Goldschmidt"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90033143"
+  }
+ }
+}

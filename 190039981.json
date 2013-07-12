@@ -1,0 +1,38 @@
+{
+ "Date": "1861",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "Image 41.5 x 59.6; Mount: 53.4 x 67",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Museum Purchase, 2005",
+ "Accession Number": "2005.100.1273",
+ "Who": "Carleton E. Watkins",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 190039981,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP205168.jpg",
+ "related-artworks": [
+  190011345,
+  190011430,
+  190011431,
+  190011432,
+  190011433
+ ],
+ "Provenance": [
+  "[Rinhart Galleries, New York]",
+  "Gilman Paper Company Collection, New York, July 19, 1985"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190039981"
+  }
+ }
+}

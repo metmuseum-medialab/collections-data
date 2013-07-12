@@ -1,0 +1,64 @@
+{
+ "Object Name": "Fragment of a bowl",
+ "Date": "9th–10th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware; reddish body, white and red slip decoration, yellow glaze",
+ "Dimensions": [
+  "H. 2 3/4 in. (7 cm)",
+  "W. 2 9/16 in. (6.5 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1940",
+ "Accession Number": "40.170.582",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Fragments",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Bowls",
+  "Slip",
+  "Slip decoration"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140007531,
+ "Provenance": [
+  "1939, excavated at Tepe Madrasa in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1940, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/140007481"
+   },
+   {
+    "href": "http://scrapi.org/object/140007571"
+   },
+   {
+    "href": "http://scrapi.org/object/140007075"
+   },
+   {
+    "href": "http://scrapi.org/object/140007265"
+   },
+   {
+    "href": "http://scrapi.org/object/140007469"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140007531"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/140007531"
+  }
+ }
+}

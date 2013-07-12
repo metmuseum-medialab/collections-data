@@ -1,0 +1,48 @@
+{
+ "Date": "1982",
+ "Medium": "Glazed ceramic",
+ "Dimensions": [
+  "H. 87-1/2, W. 20-1/2, D. 18-1/2",
+  "(222.3 x 52.1 x 47 cm.) (Left Figure) H. 86-1/4, W. 20-3/4, D. 18-1/4",
+  "(219.1 x 52.7 x 46.4 cm.) (Right",
+  "Figure)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Rena Bransten, 1991",
+ "Accession Number": "1991.281a-h",
+ "Who": "Viola Frey",
+ "What": [
+  "Ceramics",
+  "Sculpture",
+  "Glazing"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210005987,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/1991.281a-h.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210011263"
+   },
+   {
+    "href": "http://scrapi.org/object/210006516"
+   },
+   {
+    "href": "http://scrapi.org/object/210003427"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210005987"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210005987"
+  }
+ }
+}

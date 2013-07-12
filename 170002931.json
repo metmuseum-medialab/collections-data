@@ -1,0 +1,45 @@
+{
+ "Date": "15th century",
+ "Geography": "Made in Nottingham, England",
+ "Culture": "British",
+ "Medium": "Alabaster with paint and gilding",
+ "Dimensions": "Overall 15 1/4 x 10 x 2 in. (38.7 x 25.4 x 5.1 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.120.1",
+ "What": [
+  "Sculpture",
+  "Gilt",
+  "Stone",
+  "Reliefs",
+  "Gypsum",
+  "Alabaster"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Nottingham"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170002931,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf08-120-1s1.jpg",
+ "related-artworks": [
+  170003419,
+  170005973,
+  170003337,
+  170002829,
+  170003456
+ ],
+ "Provenance": [
+  "Henri S. De Souhami, Paris (until 1908)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170002931"
+  }
+ }
+}

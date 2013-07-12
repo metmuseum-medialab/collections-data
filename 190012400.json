@@ -1,0 +1,44 @@
+{
+ "Date": "1941, printed ca. 1970",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "15.3 x 23.5 cm. (6  x 9  1/4  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Arnold H. Crane, 1972",
+ "Accession Number": "1972.742.23",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": "Walker Evans",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Kodak and the Rise of Amateur Photography",
+  "Walker Evans (1903–1975)",
+  "Early Documentary Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190012400,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP102787.jpg",
+ "related-artworks": [
+  190011718,
+  190011719,
+  190011721,
+  190011722,
+  190011750
+ ],
+ "Provenance": [
+  "Arnold Crane"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190012400"
+  }
+ }
+}

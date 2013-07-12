@@ -1,0 +1,40 @@
+{
+ "Date": "19th century",
+ "Culture": "Japanese",
+ "Medium": "iron, gold, silver, copper, and shakudo",
+ "Dimensions": "3-13/16 x 9/16 in.",
+ "Classification": "Sword Furniture",
+ "Credit Line": "The Howard Mansfield Collection, Gift of Howard Mansfield, 1936",
+ "Accession Number": "36.120.327",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Arms",
+  "Iron and iron alloy",
+  "Edged weapons",
+  "Copper",
+  "Swords",
+  "Iron"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40004426,
+ "related-artworks": [
+  40004615,
+  40004304,
+  40004306,
+  40004312,
+  40004309
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40004426"
+  }
+ }
+}

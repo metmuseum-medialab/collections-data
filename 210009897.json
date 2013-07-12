@@ -1,0 +1,41 @@
+{
+ "Date": "1927",
+ "Medium": "Bronze",
+ "Dimensions": [
+  "Diam. 5-1/2 inches",
+  "(14 cm.)"
+ ],
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Albert TenEyck Gardner, 1967",
+ "Accession Number": "67.31.2",
+ "Who": "Paul Manship",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009897,
+ "related-artworks": [
+  210000785,
+  210007885,
+  210007952,
+  210000862,
+  210007909
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009897"
+  }
+ }
+}

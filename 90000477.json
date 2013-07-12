@@ -1,0 +1,47 @@
+{
+ "Designer": "Jean-Etienne Frédéric Giniez (French)",
+ "Lithographer": "Lemercier (Paris)",
+ "Date": "1853",
+ "Medium": "Chromolithography",
+ "Dimensions": "Overall 9 1/2 x 7 1/2 x 11/16 in. (24.2 x 19.1 x 1.8 cm)",
+ "Classification": "Portfolios",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 196",
+ "Accession Number": "61.594.3",
+ "Who": [
+  "Lemercier",
+  "Chance Brothers & Co.",
+  "Jean-Etienne Frédéric Giniez"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs",
+  "Portfolios",
+  "Chromolithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90000477,
+ "related-artworks": [
+  90012067,
+  90026302,
+  90011990,
+  90056429,
+  90002349
+ ],
+ "Provenance": [
+  "Vendor: Timothy Trace"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90000477"
+  }
+ }
+}

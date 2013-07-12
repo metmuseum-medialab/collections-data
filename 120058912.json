@@ -1,0 +1,34 @@
+{
+ "Date": "Modern",
+ "Culture": "British",
+ "Classification": "Woodwork",
+ "Accession Number": "58.75.18DUP",
+ "What": [
+  "Furniture",
+  "Woodwork",
+  "Seating furniture",
+  "Chairs",
+  "Armchairs"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "id": 120058912,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF58_75_18dup.jpg",
+ "related-artworks": [
+  120058911,
+  120006098,
+  120019298,
+  120019320,
+  120019303
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120058912"
+  }
+ }
+}

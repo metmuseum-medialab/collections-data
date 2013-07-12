@@ -1,0 +1,29 @@
+{
+ "Date": "1896",
+ "Culture": "American",
+ "Classification": "(not assigned)",
+ "Credit Line": "Anonymous Gift, 1991",
+ "Accession Number": "1991.1156",
+ "What": "Pamphlets",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 10025409,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/b1779841_012.jpg",
+ "related-artworks": [
+  10018833,
+  10019585,
+  10000002,
+  10000034,
+  10000035
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10025409"
+  }
+ }
+}

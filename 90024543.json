@@ -1,0 +1,33 @@
+{
+ "Illustrator": "Cover and illustrations made by Juan Gris (Spanish, Madrid 1887–1927 Boulogne-sur-Seine)",
+ "Date": "1906",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1966",
+ "Accession Number": "66.558.19",
+ "Who": [
+  "Juan Gris",
+  "Jose Santos Chocano"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024543,
+ "related-artworks": [
+  90018125,
+  90023982,
+  90024096,
+  90026826,
+  90014678
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024543"
+  }
+ }
+}

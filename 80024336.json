@@ -1,0 +1,44 @@
+{
+ "Designer": "(b, c) Roger Vivier (French, 1913–1998)",
+ "Date": "1966",
+ "Culture": "French",
+ "Medium": "silk, fur",
+ "Dimensions": [
+  "Length at CB (a) 54 in. (137.2 cm)",
+  "Length (b, c) 9 1/2 in. (24.1 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. Charles B. Wrightsman, 1969",
+ "Accession Number": "C.I.69.20.2a–d",
+ "Who": [
+  "Roger Vivier",
+  "Hubert de Givenchy",
+  "House of Givenchy"
+ ],
+ "What": [
+  "Silk",
+  "Hair",
+  "Fur"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80024336,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI69.20.2a_F.jpg",
+ "related-artworks": [
+  80024416,
+  80024417,
+  80003731,
+  80005626,
+  80024464
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80024336"
+  }
+ }
+}

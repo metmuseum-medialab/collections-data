@@ -1,0 +1,34 @@
+{
+ "Date": "1860s",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "(no dimensions available)",
+ "Credit Line": "Gift of Professor Talbot Hamlin, 1954",
+ "Accession Number": "C.I.X.54.10.23a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80027148,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.X.54.10.23ab_F.jpg",
+ "related-artworks": [
+  80001060,
+  80001238,
+  80001241,
+  80002105,
+  80002276
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80027148"
+  }
+ }
+}

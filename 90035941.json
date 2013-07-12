@@ -1,0 +1,36 @@
+{
+ "Date": "1913",
+ "Medium": "Etching",
+ "Dimensions": "image 7 5/8 x 6 1/2 in. (19.4 x 16.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Phyllis Brevoort Eby, 1962",
+ "Accession Number": "62.554.65",
+ "Who": "Kerr Eby",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90035941,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/71AA_E6_332R4M.jpg",
+ "related-artworks": [
+  90007692,
+  90021686,
+  90000808
+ ],
+ "Provenance": [
+  "Donor: Phyllis Brevoort Eby"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90035941"
+  }
+ }
+}

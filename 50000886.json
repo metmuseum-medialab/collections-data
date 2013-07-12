@@ -1,0 +1,46 @@
+{
+ "Date": "7th–5th century BCE",
+ "Geography": "Peru",
+ "Culture": "Paracas",
+ "Medium": "Ceramic, pigment",
+ "Dimensions": [
+  "Overall 2 1/4 in. (5.72 cm)",
+  "Other 6 3/4 in. (17.15 cm)"
+ ],
+ "Classification": "Ceramics-Containers",
+ "Credit Line": "Gift of Nathan Cummings, 1962",
+ "Accession Number": "62.266.28",
+ "Who": [
+  "Early horizon",
+  "Paracas"
+ ],
+ "What": [
+  "Ceramics",
+  "Bowls"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50000886,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/62.266.28.JPG",
+ "related-artworks": [
+  50001071,
+  50000177,
+  50000179,
+  50000428,
+  50000884
+ ],
+ "Provenance": [
+  "Nathan Cummings, Chicago, until 1962"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000886"
+  }
+ }
+}

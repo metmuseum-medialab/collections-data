@@ -1,0 +1,28 @@
+{
+ "Date": "1850s",
+ "Medium": "daguerreotype",
+ "Dimensions": "9.5 x 7 cm (3 3/4 x 2 3/4 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.737",
+ "Who": "Unknown, American",
+ "What": [
+  "Photographs",
+  "Daguerreotypes"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "id": 190037297,
+ "related-artworks": [
+  190037304,
+  190037336,
+  190017499,
+  190020482,
+  190020508
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190037297"
+  }
+ }
+}

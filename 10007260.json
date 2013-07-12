@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1830–70",
+ "Geography": "New England, Providence, Rhode Island, United States",
+ "Culture": "American",
+ "Medium": "Lacy pressed green glass",
+ "Dimensions": "2 3/16 x 3 in. (5.6 x 7.6 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Charles W. Green, in memory of Dr. Charles W. Green, 1951",
+ "Accession Number": "51.171.110",
+ "Who": "Providence Flint Glass Works",
+ "What": [
+  "Glass",
+  "Pressed glass",
+  "Lacy-pattern glass",
+  "Salts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Rhode Island",
+  "Providence"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10007260,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/153396.jpg",
+ "related-artworks": [
+  10007259,
+  10007261,
+  10000843,
+  10002570
+ ],
+ "Provenance": [
+  "Mrs. Charles W. Green, New York, until 1951"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10007260"
+  }
+ }
+}

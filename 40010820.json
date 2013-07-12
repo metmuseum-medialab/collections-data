@@ -1,0 +1,33 @@
+{
+ "Date": "19th century",
+ "Culture": "Scottish",
+ "Classification": "Knives",
+ "Credit Line": "Rogers Fund, 1931",
+ "Accession Number": "31.46",
+ "What": [
+  "Knives",
+  "Cases",
+  "Sheaths"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40010820,
+ "related-artworks": [
+  40006345,
+  40010735,
+  40006349,
+  40001138,
+  40002937
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40010820"
+  }
+ }
+}

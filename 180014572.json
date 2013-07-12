@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Geography": "Puerto Rico, United States",
+ "Culture": "United States, Puerto Rico",
+ "Dimensions": "Overall 7.6 x 26.7cm (3 x 10 1/2in.)",
+ "Classification": "Idiophone-Shaken",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2790",
+ "What": [
+  "Musical instruments",
+  "Idiophones",
+  "Rattles",
+  "Gourd"
+ ],
+ "Where": [
+  "North and Central America",
+  "Puerto Rico"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America Native Peoples, 1800–1900 A.D.",
+  "Mexico and Central America, 1800–1900 A.D."
+ ],
+ "id": 180014572,
+ "gallery-id": 683,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/206040.jpg",
+ "related-artworks": [
+  180014573,
+  180014571,
+  180014554,
+  180015400,
+  180017069
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180014572"
+  }
+ }
+}

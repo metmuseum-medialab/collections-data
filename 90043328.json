@@ -1,0 +1,60 @@
+{
+ "Artist": "After Battista Franco (Italian, Venice ca. 1510–1561 Venice)",
+ "Former Attribution": "Formerly attributed to Enea Vico (Italian, Parma 1523–1567 Ferrara)",
+ "Publisher": "Published by Philippe Thomassin (French, Troyes 1562–1622 Rome)",
+ "Dedicatee": "Dedicated to Francesco Angeloni (Terni 1559 or 1587–1652 Rome)",
+ "Date": "published ca. 1599–1622",
+ "Medium": "Engraving. Third state.",
+ "Dimensions": "plate 3 7/16 x 4 7/8 in. (8.8 x 12.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.97.401",
+ "Who": [
+  "Anonymous, Italian, 16th century",
+  "Enea Vico",
+  "Battista Franco",
+  "Philippe Thomassin",
+  "Francesco Angeloni"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1400–1600 A.D.",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90043328,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP819658.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90003992"
+   },
+   {
+    "href": "http://scrapi.org/object/90004144"
+   },
+   {
+    "href": "http://scrapi.org/object/90004147"
+   },
+   {
+    "href": "http://scrapi.org/object/90004153"
+   },
+   {
+    "href": "http://scrapi.org/object/90024946"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90043328"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90043328"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "9th–17th century",
+ "Geography": "Mali, Inland Niger Delta region",
+ "Culture": "Mali",
+ "Medium": "Copper alloy",
+ "Dimensions": "H x W x D 2 3/4 x 1 1/4 x 1 5/8in. (7 x 3.2 x 4.1cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Gift of Mr. and Mrs. Arnold Syrop, 1987",
+ "Accession Number": "1987.454.3",
+ "Who": "Malian",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Copper"
+ ],
+ "Where": [
+  "Africa",
+  "Mali",
+  "Inland Niger Delta"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Western and Central Sudan, 1600–1800 A.D.",
+  "Western Sudan, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50008564,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1987_454_3.jpg",
+ "related-artworks": [
+  50008573,
+  50008571,
+  50008569,
+  50008572,
+  50008574
+ ],
+ "Provenance": [
+  "Arnold and Joanne Syrop, New York, until 1987"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50008564"
+  }
+ }
+}

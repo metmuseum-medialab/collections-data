@@ -1,0 +1,42 @@
+{
+ "Period": "Early to Mid Imperial",
+ "Date": "late 1st–2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": "H. 5 1/2 in. (14 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Henry G. Marquand, 1881",
+ "Accession Number": "81.10.101",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130005729,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP218231.jpg",
+ "related-artworks": [
+  130000053,
+  130000078,
+  130000055,
+  130000063,
+  130000057
+ ],
+ "Description": "Colorless with greenish tinge.Tubular rim, folded out, slightly down, round, and in, forming uneven oval mouth; short cylindrical neck; sloping shoulder; cylindrical body with vertical sides; concave bottom.Intact; pinprick and a few later bubbles; patch of reddish soil encrustation on neck and underside of rim on exterior, most of interior covered with soil encrustation, weathering, and brilliant iridescence.",
+ "Provenance": [
+  "Said to be from SyriaUntil 1881, collection of Jules Charvet, Le Pecq, Île-de-France",
+  "1881, purchased from J. Charvet by Henry G. Marquand",
+  "acquired in 1881, gift of Henry G. Marquand."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130005729"
+  }
+ }
+}

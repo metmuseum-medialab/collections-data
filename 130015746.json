@@ -1,0 +1,40 @@
+{
+ "Period": "Archaic or Classical",
+ "Date": "6th–5th century B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; black-glaze",
+ "Dimensions": "H. 2 1/4 in. (5.7 cm); diameter  3 3/8 in. (8.6 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1967",
+ "Accession Number": "67.11.14",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Dishes"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130015746,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP124845.jpg",
+ "related-artworks": [
+  130007847,
+  130007878,
+  130011497,
+  130014815,
+  130014913
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130015746"
+  }
+ }
+}

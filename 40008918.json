@@ -1,0 +1,30 @@
+{
+ "Date": "18th century",
+ "Culture": "Balkan",
+ "Classification": "Firearms",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.2205",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Artillery"
+ ],
+ "Where": [
+  "Europe",
+  "Balkan Peninsula"
+ ],
+ "In the Museum": "Arms and Armor",
+ "id": 40008918,
+ "related-artworks": [
+  40005044,
+  40008956,
+  40009020,
+  40009034,
+  40007409
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40008918"
+  }
+ }
+}

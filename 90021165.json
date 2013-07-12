@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1619–26",
+ "Medium": "Woodcut",
+ "Dimensions": "Overall 10 7/8 x 7 3/8 x 9/16 in. (27.6 x 18.8 x 1.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1932",
+ "Accession Number": "32.86",
+ "Who": "Melchior Lorck",
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Denmark"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021165,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/MM38494.jpg",
+ "related-artworks": [
+  90049871,
+  90051093,
+  90058092,
+  90058093,
+  90066044
+ ],
+ "Provenance": [
+  "John Evelyn (British, 1620–1706 Wotton, Surrey)",
+  "Vendor: Davis and Orioli"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021165"
+  }
+ }
+}

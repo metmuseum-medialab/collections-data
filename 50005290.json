@@ -1,0 +1,48 @@
+{
+ "Date": "10th–16th century",
+ "Geography": "Colombia, Rio Cauca region",
+ "Culture": "Quimbaya (?)",
+ "Medium": "Gold",
+ "Dimensions": "H. 4 1/8 x W. 1 5/8 in. (10.5 x 4.1cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.499",
+ "Who": "Quimbaya",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Nose ornaments"
+ ],
+ "Where": [
+  "South America",
+  "Colombia"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Northern Andes, 1400–1600 A.D.",
+  "Northern Andes, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50005290,
+ "gallery-id": 357,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_206_499.jpg",
+ "related-artworks": [
+  50005292,
+  50012040,
+  50000358,
+  50000359,
+  50002547
+ ],
+ "Description": "This ornament is probably from the middle Cauca River valley, where the classic Quimbaya culture flourished prior to the tenth century. This culture is renowned for expertly cast, hollow gold objects made from wax models. These objects, often containers in the form of human figures, display a high degree of realism, elegance, and technical perfection (see the lime container in this gallery). After the classic period the use of sheet gold increased and ornaments became simpler.",
+ "Provenance": [
+  "[John C. Wise Ltd., New York, before 1957]",
+  "Nelson A. Rockefeller, 1957, on loan to The Museum of Primitive Art, New York, 1957–1978."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50005290"
+  }
+ }
+}

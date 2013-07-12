@@ -1,0 +1,52 @@
+{
+ "Publisher": "Tregear (London)",
+ "Date": "19th century",
+ "Medium": "Lithograph with hand coloring",
+ "Dimensions": "sheet 10 1/4 x 6 1/8 in. (26 x 15.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1967",
+ "Accession Number": "67.503.73",
+ "Who": [
+  "Dean  Munday",
+  "Tregear"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90061721,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90015862"
+   },
+   {
+    "href": "http://scrapi.org/object/90015861"
+   },
+   {
+    "href": "http://scrapi.org/object/90025557"
+   },
+   {
+    "href": "http://scrapi.org/object/90000087"
+   },
+   {
+    "href": "http://scrapi.org/object/90000089"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90061721"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90061721"
+  }
+ }
+}

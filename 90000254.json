@@ -1,0 +1,41 @@
+{
+ "Date": "1796–97",
+ "Medium": "Brush and gray wash on laid Netherlandish paper",
+ "Dimensions": "9-1/4 x 5-3/4 in.  (23.5 x 14.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1935",
+ "Accession Number": "35.103.7",
+ "Who": "Goya (Francisco de Goya y Lucientes)",
+ "What": [
+  "Drawings",
+  "Paper"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90000254,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DT236258.jpg",
+ "related-artworks": [
+  90000249,
+  90000250,
+  90000251,
+  90000252,
+  90000253
+ ],
+ "Provenance": [
+  "Javier Goya y Bayeu (Spanish)(1828)",
+  "Mariano Goya y Goicoechea (Spanish)(1854)",
+  "Federico de Madrazo y Küntz (Spanish, Rome 1815–1894 Madrid)(ca. 1855060)",
+  "Mariano Fortuny y Madrazo (Venice, 1894–1935)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90000254"
+  }
+ }
+}

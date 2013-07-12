@@ -1,0 +1,39 @@
+{
+ "Date": "1940",
+ "Culture": "American",
+ "Medium": "a) leather; b) metal",
+ "Dimensions": [
+  "Length (a) 14 in. (35.6 cm)",
+  "Width (a) 11 in. (27.9 cm)",
+  "Length 4 in. (10.2 cm)"
+ ],
+ "Credit Line": "Gift of the children of Honoria Murphy Donnelly, in her memory, 2004",
+ "Accession Number": "2004.179.4a, b",
+ "What": [
+  "Metal",
+  "Leather",
+  "Portfolios"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80028539,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2004.179.4ab.jpg",
+ "related-artworks": [
+  80000100,
+  80000101,
+  80000438,
+  80000439,
+  80000598
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80028539"
+  }
+ }
+}

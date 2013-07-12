@@ -1,0 +1,45 @@
+{
+ "Period": "Early Dynastic III",
+ "Date": "ca. 2600–2350 B.C.",
+ "Geography": "Mesopotamia",
+ "Culture": "Sumerian",
+ "Medium": "Limestone (?)",
+ "Dimensions": "1.06 x 0.5 in. (2.69 x 1.27 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Gift of Frederic Newlin Price, 1959",
+ "Accession Number": "59.209.1",
+ "Who": "Sumerian",
+ "What": [
+  "Stone",
+  "Limestone",
+  "Seals",
+  "Cylinder seals"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003611,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss59_209_1.jpg",
+ "related-artworks": [
+  30002543,
+  30003612,
+  30003614,
+  30002532,
+  30002539
+ ],
+ "Provenance": [
+  "Formerly collection of Arthur B. Davies (until d. 1928)",
+  "1928–1959, Frederic Newlin Price (Ferargil Galleries, New York) who handled the Estate of Arthur B. Davies",
+  "acquired by the Museum in 1959, gift of Frederic Newlin Price, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003611"
+  }
+ }
+}

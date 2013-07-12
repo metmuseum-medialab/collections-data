@@ -1,0 +1,33 @@
+{
+ "Date": "1817",
+ "Culture": "American",
+ "Medium": "Silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. F. Leighton Meserve, 1960",
+ "Accession Number": "2009.300.7093",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Wedding dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80115487,
+ "related-artworks": [
+  80096102,
+  80097079,
+  80097290,
+  80097357,
+  80097360
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80115487"
+  }
+ }
+}

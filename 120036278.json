@@ -1,0 +1,40 @@
+{
+ "Date": "early 18th century",
+ "Culture": "Southern Netherlandish",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 108 1/2 x W. 25 inches (275.6 x 63.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Philip S. Van Rensselaer, in memory of Mrs. Mary Tallmadge Van Rensselaer, 1909",
+ "Accession Number": "09.128.9",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036278,
+ "related-artworks": [
+  120030090,
+  120030088,
+  120030402,
+  120030523,
+  120030525
+ ],
+ "Provenance": [
+  "Mrs. Philip S. Van Rensselaer (until 1909",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036278"
+  }
+ }
+}

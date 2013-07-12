@@ -1,0 +1,40 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Culture": "Japan",
+ "Medium": "Album leaf; silk",
+ "Dimensions": "13 5/8 x 10 7/8 in. (34.6 x 27.6 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Charles Stewart Smith Collection, Gift of Mrs. Charles Stewart Smith, Charles Stewart Smith Jr., and Howard Caswell Smith, in memory of Charles Stewart Smith, 1914",
+ "Accession Number": "14.76.61.96",
+ "Who": "Seki Shūkō (?)",
+ "What": [
+  "Silk",
+  "Books",
+  "Paintings",
+  "Albums"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60025899,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP211885.jpg",
+ "related-artworks": [
+  60025857,
+  60025877,
+  60025880,
+  60025881,
+  60025886
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60025899"
+  }
+ }
+}

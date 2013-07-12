@@ -1,0 +1,46 @@
+{
+ "Editor": "A. Galkin (Russian, active 20th century)",
+ "Publisher": "Izdatel'stvo Plakat",
+ "Printer": "Izdatel'stvo Zoria",
+ "Date": "1978",
+ "Medium": "Photomechanical process",
+ "Dimensions": "Sheet 16 7/8 × 11 in. (42.9 × 28 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Museum Accession, 1981",
+ "Accession Number": "1981.1038.1(1-13)",
+ "Who": [
+  "A. Galkin",
+  "Izdatel'stvo Plakat",
+  "Izdatel'stvo Zoria",
+  "V. Koretskii"
+ ],
+ "What": "Prints",
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Anatolia and the Caucasus, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present",
+  "Eastern Europe and Scandinavia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90098846,
+ "related-artworks": [
+  90012052,
+  90016139,
+  90016986,
+  90019965,
+  90059569
+ ],
+ "Provenance": [
+  "Donor: Museum Accession"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90098846"
+  }
+ }
+}

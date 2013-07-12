@@ -1,0 +1,37 @@
+{
+ "Period": "Neolithic",
+ "Date": "7th–6th millennium B.C.",
+ "Geography": "Syria",
+ "Medium": "Limestone",
+ "Dimensions": "1.89 x 1.96 x 2.23 in. (4.8 x 4.98 x 5.66 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Gift of Sheldon and Barbara Breitbart, 1985",
+ "Accession Number": "1985.356.9",
+ "What": [
+  "Vessels",
+  "Stone",
+  "Limestone"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30005799,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/VS1985_356_9.jpg",
+ "related-artworks": [
+  30005800,
+  30005798,
+  30005801,
+  30005792,
+  30005793
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30005799"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "1898–1900",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length at CB (a) 18 in. (45.7 cm)",
+  "Length at CB (b) 50 in. (127 cm)"
+ ],
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Frederick H. Prince, Jr., 1967",
+ "Accession Number": "2009.300.907a, b",
+ "Who": "M. Davey & Company",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80097344,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/67.110.97a-b_front_CP4.jpg",
+ "related-artworks": [
+  80093539,
+  80093601,
+  80093728,
+  80093920,
+  80094421
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80097344"
+  }
+ }
+}

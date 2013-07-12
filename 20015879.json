@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1800",
+ "Medium": "Watercolor on ivory",
+ "Dimensions": "3 5/16 x 2 11/16 in. (8.4 x 6.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Dale T. Johnson Fund, 2006",
+ "Accession Number": "2006.235.67",
+ "Who": "Robert Field",
+ "What": [
+  "Paintings",
+  "Watercolors",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20015879,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DP216803.jpg",
+ "related-artworks": [
+  20011238,
+  20011239,
+  20011235,
+  20011240,
+  20011236
+ ],
+ "Provenance": [
+  "with E. Grosvenor Paine, New Orleans",
+  "sale, Sotheby Parke-Bernet, New  York, 29 Jan. 1986, lot 162"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20015879"
+  }
+ }
+}

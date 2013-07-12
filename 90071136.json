@@ -1,0 +1,45 @@
+{
+ "Sitter": "James McNeill Whistler (American, Lowell, Massachusetts 1834–1903 London)",
+ "Date": "late 1880s",
+ "Medium": "Drypoint",
+ "Dimensions": [
+  "plate 7 5/16 x 5 5/16 in. (18.6 x 13.5 cm)",
+  "sheet 7 15/16 x 5 3/4 in. (20.1 x 14.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Paul F. Walter, 1985",
+ "Accession Number": "1985.1161.20",
+ "Who": [
+  "James McNeill Whistler",
+  "Mortimer Menpes"
+ ],
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "Oceania",
+  "Australia"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Australia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90071136,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP815637.jpg",
+ "related-artworks": [
+  90071133,
+  90071134,
+  90071135
+ ],
+ "Provenance": [
+  "Donor: Paul F. Walter"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90071136"
+  }
+ }
+}

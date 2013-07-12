@@ -1,0 +1,38 @@
+{
+ "Date": "1980",
+ "Medium": "Lithograph",
+ "Dimensions": "40 1/2 x 27 1/2 in. (102.9 x 69.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Tyler Graphics Ltd., in honor of William S. Lieberman, 2003",
+ "Accession Number": "2003.433.75",
+ "Who": "Robert Motherwell",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Abstract Expressionism",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210015311,
+ "related-artworks": [
+  90038410,
+  90038835,
+  90038861,
+  90038839,
+  90038869
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210015311"
+  }
+ }
+}

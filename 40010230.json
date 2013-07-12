@@ -1,0 +1,35 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Philippine, Moro",
+ "Classification": "Shields",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.615",
+ "What": [
+  "Costume",
+  "Armor",
+  "Shields"
+ ],
+ "Where": [
+  "Asia",
+  "Philippines"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1800–1900 A.D.",
+  "Southeast Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40010230,
+ "related-artworks": [
+  40010231,
+  40010229,
+  40010223,
+  40010236,
+  40010237
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40010230"
+  }
+ }
+}

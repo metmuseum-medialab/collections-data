@@ -1,0 +1,34 @@
+{
+ "Date": "[ca. 1890]",
+ "Medium": "plates photomechanical",
+ "Dimensions": "Overall 5 7/8 x 9 1/4 x 9/16 in. (15 x 23.5 x 1.4 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1961",
+ "Accession Number": "61.625",
+ "Who": "T. E. Parker",
+ "What": [
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90022963,
+ "related-artworks": [
+  90012518,
+  90012767,
+  90012789,
+  90013371,
+  90013858
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90022963"
+  }
+ }
+}

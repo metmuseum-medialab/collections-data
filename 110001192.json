@@ -1,0 +1,33 @@
+{
+ "Medium": "Oil on wood",
+ "Dimensions": "28 1/4 x 20 3/8 in. (71.8 x 51.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Rogers Fund, 1906",
+ "Accession Number": "06.1324",
+ "Who": "North Italian Painter, second quarter 16th century",
+ "What": [
+  "Paintings",
+  "Oil paint"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Paintings",
+ "MetPublications": "Search for related Met publications",
+ "id": 110001192,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/ep06.1324.bw.R.jpg",
+ "related-artworks": [
+  110000002,
+  110000033,
+  110000011,
+  110000016,
+  110000012
+ ],
+ "Provenance": [
+  "[Dowdeswell & Dowdeswell, London, by 1905–6",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001192"
+  }
+ }
+}

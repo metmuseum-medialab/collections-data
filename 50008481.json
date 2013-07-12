@@ -1,0 +1,41 @@
+{
+ "Date": "9th–15th century",
+ "Geography": "Costa Rica",
+ "Culture": "Costa Rica",
+ "Medium": "Stone",
+ "Dimensions": "Height 1-1/8 in. (2.9 cm)",
+ "Classification": "Stone-Ornaments",
+ "Credit Line": "Bequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986",
+ "Accession Number": "1987.394.739",
+ "What": [
+  "Stone",
+  "Pendants"
+ ],
+ "Where": [
+  "North and Central America",
+  "Costa Rica"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central America and the Caribbean, 1400–1600 A.D.",
+  "Central America and the Caribbean, 500–1000 A.D."
+ ],
+ "id": 50008481,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/VS1987_394_739.JPG",
+ "related-artworks": [
+  50005681,
+  50005682,
+  50005689,
+  50005685,
+  50005707
+ ],
+ "Provenance": [
+  "Arnold I. Goldberg, New York,  until (d.)1976",
+  "Jane Costello Goldberg, New York, 1976–(d.)1986"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50008481"
+  }
+ }
+}

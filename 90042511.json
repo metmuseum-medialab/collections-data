@@ -1,0 +1,39 @@
+{
+ "Date": "1912",
+ "Medium": "Lithograph",
+ "Dimensions": "image 8 1/16 x 10 1/8 inches (20.5 x 25.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mr. Charles Klee, 1963",
+ "Accession Number": "63.502.2",
+ "Who": "Ernst Barlach",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90042511,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821881.jpg",
+ "related-artworks": [
+  90042517,
+  90010604,
+  90013445,
+  90019976,
+  90042504
+ ],
+ "Provenance": [
+  "Donor: Mr. Charles Klee"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90042511"
+  }
+ }
+}

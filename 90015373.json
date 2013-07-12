@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1825",
+ "Medium": "Relief etching printed in orange-brown ink and hand-colored with watercolor and gold",
+ "Dimensions": "sheet 6 3/16 x 5 9/16 in. (15.7 x 14.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1917",
+ "Accession Number": "17.10.34",
+ "Who": "William Blake",
+ "What": [
+  "Prints",
+  "Ink",
+  "Etching",
+  "Watercolors"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Romanticism",
+  "William Blake (1757–1827)",
+  "Watercolor Painting in Britain, 1750–1850",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90015373,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP816676.jpg",
+ "related-artworks": [
+  90015340,
+  90015235,
+  90015294,
+  90015308,
+  90015309
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90015373"
+  }
+ }
+}

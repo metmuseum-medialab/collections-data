@@ -1,0 +1,40 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Classification": "Prints",
+ "Accession Number": "JP1092.28",
+ "Who": "Utagawa Kunisada",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60029430,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP149232.jpg",
+ "related-artworks": [
+  60029266,
+  60029237,
+  60029245,
+  60029268,
+  60029267
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029430"
+  }
+ }
+}

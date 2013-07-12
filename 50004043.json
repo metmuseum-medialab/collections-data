@@ -1,0 +1,61 @@
+{
+ "Date": "mid-20th century",
+ "Geography": "Indonesia, Papua Province (Irian Jaya), Jipajer village, Jipajer River",
+ "Culture": "Asmat people",
+ "Medium": "Bamboo",
+ "Dimensions": "H. 15 3/4 in. (40 cm)",
+ "Classification": "Wood-Musical Instruments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection; Gift of Nelson A. Rockefeller and Mrs. Mary C. Rockefeller, 1965",
+ "Accession Number": "1978.412.1007",
+ "What": [
+  "Musical instruments",
+  "Grass",
+  "Bamboo",
+  "Horn"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Irian Jaya"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1900 A.D.–present",
+ "id": 50004043,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1978_412_1007.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/50004037",
+  "http://scrapi.org/object/50004057",
+  "http://scrapi.org/object/50003800",
+  "http://scrapi.org/object/50004035",
+  "http://scrapi.org/object/50004034"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Michael C. Rockefeller Expedition, collected 1961",
+  "Nelson A. Rockefeller, New York, 1961–1965",
+  "The Museum of Primitive Art, New York, 1965–1978"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50004037"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50004057"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50003800"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50004035"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50004034"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50004043"
+  }
+ }
+}

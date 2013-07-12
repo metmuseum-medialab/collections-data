@@ -1,0 +1,63 @@
+{
+ "Date": "1821",
+ "Medium": "Wood engraving; second state",
+ "Dimensions": "block 1 7/16 x 2 7/8 in. (3.7 x 7.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1932",
+ "Accession Number": "32.1.2",
+ "Who": "William Blake",
+ "What": [
+  "Prints",
+  "Engraving",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "William Blake (1757–1827)",
+  "Romanticism",
+  "Watercolor Painting in Britain, 1750–1850",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90057364,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP816564.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90025889",
+  "http://scrapi.org/object/90043436",
+  "http://scrapi.org/object/90057368",
+  "http://scrapi.org/object/90057350",
+  "http://scrapi.org/object/90057353"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Donor: Harris Brisbane Dick Fund"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90025889"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90043436"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90057368"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90057350"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90057353"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90057364"
+  }
+ }
+}

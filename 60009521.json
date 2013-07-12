@@ -1,0 +1,46 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Jade (nephrite)",
+ "Dimensions": [
+  "Ink pallet H. 4 3/16 in. (10.6 cm); W. 3 1/16 in. (7.8 cm); D. 9/16 in. (1.5 cm)",
+  "Water horn H. 1 5/8 in. (2.7 cm); L. 11 in. (27.9 cm); Th. 1 1/16 in. (4.1 cm)"
+ ],
+ "Classification": "Jade",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.798a–d",
+ "What": [
+  "Ink",
+  "Jade",
+  "Nephrite",
+  "Horn"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "id": 60009521,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/02_18_798b_O4_sf.jpg",
+ "related-artworks": [
+  60027330,
+  60009509,
+  60009518,
+  60010938,
+  60010933
+ ],
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009521"
+  }
+ }
+}

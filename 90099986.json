@@ -1,0 +1,43 @@
+{
+ "Lithographer": "Lithography by George S. Harris & Sons (American, Philadelphia)",
+ "Date": "1890",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 × 1 1/2 in. (7 × 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 204, N81.24",
+ "Who": [
+  "W. Duke, Sons & Co.",
+  "George S. Harris & Sons"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90099986,
+ "related-artworks": [
+  90096244,
+  90096245,
+  90096246,
+  90096237,
+  90096236
+ ],
+ "Description": "Trade cards from the \"Jokes\" series (N81), issued in a set of 50 cards in 1890 to promote W. Duke Sons & Co. brand cigarettes.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90099986"
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "Date": "1939",
+ "Medium": "Black chalk and gray watercolor on pink laid oatmeal paper",
+ "Dimensions": "18 15/16 x 14 1/8 in. (48.1 x 35.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of A. W. Bahr, 1958",
+ "Accession Number": "58.21.11",
+ "Who": "Edward Barnard Lintott",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Chalk",
+  "Black chalk"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20011794,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/165568.jpg",
+ "related-artworks": [
+  20013210,
+  20010890,
+  20011305,
+  20011356,
+  20011447
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20011794"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "1923–24",
+ "Culture": "French",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 42 in. (106.7 cm)",
+ "Credit Line": "Gift of Miriam W. Coletti, 1986",
+ "Accession Number": "1986.516.6",
+ "Who": "House of Paquin",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80032928,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1986.516.6_F.jpg",
+ "related-artworks": [
+  80003285,
+  80006249,
+  80032910,
+  80033641,
+  80093848
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80032928"
+  }
+ }
+}

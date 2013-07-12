@@ -1,0 +1,38 @@
+{
+ "Period": "Mid or Late Imperial",
+ "Date": "late 2nd–3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Silver",
+ "Dimensions": "H. 7 3/4 in. (19.7 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "Gift of Norbert Schimmel, 1981",
+ "Accession Number": "1981.61",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130016239,
+ "gallery-id": 168,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP106990.jpg",
+ "related-artworks": [
+  130003070,
+  130003152,
+  130003153,
+  130003156,
+  130003157
+ ],
+ "Description": "Similar votives, made of thin sheets of silver, cut and impressed to look like leaves or feathers, are known from many different provinces of the Roman Empire. They were pinned up in temples or shrines as votives to a variety of deities, who are usually named in a dedication. This example, however, is uninscribed, but the seated god can be identified as Pluto, God of the Underworld, because he is accompanied by the three-headed guard dog Cerberus.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130016239"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "American or European",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Van S. Merle-Smith, 1953",
+ "Accession Number": "C.I.53.21.2",
+ "What": [
+  "Costume",
+  "Caps"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80011857,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI53.21.2.jpg",
+ "related-artworks": [
+  80000186,
+  80000187,
+  80000188,
+  80000165,
+  80000189
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80011857"
+  }
+ }
+}

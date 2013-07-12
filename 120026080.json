@@ -1,0 +1,65 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Silver",
+ "Dimensions": "Diam. 2-5/16 in. (59 mm)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of David and Constance Yates in memory of Ruth Blumka and Victoria Nasatir Goldberg, 1998",
+ "Accession Number": "1998.324.1",
+ "Who": "Albert-Désiré Barre",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Silver",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120026080,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP100525.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120001727",
+  "http://scrapi.org/object/120001735",
+  "http://scrapi.org/object/120001771",
+  "http://scrapi.org/object/120001742",
+  "http://scrapi.org/object/120001762"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/DP100525.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP100526.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP100924.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP100925.jpg"
+ ],
+ "Provenance": [
+  "David and Constance Yates (until 1998; to MMA)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120001727"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120001735"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120001771"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120001742"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120001762"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120026080"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "1965–69",
+ "Culture": "American",
+ "Medium": "fur",
+ "Dimensions": [
+  "Length at CB 30 3/4 in. (78.1 cm)",
+  "Length (CF–CB) 13 in. (33 cm)"
+ ],
+ "Credit Line": "Gift of Kay Kerr Uebel, 1985",
+ "Accession Number": "1985.382.1a, b",
+ "Who": "Ben Kahn Furs",
+ "What": [
+  "Ensembles",
+  "Hair",
+  "Fur"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80049412,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1985.382.1a_F.jpg",
+ "related-artworks": [
+  80031783,
+  80039519,
+  80053996,
+  80057377,
+  80072287
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80049412"
+  }
+ }
+}

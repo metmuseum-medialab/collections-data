@@ -1,0 +1,42 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th–19th century",
+ "Culture": "Japan",
+ "Medium": "Pottery partially covered with glaze (Seto ware)",
+ "Dimensions": "H. 3 3/8 in. (8.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.159",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Glaze",
+  "Jars",
+  "Seto"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60033878,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/91_1_159_O.JPG",
+ "related-artworks": [
+  60019922,
+  60033876,
+  60033915,
+  60034040,
+  60034101
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033878"
+  }
+ }
+}

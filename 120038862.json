@@ -1,0 +1,48 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian (Sicily)",
+ "Medium": "Embroidered net",
+ "Dimensions": [
+  "L. 23 x W. 42 inches",
+  "58.4 x 106.7 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.186.375",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Lace",
+  "Net",
+  "Valances"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Sicily"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120038862,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/47683.jpg",
+ "related-artworks": [
+  120030470,
+  120030892,
+  120032679,
+  120038847,
+  120040385
+ ],
+ "Provenance": [
+  "Ida Schiff",
+  "Miss Mary H. Smith , 1920",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120038862"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Artist": "After Pietro Longhi (Pietro Falca) (Italian, Venice 1701–1785 Venice)",
+ "Date": "after ca. 1751",
+ "Medium": "Etching",
+ "Dimensions": "15 9/16 x 18 3/16 in.  (39.6 x 46.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1979",
+ "Accession Number": "1979.525.4",
+ "Who": [
+  "Pietro Longhi (Pietro Falca)",
+  "Alessandro Longhi"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002521,
+ "related-artworks": [
+  90002522,
+  90002524,
+  90002523
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002521"
+  }
+ }
+}

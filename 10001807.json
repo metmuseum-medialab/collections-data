@@ -1,0 +1,42 @@
+{
+ "Date": "1850–60",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Wood",
+ "Dimensions": "49 3/4 x 18 3/8 x 21 1/8 in. (126.4 x 46.7 x 53.7 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Friends of the American Wing Fund, 1982",
+ "Accession Number": "1982.208.1",
+ "What": [
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Side chairs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001807,
+ "gallery-id": 740,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/241246.jpg",
+ "related-artworks": [
+  10001721,
+  10001810,
+  10001841,
+  10001845,
+  10001848
+ ],
+ "Provenance": [
+  "Fred Heintz, New York, until 1982"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001807"
+  }
+ }
+}

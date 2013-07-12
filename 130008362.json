@@ -1,0 +1,30 @@
+{
+ "Medium": "Terracotta",
+ "Dimensions": "H. 5 1/8 in. (13 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "Rogers Fund, 1907",
+ "Accession Number": "07.286.8",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Statues",
+  "Figurines"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130008362,
+ "related-artworks": [
+  130001586,
+  130001584,
+  130001591,
+  130001595,
+  130001592
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130008362"
+  }
+ }
+}

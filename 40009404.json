@@ -1,0 +1,34 @@
+{
+ "Date": "1687",
+ "Culture": "Indian (Blade Persian)",
+ "Classification": "Swords",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.1510a, b",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Cases",
+  "Sheaths",
+  "Scabbards"
+ ],
+ "Where": [
+  "Asia",
+  "Persia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "id": 40009404,
+ "related-artworks": [
+  40011189,
+  40005043,
+  40009359,
+  40009487,
+  40009557
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40009404"
+  }
+ }
+}

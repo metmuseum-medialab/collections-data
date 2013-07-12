@@ -1,0 +1,47 @@
+{
+ "Date": "19th century",
+ "Culture": "Cambodian",
+ "Classification": "Firearms Accessories",
+ "Credit Line": "Bequest of George C. Stone, 1936",
+ "Accession Number": "36.215.2467a, b",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Accessories",
+  "Baskets",
+  "Ammunition",
+  "Bullets"
+ ],
+ "Where": [
+  "Asia",
+  "Cambodia"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1800–1900 A.D.",
+ "id": 40008807,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40008808"
+   },
+   {
+    "href": "http://scrapi.org/object/40008809"
+   },
+   {
+    "href": "http://scrapi.org/object/40008907"
+   },
+   {
+    "href": "http://scrapi.org/object/40008909"
+   },
+   {
+    "href": "http://scrapi.org/object/40005267"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40008807"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40008807"
+  }
+ }
+}

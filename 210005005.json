@@ -1,0 +1,32 @@
+{
+ "Date": "designed 1964, manufactured 1965",
+ "Medium": "Photograph",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Ignazia Favata/Studio Joe Colombo, 1987",
+ "Accession Number": "1987.362.2ab",
+ "Who": "Joe Colombo",
+ "What": "Photographs",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1950–75",
+  "Italian Peninsula, 1900 A.D.–present"
+ ],
+ "id": 210005005,
+ "related-artworks": [
+  210005004,
+  210005006,
+  210005007,
+  210005009,
+  210005008
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210005005"
+  }
+ }
+}

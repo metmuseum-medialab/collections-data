@@ -1,0 +1,39 @@
+{
+ "Date": "early 20th century",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Plate 5 7/8 × 10 7/8 in. (15 × 27.6 cm)",
+  "Sheet 9 15/16 × 14 7/8 in. (25.2 × 37.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of John O. Hamlin, 1976",
+ "Accession Number": "1976.653.53",
+ "Who": "George A. Bradshaw",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90104284,
+ "related-artworks": [
+  90104283,
+  90000841,
+  90004099,
+  90004243
+ ],
+ "Provenance": [
+  "Donor: John O. Hamlin Bequest"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104284"
+  }
+ }
+}

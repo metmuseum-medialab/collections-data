@@ -1,0 +1,35 @@
+{
+ "Date": "1850s",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": "Length 20 in. (50.8 cm)",
+ "Credit Line": "Purchase, Irene Lewisohn Bequest, 1976",
+ "Accession Number": "1976.60.15a, b",
+ "What": [
+  "Cotton",
+  "Sleeves",
+  "Undersleeves"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80053202,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1976.60.15ab.jpg",
+ "related-artworks": [
+  80096194,
+  80106719,
+  80038353,
+  80053201,
+  80053207
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80053202"
+  }
+ }
+}

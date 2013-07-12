@@ -1,0 +1,62 @@
+{
+ "Artist": "Charles Dominique Joseph Eisen (French, Valenciennes 1720–1778 Brussels)",
+ "Author": "Ovid (Roman, Sulmo 43 B.C.–A.D. 17 Tomis, Moesia)",
+ "Translator": "Abbé Banier",
+ "Publisher": "Chez Despilly (French, active 18th century)",
+ "Date": "ca. 1765",
+ "Medium": "Etching and engraving",
+ "Dimensions": "Sheet 7 9/16 × 5 1/4 in. (19.2 × 13.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.1708",
+ "Who": [
+  "Ovid",
+  "Charles Dominique Joseph Eisen",
+  "Abbé Banier",
+  "Chez Despilly",
+  "Noël Le Mire"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Rome"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90103400,
+ "Provenance": [
+  "Vendor: Dick Estate, U.S. Trust"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90103224"
+   },
+   {
+    "href": "http://scrapi.org/object/90103226"
+   },
+   {
+    "href": "http://scrapi.org/object/90103229"
+   },
+   {
+    "href": "http://scrapi.org/object/90103232"
+   },
+   {
+    "href": "http://scrapi.org/object/90103478"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90103400"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90103400"
+  }
+ }
+}

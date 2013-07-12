@@ -1,0 +1,45 @@
+{
+ "Date": "3rd century BCE–2nd century CE",
+ "Geography": "Peru",
+ "Culture": "Vicús",
+ "Medium": "Copper (hammered), gilt",
+ "Dimensions": "Diameter 3-1/16 in. (7.8 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Bequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986",
+ "Accession Number": "1987.394.474",
+ "What": [
+  "Metal",
+  "Gilt",
+  "Copper",
+  "Plaques"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1000 B.C.–1 A.D.",
+  "Central and Southern Andes, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50008216,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1987.394.474_a.JPG",
+ "related-artworks": [
+  50007545,
+  50007546,
+  50007547,
+  50007548,
+  50007549
+ ],
+ "Provenance": [
+  "[Jean Eugene Lions, Geneva, Switzerland, 1971(?)–1973]",
+  "Arnold I. Goldberg, New York, 1973–(d.)1976",
+  "Jane Costello Goldberg, New York, 1976– (d.)1986"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50008216"
+  }
+ }
+}

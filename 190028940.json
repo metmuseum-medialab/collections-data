@@ -1,0 +1,24 @@
+{
+ "Date": "1958",
+ "Classification": "Books",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.82",
+ "Who": "Graham Greene",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190028940,
+ "related-artworks": [
+  190028561,
+  190028706,
+  190028708,
+  190028709,
+  190028913
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028940"
+  }
+ }
+}

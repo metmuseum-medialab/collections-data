@@ -1,0 +1,62 @@
+{
+ "Date": "1900",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Agnes Kremer, 1939",
+ "Accession Number": "C.I.39.48a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Wedding dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80045822,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.39.48ab_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/C.I.39.48ab_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/C.I.39.48ab_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/C.I.39.48a_d.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/C.I.39.48ab_d.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/C.I.39.48b_d1.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/C.I.39.48b_d2.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/C.I.39.48a_label.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI39.48ab_F.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80018984"
+   },
+   {
+    "href": "http://scrapi.org/object/80024033"
+   },
+   {
+    "href": "http://scrapi.org/object/80025077"
+   },
+   {
+    "href": "http://scrapi.org/object/80033842"
+   },
+   {
+    "href": "http://scrapi.org/object/80036482"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80045822"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80045822"
+  }
+ }
+}

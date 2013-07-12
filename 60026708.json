@@ -1,0 +1,42 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "1887 (Meiji 10, 9th month)",
+ "Culture": "Japan",
+ "Medium": "Triptych of polychrome woodblock prints; ink and color on paper",
+ "Dimensions": "14 1/4 x 29 1/4 in. (36.2 x 74.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Lincoln Kirstein, 1960",
+ "Accession Number": "JP3386",
+ "Who": "Hashimoto Chikanobu",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Triptychs"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60026708,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP147731.jpg",
+ "related-artworks": [
+  60024792,
+  60026412,
+  60026495,
+  60026640,
+  60026977
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026708"
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "Artist": "Aegidius Bichel (German)",
+ "Date": "1698",
+ "Medium": "Engraving",
+ "Dimensions": "8 3/16 x 18 5/8 x 1/8 in.  (20.8 x 47.3 x 0.3 cm)",
+ "Classification": "Books",
+ "Credit Line": "Anne and Carl Stern Fund, 1962",
+ "Accession Number": "62.662.6(1-10)",
+ "Who": [
+  "Joseph Friedrich Leopold",
+  "Aegidius Bichel"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90011199,
+ "related-artworks": [
+  "http://scrapi.org/object/90010997",
+  "http://scrapi.org/object/90013442",
+  "http://scrapi.org/object/90017744"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Vendor: Emil Hirsch"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90010997"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90013442"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90017744"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90011199"
+  }
+ }
+}

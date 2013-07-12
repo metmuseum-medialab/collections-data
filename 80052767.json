@@ -1,0 +1,34 @@
+{
+ "Date": "18th century",
+ "Culture": "British",
+ "Medium": "leather",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Irene Lewisohn, 1940",
+ "Accession Number": "C.I.40.194.27a, b",
+ "What": [
+  "Costume",
+  "Leather",
+  "Mittens"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 80052767,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.40.194.27ab_F.jpg",
+ "related-artworks": [
+  80108750,
+  80108757,
+  80108758,
+  80095384,
+  80029718
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052767"
+  }
+ }
+}

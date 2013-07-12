@@ -1,0 +1,37 @@
+{
+ "Date": "16th–17th century",
+ "Culture": "Thailand",
+ "Medium": "Stone",
+ "Dimensions": "H. 16 1/4 in. (41.3 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Garrett C. Pier, 1926",
+ "Accession Number": "26.116",
+ "What": [
+  "Sculpture",
+  "Stone"
+ ],
+ "Where": [
+  "Asia",
+  "Thailand"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1600–1800 A.D.",
+  "Southeast Asia, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60005412,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/26_116_63691.jpg",
+ "related-artworks": [
+  60005109,
+  60005118,
+  60005121,
+  60005553,
+  60005567
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005412"
+  }
+ }
+}

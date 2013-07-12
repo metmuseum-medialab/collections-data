@@ -1,0 +1,57 @@
+{
+ "Date": "1830",
+ "Culture": "French (Sèvres)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 8 in. (20.3 cm.); Diam. of rim 10 1/4 in. (26.0 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Madame Lilliana Teruzzi, 1981",
+ "Accession Number": "1981.454.2",
+ "Who": "Sèvres Manufactory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Baskets",
+  "Berry baskets",
+  "Gathering baskets"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Sèvres"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Exoticism in the Decorative Arts",
+  "Sèvres Porcelain in the Nineteenth Century",
+  "Saint Petersburg",
+  "Louis–Rémy Robert (1810–1882)",
+  "French Furniture in the Eighteenth Century Case Furniture",
+  "Empire Style, 1800–1815",
+  "Jean–Baptiste Carpeaux (1827–1875)",
+  "Art Nouveau",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120025745,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/227546.jpg",
+ "related-artworks": [
+  120023030,
+  120023651,
+  120009349,
+  120010340,
+  120018008
+ ],
+ "Provenance": [
+  "Madame Lilliana Teruzzi (until 1981",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120025745"
+  }
+ }
+}

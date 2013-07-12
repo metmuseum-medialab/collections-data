@@ -1,0 +1,45 @@
+{
+ "Date": "first half 20th century",
+ "Medium": "brush and black ink, gouache, watercolor, traces of graphite framing lines",
+ "Dimensions": "sheet 15 9/16 x 7 13/16 in. (39.6 x 19.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of William S. Wasserman, 1965",
+ "Accession Number": "65.715.13",
+ "Who": "Sergey Sudeykin",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Graphite",
+  "Gouache"
+ ],
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "Anatolia and the Caucasus, 1900 A.D.–present",
+  "Eastern Europe and Scandinavia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90055841,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804945.jpg",
+ "related-artworks": [
+  90055825,
+  90055861,
+  90055865,
+  90055868,
+  90055876
+ ],
+ "Provenance": [
+  "Donor: William S. Wasserman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90055841"
+  }
+ }
+}

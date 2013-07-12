@@ -1,0 +1,41 @@
+{
+ "Editor": "Edited by François de Belleforest",
+ "Publisher": "Published by Nicolas Chesneau",
+ "Date": "1575",
+ "Medium": "Woodcut",
+ "Dimensions": "Overall 13 3/8 x 9 7/16 x 3 3/4 in. (34 x 24 x 9.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1943",
+ "Accession Number": "43.38.1-.2",
+ "Who": [
+  "Sebastian Münster",
+  "François de Belleforest",
+  "Nicolas Chesneau"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90022161,
+ "related-artworks": [
+  90022160,
+  90003661,
+  90004086,
+  90005356
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90022161"
+  }
+ }
+}

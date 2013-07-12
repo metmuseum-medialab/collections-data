@@ -1,0 +1,35 @@
+{
+ "Geography": "Egypt possibly (modern)",
+ "Medium": "Lapis lazuli",
+ "Classification": "(not assigned)",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.2905",
+ "What": [
+  "Beads",
+  "Lapis lazuli"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Islamic Art",
+ "id": 140016285,
+ "related-artworks": [
+  140016344,
+  140016284,
+  140016286,
+  140002019,
+  140002024
+ ],
+ "Provenance": [
+  "Chauncey Murch, Luxor, Egypt (until d. 1907)",
+  "Mrs. Chauncey Murch(1907–10)",
+  "Helen Miller Gould, New York (1910)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140016285"
+  }
+ }
+}

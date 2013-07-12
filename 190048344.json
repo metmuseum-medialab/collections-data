@@ -1,0 +1,41 @@
+{
+ "Artist": "Noriega",
+ "Date": "1867",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "Image 11.3 x 14.3 cm (4 7/16 x 5 5/8 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Museum Purchase, 2005",
+ "Accession Number": "2005.100.580.8a-c",
+ "Who": [
+  "François Aubert",
+  "Noriega"
+ ],
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 190048344,
+ "related-artworks": [
+  190017953,
+  190019003,
+  190039103,
+  190039123,
+  190039124
+ ],
+ "Provenance": [
+  "(Swann Galleries, Lot 118, April 19, 1997)",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190048344"
+  }
+ }
+}

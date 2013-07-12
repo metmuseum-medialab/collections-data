@@ -1,0 +1,24 @@
+{
+ "Date": "ca. 500–700",
+ "Culture": "possibly Frankish",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.193.234a",
+ "What": "Buckles",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40011972,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/DP30094_17.193.234A.jpg",
+ "related-artworks": [
+  40000574,
+  40000859,
+  40000860,
+  40000855,
+  40000856
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40011972"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Period": "Joseon dynasty (1392–1910)",
+ "Date": "late 19th century",
+ "Culture": "Korea",
+ "Medium": "Silk",
+ "Dimensions": "7 1/2 x 7 in. (19.05 x 17.78 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Seymour Fund, 1953",
+ "Accession Number": "53.60.7",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Badges"
+ ],
+ "Where": [
+  "Asia",
+  "Korea"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Korea, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60044812,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/155293.jpg",
+ "related-artworks": [
+  60044808,
+  60044811,
+  60044813,
+  60020263,
+  60020264
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044812"
+  }
+ }
+}

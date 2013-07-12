@@ -1,0 +1,40 @@
+{
+ "Period": "Late Bronze Age",
+ "Date": "ca. 1600-1050 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Ivory",
+ "Dimensions": "Diameter 2 in. (5.1 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.5220",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Roundels"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 2000–1000 B.C.",
+ "id": 130004571,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP121300.jpg",
+ "related-artworks": [
+  130004565,
+  130004567,
+  130004570,
+  130004573,
+  130004576
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130004571"
+  }
+ }
+}

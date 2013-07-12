@@ -1,0 +1,47 @@
+{
+ "Period": "Neo-Assyrian",
+ "Date": "ca. 8th–7th century B.C.",
+ "Geography": "Mesopotamia, Nimrud (ancient Kalhu)",
+ "Culture": "Assyrian",
+ "Medium": "Ivory",
+ "Dimensions": "1.02 x 2.52 x 0.51 in. (2.59 x 6.4 x 1.3 cm)",
+ "Classification": "Ivory/Bone",
+ "Credit Line": "Rogers Fund, 1959",
+ "Accession Number": "59.107.17",
+ "Who": "Assyrian",
+ "What": [
+  "Vessels",
+  "Fragments",
+  "Bone",
+  "Ivory",
+  "Pyxides"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Nimrud"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003602,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/DP110654.jpg",
+ "related-artworks": [
+  30002991,
+  30002866,
+  30002982,
+  30002987,
+  30004330
+ ],
+ "Provenance": [
+  "1958, excavated by Max Mallowan, on behalf of the British School of Archaeology in Iraq",
+  "ceded in the division of finds to the British School of Archaeology in Iraq",
+  "acquired by the Museum in 1959, as a result of its financial contribution to the excavations."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003602"
+  }
+ }
+}

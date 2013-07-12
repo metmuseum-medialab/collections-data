@@ -1,0 +1,59 @@
+{
+ "Date": "early 16th century",
+ "Culture": "Italian",
+ "Medium": "Marble",
+ "Dimensions": "H. 44-1/2 in. (113 cm.); W. 27-1/2 in. (69.9 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.70.32",
+ "What": [
+  "Sculpture",
+  "Arms",
+  "Marble"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009248,
+ "gallery-id": 503,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/40449.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120009245",
+  "http://scrapi.org/object/120003673",
+  "http://scrapi.org/object/120005756",
+  "http://scrapi.org/object/120006240",
+  "http://scrapi.org/object/120006426"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "[ Stefano Bardini , until 1918",
+  "sale, American Art Galleries, New York, 1918, no. 398, to MMA ]"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120009245"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120003673"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120005756"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120006240"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120006426"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120009248"
+  }
+ }
+}

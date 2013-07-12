@@ -1,0 +1,51 @@
+{
+ "Date": "1949",
+ "Medium": "Ink and graphite",
+ "Dimensions": "Sheet 11 15/16 × 9 in. (30.4 × 22.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Emilio Sanchez, 1965",
+ "Accession Number": "65.713.73",
+ "Who": "Emilio Sanchez",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90106410,
+ "Provenance": [
+  "Donor: Emilio Sanchez (American, born Cuba 1921–1999)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90106376"
+   },
+   {
+    "href": "http://scrapi.org/object/90106397"
+   },
+   {
+    "href": "http://scrapi.org/object/90106585"
+   },
+   {
+    "href": "http://scrapi.org/object/90106576"
+   },
+   {
+    "href": "http://scrapi.org/object/90106076"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90106410"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90106410"
+  }
+ }
+}

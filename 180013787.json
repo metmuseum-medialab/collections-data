@@ -1,0 +1,36 @@
+{
+ "Date": "late 19th century",
+ "Geography": "Thailand",
+ "Culture": "Thailand",
+ "Dimensions": "L. 29-1/2 in., Diam. of body 4 in., Length of bow 26 in.",
+ "Classification": "Chordophone-Lute",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.1569 a, b",
+ "What": [
+  "Musical instruments",
+  "Chordophones",
+  "Lutes"
+ ],
+ "Where": [
+  "Asia",
+  "Thailand"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180013787,
+ "gallery-id": 681,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS150A.jpg",
+ "related-artworks": [
+  180012580,
+  180012671,
+  180012670,
+  180017580,
+  180012669
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180013787"
+  }
+ }
+}

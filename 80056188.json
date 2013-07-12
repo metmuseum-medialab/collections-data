@@ -1,0 +1,37 @@
+{
+ "Date": "1900–1938",
+ "Culture": "American",
+ "Medium": "silk, ivory",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. and Mrs. Ernest G. Vietor, 1938",
+ "Accession Number": "C.I.38.11.3",
+ "What": [
+  "Costume",
+  "Silk",
+  "Bone",
+  "Ivory",
+  "Parasols"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80056188,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI38.11.3_tp.jpg",
+ "related-artworks": [
+  80056516,
+  80095086,
+  80055898,
+  80029422,
+  80051922
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80056188"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Artist": "After Peter Paul Rubens (Flemish, Siegen 1577–1640 Antwerp)",
+ "Date": "1643",
+ "Medium": "Engraving and etching; third state of three",
+ "Dimensions": [
+  "sheet 14 1/2 x 13 1/16 in. (36.8 x 33.1 cm)",
+  "plate 14 5/16 x 12 7/8 in. (36.3 x 32.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Georgiana W. Sargent, in memory of John Osborne Sargent, 1924",
+ "Accession Number": "24.63.875",
+ "Who": [
+  "Peter Paul Rubens",
+  "Pieter Soutman",
+  "Pieter Van Sompel"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 90043864,
+ "related-artworks": [
+  90043860,
+  90043859,
+  90043862,
+  90043867,
+  90043870
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90043864"
+  }
+ }
+}

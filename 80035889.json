@@ -1,0 +1,40 @@
+{
+ "Date": "1869",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": [
+  "(a) Length at CB 17 1/2 in. (44.5 cm)",
+  "(b) Length at CB 82 in. (208.3 cm)",
+  "(c) Length 28 in. (71.1 cm)"
+ ],
+ "Credit Line": "Gift of Mr. Henry W. Brower, 1951",
+ "Accession Number": "C.I.51.4.2a–c",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Wedding dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80035889,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.51.4.2a–c_F.jpg",
+ "related-artworks": [
+  80036214,
+  80036258,
+  80037365,
+  80095762,
+  80097360
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80035889"
+  }
+ }
+}

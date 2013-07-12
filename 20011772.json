@@ -1,0 +1,41 @@
+{
+ "Date": "1916",
+ "Medium": "Bronze",
+ "Dimensions": "8 x 2 1/4 x 2 1/4 in. (20.3 x 5.7 x 5.7 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.17",
+ "Who": "Alfred David Lenz",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 20011772,
+ "gallery-id": 768,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/20.17.jpg",
+ "related-artworks": [
+  20001267,
+  20010443,
+  20010514,
+  20010689,
+  20010698
+ ],
+ "Provenance": [
+  "the artist, until 1920"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20011772"
+  }
+ }
+}

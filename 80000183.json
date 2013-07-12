@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1834",
+ "Culture": "French (Breton Peoples)",
+ "Medium": "leather, brass",
+ "Dimensions": "Length 50 in. (127 cm)",
+ "Credit Line": "Purchase, 1906",
+ "Accession Number": "06.933.1",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Leather",
+  "Brass",
+  "Belts"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 80000183,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/06.933.1.jpg",
+ "related-artworks": [
+  80032329,
+  80001147,
+  80070883,
+  80024780,
+  80056719
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80000183"
+  }
+ }
+}

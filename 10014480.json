@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1800",
+ "Culture": "American",
+ "Medium": "Wool",
+ "Dimensions": "67 1/2 x 34 in. (171.5 x 86.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1948",
+ "Accession Number": "48.19",
+ "What": [
+  "Textiles",
+  "Wool",
+  "Rugs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10014480,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/140127.jpg",
+ "related-artworks": [
+  10013955,
+  10013957,
+  10013963,
+  10013941,
+  10013942
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014480"
+  }
+ }
+}

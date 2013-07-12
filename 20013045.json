@@ -1,0 +1,49 @@
+{
+ "Date": "ca. 1779–85",
+ "Medium": "Oil on canvas",
+ "Dimensions": "28 1/2 x 23 1/2 in. (72.3 x 59.7 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Mary Stillman Harkness, 1950",
+ "Accession Number": "50.145.37",
+ "Who": "Gilbert Stuart",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "Gilbert Stuart (1755–1828)",
+  "American Portrait Miniatures of the Nineteenth Century",
+  "Art and Society of the New Republic, 1776–1800",
+  "Students of Benjamin West (1738–1820)",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20013045,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap50.145.37.jpg",
+ "related-artworks": [
+  20013034,
+  20013039,
+  20013042,
+  20013043,
+  20013044
+ ],
+ "Provenance": [
+  "George Sitwell Campbell Swinton, London, 1920",
+  "with M. Knoedler and Company, London, 1920",
+  "Edward S. Harkness, New York, 1920–1940",
+  "his wife, Mary Stillman Harkness, 1940–1950"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20013045"
+  }
+ }
+}

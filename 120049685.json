@@ -1,0 +1,80 @@
+{
+ "Factory": "Porcelain plaques by Sèvres Manufactory (French, 1740–present)",
+ "Decorator": "Plaques decorated by Denis Levé (active 1754–93, 1795–1805)",
+ "Date": "ca. 1768",
+ "Culture": "French, Paris and Sèvres",
+ "Medium": "Oak veneered with tulipwood, amaranth, and stained sycamore; the small drawers of solid mahogany; mounted with soft-paste porcelain plaques; gilt-bronze mounts; lined with modern velvet",
+ "Dimensions": [
+  ".48) 32 1/2 x 25 7/8 x 16 in.  (82.5 x 65.7 x 40.6 cm);",
+  ".49) 31 7/8 x 25 7/8 x 16 in.  (81 x 65.7 x 40.6 cm)"
+ ],
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of Samuel H. Kress Foundation, 1958",
+ "Accession Number": "58.75.48",
+ "Who": [
+  "Sèvres Manufactory",
+  "Martin Carlin",
+  "Denis Levé"
+ ],
+ "What": [
+  "Metal",
+  "Clay",
+  "Copper alloy",
+  "Faience",
+  "Bronze",
+  "Porcelain",
+  "Gilt",
+  "Wood",
+  "Furniture",
+  "Plate",
+  "Woodwork",
+  "Plaques",
+  "Soft paste porcelain",
+  "Ormolu",
+  "Oak",
+  "Mahogany",
+  "Case furniture",
+  "Drawers",
+  "Desks",
+  "Tulipwood",
+  "Sycamore",
+  "Amaranth",
+  "Writing tables",
+  "Bonheurs-du-jour",
+  "Ladies' writing tables"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "French Furniture in the Eighteenth Century Case Furniture",
+  "The Golden Age of French Furniture in the Eighteenth Century",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120049685,
+ "gallery-id": 529,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES5030.jpg",
+ "related-artworks": [
+  120049686,
+  120023100,
+  120023101,
+  120022574,
+  120017495
+ ],
+ "Provenance": [
+  "Possibly Comtesse du Barry",
+  "Sir Charles Mills, Baronet",
+  "The Lords Hillingdon",
+  "The Samuel H. Kress Foundation (until 1958)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120049685"
+  }
+ }
+}

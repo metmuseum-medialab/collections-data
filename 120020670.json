@@ -1,0 +1,40 @@
+{
+ "Date": "1733",
+ "Culture": "British, London",
+ "Medium": "Silver",
+ "Dimensions": "L. 19 1/4 in.  (48.9 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1968",
+ "Accession Number": "68.141.105",
+ "Who": "Paul de Lamerie",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Salvers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020670,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/193514.jpg",
+ "related-artworks": [
+  120020675,
+  120059774,
+  120014164,
+  120020665,
+  120020795
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120020670"
+  }
+ }
+}

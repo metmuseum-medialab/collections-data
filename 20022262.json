@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1908–10",
+ "Medium": "Watercolor and pencil on paper",
+ "Dimensions": "8 7/16 x 11 in. (21.4 x 27.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1958",
+ "Accession Number": "58.2.5",
+ "Who": "George Luks",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Pencil"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "The Ashcan School",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20022262,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/58.2.5.jpg",
+ "related-artworks": [
+  20022171,
+  20022167,
+  20022254,
+  20022170,
+  20022261
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20022262"
+  }
+ }
+}

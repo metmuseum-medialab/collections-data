@@ -1,0 +1,46 @@
+{
+ "Date": "1764-70",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Sheet 21 5/8 x 15 3/4 in. (55 x 40 cm)",
+  "Plate 16 7/8 x 9 3/4 in. (42.8 x 24.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, transferred from the Library",
+ "Accession Number": "41.71.1.11",
+ "Who": "Giovanni Battista Piranesi",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Rediscovery of Classical Antiquity",
+  "Joseph Mallord William Turner (1775–1851)",
+  "The French Academy in Rome",
+  "Neoclassicism",
+  "Venice in the Eighteenth Century",
+  "The Grand Tour",
+  "Giovanni Battista Piranesi (1720–1778)",
+  "The Printed Image in the West History and Techniques"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90080884,
+ "related-artworks": [
+  90004085,
+  90004773,
+  90016288,
+  90025589,
+  90027820
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90080884"
+  }
+ }
+}

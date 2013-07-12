@@ -1,0 +1,42 @@
+{
+ "Date": "Datable to the 1930s?",
+ "Culture": "China",
+ "Medium": "Drawing; ink on transparent paper",
+ "Dimensions": "Overall 8 11/16 x 39 1/2 in. (22 x 100.3 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Sarah Shay, 2005",
+ "Accession Number": "2005.411.54",
+ "Who": "Xie Zhiliu",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Paintings"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60046842,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP222708.jpg",
+ "related-artworks": [
+  60046722,
+  60046727,
+  60046764,
+  60046777,
+  60046781
+ ],
+ "Description": "These intricate ruled-line drawings of ancient architecture were probably traced from paintings. The photograph mounted below the drawing, made prior to restoration, illustrates the challenges of conserving the thin, brittle paper Xie favored for making tracing copies, particularly those sheets that were folded, creased, and, at times, torn.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60046842"
+  }
+ }
+}

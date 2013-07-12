@@ -1,0 +1,28 @@
+{
+ "Date": "1560",
+ "Culture": "Italian",
+ "Classification": "Equestrian Equipment",
+ "Credit Line": "Bashford Dean Memorial Collection, Funds from various donors, 1929",
+ "Accession Number": "29.158.397",
+ "What": "Saddles",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40012669,
+ "related-artworks": [
+  40001181,
+  40001182,
+  40003190,
+  40005535,
+  40005536
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40012669"
+  }
+ }
+}

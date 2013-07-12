@@ -1,0 +1,49 @@
+{
+ "Artist": "After Jean Étienne Liotard (Swiss, Geneva 1702–1789 Geneva)",
+ "Date": "n.d.",
+ "Medium": "Etching and engraving",
+ "Dimensions": "sheet 8 7/16 x 6 1/4 in. (21.5 x 15.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Susan Schulman Printseller and Carolyn Bullard Fine Prints, 2009",
+ "Accession Number": "2009.468.15",
+ "Who": [
+  "Jean Étienne Liotard",
+  "Jean-Baptiste Tilliard"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1600–1800 A.D.",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90064620,
+ "related-artworks": [
+  90041946,
+  90041947,
+  90041948,
+  90041949,
+  90041965
+ ],
+ "Provenance": [
+  "Christiaan Bernard Tilanus (1856–1932), sale, Geneva, 1934",
+  "Société auxilaire du Musée du Genève , sale, Geneva, 1934",
+  "Rodolphe Dunki (Swiss), sale, Geneva, 1934",
+  "Private Collection, Geneva , sale, Geneva, 1934",
+  "Christie's, London , April 8, 2009 (part of lot 36)",
+  "Donor: Susan Schulman Donor: Carolyn Bullard"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90064620"
+  }
+ }
+}

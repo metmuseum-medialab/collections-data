@@ -1,0 +1,46 @@
+{
+ "Date": "7th century",
+ "Geography": "Made in Niederbreisig, Germany",
+ "Culture": "Frankish",
+ "Medium": "Silver",
+ "Dimensions": "Overall 2 1/2 x 2 7/16 x 3/16 in. (6.4 x 6.2 x 0.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.193.174",
+ "What": [
+  "Metal",
+  "Costume",
+  "Metalwork",
+  "Silver",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170005397,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-193-174s1.jpg",
+ "related-artworks": [
+  170005331,
+  170005398,
+  170005505,
+  170005538,
+  170005669
+ ],
+ "Provenance": [
+  "Friedrich Queckenberg, Niederbreisig, Germany",
+  "Joseph Queckenberg, Niederbreisig, Germany",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005397"
+  }
+ }
+}

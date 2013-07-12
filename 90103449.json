@@ -1,0 +1,39 @@
+{
+ "Date": "1554",
+ "Medium": "Engraving",
+ "Dimensions": "Sheet 3 1/8 × 4 5/16 in. (8 × 10.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Henry Walters, 1917",
+ "Accession Number": "17.37.130",
+ "Who": "Heinrich Aldegrever",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90103449,
+ "related-artworks": [
+  90003262,
+  90027973,
+  90032752,
+  90073866,
+  90104152
+ ],
+ "Description": "The rich man in a bed at center, with his mourning family at right. At far right, a view through the doorway of the street, where a procession carries a coffin. In the left foreground, the devil takes goods from a chest at the foot of the bed. Plate 3 from a series of five prints with scenes from Luke 16:19–31.",
+ "Provenance": [
+  "William Bell Scott (British, Edinburgh, Scotland 1811–1890 Ayreshire)",
+  "Donor: Henry Walters"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90103449"
+  }
+ }
+}

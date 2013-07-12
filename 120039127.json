@@ -1,0 +1,45 @@
+{
+ "Date": "19th century",
+ "Culture": "Greek, Corinth",
+ "Medium": "Silk on cotton",
+ "Dimensions": "L. 10 x W. 11 inches (25.4 x 27.9 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1923",
+ "Accession Number": "23.41.5",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Cotton",
+  "Needlework",
+  "Embroidery",
+  "Cuffs"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Peloponnese",
+  "Corinth"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120039127,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/AR872.jpg",
+ "related-artworks": [
+  120039126,
+  120039128,
+  120039129,
+  120045667,
+  120041927
+ ],
+ "Provenance": [
+  "[ Morris, Inc. , 1923",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120039127"
+  }
+ }
+}

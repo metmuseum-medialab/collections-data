@@ -1,0 +1,51 @@
+{
+ "Date": "1915",
+ "Medium": "Oil on paper, mounted on wood",
+ "Dimensions": "20 x 13 1/4 in. (50.8 x 33.7 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967",
+ "Accession Number": "67.187.84",
+ "Who": "Amedeo Modigliani",
+ "What": [
+  "Paper",
+  "Paintings",
+  "Oil paintings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "African Influences in Modern Art",
+  "School of Paris",
+  "Italian Peninsula, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210009877,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT261187.jpg",
+ "related-artworks": [
+  210006975,
+  210010250,
+  210007063,
+  210009131,
+  210009155
+ ],
+ "Description": "Lola de Valence was widely known as a dancer and one-time Manet model. The sitter's stylized coiffure and facial features still reflect Modigliani's early, simplified sculptures. The muted palette and nondescript setting reveal the artist's cautious beginnings with painting.",
+ "Provenance": [
+  "[Paul Guillaume, Paris, by 1929–d. 1934]",
+  "his widow, Domenica Guillaume, Paris (from 1934",
+  "probably sold in January 1940, for $650, to Valentine)",
+  "[Valentine Gallery, New York, 1940",
+  "probably stock no. 2044c, sold in January 1940, for $980, to de Groot]",
+  "Adelaide Milton de Groot, New York (probably by 1940–d. 1967",
+  "on loan to MMA, 1952",
+  "her bequest to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009877"
+  }
+ }
+}

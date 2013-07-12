@@ -1,0 +1,57 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 16 7/8 x W. 7 7/8 inches (42.9 x 20.0 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2132",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "id": 120034598,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/6820A.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120014556",
+  "http://scrapi.org/object/120014873",
+  "http://scrapi.org/object/120016809",
+  "http://scrapi.org/object/120017145",
+  "http://scrapi.org/object/120030246"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120014556"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120014873"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120016809"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120017145"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120030246"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120034598"
+  }
+ }
+}

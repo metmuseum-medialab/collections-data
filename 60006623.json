@@ -1,0 +1,38 @@
+{
+ "Date": "11th–12th century",
+ "Culture": "Vietnam",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 5 in. (12.7 cm); Diam. of rim 4 5/8  in. (11.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Betty and John R. Menke, 1996",
+ "Accession Number": "1996.476",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Ewers"
+ ],
+ "Where": [
+  "Asia",
+  "Vietnam"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60006623,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1996_476_O1.jpg",
+ "related-artworks": [
+  60047901,
+  60004468,
+  60004376,
+  60004377,
+  60004482
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60006623"
+  }
+ }
+}

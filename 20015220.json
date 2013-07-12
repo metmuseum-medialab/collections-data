@@ -1,0 +1,39 @@
+{
+ "Date": "1907",
+ "Medium": "Bronze",
+ "Dimensions": "2 1/2 x 1 3/4 in. (6.4 x 4.4 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of the sculptor, 1908",
+ "Accession Number": "08.5.4b",
+ "Who": "Victor David Brenner",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 20015220,
+ "related-artworks": [
+  20015189,
+  20015171,
+  20015190,
+  20015191,
+  20015181
+ ],
+ "Provenance": [
+  "the artist (until 1908)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20015220"
+  }
+ }
+}

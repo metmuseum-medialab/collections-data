@@ -1,0 +1,47 @@
+{
+ "Date": "1760–90",
+ "Geography": "New England, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Mahogany, maple, white pine",
+ "Dimensions": "88 1/8 x 61 1/4 x 77 in. (223.8 x 155.6 x 195.6 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1909",
+ "Accession Number": "10.125.336",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Softwood",
+  "Mahogany",
+  "Pine",
+  "Maple",
+  "Bedframes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000452,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/217260.jpg",
+ "related-artworks": [
+  10000459,
+  10001889,
+  10001891,
+  10003263,
+  10003590
+ ],
+ "Provenance": [
+  "H. Eugene Bolles, Boston, until 1909",
+  "[Mrs. Russell Sage, New York, 1909]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000452"
+  }
+ }
+}

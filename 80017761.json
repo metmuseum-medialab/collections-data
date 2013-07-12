@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1818",
+ "Culture": "American (probably)",
+ "Medium": "straw, silk",
+ "Dimensions": "Total Length (front to back) 13 in. (33 cm)",
+ "Credit Line": "Purchase, Gifts from various donors, 1994",
+ "Accession Number": "1994.138.2",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Straw",
+  "Bonnets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80017761,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1994.138.2.jpg",
+ "related-artworks": [
+  80044623,
+  80029440,
+  80031369,
+  80044629,
+  80044636
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80017761"
+  }
+ }
+}

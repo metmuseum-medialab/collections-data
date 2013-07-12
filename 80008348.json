@@ -1,0 +1,35 @@
+{
+ "Date": "1825–30",
+ "Culture": "American (probably)",
+ "Medium": "cotton",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "GIft of Miss Mary B. Howe, 1941",
+ "Accession Number": "C.I.41.25.1",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Nightgowns"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80008348,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI41.25.1_F.jpg",
+ "related-artworks": [
+  80028169,
+  80028170,
+  80037180,
+  80037212,
+  80037256
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80008348"
+  }
+ }
+}

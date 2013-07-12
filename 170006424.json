@@ -1,0 +1,39 @@
+{
+ "Date": "14th century",
+ "Culture": "British",
+ "Medium": "Glass",
+ "Dimensions": "Overall 2 1/4 x 2 1/8 in. (5.7 x 5.4 cm)",
+ "Classification": "Glass-Stained",
+ "Credit Line": "Gift of Dr. Bashford Dean, 1923",
+ "Accession Number": "23.229.5-15",
+ "What": [
+  "Glass",
+  "Fragments",
+  "Stained glass"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170006424,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cdi23-229-5-15.jpg",
+ "related-artworks": [
+  170006446,
+  170007115,
+  170007120,
+  170007105,
+  170006420
+ ],
+ "Provenance": [
+  "Bashford Dean, Riverdale, NY (until 1923)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006424"
+  }
+ }
+}

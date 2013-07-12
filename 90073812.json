@@ -1,0 +1,28 @@
+{
+ "Date": "1604",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Nathan Chaikin, 1961",
+ "Accession Number": "61.524.67",
+ "Who": "Anonymous, Italian, 17th century",
+ "What": "Prints",
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90073812,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818687.jpg",
+ "related-artworks": [
+  90015413,
+  90057376,
+  90066151,
+  90066153,
+  90066157
+ ],
+ "Provenance": [
+  "Donor: Nathan Chaikin (New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90073812"
+  }
+ }
+}

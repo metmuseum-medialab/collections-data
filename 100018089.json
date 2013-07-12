@@ -1,0 +1,35 @@
+{
+ "Period": "Second Intermediate Period",
+ "Dynasty": "Dynasty 13–17",
+ "Date": "ca. 1640–1550 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Stone",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.8.736",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100018089,
+ "related-artworks": [
+  100000987,
+  100001695,
+  100001717,
+  100002428,
+  100005550
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100018089"
+  }
+ }
+}

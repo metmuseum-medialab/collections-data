@@ -1,0 +1,37 @@
+{
+ "Period": "Early Imperial",
+ "Date": "first half of 1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": "H. 2 1/8 in. (5.4 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1350",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles",
+  "Perfume bottles"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006210,
+ "related-artworks": [
+  130000055,
+  130000063,
+  130000058,
+  130000069,
+  130000092
+ ],
+ "Description": "Translucent turquoise blue.Everted rim with rounded outer lip; cylindrical neck; squat piriform body; concave bottom.Body complete, but missing two-thirds of rim; pinprick and some large bubbles; pitting, small patches of whitish weathering, and iridescence on exterior, soil encrustation and whitish weathering on interior.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006210"
+  }
+ }
+}

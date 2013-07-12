@@ -1,0 +1,44 @@
+{
+ "Period": "Middle Kingdom–Early New Kingdom",
+ "Dynasty": "Dynasty 12–18",
+ "Date": "ca. 1981–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Cemetery, MMA",
+ "Medium": "Glazed steatite",
+ "Dimensions": "l. 2 cm (13/16 in)",
+ "Credit Line": "Rogers Fund and Edward S. Harkness Gift, 1920",
+ "Accession Number": "20.1.28",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Glazing",
+  "Talc",
+  "Steatite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100002217,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/20.1.28_bot.jpg",
+ "related-artworks": [
+  100001482,
+  100001609,
+  100002196,
+  100002202,
+  100002939
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100002217"
+  }
+ }
+}

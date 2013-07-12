@@ -1,0 +1,36 @@
+{
+ "Artist": "After Giulio Romano (Italian, Rome 1499?–1546 Mantua)",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 7 1/2 x 11 in. (19 x 28 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.97.484",
+ "Who": [
+  "Giulio Romano",
+  "Adamo (Ghisi) Scultori"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90071542,
+ "related-artworks": [
+  90032369,
+  90038389,
+  90056098,
+  90057630,
+  90071457
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90071542"
+  }
+ }
+}

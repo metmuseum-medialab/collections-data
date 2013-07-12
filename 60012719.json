@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1835",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "H. 9 1/2 in. (24.1 cm); W. 14 in. (35.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Fletcher Fund, 1928",
+ "Accession Number": "JP1497",
+ "Who": "Utagawa Kunisada",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60012719,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP124454.jpg",
+ "related-artworks": [
+  60029192,
+  60029198,
+  60029215,
+  60029202,
+  60029228
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60012719"
+  }
+ }
+}

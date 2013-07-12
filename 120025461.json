@@ -1,0 +1,69 @@
+{
+ "Date": "1872",
+ "Culture": "French, Auteuil",
+ "Medium": "Cast terracotta",
+ "Dimensions": "H. 24 in. (61 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of James S. Deely, 1997, in memory of Patricia Johnson Deely, 1997",
+ "Accession Number": "1997.491",
+ "Who": "Jean-Baptiste Carpeaux",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Figures",
+  "Busts"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Auteuil"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Jean–Baptiste Carpeaux (1827–1875)",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120025461,
+ "gallery-id": 556,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DT1017.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/DT1017.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/ES411.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DT4245.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/ES412.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/263609.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/263610.jpg"
+ ],
+ "Provenance": [
+  "[ Fabius Frères , Paris (until 1973; sold to Deely) ]",
+  "James S. Deely (1973–97; to MMA)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120006241"
+   },
+   {
+    "href": "http://scrapi.org/object/120023944"
+   },
+   {
+    "href": "http://scrapi.org/object/120010092"
+   },
+   {
+    "href": "http://scrapi.org/object/120021674"
+   },
+   {
+    "href": "http://scrapi.org/object/120023903"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120025461"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120025461"
+  }
+ }
+}

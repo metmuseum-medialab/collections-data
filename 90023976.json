@@ -1,0 +1,31 @@
+{
+ "Date": "18th century",
+ "Medium": "Pen and black ink, brush and gray wash, graphite",
+ "Dimensions": "sheet 9 5/8 x 7 13/16 in. (24.5 x 19.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.50.147",
+ "Who": "Anonymous, French, 18th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023976,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/49.50.147.jpg",
+ "related-artworks": [
+  90004741,
+  90004742,
+  90007036,
+  90007037,
+  90007433
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023976"
+  }
+ }
+}

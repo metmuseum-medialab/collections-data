@@ -1,0 +1,39 @@
+{
+ "Date": "late 1940s–early 1950s",
+ "Medium": "Graphite on paper",
+ "Dimensions": [
+  "H. 11, W. 8-1/2 inches",
+  "(27.9 x 21.6 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Alan and Michael Lipton, 1991",
+ "Accession Number": "1991.434.8",
+ "Who": "Seymour Lipton",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210006102,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1991.434.8.jpg",
+ "related-artworks": [
+  210006087,
+  210006099,
+  210006100,
+  210006101,
+  210006103
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006102"
+  }
+ }
+}

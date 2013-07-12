@@ -1,0 +1,45 @@
+{
+ "Period": "Qing dynasty (1644–1911), Jiaqing period (1796–1820)",
+ "Culture": "China",
+ "Medium": "Pine soot and binding medium; inscribed in gilt",
+ "Dimensions": "H. 3 7/8 in. (9.8 cm); W. 2 in. (5.1 cm)",
+ "Classification": "Ink",
+ "Credit Line": "Rogers Fund, 1929",
+ "Accession Number": "30.76.221",
+ "Who": "Jian Guzhai",
+ "What": [
+  "Ink",
+  "Gilt",
+  "Wood",
+  "Softwood",
+  "Tablets",
+  "Pine"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60009124,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/30_76_221_F.jpg",
+ "related-artworks": [
+  60009127,
+  60009122,
+  60009123,
+  60009125,
+  60009153
+ ],
+ "Description": "This ink tablet is from a sixty-four-tablet set (30.76.216–.279) commissioned by the Jiaqing emperor from the Studio for Appreciating the Antique (Jiangu Zhai) manufactory of the Wang Jinsheng family in Huizhou, Anhui Province. Each ink tablet commemorates a hall or pavilion in one of the imperial gardens. Each site’s name is written in gilt characters on one side; a view of the site is presented on the other. Such inks were purely decorative and not intended for use.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009124"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Date": "1820–25",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Mahogany, marble",
+ "Dimensions": "37 x 17 x 42 1/2 in. (94 x 43.2 x 108 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Frederick Warren Stanyer, 1978",
+ "Accession Number": "1978.506",
+ "Who": "Holmes  Haines",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Marble",
+  "Mahogany",
+  "Tables",
+  "Side tables",
+  "Pier tables"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005788,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP115572.jpg",
+ "related-artworks": [
+  10005790,
+  10005792,
+  10005793,
+  10005794,
+  10024293
+ ],
+ "Provenance": [
+  "descended in the Pierpont family, New York",
+  "Mary Pierpont Beckwith, Garrison-on-Hudson, New York, until 1964",
+  "Frederick Warren Stanyer, Garrison-on-Hudson, New York, 1964–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005788"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Monochrome woodblock print; ink on paper",
+ "Dimensions": "H. 6 5/16 in. (16 cm); W. 6 7/16 in. (16.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "JP1592",
+ "Who": "Hishikawa Moronobu",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60026907,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP124577.jpg",
+ "related-artworks": [
+  60000803,
+  60001225,
+  60012801,
+  60026909,
+  60027721
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026907"
+  }
+ }
+}

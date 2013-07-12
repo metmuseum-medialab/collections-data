@@ -1,0 +1,58 @@
+{
+ "Date": "1627",
+ "Medium": "Oil on canvas",
+ "Dimensions": "105 1/2 x 73 in. (268 x 185.4 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Victor Wilbour Memorial Fund, 1959",
+ "Accession Number": "59.32",
+ "Who": "Guido Reni",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Domenichino (Domenico Zampieri) (1581–1641)",
+ "MetPublications": "Search for related Met publications",
+ "id": 110001873,
+ "gallery-id": 601,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT1138.jpg",
+ "related-artworks": [
+  110001872,
+  90005727,
+  90007738,
+  90007734,
+  90014532
+ ],
+ "Provenance": [
+  "commissioned for María, Infanta of Spain, by the Spanish ambassador to Rome, in 1627",
+  "Seville cathedral",
+  "Horace François Bastien Sebastiani de la Porta, comte Sebastiani, later Maréchal (imported to Paris",
+  "sold to Delahante)",
+  "Alexis Delahante, London (sold to Taylor)",
+  "George Watson Taylor, Cavendish Square, London, and Erlestoke Mansion, Wiltshire (by 1818–32",
+  "his sale, Christie's, London, June 13, 1823, no. 65, as \"Assumption of the Virgin,\" withdrawn",
+  "his sale, George Robins, Erlestoke, July 25, 1832, no. 158, for £1,102.12 to Smith)",
+  "[Smith, London, from 1832]",
+  "Lord Francis Egerton, later 1st Earl of Ellesmere, Bridgewater House, London (by 1836–d. 1857",
+  "cats., 1851, 1856, no. 117)",
+  "the Earls of Ellesmere, Bridgewater House (1857–1944",
+  "cats., 1897, 1907, no. 117)",
+  "John Sutherland Egerton, 5th Earl of Ellesmere, Bridgewater House (1944–46",
+  "his sale, Christie's, London, October 18, 1946, no. 135, as \"The Assumption,\" for £6.6 to Reder)",
+  "David Reder, London (from 1946)",
+  "[Oscar Klein, New York, 1956–58]",
+  "[Acquavella, New York, 1958–59",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001873"
+  }
+ }
+}

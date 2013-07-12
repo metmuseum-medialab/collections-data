@@ -1,0 +1,45 @@
+{
+ "Period": "Cypro-Geometric I",
+ "Date": "1050–950 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 7 5/16 in. (18.6 cm)",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.784",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+  "The Eastern Mediterranean, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130000837,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP132619.jpg",
+ "related-artworks": [
+  130000429,
+  130000430,
+  130000431,
+  130000412,
+  130000432
+ ],
+ "Description": "The vase appears to be a variant of the askos, a bag-shaped flask with one spout and a handle over the top. While askoi often take the form of birds, the animal here appears to be a quadruped and is equipped with two spouts.",
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130000837"
+  }
+ }
+}

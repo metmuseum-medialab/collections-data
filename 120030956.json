@@ -1,0 +1,42 @@
+{
+ "Date": "17th century",
+ "Culture": "Spanish or Swiss",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 51 x W. 5 inches (129.5 x 12.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. William M. Kingsland, 1908",
+ "Accession Number": "08.30",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace",
+  "Borders"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120030956,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/3771.jpg",
+ "related-artworks": [
+  120032791,
+  120032793,
+  120036460,
+  120045304,
+  120030382
+ ],
+ "Provenance": [
+  "Mrs. William M. Kingsland (until 1908",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120030956"
+  }
+ }
+}

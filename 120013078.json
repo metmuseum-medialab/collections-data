@@ -1,0 +1,62 @@
+{
+ "Date": "1738–44",
+ "Culture": "French (Bordeaux)",
+ "Medium": "Silver",
+ "Dimensions": "L. 1-3/16 in. (3.0 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Jacques Helft, 1938",
+ "Accession Number": "38.113.11",
+ "Who": "L.V.L.",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Aquitaine",
+  "Bordeaux"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013078,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/115930.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120015185",
+  "http://scrapi.org/object/120015216",
+  "http://scrapi.org/object/120015219",
+  "http://scrapi.org/object/120015220",
+  "http://scrapi.org/object/120015239"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Jacques Helft (until 1938; to MMA)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120015185"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120015216"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120015219"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120015220"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120015239"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120013078"
+  }
+ }
+}

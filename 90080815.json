@@ -1,0 +1,48 @@
+{
+ "Medium": "Woodcut",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Henry W. Keny, transferred from the Printing Office, 1941",
+ "Accession Number": "41.44.25",
+ "Who": "Hans Holbein the Younger",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90080815,
+ "Provenance": [
+  "Donor: Henry W. Kent"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90080813"
+   },
+   {
+    "href": "http://scrapi.org/object/90080816"
+   },
+   {
+    "href": "http://scrapi.org/object/90080814"
+   },
+   {
+    "href": "http://scrapi.org/object/90036118"
+   },
+   {
+    "href": "http://scrapi.org/object/90003303"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90080815"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90080815"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "17th century",
+ "Medium": "Pen and brown ink over black chalk underdrawing.  On off-white paper",
+ "Dimensions": "3-9/16 x 4-3/4 in.  (9.0 x 12.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mr. and Mrs. William B. Jaffe, 1956",
+ "Accession Number": "56.235.28",
+ "Who": "Anonymous, Spanish, School of Seville, 17th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Chalk",
+  "Underdrawings"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90003544,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800528.jpg",
+ "related-artworks": [
+  90003681,
+  90003454,
+  90003468,
+  90003469,
+  90003473
+ ],
+ "Provenance": [
+  "Catalina Maria Brackenburg (her bookplate appears in the front cover of the original album)",
+  "Sotheby's, Wilkinson & Hodge- sale February 27, 1924, Lot 7(album of 450 drawings)",
+  "Robert Langton Douglas (British, London 1864–1951)(bought from Sotheby, Wilkinson & Hodge sale, London, for 30 English Pounds)",
+  "Mrs. Edward Fowles (Jean Douglas Fowles) (New York)",
+  "Parke-Bernet (New York)- sale April 1-2, 1952, Lot 76",
+  "Julius H. Weitzner (New York)New York",
+  "Mr. and Mrs. William B. Jaffe (New York)New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90003544"
+  }
+ }
+}

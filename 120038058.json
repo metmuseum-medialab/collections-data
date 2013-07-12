@@ -1,0 +1,40 @@
+{
+ "Date": "last quarter 18th century",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Dimensions": "6 3/4 x 25 1/2 inches (17.1 x 64.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.57.178",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120038058,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/45980.jpg",
+ "related-artworks": [
+  120040857,
+  120030659,
+  120030816,
+  120030820,
+  120030827
+ ],
+ "Provenance": [
+  "Mme  Marié , 1920",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120038058"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "1911",
+ "Culture": "French",
+ "Medium": "linen",
+ "Dimensions": "Length at CB 50 in. (127 cm)",
+ "Credit Line": "Catharine Breyer Van Bomel Foundation Fund, 2005",
+ "Accession Number": "2005.188",
+ "Who": "Paul Poiret",
+ "What": [
+  "Costume",
+  "Linen",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The Chiton, Peplos, and Himation in Modern Dress",
+  "Paul Poiret (1879–1944)",
+  "French Art Deco",
+  "Classicism in Modern Dress",
+  "Haute Couture",
+  "Twentieth–Century Silhouette and Support",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80054352,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DP144897.jpg",
+ "related-artworks": [
+  80054354,
+  80054375,
+  80093842,
+  80002718,
+  80002839
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80054352"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "1899",
+ "Medium": "Lithograph printed in five colors, on china paper",
+ "Dimensions": "image 13 x 13 3/4 in. (33 x 35 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Amy and David Dufour, 2002",
+ "Accession Number": "2002.516",
+ "Who": "Pierre Bonnard",
+ "What": [
+  "Prints",
+  "Paper",
+  "Planographic prints",
+  "Lithographs",
+  "China paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Japonisme",
+  "Lithography in the Nineteenth Century",
+  "Pierre Bonnard (1867–1947) The Late Interiors",
+  "School of Paris",
+  "The Nabis and Decorative Painting",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90026977,
+ "related-artworks": [
+  90004160,
+  90004162,
+  90004164,
+  90004114,
+  90004173
+ ],
+ "Provenance": [
+  "Donor: Amy and David Dufour"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026977"
+  }
+ }
+}

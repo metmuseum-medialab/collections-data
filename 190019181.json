@@ -1,0 +1,41 @@
+{
+ "Date": "1981",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "25.4 x 20.3 cm. (10  x 8  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 1995",
+ "Accession Number": "1995.267.4",
+ "Who": "Sherrie Levine",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Pictures Generation",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190019181,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP156446.jpg",
+ "related-artworks": [
+  190019018,
+  190019019,
+  190019020,
+  190019021,
+  190019022
+ ],
+ "Provenance": [
+  "Sherrie Levine"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190019181"
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "Medium": "pen and black ink with red highlights",
+ "Dimensions": "3-3/8 x 5-1/8 in.  (8.6 x 13.0 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mrs. Albert Broccoli, 1980",
+ "Accession Number": "1980.1138.4",
+ "Who": "Félicien Rops",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Belgium"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 90003684,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802631.jpg",
+ "related-artworks": [
+  90003682,
+  90003683,
+  90003688,
+  90003690,
+  90003704
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90003684"
+  }
+ }
+}

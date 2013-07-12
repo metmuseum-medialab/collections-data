@@ -1,0 +1,63 @@
+{
+ "Period": "Late Cypriot III",
+ "Date": "ca. 13th–12th century B.C. (?)",
+ "Geography": "Cyprus (?)",
+ "Medium": "Hematite, copper alloy tube in string hole",
+ "Dimensions": [
+  "Seal Face 1.87 x 1.67 cm",
+  "Height 1.75 cm",
+  "String Hole 0.3 cm"
+ ],
+ "Classification": "Stone",
+ "Credit Line": "Gift of The Right Reverend Paul Moore Jr., 1985",
+ "Accession Number": "1985.357.36",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Stone",
+  "Copper",
+  "Seals",
+  "Cord",
+  "Hematite"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30005903,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/vs1985_357_36.jpg",
+ "Provenance": [
+  "Formerly collection of Mrs. William H. Moore, New York (until d. 1955)",
+  "from 1955, on loan to the Museum by her grandson, The Right Reverend Paul Moore, Jr.",
+  "acquired by the Museum in 1985, gift of The Right Reverend Paul Moore, Jr., New York."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/30006507"
+   },
+   {
+    "href": "http://scrapi.org/object/30006503"
+   },
+   {
+    "href": "http://scrapi.org/object/30000009"
+   },
+   {
+    "href": "http://scrapi.org/object/30000010"
+   },
+   {
+    "href": "http://scrapi.org/object/30000011"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/30005903"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/30005903"
+  }
+ }
+}

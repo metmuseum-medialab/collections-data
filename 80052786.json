@@ -1,0 +1,36 @@
+{
+ "Date": "1920–39",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Kayser-Roth Company, Inc., 1975",
+ "Accession Number": "1975.236.8a, b",
+ "Who": "Kayser-Roth Glove Co., Inc",
+ "What": [
+  "Costume",
+  "Silk",
+  "Mittens"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80052786,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1975.236.8ab.jpg",
+ "related-artworks": [
+  80031780,
+  80031782,
+  80052789,
+  80052805,
+  80052788
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052786"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "1549",
+ "Medium": "Pen and brown ink over graphite",
+ "Dimensions": "sheet 3 7/8 x 5 3/4 in. (9.8 x 14.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 2001",
+ "Accession Number": "2001.497",
+ "Who": "Virgil Solis",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012417,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803224.jpg",
+ "related-artworks": [
+  90003265,
+  90011068,
+  90011069,
+  90011070,
+  90011071
+ ],
+ "Provenance": [
+  "Pierre Crozat (Paris, 1665–1740)(?) (according to inscription on mount)",
+  "Peter Vischer (Basel, 1751–1823)",
+  "Jean-Marc Du Pan (Geneva, 1785 - 1838)",
+  "Sale, Paris, March 26-28, 1840 (as Anonymous Master)",
+  "Charles Louis Fleury Panckoucke (French, 1780–1844)(according to the inscription on the mount)",
+  "Christie's, LondonJuly 10, 2001, lot 149",
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90012417"
+  }
+ }
+}

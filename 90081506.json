@@ -1,0 +1,41 @@
+{
+ "Date": "1887",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 x 1 1/2 in. (7 x 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "63.350.201.3.22",
+ "Who": "Allen & Ginter",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90081506,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP828685.jpg",
+ "related-artworks": [
+  90080953,
+  90080954,
+  90080951,
+  90080952,
+  90080957
+ ],
+ "Description": "Trade cards from the \"Arms of All Nations\" series (N3), issued in 1887 in a series of 50 cards to promote Allen & Ginter Brand Cigarettes.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90081506"
+  }
+ }
+}

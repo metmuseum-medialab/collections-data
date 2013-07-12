@@ -1,0 +1,35 @@
+{
+ "Culture": "China (possibly Turkestan)",
+ "Medium": "Nephrite",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.100a, b",
+ "What": [
+  "Fragments",
+  "Jade",
+  "Nephrite"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "id": 60011088,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/02_18_100ab Fragment.JPG",
+ "related-artworks": [
+  60011072,
+  60011052,
+  60011055,
+  60011056,
+  60011057
+ ],
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60011088"
+  }
+ }
+}

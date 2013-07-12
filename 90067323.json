@@ -1,0 +1,47 @@
+{
+ "Publisher": "Published London by William Humphrey (British, 1742?–before 1814)",
+ "Date": "February 3, 1784",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 9 3/4 x 12 1/16 in. (24.8 x 30.7 cm)",
+  "sheet 11 9/16 x 17 15/16 in. (29.4 x 45.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Georgiana W. Sargent, in memory of John Osborne Sargent, 1924",
+ "Accession Number": "24.63.155",
+ "Who": [
+  "Thomas Rowlandson",
+  "William Humphrey"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Watercolor Painting in Britain, 1750–1850",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90067323,
+ "related-artworks": [
+  90022016,
+  90027822,
+  90034274,
+  90058114,
+  90059864
+ ],
+ "Provenance": [
+  "Donor: Georgiana W. Sargent"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90067323"
+  }
+ }
+}

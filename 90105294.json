@@ -1,0 +1,47 @@
+{
+ "Date": "1910",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 × 1 1/2 in. (7 × 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 314, E49.15",
+ "Who": "American Caramel Company, Philadelphia",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90105294,
+ "Description": "Trade cards from the \"Wild West Caramels\" series (E49), issued in a set of 20 cards in 1910 by the American Caramel Company to promote Wild West Caramels.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90102869"
+   },
+   {
+    "href": "http://scrapi.org/object/90102872"
+   },
+   {
+    "href": "http://scrapi.org/object/90102864"
+   },
+   {
+    "href": "http://scrapi.org/object/90102867"
+   },
+   {
+    "href": "http://scrapi.org/object/90103025"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90105294"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90105294"
+  }
+ }
+}

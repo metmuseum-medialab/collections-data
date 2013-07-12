@@ -1,0 +1,44 @@
+{
+ "Medium": "Oil on paper, laid down on cardboard",
+ "Dimensions": "10 x 7 1/2 in. (25.4 x 19.1 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Thaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library & Museum, Gift of Eugene V. Thaw, 2009",
+ "Accession Number": "2009.400.48",
+ "Who": "Johann Georg von Dillis",
+ "What": [
+  "Paper",
+  "Paintings",
+  "Oil paint",
+  "Cardboard"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110004338,
+ "gallery-id": 807,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP236405.jpg",
+ "related-artworks": [
+  110004339,
+  90057808,
+  90034785,
+  90034896,
+  90044774
+ ],
+ "Provenance": [
+  "[Galerie Zinckgraf, Munich]",
+  "Dr. Eugen Roth, Munich (by 1961–d. 1976)",
+  "by descent to private collection (1976–at least 1991)",
+  "[Daxer & Marschall, Munich, in 2000]",
+  "Eugene V. Thaw, New York (by 2002–9)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110004338"
+  }
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "Date": "1943",
+ "Classification": "Books",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.162",
+ "Who": "William H. Herndon",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190028629,
+ "related-artworks": [
+  190028762,
+  190011331,
+  190011770,
+  190011836
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028629"
+  }
+ }
+}

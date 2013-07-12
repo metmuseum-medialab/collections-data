@@ -1,0 +1,39 @@
+{
+ "Period": "Neo-Assyrian",
+ "Date": "ca. 9th–7th century B.C.",
+ "Geography": "Mesopotamia",
+ "Culture": "Assyrian",
+ "Medium": "Faience",
+ "Dimensions": "0.87 in. (2.21 cm)",
+ "Classification": "Faience",
+ "Credit Line": "Rogers Fund, 1956",
+ "Accession Number": "56.81.45",
+ "Who": "Assyrian",
+ "What": [
+  "Faience",
+  "Seals",
+  "Cylinder seals"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003192,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss56_81_45.jpg",
+ "related-artworks": [
+  30003178,
+  30003015,
+  30003180,
+  30003182,
+  30003183
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003192"
+  }
+ }
+}

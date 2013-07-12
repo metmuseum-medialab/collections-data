@@ -1,0 +1,47 @@
+{
+ "Date": "early 20th century",
+ "Geography": "Mali, Diolia region, Beleco village",
+ "Culture": "Bamana peoples",
+ "Medium": "Wood, fiber, cotton, cowrie shells, seeds, wax, duiker horn",
+ "Dimensions": "H. 30 in.  (69.9 cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Gift of Dr. and Mrs. Pascal James Imperato, 2006",
+ "Accession Number": "2006.225.2",
+ "What": [
+  "Costume",
+  "Sculpture",
+  "Cotton",
+  "Shell",
+  "Wax",
+  "Headdresses",
+  "Horn",
+  "Sea shell",
+  "Cowrie shell"
+ ],
+ "Where": [
+  "Africa",
+  "Mali"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Western and Central Sudan, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50011920,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/Origins6.jpg",
+ "related-artworks": [
+  50012926,
+  50011923,
+  50007720,
+  50002923,
+  50004957
+ ],
+ "Provenance": [
+  "Collected in Dioila  region of Mali, Beleco village, by Pascal James Imperato, 1968",
+  "Pascal James and Eleanor M. Imperato, New York, 1968–2006"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50011920"
+  }
+ }
+}

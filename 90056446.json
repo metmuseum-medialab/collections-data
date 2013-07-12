@@ -1,0 +1,51 @@
+{
+ "Artist": "Designed by Jean Desmarets de Saint-Sorlin (French, 1595–1676)",
+ "Publisher": "Published by Henri Le Gras (French)",
+ "Dedicatee": "Made for Louis XVI, King of France (French, Versailles 1754–1793 Paris)",
+ "Patron": "Commissioned by Cardinal Jules Mazarin (Italian, Piscina 1602–1661 Vincennes)",
+ "Date": "1644",
+ "Medium": "Etching, state iii",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Estate of James Hazen Hyde, 1959",
+ "Accession Number": "59.654.19",
+ "Who": [
+  "Stefano della Bella",
+  "Cardinal Jules Mazarin",
+  "Jean Desmarets de Saint-Sorlin",
+  "Henri Le Gras",
+  "Louis XVI, King of France"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Printed Image in the West History and Techniques",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90056446,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818157.jpg",
+ "related-artworks": [
+  90009182,
+  90039895,
+  90047320,
+  90047318,
+  90047322
+ ],
+ "Provenance": [
+  "Lady Ch. E. Schreiber (British, 1812–1895)",
+  "Donor: James Hazen Hyde (American, New York 1876–1959)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90056446"
+  }
+ }
+}

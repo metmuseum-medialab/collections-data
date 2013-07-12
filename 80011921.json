@@ -1,0 +1,33 @@
+{
+ "Date": "1800–1943",
+ "Culture": "Asian, Central (Bokharan peoples)",
+ "Medium": "silk, metal thread",
+ "Dimensions": "Length 12 in. (30.5 cm)",
+ "Credit Line": "Gift of Mr. Beaumont Newhall, 1943",
+ "Accession Number": "C.I.43.12.58",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Headdresses"
+ ],
+ "Where": [
+  "Asia"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80011921,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI43.12.58_B.jpg",
+ "related-artworks": [
+  80008555,
+  80010840,
+  80011961,
+  80061145,
+  80061149
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80011921"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "16th or 17th century",
+ "Culture": "Spanish",
+ "Medium": "Silk; metal; linen",
+ "Dimensions": "7 1/4 x 26 3/8 in. (18.4 x 67 cm) with fringe",
+ "Classification": "Textiles",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.1890B",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Linen",
+  "Vestments",
+  "Amices"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": [
+  "Iberian Peninsula, 1600–1800 A.D.",
+  "Iberian Peninsula, 1400–1600 A.D."
+ ],
+ "id": 150008486,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/sf-rlc-1975.1.1890b.jpg",
+ "related-artworks": [
+  150008371,
+  150007745,
+  150008336,
+  150008337,
+  150007551
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008486"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "1610",
+ "Culture": "Spanish",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 37 3/4 x W. 25 1/2 inches (95.9 x 64.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2798",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Vestments",
+  "Chasubles"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "id": 120035062,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/147902.jpg",
+ "related-artworks": [
+  120045079,
+  120037725,
+  120039084,
+  120039306,
+  120040731
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120035062"
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "Object Name": "Ewer",
+ "Date": "11th century",
+ "Geography": "Iran, Nishapur; Iran, Nishapur",
+ "Medium": "Bronze; cast, engraved",
+ "Dimensions": "H. 14 1/8 in. (35.9 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.40.240",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Engraving",
+  "Copper alloy",
+  "Bronze",
+  "Ewers"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Metropolitan Museum's Excavations at Nishapur",
+  "Iran, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140006726,
+ "gallery-id": 453,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP100755.jpg",
+ "related-artworks": [
+  140008228,
+  140007234,
+  140006224,
+  140006413,
+  140006414
+ ],
+ "Description": "This is a remarkably elaborate and fine example of a little-known type of ewer. Of special note are the pomegranate finial on the handle and the scenes on the body, which include a man and a saluki hunting dog chasing a hare, and a man fighting a lion, both set against a background of circular, spiraling floral scrolls. The Arabic inscriptions on the neck and shoulder read: \"With auspiciousness, blessing, prosperity and joy,\" and \"With auspiciousness, blessing, joy, happiness, and peace.\"",
+ "Provenance": [
+  "1937, excavated at Tepe Madrasa in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1938, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140006726"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "5th–6th century",
+ "Geography": "Egypt, Thebes",
+ "Medium": "Earthenware; molded",
+ "Dimensions": "6 1/8 in. (15.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Theodore M. Davis, 1914",
+ "Accession Number": "14.6.74",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Lighting devices",
+  "Lamps"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "In the Museum": "Islamic Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 140003848,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf14-6-74.jpg",
+ "related-artworks": [
+  140003845,
+  140003846,
+  140003849,
+  140003850,
+  140003847
+ ],
+ "Provenance": [
+  "Theodore M. Davis, New York (ca. 1912–14)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003848"
+  }
+ }
+}

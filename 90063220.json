@@ -1,0 +1,57 @@
+{
+ "Artist": "After Leonardo da Vinci (Italian, Vinci 1452–1519 Le Clos-Lucé, Amboise)",
+ "Date": "1521 before",
+ "Medium": "Woodcut",
+ "Dimensions": "sheet 10 11/16 x 8 3/8 in. (27.1 x 21.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "George Khuner Collection, Bequest of Marianne Khuner, 1984",
+ "Accession Number": "1984.1201.31",
+ "Who": [
+  "Albrecht Dürer",
+  "Leonardo da Vinci"
+ ],
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Printed Image in the West History and Techniques",
+  "Rembrandt van Rijn (1606–1669) Prints",
+  "Anselm Kiefer (born 1945)",
+  "The Rediscovery of Classical Antiquity",
+  "Albrecht Dürer (1471–1528)",
+  "Europe and the Age of Exploration",
+  "Portraiture in Renaissance and Baroque Europe",
+  "The Reformation",
+  "Arms and Armor – Common Misconceptions and Frequently Asked Questions",
+  "Jan Gossart (ca. 1478–1532) and His Circle",
+  "The Decoration of Arms and Armor",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90063220,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP816477.jpg",
+ "related-artworks": [
+  90003201,
+  90003204,
+  90003205,
+  90003579,
+  90003661
+ ],
+ "Description": "Embroidery pattern made up out of so-called knot work. The main pattern has a circular shape and is presented in white on a dark ground. The knotted ropes or straps form three tiers surrounding the central motif which is an oblong panel, left blank. On all four corners another, leaf-shaped ornament has been added which sticks out of the circle.  The leaves are filled with more knot work in white on the dark ground while swirling straps in black surround them.",
+ "Provenance": [
+  "Donor: George Khuner"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90063220"
+  }
+ }
+}

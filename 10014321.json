@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1845",
+ "Culture": "American",
+ "Medium": "Wool, woven",
+ "Dimensions": "240 x 480 in. (609.6 x 1219.2 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase, Eva Gebhard-Gourgaud Foundation, 1973",
+ "Accession Number": "Inst.1973.6",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Wool"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10014321,
+ "related-artworks": [
+  10013980,
+  10014014,
+  10014018,
+  10014019,
+  10014020
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014321"
+  }
+ }
+}

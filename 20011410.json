@@ -1,0 +1,33 @@
+{
+ "Date": "1837",
+ "Medium": "Oil on canvas",
+ "Dimensions": "36 1/4 x 28 3/8 in. (91.7 x 71.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Mabel Van Rensselaer Johnson, 1959",
+ "Accession Number": "61.70",
+ "Who": "George P. A. Healy",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20011410,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap61.70.jpg",
+ "related-artworks": [
+  20011411,
+  20011413,
+  20011414
+ ],
+ "Provenance": [
+  "the sitter, New York, died 1878",
+  "his daughter, Mabel Van Rensselaer  Johnson, until 1959"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20011410"
+  }
+ }
+}

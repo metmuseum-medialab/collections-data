@@ -1,0 +1,41 @@
+{
+ "Period": "Han dynasty (206 B.C.–A.D. 220)",
+ "Culture": "China",
+ "Medium": "Jade",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Samuel T. Peters, 1913",
+ "Accession Number": "13.40.110",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Pendants",
+  "Jade",
+  "Girdles"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1–500A.D.",
+  "Central and North Asia, 1000 B.C.–1 A.D.",
+  "Central and North Asia, 1–500A.D.",
+  "China, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60010745,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/13_40_110_15306.jpg",
+ "related-artworks": [
+  60010458,
+  60010477,
+  60010568,
+  60010613,
+  60010606
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60010745"
+  }
+ }
+}

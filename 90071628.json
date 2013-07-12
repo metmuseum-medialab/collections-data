@@ -1,0 +1,41 @@
+{
+ "Date": "20th century",
+ "Medium": "Etching with aquatint",
+ "Dimensions": [
+  "plate 5 13/16 x 3 3/4 in. (14.7 x 9.5 cm)",
+  "sheet 9 1/16 x 7 1/16 in. (23 x 17.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Elizabeth McFadden, 1983",
+ "Accession Number": "1983.1155.3",
+ "Who": "Anne Ryan",
+ "What": [
+  "Prints",
+  "Etching",
+  "Aquatint"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90071628,
+ "related-artworks": [
+  90070684,
+  90070682,
+  90070683,
+  90071630,
+  90071631
+ ],
+ "Provenance": [
+  "Donor: Elizabeth McFadden"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90071628"
+  }
+ }
+}

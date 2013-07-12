@@ -1,0 +1,42 @@
+{
+ "Period": "Final Jōmon period (ca. 1000–300 B.C.)",
+ "Culture": "Japan",
+ "Medium": "Bone",
+ "Dimensions": "W. 3/8 in. (1 cm); L. 5 5/8 in. (14.3 cm)",
+ "Classification": "Bone",
+ "Credit Line": "The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+ "Accession Number": "1975.268.367",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Bone",
+  "Needles",
+  "Arrowheads",
+  "Hooks",
+  "Harpoons"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1000 B.C.–1 A.D.",
+  "Japan, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60033668,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1975_268_355-368.JPG",
+ "related-artworks": [
+  60033612,
+  60033619,
+  60033567,
+  60033578,
+  60033579
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033668"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Modeler": "Model attributed to Friedrich Wilhelm Eugen Döll (1750–1816)",
+ "Date": "ca. 1775",
+ "Culture": "German (Thuringia)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 3 in. (7.6 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1950",
+ "Accession Number": "50.211.221 ab",
+ "Who": [
+  "Kloster-Veilsdorf Porcelain Manufactory",
+  "Friedrich Wilhelm Eugen Döll"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Faience",
+  "Porcelain",
+  "Bottles",
+  "Hard paste porcelain",
+  "Perfume bottles",
+  "Scent bottles"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Thuringia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120016110,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/148734.jpg",
+ "related-artworks": [
+  120014088,
+  120003396,
+  120016109,
+  120018702,
+  120018755
+ ],
+ "Provenance": [
+  "Baron Max von Goldschmidt-Rothschild",
+  "[ Stiebel Ltd. , New York, before 1950",
+  "sold to Wilson ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120016110"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Printer": "Imprimerie Blanquart-Évrard",
+ "Date": "1850–53",
+ "Medium": "Salted paper print (Blanquart-Évrard process) from paper negative",
+ "Dimensions": "15.9 x 23 cm (6 1/4 x 9 1/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Harris Brisbane Dick Fund, 1946",
+ "Accession Number": "46.122.12",
+ "Who": [
+  "Unknown",
+  "Imprimerie Blanquart-Évrard"
+ ],
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190020886,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/Unknown46.122.12.jpg",
+ "related-artworks": [
+  190014831,
+  190022443,
+  190023545,
+  190036382,
+  190036390
+ ],
+ "Description": "Simultaneously with Daguerre's invention, the Englishman William Henry Fox Talbot devised a negative/positive photographic process that allowed for multiple prints of a single image--the procedural basis of nearly all photography until quite recently.  This anonymous port scene is part of a portfolio published in 1853 by Louis-Désiré Blanquart-Evrard whose Imprimerie Photographique was the first successful photographic printing firm in France.  The company printed the negatives of many British, French, and Belgian artists and refined the salted paper print process by producing a chemically more stable photograph.",
+ "Provenance": [
+  "E. Weill, London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190020886"
+  }
+ }
+}

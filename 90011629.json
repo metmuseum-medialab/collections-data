@@ -1,0 +1,56 @@
+{
+ "Publisher": "Clark, Austin & Co. (New York, NY)",
+ "Date": "1852",
+ "Medium": "Commercial process and woodcut",
+ "Dimensions": "6 3/16 x 4 1/4 x 11/16 in. (15.7 x 10.8 x 1.8 cm)",
+ "Classification": "Books",
+ "Credit Line": "Anonymous Gift, 1941",
+ "Accession Number": "41.102.27",
+ "Who": [
+  "Jacob Abbott",
+  "Clark, Austin & Co."
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90011629,
+ "Provenance": [
+  "Donor: A. Hyatt Mayor (American, 1901–1980)(anonymous) Donor: William M. Ivins Jr. (American, 1878–1964)(anonymous)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90011631"
+   },
+   {
+    "href": "http://scrapi.org/object/90011632"
+   },
+   {
+    "href": "http://scrapi.org/object/90011635"
+   },
+   {
+    "href": "http://scrapi.org/object/90011637"
+   },
+   {
+    "href": "http://scrapi.org/object/90011642"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90011629"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90011629"
+  }
+ }
+}

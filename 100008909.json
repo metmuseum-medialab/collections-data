@@ -1,0 +1,36 @@
+{
+ "Period": "Ptolemaic or Roman Period",
+ "Date": "304 B.C.–A.D. 364",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "glass",
+ "Credit Line": "Purchase, Edward S. Harkness Gift, 1926",
+ "Accession Number": "26.7.1205",
+ "What": [
+  "Glass",
+  "Fragments"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1–500A.D.",
+  "Egypt, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100008909,
+ "gallery-id": 134,
+ "related-artworks": [
+  100001193,
+  100001899,
+  100004637,
+  100005296,
+  100005297
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008909"
+  }
+ }
+}

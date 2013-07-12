@@ -1,0 +1,41 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Carved and painted wood",
+ "Dimensions": "39-3/8 x 52 in.  (100.0 x 132.1 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+ "Accession Number": "07.225.21",
+ "What": [
+  "Wood",
+  "Painting",
+  "Woodwork",
+  "Frames",
+  "Mirrors"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003745,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/4331.jpg",
+ "related-artworks": [
+  120025723,
+  120003744,
+  120004204,
+  120004164,
+  120003914
+ ],
+ "Provenance": [
+  "Georges Hoentschel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120003745"
+  }
+ }
+}

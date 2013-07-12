@@ -1,0 +1,54 @@
+{
+ "Artist": "Pietro Scattaglia (Italian, active second half 18th century)",
+ "Publisher": "Published by Alessandri e Scattaglia (Italian, active second half 18th century)",
+ "Date": "ca. 1785",
+ "Medium": "Etching and engraving",
+ "Dimensions": "14 x 10 in.  (35.6 x 25.4 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1935",
+ "Accession Number": "35.81.4",
+ "Who": [
+  "Alessandro Allori",
+  "Pietro Scattaglia",
+  "Alessandri e Scattaglia",
+  "Giovanni Antonio Gabriel"
+ ],
+ "What": [
+  "Etching",
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002104,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90075139"
+   },
+   {
+    "href": "http://scrapi.org/object/90041464"
+   },
+   {
+    "href": "http://scrapi.org/object/90002143"
+   },
+   {
+    "href": "http://scrapi.org/object/90013786"
+   },
+   {
+    "href": "http://scrapi.org/object/90014228"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90002104"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90002104"
+  }
+ }
+}

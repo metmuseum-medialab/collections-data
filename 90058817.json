@@ -1,0 +1,37 @@
+{
+ "Date": "n.d.",
+ "Medium": "Graphite",
+ "Dimensions": "sheet 13 1/8 x 6 3/4 in. (33.3 x 17.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1956",
+ "Accession Number": "56.500.186",
+ "Who": "Jacques-Charles-François-Marie Froment-Meurice",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90058817,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811011.jpg",
+ "related-artworks": [
+  90058125,
+  90058124,
+  90058756,
+  90058761,
+  90058757
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90058817"
+  }
+ }
+}

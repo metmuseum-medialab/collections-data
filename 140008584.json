@@ -1,0 +1,52 @@
+{
+ "Object Name": "Album leaf",
+ "Date": "recto and verso early 19th century",
+ "Geography": "India",
+ "Medium": "Ink, opaque watercolor, and gold on paper",
+ "Dimensions": [
+  "H. 15 1/4 in. (38.7 cm)",
+  "W. 10 3/8 in. (26.3 cm)"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955",
+ "Accession Number": "55.121.10.27",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Books",
+  "Gold",
+  "Watercolors",
+  "Albums",
+  "Manuscripts",
+  "Codices"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140008584,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP246555.jpg",
+ "related-artworks": [
+  140008582,
+  140008609,
+  140003786,
+  140008583,
+  140009424
+ ],
+ "Provenance": [
+  "Jack S. Rofe, Scotland (in 1929",
+  "sale, Sotheby's London,December 12, 1929, to Kevorkian)",
+  "[ Hagop Kevorkian, New York, 1929–55",
+  "gift and sale to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008584"
+  }
+ }
+}

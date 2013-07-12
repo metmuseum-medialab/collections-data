@@ -1,0 +1,54 @@
+{
+ "Date": "ca. 1940",
+ "Medium": "Ink and watercolor on paper",
+ "Dimensions": "5 5/8 x 8 7/8 in. (14.3 x 22.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Alfred Stieglitz Collection, 1949",
+ "Accession Number": "49.70.73",
+ "Who": "Arthur Dove",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Watercolors"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Arthur Dove (1880–1946)",
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "Georgia O'Keeffe (1887–1986)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210008745,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210008758"
+   },
+   {
+    "href": "http://scrapi.org/object/210008755"
+   },
+   {
+    "href": "http://scrapi.org/object/210008760"
+   },
+   {
+    "href": "http://scrapi.org/object/210008757"
+   },
+   {
+    "href": "http://scrapi.org/object/210008770"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210008745"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210008745"
+  }
+ }
+}

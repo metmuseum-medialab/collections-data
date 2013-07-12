@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1770–90",
+ "Culture": "Italian (Rome)",
+ "Medium": "Onyx and gold",
+ "Dimensions": "Overall 1 1/8 x 13/16 in. (2.9 x 2.1 cm); visible cameo (confirmed): 24.8 x 16.6 mm",
+ "Classification": "Lapidary Work",
+ "Credit Line": "The Milton Weil Collection, 1939",
+ "Accession Number": "39.22.46",
+ "Who": "Giovanni Pichler",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Gold",
+  "Chalcedony",
+  "Gems",
+  "Cameos",
+  "Onyx"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Rome"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Cameo Appearances",
+  "Rome and Southern Italy, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120013324,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF39_22_46.jpg",
+ "related-artworks": [
+  120013320,
+  120013321,
+  120013323,
+  120013327,
+  120013322
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013324"
+  }
+ }
+}

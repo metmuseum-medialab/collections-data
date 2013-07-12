@@ -1,0 +1,35 @@
+{
+ "Medium": "Etching",
+ "Dimensions": "Sheet 3 1/8 x 3 7/8 in. (8 x 9.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.428.24",
+ "Who": "Stefano della Bella",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The Printed Image in the West History and Techniques",
+ "id": 90085005,
+ "related-artworks": [
+  90027803,
+  90028165,
+  90028166,
+  90032545,
+  90032854
+ ],
+ "Provenance": [
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90085005"
+  }
+ }
+}

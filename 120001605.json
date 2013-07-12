@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Culture": "Italian, Venice (Murano)",
+ "Medium": "Glass, enamelled and gilt",
+ "Dimensions": "Diam. 14 1/4 in. (36.2 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1506",
+ "What": [
+  "Glass",
+  "Gilt",
+  "Plateaus"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001605,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/16776.jpg",
+ "related-artworks": [
+  120001557,
+  120016908,
+  120016911,
+  120001604,
+  120000197
+ ],
+ "Provenance": [
+  "Edward C. Moore"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001605"
+  }
+ }
+}

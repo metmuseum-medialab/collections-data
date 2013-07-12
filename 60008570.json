@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911), Yongzheng period (1723–35)",
+ "Culture": "China",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 3 3/16 in. (8.1 cm)",
+ "Classification": "Snuff Bottles",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.523a, b",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Bottles",
+  "Snuff containers",
+  "Snuff bottles"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "id": 60008570,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/14_40_523_O1.jpg",
+ "related-artworks": [
+  60008356,
+  60008358,
+  60008359,
+  60008558,
+  60008563
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60008570"
+  }
+ }
+}

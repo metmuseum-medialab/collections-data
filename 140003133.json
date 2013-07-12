@@ -1,0 +1,44 @@
+{
+ "Date": "6th–7th century",
+ "Geography": "Egypt",
+ "Medium": "Linen, wool; tapestry weave",
+ "Dimensions": [
+  "H. 4 1/4 in. (10.8 cm)",
+  "W. 3 1/4 in. (8.3 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2712",
+ "What": [
+  "Textiles",
+  "Wool",
+  "Linen",
+  "Tapestries",
+  "Roundels"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "id": 140003133,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/87676.jpg",
+ "related-artworks": [
+  140003007,
+  140001335,
+  140002955,
+  140003043,
+  140003044
+ ],
+ "Provenance": [
+  "Friedrich FischbachCollection, Wiesbaden (until 1909",
+  "sold to Dr. Voos for MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003133"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "early 18th century",
+ "Culture": "Algerian",
+ "Medium": "Steel, silver, brass, wood, tortoiseshell, mother-of-pearl, leather, textile",
+ "Classification": "Swords",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.1550a, b",
+ "What": [
+  "Metal",
+  "Textiles",
+  "Copper alloy",
+  "Silver",
+  "Arms",
+  "Iron and iron alloy",
+  "Edged weapons",
+  "Leather",
+  "Swords",
+  "Brass",
+  "Iron alloy",
+  "Steel",
+  "Pearl",
+  "Tortoise shell",
+  "Sabers"
+ ],
+ "Where": [
+  "Africa",
+  "Algeria"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Western North Africa (The Maghrib), 1600–1800 A.D.",
+ "id": 40002552,
+ "gallery-id": 379,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/DP164599.jpg",
+ "related-artworks": [
+  40000614,
+  40003110,
+  40012458,
+  40001078,
+  40007405
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40002552"
+  }
+ }
+}

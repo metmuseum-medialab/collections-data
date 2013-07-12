@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1512",
+ "Medium": "Engraving",
+ "Classification": "Prints",
+ "Credit Line": "George Khuner Collection, Bequest of Marianne Khuner, 1984",
+ "Accession Number": "1984.1201.57",
+ "Who": "Lucas van Leyden",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Northern Mannerism in the Early Sixteenth Century",
+  "Rembrandt van Rijn (1606–1669) Prints",
+  "Johannes Vermeer (1632–1675) and The Milkmaid",
+  "Rembrandt van Rijn (1606–1669) Paintings",
+  "Jan Gossart (ca. 1478–1532) and His Circle",
+  "Low Countries, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90035569,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818963.jpg",
+ "related-artworks": [
+  90003238,
+  90003240,
+  90003243,
+  90019025,
+  90019028
+ ],
+ "Provenance": [
+  "Donor: Bequest of Marianne Khuner (Mrs. George Khuner)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90035569"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Period": "Central Javanese period",
+ "Date": "second half of the 8th–second half of the 10th century",
+ "Culture": "Indonesia (Java)",
+ "Medium": "Gold",
+ "Dimensions": "H. 3/4 in. (1.9 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "The Samuel Eilenberg-Jonathan P. Rosen Collection of Indonesian Gold, Bequest of Samuel Eilenberg and Gift of Jonathan P. Rosen, 1998",
+ "Accession Number": "1998.544.252a, b",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings",
+  "Clips",
+  "Ear clips"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 500–1000 A.D.",
+ "id": 60020808,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1998_544_252a.jpg",
+ "related-artworks": [
+  60020424,
+  60020416,
+  60020432,
+  60020434,
+  60020634
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60020808"
+  }
+ }
+}

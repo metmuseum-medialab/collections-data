@@ -1,0 +1,30 @@
+{
+ "Geography": "Costa Rica",
+ "Classification": "Chordophone-Musical Bow",
+ "Accession Number": "89.4.2385",
+ "What": [
+  "Musical instruments",
+  "Chordophones",
+  "Bows"
+ ],
+ "Where": [
+  "North and Central America",
+  "Costa Rica"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Musical Instruments",
+ "id": 180015546,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS265A.jpg",
+ "related-artworks": [
+  180016769,
+  180017278,
+  180014507,
+  180014753,
+  180014736
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180015546"
+  }
+ }
+}

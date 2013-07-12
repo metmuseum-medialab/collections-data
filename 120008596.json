@@ -1,0 +1,45 @@
+{
+ "Maker": "Jean-François Defer (master 1766, recorded 1789)",
+ "Date": "ca. 1766",
+ "Culture": "French (Paris)",
+ "Medium": "Gold, enamel",
+ "Dimensions": "3-5/8 x 3-1/2 in.  (9.2 x 8.9 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.1213",
+ "Who": [
+  "Jean-Baptiste Carnay",
+  "Jean-François Defer"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Gold",
+  "Enamel",
+  "Snuff containers",
+  "Platinum",
+  "Snuffboxes"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 120008596,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/39726.jpg",
+ "related-artworks": [
+  120008514,
+  120008515,
+  120008525,
+  120008519,
+  120008527
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120008596"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "1969",
+ "Medium": "Cellocut",
+ "Dimensions": "18 3/4 x 26 3/4 in. (47.6 x 67.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Stanley I. Zimiles, 2006",
+ "Accession Number": "2006.578.9",
+ "Who": "Boris Margo",
+ "What": [
+  "Prints",
+  "Cellocuts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90049797,
+ "related-artworks": [
+  90043575,
+  90043578,
+  90043579,
+  90043580,
+  90043581
+ ],
+ "Provenance": [
+  "Donor: Stanley Zimiles"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90049797"
+  }
+ }
+}

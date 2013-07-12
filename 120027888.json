@@ -1,0 +1,42 @@
+{
+ "Date": "18th and 20th century",
+ "Culture": "French, Paris",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 1 5/8 in. (41 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Louis S. Levy, 1950",
+ "Accession Number": "50.194.96",
+ "Who": "Pierre-Simon-Benjamin Duvivier",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1900 A.D.–present",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120027888,
+ "related-artworks": [
+  120027883,
+  120027878,
+  120027887,
+  120027893,
+  120027902
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120027888"
+  }
+ }
+}

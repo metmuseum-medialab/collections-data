@@ -1,0 +1,51 @@
+{
+ "Department Store": "G. Fox & Company (American, founded 1847)",
+ "Date": "ca. 1940",
+ "Culture": "American",
+ "Medium": "Wool",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Richard Koopman, 1971",
+ "Accession Number": "2009.300.5804",
+ "Who": [
+  "Lilly Daché",
+  "G. Fox & Company"
+ ],
+ "What": [
+  "Costume",
+  "Wool",
+  "Hats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80108223,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/71.191.33_CP2.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80005312"
+   },
+   {
+    "href": "http://scrapi.org/object/80045362"
+   },
+   {
+    "href": "http://scrapi.org/object/80045438"
+   },
+   {
+    "href": "http://scrapi.org/object/80045531"
+   },
+   {
+    "href": "http://scrapi.org/object/80045707"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80108223"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80108223"
+  }
+ }
+}

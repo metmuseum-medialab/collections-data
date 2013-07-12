@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1867–70",
+ "Medium": "Oil on canvas",
+ "Dimensions": "26 1/8 x 41 3/4 in. (66.4 x 106 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.95.253",
+ "Who": "Pierre Puvis de Chavannes",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "Symbolism",
+  "The Nabis and Decorative Painting",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110001797,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT2153.jpg",
+ "related-artworks": [
+  110001791,
+  110001794,
+  110001795,
+  110001798,
+  110001792
+ ],
+ "Provenance": [
+  "M. Gadala (until 1896",
+  "sold on March 30 to Durand-Ruel)",
+  "[Durand-Ruel, Paris, 1896",
+  "sold on March 30 to Durand-Ruel, New York]",
+  "[Durand-Ruel, New York, 1896",
+  "sold on April 8 for $3,000 to Davis]",
+  "Theodore M. Davis, Newport, Rhode Island and New York (1896–d. 1915",
+  "his estate, on loan to the MMA, 1915–30)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001797"
+  }
+ }
+}

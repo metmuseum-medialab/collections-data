@@ -1,0 +1,46 @@
+{
+ "Period": "Archaic",
+ "Date": "last quarter of 6th century B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; black-figure",
+ "Dimensions": "H. 11 5/16 in. (28.7 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Purchase, 1896",
+ "Accession Number": "96.9.9",
+ "Who": "New York 96.9.9",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Amphorae",
+  "Neck amphorae"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006585,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP138642.jpg",
+ "related-artworks": [
+  130007062,
+  130007189,
+  130007209,
+  130007197,
+  130007200
+ ],
+ "Description": "Obverse, Dionysos and Ariadne with satyrs and maenadsReverse, Departure of warriors with chariot",
+ "Provenance": [
+  "Said to be from Tarquinia"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006585"
+  }
+ }
+}

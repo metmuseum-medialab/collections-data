@@ -1,0 +1,39 @@
+{
+ "Date": "10th century",
+ "Culture": "Byzantine",
+ "Medium": "Cloisonné enamel, gold",
+ "Dimensions": "Overall 1/4 x 1 7/16 x 1/16 in. (0.7 x 3.7 x 0.2 cm)",
+ "Classification": "Enamels",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.656",
+ "What": [
+  "Metal",
+  "Fragments",
+  "Gold",
+  "Enamels",
+  "Borders",
+  "Cloisonné"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004414,
+ "gallery-id": 300,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-656s1.jpg",
+ "related-artworks": [
+  170004411,
+  170004412,
+  170004413,
+  170004417,
+  170004419
+ ],
+ "Provenance": [
+  "Alex W. von Zvenigorodskii (1837 - 1903), Russia",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004414"
+  }
+ }
+}

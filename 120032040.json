@@ -1,0 +1,40 @@
+{
+ "Date": "19th century",
+ "Culture": "Cypriote",
+ "Medium": "Bobbin lace",
+ "Dimensions": [
+  "L. 22 x W. 15 1/2 inches",
+  "55.9 x 39.4 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.21",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Arabian Peninsula and the Eastern Mediterranean, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120032040,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/5490A.jpg",
+ "related-artworks": [
+  120033091,
+  120033093,
+  120033096,
+  120033087,
+  120033098
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032040"
+  }
+ }
+}

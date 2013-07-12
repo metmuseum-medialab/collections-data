@@ -1,0 +1,43 @@
+{
+ "Date": "1st–2nd century",
+ "Geography": "Peru",
+ "Culture": "Nasca",
+ "Medium": "Gold",
+ "Dimensions": "H. 4 7/8 x  W. 4 7/8 in. (12.4 x 12.4 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.511",
+ "Who": "Nazca",
+ "What": [
+  "Metal",
+  "Gold"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50005383,
+ "gallery-id": 357,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_206_511.jpg",
+ "related-artworks": [
+  50004830,
+  50005605,
+  50010968,
+  50004831,
+  50005606
+ ],
+ "Description": "Compared to the large quantities of spectacular metal objects found in lavish elite burials of Peru's Moche people, the tombs of the contemporary Nazca people of the south have yielded few gold objects. Usually of simple design and technique such as these sheet gold ornaments, perhaps made to embellish textiles, representations share similarities with the imagery painted on Nazca ceramics. Here the creature may depict a composite supernatural that has been called a \"cat demon\" or a \"trophy head taster.\" The distinctive wavy lines on the tail feathers identify the body, wings, and tail as those of a falcon, while the head and rear paws are thought to be of a feline, perhaps the pampas cat often portrayed with a protruding tongue. Versions of this figure on Nazca ceramics commonly wear feline mouth masks with long whiskers ending in loops. The spirals flanking the tongue on the present ornaments may be a reference to the feline mouth mask.",
+ "Provenance": [
+  "[John Wise, Ltd., New York, until 1957]",
+  "Nelson A. Rockefeller, New York, 1957, on loan to The Museum of Primitive Art, New York, 1957–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50005383"
+  }
+ }
+}

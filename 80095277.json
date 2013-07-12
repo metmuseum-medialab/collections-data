@@ -1,0 +1,37 @@
+{
+ "Date": "1909–11",
+ "Culture": "British",
+ "Medium": "silk, metal",
+ "Dimensions": "Length at CB 69 in. (175.3 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Robert S. Kilborne, 1958",
+ "Accession Number": "2009.300.258",
+ "Who": "Redfern",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80095277,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/58.196.13_CP4.jpg",
+ "related-artworks": [
+  80095953,
+  80093609,
+  80096052,
+  80096595,
+  80095877
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80095277"
+  }
+ }
+}

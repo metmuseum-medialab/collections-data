@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Lacquer, polished wood ground, gold, silver, black and red hiramakie, sabiji; Interior plain",
+ "Dimensions": "H. 3 3/16 in. (8.1 cm); W. 3 1/8 in. (8 cm); D. 1 1/8 in. (2.9 cm)",
+ "Classification": "Inrō",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.691",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Lacquer",
+  "Inro",
+  "Sagemono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60029686,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/91_1_691_O3.JPG",
+ "related-artworks": [
+  60007097,
+  60013262,
+  60013259,
+  60013266,
+  60013418
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029686"
+  }
+ }
+}

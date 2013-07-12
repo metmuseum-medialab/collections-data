@@ -1,0 +1,34 @@
+{
+ "Date": "mid-18th century",
+ "Culture": "Austrian",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "26.268.1",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Staff weapons",
+  "Halberds"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40010897,
+ "related-artworks": [
+  40003941,
+  40006020,
+  40003938,
+  40010803,
+  40013350
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40010897"
+  }
+ }
+}

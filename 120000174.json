@@ -1,0 +1,39 @@
+{
+ "Date": "18th century",
+ "Culture": "Spanish",
+ "Medium": "Glass",
+ "Dimensions": "H. 3 in.  (7.6 cm); W. 6 3/4 in. (17.1 cm.); L. 7 1/2 in. (19.1 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of James Jackson Jarves, 1881",
+ "Accession Number": "81.8.43",
+ "What": [
+  "Glass",
+  "Bowls"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000174,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF81_8_43_img1.jpg",
+ "related-artworks": [
+  120000136,
+  120000167,
+  120000577,
+  120001523,
+  120002312
+ ],
+ "Provenance": [
+  "James Jackson Jarves (until 1881",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000174"
+  }
+ }
+}

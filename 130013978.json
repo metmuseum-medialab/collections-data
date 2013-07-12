@@ -1,0 +1,40 @@
+{
+ "Period": "Archaic",
+ "Date": "2nd half of the 6th century B.C.",
+ "Culture": "Greek, Sicilian",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 9 7/16 in. (24 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "Fletcher Fund, 1935",
+ "Accession Number": "35.11.6",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Sicily"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013978,
+ "gallery-id": 152,
+ "related-artworks": [
+  130012869,
+  130016116,
+  130009268,
+  130011951,
+  130016264
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013978"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "1916–17",
+ "Culture": "British",
+ "Medium": "silk, cotton",
+ "Dimensions": "Length (from shoulder) 46 1/2 in. (118.1 cm)",
+ "Credit Line": "Gift of Julia B. Henry, 1978",
+ "Accession Number": "1978.288.1a, b",
+ "Who": "Lucile",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80003775,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DT10140.jpg",
+ "related-artworks": [
+  80017858,
+  80035970,
+  80017821,
+  80017822,
+  80017849
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80003775"
+  }
+ }
+}

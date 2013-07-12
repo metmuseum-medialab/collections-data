@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1819",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Estate of Samuel Isham, 1914",
+ "Accession Number": "JP212.18",
+ "Who": "Utagawa Kunisada",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60029206,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP148972.jpg",
+ "related-artworks": [
+  60029192,
+  60029198,
+  60029215,
+  60029202,
+  60029228
+ ],
+ "Description": "On view Installation 1, February 2–May 5, 2013These prints on the theme of basket subjects by Kunisada (JP212.15–.18) were probably designed in autumn 1819 when an exhibition of basketry was held in the Ryōgoku district of Edo (present-day Tokyo). This exhibition also included a giant figure of Shutendō ji (Drunken Boy Demon), which was portrayed in a Hiroshige triptych.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029206"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Publisher": "Alliance des Arts (Paris)",
+ "Printer": "Bertauts",
+ "Date": "October 27, 1844",
+ "Medium": "Lithograph",
+ "Dimensions": "Sheet 12 13/16 x 9 5/8 in. (32.5 x 24.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Georgiana W. Sargent, in memory of John Osborne Sargent, 1924",
+ "Accession Number": "24.63.45",
+ "Who": [
+  "Paul Gavarni [Chevalier]",
+  "Bertauts",
+  "Alliance des Arts"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90084307,
+ "related-artworks": [
+  90018048,
+  90024410,
+  90028473,
+  90032320,
+  90049446
+ ],
+ "Provenance": [
+  "Donor: Georgiana W. Sargent"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90084307"
+  }
+ }
+}

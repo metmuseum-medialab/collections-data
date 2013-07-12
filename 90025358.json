@@ -1,0 +1,47 @@
+{
+ "Illustrator": "Illustrated by CHAM [Amédée Charles Henri, Comte de Noé] (French, Paris 1819–1879 Paris)",
+ "Publisher": "Published by J. Hetzel et Compagnie",
+ "Date": "19th century",
+ "Classification": "Books",
+ "Credit Line": "Bequest of Helen W. D. Mileham, 1955",
+ "Accession Number": "55.578.12",
+ "Who": [
+  "J. Hetzel et Compagnie",
+  "CHAM [Amédée Charles Henri, Comte de Noé]",
+  "P. J. Stahl"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90025358,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90001995"
+   },
+   {
+    "href": "http://scrapi.org/object/90002106"
+   },
+   {
+    "href": "http://scrapi.org/object/90002252"
+   },
+   {
+    "href": "http://scrapi.org/object/90002255"
+   },
+   {
+    "href": "http://scrapi.org/object/90018046"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90025358"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90025358"
+  }
+ }
+}

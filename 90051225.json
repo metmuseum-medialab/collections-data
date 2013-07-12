@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1648",
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Grace M. Pugh, 1985",
+ "Accession Number": "1986.1180.644",
+ "Who": "Stefano della Bella",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The Printed Image in the West History and Techniques",
+ "id": 90051225,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP817951.jpg",
+ "Provenance": [
+  "Grace M. Pugh",
+  "Donor: Estate of Grace M. Pugh"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90028165"
+   },
+   {
+    "href": "http://scrapi.org/object/90032854"
+   },
+   {
+    "href": "http://scrapi.org/object/90033430"
+   },
+   {
+    "href": "http://scrapi.org/object/90047319"
+   },
+   {
+    "href": "http://scrapi.org/object/90047317"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90051225"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90051225"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "late 15th century",
+ "Culture": "Northern Italian",
+ "Medium": "Bronze, on green marble base.",
+ "Dimensions": "H. 5-1/2 in. (14 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Ogden Mills, 1924",
+ "Accession Number": "24.212.2",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines",
+  "Marble"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009949,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/58685.jpg",
+ "related-artworks": [
+  120014734,
+  120009948,
+  120009954,
+  120009958,
+  120010142
+ ],
+ "Provenance": [
+  "Ogden Mills (until 1924",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009949"
+  }
+ }
+}

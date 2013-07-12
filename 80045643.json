@@ -1,0 +1,36 @@
+{
+ "Date": "1939",
+ "Culture": "American",
+ "Medium": "straw",
+ "Dimensions": "Length (f to b) 10 1/2 in. (26.7 cm)",
+ "Credit Line": "Gift of Miss Isabel Shults, 1949",
+ "Accession Number": "C.I.49.24.3",
+ "Who": "Bergdorf Goodman",
+ "What": [
+  "Costume",
+  "Hats",
+  "Straw"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80045643,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI49.24.3.jpg",
+ "related-artworks": [
+  80006121,
+  80030513,
+  80034704,
+  80038210,
+  80045651
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80045643"
+  }
+ }
+}

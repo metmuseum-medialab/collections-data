@@ -1,0 +1,40 @@
+{
+ "Designer": "Ralph Lauren (American, born 1939)",
+ "Date": "1973–75",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": [
+  "Length at CB (a) 33 3/4 in. (85.7 cm)",
+  "Length at CB (b) 44 in. (111.8 cm)"
+ ],
+ "Credit Line": "The Jacqueline Loewe Fowler Costume Collection, Gift of Jacqueline Loewe Fowler, 1982",
+ "Accession Number": "1982.82.23a, b",
+ "Who": "Ralph Lauren",
+ "What": [
+  "Costume",
+  "Wool",
+  "Suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80015154,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1982.82.23ab_F.jpg",
+ "related-artworks": [
+  80000511,
+  80009769,
+  80009926,
+  80116809,
+  80116811
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80015154"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Period": "Early Minoan III-Middle Minoan IA",
+ "Date": "ca. 2300-1900 B.C.",
+ "Culture": "Minoan",
+ "Medium": "Terracotta; White-on-dark-ware",
+ "Dimensions": "Other 1 7/8 in. (4.7 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Gift of the American Exploration Society, 1907",
+ "Accession Number": "07.232.202",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades",
+  "Minoa"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southern Europe, 8000–2000 B.C.",
+  "Southern Europe, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130008303,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP21367.jpg",
+ "related-artworks": [
+  130008204,
+  130009034,
+  130009040,
+  130008129,
+  130008140
+ ],
+ "Description": "From Gournia, Crete",
+ "Provenance": [
+  "From Gournia, Crete"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130008303"
+  }
+ }
+}

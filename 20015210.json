@@ -1,0 +1,36 @@
+{
+ "Date": "1861",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 1 1/8 in. (2.9 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Mr. and Mrs. F. S. Wait, 1907",
+ "Accession Number": "07.288.28",
+ "Who": "Anthony Paquet",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20015210,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/136499.jpg",
+ "related-artworks": [
+  20015162,
+  20015169,
+  20015208,
+  20015203,
+  20015269
+ ],
+ "Provenance": [
+  "Mr. and Mrs. F. S. Wait (until 1907)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20015210"
+  }
+ }
+}

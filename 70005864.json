@@ -1,0 +1,43 @@
+{
+ "Date": "6th century",
+ "Geography": "Made in probably Egypt",
+ "Culture": "Byzantine",
+ "Medium": "Ivory",
+ "Dimensions": "Overall 1 x 2 7/16 x 1/4 in. (2.6 x 6.2 x 0.6 cm)",
+ "Classification": "Ivories",
+ "Credit Line": "The Cloisters Collection, 1971",
+ "Accession Number": "1971.49.2",
+ "What": [
+  "Fragments",
+  "Bone",
+  "Ivory",
+  "Plaques"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70005864,
+ "gallery-id": 302,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/sf1971-49-2s1.jpg",
+ "related-artworks": [
+  70005863,
+  70010756,
+  70006169,
+  70009824,
+  70012526
+ ],
+ "Description": "These fragments may once have formed a single ivory celebrating the annual flooding of the Nile River. The Nike (personification of victory), holding a wreath, and the long-haired man (personification of the river) are surrounded by erotes, small childlike figures who in Egypt symbolized the number of feet that the river rose each year.With its great wealth, Egypt became a center for the production of luxury goods. In the Hellenistic, Roman, and Byzantine eras, major urban centers along the Nile River, including Alexandria (founded by Alexander the Great), supported classical art and learning. Classical motifs continued to be widely used in the domestic sphere throughout the early Byzantine period.",
+ "Provenance": [
+  "Ernst and Marthe Kofler-Truniger , Lucerne (sold 1971)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70005864"
+  }
+ }
+}

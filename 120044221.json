@@ -1,0 +1,47 @@
+{
+ "Date": "1782",
+ "Culture": "British",
+ "Medium": "Silk and linen on linen",
+ "Dimensions": "H. 10 5/8 x W. 10 3/8 inches (27 x 26.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Katharine deB. Parsons and her brother Livingston Parsons, 1941",
+ "Accession Number": "41.27.2",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Samplers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044221,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/123282.jpg",
+ "related-artworks": [
+  120037086,
+  120037089,
+  120037094,
+  120037183,
+  120045683
+ ],
+ "Provenance": [
+  "Frances Walker Parsons , New York",
+  "Katharine de B. Parsons",
+  "and Livingston Parsons (until 1941",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044221"
+  }
+ }
+}

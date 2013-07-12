@@ -1,0 +1,34 @@
+{
+ "Date": "19th century",
+ "Culture": "Japanese",
+ "Medium": "Shibuichi",
+ "Dimensions": "3-13/16 x 9/16 in.",
+ "Classification": "Sword Furniture",
+ "Credit Line": "Gift of Herman A. E. and Paul C. Jaehne, 1943",
+ "Accession Number": "43.120.391",
+ "Who": "Marukawa Hiroyoshi",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40003579,
+ "related-artworks": [
+  40003500,
+  40000001,
+  40000006,
+  40000015
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40003579"
+  }
+ }
+}

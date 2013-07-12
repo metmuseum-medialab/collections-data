@@ -1,0 +1,45 @@
+{
+ "Date": "16th century",
+ "Culture": "German",
+ "Medium": "Lead",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Rogers Fund, 1907",
+ "Accession Number": "08.80.53",
+ "Who": "Peter Flötner",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Medals",
+  "Plaquettes",
+  "Lead"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Collecting for the Kunstkammer",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120028084,
+ "related-artworks": [
+  120028034,
+  120028029,
+  120028030,
+  120028031,
+  120028032
+ ],
+ "Provenance": [
+  "[ Wurtemburg Electro Plate Co. , 1907",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120028084"
+  }
+ }
+}

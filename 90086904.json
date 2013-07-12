@@ -1,0 +1,36 @@
+{
+ "Artist": "Previously connected to Master f (North Italian, active ca. 1525–40)",
+ "Date": "1450–1550",
+ "Medium": "Pen and brown ink over stylus ruling",
+ "Dimensions": "Sheet 6 7/8 x 4 3/4 in. (17.4 x 12.1 cm)",
+ "Classification": "Ornament & Architecture",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.64.5",
+ "Who": [
+  "Master f",
+  "Anonymous, Italian  Spanish, late 15th to early 16th century",
+  "Giovanni Battista di Jacopo Cennini"
+ ],
+ "What": "Ink",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90086904,
+ "related-artworks": [
+  90013671,
+  90086348,
+  90086370,
+  90086373,
+  90086374
+ ],
+ "Description": "Design for an interlaced geometric pattern. The overall shape describes a vertical rectangle with triangular notches. Three smaller horizontal figures fill up the compartment, while their straps overlap each other and the outer frame in certain places. Two knots with loops are placed on the central vertical axis. The same design returns on 49.64.5(17).",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90086904"
+  }
+ }
+}

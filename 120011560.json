@@ -1,0 +1,42 @@
+{
+ "Date": "16th century",
+ "Culture": "German",
+ "Medium": "Boxwood",
+ "Dimensions": "Diam. 2 in. (5.1 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Mrs. Edward S. Harkness, 1930",
+ "Accession Number": "30.135.9",
+ "What": [
+  "Sculpture",
+  "Wood",
+  "Medals",
+  "Medallions",
+  "Miniature",
+  "Boxwood"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011560,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/81171.jpg",
+ "related-artworks": [
+  120008200,
+  120008205,
+  120008206,
+  120011554,
+  120011564
+ ],
+ "Provenance": [
+  "Mme Achille Jubinal"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011560"
+  }
+ }
+}

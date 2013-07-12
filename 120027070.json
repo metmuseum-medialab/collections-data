@@ -1,0 +1,51 @@
+{
+ "Date": "1820",
+ "Culture": "British, London",
+ "Medium": "Gold",
+ "Dimensions": "Diam. 89 mm.",
+ "Classification": "Coins",
+ "Credit Line": "Gift of Assunta Sommella Peluso, Ada Peluso, and Romano I. Peluso, in memory of Ignazio Peluso, 2000",
+ "Accession Number": "2000.224.5",
+ "Who": "Benedetto Pistrucci",
+ "What": [
+  "Metal",
+  "Gold",
+  "Money",
+  "Coins",
+  "Sovereigns"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Cameo Appearances",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120027070,
+ "gallery-id": 554,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP100377.jpg",
+ "related-artworks": [
+  120027069,
+  120027677,
+  120029151,
+  120029191,
+  120027678
+ ],
+ "Provenance": [
+  "Assunta Sommella Peluso",
+  "and Ada Peluso",
+  "and Romano I. Peluso (until 2000",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120027070"
+  }
+ }
+}

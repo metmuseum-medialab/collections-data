@@ -1,0 +1,43 @@
+{
+ "Date": "8th–mid-16th century",
+ "Geography": "Peru",
+ "Culture": "Peru; north coast (?)",
+ "Medium": "Silver (hammered), gilt",
+ "Dimensions": "H x W 1 15/16 x 1 1/16in. (4.9 x 2.7cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Gift of Nathan Cummings, 1964",
+ "Accession Number": "64.228.472",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gilt"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1400–1600 A.D.",
+  "Central and Southern Andes, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50001552,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/VS64_228_472.JPG",
+ "related-artworks": [
+  50001494,
+  50001495,
+  50001498,
+  50001506,
+  50001509
+ ],
+ "Provenance": [
+  "Bruno J. Wassermann-San Blas Collection, Buenos Aires, Argentina, acquired by 1938, until 1954",
+  "Nathan Cummings, Chicago, 1954–1964"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50001552"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "mid-16th century",
+ "Culture": "Italian (Tuscany) (Siena) (?)",
+ "Medium": "Walnut",
+ "Dimensions": "22-3/4 x 63 x 20-1/2 in.  (57.8 x 160.0 x 52.1 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.154.3",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Walnut",
+  "Case furniture",
+  "Chests",
+  "Cassoni"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Siena"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120007006,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/18814.jpg",
+ "related-artworks": [
+  120007003,
+  120007874,
+  120017267,
+  120058327,
+  120007344
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120007006"
+  }
+ }
+}

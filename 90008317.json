@@ -1,0 +1,56 @@
+{
+ "Artist": "After Raphael (Raffaello Sanzio or Santi) (Italian, Urbino 1483–1520 Rome)",
+ "Date": "ca. 1515–27",
+ "Medium": "Engraving",
+ "Dimensions": "7 3/8 x 5 in.  (18.8 x 12.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.97.18",
+ "Who": [
+  "Raphael (Raffaello Sanzio  Santi)",
+  "Marco Dente"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90008317,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818631.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90008318",
+  "http://scrapi.org/object/90008580",
+  "http://scrapi.org/object/90008583",
+  "http://scrapi.org/object/90008585",
+  "http://scrapi.org/object/90008584"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90008318"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90008580"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90008583"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90008585"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90008584"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90008317"
+  }
+ }
+}

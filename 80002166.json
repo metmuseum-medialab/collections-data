@@ -1,0 +1,39 @@
+{
+ "Date": "1950–69",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": "Length at CB 54 in. (137.2 cm)",
+ "Credit Line": "Gift of Jean Blacker, 1993",
+ "Accession Number": "1993.507.2",
+ "Who": "Norman Norell",
+ "What": [
+  "Costume",
+  "Wool",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Dressing for the Cocktail Hour",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80002166,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1993.507.2_F.jpg",
+ "related-artworks": [
+  80005294,
+  80024001,
+  80024052,
+  80095344,
+  80019211
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002166"
+  }
+ }
+}

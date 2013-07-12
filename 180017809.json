@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1925",
+ "Geography": "New York, New York, United States",
+ "Medium": "Spruce, Brazilian rosewood, ivoroid, tortoise shell",
+ "Dimensions": [
+  "Overall 21 x 15.2 x 62.2cm (8 1/4 x 6 x 24 1/2in.)",
+  "Label 21 x 15.2 x 62.2cm (8 1/4 x 6 x 24 1/2in.)"
+ ],
+ "Classification": "Chordophone-Lute",
+ "Credit Line": "Purchase, The Jonathan & Faye Kellerman Foundation Gift, 2007",
+ "Accession Number": "2007.456",
+ "Who": "John D'Angelico",
+ "What": [
+  "Wood",
+  "Musical instruments",
+  "Chordophones",
+  "Shell",
+  "Softwood",
+  "Lutes",
+  "Tortoise shell",
+  "Rosewood",
+  "Spruce",
+  "Mandolins",
+  "Brazilian rosewood"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City",
+  "Brooklyn"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 180017809,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DP230444.jpg",
+ "related-artworks": [
+  180019061,
+  180016321,
+  180016983,
+  180015456
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180017809"
+  }
+ }
+}

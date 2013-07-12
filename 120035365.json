@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Culture": "Irish",
+ "Medium": "Crochet",
+ "Dimensions": [
+  "L. 7 x W. 1 3/4 inches",
+  "17.8 x 4.4 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.3108",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Crochet"
+ ],
+ "Where": [
+  "Europe",
+  "Republic of Ireland"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 120035365,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP4311.jpg",
+ "related-artworks": [
+  120032441,
+  120032425,
+  120032426,
+  120032427,
+  120032438
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120035365"
+  }
+ }
+}

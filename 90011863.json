@@ -1,0 +1,40 @@
+{
+ "Illustrator": "Illustrated by Antonio Frasconi (Uruguayan, born Buenos Aires, Argentina, 1919)",
+ "Date": "1953",
+ "Medium": "Linocut",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, John B. Turner Fund, 1963",
+ "Accession Number": "63.544",
+ "Who": [
+  "Aesop",
+  "Antonio Frasconi"
+ ],
+ "What": [
+  "Prints",
+  "Linoleum-block printing"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90011863,
+ "related-artworks": [
+  90011870,
+  90011864,
+  90011862,
+  90011809,
+  90044919
+ ],
+ "Provenance": [
+  "Vendor: E. Weyhe (New York, NY)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90011863"
+  }
+ }
+}

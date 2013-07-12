@@ -1,0 +1,37 @@
+{
+ "Medium": "Black and red chalk, heightened with white.",
+ "Dimensions": "9 7/8 x 7 7/8 in. (25.2 x 20.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Edith Sachs, 1951",
+ "Accession Number": "51.76.3",
+ "Who": "Anonymous, French, 16th century",
+ "What": [
+  "Drawings",
+  "Chalk"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90007024,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP808470.jpg",
+ "related-artworks": [
+  90007015,
+  90007019,
+  90007021,
+  90007022,
+  90007043
+ ],
+ "Provenance": [
+  "Jacob de Vos Jbzn (Dutch, Amsterdam 1803–1882 Amsterdam)(Lugt 1450)",
+  "Frederik Muller (Dutch, 1883–1944)Amsterdam, May 22-24, 1883 de Vos Jbzn sale (Lugt 43060) no. 360, as François Pourbus, \"Portrait d'un Gentilhomme Français, Daté An. 1618\".",
+  "Pieter Langerhuizen (Dutch, 1839–1918)(Lugt 2095)",
+  "Frederik Muller (Dutch, 1883–1944)Amsterdam, April 29-May 1, 1919 Langerhuizen sale, no.634, as François Pourbus?, \"Portrait d'un Gentilhomme Français,\" ex-collection de Vos Jbzn.",
+  "Miss Edith L. Sachs",
+  "Donor: Miss Edith L. Sachs"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90007024"
+  }
+ }
+}

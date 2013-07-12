@@ -1,0 +1,32 @@
+{
+ "Date": "1890s",
+ "Medium": "Albumen silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Museum Accession, 1970",
+ "Accession Number": "1970.759.10",
+ "Who": "Unknown, French",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190011565,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP149517.jpg",
+ "related-artworks": [
+  190011566,
+  190011573,
+  190012993,
+  190012994,
+  190012995
+ ],
+ "Provenance": [
+  "Calo Cacaro"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190011565"
+  }
+ }
+}

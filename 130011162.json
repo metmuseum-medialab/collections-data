@@ -1,0 +1,41 @@
+{
+ "Period": "Archaic",
+ "Date": "ca. 550–530 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; black-figure",
+ "Dimensions": "H. 16 in. (40.7 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.145.15",
+ "Who": "Affecter",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Amphorae"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011162,
+ "gallery-id": 155,
+ "related-artworks": [
+  130015377,
+  130015447,
+  130008429,
+  130016165,
+  130016328
+ ],
+ "Description": "Obverse and reverse, Dionysos with men and youthsThough the name the Affecter may have a pejorative ring, attention to his work reveals his accomplishment as an artist. The representation of Dionysos, the god of wine, exemplifies the Affecter's solid, slow-moving figures, sometimes ungainly but always articulated with the most precise and varied detail.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011162"
+  }
+ }
+}

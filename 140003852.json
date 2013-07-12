@@ -1,0 +1,44 @@
+{
+ "Date": "18th century",
+ "Geography": "Iran",
+ "Medium": "Cotton (warp and weft), wool (pile); asymmetrically knotted pile",
+ "Dimensions": [
+  "Textile L. 209 in. (530.9 cm)",
+  "W. 112 in. (289.6 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.710",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Wool",
+  "Rugs",
+  "Carpets"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140003852,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP170503.jpg",
+ "related-artworks": [
+  140003187,
+  140002496,
+  140002547,
+  140004184,
+  140004185
+ ],
+ "Provenance": [
+  "Benjamin Altman, New York (until d. 1913)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003852"
+  }
+ }
+}

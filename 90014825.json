@@ -1,0 +1,41 @@
+{
+ "Date": "1855",
+ "Medium": "Graphite. Framing line in pencil.",
+ "Dimensions": "sheet 10 1/2 x 8 1/2in. (26.7 x 21.6cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mary W. Tweed, 1929",
+ "Accession Number": "29.93.1",
+ "Who": "Anton Mauve",
+ "What": [
+  "Drawings",
+  "Graphite",
+  "Pencil"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90014825,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800474.jpg",
+ "related-artworks": [
+  90014826,
+  90006237,
+  90074433,
+  110001486,
+  110001487
+ ],
+ "Provenance": [
+  "Anton W. Mensing (died 1937)",
+  "F. Muller & Cie (Amsterdam), June 14, 1927, lot 292",
+  "Donor: Miss Mary W. Tweed"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90014825"
+  }
+ }
+}

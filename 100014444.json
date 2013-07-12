@@ -1,0 +1,51 @@
+{
+ "Period": "Middle Kingdom–Early New Kingdom",
+ "Dynasty": "Dynasty 11–18",
+ "Date": "ca. 2124–1504 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Sheikh Abd el-Qurna, Tomb MMA 806 (M06), MMA 1913–1914",
+ "Credit Line": "Rogers Fund, 1914",
+ "Accession Number": "14.1.403",
+ "What": "Beads",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100014444,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs14.1.403.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/eg/original/vs14.1.403.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/vs14.1.413.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/vs28.3.261.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100001737"
+   },
+   {
+    "href": "http://scrapi.org/object/100001760"
+   },
+   {
+    "href": "http://scrapi.org/object/100000152"
+   },
+   {
+    "href": "http://scrapi.org/object/100000187"
+   },
+   {
+    "href": "http://scrapi.org/object/100000416"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100014444"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100014444"
+  }
+ }
+}

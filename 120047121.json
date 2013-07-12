@@ -1,0 +1,55 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 61 x W. 37 1/2 inches",
+  "154.9 x 95.3 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Miss Elizabeth Riley, 1971",
+ "Accession Number": "1974.19.2",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120047121,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/202346.jpg",
+ "Provenance": [
+  "Elizabeth Riley (until 1974; to MMA)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120037246"
+   },
+   {
+    "href": "http://scrapi.org/object/120037248"
+   },
+   {
+    "href": "http://scrapi.org/object/120039183"
+   },
+   {
+    "href": "http://scrapi.org/object/120039256"
+   },
+   {
+    "href": "http://scrapi.org/object/120039514"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120047121"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120047121"
+  }
+ }
+}

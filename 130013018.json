@@ -1,0 +1,53 @@
+{
+ "Period": "Hellenistic",
+ "Date": "3rd–2nd century B.C.",
+ "Culture": "Greek",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 9 3/16 in. (23.4 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Fletcher Fund, 1926",
+ "Accession Number": "26.60.65",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013018,
+ "gallery-id": 164,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130009134"
+   },
+   {
+    "href": "http://scrapi.org/object/130009230"
+   },
+   {
+    "href": "http://scrapi.org/object/130009515"
+   },
+   {
+    "href": "http://scrapi.org/object/130011023"
+   },
+   {
+    "href": "http://scrapi.org/object/130011536"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130013018"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130013018"
+  }
+ }
+}

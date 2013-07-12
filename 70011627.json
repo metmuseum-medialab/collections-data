@@ -1,0 +1,60 @@
+{
+ "Date": "second half of the 12th century",
+ "Geography": "Made in Gironde, France",
+ "Culture": "French",
+ "Medium": "Limestone",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of George Blumenthal, 1934",
+ "Accession Number": "34.21.8",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Corbels"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Aquitaine",
+  "Gironde"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011627,
+ "gallery-id": 3,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi34-21-8.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/70011624",
+  "http://scrapi.org/object/70011625",
+  "http://scrapi.org/object/70011626",
+  "http://scrapi.org/object/70011623",
+  "http://scrapi.org/object/70011620"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "From the abbey of Notre-Dame-de-la-Grande-Sauve (Gironde), near BordeauxGeorge and Florence Blumenthal , Paris and New York (until 1934)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70011624"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70011625"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70011626"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70011623"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/70011620"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/70011627"
+  }
+ }
+}

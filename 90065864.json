@@ -1,0 +1,35 @@
+{
+ "Date": "1784",
+ "Medium": "Etching",
+ "Dimensions": "sheet 3 3/8 x 2 3/16 in. (8.5 x 5.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.30",
+ "Who": "John Kay",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90065864,
+ "related-artworks": [
+  90065863,
+  90065865,
+  90065868,
+  90065869,
+  90065870
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90065864"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "1946",
+ "Medium": "Linocut",
+ "Dimensions": "6 1/8 x 2 1/8 in.  (15.6 x 5.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Reba and Dave Williams, 1999",
+ "Accession Number": "1999.529.32",
+ "Who": "Elizabeth Catlett",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Linoleum cuts"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "African Influences in Modern Art",
+  "Mexico and Central America, 1900 A.D.–present",
+  "Mexico and Central America Native Peoples, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210012388,
+ "related-artworks": [
+  210012393,
+  210012387,
+  210012389,
+  210012391,
+  210012223
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210012388"
+  }
+ }
+}

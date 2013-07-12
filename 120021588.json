@@ -1,0 +1,45 @@
+{
+ "Date": "18th century",
+ "Culture": "Italian",
+ "Medium": "Bronze",
+ "Dimensions": "13-1/2 x 6 x 5-1/4 in.  (34.3 x 15.2 x 13.3 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Bequest of Irwin Untermyer, 1973",
+ "Accession Number": "1974.28.145",
+ "Who": "Giambologna",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The Rediscovery of Classical Antiquity",
+  "Dutch and Flemish Artists in Rome, 1500–1600",
+  "Bronze Sculpture in the Renaissance",
+  "Florence and Central Italy, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120021588,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES2311.jpg",
+ "related-artworks": [
+  120011954,
+  120017124,
+  120021161,
+  120005837,
+  120009966
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021588"
+  }
+ }
+}

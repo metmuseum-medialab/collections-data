@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1500",
+ "Medium": "Woodcut",
+ "Dimensions": "sheet 14 1/8 x 9 13/16 in. (35.8 x 24.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1925",
+ "Accession Number": "25.2.9",
+ "Who": "Master I. .  the Bird",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Lovers in Italian Mythological Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90028080,
+ "related-artworks": [
+  90032282,
+  90002613,
+  90004084,
+  90005184,
+  90005370
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90028080"
+  }
+ }
+}

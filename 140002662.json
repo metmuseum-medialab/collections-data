@@ -1,0 +1,43 @@
+{
+ "Date": "14th–15th century",
+ "Geography": "Egypt",
+ "Medium": "Earthenware; glazed",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.256.186",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Bowls",
+  "Glazing"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1000–1400 A.D.",
+  "Egypt, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140002662,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf08-256-186a.jpg",
+ "related-artworks": [
+  140002597,
+  140003739,
+  140000057,
+  140000050,
+  140001683
+ ],
+ "Provenance": [
+  "[ Michael Casira, Cairo, until 1908",
+  "sold to A.M. Lythgoe for MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140002662"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Artist": "After George Morland (British, London 1763–1804 London)",
+ "Publisher": "William Dickinson (British, 1746–1823)",
+ "Date": "1788",
+ "Medium": "Stipple engraving printed in color",
+ "Dimensions": [
+  "Plate 12 15/16 x 8 1/4 in. (32.8 x 21 cm)",
+  "Sheet 17 1/4 x 12 5/8 in. (43.8 x 32.1 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Leo Steinberg, 2002",
+ "Accession Number": "2002.541.17",
+ "Who": [
+  "George Morland",
+  "William Dickinson",
+  "William Ward"
+ ],
+ "What": [
+  "Prints",
+  "Engraving",
+  "Intaglio prints",
+  "Engravings",
+  "Stippling",
+  "Stipple engravings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90027199,
+ "related-artworks": [
+  90027198,
+  90038418,
+  90070366,
+  90018108,
+  90065244
+ ],
+ "Provenance": [
+  "Donor: Leo Steinberg (American, Moscow 1921–2011 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90027199"
+  }
+ }
+}

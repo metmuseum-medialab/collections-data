@@ -1,0 +1,36 @@
+{
+ "Date": "1773 ca.",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Plate 19 11/16 x 28 1/4 in. (50 x 71.8 cm)",
+  "Sheet 20 7/8 x 30 3/16 in. (53 x 76.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1969",
+ "Accession Number": "69.651",
+ "Who": "Giacomo Sangermano",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90090178,
+ "related-artworks": [
+  90027619,
+  90090125,
+  90090146,
+  90090131
+ ],
+ "Description": "View of the vault of Saint Peter's Basilica in Rome, showing the scaffolding designed by Pietro Albertini that was used to restore the ornaments of the vault in November of 1773. The print shows a lateral, close-up view one side of the vault over the nave. On the left side a wooden construction is visible which allows the restorors to work on the vault at various heights. The construction can be moved along the vault by way of a horizontal pulley system.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90090178"
+  }
+ }
+}

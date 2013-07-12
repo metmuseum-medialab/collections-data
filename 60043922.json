@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "mid-19th century",
+ "Culture": "China",
+ "Medium": "Silk",
+ "Dimensions": "48 x 76 1/2 in. (121.92 x 194.31 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Bequest of Mrs. James W. Gerard, 1956",
+ "Accession Number": "56.210.1",
+ "What": [
+  "Costume",
+  "Silk",
+  "Needlework",
+  "Embroidery",
+  "Robes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043922,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/162342.jpg",
+ "related-artworks": [
+  60031654,
+  60035020,
+  60039156,
+  60042069,
+  60042135
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043922"
+  }
+ }
+}

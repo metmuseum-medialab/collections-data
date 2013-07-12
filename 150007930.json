@@ -1,0 +1,28 @@
+{
+ "Medium": "Poplar",
+ "Dimensions": "Overall 21 x 16 3/4",
+ "Classification": "Frames",
+ "Accession Number": "1975.1.2522",
+ "What": [
+  "Wood",
+  "Frames",
+  "Poplar"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Robert Lehman Collection",
+ "MetPublications": "Search for related Met publications",
+ "id": 150007930,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/86V_189r1m.jpg",
+ "related-artworks": [
+  150007247,
+  150007251,
+  150007338,
+  150007335,
+  150007303
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150007930"
+  }
+ }
+}

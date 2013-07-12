@@ -1,0 +1,41 @@
+{
+ "Period": "Goryeo dynasty (918–1392)",
+ "Date": "10th–14th century",
+ "Culture": "Korea",
+ "Medium": "Silver",
+ "Dimensions": "L. 2 1/8 in. (5.4 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "22.141.23",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Jewelry",
+  "Hairpins"
+ ],
+ "Where": [
+  "Asia",
+  "Korea"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Korea, 1000–1400 A.D.",
+  "Korea, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60028580,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/22_141_23.JPG",
+ "related-artworks": [
+  60012510,
+  60012528,
+  60012530,
+  60023166,
+  60012511
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028580"
+  }
+ }
+}

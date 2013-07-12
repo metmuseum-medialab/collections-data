@@ -1,0 +1,43 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Culture": "China",
+ "Medium": "Hanging scroll; ink on paper",
+ "Dimensions": "67 1/8 x 17 15/16 in. (170.5 x 45.6 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "The C. C. Wang Family Collection, Gift of C. C. Wang, 1968",
+ "Accession Number": "68.212.2",
+ "Who": "Zheng Xie",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D.",
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60000158,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/190532.jpg",
+ "related-artworks": [
+  60022822,
+  60012284,
+  60023974,
+  60019894
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60000158"
+  }
+ }
+}

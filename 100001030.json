@@ -1,0 +1,49 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19",
+ "Reign": "reign of Ramesses II",
+ "Date": "ca. 1279–1213 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Medina, Tomb of Sennedjem (TT 1), Maspero Excavations 1885–1886",
+ "Medium": "Wood, gesso, paint, varnish",
+ "Dimensions": "h. 200 cm (78 3/4 in)",
+ "Credit Line": "Funds from various donors, 1886",
+ "Accession Number": "86.1.1a, b",
+ "What": [
+  "Wood",
+  "Funerary containers",
+  "Coffins",
+  "Gesso"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "An Artisan's Tomb in New Kingdom Egypt",
+  "Egypt, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100001030,
+ "gallery-id": 126,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/chr86.1.1.jpg",
+ "related-artworks": [
+  100001031,
+  100006017,
+  100006018,
+  100009137,
+  100010183
+ ],
+ "Description": "The Servitor in the Place of Truth, Khonsu, the son of Sennedjem and Iineferty, was buried in his father's tomb.  His mummy, covered by a mummy mask and laid in the wooden inner coffin, indicated that he was between fifty and sixty yeas old at his death.  This coffin shows the deceased wearing a tripartite striated wig and holding in his right hand the djed symbol for \"stability,\" and tit, for \"protection,\" in his left. For the inner coffin of Khonsu see 86.1.2a, b. Other objects in the collection that were discovered in the same tomb are numbered 86.1.1–86.1.29.",
+ "Provenance": [
+  "Excavated by Gaston Maspero for the Egyptian Antiquities Service, 1885-1886. Sold to the Metropolitan Museum of Art by the Egyptian government, 1886."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100001030"
+  }
+ }
+}

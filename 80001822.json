@@ -1,0 +1,36 @@
+{
+ "Date": "1943",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": "Length at CB 45 in. (114.3 cm)",
+ "Credit Line": "Gift of Pauline Trigère, 1993",
+ "Accession Number": "1993.138.1",
+ "Who": "Pauline Trigère",
+ "What": [
+  "Costume",
+  "Wool",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80001822,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1993.138.1_F.jpg",
+ "related-artworks": [
+  80001438,
+  80001827,
+  80023391,
+  80023882,
+  80002912
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001822"
+  }
+ }
+}

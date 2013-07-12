@@ -1,0 +1,41 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Early Dynasty 18",
+ "Date": "ca. 1550–1479 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Southern Asasif, Cliff Tomb (MMA 1021), MMA 1918–1919",
+ "Medium": "Wood, stucco",
+ "Dimensions": "L. 42 x W. 21 x D. 6 x Th. 2.5 cm (16 9/16 x 8 1/4 x 2 3/8 x 1 in.)",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.3.281a, b",
+ "What": [
+  "Wood",
+  "Cases",
+  "Plaster",
+  "Mummies",
+  "Stucco"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100002183,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/19.3.281ab_top.jpg",
+ "related-artworks": [
+  100001212,
+  100002185,
+  100002182,
+  100002179,
+  100002180
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100002183"
+  }
+ }
+}

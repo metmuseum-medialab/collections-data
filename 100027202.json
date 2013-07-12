@@ -1,0 +1,52 @@
+{
+ "Period": "Early Dynastic Period",
+ "Date": "ca. 3100–2649 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Saqqara; includes the Serapeum",
+ "Medium": "Stone",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.181.116",
+ "What": [
+  "Vessels",
+  "Stone",
+  "Jars"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Saqqara"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100027202,
+ "Provenance": [
+  "Excavated by James Quibell at Saqqara. Purchased by the Museum from the Egyptian Government."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100027201"
+   },
+   {
+    "href": "http://scrapi.org/object/100027199"
+   },
+   {
+    "href": "http://scrapi.org/object/100027209"
+   },
+   {
+    "href": "http://scrapi.org/object/100027213"
+   },
+   {
+    "href": "http://scrapi.org/object/100027214"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100027202"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100027202"
+  }
+ }
+}

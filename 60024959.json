@@ -1,0 +1,41 @@
+{
+ "Period": "Ming dynasty (1369–1644), Wanli period (1573–1620)",
+ "Culture": "China",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 1 3/8 in. (3.5 cm); W. 7 3/4 in. (19.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Edward S. Harkness",
+ "Accession Number": "23.95.3",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1400–1600 A.D.",
+  "China, 1600–1800 A.D.",
+  "China, 1400–1600 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60024959,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/23_95_3_52848.jpg",
+ "related-artworks": [
+  60007189,
+  60009785,
+  60009770,
+  60009786,
+  60009772
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60024959"
+  }
+ }
+}

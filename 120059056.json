@@ -1,0 +1,49 @@
+{
+ "Date": "ca. 1700",
+ "Culture": "British",
+ "Medium": "Silk thread on linen foundation fabric",
+ "Dimensions": "Overall 35 1/2 x 52 3/4 in. (90.2 x 134 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase, Friends of European Sculpture and Decorative Arts Gifts, 2011",
+ "Accession Number": "2011.413",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Panels",
+  "Cloth"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120059056,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP287550.jpg",
+ "related-artworks": [
+  120059055,
+  120056382,
+  120039855,
+  120040689,
+  120044145
+ ],
+ "Provenance": [
+  "[ sale, Christie’s, South Kensington , January 30, 1979, lot 206 ]",
+  "[ Private Collection, England (in 1999",
+  "sold to Ginsburg) ]",
+  "[ Cora Ginsburg LLC (1999–2011",
+  "sold to MMA) ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120059056"
+  }
+ }
+}

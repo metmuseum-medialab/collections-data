@@ -1,0 +1,41 @@
+{
+ "Period": "Ptolemaic Period",
+ "Date": "80–30 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Basalt",
+ "Dimensions": "H. 93 cm (36 5/8 in); w. 31 cm (12 3/16 in); d. 25 cm (9 13/16 in)",
+ "Credit Line": "Purchase, Lila Acheson Wallace Gift and Rogers Fund, 1981",
+ "Accession Number": "1981.224.1",
+ "What": [
+  "Sculpture",
+  "Statues",
+  "Basalt"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100003908,
+ "gallery-id": 137,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DT9382.jpg",
+ "related-artworks": [
+  100003922,
+  100004624,
+  100010580,
+  100010578,
+  100028886
+ ],
+ "Description": "The names preserved on this fine torso are probably those of either Ptolemy XII or Ptolemy XV. In its waning years the Ptolemaic Dynasty was struggling for stability and was increasingly dependent on Rome. As though seeking to transcend the difficulties of the period, Ptolemy XII took the title Neos Dionysus, “the New Dionysus/ Osiris.” A number of sculptures exist depicting him as an emphatically youthful figure. The best alternative candidate, Ptolemy XV, also known as Caesarion, was the short-lived son of Cleopatra VII and Julius Caesar.",
+ "Provenance": [
+  "Purchased from Peter Sharrer Ancient Art, New York, 1981. Published MMA Notable Acquisitions 1981-82 and subsequently, continuously exhibited."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003908"
+  }
+ }
+}

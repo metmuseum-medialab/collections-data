@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1915",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "4 1/4 x 6 1/2",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 2005",
+ "Accession Number": "2005.100.1250",
+ "Who": "Eugène Druet",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 190040324,
+ "related-artworks": [
+  190017845,
+  190040337,
+  190036428,
+  190037861,
+  190036427
+ ],
+ "Provenance": [
+  "The Henriette and Jeanne Bardey Collection",
+  "(sold, Christie's, New York, Lot 411, October 31, 1988)",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190040324"
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "Publisher": "Published by Jacques Philippe Le Bas (French, Paris 1707–1783 Paris)",
+ "Date": "1735",
+ "Medium": "Etching and engraving",
+ "Dimensions": [
+  "sheet 12 3/16 x 8 7/8 in. (31 x 22.5 cm)",
+  "image 10 x 8 1/16 in. (25.4 x 20.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, the Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.708.175",
+ "Who": [
+  "David Teniers the Younger",
+  "Jacques Philippe Le Bas"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Genre Painting in Northern Europe",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90055107,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90000856"
+   },
+   {
+    "href": "http://scrapi.org/object/90070520"
+   },
+   {
+    "href": "http://scrapi.org/object/90070521"
+   },
+   {
+    "href": "http://scrapi.org/object/90070524"
+   },
+   {
+    "href": "http://scrapi.org/object/90070522"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90055107"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90055107"
+  }
+ }
+}

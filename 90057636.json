@@ -1,0 +1,39 @@
+{
+ "Date": "1727",
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Dr. R.G. Wiener, 1920",
+ "Accession Number": "20.96.69",
+ "Who": "Bernard Picart",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Idea and Invention of the Villa",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90057636,
+ "related-artworks": [
+  90035273,
+  90094033,
+  90034222,
+  90034750,
+  90064689
+ ],
+ "Provenance": [
+  "Donor: Dr. R. G. Wiener"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90057636"
+  }
+ }
+}

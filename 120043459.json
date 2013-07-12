@@ -1,0 +1,57 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.2700",
+ "What": [
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Ribbon"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120043459,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP7297.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120038339",
+  "http://scrapi.org/object/120038345",
+  "http://scrapi.org/object/120039215",
+  "http://scrapi.org/object/120039492",
+  "http://scrapi.org/object/120042253"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120038339"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120038345"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120039215"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120039492"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120042253"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120043459"
+  }
+ }
+}

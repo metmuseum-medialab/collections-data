@@ -1,0 +1,40 @@
+{
+ "Date": "19th–20th century",
+ "Geography": "Mali",
+ "Culture": "Fulani peoples",
+ "Medium": "Wood",
+ "Dimensions": "H. 5 3/4 x W. 9 1/8 x D. 8 5/8 in. (14.6 x 23.2 x 21.9 cm)",
+ "Classification": "Wood-Containers",
+ "Credit Line": "Gift of Lester Wunderman, 1977",
+ "Accession Number": "1977.394.31",
+ "Who": "Fulbe",
+ "What": "Bowls",
+ "Where": [
+  "Africa",
+  "Mali"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Western and Central Sudan, 1900 A.D.–present",
+  "Western and Central Sudan, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50002920,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1977.394.31_a.JPG",
+ "related-artworks": [
+  50002344,
+  50010535,
+  50002432,
+  50002434,
+  50002450
+ ],
+ "Description": "The incised geometric decoration on the exterior of this dark brown hemispherical bowl consists of opposed triangles every 90 degrees separated by two bands of diagonal lines.",
+ "Provenance": [
+  "Lester Wunderman, New York, purchased in Africa, 1972–1977"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50002920"
+  }
+ }
+}

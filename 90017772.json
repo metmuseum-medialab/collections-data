@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1869",
+ "Medium": "Lithography",
+ "Dimensions": "8 15/16 x 6 3/8 in. (22.7 x 16.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1940",
+ "Accession Number": "40.23",
+ "Who": "Frear Artificial Manufacturing Co.",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017772,
+ "related-artworks": [
+  90004888,
+  90006963,
+  90006966,
+  90011657,
+  90011659
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017772"
+  }
+ }
+}

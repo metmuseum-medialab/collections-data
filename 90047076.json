@@ -1,0 +1,40 @@
+{
+ "Date": "1927",
+ "Medium": "Wood engraving",
+ "Dimensions": "block 8 x 5 1/2 inches (20.5 x 14 cm) sheet: 11 1/4 x 8 3/4 inches (28.5 x 22 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Estate of C. Otto von Kienbusch, 1977",
+ "Accession Number": "1977.626.1",
+ "Who": "Rockwell Kent",
+ "What": [
+  "Prints",
+  "Engraving",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90047076,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP817625.jpg",
+ "related-artworks": [
+  90016368,
+  90028290,
+  90047068,
+  90047065,
+  90047070
+ ],
+ "Provenance": [
+  "Donor: C. Otto von Kienbusch"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90047076"
+  }
+ }
+}

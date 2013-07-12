@@ -1,0 +1,33 @@
+{
+ "Culture": "Roman",
+ "Medium": "Gold",
+ "Classification": "Gold and Silver",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1900",
+ "Accession Number": "00.15.1",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Gold",
+  "Wreaths"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130007392,
+ "related-artworks": [
+  130006564,
+  130006563,
+  130015470,
+  130003438,
+  130006453
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130007392"
+  }
+ }
+}

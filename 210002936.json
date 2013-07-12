@@ -1,0 +1,40 @@
+{
+ "Date": "1983",
+ "Medium": "Acrylic on canvas",
+ "Dimensions": [
+  "H. 70, W. 50 inches",
+  "(177.8 x 127 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "George A. Hearn Fund, 1983",
+ "Accession Number": "1983.454",
+ "Who": "Paul Wonner",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Plastic",
+  "Acrylic"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210002936,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT7565.jpg",
+ "related-artworks": [
+  210001359,
+  210003317,
+  210004629,
+  210005271,
+  210005361
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210002936"
+  }
+ }
+}

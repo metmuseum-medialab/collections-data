@@ -1,0 +1,45 @@
+{
+ "Artist": "After François Boucher (French, Paris 1703–1770 Paris)",
+ "Date": "1881",
+ "Medium": "Colored lithograph",
+ "Dimensions": [
+  "Mount 12 3/8 x 17 9/16 in. (31.4 x 44.6 cm)",
+  "Sheet 6 1/4 x 8 5/8 in. (15.8 x 21.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.3390",
+ "Who": [
+  "François Boucher",
+  "George William Thornley"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90089279,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP826637.jpg",
+ "related-artworks": [
+  90089259,
+  90089261,
+  90089262,
+  90089271,
+  90089276
+ ],
+ "Provenance": [
+  "Vendor: Dick Estate, U.S. Trust"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90089279"
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "Date": "1700–1942",
+ "Culture": "American or European",
+ "Medium": "leather",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Genevieve Karr Hamlin, 1942",
+ "Accession Number": "C.I.42.74.26a, b",
+ "What": [
+  "Costume",
+  "Leather",
+  "Gloves"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80051905,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI42.74.26ab.jpg",
+ "related-artworks": [
+  80018153,
+  80020001,
+  80024877,
+  80029535,
+  80029736
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80051905"
+  }
+ }
+}

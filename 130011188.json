@@ -1,0 +1,38 @@
+{
+ "Period": "Imperial",
+ "Date": "1st or 2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Marble, Island",
+ "Dimensions": "H. 11 7/8 in. (30.2 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.145.44",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Marble"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Italian Peninsula, 1000 B.C.–1 A.D.",
+  "Italian Peninsula, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130011188,
+ "related-artworks": [
+  130007476,
+  130007458,
+  130007466,
+  130007465,
+  130007469
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011188"
+  }
+ }
+}

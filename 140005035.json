@@ -1,0 +1,48 @@
+{
+ "Object Name": "Hanging or prayer rug",
+ "Date": "18th century",
+ "Geography": "Turkey",
+ "Medium": "Taffeta, metal thread",
+ "Dimensions": [
+  "H. 72 1/4 in. (183.5 cm)",
+  "W. 54 1/4 in. (137.8 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Fletcher Fund, 1924",
+ "Accession Number": "24.178.2",
+ "What": [
+  "Metal",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Rugs",
+  "Taffeta",
+  "Prayer rugs"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005035,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/wb-24.178.2.JPG",
+ "related-artworks": [
+  140008275,
+  140008362,
+  140000238,
+  140000240,
+  140000258
+ ],
+ "Provenance": [
+  "[ Pollak & Winternitz, Vienna, Austria, until 1924",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005035"
+  }
+ }
+}

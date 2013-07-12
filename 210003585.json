@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1908",
+ "Medium": "Watercolor on paper",
+ "Dimensions": [
+  "H. 7-7/8, W. 10 inches",
+  "(20 x 25.4 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Scofield Thayer, 1982",
+ "Accession Number": "1984.433.238",
+ "Who": "Gaston Lachaise",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210003585,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1984.433.238.jpg",
+ "related-artworks": [
+  210003561,
+  210003573,
+  210003574,
+  210003575,
+  210003577
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003585"
+  }
+ }
+}

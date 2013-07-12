@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Culture": "Italian, Sicily",
+ "Medium": "Mull",
+ "Dimensions": "L. 29 1/2 x W. 71 inches (74.9 x 180.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Dr. Lucia E. and John L. Heaton in memory of Eliza Putnam Heaton, 1919",
+ "Accession Number": "19.148.4",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Scarves",
+  "Mull"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Sicily"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120037760,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/44854.jpg",
+ "related-artworks": [
+  120037759,
+  120047556,
+  120044677,
+  120047554,
+  120047555
+ ],
+ "Provenance": [
+  "Mr. and Dr. John L. and Lucia E. Heaton (until 1919",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120037760"
+  }
+ }
+}

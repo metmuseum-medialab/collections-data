@@ -1,0 +1,41 @@
+{
+ "Period": "Early imperial",
+ "Date": "1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown",
+ "Dimensions": "Overall 2 1/16 x 1 1/2in. (5.2 x 3.8cm)",
+ "Classification": "Glass",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.180",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles",
+  "Perfume bottles"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130000231,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP108896.jpg",
+ "related-artworks": [
+  130000063,
+  130000085,
+  130000067,
+  130000071,
+  130000108
+ ],
+ "Description": "Small perfume bottleTranslucent cobalt blue. Lop-sided, splayed rim with rounded lower edge and beveled top; cylindrical neck, with some tooling ridges; squat, piriform body; small, slightly flattened bottom.Intact, except for minor chip in rim; pinprick bubbles and blowing striations; dulling, heavy pitting and weathering with patches of brilliant iridescence.",
+ "Provenance": [
+  "From Cyprus, said to be from a tomb at Idalion (modern Dali)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130000231"
+  }
+ }
+}

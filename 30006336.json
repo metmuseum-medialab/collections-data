@@ -1,0 +1,39 @@
+{
+ "Period": "Old Babylonian",
+ "Date": "ca. early 2nd millennium B.C.",
+ "Geography": "Mesopotamia or Syria",
+ "Culture": "Babylonian",
+ "Medium": "Hematite",
+ "Dimensions": "H.  7/8 in. (2.2 cm);  Diam.  1/2 in. (1.2 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Gift of Nanette B. Kelekian, in memory of Charles Dikran and Beatrice Kelekian, 1999",
+ "Accession Number": "1999.325.51",
+ "Who": "Babylonian",
+ "What": [
+  "Stone",
+  "Seals",
+  "Cylinder seals",
+  "Hematite"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30006336,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/1999,325,051.jpg",
+ "related-artworks": [
+  30005875,
+  30006302,
+  30006325,
+  30002435,
+  30002476
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30006336"
+  }
+ }
+}

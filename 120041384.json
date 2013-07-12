@@ -1,0 +1,39 @@
+{
+ "Date": "mid-18th century",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Dimensions": "L. 21 3/4 x W. 10 inches (55.2 x 25.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.595",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120041384,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/110996.jpg",
+ "related-artworks": [
+  120040857,
+  120030659,
+  120030816,
+  120030820,
+  120030827
+ ],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120041384"
+  }
+ }
+}

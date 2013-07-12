@@ -1,0 +1,42 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Thutmose II to Joint reign",
+ "Date": "ca. 1492–1473 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Sheikh Abd el-Qurna, Tomb of Senenmut (TT 71), below, burial 2, in basket, MMA 1935–1936",
+ "Medium": "Human hair",
+ "Dimensions": "L. 20 cm (7 7/8 in)",
+ "Credit Line": "Rogers Fund, 1936",
+ "Accession Number": "36.3.196",
+ "What": [
+  "Hair",
+  "Human hair"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100026510,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/VSHATNOFERBASK.JPG",
+ "related-artworks": [
+  100026506,
+  100026508,
+  100006063,
+  100026507,
+  100026509
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1935–1936. Acquired by the Museum in the division of finds, 1936."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100026510"
+  }
+ }
+}

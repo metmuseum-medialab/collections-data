@@ -1,0 +1,53 @@
+{
+ "Artist": "After Jacques Callot (French, Nancy 1592–1635 Nancy)",
+ "Date": "17th century",
+ "Medium": "Etching",
+ "Dimensions": "Sheet 5 7/16 x 3 9/16 in. (13.8 x 9 cm) trimmed and backed",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1947",
+ "Accession Number": "47.100.740",
+ "Who": [
+  "Jacques Callot",
+  "Anonymous"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90093827,
+ "Provenance": [
+  "Vendor: Charles Stehlin (active New York, 1947)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90060208"
+   },
+   {
+    "href": "http://scrapi.org/object/90060254"
+   },
+   {
+    "href": "http://scrapi.org/object/90060258"
+   },
+   {
+    "href": "http://scrapi.org/object/90089224"
+   },
+   {
+    "href": "http://scrapi.org/object/90089232"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90093827"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90093827"
+  }
+ }
+}

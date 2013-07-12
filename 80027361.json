@@ -1,0 +1,36 @@
+{
+ "Date": "1920s",
+ "Culture": "American or European",
+ "Medium": "wool",
+ "Dimensions": "Length at CB 32 in. (81.3 cm)",
+ "Credit Line": "Gift of Mrs. Andrew E. Beer, 1972",
+ "Accession Number": "1972.247.14",
+ "What": [
+  "Costume",
+  "Wool",
+  "Underwear",
+  "Drawers",
+  "Underpants",
+  "Bloomers"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80027361,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1972.247.14.jpg",
+ "related-artworks": [
+  80027362,
+  80034921,
+  80034922,
+  80037018,
+  80034011
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80027361"
+  }
+ }
+}

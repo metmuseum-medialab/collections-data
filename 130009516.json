@@ -1,0 +1,39 @@
+{
+ "Date": "1st century B.C.–1st century A.D.",
+ "Culture": "Roman, Egypt, Alexandria",
+ "Medium": "Glass, rock crystal",
+ "Dimensions": "Other (23 elements) 4 1/4 in. (10.8 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Purchase, 1915",
+ "Accession Number": "15.130.1",
+ "What": [
+  "Costume",
+  "Glass",
+  "Jewelry",
+  "Necklaces",
+  "Crystal",
+  "Quartz crystal"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Italian Peninsula, 1000 B.C.–1 A.D.",
+  "Italian Peninsula, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130009516,
+ "related-artworks": [
+  130009226,
+  130003510,
+  130003511,
+  130003287,
+  130006559
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009516"
+  }
+ }
+}

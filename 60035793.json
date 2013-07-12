@@ -1,0 +1,41 @@
+{
+ "Date": "8th–12th century",
+ "Culture": "Indonesia (Central Java)",
+ "Medium": "Gold",
+ "Dimensions": "Diam. 3/4 in. (1.9 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Gift of Jeannette and Jonathan Rosen, 2001",
+ "Accession Number": "2001.794.80",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Rings"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1000–1400 A.D.",
+  "Southeast Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60035793,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2001_794_80_F.JPG",
+ "related-artworks": [
+  60020873,
+  60020866,
+  60020931,
+  60020939,
+  60020981
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60035793"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "5th–6th century",
+ "Culture": "Byzantine",
+ "Medium": "Earthenware, stamped",
+ "Dimensions": "Overall 5 1/16 x 4 15/16 x 3/4 in. (12.9 x 12.5 x 1.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Joseph Brummer, 1928",
+ "Accession Number": "28.36",
+ "What": [
+  "Ceramics",
+  "Fragments",
+  "Pottery",
+  "Earthenware",
+  "Stamping"
+ ],
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170006716,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf28-36s1.jpg",
+ "related-artworks": [
+  170005737,
+  170018004,
+  170018338,
+  170019259,
+  170019236
+ ],
+ "Provenance": [
+  "[ Joseph Brummer, New York (until 1928)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006716"
+  }
+ }
+}

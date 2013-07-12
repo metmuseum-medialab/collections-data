@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1662",
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry G. Friedman, 1961",
+ "Accession Number": "61.663.200",
+ "Who": "Stefano della Bella",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The Printed Image in the West History and Techniques",
+ "id": 90050262,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP817527.jpg",
+ "related-artworks": [
+  90027803,
+  90028165,
+  90028166,
+  90032545,
+  90032854
+ ],
+ "Provenance": [
+  "Donor: Harry G. Friedman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050262"
+  }
+ }
+}

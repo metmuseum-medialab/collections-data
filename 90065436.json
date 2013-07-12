@@ -1,0 +1,40 @@
+{
+ "Date": "1894",
+ "Medium": "Woodcut on cream wove paper",
+ "Dimensions": [
+  "Sheet 8 1/2 x 10 in. (21.6 x 25.4 cm)",
+  "Plate 7 13/16 x 9 5/16 in. (19.9 x 23.6 cm)",
+  "Image 7 1/8 x 8 13/16 in. (18.1 x 22.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "22.82.1-80",
+ "Who": "Félix Vallotton",
+ "What": [
+  "Prints",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90065436,
+ "related-artworks": [
+  90065424,
+  90065438,
+  90065437,
+  90065422,
+  90065310
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90065436"
+  }
+ }
+}

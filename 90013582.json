@@ -1,0 +1,39 @@
+{
+ "Publisher": "Published by Alessi S. P. A.",
+ "Date": "1985",
+ "Medium": "Printed book",
+ "Classification": "Books",
+ "Credit Line": "Gift of Alessi S.P.A., 1987",
+ "Accession Number": "1987.1142.1",
+ "Who": [
+  "Ettore Sottsass",
+  "Alessi S. P. A."
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1975–present",
+  "Italian Peninsula, 1900 A.D.–present"
+ ],
+ "id": 90013582,
+ "related-artworks": [
+  210005060,
+  210005062,
+  210005157,
+  210005158,
+  210005217
+ ],
+ "Provenance": [
+  "Donor: Alessi S. P. A."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90013582"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Date": "1754–70",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": "H. 2 3/8 in. (6 cm); Diam. 12 3/8 in. (31.4 cm)",
+ "Classification": "Silver",
+ "Credit Line": "Gift of William Samuel Johnson, in memory of his wife, Carrie G. Johnson, 1926",
+ "Accession Number": "26.95",
+ "Who": "Myer Myers",
+ "What": [
+  "Metal",
+  "Silver",
+  "Dishes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "American Rococo",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10000835,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP250635.jpg",
+ "related-artworks": [
+  10000376,
+  10000444,
+  10000566,
+  10001363,
+  10001364
+ ],
+ "Provenance": [
+  "Samuel Johnson (1696–1772)",
+  "through the Johnson family",
+  "his great–great–great–grandson, William Samuel Johnson (1859–1937)",
+  "gift in memory of his wife Carrie G. Johnson (d. 1925), to The Metropolitan Museum of Art, 1926"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000835"
+  }
+ }
+}

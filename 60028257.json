@@ -1,0 +1,42 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "14 7/8 x 9 9/16 in. (37.8 x 24.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+ "Accession Number": "JP2819",
+ "Who": "Chōbunsai Eishi",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "id": 60028257,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP142134.jpg",
+ "related-artworks": [
+  60000575,
+  60000752,
+  60000753,
+  60000755,
+  60000756
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028257"
+  }
+ }
+}

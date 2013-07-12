@@ -1,0 +1,38 @@
+{
+ "Designer": "Madame Marie Gerber (French)",
+ "Date": "ca. 1926",
+ "Culture": "French",
+ "Medium": "Silk, metallic",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Anonymous gift, 1964",
+ "Accession Number": "2009.300.7352",
+ "Who": [
+  "Callot Soeurs",
+  "Madame Marie Gerber"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80115702,
+ "related-artworks": [
+  80007543,
+  80095951,
+  80002285,
+  80003282,
+  80003742
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80115702"
+  }
+ }
+}

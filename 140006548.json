@@ -1,0 +1,48 @@
+{
+ "Object Name": "Button or spindle whorl",
+ "Date": "9th–10th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Bone; tinted, incised, and inlaid with paint",
+ "Dimensions": [
+  "H. 3/8 in. (1 cm)",
+  "Diam. 13/16 in. (2 cm)"
+ ],
+ "Classification": "Ivories and Bone",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.40.58",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Buttons",
+  "Spindles",
+  "Whorls"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140006548,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf38-40-58z.jpg",
+ "related-artworks": [
+  140006507,
+  140006498,
+  140006504,
+  140006506,
+  140006540
+ ],
+ "Provenance": [
+  "1937, excavated at Sabz Pushan in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1938, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140006548"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Date": "1750–55",
+ "Medium": "Iron",
+ "Dimensions": "H. 14 in. (35.6 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1909",
+ "Accession Number": "10.125.666j",
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Iron"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "id": 10004559,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/17136.jpg",
+ "related-artworks": [
+  10000056,
+  10000057,
+  10000070,
+  10000071,
+  10000072
+ ],
+ "Provenance": [
+  "H. Eugene Bolles, Boston, until died 1909",
+  "[Mrs. Russell Sage, New York, 1909]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10004559"
+  }
+ }
+}

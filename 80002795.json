@@ -1,0 +1,39 @@
+{
+ "Date": "early 1920s",
+ "Culture": "Italian",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 43 1/2 in. (110.5 cm)",
+ "Credit Line": "Gift of Beatrice S. Bartlett, 1979",
+ "Accession Number": "1979.116.1",
+ "Who": "Vitaldi Babani",
+ "What": [
+  "Costume",
+  "Silk",
+  "Outerwear",
+  "Coats",
+  "Overcoats",
+  "Evening coats"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80002795,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1979.116.1_F.jpg",
+ "related-artworks": [
+  80072144,
+  80001345,
+  80001343,
+  80001344,
+  80002679
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002795"
+  }
+ }
+}

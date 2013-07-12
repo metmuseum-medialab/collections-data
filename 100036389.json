@@ -1,0 +1,44 @@
+{
+ "Period": "Old Kingdom",
+ "Dynasty": "Dynasty 5",
+ "Date": "ca. 2446–2389 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Saqqara; includes the Serapeum, North of the Djoser pyramid complex, Mariette D3, Quibell/EAS 1907–1908",
+ "Medium": "Limestone, paint",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.201.1g",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Reliefs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Saqqara"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100036389,
+ "gallery-id": 102,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/EG594.jpg",
+ "related-artworks": [
+  100000027,
+  100000075,
+  100000074,
+  100000179,
+  100005454
+ ],
+ "Description": "THE SOUTH WALLIn a tomb chapel like Raemkai's, whose entrance is located in the northern half of the east wall, the south wall is farthest removed from the entrance. Most representations on south walls in such chapels reflect this innermost location. For example, the traditional offering list in its age-old grid often appears on the tomb's south wall. Quite rare, however, is the appearance on a south wall of two additional themes chosen to decorate Neferiretnes's/Raemkai's tomb chapel: the hunt in the desert and the boat journey in the west. It is tempting to assume that the selection and placement of these themes was a personal choice made by the original tomb owner.The Offering ListThe core offerings presented during rituals believed to guarantee a deceased's eternal life were not only actually brought to the tomb; they were also inscribed in order to ensure the continuity of the rituals, if a family failed to care for the tomb. Placed in a grid of vertical and horizontal lines, the fully developed standard list of offerings contained over ninety items. The upper third of Neferiretnes's (Raemkai's) offering list is missing. The preserved text records the following groups of items: bread and onions, meat, poultry, bread, beer and wine, fruit and vegetables, final offerings. The list ends with the phrase: \"a royal offering of the requisite offering, prepared for [the senior document-overseer, Neferiretnes].\" The original name and title have been erased, but astonishingly, Raemkai's were not substituted. The Hunt in the DesertThe ancient Egyptians were blessed not only with richly fertile agricultural land along the banks of the Nile but also with abundant wildlife in the deserts beyond. During the Old Kingdom the climate of these deserts was less arid than today. In fact, the land bordering the Nile valley had more of the character of a savannah or steppe and provided ample nourishment for herds of horned animals as well as many species of small creatures, such as the rabbit and hedgehog seen here. The ancient Egyptians hunted both with the bow and arrow and with the lasso. Here we see hunters throwing the lasso and sending their dogs to attack the prey. However, as in many other hunting scenes in nonroyal Old Kingdom tombs, there is a noticeable reticence in the amount of violence shown, and most of the animals seem to be at rest in their hilly landscape rather than fleeing before a menacing hunter. This paradisiacal character of the scene is in tune with its placement in the interior of the chapel, where it was more appropriate to stress the benign nature of the land bordering the valley, which, after all, was also the realm of the dead. The artists took pride in specifying the names of the various animal species they depicted. In the upper register the following designations are given, from right to left: gazelle, gazelle (upper animal behind bush), hound, hound, hunter. And in the lower register the inscriptions read, again from the right: lassoing an ibex by a hunter, ibex, hunter.The Journey by Boat in the \"Beautiful West\"In common with other cultures, the ancient Egyptians imagined an underworld crossed by waterways. The four ships represented at the bottom of this wall are cruising on such a waterway. The inscriptions in the upper register read, from right to left: sailing in the beautiful west; make for starboard! The inscriptions in the lower register say: the canal of the beautiful west; land well! The prows of all four boats face toward the right-that is, the west. Three are propelled by oars; one is paddled by sailors facing forward. At the prow of this fourth ship is the head of a hedgehog, probably a symbol of rebirth. In the upper register, in the boat to the right, an attendant presents a roll of papyrus to the tomb owner. It may be inscribed with spells intended to help the deceased during his voyage through the underworld. The attendant in the boat below simply bows to the deceased. Canopies shield the decks of all four boats against any vicissitudes of the journey.",
+ "Provenance": [
+  "Discovered by Mariette between 1858 and 1863",
+  "recleared in 1907-08 by Quibell on behalf of the Egyptian Antiquities Service and sold to the Museum in 1908."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100036389"
+  }
+ }
+}

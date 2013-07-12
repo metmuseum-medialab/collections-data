@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1930",
+ "Geography": "Mid-Atlantic, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Wool and cotton",
+ "Dimensions": "81 x 76 1/2 in. (205.7 x 194.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase, Eva Gebhard-Gourgaud Foundation Gift, 1973",
+ "Accession Number": "1973.94",
+ "Who": "Amish maker",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Wool",
+  "Bed coverings",
+  "Bedcovers",
+  "Quilts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "American Quilts and Coverlets",
+  "The Materials and Techniques of American Quilts and Coverlets",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10014415,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DT11089.jpg",
+ "related-artworks": [
+  10019963,
+  10014417,
+  10014416,
+  10014420,
+  10019696
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014415"
+  }
+ }
+}

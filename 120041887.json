@@ -1,0 +1,46 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Russian (?)",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 8 x W. 2 inches (20.3 x 5.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.1107",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Samples"
+ ],
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Anatolia and the Caucasus, 1800–1900 A.D.",
+  "Central and North Asia, 1600–1800 A.D.",
+  "Central and North Asia, 1800–1900 A.D.",
+  "Eastern Europe and Scandinavia, 1600–1800 A.D.",
+  "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+  "Anatolia and the Caucasus, 1600–1800 A.D."
+ ],
+ "id": 120041887,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/117304.jpg",
+ "related-artworks": [
+  120041884,
+  120041886,
+  120041888,
+  120041876,
+  120041889
+ ],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120041887"
+  }
+ }
+}

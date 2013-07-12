@@ -1,0 +1,53 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "N. Indian",
+ "Classification": "Shields",
+ "Credit Line": "Bashford Dean Memorial Collection, Funds from various donors, 1929",
+ "Accession Number": "29.158.597",
+ "What": [
+  "Costume",
+  "Armor",
+  "Shields"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia and the Himalayan Region, 1800–1900 A.D.",
+  "South Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40012592,
+ "related-artworks": [
+  "http://scrapi.org/object/40000114",
+  "http://scrapi.org/object/40002517",
+  "http://scrapi.org/object/40003318",
+  "http://scrapi.org/object/40003920",
+  "http://scrapi.org/object/40005106"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000114"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40002517"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40003318"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40003920"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40005106"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40012592"
+  }
+ }
+}

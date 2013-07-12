@@ -1,0 +1,40 @@
+{
+ "Period": "Late Helladic IIIA",
+ "Date": "ca. 1400–1300 B.C.",
+ "Culture": "Mycenaean",
+ "Medium": "Terracotta",
+ "Classification": "Vases",
+ "Credit Line": "Gift of Mrs. Wendell T. Bush, 1910",
+ "Accession Number": "10.179.8",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Peloponnese",
+  "Mycenae"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130008752,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP21485.jpg",
+ "related-artworks": [
+  130008754,
+  130008757,
+  130008758,
+  130008748,
+  130008749
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130008752"
+  }
+ }
+}

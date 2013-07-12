@@ -1,0 +1,55 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print (surimono); ink and color on paper",
+ "Dimensions": "8 1/4 x 7 5/16 in. (21 x 18.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "JP2101",
+ "Who": "Yashima Gakutei",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Surimono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60026093,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP138284.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60025236"
+   },
+   {
+    "href": "http://scrapi.org/object/60025238"
+   },
+   {
+    "href": "http://scrapi.org/object/60025472"
+   },
+   {
+    "href": "http://scrapi.org/object/60025536"
+   },
+   {
+    "href": "http://scrapi.org/object/60025691"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60026093"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60026093"
+  }
+ }
+}

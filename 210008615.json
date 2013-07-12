@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1911-13",
+ "Medium": "Ink and graphite on paper",
+ "Dimensions": "13 x 8 5/8 in. (33 x 21.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Alfred Stieglitz Collection, 1949",
+ "Accession Number": "49.70.164",
+ "Who": "Abraham Walkowitz",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210008615,
+ "related-artworks": [
+  210003070,
+  210003072,
+  210003051,
+  210003053,
+  210003055
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210008615"
+  }
+ }
+}

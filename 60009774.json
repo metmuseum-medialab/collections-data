@@ -1,0 +1,46 @@
+{
+ "Period": "Qing dynasty (1644–1911), Yongzheng period (1723–35)",
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Porcelain painted in underglaze blue and overglaze enamels",
+ "Dimensions": "H. 1 11/16 in. (4.3 cm); Diam. 3 1/4 in. (8.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Dr. and Mrs. George Fan, 1984",
+ "Accession Number": "1984.362",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Drinking vessels",
+  "Painting",
+  "Cups",
+  "Enamels",
+  "Underglazing",
+  "Overglazing"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60009774,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/236448.jpg",
+ "related-artworks": [
+  60016094,
+  60015731,
+  60009988,
+  60016660,
+  60016236
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009774"
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "Object Name": "Album leaf",
+ "Date": "17th century",
+ "Geography": "Turkey",
+ "Medium": [
+  "Main support Ink and watercolor on paper",
+  "Border Ink, opaque watercolor, and gold on paper"
+ ],
+ "Dimensions": [
+  "Painting H. 4 1/2 in. (11.4 cm)",
+  "W. 3 1/2in. (8.9cm)",
+  "Mat H. 22 in. (55.9 cm)",
+  "W. 16 in. (40.6 cm)"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "Rogers Fund, 1932",
+ "Accession Number": "32.25",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Books",
+  "Gold",
+  "Watercolors",
+  "Albums",
+  "Manuscripts",
+  "Codices",
+  "Borders"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005925,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf32-25r.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/140007810",
+  "http://scrapi.org/object/140009352",
+  "http://scrapi.org/object/140009338",
+  "http://scrapi.org/object/140009351",
+  "http://scrapi.org/object/140010658"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/is/original/sf32-25r.jpg",
+  "http://images.metmuseum.org/CRDImages/is/original/86602.jpg",
+  "http://images.metmuseum.org/CRDImages/is/original/sf32-25v.jpg"
+ ],
+ "Provenance": [
+  "Mrs. Chauncey J. Blair, Chicago (until 1932",
+  "her sale, American Art Association,New York, January 15–16, 1932, lot 396, to Kelekian",
+  "[ Dikran G. Kelekian, New York, in 1932",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140007810"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140009352"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140009338"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140009351"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140010658"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140005925"
+  }
+ }
+}

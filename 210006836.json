@@ -1,0 +1,53 @@
+{
+ "Date": "1926",
+ "Medium": "Watercolor, graphite and crayon on joined papers",
+ "Dimensions": [
+  "H. 25-1/4, W. 12-1/2 inches",
+  "(64.1 x 31.8 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, The Michael D. Dingman Foundation Gift and funds from various donors, 1995",
+ "Accession Number": "1995.41",
+ "Who": "Karl Hubbuch",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Graphite",
+  "Crayons",
+  "Papers"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210006836,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210006833"
+   },
+   {
+    "href": "http://scrapi.org/object/210015797"
+   },
+   {
+    "href": "http://scrapi.org/object/210006401"
+   },
+   {
+    "href": "http://scrapi.org/object/210006591"
+   },
+   {
+    "href": "http://scrapi.org/object/210006834"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210006836"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210006836"
+  }
+ }
+}

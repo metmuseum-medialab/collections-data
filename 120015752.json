@@ -1,0 +1,45 @@
+{
+ "Date": "1737–38",
+ "Culture": "British, London",
+ "Medium": "Silver gilt",
+ "Dimensions": "Each Diam. 4 1/4 in.  (10.8 cm) or 4 1/2 in. (11.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "The Jules Bache Collection, 1949",
+ "Accession Number": "49.7.95-98",
+ "Who": "Paul de Lamerie",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Salts",
+  "Saltcellars"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120015752,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/147801.jpg",
+ "related-artworks": [
+  120017340,
+  120010044,
+  120017378,
+  120015747,
+  120015748
+ ],
+ "Provenance": [
+  "Jules S. Bache"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120015752"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Period": "Imperial",
+ "Date": "1st or 2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Marble",
+ "Dimensions": "H. 6 3/4 in. (17.2 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "Gift of Louise Crane, in memory of her mother, Mrs. W. Murray Crane, 1980",
+ "Accession Number": "1980.303.2",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Marble"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130016199,
+ "gallery-id": 162,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP282115.jpg",
+ "related-artworks": [
+  130007476,
+  130007458,
+  130007466,
+  130007465,
+  130007469
+ ],
+ "Description": "Roman adaptation of a Greek work of the 4th century B.C., known as the Apollo LykeiosA celebrated bronze statue of Apollo, standing at rest with his hand on his head, stood throughout antiquity in the Lykeion, a large open area just outside the walls of Athens that was devoted to athletics and philosophical discussion. The graceful pose was later adopted for other statues of Apollo, such as this small-scale work with almost feminine features and hair style.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130016199"
+  }
+ }
+}

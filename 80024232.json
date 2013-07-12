@@ -1,0 +1,41 @@
+{
+ "Designer": "for James Galanos (American, born Philadelphia, Pennsylvania, 1924)",
+ "Date": "1983",
+ "Culture": "American",
+ "Medium": "metal, glass",
+ "Dimensions": "Length 1 1/2 in. (3.8 cm)",
+ "Credit Line": "Gift of Tess Sholom, 1988",
+ "Accession Number": "1988.292.39a, b",
+ "Who": [
+  "James Galanos",
+  "Tess Sholom"
+ ],
+ "What": [
+  "Metal",
+  "Glass",
+  "Shoes",
+  "Clips"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80024232,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1988.292.39ab.jpg",
+ "related-artworks": [
+  80024243,
+  80024244,
+  80058146,
+  80024223,
+  80024220
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80024232"
+  }
+ }
+}

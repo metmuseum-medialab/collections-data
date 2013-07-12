@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Culture": "British, Etruria, Staffordshire",
+ "Medium": "Basalt ware",
+ "Dimensions": "3 7/8 x 5 1/2 in.  (9.8 x 14.0 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Erastus T. Roberts, 1942",
+ "Accession Number": "42.70.3",
+ "Who": "Josiah Wedgwood  Sons",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Basalt",
+  "Creamers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120014129,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/127857.jpg",
+ "related-artworks": [
+  120006280,
+  120014128,
+  120002080,
+  120007798,
+  120009676
+ ],
+ "Provenance": [
+  "Erastus T. Roberts (until 1942",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120014129"
+  }
+ }
+}

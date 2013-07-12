@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1930",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "Image 23 x 16.5 cm (9 1/16 x 6 1/2 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Geneviève Grand, 2007",
+ "Accession Number": "2007.461.3",
+ "Who": "Marcel Bovis",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190042497,
+ "related-artworks": [
+  190017067,
+  190042495,
+  190042496,
+  190042666,
+  190042667
+ ],
+ "Provenance": [
+  "From the artist's widow, Geneviève Grand"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190042497"
+  }
+ }
+}

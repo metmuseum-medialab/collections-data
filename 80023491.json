@@ -1,0 +1,58 @@
+{
+ "Designer": "Jean Patou (French, 1887–1936)",
+ "Date": "1969–71",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 39 1/4 in. (99.7 cm)",
+ "Credit Line": "Purchase, Friends of The Costume Institute Gifts, 1979",
+ "Accession Number": "1979.474.4a–c",
+ "Who": [
+  "House of Patou",
+  "Jean Patou"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80023491,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1979.474.4a–c_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1979.474.4a–c_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1979.474.4a–c_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1979.474.4a_label.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80000999"
+   },
+   {
+    "href": "http://scrapi.org/object/80001509"
+   },
+   {
+    "href": "http://scrapi.org/object/80001811"
+   },
+   {
+    "href": "http://scrapi.org/object/80001988"
+   },
+   {
+    "href": "http://scrapi.org/object/80006117"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80023491"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80023491"
+  }
+ }
+}

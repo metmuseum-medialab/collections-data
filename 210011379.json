@@ -1,0 +1,41 @@
+{
+ "Date": "1918",
+ "Medium": "Drypoint",
+ "Dimensions": "H. 12, W. 10-1/8 in.  (30.5 x 25.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Reba and Dave Williams Gift, 1999",
+ "Accession Number": "1999.232.11",
+ "Rights and Reproduction": "© 2011 Artists Rights Society (ARS), New York",
+ "Who": "Max Beckmann",
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "African Influences in Modern Art",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210011379,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/199923211.jpg",
+ "related-artworks": [
+  90013133,
+  210011356,
+  210011358,
+  210011370,
+  210011371
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210011379"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Decorator": "C. M. Lightford",
+ "Date": "1910",
+ "Geography": "Mid-Atlantic, Trenton, New Jersey, United States",
+ "Culture": "American",
+ "Medium": "Belleek porcelain",
+ "Dimensions": "Diam. 9 in. (22.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Florence I. Balasny-Barnes Collection, Gift of Florence I. Balasny-Barnes, 1991",
+ "Accession Number": "1991.370.1",
+ "Who": [
+  "Willets Manufacturing Company",
+  "C. M. Lightford"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Plates"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New Jersey",
+  "Trenton"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 10014948,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA6039.jpg",
+ "related-artworks": [
+  10002415,
+  10019055,
+  10019056,
+  10019057,
+  10019058
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014948"
+  }
+ }
+}

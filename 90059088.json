@@ -1,0 +1,42 @@
+{
+ "Artist": "Eugène-Pierre Gourdet (French, born Paris, 1820)",
+ "Date": "1830–97",
+ "Medium": "graphite and watercolor on wove paper; mounted on laid paper",
+ "Dimensions": "image 6 15/16 x 24 3/16 in. (17.7 x 61.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Dodge Fund, 1967",
+ "Accession Number": "67.827.254",
+ "Who": [
+  "Jules-Edmond-Charles Lachaise",
+  "Eugène-Pierre Gourdet"
+ ],
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Graphite",
+  "Wove paper",
+  "Laid paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90059088,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811567.jpg",
+ "related-artworks": [
+  90059057,
+  90059110,
+  90059125,
+  90059151,
+  90059129
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90059088"
+  }
+ }
+}

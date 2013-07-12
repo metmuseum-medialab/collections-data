@@ -1,0 +1,43 @@
+{
+ "Date": "mid-18th century",
+ "Culture": "probably German, Franconia",
+ "Medium": "Gilt wood (poplar?)",
+ "Dimensions": "H. 8-3/8 in. (21.3 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Loretta Hines Howard, 1975",
+ "Accession Number": "1975.437.1",
+ "What": [
+  "Sculpture",
+  "Gilt",
+  "Wood",
+  "Poplar"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Franconia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120022435,
+ "gallery-id": 533,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES2578.jpg",
+ "related-artworks": [
+  120022436,
+  120023824,
+  120021816,
+  120021715,
+  120025457
+ ],
+ "Provenance": [
+  "Loretta Hines Howard (until 1975",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022435"
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "Medium": "Silver",
+ "Dimensions": [
+  "Diameter 3 7/16 in. (8.7 cm)",
+  "Height 3/4 in. (1.9 cm)"
+ ],
+ "Classification": "Gold and Silver",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.192.60",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Bowls"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011276,
+ "related-artworks": [
+  130004301,
+  130004306,
+  130004293,
+  130004307,
+  130004290
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011276"
+  }
+ }
+}

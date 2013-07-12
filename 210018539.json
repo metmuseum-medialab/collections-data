@@ -1,0 +1,64 @@
+{
+ "Manufacturer": "Wiener Werkstätte",
+ "Date": "ca. 1910",
+ "Medium": "Flatware Silver (soup spoon, fork, knife, dessert spoon, napkin) Presentation box: Silk cover",
+ "Dimensions": "1 1/2 x 9 1/8 x 5 1/4 in. (3.8 x 23.2 x 13.3 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Jacqueline Loewe Fowler, 2010",
+ "Accession Number": "2010.508a–f",
+ "Who": [
+  "Wiener Werkstätte",
+  "Carl Otto Czeschka"
+ ],
+ "What": [
+  "Metal",
+  "Silk",
+  "Metalwork",
+  "Silver",
+  "Flatware",
+  "Spoons",
+  "Knives",
+  "Boxes",
+  "Forks",
+  "Place spoons",
+  "Napkins",
+  "Dessert spoons"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "id": 210018539,
+ "gallery-id": 909,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/TR.11a-f.2009.jpg",
+ "Description": "Czeschka officially joined the Wiener Werkstätte in 1905 and resigned three years later to take a teaching post at the Hamburg Kunstgewerbeschule. He did, however, continue to submit designs and exhibit with the Wiener Werkstätte until 1915, becoming a leading disseminator of the style. The pattern on this flatware is a fine example of the exuberance of Czeschka’s well-documented floral designs for jewelry, metalwork, graphics, textiles, and theater sets and costumes.",
+ "Provenance": [
+  "sale, Christie's, London, King Street, October 28, 2008, lot 44 to Fowler",
+  "Jacqueline Loewe Fowler, Stamford, Conn. (2008-10; her gift to MMA)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90014391"
+   },
+   {
+    "href": "http://scrapi.org/object/210006596"
+   },
+   {
+    "href": "http://scrapi.org/object/210002100"
+   },
+   {
+    "href": "http://scrapi.org/object/210001742"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210018539"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/210018539"
+  }
+ }
+}

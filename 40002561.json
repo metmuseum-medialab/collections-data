@@ -1,0 +1,33 @@
+{
+ "Date": "before 1596",
+ "Culture": "Japanese",
+ "Classification": "Sword Blades",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.1659a–d",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Blades"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1400–1600 A.D.",
+ "id": 40002561,
+ "related-artworks": [
+  40000001,
+  40002207,
+  40002562,
+  40002579,
+  40002576
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40002561"
+  }
+ }
+}

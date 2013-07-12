@@ -1,0 +1,40 @@
+{
+ "Date": "19th century",
+ "Geography": "Spain",
+ "Culture": "Spain",
+ "Medium": "gourd, brass, silk",
+ "Dimensions": "L. 1 ft. 7 in.",
+ "Classification": "Chordophone-Lute",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.1028",
+ "What": [
+  "Metal",
+  "Silk",
+  "Copper alloy",
+  "Musical instruments",
+  "Brass",
+  "Chordophones",
+  "Lutes",
+  "Gourd"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "id": 180012591,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS36Aright.jpg",
+ "related-artworks": [
+  180012597,
+  180013399,
+  180015199,
+  180012281,
+  180013388
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180012591"
+  }
+ }
+}

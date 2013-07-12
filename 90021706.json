@@ -1,0 +1,31 @@
+{
+ "Date": "1893",
+ "Medium": "Photomechanical process",
+ "Dimensions": "7 x 4 3/4 in. (17.8 x 12 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1962",
+ "Accession Number": "62.597.3",
+ "Who": "Meriden Britannia Company",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021706,
+ "related-artworks": [
+  90021698,
+  90021701,
+  90021697,
+  90021702,
+  90021700
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021706"
+  }
+ }
+}

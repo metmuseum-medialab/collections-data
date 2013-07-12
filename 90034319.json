@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1859",
+ "Medium": "Watercolor, pen and black ink, graphite",
+ "Dimensions": "sheet 15 1/2 x 13 in. (39.4 x 33 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Royal Institute of British Architects, 1963",
+ "Accession Number": "63.681.8",
+ "Who": "Edward William Godwin",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Design Reform",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90034319,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804299.jpg",
+ "related-artworks": [
+  90000300,
+  90034318,
+  120023808,
+  120024102
+ ],
+ "Provenance": [
+  "Donor: Royal Institute of British Architects"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90034319"
+  }
+ }
+}

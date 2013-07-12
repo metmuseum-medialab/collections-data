@@ -1,0 +1,35 @@
+{
+ "Culture": "Etruscan",
+ "Medium": "Terracotta",
+ "Dimensions": "Other 1 1/2 x 1 15/16 in. (3.8 x 4.9 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "Purchase, 1896",
+ "Accession Number": "96.9.125",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006664,
+ "related-artworks": [
+  130006663,
+  130007140,
+  130007139,
+  130011059,
+  130013978
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006664"
+  }
+ }
+}

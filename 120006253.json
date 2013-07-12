@@ -1,0 +1,39 @@
+{
+ "Date": "second half 17th century",
+ "Culture": "Portuguese",
+ "Medium": "Walnut",
+ "Dimensions": "Each 50-3/8 x 23-1/4 x 18 in.  (128.0 x 59.1 x 45.7 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.49.4, .6",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Seating furniture",
+  "Chairs",
+  "Walnut"
+ ],
+ "Where": [
+  "Europe",
+  "Portugal"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120006253,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/10716.jpg",
+ "related-artworks": [
+  120006252,
+  120006250,
+  120006254,
+  120058982,
+  120009687
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006253"
+  }
+ }
+}

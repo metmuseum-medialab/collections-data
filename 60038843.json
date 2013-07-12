@@ -1,0 +1,43 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Lacquer with sprinkled gold makie and cut gold foil",
+ "Dimensions": [
+  "W. 1 15/16 in. (5 cm); D. 7/8 in. (2.2. cm); L. 7 11/16 in. (19.6 cm)",
+  "Inro L. 2 5/8 in. (6.7 cm)"
+ ],
+ "Classification": "Inrō",
+ "Credit Line": "Gift of Beth Berne, 2003",
+ "Accession Number": "2003.589",
+ "What": [
+  "Metal",
+  "Gold",
+  "Lacquer",
+  "Inro",
+  "Sagemono",
+  "Maki-e"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60038843,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2003_589_Strm1.JPG",
+ "related-artworks": [
+  60029674,
+  60029672,
+  60012571,
+  60013265,
+  60025380
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60038843"
+  }
+ }
+}

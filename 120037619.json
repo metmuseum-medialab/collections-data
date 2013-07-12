@@ -1,0 +1,39 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "Flemish",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 14 x W. 14 inches (35.6 x 35.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Laura F. Hearn in memory of George A. Hearn, 1917",
+ "Accession Number": "17.101.110",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace",
+  "Handkerchiefs"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120037619,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/36284.jpg",
+ "related-artworks": [
+  120037618,
+  120045591,
+  120039303,
+  120039373,
+  120030546
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120037619"
+  }
+ }
+}

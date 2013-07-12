@@ -1,0 +1,30 @@
+{
+ "Date": "June 1, 1920",
+ "Classification": "Books",
+ "Credit Line": "Gift of Weston Naef, 1981",
+ "Accession Number": "1981.1239.1",
+ "Who": "Roycrofters",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024349,
+ "related-artworks": [
+  90024350,
+  90024351,
+  90026867
+ ],
+ "Provenance": [
+  "Donor: Weston J. Naef"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024349"
+  }
+ }
+}

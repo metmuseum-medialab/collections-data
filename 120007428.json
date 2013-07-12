@@ -1,0 +1,47 @@
+{
+ "Date": "1820–50",
+ "Culture": "French",
+ "Medium": "Walnut, kingwood, ivory",
+ "Dimensions": "34-1/2 x 60 x 34 in.  (87.6 x 152.4 x 86.4 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.803",
+ "Who": "Jacques Androuet Du Cerceau",
+ "What": [
+  "Wood",
+  "Bone",
+  "Furniture",
+  "Ivory",
+  "Woodwork",
+  "Walnut",
+  "Tables",
+  "Violet wood"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120007428,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/24238.jpg",
+ "related-artworks": [
+  120007923,
+  120007881,
+  90050422,
+  90050948,
+  90002162
+ ],
+ "Provenance": [
+  "Edmond Foulc",
+  "Benjamin Altman (until d. 1913",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120007428"
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "Date": "1760",
+ "Medium": "Fresco, transferred to canvas",
+ "Dimensions": "Oval, 49 3/8 x 36 1/4 in. (125.4 x 92.1 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Grace Rainey Rogers, 1943",
+ "Accession Number": "43.85.22",
+ "Who": "Giovanni Battista Tiepolo",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Frescoes",
+  "Grisaille"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "Giovanni Battista Tiepolo (1696–1770)",
+  "Poets in Italian Mythological Prints",
+  "Francisco de Goya (1746–1828) and the Spanish Enlightenment",
+  "Lovers in Italian Mythological Prints",
+  "Venice in the Eighteenth Century",
+  "Poets, Lovers, and Heroes in Italian Mythological Prints",
+  "The Grand Tour"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110002261,
+ "gallery-id": 622,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/ep43.85.22.bw.R.jpg",
+ "related-artworks": [
+  110002259,
+  110002260,
+  110002258,
+  110002249,
+  110002483
+ ],
+ "Provenance": [
+  "Palazzo Valle-Marchesini-Sala, Vicenza (until or before 1909)",
+  "[Durr Freedley, New York, about 1914/15",
+  "bought for Rogers]",
+  "Grace Rainey Rogers, New York (about 1914/15–d. 1943)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110002261"
+  }
+ }
+}

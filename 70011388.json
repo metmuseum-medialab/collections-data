@@ -1,0 +1,40 @@
+{
+ "Date": "14th century",
+ "Culture": "French",
+ "Medium": "Stone",
+ "Dimensions": "Overall 7 x 6 1/2 in. (17.8 x 16.5 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Cloisters Collection, 1925",
+ "Accession Number": "25.120.957",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Capitals"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Burgundy"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011388,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi25-120-957.jpg",
+ "related-artworks": [
+  70010541,
+  70011209,
+  70011389,
+  70011390,
+  70012768
+ ],
+ "Provenance": [
+  "George Grey Barnard American, Bellefonte, Pennsylvania 1863–1938 New York , New York (until 1925)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011388"
+  }
+ }
+}

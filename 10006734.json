@@ -1,0 +1,46 @@
+{
+ "Date": "1815–30",
+ "Geography": "Île-de-France, Paris, France",
+ "Culture": "French",
+ "Medium": "Porcelain",
+ "Dimensions": "1 5/8 x 12 x 8 3/8 in. (4.1 x 30.5 x 21.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Alan W. Carrick, 1967",
+ "Accession Number": "Inst.67.15.21",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Platters"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10006734,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP260338.jpg",
+ "related-artworks": [
+  10006724,
+  10006725,
+  10006726,
+  10006727,
+  10006728
+ ],
+ "Provenance": [
+  "Killian K. Van Rensselaer, New York",
+  "John Sanders Van Rensselaer, Albany, New York",
+  "Mrs. Alan W. Carrick, Princeton, New Jersey, until 1967"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006734"
+  }
+ }
+}

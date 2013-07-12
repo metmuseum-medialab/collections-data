@@ -1,0 +1,54 @@
+{
+ "Date": "1919",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Mrs. Lou F. Schwartz and Mrs. Joseph Mayper, 1969",
+ "Accession Number": "69.527.32",
+ "Who": "Ben Magid Rabinovitch",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190023264,
+ "related-artworks": [
+  "http://scrapi.org/object/190015962",
+  "http://scrapi.org/object/190015981",
+  "http://scrapi.org/object/190015963",
+  "http://scrapi.org/object/190015964",
+  "http://scrapi.org/object/190015982"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Mrs. Lou F. Schwartz and Mrs. Joseph Mayper"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190015962"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190015981"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190015963"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190015964"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190015982"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190023264"
+  }
+ }
+}

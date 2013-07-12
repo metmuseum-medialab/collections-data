@@ -1,0 +1,40 @@
+{
+ "Period": "Late Period, Saite",
+ "Dynasty": "Dynasty 26",
+ "Reign": "reign of Psamtik II",
+ "Date": "595–589 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Wood, ink",
+ "Dimensions": "H. 0.34m",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.150.25",
+ "What": [
+  "Ink",
+  "Wood",
+  "Tablets",
+  "Writing tablet"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100010684,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs11.150.25.jpg",
+ "related-artworks": [
+  100010105,
+  100001530,
+  100000557,
+  100001163,
+  100004221
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100010684"
+  }
+ }
+}

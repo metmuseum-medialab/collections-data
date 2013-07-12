@@ -1,0 +1,41 @@
+{
+ "Artist": "After Baccio Bandinelli (Italian, Gaiole in Chianti 1493–1560 Florence)",
+ "Date": "dated 1531",
+ "Medium": "Engraving",
+ "Dimensions": "10 3/4 x 11 13/16 in.  (27.3 x 29.95 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.97.144",
+ "Who": [
+  "Agostino Veneziano (Agostino dei Musi)",
+  "Baccio Bandinelli"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012833,
+ "related-artworks": [
+  90003578,
+  90005546,
+  90010033,
+  90010034,
+  90010035
+ ],
+ "Provenance": [
+  "Pierre Jean Mariette (French, Paris 1694–1774 Paris)",
+  "Graphische Sammlung Albertina"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90012833"
+  }
+ }
+}

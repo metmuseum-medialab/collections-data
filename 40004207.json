@@ -1,0 +1,49 @@
+{
+ "Date": "ca. 1450",
+ "Culture": "Swiss",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.86",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Staff weapons",
+  "Halberds"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Baden-Württemberg",
+  "Stuttgart"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40004207,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40004197"
+   },
+   {
+    "href": "http://scrapi.org/object/40004493"
+   },
+   {
+    "href": "http://scrapi.org/object/40006019"
+   },
+   {
+    "href": "http://scrapi.org/object/40010798"
+   },
+   {
+    "href": "http://scrapi.org/object/40011240"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40004207"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40004207"
+  }
+ }
+}

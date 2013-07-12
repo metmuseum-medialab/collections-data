@@ -1,0 +1,39 @@
+{
+ "Date": "late 1st century B.C.–early 1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; cast",
+ "Dimensions": "Overall 1 1/2 x 2 1/4 in. (3.8 x 5.7 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.396.76",
+ "What": [
+  "Glass",
+  "Fragments",
+  "Mosaics"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Italian Peninsula, 1000 B.C.–1 A.D.",
+  "Italian Peninsula, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130018402,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP145731.jpg",
+ "related-artworks": [
+  130006060,
+  130006063,
+  130006061,
+  130006062,
+  130006064
+ ],
+ "Description": "Part of the base ring of a large bowl.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130018402"
+  }
+ }
+}

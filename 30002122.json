@@ -1,0 +1,47 @@
+{
+ "Period": "Sasanian",
+ "Date": "ca. 3rd–7th century A.D.",
+ "Geography": "Iran, Qasr-i Abu Nasr",
+ "Culture": "Sasanian",
+ "Medium": "Iron",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1936",
+ "Accession Number": "36.30.287",
+ "Who": "Sasanian",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Knives",
+  "Blades"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 1–500A.D.",
+  "Iran, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 30002122,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/vs36_30_282_293_338.jpg",
+ "related-artworks": [
+  30002120,
+  30002121,
+  30001917,
+  30004376,
+  30006053
+ ],
+ "Provenance": [
+  "1935, excavated by J.M. Upton, W. Hauser and C.K. Wilkinson on behalf of The Persian Expedition of the Metropolitan Museum of Art",
+  "acquired by the Museum in 1936, ceded in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30002122"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Artist": "After Master G.A. (Italian, active ca. 1535)",
+ "Date": "ca. 1550",
+ "Medium": "Etching",
+ "Dimensions": "Plate 5 3/16 x 3 7/16 in. (13.2 x 8.7 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1948",
+ "Accession Number": "48.13.4a",
+ "Who": [
+  "Lambert Suavius",
+  "Master G.A."
+ ],
+ "What": [
+  "Etching",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90083668,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP823070.jpg",
+ "related-artworks": [
+  90011508,
+  90083609,
+  90083610,
+  90083615,
+  90083612
+ ],
+ "Provenance": [
+  "Donor: Elisha Whittelsey Fund"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90083668"
+  }
+ }
+}

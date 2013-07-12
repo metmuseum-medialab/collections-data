@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1775",
+ "Culture": "British, Worcester",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. with cover 3 3/8 in. (8.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Luke Vincent Lockwood, 1939",
+ "Accession Number": "39.140.177a, b",
+ "Who": "Worcester",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Soft paste porcelain",
+  "Butter dishes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Worcestershire",
+  "Worcester"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013517,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/119792.jpg",
+ "related-artworks": [
+  120010510,
+  120014074,
+  120014096,
+  120001944,
+  120001945
+ ],
+ "Provenance": [
+  "[ Sarah Potter Conover , New York, before 1939",
+  "sold to Mr. and Mrs. Lockwood ]",
+  "Mr. and Mrs. Luke Vincent Lockwood (until 1939",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013517"
+  }
+ }
+}

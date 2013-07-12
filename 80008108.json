@@ -1,0 +1,39 @@
+{
+ "Date": "1952",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": [
+  "Length at CF 31 in. (78.7 cm)",
+  "Length at CB 33 in. (83.8 cm)",
+  "Width at Bottom 54 in. (137.2 cm)"
+ ],
+ "Credit Line": "Gift of Tom Brigance, 1952",
+ "Accession Number": "C.I.X.52.7.5",
+ "Who": "Tom Brigance",
+ "What": [
+  "Cotton",
+  "Beaches"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80008108,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CIX52.7.5_F.jpg",
+ "related-artworks": [
+  80001034,
+  80002383,
+  80005359,
+  80005411,
+  80008062
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80008108"
+  }
+ }
+}

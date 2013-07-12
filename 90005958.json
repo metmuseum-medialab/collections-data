@@ -1,0 +1,38 @@
+{
+ "Date": "1674–1755",
+ "Medium": "Graphite or lead, part of drawing executed in pen and brown ink and brush and gray wash",
+ "Dimensions": "sheet 7 1/2 x 4 5/16 in. (19.1 x 11 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1944",
+ "Accession Number": "44.145",
+ "Who": "Pier Leone Ghezzi",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90005958,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP809951.jpg",
+ "related-artworks": [
+  90005953,
+  90005954,
+  90005955,
+  90007129,
+  90045007
+ ],
+ "Provenance": [
+  "Schaeffer Galleries Inc., New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005958"
+  }
+ }
+}

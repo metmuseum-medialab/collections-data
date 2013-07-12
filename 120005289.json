@@ -1,0 +1,64 @@
+{
+ "Date": "19th century",
+ "Culture": "British (after an Italian original)",
+ "Medium": "Agate with silver gilt mounts",
+ "Dimensions": "H. 7 in. (17.8 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.105.4 ab",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Drinking vessels",
+  "Chalcedony",
+  "Printing plates",
+  "Agate",
+  "Electrotype",
+  "Stoups"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120005289,
+ "related-artworks": [
+  "http://scrapi.org/object/120000003",
+  "http://scrapi.org/object/120000014",
+  "http://scrapi.org/object/120000019",
+  "http://scrapi.org/object/120000717",
+  "http://scrapi.org/object/120000749"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "[ Christofle & Cie , 1908",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000003"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000014"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000019"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000717"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000749"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120005289"
+  }
+ }
+}

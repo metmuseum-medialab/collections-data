@@ -1,0 +1,35 @@
+{
+ "Illustrator": "Joseph Urban (American (born Austria), Vienna 1872–1933 New York)",
+ "Publisher": "Published by Gesellschaft für vervielfältigende Kunst",
+ "Date": "1898",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1968",
+ "Accession Number": "68.780",
+ "Who": [
+  "Gesellschaft für vervielfältigende Kunst",
+  "Joseph Urban",
+  "Heinrich Lefler",
+  "Johann Karl August Musäus"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90022179,
+ "related-artworks": [
+  90022180,
+  90012280,
+  90012287,
+  90018267
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90022179"
+  }
+ }
+}

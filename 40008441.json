@@ -1,0 +1,48 @@
+{
+ "Date": "1786–1859",
+ "Culture": "Japanese",
+ "Classification": "Sword Furniture",
+ "Credit Line": "The Howard Mansfield Collection, Gift of Howard Mansfield, 1936",
+ "Accession Number": "36.120.11",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40008441,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40000015"
+   },
+   {
+    "href": "http://scrapi.org/object/40000017"
+   },
+   {
+    "href": "http://scrapi.org/object/40000020"
+   },
+   {
+    "href": "http://scrapi.org/object/40000001"
+   },
+   {
+    "href": "http://scrapi.org/object/40000013"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40008441"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40008441"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Silk satin with supplementary weft patterning in silk and metallic thread",
+ "Dimensions": "Overall 43 1/2 x 80 1/2 in. (110.5 x 204.5 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Gift of Arthur M. Crocker and William R. Crocker, 1975",
+ "Accession Number": "1975.283.1",
+ "What": [
+  "Costume",
+  "Silk",
+  "Robes",
+  "Satin"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60012955,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/206408.jpg",
+ "related-artworks": [
+  60025030,
+  60012172,
+  60012684,
+  60012967,
+  60013185
+ ],
+ "Description": "The happi is a costume unique to the Noh stage that is often worn as an outer jacket for a warrior's role. When it is slipped off the right arm or when both sleeves are hiked up, it is used to give the impression of armor. Many lined happi, like this one, have bold designs of Chinese inspiration. Another kind of happi, probably more familiar, is a short coat worn by townsmen during the Edo period and later.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60012955"
+  }
+ }
+}

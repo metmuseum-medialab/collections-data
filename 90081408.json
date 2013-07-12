@@ -1,0 +1,40 @@
+{
+ "Artist": "Giovanni Battista Piranesi (Italian, Mogliano Veneto 1720–1778 Rome)",
+ "Date": "1778",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Sheet 20 7/8 x 29 15/16 in. (53 x 76 cm)",
+  "Plate 18 11/16 x 26 3/4 in. (47.5 x 68 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, transferred from the Library",
+ "Accession Number": "41.71.1.15",
+ "Who": [
+  "Giovanni Battista Piranesi",
+  "Francesco Piranesi"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90081408,
+ "related-artworks": [
+  90033470,
+  90079946,
+  90079955,
+  90079967,
+  90079979
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90081408"
+  }
+ }
+}

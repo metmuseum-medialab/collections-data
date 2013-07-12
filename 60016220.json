@@ -1,0 +1,51 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "late 18th–first half of the 19th century",
+ "Culture": "China",
+ "Medium": "Porcelain painted in overglaze famille rose enamels and gilt",
+ "Dimensions": "H. 1 1/2 in. (3.8 cm); Diam. 3 in. (7.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.686",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Gilt",
+  "Drinking vessels",
+  "Painting",
+  "Cups",
+  "Enamels",
+  "Overglazing",
+  "Famille"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60016220,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/79_2_686_O5_sf.jpg",
+ "related-artworks": [
+  60015730,
+  60018275,
+  60016195,
+  60018280,
+  60018281
+ ],
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60016220"
+  }
+ }
+}

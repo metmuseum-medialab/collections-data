@@ -1,0 +1,40 @@
+{
+ "Date": "1867, printed later",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "Image 52.1 x 38.7 cm (20 1/2 x 15 1/4 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+ "Accession Number": "2005.100.174",
+ "Who": "Carleton E. Watkins",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190038826,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP223651.jpg",
+ "related-artworks": [
+  190011345,
+  190011430,
+  190011431,
+  190011432,
+  190011433
+ ],
+ "Provenance": [
+  "National Park Service at Yosemite Collection",
+  "[Helios Arts, Inc.]",
+  "Gilman Paper Company Collection, New York, August 4, 1977"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190038826"
+  }
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "Date": "1966",
+ "Classification": "Periodicals",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.380",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190028873,
+ "related-artworks": [
+  190060626,
+  190043417,
+  190043418,
+  190043419,
+  190043420
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028873"
+  }
+ }
+}

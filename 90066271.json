@@ -1,0 +1,38 @@
+{
+ "Artist": "After Parmigianino (Girolamo Francesco Maria Mazzola) (Italian, Parma 1503–1540 Casalmaggiore)",
+ "Date": "18th century",
+ "Medium": "Etching, roulette work and plate tone",
+ "Dimensions": "sheet 11 7/16 x 5 3/16 in. (29 x 13.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1962",
+ "Accession Number": "62.602.257",
+ "Who": [
+  "Parmigianino (Girolamo Francesco Maria Mazzola)",
+  "Stefano Mulinari, ca. 1741 - ca. 1790"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Roulettes"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90066271,
+ "related-artworks": [
+  90066457,
+  90066460,
+  90066459,
+  90066461,
+  90066463
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90066271"
+  }
+ }
+}

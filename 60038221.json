@@ -1,0 +1,45 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Silk and gold thread tapestry (kesi)",
+ "Dimensions": "Overall 14 3/4 x 14 3/4in. (37.5 x 37.5cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Ruth Fahnestock Foote, in memory of her mother, Mabel Metcalf Fahnestock, 1965",
+ "Accession Number": "65.236",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Gold",
+  "Tapestries",
+  "Roundels",
+  "Kesi"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60038221,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/184537.jpg",
+ "related-artworks": [
+  60039134,
+  60053128,
+  60035495,
+  60006764,
+  60006660
+ ],
+ "Description": "A distinction was drawn between the five-clawed dragon (long) and the four-clawed dragon (mang), which represented lower ranks. The striped water pattern seen here at the bottom center of the roundel developed during the Qing dynasty.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60038221"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "18th century",
+ "Geography": "Turkey",
+ "Medium": "Silk and metal on linen",
+ "Dimensions": "68.5 in. high 27.50 in. wide (174 cm high 69.9 cm wide)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. W. Kesley Schoepf, 1952",
+ "Accession Number": "52.150.1",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Towels"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140008454,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/154168.jpg",
+ "related-artworks": [
+  140008037,
+  140000251,
+  140000218,
+  140000177,
+  140000179
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008454"
+  }
+ }
+}

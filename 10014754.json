@@ -1,0 +1,37 @@
+{
+ "Date": "1800–1900",
+ "Culture": "American",
+ "Medium": "Trimming with silk, cotton, and beads",
+ "Dimensions": "46 x 2 in. (116.8 x 5.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Maria P. James, 1911",
+ "Accession Number": "11.60.297",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Cotton",
+  "Trimming",
+  "Beads"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10014754,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP8207.jpg",
+ "related-artworks": [
+  10014375,
+  10015050,
+  10023610,
+  10013849,
+  10013935
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014754"
+  }
+ }
+}

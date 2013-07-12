@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1925",
+ "Medium": "Oil on canvas",
+ "Dimensions": "25 7/8 x 39 7/8 in. (65.7 x 101.3 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Lillie P. Bliss, 1931",
+ "Accession Number": "31.67.3",
+ "Who": "Arthur . Davies",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 20011004,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DT252044.jpg",
+ "related-artworks": [
+  20010975,
+  20010976,
+  20010996,
+  20011021,
+  20011055
+ ],
+ "Provenance": [
+  "Lizzie P. Bliss, New York, by 1930–died 1931"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20011004"
+  }
+ }
+}

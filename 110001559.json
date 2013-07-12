@@ -1,0 +1,65 @@
+{
+ "Date": "1881",
+ "Medium": "Oil on canvas",
+ "Dimensions": "39 3/4 x 32 in. (101 x 81.3 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.107",
+ "Who": "Claude Monet",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "American Impressionism",
+  "The Transformation of Landscape Painting in France",
+  "Japonisme",
+  "Impressionism Art and Modernity",
+  "Americans in Paris, 1860–1900",
+  "Édouard Manet (1832–1883)",
+  "John Singer Sargent (1856–1925)",
+  "Claude Monet (1840–1926)",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110001559,
+ "gallery-id": 818,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP130800.jpg",
+ "related-artworks": [
+  110001570,
+  110001571,
+  110001574,
+  110001572,
+  110001575
+ ],
+ "Provenance": [
+  "[Durand-Ruel, Paris, 1881–86",
+  "bought from the artist on October 30, 1881",
+  "stock no. 1959",
+  "sold in 1886 to Kingman]",
+  "Alden Wyman Kingman, New York (1886–92",
+  "sold to Durand-Ruel]",
+  "[Durand-Ruel, New York, 1892",
+  "sold to Lambert]",
+  "Catholina Lambert, Paterson, N.J. (1892–99",
+  "sold in 1899 to Durand-Ruel)",
+  "[Durand-Ruel, New York, 1899",
+  "stock no. 2120",
+  "sold on March 10, 1899 to Havemeyer]",
+  "Mr. and Mrs. H. O. Havemeyer, New York (1899–his d. 1907)",
+  "Mrs. H. O. (Louisine W.) Havemeyer, New York (1907–d. 1929",
+  "cat., 1931, p. 154)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001559"
+  }
+ }
+}

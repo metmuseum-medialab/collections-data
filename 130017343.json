@@ -1,0 +1,38 @@
+{
+ "Date": "1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Onyx",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.412",
+ "What": [
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Stone",
+  "Drinking vessels",
+  "Cups",
+  "Chalcedony",
+  "Onyx"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130017343,
+ "related-artworks": [
+  130017344,
+  130010985,
+  130000424,
+  130007207,
+  130010568
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130017343"
+  }
+ }
+}

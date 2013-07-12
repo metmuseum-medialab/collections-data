@@ -1,0 +1,33 @@
+{
+ "Date": "second half 19th century",
+ "Medium": "Watercolor on tracing paper",
+ "Dimensions": "irreg. sheet 10 1/4 x 7 1/2 in. (26 x 19 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.632.133",
+ "Who": "Richardson Ellson & Co.",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90060907,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP806699.jpg",
+ "related-artworks": [
+  90060834,
+  90060836,
+  90060842,
+  90060871,
+  90060904
+ ],
+ "Provenance": [
+  "Vendor: Benjamin Weinreb (London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060907"
+  }
+ }
+}

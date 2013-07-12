@@ -1,0 +1,43 @@
+{
+ "Lithographer": "The Gast Lithograph & Engraving Company (American, New York)",
+ "Date": "1889",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 1 1/2 x 2 3/4 in. (3.8 x 7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 201, N14.7",
+ "Who": [
+  "Allen & Ginter",
+  "The Gast Lithograph & Engraving Company"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90082979,
+ "related-artworks": [
+  90080953,
+  90080954,
+  90080951,
+  90080952,
+  90080957
+ ],
+ "Description": "Trade cards from the \"General Government and State Capitol Buildings\" series (N14), issued in 1889 in a set of 50 cards to promote Allen & Ginter brand cigarettes.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90082979"
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "Date": "1752–55",
+ "Culture": "British, Chelsea",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. 7 3/4 in. (19.7 cm); W. 3 1/4 in. (8.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.464",
+ "Who": "Chelsea Porcelain Factory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Figures",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London",
+  "Chelsea"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120018842,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/181209.jpg",
+ "Provenance": [
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120007511"
+   },
+   {
+    "href": "http://scrapi.org/object/120007497"
+   },
+   {
+    "href": "http://scrapi.org/object/120007515"
+   },
+   {
+    "href": "http://scrapi.org/object/120016613"
+   },
+   {
+    "href": "http://scrapi.org/object/120018802"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120018842"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120018842"
+  }
+ }
+}

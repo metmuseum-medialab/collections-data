@@ -1,0 +1,57 @@
+{
+ "Date": "1810–20",
+ "Geography": "England; United States",
+ "Culture": "American or British",
+ "Medium": "Gilt gesso, paint, wood",
+ "Dimensions": "20 x 13 1/2 in. (50.8 x 34.3 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Rogers Fund, 1961",
+ "Accession Number": "61.213",
+ "What": [
+  "Gilt",
+  "Furniture",
+  "Lighting devices",
+  "Gesso",
+  "Brackets"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10009927,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/173391.jpg",
+ "Provenance": [
+  "Israel Sack Inc., New York, until 1961"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10009928"
+   },
+   {
+    "href": "http://scrapi.org/object/10004088"
+   },
+   {
+    "href": "http://scrapi.org/object/10007613"
+   },
+   {
+    "href": "http://scrapi.org/object/10007614"
+   },
+   {
+    "href": "http://scrapi.org/object/10007615"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10009927"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10009927"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1850",
+ "Geography": "Mid-Atlantic, Pittsburgh, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Blown pattern-molded lead glass",
+ "Dimensions": "H. 9 1/8 in. (23.2 cm); Diam. 4 3/4 in. (12.1 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1969",
+ "Accession Number": "69.137.6",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Glass",
+  "Vases",
+  "Blown glass",
+  "Lead",
+  "Celery glasses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Pittsburgh"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001540,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/191546.jpg",
+ "related-artworks": [
+  10001544,
+  10001545,
+  10001546,
+  10001541,
+  10005814
+ ],
+ "Provenance": [
+  "Paul Feigay, New York, until 1969"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001540"
+  }
+ }
+}

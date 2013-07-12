@@ -1,0 +1,55 @@
+{
+ "Period": "Neo-Babylonian",
+ "Date": "ca. 596 B.C.",
+ "Geography": "Mesopotamia",
+ "Culture": "Babylonian",
+ "Medium": "Clay",
+ "Dimensions": "7.8 x 5.6 x 2.3 cm (3 1/8 x 2 1/4 x 7/8 in.)",
+ "Classification": "Clay",
+ "Credit Line": "Purchase, 1886",
+ "Accession Number": "86.11.174",
+ "Who": "Babylonian",
+ "What": [
+  "Clay",
+  "Tablets",
+  "Cuneiform"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30000378,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME86_11_174.jpg",
+ "Provenance": [
+  "Acquired by the Museum in 1886, purchased from the Reverend William Hayes Ward."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/30000150"
+   },
+   {
+    "href": "http://scrapi.org/object/30000152"
+   },
+   {
+    "href": "http://scrapi.org/object/30000161"
+   },
+   {
+    "href": "http://scrapi.org/object/30000162"
+   },
+   {
+    "href": "http://scrapi.org/object/30000160"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/30000378"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/30000378"
+  }
+ }
+}

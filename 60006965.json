@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 6th century",
+ "Culture": "Xinjiang Uyghur Autonomous Region",
+ "Medium": "Water-based pigment on mud plaster",
+ "Dimensions": "11 3/4 x 8 1/2 in. (29.8 x 21.6 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.32.6",
+ "What": [
+  "Paintings",
+  "Plaster",
+  "Mud"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D.",
+  "China, 1–500A.D.",
+  "Central and North Asia, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60006965,
+ "gallery-id": 207,
+ "related-artworks": [
+  60020237,
+  60012493,
+  60020235,
+  60020234,
+  60020238
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60006965"
+  }
+ }
+}

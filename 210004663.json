@@ -1,0 +1,36 @@
+{
+ "Medium": "Ink on paper",
+ "Dimensions": [
+  "H. 12-1/8, W. 10-1/4 inches",
+  "(30.8 x 26 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mrs. Bernard Sanders, 1986",
+ "Accession Number": "1986.252.8",
+ "Who": "Bernard Sanders",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Modern and Contemporary Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 210004663,
+ "related-artworks": [
+  210004654,
+  210004660,
+  210004655,
+  210004661,
+  210004659
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210004663"
+  }
+ }
+}

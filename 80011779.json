@@ -1,0 +1,38 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Culture": "French (Breton peoples)",
+ "Medium": "linen",
+ "Dimensions": "Height 12 in. (30.5 cm)",
+ "Credit Line": "Gift of Cora Ginsburg, 1976",
+ "Accession Number": "1976.261.3",
+ "What": [
+  "Costume",
+  "Linen",
+  "Caps",
+  "Coifs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80011779,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1976.261.3.jpg",
+ "related-artworks": [
+  80006466,
+  80011741,
+  80011722,
+  80011733,
+  80011739
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80011779"
+  }
+ }
+}

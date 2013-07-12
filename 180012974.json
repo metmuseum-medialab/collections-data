@@ -1,0 +1,37 @@
+{
+ "Date": "19th century",
+ "Geography": "British Columbia, Canada",
+ "Culture": "Native American (Haida or Tsimshian)",
+ "Medium": "wood",
+ "Dimensions": "Diam. 16.5 x L. 21.6cm (6 1/2 x 8 1/2in.)",
+ "Classification": "Idiophone-Shaken",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.612",
+ "Who": "Haida",
+ "What": [
+  "Musical instruments",
+  "Idiophones",
+  "Rattles"
+ ],
+ "Where": [
+  "North and Central America",
+  "Canada"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180012974,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS1440A16.jpg",
+ "related-artworks": [
+  180013009,
+  180014306,
+  180014368,
+  180012978,
+  180014471
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180012974"
+  }
+ }
+}

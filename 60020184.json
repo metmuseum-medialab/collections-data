@@ -1,0 +1,42 @@
+{
+ "Period": "Eastern Han dynasty (25–220)",
+ "Date": "ca. 1st–early 3rd century",
+ "Culture": "China",
+ "Medium": "Earthenware with green glaze",
+ "Dimensions": "H. 31 11/16 in. (80.5 cm); W. 16 1/4 in. (41.3 cm)",
+ "Classification": "Tomb Pottery",
+ "Credit Line": "Gift of Charlotte C. Weber, 2000",
+ "Accession Number": "2000.662.4a–c",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Models"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1–500A.D.",
+  "China, 1–500A.D."
+ ],
+ "id": 60020184,
+ "gallery-id": 207,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2000_662_4a-c.jpg",
+ "related-artworks": [
+  60011948,
+  60011949,
+  60011950,
+  60011944,
+  60011945
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60020184"
+  }
+ }
+}

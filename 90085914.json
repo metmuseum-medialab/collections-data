@@ -1,0 +1,39 @@
+{
+ "Artist": "In the manner of Polifilo Giancarli (active in Venice ca. 1600-1625)",
+ "Date": "17th century (first half)",
+ "Medium": "Pen and brown ink over leadpoint.",
+ "Dimensions": "Sheet 7 1/4 x 10 5/16 in. (18.4 x 26.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1962",
+ "Accession Number": "66.602.11",
+ "Who": [
+  "Polifilo Giancarli",
+  "Anonymous, Italian, Venetian, 17th century"
+ ],
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90085914,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP824449.jpg",
+ "related-artworks": [
+  90085880,
+  90085882,
+  90085861,
+  90085871,
+  90085874
+ ],
+ "Description": "Design for a horizontal panel with a male figure in the middle, seen from the back, whose lower body consists of rinceaux which meander across the page. He looks left, into the eyes of a fantastical creature with a grotesque head springing forth from one of the rinceaux. Surrounding him are three more male hybrid creatures whose lower bodies similarly consist out of acanthus rinceaux or leaves.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90085914"
+  }
+ }
+}

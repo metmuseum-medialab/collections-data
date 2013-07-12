@@ -1,0 +1,40 @@
+{
+ "Date": "1907",
+ "Medium": "Autochrome",
+ "Dimensions": "12.3 x 9.1 cm (4 13/16 x 3 9/16 in.)",
+ "Classification": "Transparencies",
+ "Credit Line": "David Hunter McAlpin Fund, 1961",
+ "Accession Number": "61.564.2",
+ "Who": "Constantin Mitrofanovitsh Flórinsky",
+ "What": [
+  "Photographs",
+  "Transparencies",
+  "Autochromes"
+ ],
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Eastern Europe and Scandinavia, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present",
+  "Anatolia and the Caucasus, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190022177,
+ "related-artworks": [
+  190022176,
+  190022178,
+  190015264
+ ],
+ "Provenance": [
+  "Olga Dmitrieff Dubosclard"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190022177"
+  }
+ }
+}

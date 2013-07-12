@@ -1,0 +1,42 @@
+{
+ "Date": "1st–2nd century",
+ "Culture": "Northeast China",
+ "Medium": "Bronze wrapped with gold sheet",
+ "Dimensions": "H. 1 7/8 in. (4.8 cm); W. 3 in. (7.6 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mr. and Mrs. Eugene V. Thaw, 2002",
+ "Accession Number": "2002.201.135",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Gold",
+  "Bronze",
+  "Plaques"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1–500A.D.",
+  "Central and North Asia, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60030799,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2002_201_135_O1.jpg",
+ "related-artworks": [
+  60038225,
+  60011927,
+  60023060,
+  60023122,
+  60030797
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030799"
+  }
+ }
+}

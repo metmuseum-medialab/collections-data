@@ -1,0 +1,39 @@
+{
+ "Date": "1887",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 x 1 1/2 in. (7 x 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 204, N77.19",
+ "Who": "W. Duke, Sons & Co.",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90096356,
+ "related-artworks": [
+  90096244,
+  90096245,
+  90096246,
+  90096237,
+  90096236
+ ],
+ "Description": "Trade cards from the \"Gymnastic Exercises\" series (N77), issued in a set of 25 cards in 1887 to promote W. Duke Sons & Co. brand cigarettes. There are two versions of the series. All images are the same but the printed text is blue in one set and brown in the other.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90096356"
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "Publisher": "Published by Rudolph Ackermann (London)",
+ "Date": "May 1, 1814",
+ "Medium": "Etching and aquatint with watercolor",
+ "Dimensions": [
+  "image 4 5/8 x 8 1/4 in. (11.8 x 21 cm)",
+  "sheet 5 5/16 x 8 11/16 in. (13.5 x 22 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.533.1638",
+ "Who": [
+  "Thomas Rowlandson",
+  "Rudolph Ackermann"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Watercolors",
+  "Aquatint"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Watercolor Painting in Britain, 1750–1850",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90070025,
+ "related-artworks": [
+  90070020,
+  90070022,
+  90057610,
+  90064170,
+  90065435
+ ],
+ "Provenance": [
+  "Francis Harvey (British, active by 1859–died 1899)",
+  "C. W. Dyson Perrins(sale Sotheby's London, Jan. 12, 1959)",
+  "Vendor: Sotheby's, London , Jan. 12, 1959, lot 163"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90070025"
+  }
+ }
+}

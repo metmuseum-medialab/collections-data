@@ -1,0 +1,46 @@
+{
+ "Date": "11th–12th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware; light-colored body, white and bluish-gray glaze",
+ "Dimensions": [
+  "W. 2 3/4 in. (7 cm)",
+  "L.  3 7/8 in. (9.8 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1948",
+ "Accession Number": "48.101.44",
+ "What": [
+  "Ceramics",
+  "Fragments",
+  "Pottery",
+  "Earthenware",
+  "Glaze"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140008095,
+ "related-artworks": [
+  140008104,
+  140007494,
+  140007496,
+  140007499,
+  140007501
+ ],
+ "Provenance": [
+  "1947, excavated at kiln site in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1948, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008095"
+  }
+ }
+}

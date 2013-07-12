@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1825",
+ "Geography": "New York, New York, United States",
+ "Medium": "Boxwood, ebony, ivory, brass",
+ "Dimensions": [
+  "Length 580 mm",
+  "Bell diameter 79 mm"
+ ],
+ "Classification": "Aerophone-Reed Vibrated",
+ "Credit Line": "Rogers Fund, The Crosby Brown Collection of Musical Instruments, by exchange, and funds from various donors, 1982",
+ "Accession Number": "1982.42",
+ "Who": "Edward Riley",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Wood",
+  "Bone",
+  "Ivory",
+  "Musical instruments",
+  "Brass",
+  "Aerophones",
+  "Reeds",
+  "Ebony",
+  "Reedpipes",
+  "Boxwood",
+  "Clarinets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180016058,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/231742.jpg",
+ "related-artworks": [
+  180015924,
+  180015907,
+  180015939
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016058"
+  }
+ }
+}

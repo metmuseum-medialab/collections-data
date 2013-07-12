@@ -1,0 +1,42 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 11–12",
+ "Date": "ca. 2030–1640 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Temple of Mentuhotep II, North Triangular Court, Pit 23 (dancing girl), MMA 1922–23",
+ "Medium": "Linen, ink",
+ "Dimensions": "Preserved L. 10 cm (3 15/16 in); w. 5 cm (1 15/16 in)",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.3.264",
+ "What": [
+  "Ink",
+  "Linen"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 8000–2000 B.C.",
+  "Egypt, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100030943,
+ "related-artworks": [
+  100001775,
+  100001778,
+  100005982,
+  100006053,
+  100001779
+ ],
+ "Provenance": [
+  "Museum excavations 1922–23. Acquired by the Museum in the division of finds, 1925."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100030943"
+  }
+ }
+}

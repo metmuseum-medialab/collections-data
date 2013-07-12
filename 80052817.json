@@ -1,0 +1,46 @@
+{
+ "Date": "1940s",
+ "Culture": "French",
+ "Medium": "leather, rhinestones, silk",
+ "Dimensions": "Length 23 1/2 in. (59.7 cm)",
+ "Credit Line": "Gift of Patricia Volk Blitzer, in honor of Mrs. Robert Morgen, 1986",
+ "Accession Number": "1986.189a, b",
+ "Who": "Elsa Schiaparelli",
+ "What": [
+  "Costume",
+  "Silk",
+  "Glass",
+  "Leather",
+  "Gloves",
+  "Glass paste",
+  "Rhinestone"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Dressing for the Cocktail Hour",
+  "Elsa Schiaparelli (1890–1973)",
+  "Le Colis de Trianon–Versailles and Paris Openings",
+  "Twentieth–Century Silhouette and Support",
+  "Costume in The Metropolitan Museum of Art",
+  "France, 1900 A.D.–present"
+ ],
+ "id": 80052817,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DP273703.jpg",
+ "related-artworks": [
+  80094016,
+  80093726,
+  80095914,
+  80093915,
+  80108239
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052817"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "late 18th century",
+ "Culture": "French",
+ "Medium": "Ivory, mother-of-pearl, paper",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Orme Wilson, 1954",
+ "Accession Number": "2009.300.4763",
+ "What": [
+  "Costume",
+  "Bone",
+  "Ivory",
+  "Fans",
+  "Pearl"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 80107182,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/54.78.1_front_CP2.jpg",
+ "related-artworks": [
+  80094122,
+  80094280,
+  80094364,
+  80094467,
+  80094119
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107182"
+  }
+ }
+}

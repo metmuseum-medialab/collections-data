@@ -1,0 +1,56 @@
+{
+ "Date": "1480–1500",
+ "Culture": "Italian, Venice (Murano)",
+ "Medium": "Glass",
+ "Dimensions": "H. 3 1/4 in.  (8.3 cm); Diam. 3 3/4 in. (9.5 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "H.O. Havemeyer Collection, Bequest of Mrs. H.O. Havemeyer, 1929",
+ "Accession Number": "29.100.92",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Beakers"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011262,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES7863.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/ES7863.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/ES968.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/ES6977.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120000214"
+   },
+   {
+    "href": "http://scrapi.org/object/120001561"
+   },
+   {
+    "href": "http://scrapi.org/object/120001597"
+   },
+   {
+    "href": "http://scrapi.org/object/120001599"
+   },
+   {
+    "href": "http://scrapi.org/object/120010833"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120011262"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120011262"
+  }
+ }
+}

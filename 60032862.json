@@ -1,0 +1,44 @@
+{
+ "Period": "Sui dynasty (581–618)",
+ "Date": "late 6th century",
+ "Culture": "China",
+ "Medium": "Leaded bronze, possibly lost-wax cast",
+ "Dimensions": "H. 21 1/2 in. (54.6 cm); W. 5 1/2 in. (14 cm); D. 5 in. (12.7 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1928",
+ "Accession Number": "28.122.2",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Figures",
+  "Wax",
+  "Lead bronze"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 500–1000 A.D.",
+  "China, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60032862,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP163986.jpg",
+ "related-artworks": [
+  60024242,
+  60025211,
+  60025210,
+  60033084,
+  60033094
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60032862"
+  }
+ }
+}

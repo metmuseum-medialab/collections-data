@@ -1,0 +1,47 @@
+{
+ "Decorator": "Decorated by the Hausmaler Hans Gottlieb von Bressler (Breslau)",
+ "Date": "ca. 1720, decorated 1732",
+ "Culture": "German (Meissen and Breslau)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 3 1/8 in. (7.9 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1950",
+ "Accession Number": "50.211.242",
+ "Who": [
+  "Meissen Manufactory",
+  "Hans Gottlieb von Bressler"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Drinking vessels",
+  "Cups",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Saxony",
+  "Meissen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120016129,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES1554.jpg",
+ "related-artworks": [
+  120002076,
+  120003138,
+  120003128,
+  120006187,
+  120007446
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120016129"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Publisher": "Robert Sayer (London, 1725–1794)",
+ "Date": "[1765]",
+ "Medium": "Engraving",
+ "Dimensions": "plate 11 1/4 x 7 1/4 in. (28.6 x 18.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.638.31(20-2)",
+ "Who": [
+  "Robert Sayer",
+  "Charles Le Brun"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90060277,
+ "related-artworks": [
+  90020199,
+  90020200,
+  90034622,
+  90060278,
+  90060276
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060277"
+  }
+ }
+}

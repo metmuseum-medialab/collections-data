@@ -1,0 +1,37 @@
+{
+ "Medium": "Woodcut; third state of three (Hollstein)",
+ "Dimensions": "Sheet 6 11/16 × 2 7/8 in. (17 × 7.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, Rogers Fund, and Gift of Theodore De Witt, by exchange, 1931",
+ "Accession Number": "31.31.4",
+ "Who": "Hans Burgkmair",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90106285,
+ "related-artworks": [
+  90106273,
+  90003189,
+  90003192,
+  90003193,
+  90003195
+ ],
+ "Provenance": [
+  "Friedrich August II of Saxony (1797–1854)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90106285"
+  }
+ }
+}

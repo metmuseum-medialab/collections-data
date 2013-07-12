@@ -1,0 +1,51 @@
+{
+ "Artist": "After school of Andrea Mantegna (Italian, Isola di Carturo 1430/31–1506 Mantua)",
+ "Date": "dated 1508",
+ "Medium": "Engraving",
+ "Dimensions": "11 3/4 x 8 1/4 in.  (29.8 x 20.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Henry Walters, 1917",
+ "Accession Number": "17.37.302",
+ "Who": [
+  "Marcantonio Raimondi",
+  "Andrea Mantegna"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Poets in Italian Mythological Prints",
+  "Lovers in Italian Mythological Prints",
+  "The Rediscovery of Classical Antiquity",
+  "Heroes in Italian Mythological Prints",
+  "The Papacy and the Vatican Palace",
+  "Profane Love and Erotic Art in the Italian Renaissance",
+  "The Printed Image in the West History and Techniques"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90009789,
+ "related-artworks": [
+  90003578,
+  90004083,
+  90008249,
+  90009704,
+  90009694
+ ],
+ "Provenance": [
+  "P. Gervaise (French, died 1860)",
+  "Juan Jorge Peoli (1825–1893)",
+  "American Art Galleries, New York, May 8–12, 1894, lot"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90009789"
+  }
+ }
+}

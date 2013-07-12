@@ -1,0 +1,58 @@
+{
+ "Date": "mid-18th century",
+ "Culture": "probably Italian or French",
+ "Medium": "Velvet, embroidered with gold thread; leather",
+ "Dimensions": [
+  "Width of each, 19 ¼ in. (48.9 cm)",
+  "Height of 51.87.1, 19 ¼ in. (48.9 cm)",
+  "Height of 51.87.2, 19 ¾ in. (50.17 cm)"
+ ],
+ "Classification": "Firearms Accessories",
+ "Credit Line": "Gift of George Henry Warren, 1951",
+ "Accession Number": "51.87.1, .2",
+ "What": [
+  "Metal",
+  "Gold",
+  "Needlework",
+  "Arms",
+  "Leather",
+  "Embroidery",
+  "Cases",
+  "Firearms",
+  "Accessories",
+  "Small arms",
+  "Handguns",
+  "Pistols",
+  "Holsters"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40003053,
+ "gallery-id": 375,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/sfrl51.87.1_150418ENL.jpg",
+ "related-artworks": [
+  40003170,
+  40003156,
+  40000574,
+  40005312,
+  40012269
+ ],
+ "Description": "Holsters of this type, each containing a single pistol, were attached at the front of the saddle, one on each side, giving the rider easy access to his weapons. The saddle and shabrack (saddle cloth) were sometimes made as a set with textile matching that of the holsters.",
+ "Provenance": [
+  "Ex. coll.: Elia Volpi",
+  "Theodore Offerman, New York",
+  "George Henry Warren",
+  "New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40003053"
+  }
+ }
+}

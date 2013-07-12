@@ -1,0 +1,46 @@
+{
+ "Object Name": "Bottle",
+ "Date": "first half 18th century",
+ "Geography": "India, Gujarat",
+ "Medium": "Glass, colorless; mold blown; enameled, and gilded",
+ "Dimensions": "H. 5 1/2 in.",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1921",
+ "Accession Number": "21.26.11",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Gilt",
+  "Bottles",
+  "Molds"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Gujarat"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140004605,
+ "gallery-id": 464,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf21-26-11a.jpg",
+ "related-artworks": [
+  140010122,
+  140010168,
+  140004604,
+  140009674,
+  140010368
+ ],
+ "Description": "Gilding and enameling were the most popular form of decorating glass in the eighteenth century, and the most common form was a square-shaped bottle, called a \"case bottle\" because of its similarity to European transport bottles made to fit in wooden cases. In fact, many case bottles were actually made in Europe and later painted in India. They were usually decorated with floral motifs on two sides, and with figural scenes similar in style and subject matter to contemporary paintings on the other two sides.",
+ "Provenance": [
+  "[ Hagop Kevorkian, New York, until 1921",
+  "his sale, Anderson Galleries, New York, January 26–29, 1921, lot 714, to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004605"
+  }
+ }
+}

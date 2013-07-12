@@ -1,0 +1,44 @@
+{
+ "Date": "390–450",
+ "Geography": "Peru",
+ "Culture": "Moche (Loma Negra)",
+ "Medium": "Gold",
+ "Dimensions": "H. 1 5/8 x W. 2 15/16 x D. 3/8 in. (4.1 x 7.5 x 1 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.1233",
+ "Who": "Moche",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Nose ornaments"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50006070,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_206_1233a.jpg",
+ "related-artworks": [
+  50006074,
+  50006073,
+  50006079,
+  50006160,
+  50010480
+ ],
+ "Provenance": [
+  "[Andre Emmerich Gallery, New York, until 1969]",
+  "Nelson A. Rockefeller, New York, 1969, on loan to The  Museum of Primitive Art, New York, 1969–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50006070"
+  }
+ }
+}

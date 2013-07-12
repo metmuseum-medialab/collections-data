@@ -1,0 +1,45 @@
+{
+ "Date": "1849",
+ "Geography": "New England, Bennington, Vermont, United States",
+ "Culture": "American",
+ "Medium": "Mottled brown earthenware",
+ "Dimensions": "8 1/2 x 11 in. (21.6 x 27.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.125.2",
+ "Who": "Lyman, Fenton & Co.",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Figures"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Vermont",
+  "Bennington"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10003437,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP253043.jpg",
+ "related-artworks": [
+  10002639,
+  10004918,
+  10008149,
+  10000357,
+  10000358
+ ],
+ "Provenance": [
+  "Harry Arons Antiques, Bridgeport, Connecticut, until 1938"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003437"
+  }
+ }
+}

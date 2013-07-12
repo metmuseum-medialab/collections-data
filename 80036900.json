@@ -1,0 +1,39 @@
+{
+ "Date": "1700–1941",
+ "Culture": "Spanish",
+ "Medium": "linen, silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Agnes Clarke, 1941",
+ "Accession Number": "C.I.41.124.25",
+ "What": [
+  "Costume",
+  "Silk",
+  "Linen",
+  "Vestments",
+  "Surplices"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1600–1800 A.D.",
+  "Great Britain and Ireland, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80036900,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.41.124.25_F.jpg",
+ "related-artworks": [
+  80036901,
+  80036902,
+  80094932,
+  80094933,
+  80095789
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80036900"
+  }
+ }
+}

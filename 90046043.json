@@ -1,0 +1,44 @@
+{
+ "Date": "1944",
+ "Medium": "Woodcut from plywood",
+ "Dimensions": "Sheet 13 1/4 × 9 in. (33.7 × 22.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Josef Albers Foundation, Inc., 1971",
+ "Accession Number": "1971.636.27",
+ "Who": "Josef Albers",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints",
+  "Plywood"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Geometric Abstraction",
+  "Design, 1925–50",
+  "The Bauhaus, 1919–1933",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90046043,
+ "related-artworks": [
+  90046078,
+  90046044,
+  90046042,
+  90046046,
+  90046045
+ ],
+ "Provenance": [
+  "Donor: Josef & Anni Albers Foundation"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90046043"
+  }
+ }
+}

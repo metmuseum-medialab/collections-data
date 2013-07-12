@@ -1,0 +1,45 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "first half of the 19th century",
+ "Culture": "China",
+ "Medium": "Porcelain with turquoise glaze",
+ "Dimensions": "H. 1 1/2 in. (3.8 cm); W. 4 3/8 in. (11.1 cm); Diam. of cover 2 1/2 in. (6.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.1015a, b",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Glaze",
+  "Boxes",
+  "Turquoise"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "id": 60015742,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/29862.jpg",
+ "related-artworks": [
+  60016193,
+  60016654,
+  60016928,
+  60016929,
+  60015252
+ ],
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60015742"
+  }
+ }
+}

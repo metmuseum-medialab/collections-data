@@ -1,0 +1,49 @@
+{
+ "Publisher": "Common Council, Corporation of the City of New York",
+ "Date": "1865",
+ "Medium": "Color lithograph",
+ "Dimensions": [
+  "Image 3 9/16 × 5 15/16 in. (9 × 15.1 cm)",
+  "Sheet 4 5/16 × 6 9/16 in. (11 × 16.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.500.345",
+ "Who": [
+  "David Thomas Valentine",
+  "Common Council, Corporation of the City of New York",
+  "Valentine's Manual",
+  "Major & Knapp"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90100248,
+ "related-artworks": [
+  90054646,
+  90100249,
+  90100247,
+  90100231,
+  90100318
+ ],
+ "Description": "A view in the northern part of Central Park, New York, with paths, shrubbery and two stone buildings, one a former blacksmith's shop and the other used by George Washington as a headquarters when this area was part of a fort. A view of the far side of the Hudson River in the distance, published in \"Manual of the Corporation of the city of New York\" (known as \"Valentine's Manual\").",
+ "Provenance": [
+  "Donor: Elisha Whittelsey Fund"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90100248"
+  }
+ }
+}

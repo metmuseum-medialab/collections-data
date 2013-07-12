@@ -1,0 +1,53 @@
+{
+ "Artist": "After John Faber, the Younger (British, ca. 1695–1756)",
+ "Publisher": "R. Faulder (London)",
+ "Sitter": "Portrait of Sir George Rooke (British, 1650–1709)",
+ "Date": "November 1, 1794",
+ "Medium": "Stipple engraving, engraving and etching; first state of two",
+ "Dimensions": [
+  "oval image 4 3/8 x 3 1/2 in. (11.1 x 8.9 cm)",
+  "plate 7 3/8 x 5 1/2 in. (18.7 x 14 cm)",
+  "sheet 8 7/8 x 5 13/16 in. (22.5 x 14.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1917",
+ "Accession Number": "17.3.756-1881",
+ "Who": [
+  "Francesco Bartolozzi",
+  "R. Faulder",
+  "John Faber, the Younger",
+  "Sir George Rooke"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving",
+  "Intaglio prints",
+  "Engravings",
+  "Stippling",
+  "Stipple engravings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 90050129,
+ "related-artworks": [
+  90027966,
+  90050075,
+  90050122,
+  90050124,
+  90050126
+ ],
+ "Provenance": [
+  "Donor: Harris Brisbane Dick Fund"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050129"
+  }
+ }
+}

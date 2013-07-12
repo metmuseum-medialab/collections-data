@@ -1,0 +1,62 @@
+{
+ "Publisher": "Pierre Mariette le fils (French, Paris 1634–1716 Paris)",
+ "Date": "published 1667",
+ "Medium": "Etching; first state of two (Préaud)",
+ "Dimensions": [
+  "Sheet 13 3/8 × 9 15/16 in. (34 × 25.3 cm)",
+  "Plate 5 3/16 × 7 1/2 in. (13.2 × 19 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.23",
+ "Who": [
+  "Jean Le Pautre",
+  "Pierre Mariette le fils"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "French Decorative Arts during the Reign of Louis XIV (1654–1715)",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90109485,
+ "Description": "This print is part of a series of twelve plates depicting ornaments for paneling in the Roman style.  The series was published by Jean I Leblond around 1651, by Pierre II Mariette in 1667, and by Jombert in 1751.",
+ "Provenance": [
+  "Princes of Liechtenstein",
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90002908"
+   },
+   {
+    "href": "http://scrapi.org/object/90006707"
+   },
+   {
+    "href": "http://scrapi.org/object/90008864"
+   },
+   {
+    "href": "http://scrapi.org/object/90008866"
+   },
+   {
+    "href": "http://scrapi.org/object/90028045"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90109485"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90109485"
+  }
+ }
+}

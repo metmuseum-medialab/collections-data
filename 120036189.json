@@ -1,0 +1,40 @@
+{
+ "Date": "19th century",
+ "Culture": "Irish",
+ "Medium": "Crochet",
+ "Dimensions": [
+  "L. 7 1/2 x W. 6 1/2 inches",
+  "19.1 x 16.5 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Purchase by subscription, 1909",
+ "Accession Number": "09.68.560",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Crochet"
+ ],
+ "Where": [
+  "Europe",
+  "Republic of Ireland"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036189,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP4347.jpg",
+ "related-artworks": [
+  120030206,
+  120030205,
+  120032440,
+  120032427,
+  120032441
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036189"
+  }
+ }
+}

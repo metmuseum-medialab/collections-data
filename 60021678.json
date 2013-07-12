@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 4th–5th century",
+ "Culture": "Pakistan",
+ "Medium": "Painted terracotta",
+ "Classification": "Ceramics",
+ "Credit Line": "Seymour Fund, 1992",
+ "Accession Number": "1992.271.18",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Terracotta",
+  "Painting"
+ ],
+ "Where": [
+  "Asia",
+  "Pakistan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia North, 500–1000 A.D.",
+  "South Asia, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60021678,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1992_271_18_kb.JPG",
+ "related-artworks": [
+  60007041,
+  60012574,
+  60021500,
+  60021501,
+  60021503
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60021678"
+  }
+ }
+}

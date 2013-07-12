@@ -1,0 +1,43 @@
+{
+ "Date": "1515–30",
+ "Culture": "South Netherlandish",
+ "Medium": "Colorless glass, vitreous paint and silver stain",
+ "Dimensions": "Overall Diam.  8 1/2 in. (21.6 cm)",
+ "Classification": "Glass-Stained",
+ "Credit Line": "The Cloisters Collection, 1932",
+ "Accession Number": "32.24.63",
+ "What": [
+  "Metal",
+  "Glass",
+  "Silver",
+  "Stained glass",
+  "Roundels"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011607,
+ "gallery-id": 10,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi32-24-63.jpg",
+ "related-artworks": [
+  70009840,
+  70011573,
+  70011612,
+  70009838,
+  70009872
+ ],
+ "Provenance": [
+  "[ Roy Grosvenor Thomas London and New York (sold 1932)]",
+  "John D. Rockefeller Jr. , New York (until 1932)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011607"
+  }
+ }
+}

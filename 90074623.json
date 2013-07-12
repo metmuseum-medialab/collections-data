@@ -1,0 +1,48 @@
+{
+ "Artist": "After Giovanni Battista Tiepolo (Italian, Venice 1696–1770 Madrid)",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 6 11/16 x 4 13/16 in. (17 x 12.2 cm)",
+  "sheet 7 7/8 x 6 1/16 in. (20 x 15.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Dr. Ralph Weiler, 1960",
+ "Accession Number": "60.563.1",
+ "Who": [
+  "Giovanni Battista Tiepolo",
+  "Giovanni Domenico Tiepolo"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Venice in the Eighteenth Century",
+  "Commedia dell'arte",
+  "Lovers in Italian Mythological Prints",
+  "Venice's Principal Muslim Trading Partners the Mamluks, the Ottomans, and the Safavids",
+  "The Grand Tour"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90074623,
+ "related-artworks": [
+  90002520,
+  90002519,
+  90020174,
+  90027838,
+  90027987
+ ],
+ "Provenance": [
+  "Donor: Dr. Ralph Weiler"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90074623"
+  }
+ }
+}

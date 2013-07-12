@@ -1,0 +1,43 @@
+{
+ "Date": "15th century",
+ "Culture": "Spanish",
+ "Medium": "Earthenware, tin-glaze (lusterware)",
+ "Dimensions": "Overall 2 3/8 x 18 1/16 in. (6 x 45.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+ "Accession Number": "32.100.387",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Glaze",
+  "Lusterware"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170007427,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf32-100-387s1.jpg",
+ "related-artworks": [
+  170006736,
+  170006734,
+  170006735,
+  170007923,
+  170002929
+ ],
+ "Provenance": [
+  "[ Spanish Art Gallery Ltd., London (sold 1928)]",
+  "Michael Friedsam, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170007427"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Date": "1918–21",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. Robert Galer, 1944",
+ "Accession Number": "C.I.44.68.2",
+ "What": [
+  "Costume",
+  "Hats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80045529,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI44.68.2.jpg",
+ "related-artworks": [
+  80000048,
+  80000049,
+  80000147,
+  80000476,
+  80000478
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80045529"
+  }
+ }
+}

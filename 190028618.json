@@ -1,0 +1,22 @@
+{
+ "Date": "1930",
+ "Classification": "Books",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.152",
+ "Who": "Joseph Conrad",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190028618,
+ "related-artworks": [
+  190028564,
+  190028600,
+  190028763
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028618"
+  }
+ }
+}

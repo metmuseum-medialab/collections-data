@@ -1,0 +1,40 @@
+{
+ "Period": "Imperial",
+ "Date": "1st-3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Bronze",
+ "Dimensions": "H. 3 in. (7.6 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Purchase, 1896",
+ "Accession Number": "96.9.285",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006772,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP20163.jpg",
+ "related-artworks": [
+  130006769,
+  130007173,
+  130007159,
+  130007949,
+  130007950
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006772"
+  }
+ }
+}

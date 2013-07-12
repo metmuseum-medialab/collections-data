@@ -1,0 +1,55 @@
+{
+ "Date": "1946–47",
+ "Culture": "American",
+ "Medium": "straw, rayon",
+ "Dimensions": "Length (circumference) 41 in. (104.1 cm)",
+ "Credit Line": "Gift of Mrs. A. G. Donnelly, 1951",
+ "Accession Number": "C.I.51.2",
+ "Who": "Bergdorf Goodman",
+ "What": [
+  "Costume",
+  "Hats",
+  "Straw",
+  "Rayon"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80049766,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI51.2_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/CI51.2_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI51.2_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/C.I.51.2_label.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80001371"
+   },
+   {
+    "href": "http://scrapi.org/object/80006121"
+   },
+   {
+    "href": "http://scrapi.org/object/80030513"
+   },
+   {
+    "href": "http://scrapi.org/object/80034704"
+   },
+   {
+    "href": "http://scrapi.org/object/80034855"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80049766"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80049766"
+  }
+ }
+}

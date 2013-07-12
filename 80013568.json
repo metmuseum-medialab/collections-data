@@ -1,0 +1,35 @@
+{
+ "Date": "19th century",
+ "Culture": "French (probably)",
+ "Medium": "cotton",
+ "Dimensions": "Length 32 1/2 in. (82.6 cm)",
+ "Credit Line": "Gift of Mrs. Max J. H. Rossbach, 1962",
+ "Accession Number": "C.I.62.19.4",
+ "What": [
+  "Cotton",
+  "Needlework",
+  "Lace"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80013568,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI62.19.4.jpg",
+ "related-artworks": [
+  80064735,
+  80000020,
+  80025453,
+  80028177,
+  80030998
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80013568"
+  }
+ }
+}

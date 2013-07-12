@@ -1,0 +1,45 @@
+{
+ "Printer": "Lemercier (Paris)",
+ "Publisher": "Librairie Nouvelle",
+ "Date": "1852",
+ "Medium": "Lithograph; third state of three (Armelhault & Bocher)",
+ "Dimensions": "Sheet 15 1/16 x 10 7/16 in. (38.2 x 26.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Edwin De Turck Bechtel, 1961",
+ "Accession Number": "61.538.1(2.23)",
+ "Who": [
+  "Paul Gavarni [Chevalier]",
+  "Lemercier",
+  "Librairie Nouvelle"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90086504,
+ "related-artworks": [
+  90018048,
+  90024410,
+  90028473,
+  90032320,
+  90049446
+ ],
+ "Provenance": [
+  "Edwin De Turck Bechtel",
+  "Donor: Louise Seaman Bechtel (American, 1894-1985)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90086504"
+  }
+ }
+}

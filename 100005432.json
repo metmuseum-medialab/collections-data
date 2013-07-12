@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Thutmose III",
+ "Date": "ca. 1479–1425 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Wadi Gabbanat el-Qurud, Tomb of the 3 Foreign Wives of Thutmose III, Wadi D, Tomb 1",
+ "Medium": "Gold",
+ "Credit Line": "Purchase, Frederick P. Huntley Bequest, 1958",
+ "Accession Number": "58.153.8",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Girdles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100005432,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/image-number-only.jpg",
+ "related-artworks": [
+  100000684,
+  100005606,
+  100007347,
+  100002021,
+  100000281
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100005432"
+  }
+ }
+}

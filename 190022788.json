@@ -1,0 +1,35 @@
+{
+ "Date": "1960s",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1964",
+ "Accession Number": "64.680.2",
+ "Who": "Ann Parker",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190022788,
+ "related-artworks": [
+  190022787,
+  190023164,
+  190023165,
+  190023166
+ ],
+ "Provenance": [
+  "Ann Parker"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190022788"
+  }
+ }
+}

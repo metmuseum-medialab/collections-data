@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1875",
+ "Medium": "Albumen silver print",
+ "Dimensions": "27.5 x 21 cm (10 13/16 x 8 1/4 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, The Howard Gilman Foundation Gift, 2005",
+ "Accession Number": "2005.147",
+ "Who": "Gustave Eugène Chauffourier",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190040414,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/ChauffourierTR.504.2004.jpg",
+ "related-artworks": [
+  190061116,
+  190061219,
+  190061221,
+  190061222,
+  190061223
+ ],
+ "Provenance": [
+  "[Philippe Doublet, Paris, France]",
+  "[Robert Hershkowitz, Ltd., Sussex, England]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190040414"
+  }
+ }
+}

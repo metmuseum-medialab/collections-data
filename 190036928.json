@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1868",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "35.9 x 27.2 cm (14 1/8 x 10 11/16 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Howard Stein, 2010",
+ "Accession Number": "2010.513.3",
+ "Who": "Charles Marville",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190036928,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP200362.jpg",
+ "related-artworks": [
+  190016646,
+  190016914,
+  190017717,
+  190035256,
+  190036927
+ ],
+ "Description": "Trained as a painter and an illustrator, Marville began photographing in 1851, and by 1862 he was named \"photographer of the city of Paris,\" photographing Baron Haussmann's vast program of demolition and construction. Although he also photographed the modern city that replaced old Paris, he is best known for his documents of the picturesque and insalubrious districts slated for destruction.This narrow street in the Latin Quarter, less than one hundred feet in length, actually remains much the same as it was when first opened in 1540 and when photographed by Marville in the 1860s, though later construction has constricted the street even further.",
+ "Provenance": [
+  "Alfred Grandidier (naturalist, explorer, president of the Société de géographie) to his grandson Alain-Jean Grandidier, Paris",
+  "Librarie Laurent Coulet, Paris",
+  "Serge Plantureux, Paris",
+  "Howard Stein, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190036928"
+  }
+ }
+}

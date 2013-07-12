@@ -1,0 +1,31 @@
+{
+ "Date": "1946",
+ "Classification": "Prints",
+ "Accession Number": "46.158",
+ "Who": "Sue Fuller",
+ "What": "Prints",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90072034,
+ "related-artworks": [
+  90005871,
+  90010636,
+  90010637,
+  90010638,
+  90010635
+ ],
+ "Provenance": [
+  "Donor: A. Hyatt Mayor (American, 1901–1980)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90072034"
+  }
+ }
+}

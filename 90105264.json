@@ -1,0 +1,59 @@
+{
+ "Artist": "After Charles Ephraim Burchfield (American, 1893–1967)",
+ "Date": "1924–1925",
+ "Medium": "Wood engraving",
+ "Dimensions": [
+  "Image 6 1/16 × 4 5/8 in. (15.4 × 11.7 cm)",
+  "Sheet 10 11/16 × 8 1/2 in. (27.1 × 21.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1925",
+ "Accession Number": "25.72.4",
+ "Who": [
+  "Charles Ephraim Burchfield",
+  "John Julius Lankes"
+ ],
+ "What": [
+  "Prints",
+  "Engraving",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90105264,
+ "Provenance": [
+  "Vendor: Charles Ephraim Burchfield (American, 1893–1967)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90020720"
+   },
+   {
+    "href": "http://scrapi.org/object/90105258"
+   },
+   {
+    "href": "http://scrapi.org/object/90105260"
+   },
+   {
+    "href": "http://scrapi.org/object/90105262"
+   },
+   {
+    "href": "http://scrapi.org/object/90105263"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90105264"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90105264"
+  }
+ }
+}

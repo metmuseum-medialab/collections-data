@@ -1,0 +1,31 @@
+{
+ "Date": "1940",
+ "Medium": "Photomechanical process",
+ "Dimensions": "7 5/8 x 4 1/2 in. (19.4 x 11.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1952",
+ "Accession Number": "52.530.19",
+ "Who": "International Silver Company",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90019788,
+ "related-artworks": [
+  90019793,
+  10023700,
+  90019791,
+  90019792,
+  90019789
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90019788"
+  }
+ }
+}

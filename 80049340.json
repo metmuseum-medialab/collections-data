@@ -1,0 +1,38 @@
+{
+ "Department Store": "Bergdorf Goodman (American, founded 1899)",
+ "Date": "ca. 1950",
+ "Culture": "American",
+ "Medium": "straw, silk",
+ "Dimensions": "Height 2 5/8 in. (6.7 cm)",
+ "Credit Line": "Gift of Shirley S. Katzenbach, 1981",
+ "Accession Number": "1981.42",
+ "Who": "Bergdorf Goodman",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Straw"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80049340,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1981.42.jpg",
+ "related-artworks": [
+  80006121,
+  80030513,
+  80034855,
+  80049717,
+  80049782
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80049340"
+  }
+ }
+}

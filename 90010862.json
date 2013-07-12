@@ -1,0 +1,38 @@
+{
+ "Date": "1589",
+ "Medium": "Engraving; first state of two",
+ "Dimensions": "21 7/8 x 15 7/8 in.  (55.5 x 40.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1946",
+ "Accession Number": "46.140.28",
+ "Who": "Hendrick Goltzius",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Hendrick Goltzius (1558–1617)",
+  "Low Countries, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90010862,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP108227.jpg",
+ "related-artworks": [
+  90001882,
+  90003573,
+  90003654,
+  90005996,
+  90006977
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010862"
+  }
+ }
+}

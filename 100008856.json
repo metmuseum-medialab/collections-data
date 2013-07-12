@@ -1,0 +1,42 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1353 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Malqata, South Village, MMA 1911–1912",
+ "Medium": "Faience",
+ "Dimensions": "H. 1.5 cm (9/16 in)",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.215.194",
+ "What": [
+  "Faience",
+  "Pendants"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008856,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/11.215.194.jpg",
+ "related-artworks": [
+  100006564,
+  100008744,
+  100008834,
+  100008836,
+  100008872
+ ],
+ "Provenance": [
+  "Museum excavations, 1911–12. Acquired by the Museum in the Division of Finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008856"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 11",
+ "Reign": "reign of Mentuhotep II, early",
+ "Date": "ca. 2051–2030 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Tomb of Neferu (TT 319, MMA 31), MMA 1923–1925",
+ "Medium": "Limestone, paint",
+ "Dimensions": "H. 58.5 x W. 89 cm (23 1/16 x 35 1/16 in.)",
+ "Credit Line": "Rogers Fund, 1926; Rogers Fund, 1931; Purchase, Day Gamble Foundation, 1966",
+ "Accession Number": "26.3.353h",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Reliefs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "id": 100010892,
+ "gallery-id": 104,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/26.3.353h_001.jpg",
+ "related-artworks": [
+  100000197,
+  100001870,
+  100009444,
+  100009438,
+  100009440
+ ],
+ "Provenance": [
+  "Museum excavations, 1923-1925. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100010892"
+  }
+ }
+}

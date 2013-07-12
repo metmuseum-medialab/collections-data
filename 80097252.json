@@ -1,0 +1,35 @@
+{
+ "Date": "1954",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 47 in. (119.4 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. John de Menil, 1957",
+ "Accession Number": "2009.300.823",
+ "Who": "Charles James",
+ "What": [
+  "Cotton",
+  "Muslin"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80097252,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/57.151.11b_front_CP3.jpg",
+ "related-artworks": [
+  80093604,
+  80093607,
+  80093608,
+  80093613,
+  80093614
+ ],
+ "Description": "This full-sewn muslin is associated with Charles James' Coty-Award winning coat design. The holdings of the collection include a day (2009.300.3572) and an evening version (2009.300.582).The Charles James holdings include an extraordinary collection of sewn muslins and flat patterns that represent James' design process from original concept to the finished garment.  At his behest, three of his most devoted clients, Millicent Huttleston Rogers, Mrs. John (Dominique) de Menil, and Mrs. William Randolph (Austine) Hearst, Jr., along with several others, donated this supporting material along with the actual garments.  In some cases, the garments are accompanied by materials that represent all of James' design phases-two flat patterns (paper and muslin), and two sewn muslins (half and full).",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80097252"
+  }
+ }
+}

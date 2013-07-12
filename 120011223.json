@@ -1,0 +1,43 @@
+{
+ "Date": "1776",
+ "Culture": "French (Paris)",
+ "Medium": "Marble",
+ "Dimensions": "H. 31-1/2 in. (80.0 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Fletcher Fund, 1928",
+ "Accession Number": "28.193",
+ "Who": "Jean Jacques Caffiéri",
+ "What": [
+  "Sculpture",
+  "Figures",
+  "Marble",
+  "Busts"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011223,
+ "gallery-id": 549,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES4754.jpg",
+ "related-artworks": [
+  10000492,
+  10005302,
+  10005293
+ ],
+ "Provenance": [
+  "Baron von Bourscheidt",
+  "[ French and Co., New York , 1928",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011223"
+  }
+ }
+}

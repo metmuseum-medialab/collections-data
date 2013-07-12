@@ -1,0 +1,47 @@
+{
+ "Date": "1855",
+ "Culture": "British",
+ "Medium": "Bronze, struck",
+ "Dimensions": "Diam. 3 in. (76 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of the Corporation of the City of London, 1908",
+ "Accession Number": "08.53.7",
+ "Who": "Benjamin Wyon",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120005192,
+ "gallery-id": 556,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/3551.jpg",
+ "related-artworks": [
+  120005188,
+  120027077,
+  120027079,
+  120005121,
+  120005120
+ ],
+ "Provenance": [
+  "Corporation of the City of London (until 1908",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120005192"
+  }
+ }
+}

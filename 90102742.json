@@ -1,0 +1,64 @@
+{
+ "Publisher": "Aimé Maeght (French)",
+ "Date": "1958",
+ "Medium": "Ink and graphite",
+ "Dimensions": "Sheet 28 1/16 × 19 11/16 in. (71.3 × 50 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Museum Accession, 1959.",
+ "Accession Number": "Museum Accession 1959",
+ "Who": [
+  "Georges Braque",
+  "Aimé Maeght"
+ ],
+ "What": [
+  "Prints",
+  "Ink",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Pablo Picasso (1881–1973)",
+  "Geometric Abstraction",
+  "Cubism",
+  "Paul Klee (1879–1940)",
+  "School of Paris",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90102742,
+ "related-artworks": [
+  "http://scrapi.org/object/90034096",
+  "http://scrapi.org/object/90049628",
+  "http://scrapi.org/object/90049695",
+  "http://scrapi.org/object/90049716",
+  "http://scrapi.org/object/90049718"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90034096"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90049628"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90049695"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90049716"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90049718"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90102742"
+  }
+ }
+}

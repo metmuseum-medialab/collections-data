@@ -1,0 +1,46 @@
+{
+ "Date": "1883",
+ "Medium": "Etching, roulette, aquatint, drypoint, and sandpaper ground; fourth state of five",
+ "Dimensions": [
+  "Plate 9 13/16 x 13 7/8 in. (25 x 35.2 cm)",
+  "Sheet 13 3/16 x 18 1/8 in. (33.5 x 46 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.88.24",
+ "Who": "Felix-Hilaire Buhot",
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints",
+  "Aquatint",
+  "Etching ground",
+  "Roulettes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90060193,
+ "related-artworks": [
+  90027863,
+  90060243,
+  90060253,
+  90060234,
+  90060144
+ ],
+ "Provenance": [
+  "Vendor: E. Weyhe (New York, NY)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060193"
+  }
+ }
+}

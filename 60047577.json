@@ -1,0 +1,43 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Proof line-block print for fan; ink on paper",
+ "Dimensions": "Image 12 x 9 1/2 in. (30.5 x 24.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of William S. Lieberman, 2005",
+ "Accession Number": "2007.49.287",
+ "Who": "Gountei Sadahide",
+ "What": [
+  "Prints",
+  "Costume",
+  "Ink",
+  "Paper",
+  "Fans"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Japan, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60047577,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP148140.jpg",
+ "related-artworks": [
+  60047573,
+  60047574,
+  60047572,
+  60047576,
+  60047575
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60047577"
+  }
+ }
+}

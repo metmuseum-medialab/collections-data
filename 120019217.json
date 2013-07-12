@@ -1,0 +1,68 @@
+{
+ "Date": "ca. 1720",
+ "Culture": "British, London",
+ "Medium": [
+  "Case walnut veneered on oak, with brass hardware; Dial: gilded and silvered brass;",
+  "Movement brass and steel"
+ ],
+ "Dimensions": "24-1/2 x 16-3/4 x 8-3/4 in.  (62.2 x 42.5 x 22.2 cm)",
+ "Classification": "Horology",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.872",
+ "Who": "George Graham",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Gilt",
+  "Wood",
+  "Iron and iron alloy",
+  "Furniture",
+  "Brass",
+  "Iron alloy",
+  "Steel",
+  "Cases",
+  "Timepieces",
+  "Oak",
+  "Walnut",
+  "Tables",
+  "Clocks",
+  "Dials",
+  "Movements",
+  "Bracket clocks"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120019217,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/194493.jpg",
+ "Provenance": [
+  "Walter Iden",
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120016616"
+   },
+   {
+    "href": "http://scrapi.org/object/120019211"
+   },
+   {
+    "href": "http://scrapi.org/object/120008797"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120019217"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120019217"
+  }
+ }
+}

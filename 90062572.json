@@ -1,0 +1,42 @@
+{
+ "Artist": "After Alexander Jackson Davis (American, New York 1803–1892 West Orange, New Jersey)",
+ "Date": "19th century",
+ "Medium": "Engraving; second state of four",
+ "Dimensions": [
+  "sheet 8 13/16 x 7 1/16 in. (22.4 x 18 cm)",
+  "image 7 3/8 x 6 in. (18.7 x 15.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Charles Allen Munn, 1924",
+ "Accession Number": "24.90.1243",
+ "Who": [
+  "Alexander Jackson Davis",
+  "James Eddy"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90062572,
+ "related-artworks": [
+  90062582,
+  90068820,
+  90069682,
+  90054474
+ ],
+ "Provenance": [
+  "Donor: Charles Allen Munn"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90062572"
+  }
+ }
+}

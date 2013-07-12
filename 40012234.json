@@ -1,0 +1,38 @@
+{
+ "Date": "16th century",
+ "Culture": "German",
+ "Classification": "Firearms",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.1416",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Small arms",
+  "Handguns",
+  "Pistols"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40012234,
+ "related-artworks": [
+  40000155,
+  40000163,
+  40000582,
+  40000585,
+  40000586
+ ],
+ "Provenance": [
+  "Ex coll.:  Count Leopold, Dresden",
+  "Historical Museum, Dresden"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40012234"
+  }
+ }
+}

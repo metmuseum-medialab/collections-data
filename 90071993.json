@@ -1,0 +1,39 @@
+{
+ "Publisher": "Liggett & Myers Tobacco Company (American, North Carolina)",
+ "Date": "1913",
+ "Medium": "Photograph",
+ "Dimensions": "Sheet 2 11/16 x 4 3/4 in. (6.9 x 12.1 cm)",
+ "Classification": "Photographs",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 246, T200.16",
+ "Who": [
+  "Liggett & Myers Tobacco Company",
+  "The Pictorial News Co."
+ ],
+ "What": "Photographs",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90071993,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP817014.jpg",
+ "related-artworks": [
+  90071976,
+  90071981,
+  90071985,
+  90071986,
+  90071984
+ ],
+ "Description": "Trade cards from the \"Baseball Teams\" series (T200), published in a set of 16 cards in 1913 by Liggett & Myers Tobacco Company to promote their Fatima Turkish Blend Cigarettes brand.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90071993"
+  }
+ }
+}

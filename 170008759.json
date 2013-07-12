@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Culture": "Scythian",
+ "Medium": "Gold plate",
+ "Dimensions": "Overall 8 15/16 x 5 13/16 in. (22.7 x 14.7 cm)",
+ "Classification": "Reproductions",
+ "Credit Line": "Purchase, 1885",
+ "Accession Number": "85.12.8",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Metalwork",
+  "Gold",
+  "Bottles",
+  "Plate"
+ ],
+ "Where": [
+  "Asia",
+  "Scythia"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170008759,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/tem85128s1.jpg",
+ "related-artworks": [
+  170008758,
+  170008757,
+  170008754,
+  170008756,
+  170008760
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170008759"
+  }
+ }
+}

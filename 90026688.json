@@ -1,0 +1,75 @@
+{
+ "Date": "ca. 1820",
+ "Medium": "Graphite on paper (watermark J Wh[atman]/Turke[y mill]/1",
+ "Dimensions": "sheet 8 7/8 x 6 3/16 in. (22.5 x 15.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Jill Newhouse and Mrs. Corrine Cuéllar, 2002",
+ "Accession Number": "2002.481",
+ "Who": "Théodore Gericault",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite",
+  "Mills"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Lithography in the Nineteenth Century",
+  "Romanticism",
+  "The Aesthetic of the Sketch in Nineteenth–Century France",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90026688,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP806431.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP806431.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/Gericault.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/270889.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/DT5602.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/2002.481.jpg"
+ ],
+ "Provenance": [
+  "L. J. A. Coutan (French, died 1830)",
+  "Madame L. J. A. Coutan",
+  "Ferdinand Hauguet, to his son",
+  "Maurice-Jacques-Albert Hauguet, to his wife",
+  "Mme M. J. A. Hauguet (née Schubert)(then to her sister)",
+  "Mme Gustave Milliet (French, Paris, 19th century)",
+  "Drouot? (French)), December 16-17, 1889, poss. lots 210-211",
+  "Louis-Antoine Prat (French)purchased 1981",
+  "Christie's, New York, Jan. 30, 1998, lot 197 ($10,925)",
+  "Jill Newhouse Gallery (New York),sale cat. \"European Drawings,\"Autumn 1998, no.3",
+  "Donor: Mrs. Corinne Cuéllar Donor: Jill Newhouse"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90004223"
+   },
+   {
+    "href": "http://scrapi.org/object/90002540"
+   },
+   {
+    "href": "http://scrapi.org/object/90004218"
+   },
+   {
+    "href": "http://scrapi.org/object/90004222"
+   },
+   {
+    "href": "http://scrapi.org/object/90005994"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90026688"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90026688"
+  }
+ }
+}

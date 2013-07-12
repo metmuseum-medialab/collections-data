@@ -1,0 +1,38 @@
+{
+ "Date": "late 18th century",
+ "Culture": "French",
+ "Medium": "silver",
+ "Dimensions": "Length 3 1/2 in. (8.9 cm)",
+ "Credit Line": "Gift of Nancy A. Dyer, 1965",
+ "Accession Number": "C.I.65.52.11a, b",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80058953,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI65.52.11ab.jpg",
+ "related-artworks": [
+  80028550,
+  80028549,
+  80025444,
+  80025482,
+  80058927
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80058953"
+  }
+ }
+}

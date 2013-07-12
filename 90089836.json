@@ -1,0 +1,40 @@
+{
+ "Date": "1612",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "Sheet 3 7/16 x 5 5/16 in. (8.7 x 13.5 cm)",
+  "Plate 3 1/4 x 5 in. (8.2 x 12.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.714.8",
+ "Who": "Crispijn de Passe, I",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 90089836,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP828362.jpg",
+ "related-artworks": [
+  90089834,
+  90089835,
+  90089837,
+  90089844,
+  90089842
+ ],
+ "Provenance": [
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90089836"
+  }
+ }
+}

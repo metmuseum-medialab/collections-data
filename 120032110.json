@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Culture": "British",
+ "Medium": "Machine net",
+ "Dimensions": [
+  "L. 10 x W. 3 3/4 inches",
+  "25.4 x 9.5 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.90",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Net",
+  "Machine lace"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120032110,
+ "related-artworks": [
+  120037117,
+  120032111,
+  120032128,
+  120036246,
+  120034900
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032110"
+  }
+ }
+}

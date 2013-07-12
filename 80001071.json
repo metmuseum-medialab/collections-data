@@ -1,0 +1,37 @@
+{
+ "Date": "spring/summer 1995",
+ "Culture": "Italian",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length at CB (a) 35 3/4 in. (90.8 cm)",
+  "Length at CB (b) 23 3/4 in. (60.3 cm)",
+  "Length at Side Seam (c) 38 1/2 in. (97.8 cm)"
+ ],
+ "Credit Line": "Gift of Krizia, 1995",
+ "Accession Number": "1995.344a–c",
+ "Who": "Krizia",
+ "What": [
+  "Silk",
+  "Ensembles"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80001071,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1995.344a–c_F.jpg",
+ "related-artworks": [
+  80000200,
+  80063171,
+  80000400
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001071"
+  }
+ }
+}

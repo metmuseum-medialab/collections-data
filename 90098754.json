@@ -1,0 +1,33 @@
+{
+ "Date": "1749",
+ "Medium": "Engraving",
+ "Dimensions": "Sheet 2 15/16 × 2 3/8 in. (7.4 × 6.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of William E. Baillie, 1920",
+ "Accession Number": "20.90.11",
+ "Who": "Nathaniel Hurd",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90098754,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP280213.jpg",
+ "related-artworks": [
+  90079406,
+  10023998,
+  90012222
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90098754"
+  }
+ }
+}

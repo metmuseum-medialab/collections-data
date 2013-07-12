@@ -1,0 +1,38 @@
+{
+ "Date": "mid 20th century",
+ "Medium": "Lithograph",
+ "Dimensions": "Sheet 11 15/16 × 16 in. (30.4 × 40.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Vera Andrus, 1954",
+ "Accession Number": "54.585.1",
+ "Who": "Vera Andrus",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90103526,
+ "related-artworks": [
+  90103515,
+  90103517,
+  90103518,
+  90103521,
+  90103525
+ ],
+ "Provenance": [
+  "Donor: Vera Andrus (American, 1895–1979)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90103526"
+  }
+ }
+}

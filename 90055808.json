@@ -1,0 +1,40 @@
+{
+ "Publisher": "Published by Pierre Mariette (French, 1596–1657)",
+ "Date": "before 1647",
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1923",
+ "Accession Number": "23.22.1",
+ "Who": [
+  "Stefano della Bella",
+  "Pierre Mariette"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Printed Image in the West History and Techniques",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90055808,
+ "related-artworks": [
+  90009182,
+  90039895,
+  90047320,
+  90047318,
+  90047322
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90055808"
+  }
+ }
+}

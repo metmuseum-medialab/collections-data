@@ -1,0 +1,41 @@
+{
+ "Period": "Predynastic, Naqada II",
+ "Date": "ca. 3500–3300 B.C.",
+ "Geography": "Country of Origin Egypt, Southern Upper Egypt, Hierakonpolis (el-Kom el-Ahmar), Fort Cemetery (Hk 27), Tomb 16, MMA 1934–1935",
+ "Medium": "Shell (freshwater)",
+ "Credit Line": "Rogers Fund, 1935",
+ "Accession Number": "35.7.28",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Shell",
+  "Bracelets",
+  "Bangles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Aswan",
+  "Kom al Ahmar"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100003987,
+ "gallery-id": 101,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs08.202.32.jpg",
+ "related-artworks": [
+  100003984,
+  100003985,
+  100003986,
+  100003988,
+  100003989
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003987"
+  }
+ }
+}

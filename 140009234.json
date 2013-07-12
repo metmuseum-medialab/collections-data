@@ -1,0 +1,38 @@
+{
+ "Object Name": "Star-shaped tile fragment",
+ "Date": "13th century",
+ "Geography": "Iran, Kashan",
+ "Medium": "Stonepaste; luster-painted",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1966",
+ "Accession Number": "66.95.10",
+ "What": [
+  "Ceramics",
+  "Fragments",
+  "Painting",
+  "Tile"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Kashan"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140009234,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf66-95-10.jpg",
+ "related-artworks": [
+  140009229,
+  140000018,
+  140000017,
+  140001631,
+  140001630
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009234"
+  }
+ }
+}

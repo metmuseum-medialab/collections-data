@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1740",
+ "Culture": "British",
+ "Medium": "Mahogany, parcel gilt, marble",
+ "Dimensions": "33 x 42 x 23-1/2 in.  (83.8 x 106.7 x 59.7 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.1094",
+ "What": [
+  "Gilt",
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Marble",
+  "Mahogany",
+  "Tables",
+  "Console tables"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 120019423,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/194693.jpg",
+ "related-artworks": [
+  120006667,
+  120019421,
+  120019422,
+  120003945,
+  120003588
+ ],
+ "Provenance": [
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019423"
+  }
+ }
+}

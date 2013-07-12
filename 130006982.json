@@ -1,0 +1,27 @@
+{
+ "Medium": "Amber",
+ "Dimensions": "Diameter 7/8 x 7/16 in. (2.2 x 1 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Purchase, 1896",
+ "Accession Number": "96.9.515",
+ "What": [
+  "Resin",
+  "Amber"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006982,
+ "related-artworks": [
+  130006963,
+  130006950,
+  130006965,
+  130006946,
+  130006984
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006982"
+  }
+ }
+}

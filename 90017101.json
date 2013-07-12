@@ -1,0 +1,26 @@
+{
+ "Date": "1893",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1963",
+ "Accession Number": "63.698.30",
+ "What": "Books",
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017101,
+ "related-artworks": [
+  90019077,
+  90000024,
+  90000031,
+  90000033,
+  90000066
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017101"
+  }
+ }
+}

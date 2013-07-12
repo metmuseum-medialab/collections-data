@@ -1,0 +1,39 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Lacquer, dark green, mottled ground, red, grey, gold and black hiramakie; Interior roiro and fundame",
+ "Dimensions": "2 5/8 x 2 1/2 x 1 in. (6.6 x 6.4 x 2.6 cm)",
+ "Classification": "Inrō",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.898",
+ "What": [
+  "Metal",
+  "Gold",
+  "Lacquer",
+  "Inro",
+  "Sagemono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60030075,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/29_100_898_O3.JPG",
+ "related-artworks": [
+  60012571,
+  60029684,
+  60029915,
+  60030199,
+  60030255
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030075"
+  }
+ }
+}

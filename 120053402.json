@@ -1,0 +1,49 @@
+{
+ "Date": "ca. 1750",
+ "Culture": "German, Meissen with French mounts",
+ "Medium": "Gilt bronze and porcelain",
+ "Dimensions": [
+  "Height (overall) 9 1/2 in. (24.1 cm)",
+  "Height (bird) 6 in. (15.2 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Mrs. Robert Lehman, 2006",
+ "Accession Number": "2007.90.6",
+ "Who": "Meissen Manufactory",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Copper alloy",
+  "Bronze",
+  "Porcelain",
+  "Gilt",
+  "Plate",
+  "Lighting devices",
+  "Ormolu",
+  "Candleholders",
+  "Candelabras"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120053402,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF2007_90_6.jpg",
+ "related-artworks": [
+  120053399,
+  120056987,
+  120018548,
+  120053401,
+  120053400
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120053402"
+  }
+ }
+}

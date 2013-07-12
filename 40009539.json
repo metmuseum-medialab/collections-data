@@ -1,0 +1,34 @@
+{
+ "Date": "19th century",
+ "Culture": "Indian or Bhutanese",
+ "Classification": "Swords",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.1459a, b",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Cases",
+  "Sheaths",
+  "Scabbards"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1800–1900 A.D.",
+ "id": 40009539,
+ "related-artworks": [
+  40009387,
+  40009401,
+  40009506,
+  40009534,
+  40009577
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40009539"
+  }
+ }
+}

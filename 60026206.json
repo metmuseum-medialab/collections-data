@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1840",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "H. 9 15/16 in. (25.2 cm); W. 14 7/16 in. (36.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "JP1176",
+ "Who": "Utagawa Hiroshige",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60026206,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP123304.jpg",
+ "related-artworks": [
+  60000671,
+  60000683,
+  60000813,
+  60000820,
+  60000846
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026206"
+  }
+ }
+}

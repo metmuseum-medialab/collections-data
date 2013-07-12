@@ -1,0 +1,40 @@
+{
+ "Date": "6th–5th century B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Bronze",
+ "Dimensions": "length     7.90 cm.",
+ "Classification": "Bronzes",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.5457",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Copper alloy",
+  "Bronze",
+  "Jugs"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "id": 130004807,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP2295.jpg",
+ "related-artworks": [
+  130004812,
+  130004814,
+  130004808,
+  130005046,
+  130005047
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130004807"
+  }
+ }
+}

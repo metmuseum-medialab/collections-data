@@ -1,0 +1,40 @@
+{
+ "Period": "Late Bronze Age",
+ "Date": "ca. 1600–1050 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Gold",
+ "Dimensions": "Diam. 1 1/2 in. (3.8 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.3037",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Roundels"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 2000–1000 B.C.",
+ "id": 130002936,
+ "gallery-id": 173,
+ "related-artworks": [
+  130002916,
+  130002905,
+  130002906,
+  130002907,
+  130002909
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002936"
+  }
+ }
+}

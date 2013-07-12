@@ -1,0 +1,49 @@
+{
+ "Designer": "Christian Dior (French, Granville 1905–1957 Montecatini)",
+ "Date": "fall/winter 1949–50",
+ "Culture": "French",
+ "Medium": "wool, silk",
+ "Dimensions": [
+  "Length at CB (a) 51 3/8 in. (130.5 cm)",
+  "Waist 22 in. (55.9 cm)",
+  "Width (bust) 33 in. (83.8 cm)"
+ ],
+ "Credit Line": "Gift of Rosamond Bernier, 1989",
+ "Accession Number": "1989.130.1a, b",
+ "Who": [
+  "House of Dior",
+  "Christian Dior"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Wool",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Christian Dior (1905–1957)",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80004478,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DT6099.jpg",
+ "related-artworks": [
+  80062835,
+  80000733,
+  80001419,
+  80001646,
+  80002634
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80004478"
+  }
+ }
+}

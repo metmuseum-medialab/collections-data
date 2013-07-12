@@ -1,0 +1,43 @@
+{
+ "Date": "10th century",
+ "Geography": "Iran, Khurasan",
+ "Medium": "Earthenware; white slip with \"yellow-staining black\" decoration.",
+ "Dimensions": [
+  "H. 3 11/16 in. (9.4 cm)",
+  "Diam. 9 1/4 in. (23.5 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1957",
+ "Accession Number": "57.91",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Pottery",
+  "Earthenware",
+  "Bowls",
+  "Slip"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140008764,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf57-91a.jpg",
+ "related-artworks": [
+  140006641,
+  140006672,
+  140006707,
+  140006708,
+  140006882
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008764"
+  }
+ }
+}

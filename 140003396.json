@@ -1,0 +1,43 @@
+{
+ "Date": "12th–13th century",
+ "Geography": "Central Asia or Iran",
+ "Medium": "Bronze",
+ "Dimensions": [
+  "H. 6 1/2 in. (16.51 cm)",
+  "Diam. 8 3/4 in. (22.2 cm)"
+ ],
+ "Classification": "Metal",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.33.4",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140003396,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf12-33-4d.jpg",
+ "related-artworks": [
+  140001728,
+  140001715,
+  140002185,
+  140002546,
+  140003345
+ ],
+ "Provenance": [
+  "[ Hagop Kevorkian, New York, until 1912",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003396"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Period": "New Kingdom, Amarna Period",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Akhenaten to Haremhab",
+ "Date": "ca. 1353–1336 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes",
+ "Medium": "Faience, brown and white inlay",
+ "Dimensions": "h. 3.2 cm (1 1/4 in); w. 2.7 cm (1 1/16 in)",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.2037",
+ "What": [
+  "Faience",
+  "Finials",
+  "Cartouches",
+  "Staffs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008129,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs17.190.2037yy.jpg",
+ "related-artworks": [
+  100002147,
+  100006303,
+  100006304,
+  100006532,
+  100006539
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008129"
+  }
+ }
+}

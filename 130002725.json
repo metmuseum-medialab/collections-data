@@ -1,0 +1,42 @@
+{
+ "Period": "Hellenistic",
+ "Date": "3rd century B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Limestone",
+ "Dimensions": "Overall 15 1/8 x 7 3/4 x 4 3/4 in. (38.4 x 19.7 x 12.1 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.2708",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Limestone",
+  "Statues"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130002725,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP269831.jpg",
+ "related-artworks": [
+  130002484,
+  130002488,
+  130002477,
+  130002479,
+  130002500
+ ],
+ "Description": "This seated figure holding a roll of manuscript across his knees and a stylus in his right hand could represent a priest of high rank who transcribed oracles or other declarations of the god he served. The remains of a bird perched on his left hand and the elaborate throne with animals at the side suggest, however, that this statuette represents a deity—probably Apollo, the god of poetry and art, famous for his oracles. The bird may well have been a raven, the bird that often accompanies Apollo.",
+ "Provenance": [
+  "“From the ruins of the city of Golgoi”"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130002725"
+  }
+ }
+}

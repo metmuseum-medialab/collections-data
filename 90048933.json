@@ -1,0 +1,49 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1936",
+ "Medium": "Lithograph",
+ "Dimensions": "image 13 x 10 1/4 in. (33 x 26 cm) sheet: 16 x 11 1/2 in.(40.6 x 29.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, New York, 1943",
+ "Accession Number": "43.33.525",
+ "Who": [
+  "WPA",
+  "Kyra Markham"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90048933,
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90048930"
+   },
+   {
+    "href": "http://scrapi.org/object/90048931"
+   },
+   {
+    "href": "http://scrapi.org/object/90048932"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90048933"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90048933"
+  }
+ }
+}

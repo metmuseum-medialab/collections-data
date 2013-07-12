@@ -1,0 +1,64 @@
+{
+ "Manufacturer": "Manufacturer Näfveqvarns Bruks Aktiebolag",
+ "Date": "20th century",
+ "Culture": "Swedish",
+ "Medium": "Cast iron",
+ "Dimensions": "H. 19 1/4 in.  (48.9 cm); Diam. 23 in. (58.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, Edward C. Moore Jr. Gift, 1927",
+ "Accession Number": "27.96.17",
+ "Who": [
+  "Ivar Johnsson",
+  "Näfveqvarns Bruks Aktiebolag"
+ ],
+ "What": [
+  "Metal",
+  "Vessels",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Iron alloy",
+  "Urns",
+  "Cast iron"
+ ],
+ "Where": [
+  "Europe",
+  "Sweden"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010557,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/67540.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120023926",
+  "http://scrapi.org/object/120058904",
+  "http://scrapi.org/object/120005924",
+  "http://scrapi.org/object/120011760",
+  "http://scrapi.org/object/120017208"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120023926"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120058904"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120005924"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120011760"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120017208"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120010557"
+  }
+ }
+}

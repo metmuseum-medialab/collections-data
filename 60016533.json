@@ -1,0 +1,40 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1820",
+ "Culture": "Japan",
+ "Medium": "White porcelain decorated with blue under the glaze (Kyoto ware)",
+ "Dimensions": "Diam. 8 in. (20.3 cm); D. 1 1/8 in. (2.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Charles Stewart Smith, 1893",
+ "Accession Number": "93.3.416",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Glaze",
+  "Kyoto"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60016533,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/30198.jpg",
+ "related-artworks": [
+  60016959,
+  60015291,
+  60015810,
+  60016696,
+  60016748
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60016533"
+  }
+ }
+}

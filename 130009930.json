@@ -1,0 +1,37 @@
+{
+ "Period": "Late Imperial",
+ "Date": "2nd half of the 4th century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown and tooled",
+ "Dimensions": [
+  "H. 1 7/8 in. (4.8 cm)",
+  "Diam. 5 in. (12.7 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.206",
+ "What": [
+  "Glass",
+  "Bowls"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009930,
+ "related-artworks": [
+  130000311,
+  130000318,
+  130000342,
+  130005667,
+  130005704
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009930"
+  }
+ }
+}

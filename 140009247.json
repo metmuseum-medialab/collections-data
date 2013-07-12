@@ -1,0 +1,41 @@
+{
+ "Date": "9th century",
+ "Geography": "Egypt",
+ "Medium": "Wool and undyed linen",
+ "Dimensions": [
+  "H. 8 1/4 in. (21 cm)",
+  "W. 9 1/4 in. (23.5 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1966",
+ "Accession Number": "66.132.2",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Woven",
+  "Wool",
+  "Linen"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140009247,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf66-132-2.jpg",
+ "related-artworks": [
+  140005386,
+  140005382,
+  140005834,
+  140006178,
+  140009930
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009247"
+  }
+ }
+}

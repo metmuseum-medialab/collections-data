@@ -1,0 +1,33 @@
+{
+ "Date": "ca. 1945",
+ "Culture": "American",
+ "Medium": "Cotton",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the estate of Valerie Dreyfus, 1957",
+ "Accession Number": "2009.300.4953",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Dickeys"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80107391,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/57.55.66_CP1.jpg",
+ "related-artworks": [
+  80108768,
+  80052074,
+  80052071,
+  80107017,
+  80014239
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107391"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Artist": "Designed by Johann Matthias Kager (German, Munich 1575–1634 Augsburg)",
+ "Publisher": "Published by Joachim von Sandrart (German, Frankfurt 1606–1688 Nuremburg)",
+ "Date": "1623",
+ "Medium": "Engraving; second state",
+ "Dimensions": [
+  "sheet 12 5/16 x 7 3/8 in. (31.2 x 18.7 cm)",
+  "image 11 5/16 x 5 15/16 in. (28.7 x 15.1 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, the Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.611.82",
+ "Who": [
+  "Joachim von Sandrart",
+  "Lucas Kilian",
+  "Johann Matthias Kager"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90055108,
+ "related-artworks": [
+  90006051,
+  90010959,
+  90011277,
+  90023792,
+  90020257
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90055108"
+  }
+ }
+}

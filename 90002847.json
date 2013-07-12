@@ -1,0 +1,34 @@
+{
+ "Date": "16th century",
+ "Medium": "Pen and brown ink, brush and brown wash over black chalk.  Mounted on board with brown and gold framing lines",
+ "Dimensions": [
+  "Image 8 1/2 x 13 7/16 in.  (21.6 x 34.2 cm)",
+  "Sheet 11 5/16 x 16 1/4 in.  (28.7 x 41.2 cm)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.597.4",
+ "Who": "Anonymous, Netherlandish, 16th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002847,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP801716.jpg",
+ "related-artworks": [
+  90002467,
+  90002471,
+  90002841,
+  90002851,
+  90002845
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002847"
+  }
+ }
+}

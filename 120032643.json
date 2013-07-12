@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Culture": "Italian (Cantù)",
+ "Medium": "Bobbin lace",
+ "Dimensions": [
+  "L. 10 x W. 4 inches",
+  "25.4 x 10.2 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.628",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Lombardy",
+  "Cantù",
+  "Como"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120032643,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP3726.jpg",
+ "related-artworks": [
+  120032646,
+  120032649,
+  120032642,
+  120032647,
+  120032650
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032643"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Date": "1948",
+ "Medium": "Aquatint on paper, edition 22/25",
+ "Dimensions": [
+  "sheet 26 x 19 3/4 in. (66 x 50.2 cm)",
+  "plate 17 x 13 5/8 in. (43.2 x 34.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Pierre and Maria-Gaetana Matisse Collection, 2002",
+ "Accession Number": "2002.456.74",
+ "Rights and Reproduction": "© 2011 Succession H. Matisse / Artists Rights Society (ARS), New York",
+ "Who": "Henri Matisse",
+ "What": [
+  "Prints",
+  "Etching",
+  "Paper",
+  "Aquatint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Georges Seurat (1859–1891) and Neo–Impressionism",
+  "School of Paris",
+  "The Salon and The Royal Academy",
+  "Henri Matisse (1869–1954)",
+  "African Influences in Modern Art",
+  "Fauvism",
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210014596,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP159216.jpg",
+ "related-artworks": [
+  210014600,
+  210014601,
+  210014598,
+  210014594,
+  210014608
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210014596"
+  }
+ }
+}

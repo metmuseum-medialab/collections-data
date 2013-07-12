@@ -1,0 +1,44 @@
+{
+ "Designer": "Calvin Klein (American, born 1942)",
+ "Date": "fall/winter 1984–85",
+ "Culture": "American",
+ "Medium": "(a–c) wool; (d) silk",
+ "Dimensions": [
+  "Length at CB (a) 30 in. (76.2 cm)",
+  "Length (b) 48 in. (121.9 cm)",
+  "Length at CB (c) 39 in. (99.1 cm)",
+  "Length at CB (d) 23 in. (58.4 cm)"
+ ],
+ "Credit Line": "Gift of Calvin Klein, Inc., 1998",
+ "Accession Number": "1998.508.33a–d",
+ "Who": [
+  "Calvin Klein, Inc.",
+  "Calvin Klein"
+ ],
+ "What": [
+  "Silk",
+  "Wool",
+  "Ensembles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80002581,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1998.508.33a–d_F.jpg",
+ "related-artworks": [
+  80002561,
+  80002570,
+  80002556,
+  80002563,
+  80002559
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002581"
+  }
+ }
+}

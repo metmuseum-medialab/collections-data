@@ -1,0 +1,41 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1935–43",
+ "Medium": "Lithograph",
+ "Dimensions": "image 16 3/4 x 13 1/4 in. (42.6 x 33.7 cm) sheet: 22 x 16 in. (55.9 x 40.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, New York, 1943",
+ "Accession Number": "43.33.1131",
+ "Who": [
+  "WPA",
+  "Nan Lurie"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90048015,
+ "related-artworks": [
+  90048014,
+  90048863,
+  90048864,
+  90048865,
+  90048869
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90048015"
+  }
+ }
+}

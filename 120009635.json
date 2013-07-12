@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1815–21",
+ "Culture": "French (Paris)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 1 1/4 in. (3.2 cm.); Diam. 6 1/2 in. (16.5 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Joint Bequest of Harriet K. and Grace Wilkes, 1922",
+ "Accession Number": "22.45.15",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Hard paste porcelain",
+  "Saucers"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009635,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/49972.jpg",
+ "related-artworks": [
+  120014104,
+  120023936,
+  120003011,
+  120003013,
+  120003100
+ ],
+ "Provenance": [
+  "Harriet K. Wilkes",
+  "and Grace Wilkes (until 1922",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009635"
+  }
+ }
+}

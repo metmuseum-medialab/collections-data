@@ -1,0 +1,39 @@
+{
+ "Date": "1800–1830",
+ "Geography": "Germany; United States",
+ "Culture": "American or German",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 2 1/2 in. (6.4 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of William H. Huntington, 1883",
+ "Accession Number": "83.2.379",
+ "Who": "Johann Christian Reich",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Medals"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005248,
+ "related-artworks": [
+  10005250,
+  10005251,
+  120005089,
+  120003663,
+  120005055
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005248"
+  }
+ }
+}

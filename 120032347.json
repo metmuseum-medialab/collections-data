@@ -1,0 +1,39 @@
+{
+ "Date": "18th century",
+ "Culture": "German (Nuremberg)",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 9 x W. 3 inches (22.9 x 7.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.329",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Nuremberg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120032347,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP8290.jpg",
+ "related-artworks": [
+  120032345,
+  120032346,
+  120032348,
+  120046786,
+  120001375
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032347"
+  }
+ }
+}

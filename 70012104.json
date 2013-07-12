@@ -1,0 +1,52 @@
+{
+ "Date": "13th century",
+ "Geography": "Made in Sicily, Italy",
+ "Culture": "Italian",
+ "Medium": "Ivory with copper alloy mounts, polychromy",
+ "Dimensions": "Overall (with mounts) 5 5/16 x 4 5/8 x 5 1/16 in. (13.5 x 11.7 x 12.9 cm)",
+ "Classification": "Ivories",
+ "Credit Line": "The Cloisters Collection, 1955",
+ "Accession Number": "55.29.2",
+ "What": [
+  "Metal",
+  "Bone",
+  "Copper",
+  "Ivory",
+  "Boxes",
+  "Polychromy"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Sicily"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70012104,
+ "gallery-id": 457,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/sf55-29-2s1.jpg",
+ "related-artworks": [
+  70006030,
+  70012533,
+  70009704,
+  70012403,
+  70012537
+ ],
+ "Description": "Hunting scenes decorate a number of surviving cylindrical boxes made in Sicily. This box, depicting a falcon hunt, shows richly attired men on horseback. The sport was favored by Holy Roman emperor Frederick II Hohenstaufen (r. 1215–50), who wrote a definitive guide on the care and use of falcons in the hunt.",
+ "Provenance": [
+  "Museo Guidi da Faenza , Rome (sold 1902)",
+  "[ Giorgio Sangiorgi , Rome]",
+  "Octave Homberg 1844-1907 , Paris",
+  "[ Demotte Inc. , New York (by at least 1930)]",
+  "Robert Woods Bliss , Dumbarton Oaks, Va.",
+  "[ Joseph Brummer , Paris and New York (sold 1949)]",
+  "Theodor Fischer , Lucerne (sold 1955)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70012104"
+  }
+ }
+}

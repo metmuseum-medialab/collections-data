@@ -1,0 +1,35 @@
+{
+ "Date": "probably spring 1994",
+ "Culture": "French",
+ "Medium": "synthetics",
+ "Dimensions": [
+  "(a) L. at center back  32 in. (81 .3 cm)",
+  "(b) L. at center back  46 in. (117 cm)"
+ ],
+ "Credit Line": "Gift of Claudia Payne, 1996",
+ "Accession Number": "1996.482.6a, b",
+ "Who": "Jean Paul Gaultier",
+ "What": "Ensembles",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80000403,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1996.482.6a.jpg",
+ "related-artworks": [
+  80000056,
+  80000055,
+  80000255,
+  80001170,
+  80001169
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80000403"
+  }
+ }
+}

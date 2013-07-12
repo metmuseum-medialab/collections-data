@@ -1,0 +1,43 @@
+{
+ "Date": "390–450",
+ "Geography": "Peru",
+ "Culture": "Moche (Loma Negra)",
+ "Medium": "Gilded copper",
+ "Dimensions": "Length 2-11/16 in. (6.8 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Gift of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1981",
+ "Accession Number": "1981.459.19",
+ "Who": "Moche",
+ "What": [
+  "Metal",
+  "Gilt",
+  "Copper"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50007146,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1981.459.19_a.jpg",
+ "related-artworks": [
+  50006100,
+  50006141,
+  50007004,
+  50007130,
+  50007141
+ ],
+ "Provenance": [
+  "Juan Luis Pereira, until 1969",
+  "Arnold I. Goldberg, New York, from 1969",
+  "Jane Costello Goldberg, New York, until 1981"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50007146"
+  }
+ }
+}

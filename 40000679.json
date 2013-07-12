@@ -1,0 +1,39 @@
+{
+ "Date": "18th century",
+ "Culture": "Japanese",
+ "Medium": "Boiled leather",
+ "Dimensions": [
+  "H 11 1/4 in.  ( 28.58 cm)",
+  "W 7 1/2 in. ( 19.05 cm)",
+  "H. 11-1/4\"; W. 7-1/2\""
+ ],
+ "Classification": "Equestrian Equipment",
+ "Credit Line": "Gift of Bashford Dean, 1914",
+ "Accession Number": "14.100.69",
+ "What": [
+  "Leather",
+  "Horse armor",
+  "Shaffrons"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40000679,
+ "related-artworks": [
+  40000218,
+  40000219,
+  40000678,
+  40000238,
+  40000644
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000679"
+  }
+ }
+}

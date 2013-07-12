@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Culture": "Japanese",
+ "Medium": "Brass and gold",
+ "Dimensions": "3-13/16 x 9/16 in.",
+ "Classification": "Sword Furniture",
+ "Credit Line": "Gift of Herman A. E. and Paul C. Jaehne, 1943",
+ "Accession Number": "43.120.194",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Gold",
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Brass"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40003505,
+ "related-artworks": [
+  40004292,
+  40004503,
+  40004506,
+  40004531,
+  40004574
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40003505"
+  }
+ }
+}

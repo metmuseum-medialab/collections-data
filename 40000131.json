@@ -1,0 +1,52 @@
+{
+ "Date": "ca. 1585",
+ "Culture": "Italian, Milan",
+ "Medium": "Steel, gold, silver, leather",
+ "Classification": "Armor Parts",
+ "Credit Line": "Rogers Fund, 1904",
+ "Accession Number": "04.3.34–.35",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Gold",
+  "Iron and iron alloy",
+  "Leather",
+  "Iron alloy",
+  "Steel",
+  "Armor",
+  "Gloves",
+  "Gauntlets"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Lombardy",
+  "Milan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Venice and Northern Italy, 1400–1600 A.D.",
+  "Venice and Northern Italy, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40000131,
+ "gallery-id": 374,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/DP273715.jpg",
+ "related-artworks": [
+  40004877,
+  40000945,
+  40001059,
+  40001470,
+  40001478
+ ],
+ "Description": "These small gauntlets belong to an armor for foot-tournament made for the seven-year-old heir to the Spanish throne, the future Philip III (1578–1621, ruled from 1598). The decoration is typically Milanese, with bands of chiseled and gold-damascened trophy and grotesque ornament outlined with silver dots. A figure of Mars, god of war, is seen at the top of each cuff.",
+ "Provenance": [
+  "Maurice de Talleyrand-Périgord, Duc de Dino, Paris"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000131"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1987",
+ "Culture": "American or European",
+ "Medium": "metal, silk, cotton",
+ "Dimensions": "Length 27 in. (68.6 cm)",
+ "Credit Line": "Gift of Thomas L. Kempner, 2006",
+ "Accession Number": "2006.420.182",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Jewelry",
+  "Necklaces"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80069097,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/TR.171.1734.2006.jpg",
+ "related-artworks": [
+  80065678,
+  80059027,
+  80079384,
+  80032703,
+  80058424
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80069097"
+  }
+ }
+}

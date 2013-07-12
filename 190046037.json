@@ -1,0 +1,39 @@
+{
+ "Date": "1960s",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "Image 35.6 x 27.9 cm (14 x 11 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Gary Davis, 2009",
+ "Accession Number": "2009.483.30",
+ "Rights and Reproduction": "© Howard Greenberg Gallery",
+ "Who": "Leon Levinstein",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 190046037,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP224881.jpg",
+ "related-artworks": [
+  190016783,
+  190016856,
+  190016883,
+  190017508,
+  190017514
+ ],
+ "Provenance": [
+  "[Howard Greenberg Gallery, New York]",
+  "Gary Davis, Connecticut"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190046037"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Porcelain painted in overglaze famille rose enamels",
+ "Dimensions": "Diam. 5 1/4 in. (13.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.541",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Painting",
+  "Plates",
+  "Enamels",
+  "Saucers",
+  "Overglazing",
+  "Famille"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60020551,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/28318.jpg",
+ "related-artworks": [
+  60016251,
+  60015729,
+  60015774,
+  60015795,
+  60018276
+ ],
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60020551"
+  }
+ }
+}

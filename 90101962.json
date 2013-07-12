@@ -1,0 +1,52 @@
+{
+ "Artist": "After Jean-Jacques-François Le Barbier (French, Rouen 1738–1826 Paris)",
+ "Author": "Ovid (Roman, Sulmo 43 B.C.–A.D. 17 Tomis, Moesia)",
+ "Translator": "G. T. Villenave",
+ "Printer": "Pierre Didot l'ainé (French, 1761–1853)",
+ "Publisher": "Ch. Guestard (French)",
+ "Date": "1807",
+ "Medium": "Etching and engraving",
+ "Dimensions": "Sheet 11 3/4 × 8 11/16 in. (29.8 × 22 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1945",
+ "Accession Number": "45.8.3",
+ "Who": [
+  "Ovid",
+  "Pierre Didot l'ainé",
+  "Ch. Guestard",
+  "F. Gay",
+  "G. T. Villenave",
+  "Jean-Jacques-François Le Barbier",
+  "Vincent Marie Langlois, le Jeune"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Rome"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90101962,
+ "related-artworks": [
+  90101961,
+  90101820,
+  90101879,
+  90101886,
+  90101793
+ ],
+ "Provenance": [
+  "Vendor: Dr. Hugo Fuchs"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90101962"
+  }
+ }
+}

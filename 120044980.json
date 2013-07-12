@@ -1,0 +1,43 @@
+{
+ "Date": "third quarter 18th century",
+ "Culture": "French",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 87 x W. 37 1/2 inches",
+  "221.0 x 95.3 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1948",
+ "Accession Number": "48.44",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044980,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/140619.jpg",
+ "related-artworks": [
+  120037246,
+  120037248,
+  120039183,
+  120039256,
+  120039522
+ ],
+ "Provenance": [
+  "Carola R. Green , 1948",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044980"
+  }
+ }
+}

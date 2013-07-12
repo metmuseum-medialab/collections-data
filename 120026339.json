@@ -1,0 +1,44 @@
+{
+ "Date": "mid-19th century",
+ "Culture": "Italian",
+ "Medium": "Paper, paint, gilt, ivory, mother-of-pearl",
+ "Dimensions": "20 1/8 x 10 5/8 in. (51.1 x 27 cm)",
+ "Classification": "Fans",
+ "Credit Line": "Gift of Mrs. Thomas Hunt, 1933",
+ "Accession Number": "33.82.13",
+ "What": [
+  "Costume",
+  "Paper",
+  "Gilt",
+  "Bone",
+  "Ivory",
+  "Fans",
+  "Mother of pearl"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120026339,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/176887.jpg",
+ "related-artworks": [
+  120026665,
+  120026354,
+  120026383,
+  120026555,
+  120026586
+ ],
+ "Provenance": [
+  "Mrs. Thomas Hunt (until 1933",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120026339"
+  }
+ }
+}

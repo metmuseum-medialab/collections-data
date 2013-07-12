@@ -1,0 +1,49 @@
+{
+ "Object Name": "Bottle",
+ "Date": "18th–19th century",
+ "Geography": "Iran",
+ "Medium": "Glass; blown in dip mold, applied; tooled on the pontil",
+ "Dimensions": [
+  "H. 15 11/16 in. (39.8 cm)",
+  "Max. diam. 4 9/16 in. (11.6 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.828",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles",
+  "Molds",
+  "Dip molds"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran (Persia), 1800–1900 A.D.",
+  "Iran, 1600–1800 A.D."
+ ],
+ "id": 140004228,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf17-190-828a.jpg",
+ "related-artworks": [
+  140000305,
+  140000285,
+  140000311,
+  140000288,
+  140000293
+ ],
+ "Provenance": [
+  "? Charles MannheimCollection, Paris (in 1898",
+  "coll. cat., 1898, no. 99)",
+  "J. Pierpont Morgan, New York (until d. 1913",
+  "his estate 1913–17)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004228"
+  }
+ }
+}

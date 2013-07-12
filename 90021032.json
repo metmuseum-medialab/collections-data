@@ -1,0 +1,42 @@
+{
+ "Date": "20th century",
+ "Medium": "Drypoint",
+ "Dimensions": [
+  "image size 13 1/4 x 11 3/4 inches (33.7 x 29.8 cm)",
+  "sheet size 18 1/4 x 15 3/8 inches (46.4 x 39.1 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of David and Georgette Preston, 1997",
+ "Accession Number": "1997.123.6",
+ "Who": "George Constant",
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021032,
+ "related-artworks": [
+  90000843,
+  90020413,
+  90020414,
+  90020415,
+  90020416
+ ],
+ "Provenance": [
+  "Donor: Mr. and Mrs. David Preston"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021032"
+  }
+ }
+}

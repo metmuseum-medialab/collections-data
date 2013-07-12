@@ -1,0 +1,33 @@
+{
+ "Date": "1935–40",
+ "Culture": "American",
+ "Medium": "Leather",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Hollis K. Thayer, 1958",
+ "Accession Number": "2009.300.4995a, b",
+ "What": [
+  "Costume",
+  "Leather",
+  "Bags"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80107432,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/58.27.27_CP2.jpg",
+ "related-artworks": [
+  80094407,
+  80094515,
+  80094780,
+  80095060,
+  80095138
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107432"
+  }
+ }
+}

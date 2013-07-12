@@ -1,0 +1,42 @@
+{
+ "Date": "dated 1715",
+ "Culture": "Japanese",
+ "Medium": "Lacquered iron",
+ "Dimensions": [
+  "Height, 7 3/4 in. (19.71 cm)",
+  "Width, 6 3/4 in. (17.2 cm)"
+ ],
+ "Classification": "Armor Parts",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.112.13",
+ "Who": "Myōchin Muneakira",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Iron",
+  "Armor",
+  "Masks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40000360,
+ "gallery-id": 370,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/19123.jpg",
+ "related-artworks": [
+  40000671,
+  40000944,
+  40000224
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000360"
+  }
+ }
+}

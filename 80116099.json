@@ -1,0 +1,32 @@
+{
+ "Date": "ca. 1885",
+ "Culture": "American",
+ "Medium": "Silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Clarence Hand, 1972",
+ "Accession Number": "2009.300.7810",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80116099,
+ "related-artworks": [
+  80094522,
+  80095716,
+  80095754,
+  80096102,
+  80096108
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80116099"
+  }
+ }
+}

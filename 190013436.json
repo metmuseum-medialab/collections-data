@@ -1,0 +1,33 @@
+{
+ "Date": "1910s",
+ "Medium": "Other",
+ "Classification": "Ephemera",
+ "Credit Line": "Gift of Mr. and Mrs. Lewis Lehr, 1975",
+ "Accession Number": "1975.652.42",
+ "Who": "Eastman Kodak Co.",
+ "What": "Ephemera",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190013436,
+ "related-artworks": [
+  190013425,
+  190013427,
+  190013435,
+  190013437,
+  190018339
+ ],
+ "Provenance": [
+  "Mr. and Mrs. Lewis Lehr"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190013436"
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "Date": "ca. 1452–1460",
+ "Culture": "French, Tours",
+ "Medium": "Tempera and gold leaf on parchment",
+ "Dimensions": "7 5/8 x 5 3/4 in.  (19.4 x 14.6 cm)",
+ "Classification": "Manuscripts and Illuminations",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.2490",
+ "Who": "Jean Fouquet",
+ "What": [
+  "Metal",
+  "Paintings",
+  "Gold",
+  "Manuscripts",
+  "Tempera",
+  "Parchment",
+  "Illuminations",
+  "Gold leaf",
+  "Lighting"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Tours"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": [
+  "Patronage at the Early Valois Courts (1328–1461)",
+  "Manuscript Illumination in Northern Europe",
+  "France, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 150000259,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/DT738.jpg",
+ "related-artworks": [
+  90004113,
+  90007898,
+  150007976
+ ],
+ "Description": "The \"Hours of Étienne Chevalier\" is one of the most famous and lavishly illuminated manuscripts of the fifteenth century. It was painted for the treasurer of France by Jean Fouquet, court artist to kings Charles VII and Louis XI, who worked not only as a miniaturist but also as a panel painter. The Lehman miniature decorates the page that contains the opening words of the evening prayer (vespers) for the Hours of the Holy Spirit. It shows the faithful standing in the foreground on a terrace, looking up at the hand of God, as demons flee to the left and right. The subject is highly unusual, as is the topographically accurate depiction of medieval Paris, in which the cathedral of Notre Dame, the spire of Saint-Chapelle, the Pont Saint-Michel, and other monuments of the Île de la Cité (including the Hôtel de Nesle, where the figures stand) are immediately recognizable.",
+ "Provenance": [
+  "Étienne Chevalier (ca. 1410–1474)",
+  "Nicolas Chevalier, baron of Crissé (1562–1630)",
+  "his nephew by marriage, the seigneur of Longeuil",
+  "Louis Fenoulhet, Shoreham, Sussex, England",
+  "sale, Sotheby's, London, December 18, 1946, lot 568",
+  "acquired by Robert Lehman in 1946"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150000259"
+  }
+ }
+}

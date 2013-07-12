@@ -1,0 +1,60 @@
+{
+ "Date": "1949–50",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "Image 40 x 38.1 cm (15 3/4 x 15 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 2002",
+ "Accession Number": "2002.455.22",
+ "Rights and Reproduction": "© 1950-2002 Irving Penn",
+ "Who": "Irving Penn",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photography and Everyday Life in America, 1945–60",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190038352,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP121599.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/190014703",
+  "http://scrapi.org/object/190018108",
+  "http://scrapi.org/object/190021972",
+  "http://scrapi.org/object/190022165",
+  "http://scrapi.org/object/190022166"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "the artist"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190014703"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190018108"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190021972"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190022165"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190022166"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190038352"
+  }
+ }
+}

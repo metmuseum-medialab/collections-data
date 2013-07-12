@@ -1,0 +1,39 @@
+{
+ "Period": "Predynastic Period",
+ "Date": "ca. 3850–2960 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Pottery, paint",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.1173",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Jars"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100009565,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/10.130.1173_005.jpg",
+ "related-artworks": [
+  100002327,
+  100002595,
+  100002775,
+  100002777,
+  100003772
+ ],
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100009565"
+  }
+ }
+}

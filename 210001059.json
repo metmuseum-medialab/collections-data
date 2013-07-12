@@ -1,0 +1,40 @@
+{
+ "Medium": "Linen and synthetic",
+ "Dimensions": [
+  "L. 5-1/2, W. 5 inches",
+  "(14 x 12.7 cm.)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Anni Albers, 1970",
+ "Accession Number": "1970.75.54",
+ "Who": "Anni Albers",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Linen",
+  "Samples",
+  "Synthetic"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210001059,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/AR568.jpg",
+ "related-artworks": [
+  210001042,
+  210001056,
+  210001017,
+  210001024,
+  210001029
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210001059"
+  }
+ }
+}

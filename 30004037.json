@@ -1,0 +1,44 @@
+{
+ "Period": "Iron Age",
+ "Date": "2nd–1st millennium B.C.",
+ "Geography": "Iran",
+ "Medium": "Bronze",
+ "Dimensions": "0.79 x 4.33 in. (2.01 x 11 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Jerome M. Eisenberg, 1962",
+ "Accession Number": "62.40.23",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Arrowheads"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 2000–1000 B.C.",
+  "Iran, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 30004037,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME62_40_23.jpg",
+ "related-artworks": [
+  30001755,
+  30001756,
+  30001757,
+  30001759,
+  30001762
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1962, gift of Jerome M. Eisenberg, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30004037"
+  }
+ }
+}

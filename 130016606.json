@@ -1,0 +1,41 @@
+{
+ "Medium": "Amber",
+ "Dimensions": "Diameter 2 x 1 1/8 in. (5.1 x 2.8 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Purchase, Renée E. and Robert A. Belfer, Patti Cadby Birch and The Joseph Rosen Foundation Inc. Gifts, and Harris Brisbane Dick Fund, 1992",
+ "Accession Number": "1992.11.37",
+ "What": [
+  "Beads",
+  "Resin",
+  "Amber"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130016606,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130012997"
+   },
+   {
+    "href": "http://scrapi.org/object/130006801"
+   },
+   {
+    "href": "http://scrapi.org/object/130016603"
+   },
+   {
+    "href": "http://scrapi.org/object/130006333"
+   },
+   {
+    "href": "http://scrapi.org/object/130006578"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130016606"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130016606"
+  }
+ }
+}

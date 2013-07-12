@@ -1,0 +1,32 @@
+{
+ "Date": "19th century",
+ "Medium": "Graphite, brush and brown wash, gouache",
+ "Dimensions": "7 3/8 x 6 1/4 in. (18.7 x 15.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.50.139",
+ "Who": "Anonymous, French, 19th century",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Graphite",
+  "Gouache"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90026844,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP809018.jpg",
+ "related-artworks": [
+  90007029,
+  90022861,
+  90023181,
+  90023184,
+  90023253
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026844"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "1939",
+ "Medium": "Lithograph",
+ "Dimensions": "image 9 x 12 inches (22.9 x 30.5 cm) sheet: 12 3/4 x 18 inches (32.4 x 45.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1968",
+ "Accession Number": "68.642.3",
+ "Who": "Grant Wood",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90047131,
+ "related-artworks": [
+  90047130,
+  90047132,
+  90047128,
+  90047133,
+  90047129
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90047131"
+  }
+ }
+}

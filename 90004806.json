@@ -1,0 +1,46 @@
+{
+ "Date": "late 15th century",
+ "Medium": "Metalcut with traces of hand-coloring; second state",
+ "Dimensions": "13-7/8 x 19-15/16 in.; 10-5/8 x 7-7/16 in.",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1924",
+ "Accession Number": "24.48",
+ "Who": "Master of the Church Fathers' Border",
+ "What": "Prints",
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90004806,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP813714.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90004807",
+  "http://scrapi.org/object/90002013",
+  "http://scrapi.org/object/90003147",
+  "http://scrapi.org/object/90003124"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90004807"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90002013"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90003147"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90003124"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90004806"
+  }
+ }
+}

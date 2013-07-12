@@ -1,0 +1,45 @@
+{
+ "Calligrapher": "Inscribed by Ōta Nanpo (Japanese, 1749–1823)",
+ "Period": "Edo period (1615–1868)",
+ "Date": "1814",
+ "Culture": "Japan",
+ "Medium": "Hanging scroll; ink and color on paper",
+ "Dimensions": "47 7/16 x 11 1/4 in. (120.5 x 28.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+ "Accession Number": "1975.268.112",
+ "Who": [
+  "Tani Bunchō",
+  "Ōta Nanpo"
+ ],
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60019641,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP277625.jpg",
+ "related-artworks": [
+  60012949,
+  60019640,
+  60019642,
+  60013195,
+  60026448
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60019641"
+  }
+ }
+}

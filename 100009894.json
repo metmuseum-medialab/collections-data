@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1500–1400 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, Tomb CC 37, Chamber B, burial 78, Carter/Carnarvon",
+ "Medium": "Pottery, red ware",
+ "Dimensions": "H. 30.4 cm x Diam. 13.7 cm",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.181.332",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Jars"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100009894,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs12.181.332.jpg",
+ "related-artworks": [
+  100000802,
+  100003656,
+  100003664,
+  100005646,
+  100005681
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100009894"
+  }
+ }
+}

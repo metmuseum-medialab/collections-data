@@ -1,0 +1,34 @@
+{
+ "Medium": "Engraving",
+ "Dimensions": "sheet 9 3/8 x 12 5/8 in. (23.8 x 32 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.131",
+ "Who": "Amico Aspertini",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90072115,
+ "related-artworks": [
+  90057021,
+  90005166,
+  90005167,
+  90005172,
+  90005166
+ ],
+ "Provenance": [
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90072115"
+  }
+ }
+}

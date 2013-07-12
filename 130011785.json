@@ -1,0 +1,39 @@
+{
+ "Period": "Helladic",
+ "Culture": "Greek, Laconian",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 4.80 cm.",
+ "Classification": "Vases",
+ "Credit Line": "Gift of A. J. B. Wace, 1923",
+ "Accession Number": "23.119.21",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Peloponnese",
+  "Laconia"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011785,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP21538.jpg",
+ "related-artworks": [
+  130011784,
+  130012264,
+  130011780,
+  130011767,
+  130011776
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011785"
+  }
+ }
+}

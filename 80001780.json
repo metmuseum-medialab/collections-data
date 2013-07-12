@@ -1,0 +1,34 @@
+{
+ "Date": "1960s",
+ "Culture": "American or European",
+ "Medium": "Lucite",
+ "Dimensions": "Length 1 1/2 in. (3.8 cm)",
+ "Credit Line": "Gift of Adele Simpson, 1994",
+ "Accession Number": "1994.609.15a, b",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80001780,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1994.609.15ab.jpg",
+ "related-artworks": [
+  80000571,
+  80001707,
+  80001773,
+  80001776,
+  80001777
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001780"
+  }
+ }
+}

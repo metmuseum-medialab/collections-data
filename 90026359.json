@@ -1,0 +1,36 @@
+{
+ "Date": "March 1945",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1966",
+ "Accession Number": "66.657.5",
+ "Who": "Marcel Duchamp",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Surrealism",
+  "Photography and Surrealism",
+  "Cubism",
+  "Marcel Duchamp (1887–1968)",
+  "The Pictures Generation",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90026359,
+ "related-artworks": [
+  90016559,
+  90024739,
+  90044709,
+  90044534,
+  90044536
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026359"
+  }
+ }
+}

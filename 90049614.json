@@ -1,0 +1,42 @@
+{
+ "Date": "20th century",
+ "Medium": "Graphite, cut paper, mixed media",
+ "Dimensions": "sheet 13 x 9 3/4 in. (33 x 24.8 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Bequest of William S. Lieberman, 2005",
+ "Accession Number": "2007.49.683",
+ "Who": "Joan Miró",
+ "What": [
+  "Paper",
+  "Graphite",
+  "Mixed media"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Postwar Print Renaissance in America",
+  "Surrealism",
+  "School of Paris",
+  "Iberian Peninsula, 1900 A.D.–present"
+ ],
+ "id": 90049614,
+ "related-artworks": [
+  90049612,
+  210006725,
+  210014546,
+  210005051,
+  210010246
+ ],
+ "Provenance": [
+  "Donor: William S. Lieberman (American, Paris 1923–2005 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90049614"
+  }
+ }
+}

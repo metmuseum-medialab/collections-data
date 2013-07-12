@@ -1,0 +1,43 @@
+{
+ "Artist": "After Carlo Maratti (Italian, Camerano 1625–1713 Rome)",
+ "Date": "mid-17th century",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "sheet 19 1/8 x 14 in. (48.5 x 35.5 cm)",
+  "plate 19 1/8 x 13 3/16 in. (48.5 x 33.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittesley Collection, The Elisha Whittesley Fund, 1962",
+ "Accession Number": "62.600.562",
+ "Who": [
+  "Carlo Maratti",
+  "Giovanni Giacomo De Rossi",
+  "F. de Louvement"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90075732,
+ "related-artworks": [
+  90043553,
+  90075415,
+  90010585
+ ],
+ "Provenance": [
+  "Francesco Antonio Cazzanigas"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90075732"
+  }
+ }
+}

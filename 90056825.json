@@ -1,0 +1,51 @@
+{
+ "Publisher": "Published by Joseph Mallord William Turner (British, London 1775–1851 London)",
+ "Date": "February 11, 1812",
+ "Medium": "Etching and mezzotint; second state",
+ "Dimensions": "plate 8 1/4 x 11 1/2 in. (21 x 29.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of William Loring Andrews, 1883, transferred from the Library",
+ "Accession Number": "83.1.74",
+ "Who": "Joseph Mallord William Turner",
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Mezzotints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Salon and The Royal Academy",
+  "The Hudson River School",
+  "John Constable (1776–1837)",
+  "Roger Fenton (1819–1869)",
+  "Romanticism",
+  "Watercolor Painting in Britain, 1750–1850",
+  "Joseph Mallord William Turner (1775–1851)",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90056825,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821505.jpg",
+ "related-artworks": [
+  90056732,
+  90056739,
+  90056723,
+  90056743,
+  90056757
+ ],
+ "Provenance": [
+  "Donor: William Loring Andrews (American, 1837–1920)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90056825"
+  }
+ }
+}

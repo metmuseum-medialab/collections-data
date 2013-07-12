@@ -1,0 +1,41 @@
+{
+ "Date": "1860",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": [
+  "Image 25.6 x 20.7 cm (10 1/16 x 8 1/8 in.)",
+  "Mount 33 x 26.2 cm (13 x 10 5/16 in.)",
+  "Mount (2nd) 31 x 24.3 cm (12 3/16 x 9 9/16 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, Cynthia Hazen Polsky Gift, 2005",
+ "Accession Number": "2005.100.491.1",
+ "Who": "Unknown",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190041377,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP146074.jpg",
+ "related-artworks": [
+  190011576,
+  190011793,
+  190011794,
+  190012616,
+  190012631
+ ],
+ "Provenance": [
+  "John Constantine Stanley",
+  "Canning estate (?)",
+  "[...]",
+  "(sold, Christie's, South Kensington, Oct. 30, 1986)",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190041377"
+  }
+ }
+}

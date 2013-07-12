@@ -1,0 +1,34 @@
+{
+ "Date": "1849",
+ "Culture": "American (probably)",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Art Worker's Club, 1945",
+ "Accession Number": "C.I.45.68.11",
+ "What": [
+  "Costume",
+  "Wrappers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80037333,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI45.68.11_F.jpg",
+ "related-artworks": [
+  80013836,
+  80027035,
+  80036138,
+  80036204,
+  80037451
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80037333"
+  }
+ }
+}

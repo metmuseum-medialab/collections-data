@@ -1,0 +1,46 @@
+{
+ "Date": "18th century",
+ "Culture": "Chinese with French mounts",
+ "Medium": "Hard-paste porcelain, bronze-gilt",
+ "Dimensions": "Each H. 5 in.  (12.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Bequest of George Blumenthal, 1941",
+ "Accession Number": "41.190.64a, b, .65a, b",
+ "What": [
+  "Metal",
+  "Clay",
+  "Copper alloy",
+  "Metalwork",
+  "Faience",
+  "Bronze",
+  "Porcelain",
+  "Gilt",
+  "Hard paste porcelain",
+  "Plate",
+  "Ormolu",
+  "Incense burners"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "id": 120013969,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES1232.jpg",
+ "related-artworks": [
+  120013968,
+  120014459,
+  120021809,
+  120023124,
+  120056175
+ ],
+ "Provenance": [
+  "Alfred Sussmann (until 1922",
+  "Alfred Sussmann collection sale, Galerie Georges Petit, Paris, May 1922, p. 74, no. 76",
+  "sold to Seligmann)",
+  "[ Jacques Seligmann (in 1922) ]",
+  "George and Florence Blumenthal (before 1930–41)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013969"
+  }
+ }
+}

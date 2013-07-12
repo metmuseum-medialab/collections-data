@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1908",
+ "Culture": "French",
+ "Medium": "silk, rubber, cotton",
+ "Dimensions": "Length at CB 11 in. (27.9 cm)",
+ "Credit Line": "Gift of Mrs. Earl Rowe, 1951",
+ "Accession Number": "C.I.51.15.25",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Underwear",
+  "Corsets"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80007977,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI51.15.25_F.jpg",
+ "related-artworks": [
+  80006745,
+  80095880,
+  80029478,
+  80029479,
+  80037141
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007977"
+  }
+ }
+}

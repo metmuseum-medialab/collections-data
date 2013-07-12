@@ -1,0 +1,41 @@
+{
+ "Date": "early 18th century",
+ "Culture": "Flemish",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 65 x W. 2 1/2 inches (165.1 x 6.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Henrietta Seligman Lace Collection, Bequest of Mrs. Jesse Seligman, 1910",
+ "Accession Number": "10.102.104",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036523,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP17364.jpg",
+ "related-artworks": [
+  120030445,
+  120032136,
+  120032242,
+  120036574,
+  120029994
+ ],
+ "Provenance": [
+  "Henrietta Seligman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036523"
+  }
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "Date": "1835–1900",
+ "Medium": "Ink, graphite, watercolor",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Jessie F. Hume, 1930",
+ "Accession Number": "30.16.19",
+ "Who": "Robert William Hume",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90066296,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP805881.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90066285",
+  "http://scrapi.org/object/90066292",
+  "http://scrapi.org/object/90066324",
+  "http://scrapi.org/object/90066318",
+  "http://scrapi.org/object/90066310"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Donor: Jessie F. Hume (through Mary Howell Smith)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90066285"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90066292"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90066324"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90066318"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90066310"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90066296"
+  }
+ }
+}

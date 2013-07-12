@@ -1,0 +1,40 @@
+{
+ "Date": "late aftercast of 16th century model",
+ "Culture": "Italian (Paduan)",
+ "Medium": "Bronze",
+ "Dimensions": "4 1/8 x 3 3/16 in.  (10.5 x 8.1 cm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Bequest of Rupert L. Joseph, 1959",
+ "Accession Number": "60.55.64",
+ "Who": "Andrea Briosco, called Riccio",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120017828,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/171270.jpg",
+ "related-artworks": [
+  120056862,
+  120005757,
+  120009818,
+  120010495,
+  120013531
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120017828"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "Early Dynastic Period–New Kingdom",
+ "Dynasty": "Dynasty 5–18 (?)",
+ "Reign": "reign of Thutmose III",
+ "Date": "ca. 3100–2649 B.C.,  reused 1479–1425 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Diorite",
+ "Dimensions": "H. 15.5 cm (6 1/8 in); diam. 25 cm (9 13/16 in)",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.2.22",
+ "What": [
+  "Vessels",
+  "Jars",
+  "Diorite",
+  "Lugs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100002283,
+ "gallery-id": 118,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs20.2.22y.jpg",
+ "related-artworks": [
+  100000101,
+  100027338,
+  100000100,
+  100002288,
+  100004109
+ ],
+ "Provenance": [
+  "Purchased in Egypt, 1919. Brought to New York and accessioned, 1920."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100002283"
+  }
+ }
+}

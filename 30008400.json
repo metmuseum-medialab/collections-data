@@ -1,0 +1,45 @@
+{
+ "Period": "Ur III",
+ "Date": "ca. 2040 B.C.",
+ "Geography": "Mesopotamia, probably from Drehem (ancient Puzrish-Dagan)",
+ "Culture": "Neo-Sumerian",
+ "Medium": "Clay",
+ "Dimensions": "5 x 4.6 x 2.8 cm (2 x 1 3/4 x 1 1/8 in.)",
+ "Classification": "Clay",
+ "Credit Line": "Purchase, 1886",
+ "Accession Number": "86.11.246b",
+ "Who": "Neo-Sumerian",
+ "What": [
+  "Clay",
+  "Seals",
+  "Cases",
+  "Tablets",
+  "Cylinder seals",
+  "Cuneiform"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30008400,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME86_11_246b.JPG",
+ "related-artworks": [
+  30008413,
+  30000450,
+  30008399,
+  30008410,
+  30008412
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1886, purchased from the Reverend William Hayes Ward."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30008400"
+  }
+ }
+}

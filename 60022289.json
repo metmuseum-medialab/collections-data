@@ -1,0 +1,43 @@
+{
+ "Period": "Bronze and Iron Age period",
+ "Date": "500 B.C.–A.D. 300",
+ "Culture": "Indonesia (Java)",
+ "Medium": "Bronze",
+ "Dimensions": "2 x 3 1/4 in. (5.1 x 8.3 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Samuel Eilenberg Collection, Bequest of Samuel Eilenberg, 1998",
+ "Accession Number": "2001.433.584",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Jewelry",
+  "Pendants"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1000 B.C.–1 A.D.",
+  "Southeast Asia, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60022289,
+ "related-artworks": [
+  60022288,
+  60022291,
+  60022290,
+  60022292,
+  60022293
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60022289"
+  }
+ }
+}

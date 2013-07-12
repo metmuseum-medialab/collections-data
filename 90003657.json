@@ -1,0 +1,47 @@
+{
+ "Artist": "After Sir Edwin Henry Landseer (British, London 1802–1873 London)",
+ "Date": "February 2, 1874",
+ "Medium": "Etching and mezzotint",
+ "Dimensions": [
+  "Sheet 26 7/16 x 25 3/4 in. (67.1 x 65.4 cm)",
+  "Image 24 5/16 x 23 7/8 in. (61.8 x 60.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Anna Hyatt Huntington, 1974",
+ "Accession Number": "1974.672.20",
+ "Who": [
+  "Sir Edwin Henry Landseer",
+  "Thomas Landseer"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Mezzotints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90003657,
+ "related-artworks": [
+  90070128,
+  90070129,
+  90070280,
+  90070281,
+  90020605
+ ],
+ "Provenance": [
+  "Donor: Anna Hyatt Huntington (American, Cambridge, Massachusetts 1876–1973 Redding, Connecticut)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90003657"
+  }
+ }
+}

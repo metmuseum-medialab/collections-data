@@ -1,0 +1,38 @@
+{
+ "Date": "1866",
+ "Medium": "Watercolor",
+ "Dimensions": "sheet 11 1/2 x 15 in. (29.2 x 38.1 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Alexander B.V. Johnson and Roberta J.M. Olson, 2010",
+ "Accession Number": "2010.493.3",
+ "Who": "John Jessop Hardwick",
+ "What": [
+  "Drawings",
+  "Watercolors"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90070238,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP814121.jpg",
+ "related-artworks": [
+  90008082,
+  90023393,
+  90023421,
+  90023430,
+  90027609
+ ],
+ "Provenance": [
+  "Donor: Roberta J. M. Olson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90070238"
+  }
+ }
+}

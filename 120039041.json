@@ -1,0 +1,42 @@
+{
+ "Date": "20th century",
+ "Culture": "Hungarian, Transylvania",
+ "Medium": "Silk on linen",
+ "Dimensions": "L. 18 3/4 x W. 12 3/4 inches (47.6 x 32.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Administration Fund, 1921",
+ "Accession Number": "21.194.11",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery"
+ ],
+ "Where": [
+  "Europe",
+  "Hungary"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (not Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 120039041,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/51460.jpg",
+ "related-artworks": [
+  120033027,
+  120039059,
+  120039063,
+  120033028,
+  120039044
+ ],
+ "Provenance": [
+  "[ Morris, Inc. , 1921",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120039041"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Period": "Tang dynasty (618–907)",
+ "Culture": "China",
+ "Medium": "Jade",
+ "Dimensions": "Gr. H. ca. 1 1/2 in. (3.8 cm); Gr. W. 2 3/8 in. (6 cm); Gr. L. 3 in. (7.6 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Bequest of Florance Waterbury, in memory of her father, John I. Waterbury, 1968",
+ "Accession Number": "68.149.6",
+ "What": [
+  "Figures",
+  "Jade"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60010816,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/68_149_6_O1.jpg",
+ "related-artworks": [
+  60006844,
+  60009611,
+  60010769,
+  60010936,
+  60011320
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60010816"
+  }
+ }
+}

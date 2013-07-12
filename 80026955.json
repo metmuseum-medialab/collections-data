@@ -1,0 +1,35 @@
+{
+ "Date": "1880s",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. Frank Carrington, 1951",
+ "Accession Number": "C.I.X.51.7.5a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80026955,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CIX51.7.5a_F.jpg",
+ "related-artworks": [
+  80005727,
+  80013643,
+  80024552,
+  80029382,
+  80030643
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80026955"
+  }
+ }
+}

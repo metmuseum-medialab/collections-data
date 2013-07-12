@@ -1,0 +1,58 @@
+{
+ "Architect": "James Adam (British, Edinburgh, Scotland 1732–1794 London)",
+ "Publisher": "Peter Elmsley (London)",
+ "Artist": "Giuseppe Carlo Zucchi (Italian, Venice 1721–1805 Venice)",
+ "Date": "1778",
+ "Medium": "Printed book with etched and engraved illustrations",
+ "Dimensions": "26 x 20 1/16 x 9 13/16 in. (66 x 51 x 25 cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, transferred from the Library (1991.1073.11)",
+ "Accession Number": "1991.1073.11",
+ "Who": [
+  "Francesco Bartolozzi",
+  "Robert Adam",
+  "Robert Blyth",
+  "Domenico Cunego",
+  "Edward Rooker",
+  "James Adam",
+  "Antonio Zucchi",
+  "James Newton",
+  "Charles White",
+  "Peter Mazell",
+  "Benedetto Pastorini",
+  "Thomas White",
+  "Peter Elmsley",
+  "Thomas Vivares",
+  "Alexander Finnie",
+  "Giuseppe Carlo Zucchi",
+  "Patrick Begbie",
+  "Tobias Miller"
+ ],
+ "What": [
+  "Etching",
+  "Engraving",
+  "Books",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 90011756,
+ "related-artworks": [
+  90011754,
+  90000754,
+  90011749,
+  90032650,
+  90072530
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90011756"
+  }
+ }
+}

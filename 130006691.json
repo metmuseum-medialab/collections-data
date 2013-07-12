@@ -1,0 +1,33 @@
+{
+ "Culture": "Etruscan",
+ "Medium": "Terracotta",
+ "Classification": "Vases",
+ "Credit Line": "Purchase, 1896",
+ "Accession Number": "96.9.146a, b",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006691,
+ "related-artworks": [
+  130005302,
+  130005305,
+  130006082,
+  130006072,
+  130006594
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006691"
+  }
+ }
+}

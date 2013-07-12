@@ -1,0 +1,65 @@
+{
+ "Artist": "Painting attributed to Muzaffar 'Ali (active late 1520s–70s; d. ca. 1576)",
+ "Object Name": "Folio from an illustrated manuscript",
+ "Reign": "Shah Tahmasp (1524–76)",
+ "Date": "ca. 1530–35",
+ "Geography": "Iran, Tabriz",
+ "Medium": "Opaque watercolor, ink, silver, and gold on paper",
+ "Dimensions": [
+  "Painting H. 10 5/8 x W. 8 1/8 in. (H. 27 x W. 20.6 cm)",
+  "Entire Page H. 18 5/8 x W. 12 1/2 in. (H. 47.3 x W. 31.8 cm)"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "Gift of Arthur A. Houghton Jr., 1970",
+ "Accession Number": "1970.301.68",
+ "Who": [
+  "Abu'l Qasim Firdausi",
+  "Muzaffar 'Ali"
+ ],
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Silver",
+  "Gold",
+  "Watercolors",
+  "Manuscripts",
+  "Codices",
+  "Folios",
+  "Illuminated manuscripts"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Tabriz"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140009552,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP107181.jpg",
+ "related-artworks": [
+  140009506,
+  140009541,
+  140009507,
+  140009495,
+  140009509
+ ],
+ "Description": "Nushirvan (r. 531–79) became known for the reforms he instituted, especially in the system of taxation. Here he dictates to a scribe a letter to his agents, outlining the new system and also setting forth principles of conduct: judiciousness and absolute scrupulousness in the administration of their duties. Muzaffar 'Ali, who painted this illustration, worked for the Safavid court through the entire reign of Shah Tahmasp. As is typical of works by the second generation of Shahnama artists, the figures here are larger in scale and fewer in number than in comparable Shahnama compositions completed between 1525 and 1530.",
+ "Provenance": [
+  "Shah Tahmasp, Iran (until 1568)",
+  "Sultan Selim II, Istanbul (from 1568)",
+  "Sultan Selim III, Istanbul (by 1800)",
+  "Baron Edmond de Rothschild, Paris (by 1903–d. 1934)",
+  "his son, Baron Maurice de Rothschild, Paris and Pregny, near Geneva (by 1955–d. 1957)",
+  "[ Stiebel Ltd., New York, until 1959",
+  "sold to Houghton]",
+  "Arthur A. Houghton Jr., New York (1959–70)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009552"
+  }
+ }
+}

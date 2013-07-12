@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1765",
+ "Geography": "New England, Rhode Island, United States",
+ "Culture": "American",
+ "Medium": "Linen embroidered with crewel wool",
+ "Dimensions": "Dimensions unrecorded",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Anna T. Marble, 1943",
+ "Accession Number": "43.14.4",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Wool",
+  "Linen",
+  "Embroidery",
+  "Valances",
+  "Worsted",
+  "Crewel wool"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Rhode Island"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10014760,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/130140.jpg",
+ "related-artworks": [
+  10014758,
+  10014759,
+  10014761,
+  10013925,
+  10014762
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014760"
+  }
+ }
+}

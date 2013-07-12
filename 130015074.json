@@ -1,0 +1,45 @@
+{
+ "Period": "Archaic",
+ "Date": "ca. 480–470 B.C.",
+ "Culture": "Etruscan",
+ "Medium": "Bronze",
+ "Dimensions": "H. (with base)  5 1/4 in. (13.3 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Rogers Fund, 1947",
+ "Accession Number": "47.11.3",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines",
+  "Lighting devices",
+  "Candleholders",
+  "Candelabras"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130015074,
+ "gallery-id": 170,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP120336.jpg",
+ "related-artworks": [
+  130007023,
+  130007513,
+  130007564,
+  130006867,
+  130006894
+ ],
+ "Description": "This finial, which originally decorated the top of a tall candelabrum, is an excellent example of Early Classical sculpture. A bearded warrior wearing a full panoply of armor assists his younger, beardless comrade, who has sustained a wound to his left leg or foot and is supported by the spear he once held in his right hand and by his friend's shoulder.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130015074"
+  }
+ }
+}

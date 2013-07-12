@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "Culture": "China",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 9 7/8 in. (25.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Edward S. Harkness, 1923",
+ "Accession Number": "23.95.7",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Bottles"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60018874,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/23_95_7_O1_sf.jpg",
+ "related-artworks": [
+  60013577,
+  60015115,
+  60015164,
+  60015286,
+  60015316
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60018874"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "1856",
+ "Medium": "Silver",
+ "Dimensions": "Diam. 1 5/16 in. (3.3 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Purchase, Susan and Jon Rotenstreich Gift, 2000",
+ "Accession Number": "2000.575",
+ "Who": "Francis . Mitchell",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Jewelry",
+  "Medals"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "id": 10018462,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10018460"
+   },
+   {
+    "href": "http://scrapi.org/object/10018431"
+   },
+   {
+    "href": "http://scrapi.org/object/10018432"
+   },
+   {
+    "href": "http://scrapi.org/object/10018428"
+   },
+   {
+    "href": "http://scrapi.org/object/10018433"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10018462"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10018462"
+  }
+ }
+}

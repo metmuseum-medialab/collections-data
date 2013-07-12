@@ -1,0 +1,49 @@
+{
+ "Artist": "After Edward Savage (American, Princeton, Massachusetts 1761–1817 Princeton, Massachusetts)",
+ "Binder": "Stikeman and Co. (New York, NY)",
+ "Date": "1800",
+ "Medium": "plates engraving",
+ "Dimensions": "Overall 6 7/8 x 4 5/16 in. (17.5 x 11 cm)",
+ "Classification": "Books",
+ "Credit Line": "Bequest of Charles Allen Munn, 1924",
+ "Accession Number": "24.90.1813",
+ "Who": [
+  "Stikeman  Co.",
+  "Edward Savage",
+  "Oliver Farnsworth",
+  "William Hamlin"
+ ],
+ "What": [
+  "Engraving",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States, 1600–1800 A.D.",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90021669,
+ "related-artworks": [
+  90016366,
+  90022547,
+  90041029,
+  90041030,
+  90012518
+ ],
+ "Provenance": [
+  "C. L. F. Robinson (American), Newport, R I",
+  "Donor: Bequest of Charles Allen Munn"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021669"
+  }
+ }
+}

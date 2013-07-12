@@ -1,0 +1,38 @@
+{
+ "Period": "late Gupta",
+ "Date": "6th–7th century",
+ "Culture": "India",
+ "Medium": "Sandstone",
+ "Dimensions": "H. 30 1/2 in. (77.5 cm); W. 15 in. (38.1 cm); D. 6 3/4 in. (17.1 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Fletcher Fund, 1964",
+ "Accession Number": "64.10",
+ "What": [
+  "Sculpture",
+  "Fragments",
+  "Sandstone",
+  "Doorframes"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia South, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005744,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/64_10.JPG",
+ "related-artworks": [
+  60004461,
+  60005717,
+  60005745,
+  60005088,
+  60005342
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005744"
+  }
+ }
+}

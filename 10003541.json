@@ -1,0 +1,47 @@
+{
+ "Date": "1817",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Mahogany, white pine, ash",
+ "Dimensions": "28 11/16 x 37 7/8 x 45 3/4 in. (72.9 x 96.2 x 116.2 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Rogers Fund, 1948",
+ "Accession Number": "48.100",
+ "Who": "Michael Allison",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Softwood",
+  "Mahogany",
+  "Tables",
+  "Pine",
+  "Dropleaf tables"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10003541,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP220464.jpg",
+ "related-artworks": [
+  10001479,
+  10002066,
+  10010352
+ ],
+ "Provenance": [
+  "Colonel G. Creighton Webb, New York, until 1948",
+  "with Plaza Art Galleries, New York, 1948"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003541"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Period": "Qing dynasty (1644–1911), Daoguang mark and period (1821–50)",
+ "Culture": "China",
+ "Medium": "Porcelain with incised decoration under colored glazes",
+ "Dimensions": "H. 2 in. (5.1 cm); Diam. 4 in. (10.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.871",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Drinking vessels",
+  "Glaze",
+  "Cups"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "id": 60021972,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/79_2_871_O1_sf.jpg",
+ "related-artworks": [
+  60015691,
+  60016659,
+  60018437,
+  60015620,
+  60015623
+ ],
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60021972"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Date": "20th century",
+ "Medium": "Lift-ground aquatint",
+ "Dimensions": "8 x 10 in.  (20.3 x 25.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of National Academy of Design, New York, 1999",
+ "Accession Number": "1999.192.13",
+ "Who": "Paul Resika",
+ "What": [
+  "Prints",
+  "Etching",
+  "Aquatint",
+  "Etching ground"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90005046,
+ "Provenance": [
+  "Donor: National Academy of Design"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/210001995"
+   },
+   {
+    "href": "http://scrapi.org/object/90010812"
+   },
+   {
+    "href": "http://scrapi.org/object/90021742"
+   },
+   {
+    "href": "http://scrapi.org/object/90025506"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90005046"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90005046"
+  }
+ }
+}

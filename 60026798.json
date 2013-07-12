@@ -1,0 +1,40 @@
+{
+ "Date": "early 20th century",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "7 x 9 in. (17.8 x 22.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Cole J. Younger, 1975",
+ "Accession Number": "JP3441",
+ "Who": "Utagawa Hiroshige",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1900 A.D.–present",
+ "id": 60026798,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP122771.jpg",
+ "related-artworks": [
+  60026803,
+  60026804,
+  60026805,
+  60026800,
+  60026812
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026798"
+  }
+ }
+}

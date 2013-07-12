@@ -1,0 +1,46 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Geography": "Tonga",
+ "Culture": "Tonga (?)",
+ "Medium": "Barkcloth, pigment",
+ "Dimensions": [
+  "Overall 4 1/8 x 6 1/4 in. (10.49 x 15.88 cm)",
+  "Other 4 1/8 in. (10.49 cm)"
+ ],
+ "Classification": "Barkcloth",
+ "Credit Line": "Gift of The Carnegie Corporation of New York, 1930",
+ "Accession Number": "30.10.6",
+ "Who": "Tonga",
+ "What": [
+  "Panels",
+  "Bark cloth"
+ ],
+ "Where": [
+  "Oceania",
+  "Tonga"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Polynesia, 1800–1900 A.D.",
+  "Polynesia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50000546,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs30_10_6.jpg",
+ "related-artworks": [
+  50006307,
+  50007513,
+  50007514,
+  50007516,
+  50007517
+ ],
+ "Provenance": [
+  "[Niblack]",
+  "The Carnegie Corporation of New York, until 1930"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000546"
+  }
+ }
+}

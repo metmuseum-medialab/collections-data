@@ -1,0 +1,39 @@
+{
+ "Manufacturer": "Ruppurr Fayencefabrik",
+ "Date": "ca. 1930",
+ "Medium": "Ceramic",
+ "Dimensions": [
+  "H. 1-7/8, W. 5-1/2, D. 4-1/2 inches",
+  "(4.8 x 14 x 11.4 cm.)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Lowery Stokes Sims, 1994",
+ "Accession Number": "1994.548.8",
+ "Who": [
+  "Designer Unknown",
+  "Ruppurr Fayencefabrik"
+ ],
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Drinking vessels",
+  "Cups",
+  "Services",
+  "Tea services"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "id": 210006669,
+ "related-artworks": [
+  210006666,
+  210006670,
+  210006668,
+  210006664,
+  210006665
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006669"
+  }
+ }
+}

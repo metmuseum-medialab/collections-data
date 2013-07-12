@@ -1,0 +1,40 @@
+{
+ "Date": "1878–79",
+ "Culture": "French",
+ "Medium": "silk, cotton",
+ "Dimensions": [
+  "Length at CB (a) 31 in. (78.7 cm)",
+  "Length (b) 63 in. (160 cm)"
+ ],
+ "Credit Line": "Gift of Mary Pierrepont Beckwith, 1969",
+ "Accession Number": "C.I.69.14.3a, b",
+ "Who": "Mon. Vignon",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80002826,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.69.14.3ab_F.jpg",
+ "related-artworks": [
+  80034328,
+  80034329,
+  80005224,
+  80028920,
+  80016910
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002826"
+  }
+ }
+}

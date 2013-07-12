@@ -1,0 +1,51 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Credit Line": "Purchase, Edward S. Harkness Gift, 1926",
+ "Accession Number": "26.7.372",
+ "What": [
+  "Sculpture",
+  "Faience",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100028610,
+ "Provenance": [
+  "Formerly Timmins Collection. Acquired by for his collection by Lord Carnarvon before 1923. Carnarvon Collection purchased by the Museum from Lady Carnarvon, 1926."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100000723"
+   },
+   {
+    "href": "http://scrapi.org/object/100000719"
+   },
+   {
+    "href": "http://scrapi.org/object/100000721"
+   },
+   {
+    "href": "http://scrapi.org/object/100000992"
+   },
+   {
+    "href": "http://scrapi.org/object/100001537"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100028610"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100028610"
+  }
+ }
+}

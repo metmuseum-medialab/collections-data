@@ -1,0 +1,43 @@
+{
+ "Date": "early 20th century",
+ "Geography": "Indonesia, Java",
+ "Culture": "Javanese",
+ "Medium": "Cotton",
+ "Dimensions": "H x W 33 1/2 x 93in. (85.1 x 236.2cm)",
+ "Classification": "Textiles-Woven",
+ "Credit Line": "Gift of Ernest Erickson Foundation, 1988",
+ "Accession Number": "1988.104.41",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Cotton",
+  "Woven",
+  "Sarongs"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50008622,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1988-104-41a.jpg",
+ "related-artworks": [
+  50000840,
+  50000405,
+  50000406,
+  50000407,
+  50000441
+ ],
+ "Provenance": [
+  "Ernest Erickson, New York, by 1981–(d.)1983",
+  "Ernest Erickson Foundation, 1983–1988"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50008622"
+  }
+ }
+}

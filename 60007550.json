@@ -1,0 +1,42 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Matted painting; ink and color on paper",
+ "Dimensions": [
+  "Overall 25 5/8 x 12 13/16 in. (65.1 x 32.5 cm)",
+  "Image 23 7/16 x 11 3/8 in. (59.5 x 28.9 cm)",
+  "Mat 29 3/8 x 17 1/4 in. (74.6 x 43.8 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.454",
+ "Who": "Hishikawa Moronobu",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60007550,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/29_100_454_76261.jpg",
+ "related-artworks": [
+  60001225,
+  60001226,
+  60001353,
+  60001356,
+  60001357
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60007550"
+  }
+ }
+}

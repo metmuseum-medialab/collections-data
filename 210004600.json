@@ -1,0 +1,40 @@
+{
+ "Date": "1980",
+ "Medium": "Tempera and oil glazes on wood",
+ "Dimensions": [
+  "H. 40-3/4, W. 45-3/4 inches",
+  "(103.5 x 116.2 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Anonymous Gift, 1986",
+ "Accession Number": "1986.104",
+ "Who": "Jules Kirschenbaum",
+ "What": [
+  "Paintings",
+  "Glaze",
+  "Oil paintings",
+  "Tempera"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210004600,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT8294.jpg",
+ "related-artworks": [
+  210007908,
+  210007947,
+  210008026,
+  210008259,
+  210008310
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210004600"
+  }
+ }
+}

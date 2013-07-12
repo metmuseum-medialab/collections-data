@@ -1,0 +1,40 @@
+{
+ "Artist": "Behar Lithographic Press (Bihar, India)",
+ "Printer": "Behar Lithographic Press (Bihar, India)",
+ "Date": "June 30, 1828",
+ "Medium": "Lithograph",
+ "Dimensions": "Sheet 3 1/16 x 4 7/16 in. (7.8 x 11.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.521.13",
+ "Who": [
+  "Behar Lithographic Press",
+  "Elizabeth Jane D'Oyly"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90081078,
+ "related-artworks": [
+  90016345,
+  90080989,
+  90081007,
+  90081054,
+  90081063
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90081078"
+  }
+ }
+}

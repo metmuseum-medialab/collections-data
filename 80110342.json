@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1980",
+ "Culture": "French",
+ "Medium": "lurex, wool",
+ "Dimensions": "Length at CB 60 in. (152.4 cm)",
+ "Credit Line": "Purchase, Friends of The Costume Institute Gifts, 2012",
+ "Accession Number": "2012.391",
+ "Who": "Thierry Mugler",
+ "What": [
+  "Costume",
+  "Wool",
+  "Dresses",
+  "Lurex"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80110342,
+ "related-artworks": [
+  80000882,
+  80002398,
+  80009171,
+  80023669,
+  80000408
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80110342"
+  }
+ }
+}

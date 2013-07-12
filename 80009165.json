@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1979",
+ "Culture": "French",
+ "Medium": "(a, b) leather",
+ "Dimensions": "Heel to Toe (a, b) 10 in. (25.4 cm)",
+ "Credit Line": "Gift of Don Sayres, 2002",
+ "Accession Number": "2002.496a, b",
+ "Who": "House of Charles Jourdan",
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Shoes",
+  "Pumps"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80009165,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2002.496ab_F.jpg",
+ "related-artworks": [
+  80108339,
+  80000485,
+  80002027,
+  80028375,
+  80047726
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80009165"
+  }
+ }
+}

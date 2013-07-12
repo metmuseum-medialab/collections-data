@@ -1,0 +1,48 @@
+{
+ "Date": "1860s",
+ "Medium": "Salted paper print from glass negative",
+ "Dimensions": "54.6 x 36.2 cm (21 1/2 x 14 1/4 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "David Hunter McAlpin Fund, 1975",
+ "Accession Number": "1975.548.274",
+ "Who": "Pierre-Louis Pierson",
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Haute Couture",
+  "The Industrialization of French Photography after 1860",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190013225,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP235188.jpg",
+ "related-artworks": [
+  190013036,
+  190013038,
+  190013039,
+  190013044,
+  190013043
+ ],
+ "Provenance": [
+  "La Comtesse de Castiglione",
+  "[...]",
+  "Robert de Montesquiou",
+  "[...]",
+  "Madame Walska",
+  "[...]",
+  "Philip Kaplan"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190013225"
+  }
+ }
+}

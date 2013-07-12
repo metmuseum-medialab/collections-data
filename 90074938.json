@@ -1,0 +1,58 @@
+{
+ "Date": "March 15, 1762",
+ "Medium": "Etching and engraving; second state of two",
+ "Dimensions": [
+  "plate 17 1/4 x 13 in. (43.8 x 33 cm)",
+  "sheet 18 7/16 x 13 3/4 in. (46.8 x 35 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Sarah Lazarus, 1891",
+ "Accession Number": "91.1.117",
+ "Who": "William Hogarth",
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Kilt",
+  "Portrait Painting in England, 1600–1800",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90074938,
+ "Provenance": [
+  "Donor: Sarah Lazarus"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90036163"
+   },
+   {
+    "href": "http://scrapi.org/object/90037738"
+   },
+   {
+    "href": "http://scrapi.org/object/90049367"
+   },
+   {
+    "href": "http://scrapi.org/object/90049368"
+   },
+   {
+    "href": "http://scrapi.org/object/90049369"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90074938"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90074938"
+  }
+ }
+}

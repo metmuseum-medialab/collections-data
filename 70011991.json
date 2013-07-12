@@ -1,0 +1,43 @@
+{
+ "Date": "15th–16th century",
+ "Culture": "Spanish",
+ "Medium": "Iron",
+ "Dimensions": "Overall 65 3/4 x 57 1/2 in. (167 x 146.1 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "The Cloisters Collection, 1952",
+ "Accession Number": "52.142.2",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Windows",
+  "Broilers",
+  "Grills"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011991,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/sf52-142-2.jpg",
+ "related-artworks": [
+  70014777,
+  70008302,
+  70011216,
+  70016844,
+  70008528
+ ],
+ "Provenance": [
+  "[ Franz J. Mela , New York (sold 1952)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011991"
+  }
+ }
+}

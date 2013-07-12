@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1895",
+ "Medium": "Albumen photograph",
+ "Dimensions": "Sheet 2 3/4 x 2 3/4 in. (7 x 7 cm)",
+ "Classification": "Photographs",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 213, N152.302",
+ "Who": "W. Duke, Sons & Co.",
+ "What": [
+  "Photographs",
+  "Albumen"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90094665,
+ "Description": "Trade cards from the \"Photos from Life (Actresses)\" series (N152), issued ca. 1895 by W. Duke Sons & Co. to promote Duke's Preferred Stock Cigarettes.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90094222"
+   },
+   {
+    "href": "http://scrapi.org/object/90094232"
+   },
+   {
+    "href": "http://scrapi.org/object/90094233"
+   },
+   {
+    "href": "http://scrapi.org/object/90094237"
+   },
+   {
+    "href": "http://scrapi.org/object/90094256"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90094665"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90094665"
+  }
+ }
+}

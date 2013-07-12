@@ -1,0 +1,65 @@
+{
+ "Date": "1861",
+ "Culture": "American, Hartford, Connecticut",
+ "Medium": "Steel, brass, silver, gold, wood, textile",
+ "Dimensions": [
+  "Length, 14 1/2 in. (36.83 cm)",
+  "Barrel length, 8 in. (20.32 cm)",
+  "Caliber, .44 (1.12 cm)"
+ ],
+ "Classification": "Firearms",
+ "Credit Line": "Gift of Mr. and Mrs. Jerry D. Berger, 1983",
+ "Accession Number": "1983.442a–o",
+ "Who": "Samuel Colt",
+ "What": [
+  "Metal",
+  "Textiles",
+  "Copper alloy",
+  "Silver",
+  "Gold",
+  "Arms",
+  "Iron and iron alloy",
+  "Brass",
+  "Iron alloy",
+  "Steel",
+  "Firearms",
+  "Accessories",
+  "Small arms",
+  "Handguns",
+  "Pistols",
+  "Revolvers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Connecticut",
+  "Hartford"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "The Decoration of Arms and Armor",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40003126,
+ "gallery-id": 372,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/DT7559.jpg",
+ "related-artworks": [
+  40003194,
+  40003073,
+  40003088,
+  40003074,
+  40003089
+ ],
+ "Description": "This finely engraved revolver was presented by Samuel Colt to Major Charles Traintor Baker (1821–1881), an officer in the Fifth Regiment of Connecticut Volunteers, at the outbreak of the Civil War.",
+ "Provenance": [
+  "1881, Major Baker's family - Mrs. G. Page Ely (his granddaughter) and her husband - 1965 W. W. Edmunds",
+  "1971, Jerry D. Berger."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40003126"
+  }
+ }
+}

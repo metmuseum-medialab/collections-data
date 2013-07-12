@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1760",
+ "Culture": "British, Staffordshire",
+ "Medium": "Enameled copper",
+ "Dimensions": "1 1/4 x 3 x 2 1/4 in.  (3.2 x 7.6 x 5.7 cm)",
+ "Classification": "Enamels",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.1071",
+ "Who": "Nicolas Lancret",
+ "What": [
+  "Metal",
+  "Copper",
+  "Painting",
+  "Enamels",
+  "Snuff containers",
+  "Snuffboxes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 120008481,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES7746.jpg",
+ "related-artworks": [
+  110003433,
+  110003434,
+  120003737,
+  90004567,
+  90004568
+ ],
+ "Provenance": [
+  "J. Pierpont Morgan"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120008481"
+  }
+ }
+}

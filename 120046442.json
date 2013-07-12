@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1888",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Dimensions": "H. 8 7/8 x W. 6 7/8 inches (22.5 x 17.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Elisa Parada de Migel, 1959",
+ "Accession Number": "59.25.6",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120046442,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/168674.jpg",
+ "related-artworks": [
+  120010267,
+  120027654,
+  120036739,
+  120036837,
+  120036847
+ ],
+ "Provenance": [
+  "Mrs. Elisa Parada de Migel (until 1959",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046442"
+  }
+ }
+}

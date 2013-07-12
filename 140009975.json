@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Geography": "Turkey",
+ "Dimensions": [
+  "H. 83 in. (210.8 cm)",
+  "W. 59 in. (149.9 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Joseph V. McMullan, 1973",
+ "Accession Number": "1974.149.35",
+ "What": [
+  "Textiles",
+  "Rugs",
+  "Carpets"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140009975,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/RT290.jpg",
+ "related-artworks": [
+  140003862,
+  140004717,
+  140004718,
+  140004721,
+  140004722
+ ],
+ "Provenance": [
+  "Joseph V. McMullan, New York (by 1965–d. 1973)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009975"
+  }
+ }
+}

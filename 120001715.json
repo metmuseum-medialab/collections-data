@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Plaster",
+ "Dimensions": "30 x 28 in.  (76.2 x 71.1 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Edward D. Adams, 1892",
+ "Accession Number": "92.19.1",
+ "Who": "Alphonse Legros",
+ "What": [
+  "Costume",
+  "Sculpture",
+  "Plaster",
+  "Masks"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001715,
+ "related-artworks": [
+  120001716,
+  120001717,
+  120024996,
+  90004640,
+  90004638
+ ],
+ "Provenance": [
+  "Edward D. Adams (until 1892",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001715"
+  }
+ }
+}

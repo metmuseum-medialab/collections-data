@@ -1,0 +1,52 @@
+{
+ "Object Name": "Fragment",
+ "Date": "12th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware; underglaze painted in black slip and polychrome pigments under transparent glaze",
+ "Dimensions": [
+  "H. 7 11/16 in. (19.5 cm)",
+  "W. 5 1/8 in. (13 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1940",
+ "Accession Number": "40.170.463",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Fragments",
+  "Pottery",
+  "Earthenware",
+  "Painting",
+  "Glaze",
+  "Underglazing",
+  "Slip"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140007647,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/wb-40.170.463.JPG",
+ "related-artworks": [
+  140007458,
+  140007568,
+  140003920,
+  140012713,
+  140008099
+ ],
+ "Provenance": [
+  "1939, excavated at Tepe Madrasa in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1940, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007647"
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Dimensions": [
+  "L. 13 1/8 x W. 1 3/8 inches",
+  "33.3 x 3.5 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.1488",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Ribbon"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120042259,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP17268.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/DP17268.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP17268_36.90.1488.jpg"
+ ],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120031631"
+   },
+   {
+    "href": "http://scrapi.org/object/120038341"
+   },
+   {
+    "href": "http://scrapi.org/object/120038345"
+   },
+   {
+    "href": "http://scrapi.org/object/120030881"
+   },
+   {
+    "href": "http://scrapi.org/object/120034066"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120042259"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120042259"
+  }
+ }
+}

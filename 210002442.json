@@ -1,0 +1,48 @@
+{
+ "Date": "1977",
+ "Medium": "Painted plaster",
+ "Dimensions": [
+  "H. 37-7/8, W. 26, D. 12 inches",
+  "(96.2 x 66 x 30.5 cm.)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Paul Jenkins, 1981",
+ "Accession Number": "1981.146",
+ "Who": "George Segal",
+ "What": [
+  "Sculpture",
+  "Painting",
+  "Plaster"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210002442,
+ "related-artworks": [
+  "http://scrapi.org/object/210020027",
+  "http://scrapi.org/object/210012692",
+  "http://scrapi.org/object/90037830"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210020027"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210012692"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90037830"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210002442"
+  }
+ }
+}

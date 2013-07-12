@@ -1,0 +1,42 @@
+{
+ "Period": "Final Jōmon period (ca. 1000–300 B.C.) or later",
+ "Culture": "Japan",
+ "Medium": "Earthenware",
+ "Dimensions": [
+  "(a) H. 3/4 in. (1.9 cm); Diam. 1 1/8 in. (2.9 cm)",
+  "b) H. 3/4 in. (1.9 cm); Diam. 1 in. (2.5 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+ "Accession Number": "1975.268.197a, b",
+ "What": [
+  "Costume",
+  "Ceramics",
+  "Pottery",
+  "Jewelry",
+  "Earthenware",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1000 B.C.–1 A.D.",
+ "id": 60024700,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/210396.jpg",
+ "related-artworks": [
+  60004531,
+  60004513,
+  60013371,
+  60013372,
+  60031375
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60024700"
+  }
+ }
+}

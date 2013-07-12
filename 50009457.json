@@ -1,0 +1,57 @@
+{
+ "Date": "20th century",
+ "Geography": "Tanzania",
+ "Culture": "Kami people",
+ "Medium": "Wood, glass beads",
+ "Dimensions": "Length 5-1/4 in.",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Gift of Noble and Jean Endicott, 1993",
+ "Accession Number": "1993.381.4",
+ "What": [
+  "Sculpture",
+  "Glass",
+  "Figures"
+ ],
+ "Where": [
+  "Africa",
+  "Tanzania"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Eastern Africa, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50009457,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1993.381.4.JPG",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ao/original/1993.381.4.JPG",
+  "http://images.metmuseum.org/CRDImages/ao/original/259889.jpg"
+ ],
+ "Provenance": [
+  "Noble A. and Jean Endicott, New York, until 1993"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50009455"
+   },
+   {
+    "href": "http://scrapi.org/object/50009456"
+   },
+   {
+    "href": "http://scrapi.org/object/50009454"
+   },
+   {
+    "href": "http://scrapi.org/object/50011030"
+   },
+   {
+    "href": "http://scrapi.org/object/50015868"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50009457"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50009457"
+  }
+ }
+}

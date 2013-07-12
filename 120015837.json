@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1725, decorated ca. 1735",
+ "Culture": "German (Meissen and Augsburg)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 4 3/4 in. (12.1 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of James A. Lewis and Son, 1950",
+ "Accession Number": "50.127.2a, b",
+ "Who": "Meissen Manufactory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Teapots"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Augsburg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120015837,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/147863.jpg",
+ "related-artworks": [
+  120014212,
+  120016134,
+  120016999,
+  120021127,
+  120021128
+ ],
+ "Provenance": [
+  "James A. Lewis and Son, Inc. (until 1950",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120015837"
+  }
+ }
+}

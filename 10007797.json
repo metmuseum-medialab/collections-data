@@ -1,0 +1,43 @@
+{
+ "Date": "1775–1800",
+ "Geography": "Mid-Atlantic, Philadelphia, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": "L. 7 3/4 in. (19.7 cm)",
+ "Classification": "Silver",
+ "Credit Line": "Gift of Mrs. Amelia B. Lazarus, in memory of Miss Emilie Lazarus, 1895",
+ "Accession Number": "95.1.19",
+ "Who": "John Letelier Sr.",
+ "What": [
+  "Metal",
+  "Silver",
+  "Skewers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Philadelphia"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10007797,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/41654.jpg",
+ "related-artworks": [
+  10007795,
+  10007796,
+  10002787,
+  10008114,
+  10008115
+ ],
+ "Provenance": [
+  "Mrs. Amelia B. Lazarus, until 1895"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10007797"
+  }
+ }
+}

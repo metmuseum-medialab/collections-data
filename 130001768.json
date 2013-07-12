@@ -1,0 +1,42 @@
+{
+ "Period": "Early Hellenistic",
+ "Date": "Early 3rd century B.C.",
+ "Culture": "Greek, Cypriot",
+ "Medium": "Terracotta; mold-made",
+ "Dimensions": "H. 2 11/16 in. (6.8 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.1747",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130001768,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP101792.jpg",
+ "related-artworks": [
+  130007414,
+  130008377,
+  130008372,
+  130008641,
+  130009188
+ ],
+ "Provenance": [
+  "From Cyprus\r\nSaid to be from the temple of Apollo Hylates at Kourion"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130001768"
+  }
+ }
+}

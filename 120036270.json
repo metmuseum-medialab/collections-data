@@ -1,0 +1,43 @@
+{
+ "Date": "19th century (?)",
+ "Culture": "Italian",
+ "Medium": "Needle lace",
+ "Dimensions": "L. 10 x W. 10 inches (25.4 x 25.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Anonymous Gift, 1909",
+ "Accession Number": "09.108",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace",
+  "Headcloths",
+  "Veils",
+  "Chalices",
+  "Chalice veils"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036270,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/6060.jpg",
+ "related-artworks": [
+  120036661,
+  120043938,
+  120035959,
+  120032705,
+  120038854
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036270"
+  }
+ }
+}

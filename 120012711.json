@@ -1,0 +1,43 @@
+{
+ "Date": "ca.1550–75",
+ "Culture": "Italian",
+ "Medium": "Bronze-gilt",
+ "Dimensions": "Diam. 2 3/4 in. (7 cm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Harris Brisbane Dick Fund, 1936",
+ "Accession Number": "36.110.18",
+ "Who": "Pompeo Leoni",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Gilt",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120012711,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/108979.jpg",
+ "related-artworks": [
+  120012712,
+  120010373,
+  120023735
+ ],
+ "Provenance": [
+  "Henry Oppenheimer (until 1936",
+  "Oppenheimer sale, Christie, Manson & Woods, London, July 27, 1936, p. 52, no. 141)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120012711"
+  }
+ }
+}

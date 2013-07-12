@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1753–54",
+ "Medium": "Black ink, gray ink and gray wash",
+ "Dimensions": "sheet 8 13/16 x 13 3/16 in. (22.4 x 33.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.40.1",
+ "Who": "Thomas Chippendale",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Interior Design in England, 1600–1800",
+  "American Rococo",
+  "English Pattern Books in Eighteenth–Century America",
+  "The Lansdowne Dining Room, London",
+  "American Furniture, 1730–1790 Queen Anne and Chippendale Styles",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90065042,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP104160.jpg",
+ "related-artworks": [
+  90065008,
+  90065009,
+  90065010,
+  90065012,
+  90065014
+ ],
+ "Provenance": [
+  "Anderson Galleries, New York(G. D. Smith sale)",
+  "Vendor: E. Weyhe (New York, NY)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90065042"
+  }
+ }
+}

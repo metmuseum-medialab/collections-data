@@ -1,0 +1,36 @@
+{
+ "Date": "1951",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 1959",
+ "Accession Number": "59.652.11",
+ "Who": "Arnold Newman",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190022057,
+ "related-artworks": [
+  190011552,
+  190011553,
+  190011554,
+  190011555,
+  190011556
+ ],
+ "Provenance": [
+  "Arnold Newman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190022057"
+  }
+ }
+}

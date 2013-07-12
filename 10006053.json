@@ -1,0 +1,53 @@
+{
+ "Date": "ca. 1912–15",
+ "Geography": "Midwest, United States",
+ "Culture": "American",
+ "Medium": "White oak",
+ "Dimensions": "35 3/4 x 15 1/2 x 15 1/2 in. (90.8 x 39.4 x 39.4 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Purchase, Emily Crane Chadbourne Bequest, 1972",
+ "Accession Number": "1972.60.11",
+ "Who": "Frank Lloyd Wright",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Oak",
+  "Stands",
+  "Plant stands"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Midwest"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "America Comes of Age 1876–1900",
+  "Design, 1900–25",
+  "Art Nouveau",
+  "Frank Lloyd Wright (1867–1959)",
+  "The Arts and Crafts Movement in America",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10006053,
+ "gallery-id": 745,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/198841.jpg",
+ "related-artworks": [
+  10006054,
+  10004913,
+  10004911,
+  10008169,
+  10008171
+ ],
+ "Provenance": [
+  "Francis W. Little, Peoria, Illinois and Wayzata, Minnesota",
+  "their daughter and son-in-law, Mr. and Mrs. Raymond V. Stevenson, Wayzata, Minnesota, until 1972"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006053"
+  }
+ }
+}

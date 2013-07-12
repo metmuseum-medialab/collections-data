@@ -1,0 +1,68 @@
+{
+ "Artist": "School of Veronese",
+ "Date": "1446",
+ "Culture": "Italian",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 1 5/8 in. (41 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Ogden Mills, 1925",
+ "Accession Number": "25.142.40",
+ "Who": [
+  "Matteo de' Pasti",
+  "Veronese"
+ ],
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010176,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/61769.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120003665",
+  "http://scrapi.org/object/120009822",
+  "http://scrapi.org/object/120009825",
+  "http://scrapi.org/object/120010177",
+  "http://scrapi.org/object/120010229"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/61769.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/61770.jpg"
+ ],
+ "Provenance": [
+  "Fould"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120003665"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120009822"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120009825"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120010177"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120010229"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120010176"
+  }
+ }
+}

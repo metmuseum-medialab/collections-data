@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Bamboo",
+ "Dimensions": "H. with handle 11 3/8 in. (28.9 cm); W. 7 1/2 in. (19.1 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.735",
+ "What": [
+  "Vessels",
+  "Woodwork",
+  "Grass",
+  "Bamboo",
+  "Buckets"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60033217,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/91_1_735.jpg",
+ "related-artworks": [
+  60032293,
+  60032291,
+  60044062,
+  60000147,
+  60000146
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033217"
+  }
+ }
+}

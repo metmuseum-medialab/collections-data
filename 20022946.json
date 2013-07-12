@@ -1,0 +1,36 @@
+{
+ "Date": "1926",
+ "Medium": "Watercolor on ivory",
+ "Dimensions": "4 1/2 x 4 in. (11.4 x 10.2 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Dale T. Johnson Fund, 2008",
+ "Accession Number": "2008.123",
+ "Who": "Mira Edgerly",
+ "What": [
+  "Paintings",
+  "Watercolors",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20022946,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DP162983.jpg",
+ "related-artworks": [
+  20011190,
+  20010536,
+  20011442,
+  20011644
+ ],
+ "Provenance": [
+  "Purchased from North Carolina dealer",
+  "Elle Shushan to Museum, 2008."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20022946"
+  }
+ }
+}

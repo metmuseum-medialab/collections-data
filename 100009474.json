@@ -1,0 +1,40 @@
+{
+ "Period": "Late Period Persian",
+ "Date": "5th-4th Century B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Glass",
+ "Dimensions": "L. 22.2 cm (8 3/4 in.)",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.3029",
+ "What": [
+  "Costume",
+  "Glass",
+  "Jewelry",
+  "Necklaces"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "id": 100009474,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/10.130.3041-3029-gc-shelf.jpg",
+ "related-artworks": [
+  100005313,
+  100009472,
+  100009475,
+  100016813,
+  100016809
+ ],
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100009474"
+  }
+ }
+}

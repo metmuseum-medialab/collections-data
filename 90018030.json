@@ -1,0 +1,34 @@
+{
+ "Publisher": "R. P. & C. Williams (Boston, Massachusetts)",
+ "Date": "1828",
+ "Dimensions": "6 7/8 x 6 7/8 in. (17.5 x 17.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1954",
+ "Accession Number": "54.524.53",
+ "Who": [
+  "Henry Williams",
+  "R. P. & C. Williams"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018030,
+ "related-artworks": [
+  90018031,
+  90057963,
+  90057964,
+  90057965,
+  20013695
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90018030"
+  }
+ }
+}

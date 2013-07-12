@@ -1,0 +1,43 @@
+{
+ "Artist": "Elias Baeck (German, Laybach 1679–1747 Augsburg)",
+ "Publisher": "Albrecht Schmidt (German, active in Augsburg, 18th century (first half))",
+ "Date": "1710-1730 ca.",
+ "Medium": "Etching",
+ "Dimensions": "Plate 3 3/4 x 5 1/4 in. (9.5 x 13.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund 1941",
+ "Accession Number": "41.24.7",
+ "Who": [
+  "Albrecht Schmidt",
+  "Elias Baeck"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90081429,
+ "related-artworks": [
+  90081424,
+  90081426,
+  90081427,
+  90081453,
+  90081430
+ ],
+ "Description": "Rectangular design for the lid of a tobacco box. In the center a compartment with a seascape showing two large boats and one small fishing boat in the foreground. The scene is surrounded by a decorative frame with a small scene of men with items from a ship's freight. On top a trophy with shells, anchors and fish held by a crouching man.",
+ "Provenance": [
+  "Vendor: S. F. C. Smith"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90081429"
+  }
+ }
+}

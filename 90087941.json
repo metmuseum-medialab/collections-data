@@ -1,0 +1,31 @@
+{
+ "Date": "1987",
+ "Medium": "Portfolio of ten pochoirs",
+ "Classification": "Portfolios",
+ "Credit Line": "Gift of Andrew C. Rose, 1989",
+ "Accession Number": "1989.1149",
+ "Who": "James DeWoody",
+ "What": "Portfolios",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90087941,
+ "related-artworks": [
+  210005722,
+  90000938,
+  90009200,
+  90009224
+ ],
+ "Provenance": [
+  "Donor: Andrew C. Rose"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90087941"
+  }
+ }
+}

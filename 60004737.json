@@ -1,0 +1,37 @@
+{
+ "Date": "14th century",
+ "Culture": "Nepal (Kathmandu Valley)",
+ "Medium": "Distemper on wood",
+ "Dimensions": "Overall 1 7/8 x 13 1/16 in. (4.7 x 33.2 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Richard and Peggy Danziger, 1986",
+ "Accession Number": "1986.494.2",
+ "What": [
+  "Paintings",
+  "Manuscripts",
+  "Distemper"
+ ],
+ "Where": [
+  "Asia",
+  "Nepal",
+  "Kathmandu Valley"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Himalayan Region, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60004737,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP102606.jpg",
+ "related-artworks": [
+  60004736,
+  60004734,
+  60004735,
+  60004731,
+  60004963
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60004737"
+  }
+ }
+}

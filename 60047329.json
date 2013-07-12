@@ -1,0 +1,49 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "April 1860",
+ "Culture": "Japan",
+ "Medium": "Triptych of polychrome woodblock prints; ink and color on paper",
+ "Dimensions": [
+  "Image (a) 14 3/8 x 9 5/8 in. (36.5 x 24.4 cm)",
+  "Image (b) 14 1/4 x 9 3/4 in. (36.2 x 24.8 cm)",
+  "Image (c) 14 1/4 x 9 3/8 in. (36.2 x 23.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of William S. Lieberman, 2005",
+ "Accession Number": "2007.49.115a–c",
+ "Who": "Gountei Sadahide",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Triptychs"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60047329,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP147968.jpg",
+ "related-artworks": [
+  60001500,
+  60026184,
+  60026276,
+  60026275,
+  60026405
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60047329"
+  }
+ }
+}

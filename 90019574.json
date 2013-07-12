@@ -1,0 +1,31 @@
+{
+ "Publisher": "Published by Jean-Pierre Louis Laurent Hoüel (French, Rouen 1735–1813 Paris)",
+ "Date": "1803",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.554.5",
+ "Who": "Jean-Pierre Louis Laurent Hoüel",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90019574,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP259082.jpg",
+ "related-artworks": [
+  90013894,
+  90013895,
+  90019573,
+  90004354,
+  90018561
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90019574"
+  }
+ }
+}

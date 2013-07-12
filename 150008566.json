@@ -1,0 +1,29 @@
+{
+ "Medium": "Pine",
+ "Dimensions": "Overall 44 3/4 x 33 in",
+ "Classification": "Frames",
+ "Accession Number": "1975.1.2162",
+ "What": [
+  "Wood",
+  "Softwood",
+  "Pine",
+  "Frames"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Robert Lehman Collection",
+ "MetPublications": "Search for related Met publications",
+ "id": 150008566,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-2162.jpg",
+ "related-artworks": [
+  150007270,
+  150007323,
+  150007344,
+  150007374,
+  150007397
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008566"
+  }
+ }
+}

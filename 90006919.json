@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1774",
+ "Medium": "Brush and brown wash, over traces of graphite.",
+ "Dimensions": "11 5/8 x 11 11/16 in. (29.5 x 29.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harry G. Sperling Fund, 1973",
+ "Accession Number": "1973.317.2",
+ "Who": "François André Vincent",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90006919,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP812266.jpg",
+ "related-artworks": [
+  90000570,
+  90006924,
+  90005995,
+  90006920,
+  90006921
+ ],
+ "Provenance": [
+  "His sale \"vente M. . . \", Paris, November 11-15, 1784, part of lot 165, with two other drawings also \"sur papier blanc et lavés au bistre\"",
+  "\"Le Martyre de Saint Barthelemi, d'après le Calabrois\" (according to J.P. Cuzin, BSHAF, 1981).",
+  "Vendor: Jacques Petithory"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90006919"
+  }
+ }
+}

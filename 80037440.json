@@ -1,0 +1,51 @@
+{
+ "Date": "1880s",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 15 1/2 in. (39.4 cm)",
+ "Credit Line": "Gift of Miss Betty Freese, 1956",
+ "Accession Number": "C.I.56.10.11",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Underwear",
+  "Corsets",
+  "Underbodices",
+  "Corset covers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80037440,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI56.10.11_F.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80008322"
+   },
+   {
+    "href": "http://scrapi.org/object/80037397"
+   },
+   {
+    "href": "http://scrapi.org/object/80067452"
+   },
+   {
+    "href": "http://scrapi.org/object/80096292"
+   },
+   {
+    "href": "http://scrapi.org/object/80114857"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80037440"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80037440"
+  }
+ }
+}

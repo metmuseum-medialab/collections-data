@@ -1,0 +1,37 @@
+{
+ "Date": "1972",
+ "Medium": "Letterpress",
+ "Dimensions": "sheet 25 1/2 x 38 in. (64.8 x 96.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Dr. Joseph I. Singer, 1973",
+ "Accession Number": "1973.665",
+ "Who": "Robert Motherwell",
+ "What": "Prints",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Abstract Expressionism",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90038985,
+ "related-artworks": [
+  90027297,
+  90027298,
+  90038410,
+  90038829,
+  90038830
+ ],
+ "Provenance": [
+  "Donor: Dr. Joseph I. Singer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90038985"
+  }
+ }
+}

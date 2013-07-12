@@ -1,0 +1,39 @@
+{
+ "Date": "second half 19th century",
+ "Geography": "Caucasus, Karabagh",
+ "Medium": "Wool",
+ "Dimensions": "88 in. high (223.4 cm high)",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Joseph V. McMullan, 1973",
+ "Accession Number": "1974.149.6",
+ "What": [
+  "Textiles",
+  "Wool",
+  "Rugs",
+  "Carpets"
+ ],
+ "Where": [
+  "Asia",
+  "Caucasus"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 140009946,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/RT267.jpg",
+ "related-artworks": [
+  140009747,
+  140009947,
+  140009945,
+  140004715,
+  140009657
+ ],
+ "Provenance": [
+  "Joseph V. McMullan, New York (by 1965–d. 1973)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009946"
+  }
+ }
+}

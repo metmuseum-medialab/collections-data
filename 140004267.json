@@ -1,0 +1,41 @@
+{
+ "Date": "9th–10th century",
+ "Geography": "Iran or Iraq",
+ "Medium": "Earthenware; glazed",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.1711",
+ "What": [
+  "Ceramics",
+  "Fragments",
+  "Pottery",
+  "Earthenware",
+  "Glazing"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140004267,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf17-194-1711a.jpg",
+ "related-artworks": [
+  140006266,
+  140007447,
+  140007431,
+  140007468,
+  140007492
+ ],
+ "Provenance": [
+  "J. Pierpont Morgan, New York (by 1903–d. 1913)",
+  "his estate(1913–17)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004267"
+  }
+ }
+}

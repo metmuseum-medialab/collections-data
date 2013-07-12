@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911), Jiaqing period (1796–1820)",
+ "Culture": "China",
+ "Medium": "Black ink",
+ "Dimensions": "W. 1 3/8 in. (3.5 cm); L. 4 in. (10.2 cm)",
+ "Classification": "Ink",
+ "Credit Line": "Rogers Fund, 1929",
+ "Accession Number": "30.76.225",
+ "Who": "Jian Guzhai",
+ "What": [
+  "Ink",
+  "Tablets"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1800–1900 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60009128,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/30_76_225_F.jpg",
+ "related-artworks": [
+  60009119,
+  60009127,
+  60009120,
+  60009121,
+  60009122
+ ],
+ "Description": "This ink tablet is from a sixty-four-tablet set (30.76.216–.279) commissioned by the Jiaqing emperor from the Studio for Appreciating the Antique (Jiangu Zhai) manufactory of the Wang Jinsheng family in Huizhou, Anhui Province. Each ink tablet commemorates a hall or pavilion in one of the imperial gardens. Each site’s name is written in gilt characters on one side; a view of the site is presented on the other. Such inks were purely decorative and not intended for use.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009128"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Lacquer, kinji, brown ishime, incised, takamakie, roiro and togidashi, metal inlay; Interior nashiji and fundame",
+ "Dimensions": "2 15/16 x 2 1/2 x 13/16 in. (7.5 x 6.3 x 2.1 cm)",
+ "Classification": "Inrō",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.67.100",
+ "What": [
+  "Metal",
+  "Lacquer",
+  "Inro",
+  "Sagemono",
+  "Lacquerware",
+  "Kinji"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60029839,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/13_67_100_O5.JPG",
+ "related-artworks": [
+  60030093,
+  60029585,
+  60029583,
+  60029597,
+  60029584
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029839"
+  }
+ }
+}

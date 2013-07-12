@@ -1,0 +1,38 @@
+{
+ "Period": "New Kingdom, Amarna Period",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Akhenaten to Haremhab",
+ "Date": "ca. 1353–1295 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Limestone",
+ "Dimensions": "11 cm (4 5/16 in.)",
+ "Credit Line": "Rogers Fund, 1959",
+ "Accession Number": "59.98",
+ "What": [
+  "Fragments",
+  "Limestone",
+  "Stelae"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100007289,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/59.98_01.jpg",
+ "related-artworks": [
+  100013110,
+  100003303,
+  100003304,
+  100003346,
+  100014610
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100007289"
+  }
+ }
+}

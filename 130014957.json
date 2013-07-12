@@ -1,0 +1,45 @@
+{
+ "Period": "Classical",
+ "Date": "late 5th–early 4th century B.C.",
+ "Culture": "Greek",
+ "Medium": "Jasper, red",
+ "Dimensions": "H. 1 1/4 in. (3.2 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1942",
+ "Accession Number": "42.11.19",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Chalcedony",
+  "Gems",
+  "Jasper",
+  "Scaraboids"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130014957,
+ "gallery-id": 157,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP111396.jpg",
+ "related-artworks": [
+  130008723,
+  130014435,
+  130015124,
+  130014954,
+  130004058
+ ],
+ "Description": "biga (two-horse chariot) turning",
+ "Provenance": [
+  "Said to be from Trikkala, Thessaly"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130014957"
+  }
+ }
+}

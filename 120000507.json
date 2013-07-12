@@ -1,0 +1,43 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian, Venice (Murano)",
+ "Medium": "Glass",
+ "Dimensions": "H. 4 5/8 in.  (11.7 cm); Diam. 4 1/4 in. (10.8 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Henry G. Marquand, 1883",
+ "Accession Number": "83.7.35",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Drinking glasses",
+  "Wine glasses"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000507,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/119031.jpg",
+ "related-artworks": [
+  120000280,
+  120000516,
+  120000191,
+  120000221,
+  120000230
+ ],
+ "Provenance": [
+  "Henry G. Marquand (until 1883",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000507"
+  }
+ }
+}

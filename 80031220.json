@@ -1,0 +1,36 @@
+{
+ "Date": "early 19th century",
+ "Culture": "American (probably)",
+ "Medium": "leather",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. G. C. Fritts, 1942",
+ "Accession Number": "C.I.42.67.25a, b",
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80031220,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI42.67.25ab_F.jpg",
+ "related-artworks": [
+  80013088,
+  80013064,
+  80016920,
+  80024560,
+  80024559
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80031220"
+  }
+ }
+}

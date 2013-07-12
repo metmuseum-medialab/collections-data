@@ -1,0 +1,46 @@
+{
+ "Date": "17th century",
+ "Culture": "Japanese",
+ "Medium": "Bamboo, bone, steel",
+ "Dimensions": [
+  "Length, 37 3/4 (95.89 cm)",
+  "Width, 5 7/8 in. (14.96 cm)"
+ ],
+ "Classification": "Archery Equipment",
+ "Credit Line": "Gift of a Trustee of the Museum, 1917",
+ "Accession Number": "17.207.5",
+ "What": [
+  "Metal",
+  "Arms",
+  "Iron and iron alloy",
+  "Bone",
+  "Iron alloy",
+  "Steel",
+  "Archery",
+  "Grass",
+  "Bamboo",
+  "Arrows",
+  "Quivers"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40000845,
+ "related-artworks": [
+  40002183,
+  40001635,
+  40000316,
+  40000317,
+  40002198
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000845"
+  }
+ }
+}

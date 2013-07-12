@@ -1,0 +1,37 @@
+{
+ "Date": "20th century",
+ "Medium": "Pen and black ink",
+ "Dimensions": "sheet 13 7/8 x 16 3/4 in. (35.2 x 42.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Lincoln Kirstein, 1964",
+ "Accession Number": "64.505.5",
+ "Who": "Pavel Tchelitchew",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90057690,
+ "related-artworks": [
+  90057687,
+  90057688,
+  90057689,
+  90057691,
+  90057694
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90057690"
+  }
+ }
+}

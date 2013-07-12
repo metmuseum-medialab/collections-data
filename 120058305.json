@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1750",
+ "Culture": "Southern German",
+ "Medium": "Carved, gilded and painted wood",
+ "Dimensions": "Each 41 x 21-3/4 x 19-1/4 in.  (104.1 x 55.2 x 48.9 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+ "Accession Number": "1974.356.95",
+ "What": [
+  "Gilt",
+  "Wood",
+  "Furniture",
+  "Painting",
+  "Woodwork",
+  "Seating furniture",
+  "Chairs",
+  "Side chairs"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120058305,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES2329.jpg",
+ "related-artworks": [
+  120049765,
+  120021679,
+  120021700,
+  120058302,
+  120058304
+ ],
+ "Provenance": [
+  "Lesley and Emma Sheafer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120058305"
+  }
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "Object Name": "Tughra",
+ "Reign": "Sultan Suleiman (1520–66)",
+ "Date": "ca. 1555–60",
+ "Geography": "Turkey, Istanbul",
+ "Medium": "Ink, opaque watercolor, and gold on paper",
+ "Dimensions": [
+  "H. 20 1/2 in. (52.1 cm)",
+  "W. 25 3/8 in. (64.5 cm)",
+  "Mat 25 x 30 in. (63.5 x 76.2 cm)"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.149.1",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Gold",
+  "Watercolors",
+  "Manuscripts",
+  "Codices",
+  "Tugra"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey",
+  "Marmara",
+  "Istanbul"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Art of the Ottomans before 1600",
+  "The Nature of Islamic Art",
+  "The Age of Süleyman \"the Magnificent\" (r. 1520–1566)",
+  "Vegetal Patterns in Islamic Art",
+  "Balkan Peninsula, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140006810,
+ "gallery-id": 460,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP251197.jpg",
+ "related-artworks": [
+  140006811,
+  140008631,
+  140008721,
+  140011504,
+  140009411
+ ],
+ "Description": "Raised to a high art form within the Ottoman chancery, the tughra served as the official seal of the sultan. Affixed to every royal edict, this stylized signature is an intricate calligraphic composition comprising the name of the reigning sultan, his father’s name, his title, and the phrase \"the eternally victorious.\" Its bold, gestural line contrasts with the delicate swirling vine-scroll illumination used to ornament the seal.",
+ "Provenance": [
+  "[ E. Beghian, London, until 1938",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140006810"
+  }
+ }
+}

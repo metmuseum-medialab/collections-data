@@ -1,0 +1,31 @@
+{
+ "Date": "1700–1943",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Jessie Rosenfeld, 1943",
+ "Accession Number": "C.I.43.40.9",
+ "What": "Collars",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80051999,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI43.40.9.jpg",
+ "related-artworks": [
+  80051979,
+  80052204,
+  80052174,
+  80052265,
+  80052281
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80051999"
+  }
+ }
+}

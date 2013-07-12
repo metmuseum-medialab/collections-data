@@ -1,0 +1,61 @@
+{
+ "Date": "15th–early 16th century",
+ "Geography": "Mexico, Mesoamerica",
+ "Culture": "Aztec",
+ "Medium": "Basalt, lime mortar",
+ "Dimensions": [
+  "Overall 15 1/4 x 10 x 9 1/4 in. (38.74 x 25.4 x 23.5 cm)",
+  "Other 10 x 9 1/4 in. (25.4 x 23.5 cm)"
+ ],
+ "Classification": "Stone-Sculpture",
+ "Credit Line": "Museum Purchase, 1900",
+ "Accession Number": "00.5.70",
+ "Who": "Aztec",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Figures",
+  "Basalt",
+  "Lime",
+  "Mortar",
+  "Lime mortar"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Mexico, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50000216,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/00.5.70.JPG",
+ "Provenance": [
+  "Louis Petich Collection, New York, before 1893, on loan to Metropolitan Museum of Art, New York, 1894–1900"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50000171"
+   },
+   {
+    "href": "http://scrapi.org/object/50000199"
+   },
+   {
+    "href": "http://scrapi.org/object/50000207"
+   },
+   {
+    "href": "http://scrapi.org/object/50000210"
+   },
+   {
+    "href": "http://scrapi.org/object/50000211"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50000216"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50000216"
+  }
+ }
+}

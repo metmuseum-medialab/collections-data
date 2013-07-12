@@ -1,0 +1,41 @@
+{
+ "Date": "1862",
+ "Medium": "Albumen silver print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Florance Waterbury Bequest, 1970",
+ "Accession Number": "1970.537.14",
+ "Who": "Alexander Gardner",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Carleton Watkins (1829–1916) and the West 1860s–1870s",
+  "Photography and the Civil War, 1861–1865",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190011351,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP116714.jpg",
+ "related-artworks": [
+  190011346,
+  190011362,
+  190011347,
+  190011350,
+  190011357
+ ],
+ "Provenance": [
+  "Harvey Brewer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190011351"
+  }
+ }
+}

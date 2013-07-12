@@ -1,0 +1,38 @@
+{
+ "Period": "Angkor period",
+ "Date": "late 11th–first quarter of the 12th century",
+ "Culture": "Cambodia",
+ "Medium": "Bronze",
+ "Dimensions": "H. 5 3/8 (13.7 cm); W. 2 in. (5.1 cm); D. 2 1/8 in. (5.4 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of The Kronos Collections, 1995",
+ "Accession Number": "1995.570.1",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "Cambodia"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1000–1400 A.D.",
+ "id": 60006081,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1995_570_1.JPG",
+ "related-artworks": [
+  60006077,
+  60006073,
+  60006110,
+  60006264,
+  60006261
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60006081"
+  }
+ }
+}

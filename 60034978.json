@@ -1,0 +1,34 @@
+{
+ "Culture": "China",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1941",
+ "Accession Number": "CP280",
+ "Who": "Xu Xi",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "id": 60034978,
+ "related-artworks": [
+  60034984,
+  60035011,
+  60034541
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60034978"
+  }
+ }
+}

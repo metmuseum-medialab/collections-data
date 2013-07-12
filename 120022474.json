@@ -1,0 +1,52 @@
+{
+ "Artist": "Possibly enameled by Daniel Nikolaus Chodowiecki (German, Danzig 1726–1801 Berlin)",
+ "Date": "1755–60",
+ "Culture": "German (Berlin)",
+ "Medium": "Gold, enamel and diamonds",
+ "Dimensions": "3-3/16 x 2-3/8 x 1-1/2 in.  (8.1 x 6.0 x 3.8 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1976",
+ "Accession Number": "1976.155.3",
+ "Who": [
+  "Daniel Nikolaus Chodowiecki",
+  "Daniel Baudesson"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Gold",
+  "Enamel",
+  "Snuff containers",
+  "Platinum",
+  "Snuffboxes",
+  "Diamond"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Berlin"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120022474,
+ "gallery-id": 545,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES7287.jpg",
+ "related-artworks": [
+  120008623,
+  120008618,
+  120008620
+ ],
+ "Provenance": [
+  "Prince Félix Youssupoff (by 1904)",
+  "George Blumenthal (by 1930)",
+  "Mrs. Meyer Sassoon (by 1938)",
+  "D. Bingham"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022474"
+  }
+ }
+}

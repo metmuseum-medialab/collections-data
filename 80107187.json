@@ -1,0 +1,41 @@
+{
+ "Designer": "Elsa Schiaparelli (Italian, 1890–1973)",
+ "Date": "ca. 1938",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2012; Gift of Arturo and Paul Peralta-Ramos, 1954",
+ "Accession Number": "2009.300.3951",
+ "Who": [
+  "Elsa Schiaparelli",
+  "House of Schiaparelli"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Outerwear",
+  "Coats",
+  "Overcoats",
+  "Evening coats"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80107187,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/54.141.42_CP1.JPG",
+ "related-artworks": [
+  80107041,
+  80107188,
+  80107053,
+  80107980,
+  80107040
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107187"
+  }
+ }
+}

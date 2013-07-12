@@ -1,0 +1,36 @@
+{
+ "Author": "Written by E. F. Weber (German)",
+ "Date": "1836",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1952",
+ "Accession Number": "52.546.12",
+ "Who": [
+  "E. F. Weber",
+  "W. E. Weber"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012263,
+ "related-artworks": [
+  90000525,
+  90000603,
+  90002036,
+  90002416,
+  90003456
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90012263"
+  }
+ }
+}

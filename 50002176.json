@@ -1,0 +1,45 @@
+{
+ "Date": "1967",
+ "Geography": "Canada, Baffin Island, Nunavut",
+ "Culture": "Inuit",
+ "Medium": "Stone",
+ "Dimensions": "H x W x D 8 5/8 x 4 1/4 x 4 1/16 in. (21.9 x 10.8 x 10.3 cm)",
+ "Classification": "Stone-Sculpture",
+ "Credit Line": "Gift of James A. Houston, 1969",
+ "Accession Number": "69.269.43",
+ "Who": [
+  "Eskimo",
+  "Tomassie"
+ ],
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Figures"
+ ],
+ "Where": [
+  "North and Central America",
+  "Canada",
+  "Nunavut",
+  "Baffin Island"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50002176,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/69.269.43.jpg",
+ "related-artworks": [
+  50002040,
+  50002031,
+  50002032,
+  50002041
+ ],
+ "Provenance": [
+  "James A. Houston, New York, until 1969"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50002176"
+  }
+ }
+}

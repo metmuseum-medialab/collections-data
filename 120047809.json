@@ -1,0 +1,36 @@
+{
+ "Date": "late 18th century",
+ "Culture": "French or Italian",
+ "Medium": "Silk",
+ "Dimensions": "Overall 14 x 13 1/2 in. (35.6 x 34.3 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Nanette B. Kelekian, in honor of Olga Raggio, 2002",
+ "Accession Number": "2002.494.92",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120047809,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP103232.jpg",
+ "related-artworks": [
+  120037301,
+  120037794,
+  120037905,
+  120040344,
+  120040785
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120047809"
+  }
+ }
+}

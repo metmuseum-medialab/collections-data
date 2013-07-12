@@ -1,0 +1,36 @@
+{
+ "Period": "Neolithic",
+ "Date": "7th–6th millennium B.C.",
+ "Geography": "Syria",
+ "Medium": "Stone, green",
+ "Dimensions": "1.11 x 0.5 in. (2.82 x 1.27 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Gift of Sheldon and Barbara Breitbart, 1985",
+ "Accession Number": "1985.356.30",
+ "What": [
+  "Stone",
+  "Celts"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30005820,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/vs1985_356_30.jpg",
+ "related-artworks": [
+  30005817,
+  30005818,
+  30005819,
+  30000078,
+  30000079
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30005820"
+  }
+ }
+}

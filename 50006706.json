@@ -1,0 +1,44 @@
+{
+ "Date": "19th–20th century",
+ "Geography": "Nigeria",
+ "Culture": "Yoruba peoples",
+ "Medium": "Wood, pigment",
+ "Dimensions": "H. 6 1/2 x W. 5 7/8 in. (16.5 x 14.9 cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Gift of Dr. and Mrs. Robert J. Sayer in memory of Dr. Milton Gross, 1979",
+ "Accession Number": "1979.525.4",
+ "Who": "Yoruba",
+ "What": [
+  "Costume",
+  "Sculpture",
+  "Masks",
+  "Ceremonial masks"
+ ],
+ "Where": [
+  "Africa",
+  "Nigeria"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Guinea Coast, 1800–1900 A.D.",
+  "Guinea Coast, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50006706,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_525_4.jpg",
+ "related-artworks": [
+  50002640,
+  50002879,
+  50003413,
+  50003555,
+  50006707
+ ],
+ "Provenance": [
+  "Dr. and Mrs. Robert J. Sayer, New York, until 1979"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50006706"
+  }
+ }
+}

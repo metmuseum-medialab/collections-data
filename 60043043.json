@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Silk, metallic thread;  on silk",
+ "Dimensions": "6 1/2 x 7 1/4 in. (16.51 x 18.41 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Nellie B. Hussey, 1942",
+ "Accession Number": "42.115.3",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Embroidery"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043043,
+ "related-artworks": [
+  60043033,
+  60043042,
+  60042114,
+  60042120,
+  60042131
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043043"
+  }
+ }
+}

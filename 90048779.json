@@ -1,0 +1,43 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1935–43",
+ "Medium": "Color Lithograph",
+ "Dimensions": "image 8 x 15 3/4 in. (20.3 x 40 cm) sheet: 12 1/2 x 18 1/2 in. (31.8 x 47 cm)",
+ "Classification": "Prints",
+ "Credit Line": "WPA New York Project, 1943",
+ "Accession Number": "43.47.164",
+ "Who": [
+  "WPA",
+  "Jennie Lewis"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90048779,
+ "related-artworks": [
+  90048781,
+  90048780,
+  90048782,
+  90048776,
+  90048786
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90048779"
+  }
+ }
+}

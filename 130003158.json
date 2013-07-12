@@ -1,0 +1,35 @@
+{
+ "Medium": "Gold",
+ "Dimensions": [
+  "Other (pendant) 7/16 x 3/8 x 1/8 in. (1.1 x 0.9 x 0.3 cm)",
+  "Other (length w/  fused chain) 1 3/8 in. (3.5 cm)"
+ ],
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.3259",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Pendants"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130003158,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/sp74513259.jpg",
+ "related-artworks": [
+  130000051,
+  130003084,
+  130003061,
+  130003088,
+  130003090
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130003158"
+  }
+ }
+}

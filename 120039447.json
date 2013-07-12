@@ -1,0 +1,43 @@
+{
+ "Date": "mid-19th century",
+ "Culture": "Italian (Venice)",
+ "Medium": "Silk",
+ "Dimensions": "L. 28 1/2 inches (72.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1926",
+ "Accession Number": "26.56.133",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Ribbon"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120039447,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/63261.jpg",
+ "related-artworks": [
+  120039446,
+  120039445,
+  120039448,
+  120039449,
+  120039443
+ ],
+ "Provenance": [
+  "[ Barozzi, Inc. , 1925",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120039447"
+  }
+ }
+}

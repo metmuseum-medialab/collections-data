@@ -1,0 +1,42 @@
+{
+ "Period": "Song dynasty (960–1279)",
+ "Culture": "China",
+ "Medium": "Pottery (Jian ware)",
+ "Dimensions": "H. 2 in. (5.1 cm); W. 5 in. (12.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1917",
+ "Accession Number": "17.179.5",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Bowls",
+  "Ritual vessels",
+  "Jian"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 500–1000 A.D.",
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1000–1400 A.D.",
+  "China, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60018694,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/17_179_5_O1_sf.jpg",
+ "related-artworks": [
+  60012272,
+  60015329,
+  60018695,
+  60023607,
+  60025045
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60018694"
+  }
+ }
+}

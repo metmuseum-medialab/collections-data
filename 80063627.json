@@ -1,0 +1,44 @@
+{
+ "Designer": "Philip Treacy (British, born Ireland, 1967)",
+ "Date": "spring/summer 2005",
+ "Culture": "British",
+ "Medium": "cork",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Alfred Z. Solomon-Janet A. Sloane Endowment Fund, 2007",
+ "Accession Number": "2007.307",
+ "Who": [
+  "Alexander McQueen",
+  "Philip Treacy"
+ ],
+ "What": [
+  "Costume",
+  "Headdresses",
+  "Cork"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Costume in The Metropolitan Museum of Art",
+  "The Greek Key and Divine Attributes in Modern Dress",
+  "Great Britain and Ireland, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80063627,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DP156299.jpg",
+ "related-artworks": [
+  80074801,
+  80076978,
+  80000684,
+  80010872,
+  80083342
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80063627"
+  }
+ }
+}

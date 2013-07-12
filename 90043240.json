@@ -1,0 +1,45 @@
+{
+ "Artist": "After Michiel Coxie I (Flemish, Mechelen, Southern Netherlands 1499–1592 Mechelen)",
+ "Date": "16th century",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 7 3/4 x 8 13/16 in. (19.7 x 22.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Grace M. Pugh, 1985",
+ "Accession Number": "1986.1180.234",
+ "Who": [
+  "Master of the Die",
+  "Michiel Coxie I"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Lovers in Italian Mythological Prints",
+  "Poets in Italian Mythological Prints"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90043240,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP824470.jpg",
+ "related-artworks": [
+  90015071,
+  90032407,
+  90034689,
+  90034687,
+  90039837
+ ],
+ "Provenance": [
+  "Donor: Estate of Grace M. Pugh"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90043240"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Publisher": "Published by Carl Reissner",
+ "Editor": "Edited by Romaine Rolland (French, 1866–1944)",
+ "Date": "1929",
+ "Dimensions": "Overall 10 x 7 11/16 x 1/2 in. (25.4 x 19.5 x 1.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1966",
+ "Accession Number": "66.542.21",
+ "Who": [
+  "Frans Masereel",
+  "Romaine Rolland",
+  "Carl Reissner"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021517,
+ "related-artworks": [
+  90021518,
+  90032355,
+  90021924,
+  90042319,
+  90042320
+ ],
+ "Provenance": [
+  "Edward C. Simpson",
+  "Vendor: E. Seligmann"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021517"
+  }
+ }
+}

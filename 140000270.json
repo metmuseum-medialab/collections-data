@@ -1,0 +1,41 @@
+{
+ "Date": "11th–12th century",
+ "Geography": "Iraq or Syria",
+ "Medium": "Earthenware; stamped, incised, unglazed",
+ "Dimensions": [
+  "H. 4 13/16 in. (12.2 cm)",
+  "Max. Diam. 3 5/8 in. (9.2 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Accession Number": "83.3.151",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Earthenware",
+  "Jars",
+  "Stamping"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140000270,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf83-3-151.jpg",
+ "related-artworks": [
+  140000004,
+  140004067,
+  140005951,
+  140006784,
+  140008998
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140000270"
+  }
+ }
+}

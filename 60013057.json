@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1771",
+ "Culture": "Japan",
+ "Medium": "Bound book of polychrome woodblock prints; ink and color on paper",
+ "Dimensions": "Overall 9 3/4 x 14 7/8 in. (24.8 x 37.8 cm)",
+ "Classification": "Illustrated Books",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "JIB37",
+ "Who": "Utagawa Toyohiro",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Books",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60013057,
+ "related-artworks": [
+  60026028,
+  60025118,
+  60025549,
+  60026024,
+  60026025
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60013057"
+  }
+ }
+}

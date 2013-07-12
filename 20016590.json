@@ -1,0 +1,40 @@
+{
+ "Date": "1890",
+ "Medium": "Graphite on wove paper",
+ "Dimensions": "4 3/4 x 7 3/4 in. (12.1 x 19.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Marguerite H. Rohlfs, 1995",
+ "Accession Number": "1995.379.4m verso",
+ "Who": "Albert Bierstadt",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite",
+  "Wove paper"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "America Comes of Age 1876–1900",
+  "The Hudson River School",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "id": 20016590,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/260786.jpg",
+ "related-artworks": [
+  20013379,
+  20016566,
+  20016593,
+  20016569,
+  20016594
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20016590"
+  }
+ }
+}

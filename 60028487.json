@@ -1,0 +1,46 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Japan",
+ "Medium": "Two paintings mounted together; ink on paper",
+ "Dimensions": [
+  "Left painting 7 11/16 x 5 1/2 in. (19.5 x 14 cm)",
+  "Right painting 7 3/4 x 5 1/2 in. (19.7 x 14 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Annette Young, in memory of her brother, Innis Young, 1956",
+ "Accession Number": "56.121.41",
+ "Who": "Katsushika Hokusai",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Japonisme",
+  "Art of the Pleasure Quarters and the Ukiyo–e Style",
+  "Art of the Edo Period (1615–1868)",
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60028487,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/56_121_41_162331.jpg",
+ "related-artworks": [
+  60007095,
+  60012304,
+  60013680,
+  60013681,
+  60019505
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028487"
+  }
+ }
+}

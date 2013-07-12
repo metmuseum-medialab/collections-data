@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "18th–19th century",
+ "Culture": "China",
+ "Medium": "Porcelaneous stoneware",
+ "Dimensions": "Diam. 5 1/2 in. (14 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973",
+ "Accession Number": "1974.356.59",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Bowls",
+  "Stoneware"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1800–1900 A.D.",
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60021305,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/204734.jpg",
+ "related-artworks": [
+  60009802,
+  60009925,
+  60009914,
+  60009943,
+  60015938
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60021305"
+  }
+ }
+}

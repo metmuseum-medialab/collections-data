@@ -1,0 +1,43 @@
+{
+ "Date": "20th century",
+ "Geography": "Democratic Republic of the Congo, Sankuru River region",
+ "Culture": "Kuba peoples",
+ "Medium": "Raffia palm fiber",
+ "Dimensions": "H x W 17 x 47 in. (43.2 x 119.4 cm)",
+ "Classification": "Textiles-Woven",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.114h",
+ "Who": "Yeye",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Panels",
+  "Plant fiber",
+  "Raffia"
+ ],
+ "Where": [
+  "Africa",
+  "Democratic Republic of the Congo"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central Africa, 1900 A.D.–present",
+ "id": 50004905,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_206_114h.jpg",
+ "related-artworks": [
+  50004906,
+  50004899,
+  50004900,
+  50004902,
+  50004901
+ ],
+ "Provenance": [
+  "[Julius Carlebach Gallery, New York, until 1959]",
+  "Nelson A. Rockefeller, New York, 1959, on loan to The Museum of Primitive Art, New York, 1959–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50004905"
+  }
+ }
+}

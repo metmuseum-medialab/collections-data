@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1880",
+ "Culture": "British, Staffordshire",
+ "Medium": "Lead-glazed earthenware",
+ "Dimensions": [
+  ".797 11 1/4 x 7 1/2 in.  (28.6 x 19.1 cm)",
+  ".798 10 3/4 x 8 in. (27.3 x 20.3 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.797,798",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Lighting devices",
+  "Ceramic glaze",
+  "Candleholders",
+  "Candlesticks",
+  "Lead glaze"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 120019146,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/210291.jpg",
+ "related-artworks": [
+  120014643,
+  120012432,
+  120014618,
+  120021875,
+  120021876
+ ],
+ "Provenance": [
+  "Wadsworth Lewis",
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019146"
+  }
+ }
+}

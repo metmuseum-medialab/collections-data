@@ -1,0 +1,40 @@
+{
+ "Date": "1750–55",
+ "Culture": "British, Bow",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. 4 3/4 in. (12.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Irwin Untermyer, 1973",
+ "Accession Number": "1974.28.138",
+ "Who": "Bow",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Figures",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021581,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/209984.jpg",
+ "related-artworks": [
+  120007500,
+  120014980,
+  120019078,
+  120021253,
+  120050082
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021581"
+  }
+ }
+}

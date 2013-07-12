@@ -1,0 +1,36 @@
+{
+ "Date": "1850s",
+ "Culture": "American",
+ "Medium": "cotton, linen",
+ "Dimensions": "Length at CB 42 in. (106.7 cm)",
+ "Credit Line": "Purchase, Friends of The Costume Institute Gifts, 1978",
+ "Accession Number": "1978.88.11",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Linen",
+  "Trousers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80013812,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.88.11_F.jpg",
+ "related-artworks": [
+  80013813,
+  80013811,
+  80013809,
+  80013810,
+  80013808
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80013812"
+  }
+ }
+}

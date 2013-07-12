@@ -1,0 +1,49 @@
+{
+ "Artist": "Workshop of Artists of Mariwai Village",
+ "Date": "1970",
+ "Geography": "Papua New Guinea, Washkuk Hills, Mariwai village, Upper Sepik River",
+ "Culture": "Kwoma people",
+ "Medium": "Sago palm spathe, paint",
+ "Dimensions": "H. 56 3/4 x W.16 in. (144.1 x 40.6 cm)",
+ "Classification": "Bark-Paintings",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Purchase, Mrs. Gertrud A. Mellon Gift, and Mr. and Mrs. Alan Brandt Gift in memory of Jacob J. Brandt, 1974",
+ "Accession Number": "1978.412.1618",
+ "Who": [
+  "Artists of Mariwai Village",
+  "Sakwal, Amachi Kalaba"
+ ],
+ "What": [
+  "Paintings",
+  "Palm leaf",
+  "Bark paintings"
+ ],
+ "Where": [
+  "Oceania",
+  "Papua New Guinea",
+  "East Sepik",
+  "Sepik"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Melanesia, 1900 A.D.–present",
+ "id": 50004618,
+ "gallery-id": 354,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DP152657.jpg",
+ "related-artworks": [
+  50002439,
+  50002683,
+  50002687,
+  50004242,
+  50004629
+ ],
+ "Provenance": [
+  "Created  Mariwai village, 1970",
+  "[Staempfli Gallery, New York, until 1974]",
+  "Museum of Primitive Art, New York, 1974–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50004618"
+  }
+ }
+}

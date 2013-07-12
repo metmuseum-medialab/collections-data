@@ -1,0 +1,42 @@
+{
+ "Date": "10th–early 16th century",
+ "Geography": "Mexico, Mesoamerica",
+ "Culture": "Mexican",
+ "Medium": "Ceramic",
+ "Dimensions": "Diameter 19/32 in.",
+ "Classification": "Ceramics-Implements",
+ "Credit Line": "Museum Purchase, 1900",
+ "Accession Number": "00.5.927",
+ "What": [
+  "Ceramics",
+  "Spindles",
+  "Whorls"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico, 1400–1600 A.D.",
+  "Mexico, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50000292,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/00.5.927.jpg",
+ "related-artworks": [
+  50000115,
+  50000117,
+  50000120,
+  50000125,
+  50000136
+ ],
+ "Provenance": [
+  "Louis Petich Collection, New York, before 1893–1900, on loan to Metropolitan Museum of Art, New York, 1894–1900"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000292"
+  }
+ }
+}

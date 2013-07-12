@@ -1,0 +1,66 @@
+{
+ "Engraver": "J. Hawkins (British, active early 19th century)",
+ "Artist": "After William Deeble (British, 1791 - 1861)",
+ "Publisher": "Sherwood, Neely and Jones (London)",
+ "Printer": "Coe (London)",
+ "Date": "1813",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 8 9/16 x 5 5/16 x 13/16 in. (21.8 x 13.5 x 2.1 cm) each volume",
+ "Classification": "Books",
+ "Credit Line": "Bequest of Helen W. D. Mileham, 1955",
+ "Accession Number": "55.578.4",
+ "Who": [
+  "Samuel Prout",
+  "James Storer",
+  "John Greig",
+  "Coe",
+  "J. Carpenter",
+  "Sherwood, Neely  Jones",
+  "Wm. Clarke",
+  "J. M. Richardson",
+  "John Charles Varrall",
+  "Thomas Higham",
+  "William T. Woolnoth",
+  "Henry Gastineau",
+  "John Hawkesworth",
+  "John Mayle Whichelo",
+  "William Deeble",
+  "H. Summons",
+  "Miss. H. S. A. Horton",
+  "J. Roe",
+  "Philip Crocker",
+  "J. Hawkins",
+  "J. Tyrrell",
+  "James Conder",
+  "James Gillispie",
+  "James Hakewill",
+  "S. Tyrrell",
+  "T. Thackwell",
+  "Walden Henry Hanmer"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90084823,
+ "related-artworks": [
+  90012334,
+  90015467,
+  90015469,
+  90037854,
+  90082508
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90084823"
+  }
+ }
+}

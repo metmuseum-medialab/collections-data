@@ -1,0 +1,34 @@
+{
+ "Date": "18th century",
+ "Culture": "Greek",
+ "Medium": "cotton, silk",
+ "Dimensions": "Length 24 in. (61 cm)",
+ "Credit Line": "Mrs. Frank Hall Scott, 1923",
+ "Accession Number": "23.275.3",
+ "What": [
+  "Silk",
+  "Cotton"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80007427,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/23.275.3_F.jpg",
+ "related-artworks": [
+  80007422,
+  80029494,
+  80007401,
+  80007403,
+  80007407
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007427"
+  }
+ }
+}

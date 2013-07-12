@@ -1,0 +1,46 @@
+{
+ "Period": "Classical",
+ "Date": "450–400 B.C.",
+ "Culture": "Etruscan",
+ "Medium": "Bronze",
+ "Dimensions": [
+  "H. 3 9/16 in. (9 cm)",
+  "diameter of mouth  2 3/16 in. (5.6 cm)"
+ ],
+ "Classification": "Bronzes",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.160.5",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Drinking vessels",
+  "Cups"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009125,
+ "gallery-id": 170,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP20465.jpg",
+ "related-artworks": [
+  130009124,
+  130009126,
+  130008632,
+  130009127,
+  130008451
+ ],
+ "Provenance": [
+  "Said to be from Civita Castellana"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009125"
+  }
+ }
+}

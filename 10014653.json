@@ -1,0 +1,47 @@
+{
+ "Date": "1798",
+ "Geography": "New England, Salem, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Embroidered silk on linen/wool",
+ "Dimensions": "18 1/4 x 15 in. (46.4 x 38.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Barbara Schiff Sinauer, 1984",
+ "Accession Number": "1984.331.1",
+ "Who": "Priscilla T. Glover",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Wool",
+  "Linen",
+  "Embroidery",
+  "Samplers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Salem"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10014653,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/AR366.jpg",
+ "related-artworks": [
+  10014660,
+  10014632,
+  10014646,
+  10014155,
+  10014658
+ ],
+ "Provenance": [
+  "Barbara Schiff Sinauer, New York, died 1984"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014653"
+  }
+ }
+}

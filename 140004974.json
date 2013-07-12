@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Geography": "Iran, probably Feraghan",
+ "Medium": "Cotton (warp), wool (weft and pile); asymmetrically knotted pile",
+ "Dimensions": [
+  "H. 6 1/4 in. (15.9 cm)",
+  "W. 5 in. (12.7 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1923",
+ "Accession Number": "23.211.29",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Cotton",
+  "Wool",
+  "Rugs"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran (Persia), 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140004974,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/54428.jpg",
+ "related-artworks": [
+  140003058,
+  140004979,
+  140004980,
+  140004984,
+  140009944
+ ],
+ "Provenance": [
+  "H. Chamalian, Leonia, NJ (until 1923)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004974"
+  }
+ }
+}

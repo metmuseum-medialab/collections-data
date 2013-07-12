@@ -1,0 +1,39 @@
+{
+ "Date": "late 1950s–early 1960s",
+ "Culture": "French",
+ "Medium": "metal, glass",
+ "Dimensions": [
+  "Length (a) 16 1/4 in. (41.3 cm)",
+  "Height (a, b) 1 3/4 in. (4.4 cm)"
+ ],
+ "Credit Line": "Gift of Bernice Chrysler Garbisch, 1978",
+ "Accession Number": "1978.160.2a–c",
+ "What": [
+  "Metal",
+  "Costume",
+  "Glass",
+  "Jewelry"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80038533,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.160.2a–c.jpg",
+ "related-artworks": [
+  80004608,
+  80004950,
+  80004951,
+  80027421,
+  80028512
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80038533"
+  }
+ }
+}

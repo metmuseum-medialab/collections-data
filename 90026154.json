@@ -1,0 +1,35 @@
+{
+ "Author": "William F. Ufford (American, first half 20th century)",
+ "Publisher": "Bruning (American)",
+ "Date": "1930",
+ "Classification": "Books",
+ "Credit Line": "Museum accession, 1930",
+ "Accession Number": "30.134",
+ "Who": [
+  "Bruning",
+  "Helen Ufford",
+  "William F. Ufford"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90026154,
+ "related-artworks": [
+  90011622,
+  90011827,
+  90012128,
+  90012162,
+  90012168
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026154"
+  }
+ }
+}

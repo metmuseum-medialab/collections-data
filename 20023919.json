@@ -1,0 +1,48 @@
+{
+ "Date": "1918, cast 1918",
+ "Medium": "Bronze",
+ "Dimensions": "33 x 26 x 8 3/4 in. (83.8 x 66 x 22.2 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Friends of the American Wing Fund, Mr. and Mrs. S. Parker Gilbert Gift, Morris K. Jesup and 2004 Benefit Funds, 2010",
+ "Accession Number": "2010.73",
+ "Who": "James Earle Fraser",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "Bronze Statuettes of the American West, 1850–1915",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20023919,
+ "gallery-id": 765,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DP227273.jpg",
+ "related-artworks": [
+  20022219,
+  210000704,
+  210008931,
+  210017871,
+  210000848
+ ],
+ "Provenance": [
+  "F. E. Drake, Cleveland, Ohio, by 1919",
+  "Kennedy Galleries, New York",
+  "private collection, Wichita, Kansas, until 2004",
+  "Gerald and Kathleen Peters, Jackson Hole, Wyoming, 2004-9",
+  "Gerald Peters Gallery, New York, 2009-present."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20023919"
+  }
+ }
+}

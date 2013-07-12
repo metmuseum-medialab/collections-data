@@ -1,0 +1,40 @@
+{
+ "Date": "1999",
+ "Medium": "Intaglio",
+ "Dimensions": "30 1/2 x 45 3/4 in. (77.5 x 116.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Reba and Dave Williams Gift, 2002",
+ "Accession Number": "2002.114.7",
+ "Who": "Robert Rauschenberg",
+ "What": [
+  "Prints",
+  "Intaglio prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Jasper Johns (born 1930)",
+  "Conceptual Art and Photography",
+  "Photography in the Expanded Field Painting, Performance, and the Neo–Avant–Garde",
+  "The Postwar Print Renaissance in America",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210013895,
+ "related-artworks": [
+  210013889,
+  210013891,
+  210013890,
+  210013893,
+  210013897
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210013895"
+  }
+ }
+}

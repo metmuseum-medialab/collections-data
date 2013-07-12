@@ -1,0 +1,46 @@
+{
+ "Date": "17th century",
+ "Geography": "Iran",
+ "Medium": "Silk on wool",
+ "Dimensions": [
+  "H. 39 in. (99.1 cm)",
+  "W. 20.00 in.  (50.8 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.173.9",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Wool",
+  "Embroidery"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140002493,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/4435.jpg",
+ "related-artworks": [
+  140002490,
+  140002491,
+  140002492,
+  140002494,
+  140003066
+ ],
+ "Provenance": [
+  "[ Indjoudjian Frères, Paris, until 1908",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140002493"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Period": "Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "Culture": "China",
+ "Medium": "Porcelain painted in famille verte enamels",
+ "Dimensions": "H. 17 in. (43.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.238",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Vases",
+  "Painting",
+  "Enamels",
+  "Famille"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60022972,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/23478.jpg",
+ "related-artworks": [
+  60009672,
+  60009752,
+  60009753,
+  60016242,
+  60019216
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60022972"
+  }
+ }
+}

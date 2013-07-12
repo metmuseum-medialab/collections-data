@@ -1,0 +1,43 @@
+{
+ "Date": "5th–14th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Silver",
+ "Classification": "Coins",
+ "Credit Line": "Rogers Fund, 1939",
+ "Accession Number": "39.40.127.185",
+ "What": [
+  "Metal",
+  "Silver",
+  "Money",
+  "Coins"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 1–500A.D.",
+  "Iran, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140015609,
+ "related-artworks": [
+  140015460,
+  140015472,
+  140015475,
+  140015476,
+  140015478
+ ],
+ "Provenance": [
+  "1938, excavated at Kiln area in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1939, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140015609"
+  }
+ }
+}

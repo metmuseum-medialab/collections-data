@@ -1,0 +1,52 @@
+{
+ "Date": "1951",
+ "Medium": "Lithograph",
+ "Dimensions": "Sheet 11 15/16 × 10 5/16 in. (30.3 × 26.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Dorothy Noyes Arms and John Taylor Arms Memorial Collection, Gift of The Society of American Graphic Artists Inc., 1955",
+ "Accession Number": "55.553.194",
+ "Who": "George Biddle",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90105235,
+ "related-artworks": [
+  "http://scrapi.org/object/90062884",
+  "http://scrapi.org/object/210008064",
+  "http://scrapi.org/object/210009174",
+  "http://scrapi.org/object/210009942"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Donor: The Society of American Graphic Artists"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90062884"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210008064"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210009174"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210009942"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90105235"
+  }
+ }
+}

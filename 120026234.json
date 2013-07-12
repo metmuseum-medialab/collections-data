@@ -1,0 +1,41 @@
+{
+ "Date": "18th century",
+ "Culture": "British",
+ "Medium": "Mahogany",
+ "Dimensions": "L. 41 in.  (104.1 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of T. Crowther and Son, 1932",
+ "Accession Number": "32.124",
+ "What": [
+  "Fragments",
+  "Wood",
+  "Woodwork",
+  "Mahogany"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120026234,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/90125.jpg",
+ "related-artworks": [
+  120005708,
+  120006101,
+  120006231,
+  120006237,
+  120006368
+ ],
+ "Provenance": [
+  "Basildon Park, Pangbourne, near Reading, Berkshire, EnglandT. Crowther and Son (until 1932",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120026234"
+  }
+ }
+}

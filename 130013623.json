@@ -1,0 +1,35 @@
+{
+ "Culture": "Roman",
+ "Medium": "Bronze",
+ "Dimensions": "H. 3/4 x 2 x 5/16 in. (1.9 x 5.1 x 0.8 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.115.84",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Pins",
+  "Fibulae"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013623,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP20766.jpg",
+ "related-artworks": [
+  130004912,
+  130006802,
+  130008454,
+  130009499,
+  130016521
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013623"
+  }
+ }
+}

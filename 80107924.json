@@ -1,0 +1,35 @@
+{
+ "Date": "third quarter 19th century",
+ "Culture": "American",
+ "Medium": "Wool",
+ "Dimensions": "52 x 116 in. (132.1 x 294.6 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Alvah E. Reed, 1966",
+ "Accession Number": "2009.300.5494",
+ "What": [
+  "Costume",
+  "Wool",
+  "Outerwear",
+  "Shawls"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80107924,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/66.20.57_CP2.jpg",
+ "related-artworks": [
+  80095203,
+  80107312,
+  80107702,
+  80107740,
+  80107997
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107924"
+  }
+ }
+}

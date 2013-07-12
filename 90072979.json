@@ -1,0 +1,52 @@
+{
+ "Date": "May 1934",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "sheet 13 3/8 x 17 3/8 in. (34 x 44.2 cm)",
+  "image 9 3/16 x 13 3/8 in. (23.4 x 34 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Harris Brisbane Dick Fund, 1943",
+ "Accession Number": "43.20.16",
+ "Who": "Prentiss (Hottel) Taylor",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90072979,
+ "related-artworks": [
+  "http://scrapi.org/object/90072981",
+  "http://scrapi.org/object/90072982",
+  "http://scrapi.org/object/90072984",
+  "http://scrapi.org/object/90072985"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90072981"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90072982"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90072984"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90072985"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90072979"
+  }
+ }
+}

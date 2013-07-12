@@ -1,0 +1,31 @@
+{
+ "Date": "1700–1937",
+ "Culture": "American or European",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Irene Lewisohn, 1937",
+ "Accession Number": "C.I.37.46.169",
+ "What": [
+  "Pins",
+  "Hatpins"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80049456,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI37.46.169.jpg",
+ "related-artworks": [
+  80017750,
+  80029602,
+  80029605,
+  80048015,
+  80048014
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80049456"
+  }
+ }
+}

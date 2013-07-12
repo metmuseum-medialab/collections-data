@@ -1,0 +1,42 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Medium": "Graphite, pen and ink with watercolor",
+ "Dimensions": "sheet 17 1/2 x 12 in. (44.5 x 30.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Exchange, Royal Institute of British Architects, 1960",
+ "Accession Number": "60.724.21",
+ "Who": "Ernest Geldart",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1800–1900 A.D.",
+  "Great Britain and Ireland, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90034251,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP805739.jpg",
+ "related-artworks": [
+  90028519,
+  90034237,
+  90034238,
+  90034241,
+  90034239
+ ],
+ "Provenance": [
+  "Donor: by exchange, Royal Institute of British Architects"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90034251"
+  }
+ }
+}

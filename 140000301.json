@@ -1,0 +1,45 @@
+{
+ "Date": "18th–19th century",
+ "Geography": "Iran",
+ "Medium": "Glass; blown with applied decoration, tooled on the pontil, cold-painted",
+ "Dimensions": [
+  "H. 6 7/8 in. (17.4 cm)",
+  "Diam. 3 3/16 in. (8.1 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Gift of Henry G. Marquand, 1883",
+ "Accession Number": "83.7.246",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Painting",
+  "Ewers"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran (Persia), 1800–1900 A.D.",
+  "Iran, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140000301,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf83-7-246a.jpg",
+ "related-artworks": [
+  140000300,
+  140000307,
+  140000308,
+  140001916,
+  140001983
+ ],
+ "Provenance": [
+  "Henry G. Marquand, New York (until 1883)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140000301"
+  }
+ }
+}

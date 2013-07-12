@@ -1,0 +1,55 @@
+{
+ "Date": "ca. 1620",
+ "Culture": "Spanish",
+ "Classification": "Swords",
+ "Credit Line": "Rogers Fund, 1904",
+ "Accession Number": "04.3.22",
+ "What": [
+  "Costume",
+  "Arms",
+  "Edged weapons",
+  "Dresses",
+  "Swords",
+  "Rapiers"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40003335,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/173987.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/aa/original/173987.jpg",
+  "http://images.metmuseum.org/CRDImages/aa/original/6010.jpg",
+  "http://images.metmuseum.org/CRDImages/aa/original/173986.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40003328"
+   },
+   {
+    "href": "http://scrapi.org/object/40003324"
+   },
+   {
+    "href": "http://scrapi.org/object/40005713"
+   },
+   {
+    "href": "http://scrapi.org/object/40005719"
+   },
+   {
+    "href": "http://scrapi.org/object/40005720"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40003335"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40003335"
+  }
+ }
+}

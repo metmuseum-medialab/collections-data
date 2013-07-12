@@ -1,0 +1,41 @@
+{
+ "Period": "Classical",
+ "Date": "ca. 460 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": "H. 8 3/4 in. (22.3 cm); diameter  2 5/16 in. (5.9 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1941",
+ "Accession Number": "41.162.67",
+ "Who": "Beth Pelet Painter",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Alabastra"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130014734,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP226807.jpg",
+ "related-artworks": [
+  130014777,
+  130001401,
+  130001443,
+  130005324
+ ],
+ "Description": "Obverse, upper zone, women at home; lower zone, youth pursuing womanReverse, upper and lower zones, women at homeIn Attic pottery of the fifth century B.C., the phenomenon of superposed or concentric rows of decoration occasionally appears. It is best represented on kraters, among the large shapes; on cups and bobbins, among vases with a circular format; and on alabastra. The iconography of this alabastron resembles that of many pyxides (boxes with lids)—the confinement of the home and the seductions of the world beyond.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130014734"
+  }
+ }
+}

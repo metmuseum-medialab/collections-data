@@ -1,0 +1,63 @@
+{
+ "Date": "1770–1800",
+ "Geography": "New England, Guilford, Connecticut, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": "L. 5 3/8 in. (13.7 cm)",
+ "Classification": "Silver",
+ "Credit Line": "Bequest of Alphonso T. Clearwater, 1933",
+ "Accession Number": "33.120.463",
+ "Who": "Samuel Parmelee",
+ "What": [
+  "Metal",
+  "Silver",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Connecticut",
+  "Guilford"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10008730,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/97952.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ad/original/97952.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/DP253780.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/DP254083.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/DP254084.jpg"
+ ],
+ "Provenance": [
+  "Alphonso T. Clearwater, Kingston, New York, until died 1933"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10002038"
+   },
+   {
+    "href": "http://scrapi.org/object/10002077"
+   },
+   {
+    "href": "http://scrapi.org/object/10002083"
+   },
+   {
+    "href": "http://scrapi.org/object/10003044"
+   },
+   {
+    "href": "http://scrapi.org/object/10002040"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10008730"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10008730"
+  }
+ }
+}

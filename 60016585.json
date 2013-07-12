@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Clay covered with a transparent crackled glaze and decorated under the glaze; Kiyomizu ware)",
+ "Dimensions": "H. 7 1/4 in. (18.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Samuel Colman, 1893",
+ "Accession Number": "93.1.167",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Glaze",
+  "Bottles"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60016585,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/16265.jpg",
+ "related-artworks": [
+  60016416,
+  60016457,
+  60016477,
+  60016541,
+  60016619
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60016585"
+  }
+ }
+}

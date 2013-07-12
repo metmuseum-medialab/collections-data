@@ -1,0 +1,49 @@
+{
+ "Artist": "After Gaspard Colignon (French, 17th century)",
+ "Publisher": "François Joullain (French, Paris 1697–1778 Paris)",
+ "Date": "1770",
+ "Medium": "Etching and engraving; fourth state four (Bocher)",
+ "Dimensions": [
+  "Mount 10 9/16 × 6 3/4 in. (26.8 × 17.1 cm)",
+  "Sheet 7 9/16 × 5 1/8 in. (19.2 × 13 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.3434",
+ "Who": [
+  "Augustin de Saint-Aubin",
+  "Charles Nicolas Cochin II",
+  "François Joullain",
+  "Gaspard Colignon"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90098452,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP828983.jpg",
+ "related-artworks": [
+  90013885,
+  90028269,
+  90042443,
+  90060541,
+  90063255
+ ],
+ "Provenance": [
+  "Princes of Liechtenstein, Vaduz and Vienna",
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90098452"
+  }
+ }
+}

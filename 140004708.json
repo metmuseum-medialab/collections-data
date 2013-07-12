@@ -1,0 +1,33 @@
+{
+ "Object Name": "Figure",
+ "Date": "?",
+ "Medium": "Stone",
+ "Classification": "Sculpture",
+ "Credit Line": "Bequest of Michael Dreicer, 1921",
+ "Accession Number": "22.60.5",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Figures"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Islamic Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 140004708,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf22-60-65a.jpg",
+ "related-artworks": [
+  140014539,
+  140014556,
+  140001576,
+  140014400,
+  140003158
+ ],
+ "Provenance": [
+  "Michael Dreicer, New York (until 1922)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004708"
+  }
+ }
+}

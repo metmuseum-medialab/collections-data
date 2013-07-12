@@ -1,0 +1,44 @@
+{
+ "Period": "Imperial",
+ "Date": "2nd–3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Gold, garnet",
+ "Dimensions": [
+  "Other (.84) 3/8 × 1/4 × 1 15/16 in. (1 × 0.7 × 5 cm)",
+  "Other (.85) 3/8 × 3/16 × 2 in. (0.9 × 0.5 × 5.1 cm)"
+ ],
+ "Classification": "Gold and Silver",
+ "Credit Line": "Rogers Fund, 1921",
+ "Accession Number": "21.88.84, .85",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Gold",
+  "Jewelry",
+  "Pendants",
+  "Ear ornaments",
+  "Earrings",
+  "Garnet"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011514,
+ "related-artworks": [
+  130011476,
+  130007276,
+  130003629,
+  130003634,
+  130003854
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011514"
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "Date": "1700–1943",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. J. N. Thorne, 1943",
+ "Accession Number": "C.I.43.44.23a, b",
+ "What": "Cuffs",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The United States, 1600–1800 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80052715,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI43.44.23ab.jpg",
+ "related-artworks": [
+  80024655,
+  80024656,
+  80031673,
+  80047791,
+  80047792
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052715"
+  }
+ }
+}

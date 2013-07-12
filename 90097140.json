@@ -1,0 +1,46 @@
+{
+ "Printer": "Georges Visat, Paris (French)",
+ "Publisher": "L'oeuvre gravée, Bern",
+ "Date": "1965",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Plate 12 3/16 x 9 5/8 in. (31 x 24.5 cm)",
+  "Sheet 25 9/16 x 19 11/16 in. (65 x 50 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "John B. Turner Fund, 1966",
+ "Accession Number": "66.517.2",
+ "Who": [
+  "Roberto Matta",
+  "Georges Visat, Paris",
+  "L'oeuvre gravée, Bern"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "South America",
+  "Chile"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "South America, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90097140,
+ "related-artworks": [
+  90049607,
+  90097052,
+  90020181,
+  210002398,
+  210006622
+ ],
+ "Provenance": [
+  "Vendor: Zegri Gallery"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90097140"
+  }
+ }
+}

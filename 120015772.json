@@ -1,0 +1,51 @@
+{
+ "Date": "1713–15",
+ "Culture": "German (Augsburg)",
+ "Medium": "Silver gilt",
+ "Dimensions": [
+  "4 1/4 x 5 1/2 x 9 1/4 in.  (10.8 x 14.0 x 23.5 cm)",
+  "(Measurements incl. handles)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of James Hazen Hyde, 1949",
+ "Accession Number": "49.15.1a, b, .2",
+ "Who": "Ludwig Schneider",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Dishes",
+  "Plates",
+  "Écuelles"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Augsburg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120015772,
+ "gallery-id": 533,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES4723.jpg",
+ "related-artworks": [
+  120022227,
+  120022263,
+  120049372,
+  120022215,
+  120022217
+ ],
+ "Provenance": [
+  "James Hazen Hyde (until 1949",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120015772"
+  }
+ }
+}

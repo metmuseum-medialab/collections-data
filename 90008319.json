@@ -1,0 +1,35 @@
+{
+ "Medium": "Etching",
+ "Dimensions": "12.8 x 22.3 cm.",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry G. Friedman, 1961",
+ "Accession Number": "61.663.418",
+ "Who": "Gerrit van Schagen",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 90008319,
+ "related-artworks": [
+  90091162,
+  90091174,
+  90091175,
+  90091178,
+  90091176
+ ],
+ "Provenance": [
+  "Donor: Harry G. Friedman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90008319"
+  }
+ }
+}

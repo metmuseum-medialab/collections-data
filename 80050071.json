@@ -1,0 +1,32 @@
+{
+ "Date": "1900–1910",
+ "Culture": "European",
+ "Medium": "silver",
+ "Dimensions": "Length 5 3/4 in. (14.6 cm)",
+ "Credit Line": "Gift of Hazel L. Scudder and Saidie E. Scudder, 1985",
+ "Accession Number": "1985.378.8",
+ "What": [
+  "Metal",
+  "Silver"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80050071,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1985.378.8.jpg",
+ "related-artworks": [
+  80004827,
+  80012970,
+  80032062,
+  80065675,
+  80074773
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80050071"
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "Decorator": "Etienne Evans (active 1752–1807)",
+ "Maker": "probably gilded by Jean-Pierre Boulanger (1722–1785, active 1754–85)",
+ "Date": "1775",
+ "Culture": "French (Sèvres)",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "Diam. 9 5/8 in. (24.4 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1976",
+ "Accession Number": "1976.155.164",
+ "Who": [
+  "Sèvres Manufactory",
+  "Jean-Pierre Boulanger",
+  "Etienne Evans"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Sèvres"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Art Nouveau",
+  "Saint Petersburg",
+  "French Furniture in the Eighteenth Century Case Furniture",
+  "Sèvres Porcelain in the Nineteenth Century",
+  "Jean–Baptiste Carpeaux (1827–1875)",
+  "Exoticism in the Decorative Arts",
+  "Empire Style, 1800–1815",
+  "Louis–Rémy Robert (1810–1882)",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120022603,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF1976_155_164.jpg",
+ "related-artworks": [
+  120012917,
+  120012901,
+  120012927,
+  120017557,
+  120005737
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022603"
+  }
+ }
+}

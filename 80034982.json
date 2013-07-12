@@ -1,0 +1,35 @@
+{
+ "Date": "1860s",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "Length 35 1/2 in. (90.2 cm)",
+ "Credit Line": "Gift of Anne L. Maxwell, in memory of her mother, Julia H. Lawrence, 1989",
+ "Accession Number": "1989.246.24",
+ "What": [
+  "Costume",
+  "Silk",
+  "Belts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80034982,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1989.246.24.jpg",
+ "related-artworks": [
+  80114747,
+  80002314,
+  80056529,
+  80114746,
+  80114870
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80034982"
+  }
+ }
+}

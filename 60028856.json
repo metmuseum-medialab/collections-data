@@ -1,0 +1,47 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1817",
+ "Culture": "Japan",
+ "Medium": "Woodblock printed book; ink and color on paper",
+ "Dimensions": [
+  "Image 10 7/8 x 7 3/8 x 1/2 in. (27.7 x 18.8 x 1.2 cm)",
+  "Overall 14 in. (35.5 cm) (open)"
+ ],
+ "Classification": "Illustrated Books",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "JIB58",
+ "Who": "Sakai Hōitsu",
+ "What": [
+  "Ink",
+  "Paper",
+  "Books",
+  "Printing blocks",
+  "Wood blocks",
+  "Printing"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Painting Formats in East Asian Art",
+  "Rinpa Painting Style",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60028856,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP263394_CRD_sf.jpg",
+ "related-artworks": [
+  60028855,
+  60028976,
+  60029009,
+  60012949,
+  60013191
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028856"
+  }
+ }
+}

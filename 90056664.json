@@ -1,0 +1,43 @@
+{
+ "Publisher": "Published by ? Pierre Mariette le fils (French, Paris 1634–1716 Paris)",
+ "Date": "1646",
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Carl Joseph Ulmann, 1927",
+ "Accession Number": "27.88.1",
+ "Who": [
+  "Stefano della Bella",
+  "Pierre Mariette le fils"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Printed Image in the West History and Techniques",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90056664,
+ "related-artworks": [
+  90009182,
+  90039895,
+  90047318,
+  90047320,
+  90047321
+ ],
+ "Provenance": [
+  "Donor: Carl Joseph Ulmann (1863–ca. 1939 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90056664"
+  }
+ }
+}

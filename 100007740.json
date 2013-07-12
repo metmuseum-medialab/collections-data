@@ -1,0 +1,59 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 20",
+ "Reign": "reign of Ramesses IV",
+ "Date": "ca. 1153–1147 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, Temple of Ramesses IV, MMA 1915–1916",
+ "Medium": "Faience",
+ "Credit Line": "Rogers Fund, 1916",
+ "Accession Number": "16.10.140",
+ "What": [
+  "Faience",
+  "Plaques"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100007740,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsbluedish3.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/100005637",
+  "http://scrapi.org/object/100006315",
+  "http://scrapi.org/object/100006306",
+  "http://scrapi.org/object/100006474",
+  "http://scrapi.org/object/100006502"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Museum excavations, 1915–16. Acquired by the Museum in the division of finds, 1916."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100005637"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100006315"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100006306"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100006474"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100006502"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100007740"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "18th century",
+ "Culture": "British, London",
+ "Medium": "Glass paste",
+ "Dimensions": "H. 2 in.  (5.1 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1914",
+ "Accession Number": "14.138",
+ "Who": "James Tassie",
+ "What": [
+  "Glass",
+  "Faience",
+  "Medals",
+  "Medallions",
+  "Glass paste"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120007842,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/26956.jpg",
+ "related-artworks": [
+  120005883,
+  120005882,
+  120009860,
+  120009861,
+  120009862
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120007842"
+  }
+ }
+}

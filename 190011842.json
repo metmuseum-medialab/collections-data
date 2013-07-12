@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1857",
+ "Medium": "Albumen silver print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1972",
+ "Accession Number": "1972.595.3",
+ "Who": "Francis Frith",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190011842,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/MM52850.jpg",
+ "related-artworks": [
+  190011840,
+  190012100,
+  190012101,
+  190012103,
+  190012104
+ ],
+ "Provenance": [
+  "Harold Jones"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190011842"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Date": "17th century (?)",
+ "Culture": "Scandinavian",
+ "Classification": "Firearms Accessories",
+ "Credit Line": "The Collection of J. H. Grenville Gilbert, of Ware, Massachusetts, Gift of Mrs. Gilbert, 1937",
+ "Accession Number": "38.45.1a, b",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Accessories",
+  "Horn",
+  "Powder flasks",
+  "Powder horns"
+ ],
+ "Where": [
+  "Europe",
+  "Scandinavia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40008008,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40006347"
+   },
+   {
+    "href": "http://scrapi.org/object/40010791"
+   },
+   {
+    "href": "http://scrapi.org/object/40011794"
+   },
+   {
+    "href": "http://scrapi.org/object/40012254"
+   },
+   {
+    "href": "http://scrapi.org/object/40002880"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40008008"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40008008"
+  }
+ }
+}

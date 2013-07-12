@@ -1,0 +1,40 @@
+{
+ "Period": "Geometric",
+ "Date": "late 8th–early 7th century B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 8 1/4 in. (21 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1960",
+ "Accession Number": "60.11.4",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Strainers"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130015564,
+ "gallery-id": 151,
+ "related-artworks": [
+  130014716,
+  130006667,
+  130005304,
+  130000405,
+  130000408
+ ],
+ "Description": "While the shapes of most vases correspond to an established typology, this unusual piece was probably produced for a specific purpose. The strainer at the top permitted the solid portion of a mixture to be separated from the liquid portion, which could then be poured through the spout. The bail handle at the top allowed the vase to be suspended; the two handles at the sides facilitated lifting and pouring.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130015564"
+  }
+ }
+}

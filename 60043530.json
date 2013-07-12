@@ -1,0 +1,40 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Silk, metallic thread",
+ "Dimensions": "125 x 75 in. (317.50 x 190.50 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Edward S. Harkness, 1947",
+ "Accession Number": "47.61",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Floor coverings"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043530,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP254033.jpg",
+ "related-artworks": [
+  60043582,
+  60006842,
+  60006843,
+  60012403,
+  60024798
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043530"
+  }
+ }
+}

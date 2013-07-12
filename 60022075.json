@@ -1,0 +1,72 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "late 18th–19th century",
+ "Culture": "China",
+ "Medium": "Porcelain painted in underglaze blue and overglaze famille verte enamels",
+ "Dimensions": "H. 8 1/2 in. (21.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.194.4",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Vases",
+  "Painting",
+  "Enamels",
+  "Underglazing",
+  "Overglazing",
+  "Famille"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60022075,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/09_194_4_O1_sf.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/60015385",
+  "http://scrapi.org/object/60009876",
+  "http://scrapi.org/object/60016766",
+  "http://scrapi.org/object/60019357",
+  "http://scrapi.org/object/60019358"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/as/original/09_194_4_O1_sf.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/09_194_4_O2_sf.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/09_194_4_O3_sf.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/09_194_4_O4_sf.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/09_194_4_Bm_sf.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60015385"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60009876"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60016766"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60019357"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60019358"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60022075"
+  }
+ }
+}

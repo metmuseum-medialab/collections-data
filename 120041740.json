@@ -1,0 +1,57 @@
+{
+ "Date": "early 19th century",
+ "Culture": "French",
+ "Medium": "Silk on silk",
+ "Dimensions": [
+  "L. 3 x W. 2 7/8 inches",
+  "7.6 x 7.3 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.951",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Samples"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120041740,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/116903.jpg",
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120040806"
+   },
+   {
+    "href": "http://scrapi.org/object/120040807"
+   },
+   {
+    "href": "http://scrapi.org/object/120040808"
+   },
+   {
+    "href": "http://scrapi.org/object/120040809"
+   },
+   {
+    "href": "http://scrapi.org/object/120040810"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120041740"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120041740"
+  }
+ }
+}

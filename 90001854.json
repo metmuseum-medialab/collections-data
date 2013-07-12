@@ -1,0 +1,57 @@
+{
+ "Date": "late 15th–early 16th century",
+ "Medium": "Pen and black ink",
+ "Dimensions": "7 15/16 x 5 3/16 in.  (20.2 x 13.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Karen B. Cohen Fund and David Tunick Gift, 1995",
+ "Accession Number": "1995.361",
+ "Who": "Matthäus Zasinger",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90001854,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803112.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90003164",
+  "http://scrapi.org/object/90027516",
+  "http://scrapi.org/object/90028041",
+  "http://scrapi.org/object/90094856"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP803112.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/261466.jpg"
+ ],
+ "Provenance": [
+  "Dr. Carl Robert Rudolf (British, ca. 1884–1974)",
+  "Alfred Brod Gallery (London), Jan-Feb. 1964",
+  "Vendor: C & J Goodfriend, New York"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90003164"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90027516"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90028041"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90094856"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90001854"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Artist": "Figures by Jean Barbault (French, Viarmes 1718–1762 Rome)",
+ "Publisher": "Angelo Rotili",
+ "Date": "published 1756-57",
+ "Medium": "Etching",
+ "Dimensions": [
+  "sheet 21 1/4 x 14 15/16 in. (54 x 38 cm)",
+  "plate 13 9/16 x 9 1/4 in. (34.5 x 23.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, transferred from the Library",
+ "Accession Number": "41.71.1.2",
+ "Who": [
+  "Giovanni Battista Piranesi",
+  "Angelo Rotili",
+  "Jean Barbault"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Printed Image in the West History and Techniques",
+  "The French Academy in Rome",
+  "Joseph Mallord William Turner (1775–1851)",
+  "Giovanni Battista Piranesi (1720–1778)",
+  "The Grand Tour",
+  "The Rediscovery of Classical Antiquity",
+  "Venice in the Eighteenth Century",
+  "Neoclassicism",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90079404,
+ "related-artworks": [
+  90079408,
+  90079440,
+  90079566,
+  90079258,
+  90079263
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90079404"
+  }
+ }
+}

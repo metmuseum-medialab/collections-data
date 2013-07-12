@@ -1,0 +1,34 @@
+{
+ "Date": "3rd–7th century",
+ "Culture": "Central Asia",
+ "Medium": "Stucco",
+ "Dimensions": "5 x 5 3/4 in. (12.7 x 14.6 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.32.46",
+ "What": [
+  "Sculpture",
+  "Fragments",
+  "Reliefs",
+  "Plaster",
+  "Stucco"
+ ],
+ "Where": [
+  "Asia"
+ ],
+ "In the Museum": "Asian Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 60007066,
+ "related-artworks": [
+  60005328,
+  60006966,
+  60006968,
+  60006970,
+  60007012
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60007066"
+  }
+ }
+}

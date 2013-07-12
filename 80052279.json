@@ -1,0 +1,31 @@
+{
+ "Date": "1700–1941",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Philip Hale, 1941",
+ "Accession Number": "C.I.41.35.7",
+ "What": "Collars",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80052279,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI41.35.7.jpg",
+ "related-artworks": [
+  80052174,
+  80052228,
+  80052201,
+  80052236,
+  80052204
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052279"
+  }
+ }
+}

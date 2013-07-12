@@ -1,0 +1,40 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1703",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print (hand-colored); ink and color on paper",
+ "Dimensions": "10 3/4 x 14 1/2 in. (27.3 x 36.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund and Rogers Fund, 1949",
+ "Accession Number": "JP3071",
+ "Who": "Torii Kiyonobu",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Printing blocks",
+  "Wood blocks",
+  "Colored ink"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60027723,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP124286.jpg",
+ "related-artworks": [
+  60001200,
+  60001201,
+  60001202,
+  60001229,
+  60001230
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60027723"
+  }
+ }
+}

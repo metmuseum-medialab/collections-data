@@ -1,0 +1,58 @@
+{
+ "Date": "2009",
+ "Medium": "Inkjet print",
+ "Dimensions": [
+  "Image 35.6 x 26.7 cm (14 x 10 1/2 in.)",
+  "Sheet 48.3 x 33 cm (19 x 13 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Charina Foundation Inc. Gift, 2011",
+ "Accession Number": "2011.423.14",
+ "Rights and Reproduction": "© Debbie Grossman",
+ "Who": "Debbie Grossman",
+ "What": [
+  "Prints",
+  "Photographs",
+  "Inkjet prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190053731,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/2011-423-14_Grossman_CoupleAtMeeting.jpg",
+ "Description": "In 1940, at the tail end of the Depression, Russell Lee, a photographer working for the Farm Security Administration, documented a small community of homesteaders in Pie Town, New Mexico. Seventy years later, Grossman appropriated and reworked these images to fashion an alternative Pie Town—one inhabited exclusively by women. Using Adobe Photoshop software (which she considers her primary medium), she altered the features of men to make them appear more effeminate, modified the placement and body language of pairs of women to suggest a sense of intimacy, and erased some male figures altogether. Just as Lee’s original photographs offered an idealized view of Western agrarian life, Grossman’s imaginative revision is intended as a lighthearted form of propaganda—a utopian fantasy in which gender roles are fluid and the traditional idea of family is redefined.",
+ "Provenance": [
+  "the artist, 2011",
+  "[Julie Saul Gallery, New York, 2011]"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190053720"
+   },
+   {
+    "href": "http://scrapi.org/object/190053725"
+   },
+   {
+    "href": "http://scrapi.org/object/190053730"
+   },
+   {
+    "href": "http://scrapi.org/object/190053733"
+   },
+   {
+    "href": "http://scrapi.org/object/190050708"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190053731"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190053731"
+  }
+ }
+}

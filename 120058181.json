@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "Overall 3/16 x 10 1/2 in. (0.5 x 26.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Henry G. Marquand, 1894",
+ "Accession Number": "94.4.5b",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120058181,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF94_4_5b.jpg",
+ "related-artworks": [
+  120001927,
+  120003105,
+  120005024,
+  120008036,
+  120022109
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120058181"
+  }
+ }
+}

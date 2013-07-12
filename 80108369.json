@@ -1,0 +1,42 @@
+{
+ "Department Store": "Saks Fifth Avenue (American, founded 1924)",
+ "Date": "ca. 1964",
+ "Culture": "French",
+ "Medium": "Bast fiber, leather",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Morehead Patterson, 1985",
+ "Accession Number": "2009.300.5961a, b",
+ "Who": [
+  "Roger Vivier",
+  "Saks Fifth Avenue"
+ ],
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Shoes",
+  "Plant fiber",
+  "Pumps",
+  "Bast"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80108369,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/85.147.18a-b_CP2.jpg",
+ "related-artworks": [
+  80038659,
+  80027442,
+  80038657,
+  80038658,
+  80046178
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108369"
+  }
+ }
+}

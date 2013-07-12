@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1987",
+ "Culture": "American",
+ "Medium": "Leather",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Candice Gold, 1993",
+ "Accession Number": "2009.300.6072a, b",
+ "Who": "Susan Bennis/Warren Edwards",
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80108504,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1993.23.2a-b_CP2.jpg",
+ "related-artworks": [
+  80020390,
+  80047815,
+  80047836,
+  80047830,
+  80047831
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108504"
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "Medium": "Etching",
+ "Dimensions": "sheet 4 1/2 x 3 1/8 in. (11.5 x 8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "26.70.3",
+ "Who": "Andrea Schiavone (Andrea Medulic  Meldolla)",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90071216,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP825152.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90036014",
+  "http://scrapi.org/object/90036037",
+  "http://scrapi.org/object/90036141",
+  "http://scrapi.org/object/90036147",
+  "http://scrapi.org/object/90036148"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Donor: Harris Brisbane Dick Fund"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90036014"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90036037"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90036141"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90036147"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90036148"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90071216"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Culture": "American",
+ "Medium": "porcelain",
+ "Dimensions": "2 3/4 in. (7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of The Museum of the City of New York, 2008",
+ "Accession Number": "2009.226.8",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Boxes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10022964,
+ "gallery-id": 774,
+ "related-artworks": [
+  10000946,
+  10002604,
+  10009123,
+  10009124,
+  10009130
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10022964"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "1715",
+ "Culture": "British",
+ "Medium": "Silk on linen",
+ "Dimensions": "H. 15 3/4 x W. 7 7/8 inches (40 x 20 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "From the Collection of Mrs. Lathrop Colgate Harper, Bequest of Mabel Herbert Harper, 1957",
+ "Accession Number": "57.122.362",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Samplers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120045982,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/164493.jpg",
+ "related-artworks": [
+  120044221,
+  120037086,
+  120037089,
+  120037094,
+  120037183
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120045982"
+  }
+ }
+}

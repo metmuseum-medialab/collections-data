@@ -1,0 +1,51 @@
+{
+ "Modeler": "Dominikus Auliczek (1734–1804)",
+ "Date": "ca. 1765",
+ "Culture": "German (Nymphenburg)",
+ "Medium": "Hard-paste porcelain, gold",
+ "Dimensions": "H. 1-5/8 in. (4.1 cm.); L. 2-7/8 in. (7.3 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+ "Accession Number": "1982.60.333",
+ "Who": [
+  "Nymphenburg Porcelain Manufactory",
+  "Dominikus Auliczek"
+ ],
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Gold",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Snuff containers",
+  "Snuffboxes"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Munich",
+  "Nymphenburg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120023341,
+ "gallery-id": 540,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES6445.jpg",
+ "related-artworks": [
+  120048793,
+  120023357,
+  120014435,
+  120018725,
+  120023223
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120023341"
+  }
+ }
+}

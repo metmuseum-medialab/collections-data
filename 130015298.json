@@ -1,0 +1,44 @@
+{
+ "Period": "Late Archaic",
+ "Date": "ca. 500–480 B.C.",
+ "Culture": "Greek",
+ "Medium": "Bronze, Gold",
+ "Dimensions": "H. with handle 18 5/16 in. (46.5 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1954",
+ "Accession Number": "54.11.2",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Copper alloy",
+  "Gold",
+  "Bronze",
+  "Hydriae",
+  "Protomai"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130015298,
+ "gallery-id": 159,
+ "related-artworks": [
+  130012941,
+  130004813,
+  130007985,
+  130007970,
+  130008443
+ ],
+ "Provenance": [
+  "Said to be from the Chalcidice"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130015298"
+  }
+ }
+}

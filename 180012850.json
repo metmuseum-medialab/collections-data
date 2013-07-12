@@ -1,0 +1,37 @@
+{
+ "Date": "late 19th century",
+ "Geography": "Angola",
+ "Medium": "Wood. Metal bridge. 26 metal keys.",
+ "Dimensions": "L. 30.5 cm (12 in.); W. 20.3 cm (8 in.)",
+ "Classification": "Idiophone-Plucked / Depressed",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.486",
+ "What": [
+  "Metal",
+  "Musical instruments",
+  "Idiophones",
+  "Keys",
+  "Bridges"
+ ],
+ "Where": [
+  "Africa",
+  "Angola"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Central Africa, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180012850,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/258882.jpg",
+ "related-artworks": [
+  180012848,
+  180012836,
+  180012875,
+  180015803,
+  180016595
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180012850"
+  }
+ }
+}

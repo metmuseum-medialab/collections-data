@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1825–30",
+ "Culture": "French",
+ "Medium": "Gold, amethysts",
+ "Classification": "Metalwork",
+ "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+ "Accession Number": "32.100.317–.323",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Gold",
+  "Platinum",
+  "Amethyst",
+  "Parures"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120058418,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/88549.jpg",
+ "related-artworks": [
+  120020905,
+  120056807,
+  120012053,
+  120012054,
+  120012056
+ ],
+ "Provenance": [
+  "Mrs. Emery A. Wahl"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120058418"
+  }
+ }
+}

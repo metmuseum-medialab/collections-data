@@ -1,0 +1,42 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "Joint reign of Hatshepsut and Thutmose III",
+ "Date": "ca. 1473–1458 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri",
+ "Medium": "Green faience",
+ "Dimensions": "L. 0.018m",
+ "Credit Line": "Gift of Darius Ogden Mills, 1904",
+ "Accession Number": "04.2.746",
+ "What": [
+  "Sculpture",
+  "Faience",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100012064,
+ "related-artworks": [
+  100000723,
+  100001537,
+  100002149,
+  100002151,
+  100003505
+ ],
+ "Provenance": [
+  "Collection of Judge Elbert E. Farman, formed when he was U.S. consul general in Egypt 1876–84. Donated to the museum by Darius Ogden Mills, New York, in 1904."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100012064"
+  }
+ }
+}

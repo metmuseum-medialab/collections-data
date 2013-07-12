@@ -1,0 +1,31 @@
+{
+ "Date": "15th century",
+ "Culture": "Island of Rhodes",
+ "Classification": "Mail",
+ "Credit Line": "Gift of Bashford Dean, 1923",
+ "Accession Number": "23.190.22",
+ "What": [
+  "Metal",
+  "Costume",
+  "Armor",
+  "Body armor",
+  "Mail",
+  "Gorgets"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40011328,
+ "related-artworks": [
+  40012193,
+  40000741,
+  40000743,
+  40000775,
+  40002390
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40011328"
+  }
+ }
+}

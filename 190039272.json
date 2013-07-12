@@ -1,0 +1,60 @@
+{
+ "Date": "July 1921",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": [
+  "Image 17.5 x 21.5 cm (6 7/8 x 8 7/16 in.)",
+  "Mount 37.1 x 28.7 cm (14 5/8 x 11 5/16 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, Ann Tenenbaum and Thomas H. Lee Gift, 2005",
+ "Accession Number": "2005.100.546",
+ "Who": "Eugène Atget",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Eugène Atget (1857–1927)",
+  "Henri Cartier–Bresson (1908–2004)",
+  "Photography and Surrealism",
+  "France, 1900 A.D.–present"
+ ],
+ "id": 190039272,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP124604.jpg",
+ "Provenance": [
+  "Berenice Abbott",
+  "[Paul Katz]",
+  "Gilman Paper Company Collection, New York, June 30, 1983"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190016814"
+   },
+   {
+    "href": "http://scrapi.org/object/190017196"
+   },
+   {
+    "href": "http://scrapi.org/object/190017879"
+   },
+   {
+    "href": "http://scrapi.org/object/190018016"
+   },
+   {
+    "href": "http://scrapi.org/object/190018017"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190039272"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190039272"
+  }
+ }
+}

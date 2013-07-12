@@ -1,0 +1,41 @@
+{
+ "Date": "1899",
+ "Culture": "French",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 2 11/16 in. (68 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Purchase, Bequest of Gwynne M. Andrews, by exchange, 1991",
+ "Accession Number": "1991.241.1",
+ "Who": "Victor Peter",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120024155,
+ "gallery-id": 556,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/253825.jpg",
+ "related-artworks": [
+  120024732,
+  120024156,
+  120024688,
+  120025452,
+  120024288
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120024155"
+  }
+ }
+}

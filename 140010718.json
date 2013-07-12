@@ -1,0 +1,71 @@
+{
+ "Object Name": "Folio from an illustrated manuscript",
+ "Reign": "Shah Tahmasp (1524–76)",
+ "Date": "ca. 1531–33",
+ "Geography": "Iran, Tabriz",
+ "Medium": "Opaque watercolor, ink, and gold on paper",
+ "Dimensions": [
+  "Illuminated folio",
+  "Painting H.  8 1/2 in. (21.6 cm)",
+  "W. 5 15/16 in. (15.1 cm)",
+  "Page H. 11 3/8 in. (28.9 cm)",
+  "W. 7 1/8 in. (18.1 cm)",
+  "Calligraphic folio",
+  "Painting H. 7 in. (17.8 cm)",
+  "W. 3 3/8 in. (8.6 cm)",
+  "Page H. 11 1/4 in. (28.6 cm)",
+  "W. 7 1/4 in. (18.4 cm)",
+  "Mat H. 14 1/4 in. (36.2 cm)",
+  "W. 19 1/4 in. (48.9 cm)"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "Jointly owned by The Metropolitan Museum of Art and Arthur M. Sackler Museum, Harvard University; Gift of Mr. and Mrs. Stuart Cary Welch Jr., 1988",
+ "Accession Number": "1988.430",
+ "Who": "Sultan Muhammad",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Gold",
+  "Watercolors",
+  "Manuscripts",
+  "Codices",
+  "Folios",
+  "Illuminated manuscripts"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Tabriz"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Art of the Safavids before 1600",
+  "Iran, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140010718,
+ "gallery-id": 450,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP167098.jpg",
+ "related-artworks": [
+  140009486,
+  140009487,
+  140009492,
+  140009488,
+  140009489
+ ],
+ "Description": "Sultan Muhammad, the most innovative painter of early sixteenth-century Iran, illustrates the verses by the mystical poet Hafiz by employing his characteristic sense of humor and extreme attention to detail. The tavern party, complete with ecstatic dancers, singers and overindulgent drinkers, is given a new meaning by the presence of angels on top of the pavilion, suggesting that the state of drunkenness can be likened to that of spiritual enlightenment. As a Sufi symbol, wine stands for heaven's divine light and the cup into which it is poured, for the devotee's heart.",
+ "Provenance": [
+  "[ Tabbagh Frères, Paris and New York ]",
+  "Arthur Sambon, Paris (until 1914",
+  "his sale, Galerie GeorgesPetit, Paris, May 25–28, 1914, lot 189)",
+  "Louis J. Cartier, Paris",
+  "Stuart Cary Welch, Warner, New Hampshire"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010718"
+  }
+ }
+}

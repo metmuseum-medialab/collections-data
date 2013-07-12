@@ -1,0 +1,34 @@
+{
+ "Date": "1909–11",
+ "Medium": "Commercial lithograph",
+ "Dimensions": "Sheet 2 5/8 x 1 7/16 in. (6.7 x 3.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 246, T206.216",
+ "Who": "American Tobacco Company",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Baseball cards"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90088360,
+ "related-artworks": [
+  90087461,
+  90087463,
+  90087465,
+  90087464,
+  90087466
+ ],
+ "Description": "Trade cards from \"White Border\" series (T206), issued 1909-11 to promote sixteen brands of cigarettes and loose tobacco distributed by the American Tobacco Company.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90088360"
+  }
+ }
+}

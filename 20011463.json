@@ -1,0 +1,35 @@
+{
+ "Date": "1833",
+ "Medium": "Watercolor on ivory",
+ "Dimensions": "2 5/8 x 2 5/32 in. (6.7 x 5.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mrs. William T. Harrison, 1966",
+ "Accession Number": "66.238",
+ "Who": "George Harrison Hite",
+ "What": [
+  "Paintings",
+  "Watercolors",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20011463,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap66.238.jpg",
+ "related-artworks": [
+  20015904,
+  20010421,
+  20010472,
+  20010561
+ ],
+ "Provenance": [
+  "the sitter's granddaughter, Nell T. (Mrs. William) Harrison,  Clearwater, Florida, until 1966"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20011463"
+  }
+ }
+}

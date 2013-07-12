@@ -1,0 +1,44 @@
+{
+ "Date": "1685",
+ "Culture": "India (Rajasthan, Bikaner)",
+ "Medium": "Ink, opaque watercolor, gold and silver on paper",
+ "Dimensions": "7 3/8 x 5 1/8 in. (18.7 x 13 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Wendy Findlay, 1981",
+ "Accession Number": "1981.371.1",
+ "Who": "Nuruddin",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Silver",
+  "Paintings",
+  "Gold",
+  "Watercolors"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Rajasthan",
+  "Bikaner"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60029666,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP156123.jpg",
+ "related-artworks": [
+  60004752,
+  60004807,
+  60004998,
+  60026396,
+  60032085
+ ],
+ "Description": "Within a palace courtyard, Krishna approaches Radha, who is leaning against a bolster and is attended by two female servants. In the right middle ground are two men, perhaps jewelers: one blows into a brazier with a long tube while the other holds a ring.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029666"
+  }
+ }
+}

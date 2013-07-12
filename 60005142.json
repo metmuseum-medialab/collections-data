@@ -1,0 +1,40 @@
+{
+ "Period": "Gupta period",
+ "Date": "ca. second quarter of the 5th century",
+ "Culture": "India (Madhya Pradesh)",
+ "Medium": "Stone",
+ "Dimensions": "H. 38 7/8 in. (98.7 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of The Kronos Collections, 1987",
+ "Accession Number": "1987.415.1",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Madhya Pradesh"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005142,
+ "gallery-id": 236,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1987_415_1.jpg",
+ "related-artworks": [
+  60006946,
+  60005093,
+  60005697,
+  60005089,
+  60005190
+ ],
+ "Description": "On the Indian subcontinent, temples have been dedicated to the worship of serpents since the dawn of civilization. Both Buddhism and Hinduism adopted nagarajas and naginis (serpent kings and their consorts) as protective divinities and depicted them like human beings. This sculpture from a pair of royal serpents (1987.415.1, .2) is carved in the round. The figure stand in front of cobras, whose open hoods form canopies for their heads. They date from the early part of the Gupta period and maintain ties to the style of the late Kushan period.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005142"
+  }
+ }
+}

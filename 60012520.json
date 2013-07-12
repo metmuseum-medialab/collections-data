@@ -1,0 +1,42 @@
+{
+ "Period": "Three Kingdoms period (57 B.C.–A.D. 668)",
+ "Date": "5th–6th century",
+ "Culture": "Korea",
+ "Medium": "Gold",
+ "Dimensions": "L. 3 3/8 in. (8.6cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Harris Brisbane Dick Fund, 1943",
+ "Accession Number": "43.49.7",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Asia",
+  "Korea"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Korea, 500–1000 A.D.",
+  "Korea, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60012520,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/43_49_7.JPG",
+ "related-artworks": [
+  60012463,
+  60012459,
+  60012465,
+  60012462,
+  60012464
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60012520"
+  }
+ }
+}

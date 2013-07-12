@@ -1,0 +1,47 @@
+{
+ "Date": "1646",
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.81.3.33",
+ "Who": "Wenceslaus Hollar (Wenzel Vaclav)",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Czech Republic",
+  "Bohemia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90031836,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90003017"
+   },
+   {
+    "href": "http://scrapi.org/object/90024388"
+   },
+   {
+    "href": "http://scrapi.org/object/90024394"
+   },
+   {
+    "href": "http://scrapi.org/object/90031067"
+   },
+   {
+    "href": "http://scrapi.org/object/90031070"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90031836"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90031836"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Period": "Geometric",
+ "Date": "ca. 8th century B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Silver",
+ "Dimensions": "Other 3 1/4 in. (8.3 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.3201",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Pins",
+  "Fibulae"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "id": 130003100,
+ "gallery-id": 174,
+ "related-artworks": [
+  130003098,
+  130003106,
+  130003099,
+  130003108,
+  130003101
+ ],
+ "Description": "The articulated bow-shaped fibula is well attested in Cyprus and the Levant, providing one of many indications for close relations between the island and the eastern shores of the Mediterranean during the later Geometric and early Archaic periods.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130003100"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Gold and silver maki-e on lacquered wood",
+ "Dimensions": "H. 2 in. (5.1 cm); W. 9 in. (22.9 cm); D. 8 1/2 in. (21.6 cm)",
+ "Classification": "Lacquer",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.875a–g",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Boxes",
+  "Lacquer",
+  "Maki-e"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60027125,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/14_40_875_TQ.jpg",
+ "related-artworks": [
+  60012645,
+  60029336,
+  60012606,
+  60024918,
+  60027693
+ ],
+ "Description": "Beautifully bound works of literature decorate the top of this box. The two closed books bearing titles are the poetry anthology Zoku gosenshū and \"The Autumn Excursion\", Chapter 7 of the Tale of Genji; the partially open book quotes from a poetry contest. The illustration in the fully open book shows a scene from \"Channel Buoys\", chapter 14 of The Tale of Genji.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60027125"
+  }
+ }
+}

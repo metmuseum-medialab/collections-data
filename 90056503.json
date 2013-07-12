@@ -1,0 +1,42 @@
+{
+ "Artist": "Etched by François Collignon (Nancy, ca. 1609?–1685)",
+ "Publisher": "Published by François Langlois alias Ciartres (Paris 1588–1647 Paris)",
+ "Date": "1639",
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1937",
+ "Accession Number": "37.10.3",
+ "Who": [
+  "Stefano della Bella",
+  "François Langlois alias Ciartres",
+  "François Collignon"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Printed Image in the West History and Techniques",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90056503,
+ "related-artworks": [
+  90009182,
+  90039895,
+  90047318,
+  90047320,
+  90047321
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90056503"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1790",
+ "Culture": "British",
+ "Medium": "Sheffield plate",
+ "Dimensions": "6 1/2 x 6 in.  (16.5 x 15.2 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.16.32a–c",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Plate",
+  "Sheffield plate",
+  "Argyles"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120005868,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF10_16_32a-c_img1.jpg",
+ "related-artworks": [
+  120005860,
+  120006462,
+  120006463,
+  120006464,
+  120009622
+ ],
+ "Provenance": [
+  "Viscountess Wolseley",
+  "[ Gorham Manufacturing Company , 1910",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120005868"
+  }
+ }
+}

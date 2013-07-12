@@ -1,0 +1,46 @@
+{
+ "Date": "early 18th century",
+ "Culture": "Italian (Venice)",
+ "Medium": "Needle lace",
+ "Dimensions": [
+  "L. 5 1/2 x W. 3 1/4 inches",
+  "14.0 x 8.3 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Opdycke, 1906",
+ "Accession Number": "06.695.1",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120030644,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP16527.jpg",
+ "related-artworks": [
+  120036445,
+  120037730,
+  120030115,
+  120030150,
+  120032499
+ ],
+ "Provenance": [
+  "Mrs. Leonard Opdycke (until 1906",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120030644"
+  }
+ }
+}

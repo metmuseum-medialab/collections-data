@@ -1,0 +1,39 @@
+{
+ "Date": "spring/summer 1985",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length (a) 24 1/2 in. (62.2 cm)",
+  "Length at CB (b) 34 1/4 in. (87 cm)",
+  "Length (c) 27 in. (68.6 cm)"
+ ],
+ "Credit Line": "Gift of Laura E. Lukowski-O'Brien, 1995",
+ "Accession Number": "1995.557.2a–c",
+ "Who": "Perry Ellis",
+ "What": [
+  "Silk",
+  "Ensembles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80001384,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1995.557.2a–c_F.jpg",
+ "related-artworks": [
+  80001383,
+  80002079,
+  80016803,
+  80017880,
+  80018198
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001384"
+  }
+ }
+}

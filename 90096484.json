@@ -1,0 +1,40 @@
+{
+ "Date": "1620",
+ "Medium": "Etching; sixth state of six (Lieure)",
+ "Dimensions": [
+  "Sheet 18 1/4 x 27 7/16 in. (46.4 x 69.7 cm)",
+  "Plate 17 x 26 3/8 in. (43.2 x 67 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Edwin De T. Bechtel, 1957",
+ "Accession Number": "57.650.606",
+ "Who": "Jacques Callot",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90096484,
+ "related-artworks": [
+  90003572,
+  90008838,
+  90010396,
+  90010397,
+  90010780
+ ],
+ "Provenance": [
+  "Donor: Edwin De Turck Bechtel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90096484"
+  }
+ }
+}

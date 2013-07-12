@@ -1,0 +1,38 @@
+{
+ "Artist": "After Giulio Romano (Italian, Rome 1499?–1546 Mantua)",
+ "Date": "16th century",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 11 1/8 x 18 1/16 in. (28.3 x 45.8 cm)",
+ "Classification": "Prints",
+ "Accession Number": "60.524.9",
+ "Who": [
+  "Giulio Romano",
+  "Giulio Bonasone"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Heroes in Italian Mythological Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90059162,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP812435.jpg",
+ "related-artworks": [
+  90039249,
+  90039256,
+  90042913,
+  90059156,
+  90059244
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90059162"
+  }
+ }
+}

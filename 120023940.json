@@ -1,0 +1,49 @@
+{
+ "Manufacturer": "Barulet et Cie. for Haviland and Co.",
+ "Date": "1879",
+ "Culture": "French (Creil)",
+ "Medium": "Glazed earthenware",
+ "Dimensions": "Diam. 10 1/8 in. (25.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase, Robert L. Isaacson Gift, 1989",
+ "Accession Number": "1989.231",
+ "Who": [
+  "Félix Bracquemond",
+  "Barulet et Cie. for Haviland  Co."
+ ],
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Plates",
+  "Glazing"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Picardy",
+  "Creil"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Exoticism in the Decorative Arts",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120023940,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES5414.jpg",
+ "related-artworks": [
+  120058004,
+  120024708,
+  120058002,
+  120058003,
+  120024350
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120023940"
+  }
+ }
+}

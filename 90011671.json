@@ -1,0 +1,32 @@
+{
+ "Engraver": "Bartolomeo da Brescia (Italian, active 1570)",
+ "Date": "1568",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1937",
+ "Accession Number": "37.37.25",
+ "Who": [
+  "Bartolomeo da Brescia",
+  "Vincenzo da Sabbio"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90011671,
+ "related-artworks": [
+  90023088,
+  90001585,
+  90005368,
+  90005370,
+  90008914
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90011671"
+  }
+ }
+}

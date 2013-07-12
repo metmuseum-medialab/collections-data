@@ -1,0 +1,40 @@
+{
+ "Period": "Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "Culture": "China",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 7 1/4 in. (18.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Mary Clark Thompson, 1923",
+ "Accession Number": "24.80.266",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60016313,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/24_80_266_O1_sf.jpg",
+ "related-artworks": [
+  60009738,
+  60009740,
+  60009742,
+  60009765,
+  60009757
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60016313"
+  }
+ }
+}

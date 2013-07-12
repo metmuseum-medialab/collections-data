@@ -1,0 +1,49 @@
+{
+ "Modeler": "Lady Templetown (before 1759–1823, active 1777–83)",
+ "Date": "probably ca. 1790",
+ "Culture": "British, Etruria, Staffordshire",
+ "Medium": "Jasperware, back green",
+ "Dimensions": "4 1/2 x 3 in.  (11.4 x 7.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Mary Clark Thompson, 1923",
+ "Accession Number": "24.80.40",
+ "Who": [
+  "Josiah Wedgwood",
+  "Lady Templetown"
+ ],
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Plaques"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The Grand Tour",
+  "The Neoclassical Temple",
+  "Cameo Appearances",
+  "Neoclassicism",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120009846,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/56645.jpg",
+ "related-artworks": [
+  120011712,
+  120007772,
+  120009847,
+  120009848,
+  120009845
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009846"
+  }
+ }
+}

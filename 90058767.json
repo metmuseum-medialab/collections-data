@@ -1,0 +1,38 @@
+{
+ "Date": "n.d.",
+ "Medium": "Pen and black ink over graphite",
+ "Dimensions": "sheet 7 5/16 x 11 1/8 in. (18.6 x 28.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1956",
+ "Accession Number": "56.500.136",
+ "Who": "Jacques-Charles-François-Marie Froment-Meurice",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1900 A.D.–present",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90058767,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811009.jpg",
+ "related-artworks": [
+  90058124,
+  90058756,
+  90058762,
+  90058766,
+  90058799
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90058767"
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "Decorator": "Decoration in the style of Kajetan Purtscher (German, ca. 1740–1813 Nymphenburg)",
+ "Date": "1760–65",
+ "Culture": "German (Nymphenburg)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 3 in. (7.6 cm.); Diam. 2 5/8 in. (6.7 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.319",
+ "Who": [
+  "Nymphenburg Porcelain Manufactory",
+  "Kajetan Purtscher"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Drinking vessels",
+  "Cups",
+  "Hard paste porcelain",
+  "Coffee cups"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Munich",
+  "Nymphenburg"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120027797,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF64_101_319-320.jpg",
+ "related-artworks": [
+  120027794,
+  120027795,
+  120027796,
+  120027791,
+  120014352
+ ],
+ "Provenance": [
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120027797"
+  }
+ }
+}

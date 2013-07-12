@@ -1,0 +1,46 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht South, Pyramid Slump, North side, MMA 1933–1934",
+ "Medium": "Bronze or copper alloy",
+ "Dimensions": "h. 5.5 cm (2 3/16 in); diam. 12 cm (4 3/4 in)",
+ "Credit Line": "Rogers Fund, 1934",
+ "Accession Number": "34.1.47",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Copper alloy",
+  "Bronze",
+  "Copper",
+  "Furniture",
+  "Stands"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100013256,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs34.1.47yy.jpg",
+ "related-artworks": [
+  100013257,
+  100028606,
+  100000343,
+  100000344,
+  100002226
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100013256"
+  }
+ }
+}

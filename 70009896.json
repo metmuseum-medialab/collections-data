@@ -1,0 +1,47 @@
+{
+ "Date": "1480–1500",
+ "Geography": "Made in Swabia (?), Germany",
+ "Culture": "South German",
+ "Medium": "Colorless glass, vitreous paint and silver stain",
+ "Dimensions": [
+  "Overall (with border) 9 1/8 in. (23.2 cm)",
+  "Overall (without border) 6 5/8 in. (16.8 cm)"
+ ],
+ "Classification": "Glass-Stained",
+ "Credit Line": "The Cloisters Collection, 1985",
+ "Accession Number": "1985.244",
+ "What": [
+  "Metal",
+  "Glass",
+  "Silver",
+  "Stained glass",
+  "Roundels"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Swabia"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70009896,
+ "gallery-id": 10,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi1985-244.jpg",
+ "related-artworks": [
+  70009860,
+  70009871,
+  70010325,
+  70011536,
+  70011537
+ ],
+ "Provenance": [
+  "Melville Greenland , New York (sold 1985)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70009896"
+  }
+ }
+}

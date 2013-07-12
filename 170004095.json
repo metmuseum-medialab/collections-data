@@ -1,0 +1,48 @@
+{
+ "Date": "13th century",
+ "Culture": "North Italian",
+ "Medium": "Ivory, with traces of paint and gilding, silver pins",
+ "Dimensions": "Overall 5 3/8 x 4 9/16 x 15/16 in. (13.6 x 11.6 x 2.4 cm)",
+ "Classification": "Ivories",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.223",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gilt",
+  "Bone",
+  "Ivory",
+  "Pins",
+  "Crosiers"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004095,
+ "gallery-id": 304,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-223s1.jpg",
+ "related-artworks": [
+  170003982,
+  170004103,
+  170004096,
+  170004089,
+  170003878
+ ],
+ "Provenance": [
+  "Dmitri Schevitch, Paris (sold 1906)",
+  "his sale, Galerie Georges Petit, Paris (April 4–7, 1906, no. 141)",
+  "Georges Hoentschel (French, Paris 1855–1915)(before 1911)",
+  "J. Pierpont Morgan, London and New York (by 1911–1913)",
+  "Estate of J. Pierpont Morgan(1913–1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004095"
+  }
+ }
+}

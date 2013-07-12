@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1766",
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Carll Tucker in memory of Carll Tucker, 1962",
+ "Accession Number": "62.545.8",
+ "Who": "Giovanni Battista Piranesi",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Rediscovery of Classical Antiquity",
+  "The Grand Tour",
+  "Venice in the Eighteenth Century",
+  "The Printed Image in the West History and Techniques",
+  "Joseph Mallord William Turner (1775–1851)",
+  "Neoclassicism",
+  "Giovanni Battista Piranesi (1720–1778)",
+  "The French Academy in Rome"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90036061,
+ "related-artworks": [
+  90004085,
+  90004773,
+  90016288,
+  90025589,
+  90027820
+ ],
+ "Provenance": [
+  "Donor: Mrs. Carll Tucker (Marcia Brady Tucker)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90036061"
+  }
+ }
+}

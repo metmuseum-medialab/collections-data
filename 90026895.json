@@ -1,0 +1,52 @@
+{
+ "Date": "1905",
+ "Medium": "Lithograph on china paper",
+ "Dimensions": [
+  "sheet 13 13/16 x 18 3/8 in. (35.1 x 46.7 cm)",
+  "plate 10 1/2 x 13 1/8 in. (26.7 x 33.3 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1923",
+ "Accession Number": "23.64.3",
+ "Who": "Auguste Renoir",
+ "What": [
+  "Prints",
+  "Paper",
+  "Planographic prints",
+  "Lithographs",
+  "China paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Impressionism Art and Modernity",
+  "Design Reform",
+  "The Transformation of Landscape Painting in France",
+  "Auguste Renoir (1841–1919)",
+  "Claude Monet (1840–1926)",
+  "The Lure of Montmartre, 1880–1900",
+  "Nineteenth–Century Classical Music",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90026895,
+ "related-artworks": [
+  90026899,
+  90026889,
+  90026890,
+  90026893,
+  90026719
+ ],
+ "Provenance": [
+  "Vendor: Frederick Keppel & Co."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026895"
+  }
+ }
+}

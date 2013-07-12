@@ -1,0 +1,40 @@
+{
+ "Date": "1900s–1910s",
+ "Medium": "Platinum print",
+ "Dimensions": "23.8 x 18.9 cm (9 3/8 x 7 7/16 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 1962",
+ "Accession Number": "62.579.23",
+ "Who": "Elizabeth Buehrmann",
+ "What": [
+  "Photographs",
+  "Platinum prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Daniel Chester French (1850–1931)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190022357,
+ "related-artworks": [
+  190022360,
+  190022361,
+  190022364,
+  190022346,
+  190022344
+ ],
+ "Provenance": [
+  "Elizabeth Buehrmann"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190022357"
+  }
+ }
+}

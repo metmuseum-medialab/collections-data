@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1200–1225",
+ "Geography": "Made in Saxony, Germany",
+ "Culture": "German",
+ "Medium": "Wood, polychromy, gilding",
+ "Dimensions": "Overall 2 3/16 x 1 11/16 x 9/16 in. (5.6 x 4.3 x 1.5 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Bequest of George Blumenthal, 1941",
+ "Accession Number": "41.190.238",
+ "What": [
+  "Sculpture",
+  "Paintings",
+  "Gilt",
+  "Reliefs",
+  "Miniatures",
+  "Polychromy"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Saxony"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170007936,
+ "gallery-id": 304,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf41-190-238s1.jpg",
+ "related-artworks": [
+  170007933,
+  170007935,
+  170007932,
+  170007934,
+  170006723
+ ],
+ "Description": "Originally these five panels may have been mounted as frame elements for a devotional image or reliquary container.",
+ "Provenance": [
+  "George and Florence Blumenthal, Paris and New York (until 1941)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170007936"
+  }
+ }
+}

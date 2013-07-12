@@ -1,0 +1,34 @@
+{
+ "Date": "1875–1925",
+ "Culture": "American or European",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Irene Lewisohn, 1937",
+ "Accession Number": "C.I.37.44.7",
+ "What": [
+  "Costume",
+  "Silk",
+  "Underwear",
+  "Underskirts",
+  "Petticoats"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80007951,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI37.44.7_F.jpg",
+ "related-artworks": [
+  80006001,
+  80007942,
+  80007952,
+  80007925,
+  80007926
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007951"
+  }
+ }
+}

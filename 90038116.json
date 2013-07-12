@@ -1,0 +1,39 @@
+{
+ "Date": "1982",
+ "Medium": "Color woodcut",
+ "Dimensions": [
+  "a. sheet 23 7/8 x 18 1/16 in. (60.6 x 45.9 cm)",
+  "b. sheet 23 7/8 x 18 1/16 in. (60.6 x 45.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "John B. Turner Fund, 1982",
+ "Accession Number": "1982.1132a, b",
+ "Who": "Susan Crile",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints",
+  "Color woodcuts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90038116,
+ "related-artworks": [
+  90005611,
+  210005289,
+  90013965
+ ],
+ "Provenance": [
+  "Vendor: 724 Prints (New York, NY)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90038116"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1352 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Karnak",
+ "Medium": "Granodiorite",
+ "Dimensions": "h. 209 cm (82 5/16 in)",
+ "Credit Line": "Gift of Henry Walters, 1915",
+ "Accession Number": "15.8.4",
+ "What": [
+  "Sculpture",
+  "Statues",
+  "Granodiorite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100000779,
+ "gallery-id": 131,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/15.8.4_front.jpg",
+ "related-artworks": [
+  100000776,
+  100000777,
+  100000778,
+  100000782,
+  100006404
+ ],
+ "Description": "This lion-headed figure represents the goddess Sakhmet, whose name means \"the powerful one.\" Sakhmet was goddess of war, violent storms, and pestilence. When she was appeased, her powers of destruction could be used to protect, and in this aspect she became a goddess of healing.",
+ "Provenance": [
+  "Taken to England in the early 1800s by Belzoni and D'Athanasi who were working for Henry Salt",
+  "exhibited in the recesses of Waterloo Bridge, 1833",
+  "Collection of John Lee of Hartwell House",
+  "Collection of Lord Amherst",
+  "purchased by the Museum from Lord Amherst, 1915."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100000779"
+  }
+ }
+}

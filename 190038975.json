@@ -1,0 +1,51 @@
+{
+ "Artist": "Painted and retouched by Unknown, French",
+ "Date": "1861–67",
+ "Medium": "Salted paper print from glass negative",
+ "Dimensions": [
+  "Image 23.6 x 17 cm (9 5/16 x 6 11/16 in.)",
+  "Mount 31.7 x 23.8 cm (12 1/2 x 9 3/8 in.)",
+  "Mat 57.2 x 47 cm (22 1/2 x 18 1/2 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+ "Accession Number": "2005.100.406",
+ "Who": [
+  "Pierre-Louis Pierson",
+  "Unknown, French"
+ ],
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Haute Couture",
+  "The Industrialization of French Photography after 1860",
+  "France, 1800–1900 A.D."
+ ],
+ "id": 190038975,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP158953.jpg",
+ "related-artworks": [
+  190013037,
+  190013038,
+  190013034,
+  190013039,
+  190013032
+ ],
+ "Provenance": [
+  "Maurice Levert",
+  "(Pescheteau-Badin, Godeau & Leroy, Paris, January 28, 1995, lot 91)",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190038975"
+  }
+ }
+}

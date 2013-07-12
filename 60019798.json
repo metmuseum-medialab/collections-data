@@ -1,0 +1,47 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "Dated 1669",
+ "Culture": "China",
+ "Medium": "Handscroll; ink and color on silk",
+ "Dimensions": [
+  "Image 10 x 82 1/2 in. (25.3 x 209.4 cm)",
+  "Overall with mounting 11 3/4 x 348 in. (29.8 x 883.9 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Ex coll. C. C. Wang Family, Gift of Douglas Dillon, 1978",
+ "Accession Number": "1978.423",
+ "Who": "Wang Hui",
+ "What": [
+  "Silk",
+  "Ink",
+  "Paintings",
+  "Scroll paintings",
+  "Handscrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Wang Hui (1632–1717)",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60019798,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP154142_CRD.jpg",
+ "related-artworks": [
+  60019803,
+  60019804,
+  60022332,
+  60007108,
+  60019795
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60019798"
+  }
+ }
+}

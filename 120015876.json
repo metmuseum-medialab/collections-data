@@ -1,0 +1,51 @@
+{
+ "Date": "18th century",
+ "Culture": "British, Etruria, Staffordshire",
+ "Medium": "Black basalt ware",
+ "Dimensions": "2 3/4 x 2 1/4 in.  (7.0 x 5.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Glenn Tilley Morse Collection, Bequest of Glenn Tilley Morse, 1950",
+ "Accession Number": "50.187.16",
+ "Who": "Josiah Wedgwood",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Medals",
+  "Medallions",
+  "Basalt"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The Grand Tour",
+  "Neoclassicism",
+  "The Neoclassical Temple",
+  "Cameo Appearances",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120015876,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/148918.jpg",
+ "related-artworks": [
+  120014158,
+  120014141,
+  120014159,
+  120014142,
+  120015873
+ ],
+ "Provenance": [
+  "Glenn Tilley Morse (until 1950",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120015876"
+  }
+ }
+}

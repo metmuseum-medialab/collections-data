@@ -1,0 +1,33 @@
+{
+ "Publisher": "Published by Simon Halbmeyer (1587–1632)",
+ "Date": "1623",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1950",
+ "Accession Number": "50.507.1",
+ "Who": [
+  "Simon Halbmeyer",
+  "Andreas Albrecht"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90011976,
+ "related-artworks": [
+  90024412,
+  90000717,
+  90004171,
+  90004989,
+  90005946
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90011976"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12–13",
+ "Date": "ca. 1981–1640 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Cemetery, MMA 1920–1922",
+ "Medium": "Faience",
+ "Dimensions": "h. 0.8 cm (5/16 in); diam. 1.4 cm (9/16 in)",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.151.307",
+ "What": [
+  "Faience",
+  "Game pieces"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100016842,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/11.151.307-ac.jpg",
+ "related-artworks": [
+  100003307,
+  100017504,
+  100003244,
+  100003296,
+  100014732
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100016842"
+  }
+ }
+}

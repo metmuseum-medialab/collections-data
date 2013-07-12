@@ -1,0 +1,33 @@
+{
+ "Date": "1875–1925",
+ "Culture": "American or European",
+ "Medium": "metal, glass",
+ "Dimensions": "Length 8 1/4 in. (21 cm)",
+ "Credit Line": "Gift of Miriam Whitney Coletti, 1985",
+ "Accession Number": "1985.364.17",
+ "What": [
+  "Metal",
+  "Glass",
+  "Pins",
+  "Hatpins"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80049395,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1985.364.17.jpg",
+ "related-artworks": [
+  80049359,
+  80049397,
+  80049402,
+  80049399,
+  80049645
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80049395"
+  }
+ }
+}

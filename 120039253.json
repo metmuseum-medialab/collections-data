@@ -1,0 +1,42 @@
+{
+ "Date": "17th century",
+ "Culture": "French",
+ "Medium": "Needle lace",
+ "Dimensions": "L. 21 x W. 10 inches (53.3 x 25.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. John H. Wilcox (in memory of Mrs. Reiman Duval), 1924",
+ "Accession Number": "24.193",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120039253,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/58522.jpg",
+ "related-artworks": [
+  120030050,
+  120030064,
+  120030151,
+  120030564,
+  120030602
+ ],
+ "Provenance": [
+  "Mrs. John H. Wilcox (until 1924",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120039253"
+  }
+ }
+}

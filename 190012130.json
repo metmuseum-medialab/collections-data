@@ -1,0 +1,36 @@
+{
+ "Date": "1964",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 1972",
+ "Accession Number": "1972.711.9",
+ "Who": "Dena",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190012130,
+ "related-artworks": [
+  190012115,
+  190012117,
+  190012116,
+  190012118,
+  190012119
+ ],
+ "Provenance": [
+  "Dena"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190012130"
+  }
+ }
+}

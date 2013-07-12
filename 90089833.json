@@ -1,0 +1,40 @@
+{
+ "Artist": "After François Boucher (French, Paris 1703–1770 Paris)",
+ "Date": "late 18th century",
+ "Medium": "Etching and engraving",
+ "Dimensions": "Sheet 16 1/8 x 13 in. (40.9 x 33 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1950",
+ "Accession Number": "50.567.47",
+ "Who": [
+  "François Boucher",
+  "Madame Jourdan"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90089833,
+ "related-artworks": [
+  90088654,
+  90068949,
+  90088493,
+  90005638
+ ],
+ "Provenance": [
+  "Vendor: The French Institute Library"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90089833"
+  }
+ }
+}

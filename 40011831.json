@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1780",
+ "Culture": "American",
+ "Classification": "Swords",
+ "Credit Line": "Gift of Francis P. Garvan, 1919",
+ "Accession Number": "19.134a, b",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Cases",
+  "Sheaths",
+  "Sabers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40011831,
+ "related-artworks": [
+  40002215,
+  40003919,
+  40009611,
+  40010619,
+  40010630
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40011831"
+  }
+ }
+}

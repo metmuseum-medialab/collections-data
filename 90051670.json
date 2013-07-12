@@ -1,0 +1,40 @@
+{
+ "Artist": "Giovanni Volpato (Italian, Bassano 1732–1803 Rome)",
+ "Date": "1769",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 7 13/16 x 8 7/8 in. (19.8 x 22.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Janet S. Byrne",
+ "Accession Number": "1992.1033.17",
+ "Who": [
+  "Giovanni Volpato",
+  "Ennemond Alexandre Petitot"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90051670,
+ "related-artworks": [
+  90072134,
+  90016072,
+  90023131,
+  90054308,
+  90068414
+ ],
+ "Provenance": [
+  "Donor: Janet S. Byrne"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90051670"
+  }
+ }
+}

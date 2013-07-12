@@ -1,0 +1,40 @@
+{
+ "Date": "1750–75",
+ "Culture": "French",
+ "Medium": "silk, metal thread",
+ "Dimensions": [
+  "Length (a) 42 1/2 in. (108 cm)",
+  "Length (b) 33 in. (83.8 cm)"
+ ],
+ "Credit Line": "Gift of Henry Dazian, 1933",
+ "Accession Number": "33.124.3a, b",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Suits",
+  "Court dress"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80014575,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/33.124.3ab_F.jpg",
+ "related-artworks": [
+  80013486,
+  80014570,
+  80014792,
+  80002279,
+  80014558
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80014575"
+  }
+ }
+}

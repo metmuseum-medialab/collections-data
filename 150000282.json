@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1460–70",
+ "Culture": "Eastern Germany",
+ "Medium": "Pen and dark brown ink and red and yellowish brown watercolor.",
+ "Dimensions": "8 1/16 x 4 13/16 in.  (20.4 x 12.2 cm)",
+ "Classification": "Drawings",
+ "Accession Number": "1975.1.868",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Pen"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 150000282,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-868.jpg",
+ "related-artworks": [
+  150000189,
+  150000273,
+  150000278,
+  150000283,
+  150000284
+ ],
+ "Provenance": [
+  "Possibly Junius S. Morgan or H.R. Schniewind",
+  "sale, Anderson Galleries, New York, 18 February 1921, lot 55 (as Master of the Playing Cards)",
+  "[Richard Ederheimer, New York].  Acquired by Robert Lehman through Ederheimer in 1926."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150000282"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Sitter": "Frontispiece portrait of Baron Emile de L'Empésé (French, active 19th century)",
+ "Date": "1827",
+ "Medium": "plates engraving, lithography",
+ "Dimensions": "Overall 5 5/16 x 3 9/16 x 1/2 in. (13.5 x 9 x 1.3 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1942",
+ "Accession Number": "42.96",
+ "Who": "Baron Emile de L'Empésé",
+ "What": [
+  "Prints",
+  "Engraving",
+  "Planographic prints",
+  "Lithographs",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012709,
+ "related-artworks": [
+  90023420,
+  90026208,
+  90039022,
+  90040200,
+  90004244
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90012709"
+  }
+ }
+}

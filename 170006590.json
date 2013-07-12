@@ -1,0 +1,44 @@
+{
+ "Date": "late 15th or early 16th century",
+ "Culture": "German",
+ "Medium": "Free-blown potash-lime glass and applied decoration",
+ "Dimensions": "Overall 5 11/16 x 4 1/2 in. (14.5 x 11.5 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Munsey Fund, 1927",
+ "Accession Number": "27.185.211",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Beakers",
+  "Lime",
+  "Potash",
+  "Lime glass"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170006590,
+ "gallery-id": 10,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/ES7862.jpg",
+ "related-artworks": [
+  170002712,
+  170006585,
+  170006586,
+  170006587,
+  170006589
+ ],
+ "Description": "This ordinary drinking vessel is decorated with applied drops of glass drawn into points, or prunts, that give the beaker its name, Krautstrunk, a German word meaning \"cabbage stalk.\"  Although primarily decorative, the prunts also provided a surer grip on the vessel, which was heavy when filled.",
+ "Provenance": [
+  "Jacques Mühsam, Berlin (sold 1927)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006590"
+  }
+ }
+}

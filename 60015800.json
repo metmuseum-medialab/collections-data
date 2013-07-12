@@ -1,0 +1,51 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "late 18th–first half of the 19th century",
+ "Culture": "China",
+ "Medium": "Porcelain with relief decoration, painted in overglaze famille rose enamels and gilt",
+ "Dimensions": "H. 4 3/8 in. (11.1 cm); Diam. 5 1/8 in. (13 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.722a, b",
+ "What": [
+  "Ceramics",
+  "Sculpture",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Gilt",
+  "Painting",
+  "Enamels",
+  "Reliefs",
+  "Overglazing",
+  "Famille"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "id": 60015800,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/79_2_722ab_O1_sf.jpg",
+ "related-artworks": [
+  60016196,
+  60016195,
+  60016238,
+  60015331,
+  60015385
+ ],
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60015800"
+  }
+ }
+}

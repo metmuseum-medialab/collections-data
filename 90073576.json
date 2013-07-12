@@ -1,0 +1,45 @@
+{
+ "Publisher": "WPA",
+ "Date": "1938",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "sheet 16 9/16 x 11 7/16 in. (42 x 29.1 cm)",
+  "image 13 1/2 x 9 1/8 in. (34.3 x 23.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, Allocation Unit, Chicago, 1943",
+ "Accession Number": "43.47.314",
+ "Who": [
+  "WPA",
+  "Isadore Weiner"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90073576,
+ "related-artworks": [
+  90073573,
+  90073575,
+  90073577,
+  90073582,
+  90073584
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90073576"
+  }
+ }
+}

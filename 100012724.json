@@ -1,0 +1,41 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1352 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Sheikh Abd el-Qurna",
+ "Medium": "Terracotta",
+ "Dimensions": "L. 14.5 cm (5 11/16 in); diam. 7.5 cm (2 15/16 in)",
+ "Credit Line": "Gift of Herbert E. Winlock, 1909",
+ "Accession Number": "09.185.25a",
+ "What": [
+  "Clay",
+  "Terracotta"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100012724,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/bw09.185.25b.jpg",
+ "related-artworks": [
+  100001292,
+  100002146,
+  100002573,
+  100005262,
+  100006119
+ ],
+ "Provenance": [
+  "Acquired at Qurna and given to the Museum by Herbert Winlock, 1909."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100012724"
+  }
+ }
+}

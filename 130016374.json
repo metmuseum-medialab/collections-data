@@ -1,0 +1,40 @@
+{
+ "Period": "Antonine",
+ "Date": "ca. A.D. 161–180",
+ "Culture": "Roman",
+ "Medium": "Marble",
+ "Dimensions": "H. 13 1/2 in. (34.3 cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "Gift of Shelby and Leon Levy, 1986",
+ "Accession Number": "1986.40",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Figures",
+  "Marble",
+  "Busts"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130016374,
+ "gallery-id": 162,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/238477.jpg",
+ "related-artworks": [
+  130006301,
+  130007458,
+  130008616,
+  130008942,
+  130009199
+ ],
+ "Description": "The well-formed but rather puffy features, the prominent eyes, and the deeply waved hair exemplify mid-Antonine standards of beauty and are identifying traits of this empress.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130016374"
+  }
+ }
+}

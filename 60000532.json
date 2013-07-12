@@ -1,0 +1,46 @@
+{
+ "Period": "Neolithic period, Dawenkou–Longshan culture",
+ "Date": "2400–1900 B.C.",
+ "Culture": "China",
+ "Medium": "Jade (nephrite)",
+ "Dimensions": "L. 6 1/8 in. (15.6 cm); W. 3 7/8 in. (9.8 cm)",
+ "Classification": "Hardstone",
+ "Credit Line": "Purchase, Charlotte C. and John C. Weber Gift and Rogers Fund, 1991",
+ "Accession Number": "1991.250",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Jade",
+  "Nephrite",
+  "Axes",
+  "Ceremonial weapons",
+  "Ceremonial axes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 8000–2000 B.C.",
+  "Central and North Asia, 2000–1000 B.C.",
+  "China, 8000–2000 B.C.",
+  "China, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60000532,
+ "gallery-id": 207,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1991_250.JPG",
+ "related-artworks": [
+  60020030,
+  60005592,
+  60012476,
+  60020033,
+  60020034
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60000532"
+  }
+ }
+}

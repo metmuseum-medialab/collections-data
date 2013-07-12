@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Geography": "Papua New Guinea, Lower Sepik, Keram River",
+ "Culture": "Kambot people",
+ "Medium": "Wood, paint, fiber",
+ "Dimensions": "H. 96 in (243.8 cm)",
+ "Classification": "Wood-Architectural",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Gift of Nelson A. Rockefeller, 1969",
+ "Accession Number": "1978.412.823",
+ "What": "Figures",
+ "Where": [
+  "Oceania",
+  "Papua New Guinea"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Melanesia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50003874,
+ "gallery-id": 354,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DP149794.jpg",
+ "related-artworks": [
+  50002742,
+  50002766,
+  50002994,
+  50003753,
+  50003754
+ ],
+ "Description": "The Kambot people live along the banks of the Keram River, a tributary of the lower Sepik River in New Guinea. This figure was not originally an independent sculpture but probably formed part of a housepost supporting the roof of a ceremonial house. The image represents either Mobul or Goyen, two mythical brothers who are associated with the creation of plants and animals. The brothers' spirits were believed to reside within the houseposts at certain times. This figure is probably the largest surviving example of Kambot wood sculpture. The head is a double image in which the eyes and nose of the central face also form the arms and flute of a second, smaller figure.",
+ "Provenance": [
+  "L. R. Webb, Oakland, Calif., until 1963",
+  "Nelson A. Rockefeller, New York, 1963, on loan to The Museum of Primitive Art, New York, 1963–1969",
+  "The Museum of Primitive Art, New York, 1969–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50003874"
+  }
+ }
+}

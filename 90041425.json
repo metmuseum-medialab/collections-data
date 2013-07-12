@@ -1,0 +1,62 @@
+{
+ "Etcher": "Etched by Jan and Lucas van Deutecum (Dutch, active ca. 1558)",
+ "Date": "ca. 1571–80",
+ "Medium": "Etching",
+ "Dimensions": [
+  "sheet 10 3/4 x 13 7/8 in. (27.3 x 35.3 cm)",
+  "plate 8 7/16 x 11 1/4 in. (21.5 x 28.5 cm)"
+ ],
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1946",
+ "Accession Number": "46.109.2",
+ "Who": [
+  "Hans Vredeman de Vries",
+  "Jan  Lucas van Deutecum"
+ ],
+ "What": [
+  "Etching",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90041425,
+ "related-artworks": [
+  "http://scrapi.org/object/90011454",
+  "http://scrapi.org/object/90011463",
+  "http://scrapi.org/object/90011507",
+  "http://scrapi.org/object/90011522",
+  "http://scrapi.org/object/90011502"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Vendor: William H. Schab"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90011454"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90011463"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90011507"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90011522"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90011502"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90041425"
+  }
+ }
+}

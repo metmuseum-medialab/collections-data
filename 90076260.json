@@ -1,0 +1,44 @@
+{
+ "Publisher": "Johannes Baptista Vrints (Netherlandish)",
+ "Date": "1608",
+ "Medium": "Etching, first state of two (Bartsch)",
+ "Dimensions": [
+  "sheet 20 1/2 x 14 9/16 in. (52 x 37 cm)",
+  "plate 8 11/16 x 11 in. (22 x 28 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.4092",
+ "Who": [
+  "Antonio Tempesta",
+  "Johannes Baptista Vrints"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Rembrandt van Rijn (1606–1669) Prints",
+ "id": 90076260,
+ "related-artworks": [
+  90032691,
+  90032692,
+  90032693,
+  90033241,
+  90055208
+ ],
+ "Provenance": [
+  "P. & D. Colnaghi & Co., Ltd., London",
+  "Princes of Liechtenstein, Vaduz and Vienna"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90076260"
+  }
+ }
+}

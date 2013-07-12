@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1550–1600",
+ "Geography": "Made in Northern Switzerland (?)",
+ "Culture": "Upper Rhenish",
+ "Medium": "Linen warp;  wool, silk, and metallic wefts, silk embroidery yarns",
+ "Dimensions": "Overall 36 x 88in. (91.4 x 223.5cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Leo S. Bing, 1951",
+ "Accession Number": "51.50",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Wool",
+  "Linen",
+  "Embroidery",
+  "Tapestries",
+  "Altar frontal"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland"
+ ],
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe (including Germany), 1600–1800 A.D.",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 70008350,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/DP159890.jpg",
+ "related-artworks": [
+  70008409,
+  70021139,
+  70021140,
+  70006101,
+  70008512
+ ],
+ "Provenance": [
+  "Collegium Germanicum , Rome (in 1924)",
+  "Mrs. Leo S. Bing , New York (until 1951)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70008350"
+  }
+ }
+}

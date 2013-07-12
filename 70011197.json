@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1130–1140",
+ "Geography": "Made in present-day France",
+ "Culture": "Catalan",
+ "Medium": "Pink marble",
+ "Dimensions": "Overall 33 1/2 x 88 in. (85.1 x 223.5 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Cloisters Collection, 1925",
+ "Accession Number": "25.120.866",
+ "What": [
+  "Sculpture",
+  "Marble",
+  "Arches"
+ ],
+ "Where": [
+  "Europe",
+  "Spain",
+  "Catalonia"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011197,
+ "gallery-id": 7,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/DP132222.jpg",
+ "related-artworks": [
+  70011131,
+  70011196,
+  70011198,
+  70011199,
+  70011200
+ ],
+ "Provenance": [
+  "From the Benedictine monastery of Saint-Michel-de-Cuxa, near Perpignan, FranceGeorge Grey Barnard American, Bellefonte, Pennsylvania 1863–1938 New York , New York (until 1925)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011197"
+  }
+ }
+}

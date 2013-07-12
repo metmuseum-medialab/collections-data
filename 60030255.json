@@ -1,0 +1,52 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Lacquer, roiro, nashiji,  tsuishu, gold hiramakie, ceramic inlay; Interior roiro, nashiji and fundame",
+ "Dimensions": "3 13/16 x 3 13/16 x 1 15/16 in. (9.7 x 9.7 x 4.9 cm)",
+ "Classification": "Inrō",
+ "Credit Line": "Gift of Mrs. George A. Crocker (Elizabeth Masten), 1937",
+ "Accession Number": "38.25.138",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Gold",
+  "Lacquer",
+  "Inro",
+  "Sagemono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60030255,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60029739"
+   },
+   {
+    "href": "http://scrapi.org/object/60012571"
+   },
+   {
+    "href": "http://scrapi.org/object/60013398"
+   },
+   {
+    "href": "http://scrapi.org/object/60029691"
+   },
+   {
+    "href": "http://scrapi.org/object/60029692"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60030255"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60030255"
+  }
+ }
+}

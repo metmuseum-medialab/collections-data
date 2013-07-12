@@ -1,0 +1,31 @@
+{
+ "Date": "ca. 1900",
+ "Medium": "Silk",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.21.551",
+ "Who": "Designer Unknown",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Samples"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 210000541,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP10100.jpg",
+ "related-artworks": [
+  210000039,
+  210000040,
+  210000042,
+  210000043,
+  210000044
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210000541"
+  }
+ }
+}

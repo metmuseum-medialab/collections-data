@@ -1,0 +1,50 @@
+{
+ "Date": "1896",
+ "Medium": "Transfer lithograph; only state",
+ "Dimensions": "sheet 11 1/16 x 8 7/8 in. (28.1 x 22.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Paul F. Walter, 1984",
+ "Accession Number": "1984.1119.18",
+ "Who": "James McNeill Whistler",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Transfer lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Americans in Paris, 1860–1900",
+  "The Print in the Nineteenth Century",
+  "Nineteenth–Century American Drawings",
+  "William Merritt Chase (1849–1916)",
+  "James McNeill Whistler (1834–1903)",
+  "Design Reform",
+  "Lithography in the Nineteenth Century",
+  "Japonisme",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "id": 90045765,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP814068.jpg",
+ "related-artworks": [
+  90006512,
+  90014817,
+  90014818,
+  90014815,
+  90014822
+ ],
+ "Provenance": [
+  "Rosalind Birnie Philip",
+  "Donor: Paul F. Walter"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90045765"
+  }
+ }
+}

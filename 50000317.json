@@ -1,0 +1,59 @@
+{
+ "Date": "1st–8th century",
+ "Geography": "Mexico, Mesoamerica, Guerrero",
+ "Culture": "Mezcala (?)",
+ "Medium": "Greenstone",
+ "Dimensions": [
+  "Overall 1 5/8 x 3 x 3 1/4 in. (4.06 x 7.59 x 8.31 cm)",
+  "Other 3 x 3 1/4 in. (7.59 x 8.31 cm)"
+ ],
+ "Classification": "Stone-Sculpture",
+ "Credit Line": "Museum Purchase, 1900",
+ "Accession Number": "00.5.1239",
+ "Who": "Mezcala",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Figures"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico",
+  "Guerrero"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico, 500–1000 A.D.",
+  "Mexico, 1–500A.D."
+ ],
+ "id": 50000317,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs00_5_1239.jpg",
+ "Provenance": [
+  "Louis Petich Collection, New York, before 1893–1900, on loan to Metropolitan Museum of Art, New York, 1894–1900"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50004816"
+   },
+   {
+    "href": "http://scrapi.org/object/50005231"
+   },
+   {
+    "href": "http://scrapi.org/object/50005667"
+   },
+   {
+    "href": "http://scrapi.org/object/50008465"
+   },
+   {
+    "href": "http://scrapi.org/object/50008468"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50000317"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50000317"
+  }
+ }
+}

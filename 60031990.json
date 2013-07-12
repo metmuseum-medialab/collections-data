@@ -1,0 +1,39 @@
+{
+ "Period": "late Zhou (1046–256 B.C.)–early Han (206 B.C.–A.D. 220) dynasty",
+ "Date": "3rd–2nd century B.C.",
+ "Culture": "China",
+ "Medium": "Bone",
+ "Dimensions": "L. 1 7/8 in. (4.8 cm); Diam. 7/8 in. (2.2 cm)",
+ "Classification": "Bone",
+ "Credit Line": "Gift of Ernest Erickson Foundation, 1985",
+ "Accession Number": "1985.214.128",
+ "What": [
+  "Bone",
+  "Rings"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1000 B.C.–1 A.D.",
+  "China, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60031990,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1985_214_128.jpg",
+ "related-artworks": [
+  60032439,
+  60032448,
+  60032569,
+  60033369,
+  60048831
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60031990"
+  }
+ }
+}

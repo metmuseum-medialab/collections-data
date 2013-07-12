@@ -1,0 +1,44 @@
+{
+ "Date": "1800–1830",
+ "Geography": "Mid-Atlantic, Philadelphia, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": "L. 6 3/8 in. (16.2 cm)",
+ "Classification": "Silver",
+ "Credit Line": "Bequest of Alphonso T. Clearwater, 1933",
+ "Accession Number": "33.120.603",
+ "Who": "Robert Swan",
+ "What": [
+  "Metal",
+  "Silver",
+  "Tongs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Philadelphia"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10009042,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/97978.jpg",
+ "related-artworks": [
+  10008291,
+  10009025,
+  10005984,
+  10007001,
+  10007402
+ ],
+ "Provenance": [
+  "Alphonso T. Clearwater, Kingston, New York, until died 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10009042"
+  }
+ }
+}

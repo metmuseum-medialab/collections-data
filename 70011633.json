@@ -1,0 +1,40 @@
+{
+ "Date": "14th century",
+ "Culture": "French",
+ "Medium": "Limestone",
+ "Dimensions": "Overall 16 3/4 x 15 in. (42.5 x 38.1 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of George Blumenthal, 1934",
+ "Accession Number": "34.21.14",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Reliefs"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Burgundy"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011633,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/sf591.jpg",
+ "related-artworks": [
+  70014707,
+  70012808,
+  70009842,
+  70010343,
+  70011867
+ ],
+ "Provenance": [
+  "Convent of Carmelitte, PoitiersGeorge and Florence Blumenthal , Paris and New York (until 1934)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011633"
+  }
+ }
+}

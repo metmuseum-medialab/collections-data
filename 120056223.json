@@ -1,0 +1,44 @@
+{
+ "Date": "early 17th century",
+ "Culture": "British",
+ "Medium": "Sycamore wood, painted and gilt",
+ "Dimensions": "4-9/16 x 5-11/16 in.  (11.6 x 14.4 cm)",
+ "Classification": "Natural Substances",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.1579–.1591a, b",
+ "What": [
+  "Gilt",
+  "Wood",
+  "Dishes",
+  "Painting",
+  "Boxes",
+  "Sycamore",
+  "Trenchers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 120056223,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/201605.jpg",
+ "related-artworks": [
+  120025852,
+  120025855,
+  120025848,
+  120025849,
+  120025850
+ ],
+ "Provenance": [
+  "Arnold Shircliffe",
+  "[his sale, Parke-Bernet Galleries , Nov. 10, 1954, lot #669]",
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120056223"
+  }
+ }
+}

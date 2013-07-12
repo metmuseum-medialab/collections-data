@@ -1,0 +1,34 @@
+{
+ "Date": "1920–27",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Irene Lewisohn and Mrs. Alice Lewisohn Crowley, 1946",
+ "Accession Number": "C.I.46.9.11",
+ "What": [
+  "Costume",
+  "Hats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80045579,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI46.9.11.jpg",
+ "related-artworks": [
+  80000048,
+  80000049,
+  80000147,
+  80000476,
+  80000478
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80045579"
+  }
+ }
+}

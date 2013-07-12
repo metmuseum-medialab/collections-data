@@ -1,0 +1,32 @@
+{
+ "Date": "18th century",
+ "Culture": "Japanese",
+ "Classification": "Sword Furniture",
+ "Credit Line": "Gift of a Trustee of the Museum, 1917",
+ "Accession Number": "17.208.115a, b",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 40013568,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/50996.jpg",
+ "related-artworks": [
+  40000001,
+  40000006,
+  40000009,
+  40000015,
+  40000017
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40013568"
+  }
+ }
+}

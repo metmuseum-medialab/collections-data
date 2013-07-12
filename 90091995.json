@@ -1,0 +1,47 @@
+{
+ "Artist": "After John B. Forrest (British, Aberdeenshire, Scotland 1814–1870 Hudson, New York)",
+ "Publisher": "Henry M. Onderdonk (New York, NY)",
+ "Date": "ca. 1844",
+ "Medium": "Engraving; published state",
+ "Dimensions": [
+  "Image 6 5/16 x 3 15/16 in. (16 x 10 cm)",
+  "Sheet 10 7/16 x 4 1/8 in. (26.5 x 10.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Charles Allen Munn, 1924",
+ "Accession Number": "24.90.1216",
+ "Who": [
+  "John . Forrest",
+  "John Francis Eugene Prud'Homme",
+  "Henry M. Onderdonk"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 90091995,
+ "related-artworks": [
+  90092000,
+  90054895,
+  90062573,
+  90008899,
+  90041341
+ ],
+ "Description": "A street view of Christ Church, New York with a cloud filled sky.",
+ "Provenance": [
+  "Donor: Charles Allen Munn"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90091995"
+  }
+ }
+}

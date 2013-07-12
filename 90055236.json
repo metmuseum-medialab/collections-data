@@ -1,0 +1,50 @@
+{
+ "Engraver": "Engraved by Monchelet (French)",
+ "Publisher": "Published by François Chereau (French, Paris 1717–1755 Paris)",
+ "Date": "mid-18th century",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 18 1/8 x 13 1/4 x 13/16 in. (46.1 x 33.6 x 2.1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1952",
+ "Accession Number": "52.519.111(1-4)",
+ "Who": [
+  "François Chereau",
+  "F. Cornille",
+  "Monchelet"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90055236,
+ "Provenance": [
+  "Ogden Codman, Jr. (American, Boston, Massachusetts 1868–1951 Grégy-sur-Yerre)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90015400"
+   },
+   {
+    "href": "http://scrapi.org/object/90015401"
+   },
+   {
+    "href": "http://scrapi.org/object/90013903"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90055236"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90055236"
+  }
+ }
+}

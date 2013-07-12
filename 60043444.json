@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "early 18th century",
+ "Culture": "China",
+ "Medium": "Silk, metallic thread",
+ "Dimensions": "10 x 10 in. (25.40 x 25.40 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Anonymous Gift, 1946",
+ "Accession Number": "46.133.34",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Badges"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043444,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/SC13261.jpg",
+ "related-artworks": [
+  60031785,
+  60031788,
+  60031787,
+  60038445,
+  60039162
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043444"
+  }
+ }
+}

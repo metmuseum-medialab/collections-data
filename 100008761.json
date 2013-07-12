@@ -1,0 +1,43 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1353 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Malqata, Palace of Amenhotep III, MMA 1910–1911",
+ "Medium": "Faience",
+ "Dimensions": "L 1.6 cm (5/8 in)",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.215.21",
+ "What": [
+  "Sculpture",
+  "Faience",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008761,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/11.215.21_bottom.jpg",
+ "related-artworks": [
+  100005888,
+  100007663,
+  100007785,
+  100007809,
+  100007815
+ ],
+ "Provenance": [
+  "Museum excavations, 1910–11. Acquired by the Museum in the Division of Finds, 1911."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008761"
+  }
+ }
+}

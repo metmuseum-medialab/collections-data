@@ -1,0 +1,44 @@
+{
+ "Period": "Song dynasty (960–1279)",
+ "Culture": "China",
+ "Medium": "Pottery (Ding ware)",
+ "Dimensions": "H. 8 in. (20.3 cm); W. 7 1/2 in. (19.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Samuel T. Peters, 1926",
+ "Accession Number": "26.292.95",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Bottles",
+  "Ritual vessels",
+  "Ding",
+  "Pilgrim bottles"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000–1400 A.D.",
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D.",
+  "Central and North Asia, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60019022,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/26_292_95_01.JPG",
+ "related-artworks": [
+  60015802,
+  60019133,
+  60015446,
+  60018858,
+  60019023
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60019022"
+  }
+ }
+}

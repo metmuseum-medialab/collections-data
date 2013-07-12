@@ -1,0 +1,41 @@
+{
+ "Period": "period of Tibetan rule",
+ "Date": "mid-7th–9th century",
+ "Culture": "Northwest China/Eastern Central Asia",
+ "Medium": "Gold",
+ "Dimensions": "H. 5/8 in. (1.6 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Purchase, The Vincent Astor Foundation Gift, 2002",
+ "Accession Number": "2002.556.20",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Gold",
+  "Plaques"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60038609,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2002_556_20.JPG",
+ "related-artworks": [
+  60038591,
+  60038592,
+  60038593,
+  60038595,
+  60038596
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60038609"
+  }
+ }
+}

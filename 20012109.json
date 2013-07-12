@@ -1,0 +1,39 @@
+{
+ "Date": "1889–99",
+ "Medium": "Black watercolor, black crayon, and graphite on off-white wove paper",
+ "Dimensions": "6 5/8 x 10 5/8 in. (16.8 x 27 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Susan Dwight Bliss, 1966",
+ "Accession Number": "67.55.153",
+ "Who": "Joseph Pennell",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Graphite",
+  "Wove paper",
+  "Crayons"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 20012109,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap67.55.153.jpg",
+ "related-artworks": [
+  20012111,
+  20012115,
+  20014964,
+  20012114,
+  20012112
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20012109"
+  }
+ }
+}

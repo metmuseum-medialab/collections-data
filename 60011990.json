@@ -1,0 +1,41 @@
+{
+ "Period": "Neolithic period to Ming dynasty (1368–1644)",
+ "Culture": "China",
+ "Medium": "Stoneware",
+ "Dimensions": "H. 8 3/4 in. (22.2 cm); W. 2 3/4 in. (7 cm)",
+ "Classification": "Tomb Pottery",
+ "Credit Line": "Charlotte C. and John C. Weber Collection, Gift of Charlotte C. and John C. Weber, 1994",
+ "Accession Number": "1994.605.65",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Figures",
+  "Stoneware"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 8000–2000 B.C.",
+  "China, 8000–2000 B.C.",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60011990,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/272401.jpg",
+ "related-artworks": [
+  60010276,
+  60011979,
+  60011981,
+  60011982,
+  60011987
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60011990"
+  }
+ }
+}

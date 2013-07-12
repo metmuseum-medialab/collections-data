@@ -1,0 +1,61 @@
+{
+ "Date": "second half 18th century",
+ "Culture": "Italian (Naples)",
+ "Medium": "Polychromed terracotta",
+ "Dimensions": "H. 5 5/8 in. (14.3 cm.)",
+ "Classification": "Crèche",
+ "Credit Line": "Gift of Loretta Hines Howard, 1964",
+ "Accession Number": "64.164.55",
+ "What": [
+  "Clay",
+  "Terracotta",
+  "Figures",
+  "Polychromy",
+  "Crèches"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Naples"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120019797,
+ "gallery-id": 305,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES2703.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/ES2703.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/207702.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/182844.jpg"
+ ],
+ "Provenance": [
+  "Eugenio Catello , Naples, until ca. 1955"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120019744"
+   },
+   {
+    "href": "http://scrapi.org/object/120019747"
+   },
+   {
+    "href": "http://scrapi.org/object/120019796"
+   },
+   {
+    "href": "http://scrapi.org/object/120019763"
+   },
+   {
+    "href": "http://scrapi.org/object/120019808"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120019797"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120019797"
+  }
+ }
+}

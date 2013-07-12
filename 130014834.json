@@ -1,0 +1,42 @@
+{
+ "Period": "Archaic",
+ "Date": "ca. 500 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; black-figure",
+ "Dimensions": [
+  "Diameter 3 5/8 × 2 7/8 × 2 1/8 in. (9.2 × 7.4 × 5.4 cm)",
+  "Other (width w/ handles) 6 1/4 × 4 in. (15.9 × 10.2 cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1941",
+ "Accession Number": "41.162.168",
+ "Who": "Villa Giulia M.482",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Amphorae"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130014834,
+ "related-artworks": [
+  130005219,
+  130005230,
+  130006084,
+  130006715,
+  130007194
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130014834"
+  }
+ }
+}

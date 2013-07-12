@@ -1,0 +1,53 @@
+{
+ "Period": "Hellenistic",
+ "Date": "ca. 330–300 B.C.",
+ "Culture": "Greek",
+ "Medium": "Gold",
+ "Dimensions": [
+  "Overall 3 in., 0.2lb. (7.6 cm, 0.1kg)",
+  "Diam. 3/4 in. (1.9 cm)"
+ ],
+ "Classification": "Gold and Silver",
+ "Credit Line": "Rogers Fund, 1906",
+ "Accession Number": "06.1217.11, .12",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Gold",
+  "Jewelry",
+  "Pendants",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Greek Gods and Religious Practices",
+  "Music in Ancient Greece",
+  "Ancient Greece, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130008062,
+ "gallery-id": 158,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DT11662.jpg",
+ "related-artworks": [
+  130003136,
+  130011516,
+  130015016,
+  130015093,
+  130003134
+ ],
+ "Provenance": [
+  "Said to be from Madytos in the Thracian Chersonesos"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130008062"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "before 15th century",
+ "Geography": "Peru",
+ "Culture": "Peruvian",
+ "Medium": "Stone",
+ "Dimensions": "Height 1 in. (2.5 cm)",
+ "Classification": "Stone-Ornaments",
+ "Credit Line": "Bequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986",
+ "Accession Number": "1987.394.623",
+ "Who": "Peruvian",
+ "What": [
+  "Costume",
+  "Stone",
+  "Jewelry",
+  "Labrets"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1000–1400 A.D.",
+  "Central and Southern Andes, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50008338,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1987.394.623.jpg",
+ "related-artworks": [
+  50000168,
+  50008027,
+  50001298,
+  50001302,
+  50001303
+ ],
+ "Provenance": [
+  "Arnold I. Goldberg, New York,  until (d.)1976",
+  "Jane Costello Goldberg, New York, 1976– (d.)1986"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50008338"
+  }
+ }
+}

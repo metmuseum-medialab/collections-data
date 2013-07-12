@@ -1,0 +1,52 @@
+{
+ "Date": "ca. 1800",
+ "Geography": "New England, Boston, Massachusetts, United States; New England, Newburyport, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": [
+  "Overall 1 7/8 x 8 1/8 in. (4.8 x 20.6 cm); 8 oz. 3 dwt. (253.1 g)",
+  "Body Diam. 5 7/16 in. (13.8 cm)",
+  "Lip Diam. 5 7/16 in. (13.8 cm)"
+ ],
+ "Classification": "Silver",
+ "Credit Line": "Bequest of Alphonso T. Clearwater, 1933",
+ "Accession Number": "33.120.349",
+ "Who": "Ebenezer Moulton",
+ "What": [
+  "Metal",
+  "Silver",
+  "Dishes",
+  "Porringers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Boston"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The United States, 1600–1800 A.D.",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10006877,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP160401.jpg",
+ "related-artworks": [
+  10006875,
+  10006876,
+  10008073,
+  10002379,
+  10008659
+ ],
+ "Provenance": [
+  "Alphonso T. Clearwater",
+  "bequest to The Metropolitan Museum of Art, 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006877"
+  }
+ }
+}

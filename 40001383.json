@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1430–40",
+ "Culture": "Italian",
+ "Medium": "Steel",
+ "Classification": "Armor Parts",
+ "Credit Line": "Bashford Dean Memorial Collection, Bequest of Bashford Dean, 1928",
+ "Accession Number": "29.150.119",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Armor",
+  "Body armor"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40001383,
+ "related-artworks": [
+  40000838,
+  40000987,
+  40000965,
+  40001002,
+  40001049
+ ],
+ "Provenance": [
+  "Mediterranean fortress"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40001383"
+  }
+ }
+}

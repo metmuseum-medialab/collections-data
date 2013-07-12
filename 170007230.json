@@ -1,0 +1,39 @@
+{
+ "Date": "16th century",
+ "Culture": "South Netherlandish (?)",
+ "Medium": "Colorless glass",
+ "Dimensions": "Overall 9 1/2 x 12 1/4 in. (24.1 x 31.1 cm)",
+ "Classification": "Glass-Stained",
+ "Credit Line": "Gift of George D. Pratt, 1930",
+ "Accession Number": "30.73.54",
+ "What": [
+  "Glass",
+  "Fragments",
+  "Stained glass"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170007230,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cdi30-73-54.jpg",
+ "related-artworks": [
+  170007270,
+  170006462,
+  170007005,
+  170007036,
+  170007267
+ ],
+ "Provenance": [
+  "George D. Pratt, Glen Cove, NY (until 1930)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170007230"
+  }
+ }
+}

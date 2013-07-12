@@ -1,0 +1,39 @@
+{
+ "Date": "11th–12th century",
+ "Geography": "Egypt",
+ "Medium": "Pottery, luster-painted",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.190.234",
+ "What": [
+  "Ceramics",
+  "Fragments",
+  "Pottery",
+  "Painting"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140003710,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf13-190-234a.jpg",
+ "related-artworks": [
+  140002767,
+  140003648,
+  140003685,
+  140002365,
+  140002740
+ ],
+ "Provenance": [
+  "Sold to Albert M. Lythgoefor MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003710"
+  }
+ }
+}

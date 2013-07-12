@@ -1,0 +1,37 @@
+{
+ "Date": "1800–1943",
+ "Culture": "Romanian",
+ "Medium": "linen",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Isabel Tozzer, 1943",
+ "Accession Number": "C.I.43.64.7",
+ "What": [
+  "Costume",
+  "Linen",
+  "Blouses"
+ ],
+ "Where": [
+  "Europe",
+  "Romania"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe and Low Countries, 1800–1900 A.D.",
+  "Central Europe (not Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80061914,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI43.64.7.jpg",
+ "related-artworks": [
+  80062116,
+  80062117,
+  80025015,
+  80025016,
+  80025017
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80061914"
+  }
+ }
+}

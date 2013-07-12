@@ -1,0 +1,32 @@
+{
+ "Culture": "American",
+ "Medium": "Trimming",
+ "Dimensions": "10 x 329 in. (25.4 x 835.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Maria P. James, 1910",
+ "Accession Number": "11.60.291",
+ "What": [
+  "Textiles",
+  "Trimming"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10020031,
+ "related-artworks": [
+  10020028,
+  10020038,
+  10020027,
+  10020033,
+  10020034
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10020031"
+  }
+ }
+}

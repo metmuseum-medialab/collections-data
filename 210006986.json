@@ -1,0 +1,40 @@
+{
+ "Date": "1984",
+ "Medium": "Ink and graphite on paper",
+ "Dimensions": [
+  "H. 39-3/8, W. 27-5/8 inches",
+  "(100 x 70.2 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of the artist, 1996",
+ "Accession Number": "1996.442",
+ "Who": "Joan Witek",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210006986,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/SF1996.442.jpg",
+ "related-artworks": [
+  210002335,
+  210002336,
+  210004111,
+  210006904,
+  210013079
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006986"
+  }
+ }
+}

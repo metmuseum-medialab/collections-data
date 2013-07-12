@@ -1,0 +1,41 @@
+{
+ "Artist": "After Giovanni Battista Piranesi (Italian, Mogliano Veneto 1720–1778 Rome)",
+ "Date": "1804",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Sheet 21 7/8 x 15 3/4 in. (55.5 x 40 cm)",
+  "Plate 14 5/16 x 20 11/16 in. (36.4 x 52.5 cm) printed horizontally"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, transferred from the Library",
+ "Accession Number": "41.71.1.24",
+ "Who": [
+  "Giovanni Battista Piranesi",
+  "Francesco Piranesi"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90083064,
+ "related-artworks": [
+  90034102,
+  90083001,
+  90083002,
+  90083003,
+  90083009
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90083064"
+  }
+ }
+}

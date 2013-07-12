@@ -1,0 +1,40 @@
+{
+ "Date": "13th–14th century",
+ "Geography": "Iran",
+ "Medium": "Bronze",
+ "Dimensions": "H. 1 1/2 in. (3.81 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of K. Aharonian, 1910",
+ "Accession Number": "10.216",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140003345,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf10-216a.jpg",
+ "related-artworks": [
+  140010179,
+  140009889,
+  140009363,
+  140008503,
+  140001715
+ ],
+ "Provenance": [
+  "Kevark Aharonian, New York (until 1910)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003345"
+  }
+ }
+}

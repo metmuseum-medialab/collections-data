@@ -1,0 +1,41 @@
+{
+ "Publisher": "Pierre Didot l'ainé (French, 1761–1853)",
+ "Illustrator": "Charles Percier (French, Paris 1764–1838 Paris)",
+ "Date": "1799",
+ "Medium": "Printed book with engraved headpiece illustrations",
+ "Classification": "Books",
+ "Credit Line": "Anonymous Gift",
+ "Accession Number": "32.28",
+ "Who": [
+  "Pierre Didot l'ainé",
+  "Charles Percier",
+  "Horace"
+ ],
+ "What": [
+  "Engraving",
+  "Books",
+  "Illustrations",
+  "Headpieces"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Rome"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90019530,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP254718.jpg",
+ "related-artworks": [
+  90016632,
+  90017425,
+  190023161
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90019530"
+  }
+ }
+}

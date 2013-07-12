@@ -1,0 +1,41 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1935–43",
+ "Medium": "Etching",
+ "Dimensions": "plate 8 x 10 in. (20 x 25.5 cm) sheet: 11 1/4 x 13 1/2 in. (28.5 x 34 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, New York, 1943",
+ "Accession Number": "43.33.281",
+ "Who": [
+  "WPA",
+  "Max Mougel"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90048964,
+ "related-artworks": [
+  90048968,
+  90048969,
+  90048961,
+  90048974,
+  90048962
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90048964"
+  }
+ }
+}

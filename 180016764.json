@@ -1,0 +1,26 @@
+{
+ "Classification": "Idiophone-Plucked / Depressed",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.3515",
+ "What": [
+  "Musical instruments",
+  "Idiophones",
+  "Chordophones",
+  "Harps"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Musical Instruments",
+ "id": 180016764,
+ "related-artworks": [
+  180016399,
+  180016635,
+  180016761,
+  180016763,
+  180017200
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016764"
+  }
+ }
+}

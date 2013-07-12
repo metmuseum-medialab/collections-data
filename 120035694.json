@@ -1,0 +1,42 @@
+{
+ "Date": "early 17th century",
+ "Culture": "Italian",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 113 x W. 3 1/2 inches (287.0 x 8.9 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase by subscription, 1909",
+ "Accession Number": "09.68.88a",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace",
+  "Borders"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120035694,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP3977.jpg",
+ "related-artworks": [
+  120040787,
+  120030676,
+  120030677,
+  120032605,
+  120032709
+ ],
+ "Provenance": [
+  "Arthur Blackborne collection (until 1909",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120035694"
+  }
+ }
+}

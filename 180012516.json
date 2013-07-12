@@ -1,0 +1,38 @@
+{
+ "Date": "late 19th century",
+ "Geography": "India",
+ "Medium": "Wood",
+ "Dimensions": "Diam. 58.4 cm (23 in.), Depth 8.9 cm (3-1/2 in.)",
+ "Classification": "Membranophone-single-headed / frame drum",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.206",
+ "What": [
+  "Musical instruments",
+  "Frames",
+  "Membranophones",
+  "Drums",
+  "Frame drums",
+  "Duffs"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "South Asia and the Himalayan Region, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180012516,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/midp89.4.206.jpg",
+ "related-artworks": [
+  180017353,
+  180016262,
+  180012524,
+  180012340,
+  180012339
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180012516"
+  }
+ }
+}

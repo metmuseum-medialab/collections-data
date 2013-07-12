@@ -1,0 +1,39 @@
+{
+ "Date": "15th century",
+ "Geography": "Made in Bury St. Edmunds, England",
+ "Culture": "British",
+ "Medium": "Tin/pewter",
+ "Dimensions": "Overall 1 3/16 x 1 x 1/4 in. (3 x 2.6 x 0.6 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of William and Toni Conte, 2002",
+ "Accession Number": "2002.306.20",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Pewter",
+  "Badges"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170015516,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/tr248-20-2002s1.jpg",
+ "related-artworks": [
+  170014278,
+  170015515,
+  170019903,
+  170015500,
+  170015503
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170015516"
+  }
+ }
+}

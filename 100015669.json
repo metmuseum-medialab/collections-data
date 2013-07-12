@@ -1,0 +1,44 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19",
+ "Reign": "reign of Seti I",
+ "Date": "ca. 1294–1279 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes",
+ "Medium": "Tempera on paper",
+ "Dimensions": [
+  "H. 85 cm (33 7/16 in); w. 66 cm (26 in)",
+  "scale 11"
+ ],
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.4.163",
+ "Who": "Charles K. Wilkinson",
+ "What": [
+  "Paper",
+  "Tempera",
+  "Facsimiles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100015669,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs30.4.163.jpg",
+ "related-artworks": [
+  100000863,
+  100000884,
+  100000961,
+  100005327,
+  100005423
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100015669"
+  }
+ }
+}

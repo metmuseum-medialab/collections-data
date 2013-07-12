@@ -1,0 +1,34 @@
+{
+ "Date": "ca. 1640",
+ "Culture": "German",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Gift of Stephen V. Grancsay, 1942",
+ "Accession Number": "42.50.11",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Staff weapons",
+  "Partisans"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40007417,
+ "related-artworks": [
+  40010675,
+  40000387,
+  40000405,
+  40000400,
+  40000402
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40007417"
+  }
+ }
+}

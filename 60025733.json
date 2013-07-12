@@ -1,0 +1,41 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1774",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "H. 12 1/8 in. (30.8 cm); W. 5 7/8 in. (14.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Estate of Samuel Isham, 1914",
+ "Accession Number": "JP896",
+ "Who": "Katsukawa Shunshō",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60025733,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP132834.jpg",
+ "related-artworks": [
+  60000556,
+  60000562,
+  60000565,
+  60000699,
+  60000701
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60025733"
+  }
+ }
+}

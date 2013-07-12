@@ -1,0 +1,46 @@
+{
+ "Date": "1810",
+ "Culture": "British",
+ "Classification": "Swords",
+ "Credit Line": "Gift of Jean Jacques Reubell, in memory of his mother, Julia C. Coster, and of his wife, Adeline E. Post, both of New York City, 1926",
+ "Accession Number": "26.145.312",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40010838,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40003315"
+   },
+   {
+    "href": "http://scrapi.org/object/40005735"
+   },
+   {
+    "href": "http://scrapi.org/object/40006349"
+   },
+   {
+    "href": "http://scrapi.org/object/40006363"
+   },
+   {
+    "href": "http://scrapi.org/object/40006345"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40010838"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40010838"
+  }
+ }
+}

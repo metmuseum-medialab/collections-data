@@ -1,0 +1,34 @@
+{
+ "Date": "1920s",
+ "Culture": "American or European",
+ "Medium": "plastic, feathers",
+ "Dimensions": "Height 34 in. (86.4 cm)",
+ "Credit Line": "Gift of Mrs. B. Brewster Jennings, 1977",
+ "Accession Number": "1977.151.8",
+ "What": [
+  "Costume",
+  "Plastic",
+  "Fans",
+  "Feather"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80053641,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.151.8.jpg",
+ "related-artworks": [
+  80031818,
+  80053636,
+  80053640,
+  80053659,
+  80031816
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80053641"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Designer": "Malcolm McLaren (British, London 1946–2010 Switzerland)",
+ "Retailer": "Seditionaries (British, 1976–1980)",
+ "Date": "1976–80",
+ "Culture": "British",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 25 1/2 in. (64.8 cm)",
+ "Credit Line": "Purchase, Richard Martin Bequest and Friends of The Costume Institute Gifts, 2006",
+ "Accession Number": "2006.253.15",
+ "Who": [
+  "Vivienne Westwood",
+  "Malcolm McLaren",
+  "Seditionaries"
+ ],
+ "What": [
+  "Costume",
+  "Cotton",
+  "Shirts"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Vivienne Westwood (born 1941) and the Postmodern Legacy of Punk Style",
+  "Costume in The Metropolitan Museum of Art",
+  "Shoes in The Costume Institute",
+  "Great Britain and Ireland, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80064440,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2006.253.15_F.jpg",
+ "related-artworks": [
+  80000502,
+  80000538,
+  80000545,
+  80003763,
+  80003764
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80064440"
+  }
+ }
+}

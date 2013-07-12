@@ -1,0 +1,31 @@
+{
+ "Date": "ca. 1820",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Louise C. Avery, 1962",
+ "Accession Number": "C.I.62.41.2",
+ "What": "Collars",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80031672,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI62.41.2_Bt.jpg",
+ "related-artworks": [
+  80002739,
+  80002738,
+  80015156,
+  80015152,
+  80024544
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80031672"
+  }
+ }
+}

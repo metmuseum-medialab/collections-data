@@ -1,0 +1,36 @@
+{
+ "Publisher": "Published by Ruault",
+ "Date": "1775, 1776",
+ "Dimensions": "Overall 6 3/4 x 4 13/16 x 7/8 in. (17.2 x 12.2 x 2.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Mr. and Mrs. Daniel P. Davison, 1967",
+ "Accession Number": "67.820.6",
+ "Who": [
+  "Arnaud Berquin",
+  "Ruault"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90013296,
+ "related-artworks": [
+  90013297,
+  90013298,
+  90013299,
+  90100535,
+  90100537
+ ],
+ "Provenance": [
+  "Donor: Mr. and Mrs. Daniel P. Davison"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90013296"
+  }
+ }
+}

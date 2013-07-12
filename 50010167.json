@@ -1,0 +1,63 @@
+{
+ "Date": "1st–8th century",
+ "Geography": "Mexico, Mesoamerica, Guerrero, Balsas River region",
+ "Culture": "Mezcala",
+ "Medium": "Stone",
+ "Dimensions": "H. 4 1/8 x 3 1/8 in. (10.5 x 7.9 cm)",
+ "Classification": "Stone-Sculpture",
+ "Credit Line": "Bequest of Arthur M. Bullowa, 1993",
+ "Accession Number": "1994.35.666",
+ "Who": "Mezcala",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Models",
+  "Temples"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico",
+  "Guerrero"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico, 1–500A.D.",
+  "Mexico, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50010167,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1994_35_666.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/50010136",
+  "http://scrapi.org/object/50010201",
+  "http://scrapi.org/object/50010210",
+  "http://scrapi.org/object/50005232",
+  "http://scrapi.org/object/50005396"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Arthur M. Bullowa, New York, until (d.)1993"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50010136"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50010201"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50010210"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50005232"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50005396"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50010167"
+  }
+ }
+}

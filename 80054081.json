@@ -1,0 +1,37 @@
+{
+ "Date": "1930s",
+ "Culture": "French",
+ "Medium": "silk, feathers",
+ "Dimensions": "Length at CB 26 in. (66 cm)",
+ "Credit Line": "Gift of Mrs. Gilbert W. Chapman, 1976",
+ "Accession Number": "1976.30.4",
+ "What": [
+  "Costume",
+  "Silk",
+  "Outerwear",
+  "Feather",
+  "Capes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80054081,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1976.30.4_F.jpg",
+ "related-artworks": [
+  80001928,
+  80095108,
+  80095107,
+  80054110,
+  80093966
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80054081"
+  }
+ }
+}

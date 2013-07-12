@@ -1,0 +1,34 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19",
+ "Reign": "reign of Ramesses II",
+ "Date": "ca. 1279–1213 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Sheikh Abd el-Qurna, Temple of Nebwenenef, Foundation deposit, Petrie 1909",
+ "Medium": "Faience",
+ "Credit Line": "Gift of The Egyptian Research Account and British School of Archaeology in Egypt, 1909",
+ "Accession Number": "09.183.8r",
+ "What": "Faience",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100035341,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/09.183.8R-ac.jpg",
+ "related-artworks": [
+  100005499,
+  100006040,
+  100006423,
+  100007807,
+  100007811
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100035341"
+  }
+ }
+}

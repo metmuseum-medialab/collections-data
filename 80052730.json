@@ -1,0 +1,31 @@
+{
+ "Date": "1700–1945",
+ "Culture": "American or European",
+ "Medium": "cotton",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Art Worker's Club, 1945",
+ "Accession Number": "C.I.45.68.164a, b",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Mittens"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "id": 80052730,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI45.68.164ab.jpg",
+ "related-artworks": [
+  80052688,
+  80052741,
+  80052742,
+  80052743,
+  80052744
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052730"
+  }
+ }
+}

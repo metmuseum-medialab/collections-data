@@ -1,0 +1,46 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "Joint reign of Hatshepsut and Thutmose III",
+ "Date": "ca. 1473–1458 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Gold, glazed steatite",
+ "Dimensions": "length of scarab 1.6 cm (5/8 in)",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.2.9",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Gold",
+  "Scarabs",
+  "Glazing",
+  "Talc",
+  "Steatite",
+  "Rings"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100002270,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsringz.jpg",
+ "related-artworks": [
+  100005596,
+  100005597,
+  100005666,
+  100005668,
+  100010155
+ ],
+ "Provenance": [
+  "Purchased from Miss Mary L. Leonard, 1920."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100002270"
+  }
+ }
+}

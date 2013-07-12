@@ -1,0 +1,29 @@
+{
+ "Medium": "Oak and lime",
+ "Dimensions": "Overall 34 1/2 x 29 1/2 in",
+ "Classification": "Frames",
+ "Accession Number": "1975.1.2249",
+ "What": [
+  "Wood",
+  "Oak",
+  "Frames",
+  "Lime"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Robert Lehman Collection",
+ "MetPublications": "Search for related Met publications",
+ "id": 150008135,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/86AL_322r3.jpg",
+ "related-artworks": [
+  150007296,
+  150007909,
+  150008057,
+  150008666,
+  150007258
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008135"
+  }
+ }
+}

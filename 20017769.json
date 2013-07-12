@@ -1,0 +1,38 @@
+{
+ "Medium": "Graphite, pen, ink, and watercolor on paper",
+ "Dimensions": "Dimensions unavailable",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Gift of William Gedney Bunce, by exchange, 1979",
+ "Accession Number": "1979.581.4",
+ "Who": "John William Casilear",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Graphite",
+  "Pen"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 20017769,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/263680.jpg",
+ "related-artworks": [
+  20017790,
+  20017782,
+  20017785,
+  20017788,
+  20017810
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20017769"
+  }
+ }
+}

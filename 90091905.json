@@ -1,0 +1,43 @@
+{
+ "Artist": "Lyman W. Atwater (American, 1835–1891)",
+ "Publisher": "Currier & Ives (American, active New York, 1837–1907)",
+ "Date": "1876",
+ "Medium": "Lithograph printed in color",
+ "Dimensions": "Image 23 3/8 x 33 5/8 in. (59.4 x 85.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Adele S. Colgate, 1962",
+ "Accession Number": "63.550.283",
+ "Who": [
+  "Currier & Ives",
+  "Charles R. Parsons",
+  "Lyman W. Atwater"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90091905,
+ "related-artworks": [
+  90054834,
+  90090849,
+  90090851,
+  90090855,
+  90091008
+ ],
+ "Provenance": [
+  "Donor: Adele S. Colgate (American, died 1962)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90091905"
+  }
+ }
+}

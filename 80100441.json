@@ -1,0 +1,36 @@
+{
+ "Date": "early 20th century",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "Length 46 in. (116.8 cm)",
+ "Credit Line": "Purchase, NAMSB Foundation Inc. Gift, 2011",
+ "Accession Number": "2011.54",
+ "What": [
+  "Costume",
+  "Silk",
+  "Neckwear",
+  "Neckties"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80100441,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2011.54_F.JPG",
+ "related-artworks": [
+  80005542,
+  80029932,
+  80031772,
+  80034731,
+  80038198
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80100441"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "1920–29",
+ "Culture": "probably French",
+ "Medium": "Metal, rhinestones",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Arturo and Paul Peralta-Ramos, 1954",
+ "Accession Number": "2009.300.4787a, b",
+ "What": [
+  "Metal",
+  "Glass",
+  "Shoes",
+  "Buckles",
+  "Glass paste",
+  "Rhinestone"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80107222,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/54.141.171a-b_CP1.jpg",
+ "related-artworks": [
+  80094156,
+  80107223,
+  80107224,
+  80107760,
+  80094157
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107222"
+  }
+ }
+}

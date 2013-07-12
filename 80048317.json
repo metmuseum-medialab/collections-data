@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1920",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": "Length 10 in. (25.4 cm)",
+ "Credit Line": "Gift of Mr. J. R. Hoffman, 1975",
+ "Accession Number": "1975.141a, b",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Footwear",
+  "Shoes",
+  "Athletic shoes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80048317,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1975.141ab_F.jpg",
+ "related-artworks": [
+  80032584,
+  80000103,
+  80013090,
+  80108229,
+  80000100
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80048317"
+  }
+ }
+}

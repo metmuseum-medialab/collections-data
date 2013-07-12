@@ -1,0 +1,55 @@
+{
+ "Date": "March 1935",
+ "Medium": "Film negative",
+ "Dimensions": "35mm",
+ "Classification": "Negatives",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.253.447.15",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": "Walker Evans",
+ "What": [
+  "Photographs",
+  "Negatives",
+  "Film"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Early Documentary Photography",
+  "Kodak and the Rise of Amateur Photography",
+  "Walker Evans (1903–1975)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190030563,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/PH8615.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190024437"
+   },
+   {
+    "href": "http://scrapi.org/object/190024438"
+   },
+   {
+    "href": "http://scrapi.org/object/190024440"
+   },
+   {
+    "href": "http://scrapi.org/object/190024439"
+   },
+   {
+    "href": "http://scrapi.org/object/190024441"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190030563"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190030563"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Silk, metallic thread;  on silk",
+ "Dimensions": "37 x 3 3/4 in. (93.98 x 9.53 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of William Christian Paul, 1929",
+ "Accession Number": "30.75.230",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Sleeves"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60042212,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/78744.jpg",
+ "related-artworks": [
+  60039138,
+  60039139,
+  60039136,
+  60039137,
+  60042168
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60042212"
+  }
+ }
+}

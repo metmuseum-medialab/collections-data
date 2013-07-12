@@ -1,0 +1,37 @@
+{
+ "Date": "1882",
+ "Culture": "French",
+ "Medium": "silk, cotton, shell",
+ "Dimensions": "Length at CB 28 in. (71.1 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Amelia Beard Hollenback, 1966",
+ "Accession Number": "2009.300.901",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Shell",
+  "Coats"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 80097338,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/66.101.112_front_CP4.jpg",
+ "related-artworks": [
+  80093644,
+  80096045,
+  80097081,
+  80097192,
+  80097203
+ ],
+ "Description": "Amelia Beard Hollenback (1877-1969) was the daughter of the prominent financier and philanthropist John Welles Hollenback (1835-1927). The members of the Hollenback family were avid travelers, making frequently trips throughout Europe and the United States. This chic coat, charmingly fashioned from a man's frock coat style, was made for Amelia in winter 1882 during a trip in Paris. The incised buttons and bound buttonholes are a particularly Parisian touch.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80097338"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Artist": "After Raphael (Raffaello Sanzio or Santi) (Italian, Urbino 1483–1520 Rome)",
+ "Date": "early 16th century",
+ "Medium": "Chiaroscuro woodcut from two blocks",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Grace M. Pugh, 1985",
+ "Accession Number": "1986.1180.247",
+ "Who": [
+  "Raphael (Raffaello Sanzio  Santi)",
+  "Niccolò Vicentino"
+ ],
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Chiaroscuro woodcuts"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "id": 90032531,
+ "related-artworks": [
+  90027944,
+  90032529,
+  90032530,
+  90032532,
+  90032428
+ ],
+ "Provenance": [
+  "Donor: Estate of Grace M. Pugh"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90032531"
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "Sitter": "John Glover (American, 1732–1797)",
+ "Date": "19th century",
+ "Medium": "Stipple engraving",
+ "Dimensions": "sheet 8 9/16 x 5 3/8 in. (21.8 x 13.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Charles Allen Munn, 1924",
+ "Accession Number": "24.90.288",
+ "Who": [
+  "John Trumbull",
+  "John Glover"
+ ],
+ "What": [
+  "Prints",
+  "Engraving",
+  "Intaglio prints",
+  "Engravings",
+  "Stippling",
+  "Stipple engravings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Art and Identity in the British North American Colonies, 1700–1776",
+  "Gilbert Stuart (1755–1828)",
+  "Students of Benjamin West (1738–1820)",
+  "Art and Society of the New Republic, 1776–1800",
+  "Late Eighteenth–Century American Drawings",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90034055,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP104935.jpg",
+ "related-artworks": [
+  90062975,
+  90063046,
+  90063047,
+  90063071,
+  90064639
+ ],
+ "Provenance": [
+  "Donor: Charles Allen Munn"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90034055"
+  }
+ }
+}

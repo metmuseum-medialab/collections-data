@@ -1,0 +1,41 @@
+{
+ "Date": "12th–14th century",
+ "Culture": "French",
+ "Medium": "Pot-metal glass, vitreous paint",
+ "Dimensions": "Overall 1 5/8 x 2 3/8 in (4.1 x 6 cm)",
+ "Classification": "Glass-Stained",
+ "Credit Line": "Gift of Ella Brummer, in memory of her husband, Ernest Brummer, 1977",
+ "Accession Number": "1977.346.15",
+ "What": [
+  "Metal",
+  "Glass",
+  "Fragments",
+  "Stained glass"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170005906,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cdi1977-346-15.jpg",
+ "related-artworks": [
+  170005914,
+  170005921,
+  170005926,
+  170005933,
+  170005931
+ ],
+ "Provenance": [
+  "[ Brummer Gallery, Paris and New York]",
+  "Ernest and Ella Brummer, New York (until 1977)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005906"
+  }
+ }
+}

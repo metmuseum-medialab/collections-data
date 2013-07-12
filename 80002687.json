@@ -1,0 +1,38 @@
+{
+ "Date": "1750–75",
+ "Culture": "British",
+ "Medium": "silk",
+ "Dimensions": "L. at center back 52 in. (132.1 cm).",
+ "Credit Line": "Rogers Fund, 1934",
+ "Accession Number": "34.108",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80002687,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/34.108dig3.jpg",
+ "related-artworks": [
+  80000265,
+  80001010,
+  80002819,
+  80003474,
+  80003620
+ ],
+ "Provenance": [
+  "Kimberly House (Lord Wodehouse's Seat), Norfolk."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002687"
+  }
+ }
+}

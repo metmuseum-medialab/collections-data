@@ -1,0 +1,40 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Wood, gilt on grey ground",
+ "Dimensions": "20-7/8 x 63-1/2 in.  (53.0 x 161.3 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+ "Accession Number": "07.225.163",
+ "What": [
+  "Gilt",
+  "Wood",
+  "Woodwork",
+  "Overdoors"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003919,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/5087.jpg",
+ "related-artworks": [
+  120003824,
+  120003908,
+  120004251,
+  120004253,
+  120004250
+ ],
+ "Provenance": [
+  "Georges Hoentschel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120003919"
+  }
+ }
+}

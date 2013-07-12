@@ -1,0 +1,62 @@
+{
+ "Artist": "After designs by Bernardino Amico (Italian, active 1593–1619)",
+ "Publisher": "Pietro Cecconcelli (Italian, active late 16th–early 17th century)",
+ "Date": "1620",
+ "Medium": "Etching and engraving",
+ "Dimensions": [
+  "Sheet 10 1/16 x 7 1/2 in. (25.6 x 19 cm)",
+  "Plate 8 7/8 x 6 1/8 in. (22.5 x 15.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Edwin De T. Bechtel, 1957",
+ "Accession Number": "57.650.409",
+ "Who": [
+  "Jacques Callot",
+  "Pietro Cecconcelli",
+  "Bernardino Amico"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90096253,
+ "Provenance": [
+  "Sarah Green Walters",
+  "Parke-Bernet (New York)Collection of Mrs. Henry Walters, April 21, 1941",
+  "Donor: Edwin De Turck Bechtel Bequest"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90010397"
+   },
+   {
+    "href": "http://scrapi.org/object/90014436"
+   },
+   {
+    "href": "http://scrapi.org/object/90028114"
+   },
+   {
+    "href": "http://scrapi.org/object/90034063"
+   },
+   {
+    "href": "http://scrapi.org/object/90034064"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90096253"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90096253"
+  }
+ }
+}

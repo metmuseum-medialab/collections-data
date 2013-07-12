@@ -1,0 +1,37 @@
+{
+ "Date": "1st century B.C.–3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Sard",
+ "Dimensions": "Other 9/16 x 7/16 x 1/8 in. (1.5 x 1.2 x 0.3 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.160.1035",
+ "What": [
+  "Sculpture",
+  "Chalcedony",
+  "Gems",
+  "Intaglios",
+  "Sard"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Italian Peninsula, 1000 B.C.–1 A.D.",
+  "Italian Peninsula, 1–500A.D."
+ ],
+ "id": 130014619,
+ "related-artworks": [
+  130005411,
+  130005422,
+  130005469,
+  130005506,
+  130005494
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130014619"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1770",
+ "Culture": "British",
+ "Medium": "Iron, brass",
+ "Dimensions": "39 x 8 1/4 in.  (99.1 x 21 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1931",
+ "Accession Number": "31.92.13",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Brass",
+  "Balusters"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011732,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/86106.jpg",
+ "related-artworks": [
+  120011723,
+  120011721,
+  120011729,
+  120011733,
+  120010343
+ ],
+ "Provenance": [
+  "Upper Brook Street, London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011732"
+  }
+ }
+}

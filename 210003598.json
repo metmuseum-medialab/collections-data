@@ -1,0 +1,52 @@
+{
+ "Date": "1893",
+ "Medium": "Oil on cardboard",
+ "Dimensions": "11 1/2 x 10 in. (29.2 x 25.4 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Scofield Thayer, 1982",
+ "Accession Number": "1984.433.25",
+ "Who": "Édouard Vuillard",
+ "What": [
+  "Paper",
+  "Paintings",
+  "Oil paintings",
+  "Cardboard"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Nabis and Decorative Painting",
+  "Japonisme",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210003598,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT2172.jpg",
+ "related-artworks": [
+  150000224,
+  150000208,
+  210010274,
+  150000225,
+  210002120
+ ],
+ "Provenance": [
+  "the artist (to Marx)",
+  "Roger Marx, Paris (until d. 1913",
+  "his estate sale, Galerie Manzi, Joyant, Paris, May 11–12, 1914, no. 89, as \"Repas de famille,\" for Fr 2,900, to Kahn)",
+  "Alphonse Kann, Paris (possibly from 1914)",
+  "[Galerie Druet, Paris, until ca. 1920",
+  "possibly stock no. 10193]",
+  "Scofield Thayer, New York (ca. 1920-d. 1982",
+  "on view at the Worcester Art Museum, Worcester, Mass., as part of the Dial Collection, 1931-82",
+  "his bequest to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003598"
+  }
+ }
+}

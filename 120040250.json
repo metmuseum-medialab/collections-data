@@ -1,0 +1,41 @@
+{
+ "Date": "1848–52",
+ "Culture": "French",
+ "Medium": "Linen",
+ "Dimensions": "16 1/2 x 16 inches (41.9 x 40.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Annie May Hegeman, 1932",
+ "Accession Number": "32.91.2",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Linen",
+  "Napkins"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120040250,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/88729.jpg",
+ "related-artworks": [
+  120040249,
+  120040666,
+  120045454,
+  120046635,
+  120045624
+ ],
+ "Provenance": [
+  "Palais des Tuileries, ParisAnnie-May Hegeman (until 1932",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120040250"
+  }
+ }
+}

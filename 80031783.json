@@ -1,0 +1,39 @@
+{
+ "Date": "1974",
+ "Culture": "American",
+ "Medium": "fur",
+ "Dimensions": [
+  "Overall (bands) 79 x 5 1/2 in. (200.7 x 14 cm)",
+  "Diameter (pompoms) 2 in. (5.1 cm)",
+  "Overall (Muff) 19 x 14 in. (48.3 x 35.6 cm)"
+ ],
+ "Credit Line": "Gift of Ben Kahn Furs, 1975",
+ "Accession Number": "1975.237a–f",
+ "Who": "Ben Kahn Furs",
+ "What": [
+  "Hair",
+  "Accessories",
+  "Fur"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80031783,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1975.237c–e.jpg",
+ "related-artworks": [
+  80039519,
+  80053996,
+  80057377,
+  80072287,
+  80096954
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80031783"
+  }
+ }
+}

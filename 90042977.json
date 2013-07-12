@@ -1,0 +1,44 @@
+{
+ "Publisher": "F. A. Zehl (German)",
+ "Date": "1862",
+ "Medium": "Etching; second state",
+ "Dimensions": [
+  "sheet 13 1/8 x 19 1/2 in. (33.3 x 49.6 cm)",
+  "plate 9 5/16 x 11 9/16 in. (23.6 x 29.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of George S. Stevenson, 1977",
+ "Accession Number": "1977.636.6",
+ "Who": [
+  "Carl August Schwerdgeburth",
+  "F. A. Zehl"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90042977,
+ "related-artworks": [
+  90042957,
+  90042958,
+  90042974,
+  90042976,
+  90042975
+ ],
+ "Provenance": [
+  "Donor: George S. Stevenson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90042977"
+  }
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "Date": "1829",
+ "Culture": "British",
+ "Medium": "Silk on wool canvas",
+ "Dimensions": "H. 17 x W. 12 1/2 inches (43.2 x 31.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "From the Collection of Mrs. Lathrop Colgate Harper, Bequest of Mabel Herbert Harper, 1957",
+ "Accession Number": "57.122.77",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Wool",
+  "Embroidery",
+  "Canvas",
+  "Samplers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120045699,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/164975.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120045910",
+  "http://scrapi.org/object/120045968",
+  "http://scrapi.org/object/120045995",
+  "http://scrapi.org/object/120046196",
+  "http://scrapi.org/object/120037092"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120045910"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120045968"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120045995"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120046196"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120037092"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120045699"
+  }
+ }
+}

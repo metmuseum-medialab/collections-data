@@ -1,0 +1,32 @@
+{
+ "Date": "early 19th century",
+ "Culture": "India for Siamese market",
+ "Medium": "Cotton",
+ "Dimensions": "Overall 83 x 43 1/8 in. (210.8 x 109.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Huntington Norton, 1944",
+ "Accession Number": "44.71.2",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Painting",
+  "Printing"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 60043318,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP267933.jpg",
+ "related-artworks": [
+  60039176,
+  60043424,
+  60044060,
+  60044125,
+  60044126
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043318"
+  }
+ }
+}

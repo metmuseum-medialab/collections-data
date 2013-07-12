@@ -1,0 +1,58 @@
+{
+ "Date": "third quarter 18th century",
+ "Culture": "British, London",
+ "Medium": "Pewter",
+ "Dimensions": "Diam. 9 3/4 in. (24.8 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mr. and Mrs. William A. Moore, 1923",
+ "Accession Number": "23.80.53",
+ "Who": "Thomas Giffin",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Dishes",
+  "Plates",
+  "Pewter"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009764,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/52508.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120009765",
+  "http://scrapi.org/object/120003541",
+  "http://scrapi.org/object/120006143",
+  "http://scrapi.org/object/120007965"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Mr. and Mrs. William A. Moore (until 1923; to MMA)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120009765"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120003541"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120006143"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120007965"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120009764"
+  }
+ }
+}

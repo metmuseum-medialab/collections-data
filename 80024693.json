@@ -1,0 +1,36 @@
+{
+ "Date": "early 19th century",
+ "Culture": "British",
+ "Medium": "wool",
+ "Dimensions": "Length 18 in. (45.7 cm)",
+ "Credit Line": "Gift of the family Thomas Coutts, 1908",
+ "Accession Number": "08.187.18a, b",
+ "What": [
+  "Costume",
+  "Wool",
+  "Hosiery",
+  "Stockings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80024693,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/08.187.18ab.jpg",
+ "related-artworks": [
+  80024694,
+  80027125,
+  80054615,
+  80054476,
+  80056812
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80024693"
+  }
+ }
+}

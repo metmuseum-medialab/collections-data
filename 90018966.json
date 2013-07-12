@@ -1,0 +1,36 @@
+{
+ "Publisher": "C. Sherman (Philadelphia, Pennsylvania)",
+ "Date": "1844",
+ "Classification": "Books",
+ "Credit Line": "Gift of Bella C. Landauer, 1925",
+ "Accession Number": "43.103.3",
+ "Who": [
+  "C. Sherman",
+  "John Notman"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018966,
+ "related-artworks": [
+  90000882,
+  90003457,
+  90004101,
+  90004257,
+  90004888
+ ],
+ "Provenance": [
+  "Donor: Bella C. Landauer (American, New York 1874–1960)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90018966"
+  }
+ }
+}

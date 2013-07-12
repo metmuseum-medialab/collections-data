@@ -1,0 +1,34 @@
+{
+ "Artist": "Style of Giulio Romano (Italian, Rome 1499?–1546 Mantua)",
+ "Date": "19th century",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Harris Brisbane Dick Fund and Joseph Pulitzer Bequest, 1971",
+ "Accession Number": "1971.513.5",
+ "Who": [
+  "Giulio Romano",
+  "Anonymous, Italian, 19th century"
+ ],
+ "What": "Drawings",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90013666,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820619.jpg",
+ "related-artworks": [
+  90009312,
+  90009086,
+  90003949,
+  90007294,
+  90007299
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90013666"
+  }
+ }
+}

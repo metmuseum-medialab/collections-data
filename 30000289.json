@@ -1,0 +1,58 @@
+{
+ "Period": "Sasanian",
+ "Date": "ca. 3rd–7th century A.D.",
+ "Geography": "Iran or Mesopotamia",
+ "Culture": "Sasanian",
+ "Medium": "Carnelian",
+ "Dimensions": "0.59 x 0.75 x 0.71 in. (1.5 x 1.91 x 1.8 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Purchase, 1886",
+ "Accession Number": "86.11.44",
+ "Who": "Sasanian",
+ "What": [
+  "Stone",
+  "Chalcedony",
+  "Seals",
+  "Carnelian"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 1–500A.D.",
+  "Iran, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 30000289,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss86_11_44.jpg",
+ "Provenance": [
+  "Acquired by the Museum in 1886, purchased from the Reverend William Hayes Ward."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/30000119"
+   },
+   {
+    "href": "http://scrapi.org/object/30000194"
+   },
+   {
+    "href": "http://scrapi.org/object/30000200"
+   },
+   {
+    "href": "http://scrapi.org/object/30000209"
+   },
+   {
+    "href": "http://scrapi.org/object/30000964"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/30000289"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/30000289"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 2nd–3rd century",
+ "Culture": "Pakistan (ancient region of Gandhara)",
+ "Medium": "Schist",
+ "Dimensions": "H. 13 1/8 in. (33.3 cm); W. 9 7/8 in. (25.1 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Bernice Richard Gift, 1980",
+ "Accession Number": "1980.325",
+ "What": [
+  "Sculpture",
+  "Figures",
+  "Schist"
+ ],
+ "Where": [
+  "Asia",
+  "Pakistan"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005160,
+ "gallery-id": 235,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP123363.jpg",
+ "related-artworks": [
+  60005063,
+  60005161,
+  60005326,
+  60005763,
+  60005794
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005160"
+  }
+ }
+}

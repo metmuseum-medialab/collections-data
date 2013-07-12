@@ -1,0 +1,45 @@
+{
+ "Former Attribution": "Washington Allston (American, Georgetown, South Carolina 1779–1843 Cambridgeport, Massachusetts)",
+ "Date": "ca. 1813",
+ "Medium": "Oil on canvas",
+ "Dimensions": "48 1/4 x 66 in. (122.6 x 167.6 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of William Merritt Chase, 1909",
+ "Accession Number": "09.14",
+ "Who": [
+  "Washington Allston",
+  "Joshua Shaw"
+ ],
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 20012940,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap09.14.jpg",
+ "related-artworks": [
+  90025059,
+  20010403,
+  20010405,
+  20010382
+ ],
+ "Provenance": [
+  "Mrs. W. W. Lawton, Charleston, South Carolina",
+  "sale, Fifth Avenue Art  Galleries, New York, 1909",
+  "William Merritt Chase, New York, 1909"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20012940"
+  }
+ }
+}

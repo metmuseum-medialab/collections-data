@@ -1,0 +1,34 @@
+{
+ "Date": "18th century",
+ "Medium": "Pen and black ink, brush and gray wash, over traces of graphite?, on light tan laid paper",
+ "Dimensions": "8-3/4 x 11-1/4 in.  (22.2 x 28.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift, Dr. Bruce B. Grynbaum in Memory of His Parents Gertrude and Maurycy Grynbaum, 1991",
+ "Accession Number": "1991.1335.20",
+ "Who": "Anonymous, Italian, first half of the 18th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Graphite"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90007627,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803658.jpg",
+ "related-artworks": [
+  90007347,
+  90007348,
+  90007400,
+  90007406,
+  90007370
+ ],
+ "Provenance": [
+  "Bruce B. Grynbaum (New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90007627"
+  }
+ }
+}

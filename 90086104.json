@@ -1,0 +1,44 @@
+{
+ "Publisher": "Paulin et Le Chevalier",
+ "Printer": "Lemercier & Cie. (French, Paris)",
+ "Date": "1858",
+ "Medium": "Lithographs; second state of two (Armelhault & Bocher)",
+ "Dimensions": "Sheet 15 9/16 x 11 in. (39.5 x 28 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The H.O. Havemeyer Collection, Bequest of Mrs. H.O. Havemeyer, 1929",
+ "Accession Number": "29.107.79",
+ "Who": [
+  "Paul Gavarni [Chevalier]",
+  "Paulin et Le Chevalier",
+  "Lemercier & Cie."
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90086104,
+ "related-artworks": [
+  90018048,
+  90024410,
+  90028473,
+  90032320,
+  90049446
+ ],
+ "Provenance": [
+  "Donor: The H.O. Havemeyer Collection, Gift of Louisine W. Havemeyer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90086104"
+  }
+ }
+}

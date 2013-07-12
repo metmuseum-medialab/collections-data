@@ -1,0 +1,38 @@
+{
+ "Date": "1940–59",
+ "Culture": "American",
+ "Medium": "silk, cotton",
+ "Dimensions": "Length 20 in. (50.8 cm)",
+ "Credit Line": "Gift of Arleen B. Rifkind, 1977",
+ "Accession Number": "1977.297.2",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Underwear",
+  "Slips",
+  "Half slips"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80037792,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.297.2.jpg",
+ "related-artworks": [
+  80037612,
+  80037653,
+  80037611,
+  80037613,
+  80093765
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80037792"
+  }
+ }
+}

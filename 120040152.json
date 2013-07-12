@@ -1,0 +1,47 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian",
+ "Medium": "Needle lace",
+ "Dimensions": "L. 37 x W. 7 1/2 inches (94.0 x 19.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Edward S. Harkness, 1930",
+ "Accession Number": "30.135.148",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace",
+  "Neckwear",
+  "Collars"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120040152,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/82234.jpg",
+ "related-artworks": [
+  120030155,
+  120035738,
+  120035764,
+  120035775,
+  120036458
+ ],
+ "Provenance": [
+  "Mme Achille Jubinal",
+  "[ Jacques Krakauer , 1915",
+  "sold to Mrs. Fahnestock ]",
+  "Mrs. Fahnestock (from 1915)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120040152"
+  }
+ }
+}

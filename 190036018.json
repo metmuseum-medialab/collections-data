@@ -1,0 +1,45 @@
+{
+ "Date": "July 8, 1962",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "11.3 x 13 cm (4 7/16 x 5 1/8 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Anonymous Gift, 1999",
+ "Accession Number": "1999.246.117",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": "Walker Evans",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Kodak and the Rise of Amateur Photography",
+  "Walker Evans (1903–1975)",
+  "Early Documentary Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190036018,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP49391.jpg",
+ "related-artworks": [
+  190011732,
+  190011722,
+  190011734,
+  190011723,
+  190011735
+ ],
+ "Provenance": [
+  "Walker Evans",
+  "donor"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190036018"
+  }
+ }
+}

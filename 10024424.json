@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1768",
+ "Geography": "England",
+ "Medium": "Tempera on watercolor paper",
+ "Dimensions": "Dimensions unavailable",
+ "Classification": "Natural Substances",
+ "Credit Line": "Gift of Dr. Howard Van Rensselaer, 1928",
+ "Accession Number": "28.224w",
+ "What": [
+  "Paper",
+  "Watercolors",
+  "Tempera",
+  "Wall coverings",
+  "Wallpapers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 10024424,
+ "gallery-id": 752,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP255684.jpg",
+ "related-artworks": [
+  10024404,
+  10010006,
+  10024396,
+  10024397,
+  10024398
+ ],
+ "Provenance": [
+  "Stephen Van Rensselaer II, Albany, New York, from 1768",
+  "descended in the Van Rensselaer family",
+  "Dr. Howard Van Rensselaer, until 1928",
+  "Howard Townsend, New York, 1928"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10024424"
+  }
+ }
+}

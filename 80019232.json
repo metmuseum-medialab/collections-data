@@ -1,0 +1,43 @@
+{
+ "Designer": "Cristobal Balenciaga (Spanish, 1895–1972)",
+ "Date": "fall/winter 1948–49",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 56 in. (142.2 cm)",
+ "Credit Line": "Gift of Mrs. A.W.B. Vincent, 1979",
+ "Accession Number": "1979.57",
+ "Who": [
+  "House of Balenciaga",
+  "Cristobal Balenciaga"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Outerwear",
+  "Coats",
+  "Overcoats",
+  "Evening coats"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80019232,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1979.57_F.jpg",
+ "related-artworks": [
+  80007512,
+  80019039,
+  80019238,
+  80019256,
+  80019262
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80019232"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Period": "Northern Qi (550–577) or Sui (581–618) dynasty",
+ "Culture": "China",
+ "Medium": "Glazed white pottery",
+ "Dimensions": "H. 18 1/2 in. (47 cm)",
+ "Classification": "Tomb Pottery",
+ "Credit Line": "Gift of Mr. and Mrs. Ezekiel Schloss, 1985",
+ "Accession Number": "1985.208.3",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Figures",
+  "Glazing"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60034347,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/243217.jpg",
+ "related-artworks": [
+  60019076,
+  60018827,
+  60019072,
+  60019075,
+  60019095
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60034347"
+  }
+ }
+}

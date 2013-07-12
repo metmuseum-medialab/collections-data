@@ -1,0 +1,37 @@
+{
+ "Date": "late 19th century",
+ "Culture": "British, London",
+ "Medium": "Silver",
+ "Dimensions": "Overall 3 3/16 in. (8.1 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mrs. Amos L. Beaty, 1961",
+ "Accession Number": "61.78.32",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120027549,
+ "related-artworks": [
+  120000010,
+  120000021,
+  120000690,
+  120002291,
+  120002549
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120027549"
+  }
+ }
+}

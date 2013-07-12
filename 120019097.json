@@ -1,0 +1,72 @@
+{
+ "Modeler": "Model attributed to Andrew Planché (1727–1805)",
+ "Date": "ca. 1750",
+ "Culture": "British, Derby",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "Overall (confirmed) 4 9/16 x 6 1/4 x 2 15/16 in. (11.6 x 15.9 x 7.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.748",
+ "Who": [
+  "Derby",
+  "Andrew Planché"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Figures",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Derbyshire",
+  "Derby"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120019097,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/210279.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120007454",
+  "http://scrapi.org/object/120007455",
+  "http://scrapi.org/object/120007458",
+  "http://scrapi.org/object/120007518",
+  "http://scrapi.org/object/120013695"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/210279.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP250614.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP250611.jpg"
+ ],
+ "Provenance": [
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120007454"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120007455"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120007458"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120007518"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120013695"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120019097"
+  }
+ }
+}

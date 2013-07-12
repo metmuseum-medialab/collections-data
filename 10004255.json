@@ -1,0 +1,35 @@
+{
+ "Date": "1700–1800",
+ "Medium": "Iron",
+ "Dimensions": "H. 2 1/2 in. (6.4 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Rogers Fund, 1935",
+ "Accession Number": "35.105.3",
+ "What": [
+  "Metal",
+  "Arms",
+  "Iron and iron alloy",
+  "Iron",
+  "Firearms",
+  "Hooks"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10004255,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/101936.jpg",
+ "related-artworks": [
+  10004254,
+  10004569,
+  10004576,
+  10004568,
+  10004570
+ ],
+ "Provenance": [
+  "McKearin's Antiques, Hoosick Falls, New York, until 1935"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10004255"
+  }
+ }
+}

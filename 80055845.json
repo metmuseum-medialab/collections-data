@@ -1,0 +1,35 @@
+{
+ "Date": "early 19th century",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": "Length 26 in. (66 cm)",
+ "Credit Line": "Gift of Mrs. George B. Dabney, 1976",
+ "Accession Number": "1976.299.3",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Aprons"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80055845,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1976.299.3.jpg",
+ "related-artworks": [
+  80024638,
+  80031526,
+  80056289,
+  80056488,
+  80056641
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80055845"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "early 19th century",
+ "Culture": "French",
+ "Medium": "Silk on felt",
+ "Dimensions": [
+  "L. 3 1/2 x W. 2 7/8 inches",
+  "8.9 x 7.3 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.1636",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Samples",
+  "Felt"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 120042412,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP2111.jpg",
+ "related-artworks": [
+  120042373,
+  120042380,
+  120042410,
+  120042470,
+  120042444
+ ],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120042412"
+  }
+ }
+}

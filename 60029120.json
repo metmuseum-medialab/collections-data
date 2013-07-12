@@ -1,0 +1,31 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Dimensions": "3 x 5 1/2 x 4 1/4 in. (7.6 x 14 x 10.8 cm)",
+ "Classification": "Lacquer",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.825a–l",
+ "What": "Lacquer",
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60029120,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/14_40_825al_TQ.JPG",
+ "related-artworks": [
+  60001421,
+  60007028,
+  60007093,
+  60007170,
+  60009049
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029120"
+  }
+ }
+}

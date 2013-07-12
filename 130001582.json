@@ -1,0 +1,42 @@
+{
+ "Period": "Cypro-Archaic II",
+ "Date": "ca. 600–480 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta; mold-made",
+ "Dimensions": "H. 5 15/16 in. (15.1 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.1560",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130001582,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP101632.jpg",
+ "related-artworks": [
+  130001470,
+  130001551,
+  130001553,
+  130001581,
+  130001584
+ ],
+ "Provenance": [
+  "From Cyprus\r\nSaid to be from a tomb at Palaepaphos"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130001582"
+  }
+ }
+}

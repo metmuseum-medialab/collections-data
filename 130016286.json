@@ -1,0 +1,40 @@
+{
+ "Period": "Late Archaic",
+ "Culture": "Greek",
+ "Medium": "Terracotta; red-figure",
+ "Classification": "Vases",
+ "Credit Line": "Gift of Dietrich von Bothmer, 1983",
+ "Accession Number": "1983.466.1",
+ "Who": "Douris",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups",
+  "Kylikes"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Scenes of Everyday Life in Ancient Greece",
+ "MetPublications": "Search for related Met publications",
+ "id": 130016286,
+ "related-artworks": [
+  130011742,
+  130016027,
+  130016028,
+  130016021,
+  130016040
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130016286"
+  }
+ }
+}

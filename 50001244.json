@@ -1,0 +1,40 @@
+{
+ "Date": "11th–12th century",
+ "Geography": "Peru",
+ "Culture": "Peru; central coast (?)",
+ "Medium": "Silver",
+ "Dimensions": "Overall 1 1/2 in. (3.81 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Gift of Nathan Cummings, 1964",
+ "Accession Number": "64.228.282",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50001244,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/64.228.282.JPG",
+ "related-artworks": [
+  50001361,
+  50001238,
+  50001240,
+  50001245,
+  50001247
+ ],
+ "Provenance": [
+  "Nathan Cummings, Chicago, until 1964"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50001244"
+  }
+ }
+}

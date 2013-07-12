@@ -1,0 +1,35 @@
+{
+ "Date": "2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Onyx",
+ "Dimensions": "Other 7/16 x 5/16 x 1/8 in. (1.1 x 0.8 x 0.4 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Gift of Miss Helen Miller Gould, 1910",
+ "Accession Number": "10.130.1382",
+ "What": [
+  "Sculpture",
+  "Chalcedony",
+  "Gems",
+  "Intaglios",
+  "Onyx"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "id": 130008688,
+ "related-artworks": [
+  130009513,
+  130015578,
+  130009049,
+  130014968,
+  130014969
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130008688"
+  }
+ }
+}

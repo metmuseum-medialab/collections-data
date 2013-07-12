@@ -1,0 +1,40 @@
+{
+ "Designer": "Cristobal Balenciaga (Spanish, 1895–1972)",
+ "Date": "1966–67",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 38 1/2 in. (97.8 cm)",
+ "Credit Line": "Gift of Geoffrey Beene, 1978",
+ "Accession Number": "1978.64.3",
+ "Who": [
+  "House of Balenciaga",
+  "Cristobal Balenciaga"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80007451,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.64.3_F.jpg",
+ "related-artworks": [
+  80000069,
+  80001689,
+  80001688,
+  80001984,
+  80002613
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007451"
+  }
+ }
+}

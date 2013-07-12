@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1904",
+ "Medium": "Bronze",
+ "Dimensions": "20 1/4 x 18 1/4 x 9 3/4 in. (51.4 x 46.4 x 24.8 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Mrs. Charles Keck, 1952",
+ "Accession Number": "52.152",
+ "Who": "Charles Keck",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Figures",
+  "Busts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 20011646,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/52.152.jpg",
+ "related-artworks": [
+  210007783,
+  210000833,
+  20011268
+ ],
+ "Provenance": [
+  "Mrs. Charles Keck, until 1952"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20011646"
+  }
+ }
+}

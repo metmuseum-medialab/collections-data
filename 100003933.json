@@ -1,0 +1,40 @@
+{
+ "Period": "Predynastic, Naqada II",
+ "Date": "ca. 3500–3300 B.C.",
+ "Geography": "Country of Origin Egypt, Southern Upper Egypt, Hierakonpolis (el-Kom el-Ahmar), Fort Cemetery (Hk 27), Tomb 36, MMA 1934–1935",
+ "Medium": "Pottery",
+ "Dimensions": "H 31 cm (12 3/16 in.)",
+ "Credit Line": "Rogers Fund, 1936",
+ "Accession Number": "36.1.82",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Jars"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Aswan",
+  "Kom al Ahmar"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100003933,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/MMA36.1.82.jpg",
+ "related-artworks": [
+  100003775,
+  100003776,
+  100003929,
+  100003939,
+  100003768
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003933"
+  }
+ }
+}

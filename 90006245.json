@@ -1,0 +1,61 @@
+{
+ "Date": "n.d.",
+ "Medium": "Pen and black ink, brush and gray wash",
+ "Dimensions": "7 3/16 x 13 5/16 in.  (18.3 x 33.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mr. and Mrs. Bruno de Bayser, 2000",
+ "Accession Number": "2000.91.3",
+ "Who": "Antoine Léonard Du Pasquier",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1600–1800 A.D.",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90006245,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821998.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90000010",
+  "http://scrapi.org/object/90000125",
+  "http://scrapi.org/object/90000156",
+  "http://scrapi.org/object/90000157",
+  "http://scrapi.org/object/90000386"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP821998.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/2000.91.3.jpg"
+ ],
+ "Provenance": [
+  "Donor: Mr. and Mrs. Bruno de Bayser"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000010"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000125"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000156"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000157"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000386"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90006245"
+  }
+ }
+}

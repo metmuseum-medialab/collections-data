@@ -1,0 +1,43 @@
+{
+ "Period": "Iron Age III",
+ "Date": "ca. 8th–7th century B.C.",
+ "Geography": "Iran, said to be from Ziwiye",
+ "Medium": "Ivory",
+ "Dimensions": "1.06 x 4.17 in. (2.69 x 10.59 cm)",
+ "Classification": "Ivory/Bone",
+ "Credit Line": "Fletcher Fund, 1951",
+ "Accession Number": "51.131.17",
+ "What": [
+  "Sculpture",
+  "Fragments",
+  "Bone",
+  "Ivory",
+  "Reliefs",
+  "Panels"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30002844,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/DP110545.jpg",
+ "related-artworks": [
+  30002835,
+  30002836,
+  30002459,
+  30002460,
+  30002837
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1951, purchased from Khalil Rabenou, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30002844"
+  }
+ }
+}

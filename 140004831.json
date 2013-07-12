@@ -1,0 +1,59 @@
+{
+ "Date": "5th century",
+ "Geography": "Egypt",
+ "Medium": "Linen, wool",
+ "Dimensions": [
+  "H. 82 in. (208.3 cm)",
+  "W. 49 1/2 in. .(125.7 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Arthur S. Vernay Inc., 1922",
+ "Accession Number": "22.124.4",
+ "What": [
+  "Textiles",
+  "Wool",
+  "Linen"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140004831,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/ISL49.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/is/original/ISL49.jpg",
+  "http://images.metmuseum.org/CRDImages/is/original/ISL50.jpg"
+ ],
+ "Provenance": [
+  "Arthur S. Vernay, Inc., New York (until 1922)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/140000374"
+   },
+   {
+    "href": "http://scrapi.org/object/140000376"
+   },
+   {
+    "href": "http://scrapi.org/object/140000401"
+   },
+   {
+    "href": "http://scrapi.org/object/140000377"
+   },
+   {
+    "href": "http://scrapi.org/object/140000403"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140004831"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/140004831"
+  }
+ }
+}

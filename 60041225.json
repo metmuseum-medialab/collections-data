@@ -1,0 +1,36 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Silk",
+ "Dimensions": "6 3/4 x 2 1/2 in. (17.15 x 6.35 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mr. and Mrs. H. O. Havemeyer, 1896",
+ "Accession Number": "96.14.1970",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60041225,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP11595.jpg",
+ "related-artworks": [
+  60038403,
+  60039212,
+  60039207,
+  60039320,
+  60039259
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60041225"
+  }
+ }
+}

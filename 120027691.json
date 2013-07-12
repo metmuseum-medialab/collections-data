@@ -1,0 +1,50 @@
+{
+ "Artist": "Jérôme Charles Bellicard (French, Paris 1726–1786 Paris)",
+ "Date": "1754",
+ "Culture": "French",
+ "Medium": "Paper, leather",
+ "Dimensions": "H. 6-3/4 x W. 4-1/4 x D. 1 in. (17.1 x 10.8 x 2.5 cm)",
+ "Classification": "Books and book bindings",
+ "Credit Line": "Gift of Mrs. Charles Wrightsman, 2001",
+ "Accession Number": "2001.309.2",
+ "Who": [
+  "Charles Nicolas Cochin II",
+  "Jérôme Charles Bellicard"
+ ],
+ "What": [
+  "Paper",
+  "Books",
+  "Leather",
+  "Bindings"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120027691,
+ "gallery-id": 526,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF2001_309_2_img2.jpg",
+ "related-artworks": [
+  90012586,
+  90015042,
+  90015043,
+  90016567,
+  90021063
+ ],
+ "Provenance": [
+  "Abel-François Poisson, marquis de Marigny",
+  "Roger Peyrefitte",
+  "Librairie Lardanchet (until at least 1985)",
+  "Jayne Wrightsman (until 2001",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120027691"
+  }
+ }
+}

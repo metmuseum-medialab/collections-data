@@ -1,0 +1,46 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Reign": "reign of Senwosret I",
+ "Date": "ca. 1961–1917 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht South",
+ "Medium": "Tempera on paper",
+ "Dimensions": [
+  "h. 28.6 cm (11 1/4 in); w. 24.6 cm (9 11/16 in)",
+  "scale 11 approximately"
+ ],
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "INST.1979.2.27",
+ "Who": "Miss McKann",
+ "What": [
+  "Paper",
+  "Tempera",
+  "Facsimiles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100030435,
+ "related-artworks": [
+  100030432,
+  100030430,
+  100030436,
+  100030431,
+  100030433
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100030435"
+  }
+ }
+}

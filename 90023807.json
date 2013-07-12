@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1846",
+ "Medium": "lithograph",
+ "Dimensions": [
+  "Overall 11 7/16 x 8 11/16 in. (29.1 x 22.1 cm)",
+  "image 10 1/16 x 8 3/8 in. (25.5 x 21.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Weston J. Naef in honor of Kathleen W. Naef, 1978",
+ "Accession Number": "1978.656.8",
+ "Who": "Honoré Daumier",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Vincent van Gogh (1853–1890) The Drawings",
+  "Nineteenth–Century French Realism",
+  "The Print in the Nineteenth Century",
+  "Lithography in the Nineteenth Century",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90023807,
+ "related-artworks": [
+  90035960,
+  90063638,
+  90068087,
+  90000157,
+  90000514
+ ],
+ "Provenance": [
+  "Donor: Weston J. Naef"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023807"
+  }
+ }
+}

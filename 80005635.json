@@ -1,0 +1,35 @@
+{
+ "Date": "late 1940s",
+ "Culture": "American",
+ "Medium": "synthetic",
+ "Dimensions": "Length at CB 49 1/2 in. (125.7 cm)",
+ "Credit Line": "Gift of Mary (Howard) de Liagre, 2002",
+ "Accession Number": "2002.196.3",
+ "Who": "Ceil Chapman",
+ "What": [
+  "Costume",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80005635,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2002.196.3_F.jpg",
+ "related-artworks": [
+  80001896,
+  80002928,
+  80011751,
+  80019838,
+  80115582
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80005635"
+  }
+ }
+}

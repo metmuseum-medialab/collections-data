@@ -1,0 +1,38 @@
+{
+ "Date": "1980–87",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": [
+  "Length at CB (a) 34 in. (86.4 cm)",
+  "Length at Side Seam (b) 41 1/2 in. (105.4 cm)"
+ ],
+ "Credit Line": "Gift of Sean F. O'Brien, 1998",
+ "Accession Number": "1998.499.8a, b",
+ "Who": "Perry Ellis",
+ "What": [
+  "Costume",
+  "Wool",
+  "Suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80002243,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1998.499.8ab_F.jpg",
+ "related-artworks": [
+  80000032,
+  80017877,
+  80000033,
+  80000031,
+  80002072
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002243"
+  }
+ }
+}

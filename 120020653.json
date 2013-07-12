@@ -1,0 +1,39 @@
+{
+ "Date": "1717–18",
+ "Culture": "British, London",
+ "Medium": "Silver, wood",
+ "Dimensions": "H. 4 3/8 in.  (11.1 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1968",
+ "Accession Number": "68.141.87",
+ "Who": "William Fleming",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Wood",
+  "Teapots"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020653,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/193488.jpg",
+ "related-artworks": [
+  120006412,
+  120012319,
+  120006778
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120020653"
+  }
+ }
+}

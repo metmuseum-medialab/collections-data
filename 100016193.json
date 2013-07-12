@@ -1,0 +1,41 @@
+{
+ "Period": "First Intermediate Period–early Middle Kingdom",
+ "Dynasty": "Dynasty 9–12",
+ "Date": "ca. 2100–1950 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Pottery",
+ "Dimensions": "l. 32.5 cm (12 13/16 in); w. 21 cm (8 1/4 in)",
+ "Credit Line": "Gift of Theodore M. Davis, 1899",
+ "Accession Number": "99.3.4",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Models",
+  "Model houses"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100016193,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/99.3.4.jpg",
+ "related-artworks": [
+  100013569,
+  100003694,
+  100003698,
+  100003703,
+  100003689
+ ],
+ "Provenance": [
+  "Donated by Theodore M. Davis, 1899."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100016193"
+  }
+ }
+}

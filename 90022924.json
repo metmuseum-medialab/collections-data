@@ -1,0 +1,38 @@
+{
+ "Date": "after 1859",
+ "Medium": "Wood engraving or photo engraving",
+ "Dimensions": "5 11/16 x 3 11/16 in. (14.5 x 9.3 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.585.5",
+ "Who": "S. J. Pardessus",
+ "What": [
+  "Prints",
+  "Engraving",
+  "Books",
+  "Relief prints",
+  "Wood engravings",
+  "Photoengraving"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90022924,
+ "related-artworks": [
+  90012190,
+  90015102,
+  90017684,
+  90020420,
+  90022138
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90022924"
+  }
+ }
+}

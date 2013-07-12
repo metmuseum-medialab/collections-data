@@ -1,0 +1,35 @@
+{
+ "Date": "1976",
+ "Medium": "Cotton",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Vuokko Eskolin-Nurmesniemi, 1990",
+ "Accession Number": "1990.284.22",
+ "Who": "Vuokko Eskolin-Nurmesniemi",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing",
+  "Samples"
+ ],
+ "Where": [
+  "Europe",
+  "Finland"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210005675,
+ "related-artworks": [
+  210005689,
+  210005692,
+  210005669,
+  210005670,
+  210005674
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210005675"
+  }
+ }
+}

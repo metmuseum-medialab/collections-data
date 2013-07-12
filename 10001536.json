@@ -1,0 +1,42 @@
+{
+ "Date": "1830–70",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Pressed glass",
+ "Dimensions": "H. 6 3/4 in. (17.1 cm); Diam. 3 3/8 in. (8.6 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Emily Winthrop Miles, 1946",
+ "Accession Number": "46.140.142",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Vases",
+  "Pressed glass",
+  "Celery glasses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001536,
+ "gallery-id": 774,
+ "related-artworks": [
+  10001547,
+  10001552,
+  10001553,
+  10001555,
+  10001537
+ ],
+ "Provenance": [
+  "Mrs. Emily Winthrop Miles, New York, until 1946"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10001536"
+  }
+ }
+}

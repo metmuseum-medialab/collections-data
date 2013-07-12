@@ -1,0 +1,41 @@
+{
+ "Date": "1969",
+ "Medium": "Stainless steel",
+ "Dimensions": [
+  "H. 32, W. 17-1/8, D. 17-1/8 inches",
+  "(81.3 x 43.5 x 43.5 cm.)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Dr. and Mrs. Sheldon C. Sommers, 1993",
+ "Accession Number": "1993.519",
+ "Who": "George Rickey",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Chrome steel",
+  "Stainless steel"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210006526,
+ "related-artworks": [
+  210015495,
+  210001654,
+  210006161,
+  210001181
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006526"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Date": "1670–1870",
+ "Medium": "Brass",
+ "Dimensions": "Dimensions unavailable",
+ "Classification": "Metal",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.25.56",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Furniture",
+  "Brass"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10004334,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/35378.jpg",
+ "related-artworks": [
+  10000241,
+  10000242,
+  10000291,
+  10000292,
+  10000293
+ ],
+ "Provenance": [
+  "H. Eugene Bolles, Boston",
+  "Mrs. H. Eugene Bolles, Boston, until 1913"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10004334"
+  }
+ }
+}

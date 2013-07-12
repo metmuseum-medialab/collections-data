@@ -1,0 +1,40 @@
+{
+ "Date": "n.d.",
+ "Medium": "Pen, brown ink, gray-brown wash, heightened with white, over traces of black chalk",
+ "Dimensions": "6 15/16 x 14 1/4 in. (17.7 x 36.2cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Van Day Truex Fund, 1993",
+ "Accession Number": "1993.12.1",
+ "Who": "Guillaume Boichot",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90000836,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP805340.jpg",
+ "related-artworks": [
+  90010908,
+  90000157,
+  90000604,
+  90000615
+ ],
+ "Provenance": [
+  "Vendor: Neal Fiertag"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90000836"
+  }
+ }
+}

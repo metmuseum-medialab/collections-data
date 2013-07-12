@@ -1,0 +1,36 @@
+{
+ "Date": "1916",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "Length 8 in. (20.3 cm)",
+ "Credit Line": "Gift of Mrs. Sophie Jacobson, 1972",
+ "Accession Number": "1972.250",
+ "Who": "Wanamaker's",
+ "What": [
+  "Costume",
+  "Silk",
+  "Fans"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80053603,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1972.250.jpg",
+ "related-artworks": [
+  80033772,
+  80045426,
+  80107518,
+  80115459,
+  80097233
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80053603"
+  }
+ }
+}

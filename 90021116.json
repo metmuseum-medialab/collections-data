@@ -1,0 +1,42 @@
+{
+ "Publisher": "Martin Taylor (London)",
+ "Date": "ca. 1840",
+ "Medium": "Etching, engraving",
+ "Dimensions": "Overall 11 15/16 x 9 3/16 x 3/8 in. (30.4 x 23.4 x 1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1952",
+ "Accession Number": "52.519.119",
+ "Who": [
+  "Matthias Lock",
+  "Martin Taylor"
+ ],
+ "What": [
+  "Etching",
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021116,
+ "related-artworks": [
+  90017336,
+  90021114,
+  90021120,
+  90015283,
+  90015284
+ ],
+ "Provenance": [
+  "Ogden Codman, Jr. (American, Boston, Massachusetts 1868–1951 Grégy-sur-Yerre)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021116"
+  }
+ }
+}

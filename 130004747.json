@@ -1,0 +1,38 @@
+{
+ "Period": "Early Bronze Age",
+ "Date": "ca. 3200–2000 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Bronze",
+ "Dimensions": "length    12.19 cm.",
+ "Classification": "Bronzes",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.5397",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 8000–2000 B.C.",
+ "id": 130004747,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP2230.jpg",
+ "related-artworks": [
+  130003237,
+  130003238,
+  130003247,
+  130003248,
+  130003246
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130004747"
+  }
+ }
+}

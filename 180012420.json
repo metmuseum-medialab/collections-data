@@ -1,0 +1,36 @@
+{
+ "Date": "19th century",
+ "Geography": "United States",
+ "Culture": "U.S.A.",
+ "Medium": "Wood",
+ "Dimensions": "Overall 87.5cm (34 7/16in.); Other (Body): 18.7cm (7 3/8in.)",
+ "Classification": "Chordophone-Lute",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.121",
+ "What": [
+  "Musical instruments",
+  "Chordophones",
+  "Lutes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180012420,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS142A.jpg",
+ "related-artworks": [
+  180012926,
+  180013857,
+  180014121,
+  180014939,
+  180015124
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180012420"
+  }
+ }
+}

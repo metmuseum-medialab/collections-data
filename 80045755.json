@@ -1,0 +1,36 @@
+{
+ "Date": "1943",
+ "Culture": "American",
+ "Medium": "silk, cotton",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Werner Abegg, 1968",
+ "Accession Number": "C.I.68.55.3",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Hats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80045755,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI68.55.3_S.jpg",
+ "related-artworks": [
+  80001372,
+  80005444,
+  80009906,
+  80031465,
+  80038503
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80045755"
+  }
+ }
+}

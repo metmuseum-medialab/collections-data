@@ -1,0 +1,45 @@
+{
+ "Artist": "After (?) Jacopo da Empoli (Jacopo Chimenti) (Italian, Florence 1551–1640 Florence)",
+ "Date": "1614–20",
+ "Medium": "Engraving; first state of two (Lieure)",
+ "Dimensions": "Sheet 8 7/8 x 11 7/8 in. (22.6 x 30.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, by exchange, 1940",
+ "Accession Number": "40.52.2",
+ "Who": [
+  "Jacques Callot",
+  "Matteo Rosselli",
+  "Jacopo da Empoli (Jacopo Chimenti)"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90096628,
+ "related-artworks": [
+  90010397,
+  90014436,
+  90028114,
+  90034063,
+  90034064
+ ],
+ "Description": "According to the inscription on the second state of the print, the print is engraved after Matteo Rosselli.  However, according to the \"Jacques Callot\" (Nancy 1992) exhibition catalogue, this print is based upon a painting by Jacopo da Empoli.  The painting, now lost, is recorded in a drawing in the Uffizi (941 F) and in a small copy in the collection of Lord Engin at Broom Hall, England.  Mariette also linked the plate with this copy.",
+ "Provenance": [
+  "Junius Spencer Morgan",
+  "Friedrich August II of Saxony (1797–1854)",
+  "Vendor: Princeton University Art Museum"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90096628"
+  }
+ }
+}

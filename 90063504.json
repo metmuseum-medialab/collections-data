@@ -1,0 +1,41 @@
+{
+ "Publisher": "Published London by William Richardson (British, active 1778–1812)",
+ "Date": "May 11, 1782",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 9 5/8 x 13 7/8 in. (24.5 x 35.2 cm)",
+  "sheet 10 1/16 x 15 3/16 in. (25.5 x 38.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Charles Allen Munn, 1924",
+ "Accession Number": "24.90.1408",
+ "Who": [
+  "William Richardson",
+  "Thomas Colley"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 90063504,
+ "related-artworks": [
+  90063487,
+  90063407,
+  90063408
+ ],
+ "Provenance": [
+  "Donor: Charles Allen Munn"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90063504"
+  }
+ }
+}

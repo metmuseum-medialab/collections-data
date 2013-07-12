@@ -1,0 +1,45 @@
+{
+ "Period": "Iron Age, Phoenicia (?)",
+ "Date": "ca. 6th–5th century B.C.",
+ "Geography": "Levant or Syria",
+ "Medium": "Stone, mottled red and white",
+ "Dimensions": [
+  "Seal Face 1.69 x 1.12 cm",
+  "Height 0.95 cm",
+  "String Hole 0.1 cm"
+ ],
+ "Classification": "Stone",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.160.459",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Scarabs",
+  "Seals"
+ ],
+ "Where": [
+  "Asia",
+  "Levant"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30002581,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss41_160_459.jpg",
+ "related-artworks": [
+  30000076,
+  30000264,
+  30000941,
+  30000946,
+  30000947
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1941, bequest of W. Gedney Beatty."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30002581"
+  }
+ }
+}

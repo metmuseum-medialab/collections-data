@@ -1,0 +1,41 @@
+{
+ "Period": "Bronze Age",
+ "Date": "ca. late 3rd–early 2nd millennium B.C.",
+ "Geography": "Bactria-Margiana",
+ "Culture": "Bactria-Margiana Archaeological Complex",
+ "Medium": "Copper alloy",
+ "Dimensions": "5.04 in. (12.8 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Steven D. Robinson, 1981",
+ "Accession Number": "1981.448.14",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Copper",
+  "Pins"
+ ],
+ "Where": [
+  "Central Asia"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 2000–1000 B.C.",
+  "Central and North Asia, 8000–2000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 30005355,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME1981_448_14.jpg",
+ "related-artworks": [
+  30005457,
+  30005354,
+  30005356,
+  30005357,
+  30005392
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30005355"
+  }
+ }
+}

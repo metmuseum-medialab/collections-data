@@ -1,0 +1,38 @@
+{
+ "Artist": "After Adam Elsheimer (German, Frankfurt 1578–1610 Rome)",
+ "Date": "1625–77",
+ "Medium": "Etching; third state of three",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1963",
+ "Accession Number": "63.617.31",
+ "Who": [
+  "Wenceslaus Hollar (Wenzel Vaclav)",
+  "Adam Elsheimer"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90032245,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP822906.jpg",
+ "related-artworks": [
+  90031088,
+  90031120,
+  90031171,
+  90031202,
+  90031208
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90032245"
+  }
+ }
+}

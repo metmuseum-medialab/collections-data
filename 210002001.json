@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1930",
+ "Medium": "Charcoal on paper",
+ "Dimensions": [
+  "H. 25, W. 19 inches",
+  "(63.5 x 48.3 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of the artist, 1978",
+ "Accession Number": "1978.445.1",
+ "Who": "Lillian Kiesler",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Charcoal"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210002001,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1978.445.1.jpg",
+ "related-artworks": [
+  210002002,
+  210002762,
+  210001170,
+  210001215
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210002001"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "late 13th–early 14th century",
+ "Geography": "Made in Pyrénées-Aquintaine, France",
+ "Culture": "French",
+ "Medium": "Marble",
+ "Dimensions": "Overall 20 1/2 x 15 1/2 x 12 1/2 in. (52.1 x 39.4 x 31.8 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Cloisters Collection, 1925",
+ "Accession Number": "25.120.758",
+ "What": [
+  "Sculpture",
+  "Marble",
+  "Capitals"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Burgundy"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011449,
+ "gallery-id": 11,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/DP102892.jpg",
+ "related-artworks": [
+  70011285,
+  70011426,
+  70011440,
+  70011441,
+  70011442
+ ],
+ "Provenance": [
+  "From the Cistercian abbey at Bonnefont-en-Comminges and other nearby monasteries.George Grey Barnard American, Bellefonte, Pennsylvania 1863–1938 New York , New York (until 1925)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011449"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Publisher": "Nicolas Langlois (French, Paris 1640–1703)",
+ "Date": "ca. 1690–95",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Sheet 13 9/16 × 8 1/4 in. (34.5 × 21 cm)",
+  "Plate 7 15/16 × 5 1/4 in. (20.2 × 13.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.84(1.131)",
+ "Who": [
+  "Nicolas Langlois",
+  "Pierre Le Pautre"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90106548,
+ "related-artworks": [
+  90106545,
+  90106552,
+  90106550,
+  90106553,
+  90106555
+ ],
+ "Description": "This print is bound in Volume I of Oeuvres.  Jombert published his collection of Le Pautre in 1751. Volume I contains \"desseins... pour la décoration des maisons, etouches, edifices;.\"",
+ "Provenance": [
+  "Vendor: James Rimell & Son"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90106548"
+  }
+ }
+}

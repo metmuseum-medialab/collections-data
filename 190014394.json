@@ -1,0 +1,41 @@
+{
+ "Date": "June 22, 1967",
+ "Medium": "Dye transfer print",
+ "Dimensions": "25.8 x 20.5 cm. (10  3/16  x 8  1/16  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, in honor of David Hunter McAlpin, 1979",
+ "Accession Number": "1979.625.29",
+ "Rights and Reproduction": "© 1990 Amon Carter Museum, Fort Worth, Texas",
+ "Who": "Eliot Porter",
+ "What": [
+  "Photographs",
+  "Photomechanical reproductions",
+  "Dye",
+  "Dye transfer prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190014394,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP167374.jpg",
+ "related-artworks": [
+  190011788,
+  190011782,
+  190011789,
+  190011783,
+  190011784
+ ],
+ "Provenance": [
+  "Eliot Porter"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190014394"
+  }
+ }
+}

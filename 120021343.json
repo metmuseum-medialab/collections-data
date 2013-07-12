@@ -1,0 +1,49 @@
+{
+ "Date": "ca. 1770",
+ "Culture": "British, Worcester",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "Each, H. approx. 1 7/8 in. (4.8 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Barbara S. Adler, 1971",
+ "Accession Number": "1971.277.4-9",
+ "Who": "Worcester",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Drinking vessels",
+  "Cups",
+  "Soft paste porcelain",
+  "Teacups"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Worcestershire",
+  "Worcester"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021343,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/225438.jpg",
+ "related-artworks": [
+  120006183,
+  120021416,
+  120002927,
+  120002930,
+  120002960
+ ],
+ "Provenance": [
+  "Barbara S. Adler (until 1971",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021343"
+  }
+ }
+}

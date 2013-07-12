@@ -1,0 +1,69 @@
+{
+ "Founder": "Cast by Eck et Durand",
+ "Date": "1830, cast before 1856",
+ "Culture": "French",
+ "Medium": "Bronze",
+ "Dimensions": "Overall 5 3/8 x 5 1/4 in. (13.7 x 13.3 cm)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Joseph G. Reinis, 2009",
+ "Accession Number": "2009.265",
+ "Who": [
+  "Pierre Jean David d'Angers",
+  "Eck et Durand"
+ ],
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes",
+  "Medallions"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120056961,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF2009_265_img1.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120002818",
+  "http://scrapi.org/object/120002820",
+  "http://scrapi.org/object/120002821",
+  "http://scrapi.org/object/120005231",
+  "http://scrapi.org/object/120027454"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/SF2009_265_img1.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/SF2009_265_mark.jpg"
+ ],
+ "Provenance": [
+  "Joseph G. Reinis (until 2009; to MMA)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120002818"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120002820"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120002821"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120005231"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120027454"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120056961"
+  }
+ }
+}

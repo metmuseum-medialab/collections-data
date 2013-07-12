@@ -1,0 +1,37 @@
+{
+ "Period": "Middle Kingdom–Second Intermediate Period",
+ "Dynasty": "Dynasty 13–17",
+ "Date": "ca. 2030–1550 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, East of Pabasa, Radim, Burial 6A.X.B12, MMA 1918–1919",
+ "Medium": [
+  "Black and blue faience",
+  "Carnelian"
+ ],
+ "Dimensions": "4 7/16 in. (11.3 cm)",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.3.113",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100001945,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs19.3.113xx.jpg",
+ "related-artworks": [
+  100000152,
+  100000186,
+  100000188,
+  100000189,
+  100000191
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100001945"
+  }
+ }
+}

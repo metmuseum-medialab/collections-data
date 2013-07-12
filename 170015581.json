@@ -1,0 +1,33 @@
+{
+ "Date": "4th–7th century",
+ "Geography": "Made in Byzantine Egypt",
+ "Culture": "Coptic",
+ "Medium": "Pottery fragment with ink inscription",
+ "Dimensions": "Overall 3 1/16 x 4 5/16 x 7/16 in. (7.7 x 11 x 1.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.79",
+ "What": [
+  "Ceramics",
+  "Ink",
+  "Fragments",
+  "Pottery",
+  "Ostraka"
+ ],
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170015581,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sfx-79s1.jpg",
+ "related-artworks": [
+  170014199,
+  170014200,
+  170014201,
+  170014202,
+  170014203
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170015581"
+  }
+ }
+}

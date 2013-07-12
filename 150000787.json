@@ -1,0 +1,40 @@
+{
+ "Date": "1900–1905",
+ "Medium": "Watercolor over graphite on heavy wove paper",
+ "Dimensions": "6 3/4 x 9 3/4 in.  (17.2 x 24.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.591",
+ "Who": "Henri-Edmond Cross (Henri-Edmond Delacroix)",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 150000787,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3253.jpg",
+ "related-artworks": [
+  150000240,
+  150000788,
+  150000789,
+  150000791,
+  90000376
+ ],
+ "Provenance": [
+  "Not established.  Robert Lehman by 1951"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150000787"
+  }
+ }
+}

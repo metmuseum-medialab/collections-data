@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "British, Staffordshire",
+ "Medium": "Staffordshire printed ware",
+ "Dimensions": "Not given",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Isaac Gibson Jaffray, in memory of her husband,1898",
+ "Accession Number": "98.1.80",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Printing",
+  "Plates"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120002740,
+ "related-artworks": [
+  120002739,
+  120005903,
+  120002735,
+  120002706,
+  120002715
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120002740"
+  }
+ }
+}

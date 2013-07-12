@@ -1,0 +1,39 @@
+{
+ "Period": "Late Bronze Age",
+ "Date": "ca. 1600–1050 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Ivory",
+ "Dimensions": "Diam. 1 9/16 in. (4 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.5229",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Buttons"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 2000–1000 B.C.",
+ "id": 130004580,
+ "gallery-id": 173,
+ "related-artworks": [
+  130017965,
+  130004587,
+  130004535,
+  130004537,
+  130004560
+ ],
+ "Provenance": [
+  "Said to be from Amathus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130004580"
+  }
+ }
+}

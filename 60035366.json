@@ -1,0 +1,32 @@
+{
+ "Culture": "China",
+ "Medium": "Ink on paper",
+ "Classification": "Rubbing",
+ "Credit Line": "Seymour and Rogers Funds, 1977",
+ "Accession Number": "1977.375.10",
+ "What": [
+  "Ink",
+  "Paper",
+  "Rubbings"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 60035366,
+ "related-artworks": [
+  60007601,
+  60007602,
+  60007603,
+  60007604,
+  60007607
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60035366"
+  }
+ }
+}

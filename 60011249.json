@@ -1,0 +1,49 @@
+{
+ "Culture": "America (Alaska)",
+ "Medium": "Nephrite",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.262",
+ "What": [
+  "Jade",
+  "Nephrite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Alaska"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 60011249,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/02_18_262 Chisel.JPG",
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60011229"
+   },
+   {
+    "href": "http://scrapi.org/object/60011237"
+   },
+   {
+    "href": "http://scrapi.org/object/60011262"
+   },
+   {
+    "href": "http://scrapi.org/object/60011244"
+   },
+   {
+    "href": "http://scrapi.org/object/60011234"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60011249"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60011249"
+  }
+ }
+}

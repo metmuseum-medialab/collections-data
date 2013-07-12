@@ -1,0 +1,34 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Bamboo",
+ "Dimensions": "H. (with handle) 7 3/4 in. (19.7 cm); L. 10 in. (25.4 cm)",
+ "Classification": "Basketry",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.2103",
+ "What": [
+  "Grass",
+  "Bamboo",
+  "Baskets"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60033522,
+ "related-artworks": [
+  60033486,
+  60033490,
+  60033496,
+  60033501,
+  60033514
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033522"
+  }
+ }
+}

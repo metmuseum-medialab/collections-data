@@ -1,0 +1,38 @@
+{
+ "Period": "Middle Kingdom–Early New Kingdom",
+ "Dynasty": "Dynasty 13–17",
+ "Date": "ca. 2030–1504 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, East of Pabasa, Radim, Burial 6A.X.B14, MMA 1918–1919",
+ "Medium": "Hared wood",
+ "Dimensions": "7 11/16 x 15/16 in. (19.5 x 2.4 cm)",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.3.125",
+ "What": [
+  "Wood",
+  "Headrests"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100001952,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/19.3.125.jpg",
+ "related-artworks": [
+  100001951,
+  100003568,
+  100003569,
+  100003567,
+  100014548
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100001952"
+  }
+ }
+}

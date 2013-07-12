@@ -1,0 +1,28 @@
+{
+ "Publisher": "Published by Trino di Monferrato",
+ "Date": "1550",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1937",
+ "Accession Number": "37.37.5",
+ "Who": [
+  "Trino di Monferrato",
+  "Giovanni Battista Pescatore"
+ ],
+ "What": "Books",
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023113,
+ "related-artworks": [
+  90022896,
+  90001587,
+  90001585,
+  90001586,
+  90003660
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90023113"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "2000",
+ "Medium": "Linocut on paper",
+ "Dimensions": "99 3/8 x 40 in.  (252.4 x 101.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Bequest of Alexander M. Bing, by exchange, 2001",
+ "Accession Number": "2001.316",
+ "Who": "William Kentridge",
+ "What": [
+  "Prints",
+  "Paper",
+  "Relief prints",
+  "Linoleum cuts"
+ ],
+ "Where": [
+  "Africa",
+  "South Africa"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Southern Africa, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210013102,
+ "related-artworks": [
+  210015588,
+  210013869,
+  210013100,
+  210013101,
+  210013105
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210013102"
+  }
+ }
+}

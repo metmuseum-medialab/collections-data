@@ -1,0 +1,44 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "\"White–line\" woodblock print; ink and color on paper",
+ "Dimensions": "H. 11 7/16 in. (29.1 cm); W. 5 1/2 in. (14 cm)",
+ "Classification": "Prints",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "JP1589",
+ "Who": "Okumura Masanobu",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japonisme",
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60026905,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP124533.jpg",
+ "related-artworks": [
+  60000754,
+  60000763,
+  60001098,
+  60001100,
+  60001101
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026905"
+  }
+ }
+}

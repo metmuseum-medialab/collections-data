@@ -1,0 +1,37 @@
+{
+ "Date": "1864",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "16.3 x 21.3 cm (6 7/16 x 8 3/8 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.65.460",
+ "Who": "William Frank Browne",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190037098,
+ "related-artworks": [
+  190019746,
+  190019778,
+  190019898,
+  190019717,
+  190019710
+ ],
+ "Provenance": [
+  "Loyal Legion, The Commandery of the State of Massachusetts, Boston"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190037098"
+  }
+ }
+}

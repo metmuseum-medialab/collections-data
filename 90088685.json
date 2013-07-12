@@ -1,0 +1,29 @@
+{
+ "Date": "20th c.",
+ "Medium": "Photomechanical process, color",
+ "Dimensions": "8 9/16 x 5 1/2 in. (21.8 x 14 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Mrs. James S. Hedges, 1969",
+ "Accession Number": "69.633.164",
+ "Who": "Ludlow Typograph Company",
+ "What": "Books",
+ "When": "A.D. 1-500",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90088685,
+ "related-artworks": [
+  90077645,
+  90078122,
+  90078124,
+  90078127,
+  90078135
+ ],
+ "Provenance": [
+  "Donor: Mrs. James S. Hedges"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90088685"
+  }
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "Factory": "Tapestry made at Beauvais",
+ "Date": "ca. 1780–90",
+ "Culture": "French, Paris",
+ "Medium": "Carved, painted and gilded walnut, pine, and linden; iron hardware; silk and wool Beauvais tapestry; modern silk damask",
+ "Dimensions": [
+  "H. of canopy from floor 156-3/4 in. (398.1cm);",
+  "H. of headboard  79 in.  (200.7 cm);",
+  "Gr. W. of headboard   73-1/2 in. (186.7 cm);",
+  "Depth of bedstead  86-3/4 in. (220.3 cm);",
+  "Gr. W. of tester  91-1/2 in. (232.4 cm)",
+  "Gr. D. of tester  96-3/4 in. (245.7 cm)"
+ ],
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of Kingdon Gould, in memory of his mother, Edith Kingdon Gould, 1923",
+ "Accession Number": "23.235a–f",
+ "Who": [
+  "Beauvais",
+  "Georges Jacob"
+ ],
+ "What": [
+  "Metal",
+  "Silk",
+  "Needlework",
+  "Wool",
+  "Gilt",
+  "Wood",
+  "Iron and iron alloy",
+  "Furniture",
+  "Painting",
+  "Lace",
+  "Iron",
+  "Woodwork",
+  "Bobbin lace",
+  "Tapestries",
+  "Softwood",
+  "Walnut",
+  "Pine",
+  "Damask",
+  "Beds",
+  "Duchesse lace"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009810,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP155132.jpg",
+ "related-artworks": [
+  120049735,
+  120049836,
+  120049835,
+  120017480,
+  120017481
+ ],
+ "Provenance": [
+  "Dukes of Hamilton",
+  "William Alexander Louis Stephen Douglas-Hamilton, 12th Duke of Hamilton , Lanarkshire (until 1882",
+  "sale, Christie, Manson and Woods, London, July 18, 1882, no. 1912, to Radley)",
+  "Edward Radley (in 1882)",
+  "[ Lowengard Frères (by 1893/94) ]",
+  "Kingdon Gould (until 1923",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009810"
+  }
+ }
+}

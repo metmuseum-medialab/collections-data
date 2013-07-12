@@ -1,0 +1,31 @@
+{
+ "Date": "third quarter 20th century",
+ "Culture": "American",
+ "Medium": "rayon",
+ "Dimensions": "Length (from shoulder) 41 in. (104.1 cm)",
+ "Credit Line": "Gift of Mrs. John Louis Bové, 1980",
+ "Accession Number": "1980.162.2",
+ "What": "Rayon",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80008123,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1980.162.2_F.jpg",
+ "related-artworks": [
+  80000130,
+  80000131,
+  80000238,
+  80000351,
+  80000352
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80008123"
+  }
+ }
+}

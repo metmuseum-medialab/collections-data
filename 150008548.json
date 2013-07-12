@@ -1,0 +1,39 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian",
+ "Medium": "silk; metal;",
+ "Dimensions": "Including tape 44.5 x 44 cm (17 1/2 x 17 3/8 in)",
+ "Classification": "Textiles",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.2440",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Apparels"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Siena"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 150008548,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-2440.jpg",
+ "related-artworks": [
+  150007734,
+  150007776,
+  150008357,
+  150008379,
+  150008359
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008548"
+  }
+ }
+}

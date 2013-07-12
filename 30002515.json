@@ -1,0 +1,43 @@
+{
+ "Period": "Achaemenid",
+ "Date": "ca. 6th–4th century B.C.",
+ "Geography": "Iran",
+ "Culture": "Achaemenid",
+ "Medium": "Agate, red white",
+ "Dimensions": "0.59 in. (1.5 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.160.268",
+ "Who": "Achaemenid",
+ "What": [
+  "Stone",
+  "Chalcedony",
+  "Seals",
+  "Agate"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30002515,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss41_160_268.jpg",
+ "related-artworks": [
+  30000262,
+  30005670,
+  30006392,
+  30006396,
+  30006397
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1941, bequest of W. Gedney Beatty."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30002515"
+  }
+ }
+}

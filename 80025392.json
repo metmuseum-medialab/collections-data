@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1780",
+ "Culture": "French",
+ "Medium": "silk, metallic thread",
+ "Dimensions": "Length at CB 24 3/4 in. (62.9 cm)",
+ "Credit Line": "Catharine Breyer Van Bomel Foundation Fund, 1978",
+ "Accession Number": "1978.85.1",
+ "What": [
+  "Costume",
+  "Silk",
+  "Caracos"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80025392,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.63.2_1978.85.1_F.jpg",
+ "related-artworks": [
+  80002692,
+  80013140,
+  80003001,
+  80004808,
+  80004932
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80025392"
+  }
+ }
+}

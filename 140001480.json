@@ -1,0 +1,42 @@
+{
+ "Date": "4th–5th century",
+ "Geography": "Egypt",
+ "Medium": "Linen, wool",
+ "Dimensions": "13 11/16 in. high 7 5/8 in. wide (34.8 cm high 19.3 cm wide)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of George F. Baker, 1890",
+ "Accession Number": "90.5.832",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Wool",
+  "Linen"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140001480,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/52270B.jpg",
+ "related-artworks": [
+  140000374,
+  140000376,
+  140000377,
+  140000378,
+  140000379
+ ],
+ "Provenance": [
+  "Emil Brugsch-Bey(until 1890",
+  "sold to Baker)",
+  "George F. Baker, New York (1890)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140001480"
+  }
+ }
+}

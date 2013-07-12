@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1669",
+ "Medium": "Red chalk",
+ "Dimensions": "14-5/8 x 10-3/16 in.  (37.2 x 25.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harry G. Sperling Fund, 1975",
+ "Accession Number": "1975.120",
+ "Who": "Baldassarre Franceschini (il Volterrano)",
+ "What": [
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90005846,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP809754.jpg",
+ "related-artworks": [
+  90003050,
+  90005820,
+  90005823,
+  90005847,
+  90005848
+ ],
+ "Provenance": [
+  "Christie's, LondonMarch 26-27, 1974, no.46.",
+  "Herman Shickman Gallery, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005846"
+  }
+ }
+}

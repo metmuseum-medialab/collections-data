@@ -1,0 +1,37 @@
+{
+ "Date": "17th century",
+ "Medium": "Pen and brown ink",
+ "Dimensions": "sheet 7 15/16 x 11 5/16 in. (20.1 x 28.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1967",
+ "Accession Number": "67.147.1",
+ "Who": "Jacob Pynas",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90015124,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800552.jpg",
+ "related-artworks": [
+  110001799,
+  90001981,
+  90001978,
+  90001987
+ ],
+ "Provenance": [
+  "Vendor: Bier"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90015124"
+  }
+ }
+}

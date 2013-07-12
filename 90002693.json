@@ -1,0 +1,36 @@
+{
+ "Date": "19th century",
+ "Medium": "Wood engraving",
+ "Classification": "Prints",
+ "Credit Line": "Max D. Wildnauer Fund, 1978",
+ "Accession Number": "1978.643.12",
+ "Who": "J. C. Hochnrind",
+ "What": [
+  "Prints",
+  "Engraving",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002693,
+ "related-artworks": [
+  90002692,
+  90002689,
+  90002691,
+  90002691
+ ],
+ "Provenance": [
+  "Vendor: Pomander Bookshop (New York, NY)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002693"
+  }
+ }
+}

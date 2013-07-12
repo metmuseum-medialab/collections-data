@@ -1,0 +1,53 @@
+{
+ "Date": "19th century",
+ "Culture": "French (?)",
+ "Medium": "Silk weave; silks, satins, et.",
+ "Dimensions": "H. 10 × W. 10 in. (25.4 × 25.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Mrs. Maria P. James, 1911",
+ "Accession Number": "11.60.347",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120059965,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP10430.jpg",
+ "Provenance": [
+  "Maria P. James (until 1911; bequeathed to MMA)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120036713"
+   },
+   {
+    "href": "http://scrapi.org/object/120036714"
+   },
+   {
+    "href": "http://scrapi.org/object/120036715"
+   },
+   {
+    "href": "http://scrapi.org/object/120036712"
+   },
+   {
+    "href": "http://scrapi.org/object/120036717"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120059965"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120059965"
+  }
+ }
+}

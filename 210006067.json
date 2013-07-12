@@ -1,0 +1,63 @@
+{
+ "Manufacturer": "Spratling (Mexico)",
+ "Date": "ca. 1909",
+ "Medium": "Silver, wood",
+ "Dimensions": "3 1/4 x 3 1/8 in.  (8.3 x 7.9 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Florene M. Schoenborn, 1991",
+ "Accession Number": "1991.429.19",
+ "Who": [
+  "Spratling",
+  "William Spratling"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Lighting devices",
+  "Candleholders",
+  "Candlesticks"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America Native Peoples, 1900 A.D.–present",
+  "Mexico and Central America, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210006067,
+ "related-artworks": [
+  "http://scrapi.org/object/210006069",
+  "http://scrapi.org/object/210006068",
+  "http://scrapi.org/object/210006070",
+  "http://scrapi.org/object/210006073",
+  "http://scrapi.org/object/210006077"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210006069"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210006068"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210006070"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210006073"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/210006077"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/210006067"
+  }
+ }
+}

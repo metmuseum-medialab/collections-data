@@ -1,0 +1,36 @@
+{
+ "Date": "1889",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "sheet 1 1/2 x 2 3/4 in. (3.8 x 7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 214, N165.35",
+ "Who": "Goodwin & Company",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "id": 90075542,
+ "gallery-id": 773,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP823038.jpg",
+ "related-artworks": [
+  90075272,
+  90075280,
+  90075269,
+  90075267,
+  90075270
+ ],
+ "Description": "The \"Games and Sports\" series of trading cards (N165) was issued by Goodwin & Company in 1889 to promote Old Judge Cigarettes. The Metropolitan Museum of Art owns all 50 cards in the series.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90075542"
+  }
+ }
+}

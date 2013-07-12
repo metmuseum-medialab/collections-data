@@ -1,0 +1,35 @@
+{
+ "Date": "early 20th century",
+ "Culture": "Japanese",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Irene Lewisohn and Mrs. Alice Lewisohn Crowley, 1946",
+ "Accession Number": "C.I.46.9.102",
+ "What": [
+  "Costume",
+  "Silk",
+  "Kimonos"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Japan, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80010473,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI46.9.102_F.jpg",
+ "related-artworks": [
+  80001012,
+  80007661,
+  80007663,
+  80007664,
+  80010472
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80010473"
+  }
+ }
+}

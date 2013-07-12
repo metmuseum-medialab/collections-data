@@ -1,0 +1,41 @@
+{
+ "Date": "17th century",
+ "Medium": [
+  "Pen and brown ink, black chalk, brown wash, white gouache;",
+  "Verso rubbed with black chalk for transfer."
+ ],
+ "Dimensions": "11 9/16 x 7 15/16 in.  (29.3 x 20.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.186",
+ "Who": "Abraham van Diepenbeeck",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Chalk",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002149,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802085.jpg",
+ "related-artworks": [
+  90019744,
+  90034868,
+  90002150,
+  90000823,
+  90013921
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002149"
+  }
+ }
+}

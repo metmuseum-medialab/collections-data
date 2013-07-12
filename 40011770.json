@@ -1,0 +1,43 @@
+{
+ "Date": "late 18th century",
+ "Culture": "British",
+ "Medium": "wood, steel, horn",
+ "Classification": "Firearms",
+ "Credit Line": "Gift of Charles M. Schott Jr., 1917",
+ "Accession Number": "19.53.49",
+ "What": [
+  "Metal",
+  "Arms",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Firearms",
+  "Locks",
+  "Horn",
+  "Small arms",
+  "Handguns",
+  "Pistols",
+  "Flintlocks",
+  "Snaphances"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40011770,
+ "related-artworks": [
+  40001195,
+  40003093,
+  40003095,
+  40003186,
+  40004845
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40011770"
+  }
+ }
+}

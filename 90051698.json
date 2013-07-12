@@ -1,0 +1,41 @@
+{
+ "Date": "1856–1914",
+ "Medium": "Ink and color on linen tracing paper",
+ "Classification": "Albums",
+ "Credit Line": "Gift of William Brewster, 1923",
+ "Accession Number": "23.112.4",
+ "Who": "Brewster & Co.",
+ "What": [
+  "Ink",
+  "Paper",
+  "Books",
+  "Linen",
+  "Albums"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90051698,
+ "related-artworks": [
+  90051701,
+  90051706,
+  90051699,
+  90051700,
+  90051702
+ ],
+ "Provenance": [
+  "Donor: William Brewster"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90051698"
+  }
+ }
+}

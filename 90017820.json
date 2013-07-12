@@ -1,0 +1,39 @@
+{
+ "Publisher": "Published by Geysler",
+ "Date": "1553",
+ "Medium": "plates woodcut",
+ "Dimensions": "Overall 6 3/8 x 8 11/16 x 11/16 in. (16.2 x 22 x 1.8 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Felix M. Warburg, 1928",
+ "Accession Number": "28.106.29",
+ "Who": [
+  "Geysler",
+  "Wolfgang Fugger"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing plates"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017820,
+ "related-artworks": [
+  90005359,
+  90005742,
+  90006087,
+  90011099,
+  90011100
+ ],
+ "Provenance": [
+  "Donor: Felix Moritz Warburg"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017820"
+  }
+ }
+}

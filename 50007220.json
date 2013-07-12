@@ -1,0 +1,46 @@
+{
+ "Date": "19th–mid-20th century",
+ "Geography": "Côte d'Ivoire or Mali",
+ "Culture": "Senufo or Bamana",
+ "Medium": "Wood, grass, string",
+ "Dimensions": "H x W 13 x 37in. (33 x 94cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Gift of Mr. and Mrs. J. Gordon Douglas III, 1982",
+ "Accession Number": "1982.393.7",
+ "Who": "Senufo",
+ "What": [
+  "Costume",
+  "Sculpture",
+  "Masks",
+  "Grass",
+  "Ceremonial masks"
+ ],
+ "Where": [
+  "Africa",
+  "Ivory Coast"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Guinea Coast, 1900 A.D.–present",
+  "Guinea Coast, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50007220,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1982_393_7.jpg",
+ "related-artworks": [
+  50003530,
+  50003548,
+  50003723,
+  50007214,
+  50007435
+ ],
+ "Provenance": [
+  "[John J. Klejman, New York, until 1967]",
+  "Mr. and Mrs. J. Gordon Douglas III, New York,1967–1982"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50007220"
+  }
+ }
+}

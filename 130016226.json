@@ -1,0 +1,42 @@
+{
+ "Period": "Archaic",
+ "Date": "late 7th or early 6th century B.C.",
+ "Culture": "East Greek, perhaps Rhodian",
+ "Medium": "Silver, gold",
+ "Dimensions": "Diameter 21.92 cm",
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Bothmer Purchase Fund, 1981",
+ "Accession Number": "1981.11.13",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Silver",
+  "Gold",
+  "Gilt",
+  "Phialae"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130016226,
+ "gallery-id": 152,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DT291986.jpg",
+ "related-artworks": [
+  130016693,
+  130004313,
+  130004314,
+  130015626,
+  130015979
+ ],
+ "Description": "This bowl is the earliest of the Museum's traditional phialai with a pronounced omphalos (navel), or central boss; the hollow underside furnished a grip for two fingers when the phiale was tilted to pour a libation. Stylized lotos blossoms are engraved on the gently curving surface of the bowl. The boss, with its collar decorated with embossed animals, was originally covered by another gilded metal layer, as on the adjacent bowl.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130016226"
+  }
+ }
+}

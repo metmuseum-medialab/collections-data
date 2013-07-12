@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1969",
+ "Culture": "French",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 28 1/2 in. (72.4 cm)",
+ "Credit Line": "Gift of Princess Doria Di Centola, 1981",
+ "Accession Number": "1981.66.2",
+ "Who": "Hermès",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Coats"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80023164,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1981.66.2_F.jpg",
+ "related-artworks": [
+  80115108,
+  80115109,
+  80023165,
+  80023166,
+  80052922
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80023164"
+  }
+ }
+}

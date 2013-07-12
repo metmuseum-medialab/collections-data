@@ -1,0 +1,49 @@
+{
+ "Object Name": "Folio from a non-illustrated manuscript",
+ "Date": "9th–10th century",
+ "Geography": "Central Islamic Lands",
+ "Medium": "Ink and gold on parchment",
+ "Dimensions": [
+  "Page H. 8 5/16 in. (21.1 cm)",
+  "W. 11 1/2 in. (29.2cm)",
+  "Mat H. 14 1/4 in. (36.2 cm)",
+  "W. 19 1/4 in. (48.9 cm)",
+  "Frame H. 15 1/4 in. (38.7 cm)",
+  "W. 20 1/4 in. (51.4 cm)"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "Rogers Fund, 1937",
+ "Accession Number": "37.99.2",
+ "What": [
+  "Metal",
+  "Ink",
+  "Gold",
+  "Manuscripts",
+  "Codices",
+  "Folios",
+  "Parchment",
+  "Illuminated manuscripts"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 140006485,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DT202833.jpg",
+ "related-artworks": [
+  140005627,
+  140005190,
+  140006384,
+  140009000,
+  140008999
+ ],
+ "Description": "The angular kufic script of this page is moderated by the roundness of many letters that resemble large black dots, their inner blank spaces reduced almost to a needle point. The colored marks help the reader to recite the words correctly. The richly illuminated cartouche, embellished by the treelike decoration on the left side, contains the title of the third Qur'anic sura (al-'Imran, \"of the Family of 'Imran\").",
+ "Provenance": [
+  "[ Hagop Kevorkian, New York, until 1937",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140006485"
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "Artist": "Gabriel Huquier (French, Orléans 1695–1772 Paris)",
+ "Date": "ca. 1738–45",
+ "Medium": "Etching and engraving",
+ "Dimensions": "sheet 11 7/8 x 9 5/16 in. (30.1 x 23.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.1019",
+ "Who": [
+  "François Boucher",
+  "Gabriel Huquier"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "François Boucher (1703–1770)",
+  "European Tapestry Production and Patronage, 1600–1800",
+  "From Italy to France Gardens in the Court of Louis XIV and After",
+  "The Croome Court Tapestry Room, Worcestershire",
+  "Jean–Honoré Fragonard (1732–1806)",
+  "Interior Design in England, 1600–1800",
+  "Jean Antoine Watteau (1684–1721)",
+  "France, 1600–1800 A.D."
+ ],
+ "id": 90065726,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP224419.jpg",
+ "related-artworks": [
+  90068889,
+  90068923,
+  90088545,
+  90013889,
+  90013885
+ ],
+ "Provenance": [
+  "Princes of Liechtenstein, Vaduz and Vienna",
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90065726"
+  }
+ }
+}

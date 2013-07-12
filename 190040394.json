@@ -1,0 +1,35 @@
+{
+ "Date": "1911",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "28.3 x 22.9 cm (11 1/8 x 9 in.)",
+ "Classification": "Albums",
+ "Credit Line": "Purchase, Saundra B. Lane Gift, 2005",
+ "Accession Number": "2005.263.1–.98",
+ "Who": "Unknown, American",
+ "What": [
+  "Photographs",
+  "Books",
+  "Gelatin silver prints",
+  "Albums"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190040394,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/UnkAmTR.440.1.2004.jpg",
+ "related-artworks": [
+  190012974,
+  190012976,
+  190012977,
+  190012978,
+  190012979
+ ],
+ "Provenance": [
+  "Tamerlane Books, Havertown, Penn., [Winter Works on Paper, New York]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190040394"
+  }
+ }
+}

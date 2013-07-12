@@ -1,0 +1,38 @@
+{
+ "Period": "Early Imperial",
+ "Date": "2nd half of 1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Terracotta; mold-made",
+ "Dimensions": "1 1/8 x 5 in.  (2.9 x 12.7 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "Rogers Fund, 1906",
+ "Accession Number": "06.1021.291",
+ "What": [
+  "Clay",
+  "Terracotta",
+  "Lighting devices",
+  "Lamps"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "id": 130007930,
+ "gallery-id": 168,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP122707.jpg",
+ "related-artworks": [
+  130001850,
+  130001958,
+  130001961,
+  130001993,
+  130002034
+ ],
+ "Description": "On the discus a winged Victory holds a shield inscribed with a New Year’s wish for happiness. Around her are representations of things that were usually given as gifts to celebrate the New Year—money (in the form of three coins) and dried fruit (dates and figs).",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130007930"
+  }
+ }
+}

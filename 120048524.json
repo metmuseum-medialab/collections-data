@@ -1,0 +1,49 @@
+{
+ "Date": "early 20th century",
+ "Culture": "Russian",
+ "Medium": "Linen, cotton, silk and wool, paper; bobbin lace",
+ "Dimensions": "L. 8 1/4 x W. 4 1/2 inches (21.0 x 11.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Source unknown",
+ "Accession Number": "X.288.2",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Paper",
+  "Books",
+  "Cotton",
+  "Needlework",
+  "Wool",
+  "Linen",
+  "Lace",
+  "Samples",
+  "Bobbin lace",
+  "Sample books"
+ ],
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Anatolia and the Caucasus, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present",
+  "Eastern Europe and Scandinavia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120048524,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP6836.jpg",
+ "related-artworks": [
+  120048523,
+  120032778,
+  120036311,
+  120036313,
+  120036309
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120048524"
+  }
+ }
+}

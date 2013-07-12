@@ -1,0 +1,59 @@
+{
+ "Artist": "Mathew B. Brady (American, near Lake George, New York 1823?–1896 New York)",
+ "Date": "1860s–70s",
+ "Medium": "Albumen silver print; tintype",
+ "Dimensions": "Approx. 9.0 x 5.6 cm (3 9/16 x 2 3/16 in. ) each",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Mrs. Anson Phelps Stokes, 1961",
+ "Accession Number": "61.615.1–.97",
+ "Who": [
+  "Mathew . Brady",
+  "James Wallace Black",
+  "Jeremiah Gurney",
+  "Napoleon Sarony",
+  "George Gardner Rockwood",
+  "Robert Jefferson Bingham",
+  "Charles K. Bill",
+  "Mayer & Pierson",
+  "Abraham Bogardus",
+  "William Kurtz",
+  "Augustus H. Morand",
+  "Charles H. Williamson",
+  "Fredricks & O'Neil",
+  "John P. Percival"
+ ],
+ "What": [
+  "Prints",
+  "Photographs",
+  "Albumen",
+  "Albumen silver prints",
+  "Card photographs",
+  "Maps",
+  "Cartes-de-visite",
+  "Tintypes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190035217,
+ "related-artworks": [
+  190053819,
+  190012109,
+  190014832,
+  190039161,
+  90099552
+ ],
+ "Provenance": [
+  "Mrs. Anson Phelps Stokes"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190035217"
+  }
+ }
+}

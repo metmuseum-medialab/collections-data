@@ -1,0 +1,56 @@
+{
+ "Date": "1781",
+ "Culture": "French, Sèvres",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 2 1/4 in. (5.7 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. George Clinton Gênet, in memory of \"Citizen\" Edmond Charles Gênet, 1909",
+ "Accession Number": "09.129.11a",
+ "Who": "Sèvres Manufactory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Drinking vessels",
+  "Cups",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Sèvres"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Louis–Rémy Robert (1810–1882)",
+  "Empire Style, 1800–1815",
+  "Sèvres Porcelain in the Nineteenth Century",
+  "Exoticism in the Decorative Arts",
+  "French Furniture in the Eighteenth Century Case Furniture",
+  "Jean–Baptiste Carpeaux (1827–1875)",
+  "Saint Petersburg",
+  "Art Nouveau",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120005736,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/119227.jpg",
+ "related-artworks": [
+  120005723,
+  120018007,
+  120018009,
+  120024290,
+  120025007
+ ],
+ "Provenance": [
+  "Mrs. George Clinton Gênet (until 1909",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120005736"
+  }
+ }
+}

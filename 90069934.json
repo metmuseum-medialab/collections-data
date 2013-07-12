@@ -1,0 +1,40 @@
+{
+ "Artist": "After Simon Vouet (French, Paris 1590–1649 Paris)",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 6 9/16 x 4 7/16 in. (16.7 x 11.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Harris Brisbane Dick Fund, 1945",
+ "Accession Number": "45.97a",
+ "Who": [
+  "Claude Mellan",
+  "Simon Vouet"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90069934,
+ "related-artworks": [
+  90000699,
+  90019002,
+  90027817,
+  90051686,
+  90051724
+ ],
+ "Provenance": [
+  "Vendor: William H. Schab"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90069934"
+  }
+ }
+}

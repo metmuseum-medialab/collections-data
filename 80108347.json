@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1977",
+ "Culture": "American",
+ "Medium": "Metal",
+ "Dimensions": "diam. 4 in. (10.2 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Stanley Mortimer, 1983",
+ "Accession Number": "2009.300.5936",
+ "Who": "Mary McFadden",
+ "What": [
+  "Metal",
+  "Costume",
+  "Jewelry",
+  "Pendants"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80108347,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/83.250.44_CP2.jpg",
+ "related-artworks": [
+  80108321,
+  80108348,
+  80005503,
+  80005502,
+  80038301
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108347"
+  }
+ }
+}

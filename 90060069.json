@@ -1,0 +1,40 @@
+{
+ "Author": "Written by Thomas Allibone Janvier (American, 1849–1913)",
+ "Publisher": "Published by Harper & Brothers (American, New York)",
+ "Date": "1890",
+ "Medium": "Green cloth covered boards with gold decoration",
+ "Classification": "Bindings",
+ "Credit Line": "Gift of Alice C. Morse, 1923, Transferred from the Library, 1956",
+ "Accession Number": "56.522.88",
+ "Who": [
+  "Harper & Brothers",
+  "Alice Cordelia Morse",
+  "Thomas Allibone Janvier"
+ ],
+ "What": [
+  "Cloth",
+  "Bindings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90060069,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP151042.jpg",
+ "related-artworks": [
+  90060050,
+  90047204,
+  90047202,
+  90047201,
+  90060033
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060069"
+  }
+ }
+}

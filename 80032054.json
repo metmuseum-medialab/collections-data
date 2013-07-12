@@ -1,0 +1,35 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Culture": "American or European",
+ "Medium": "gold",
+ "Dimensions": "Length 2 5/8 in. (6.7 cm)",
+ "Credit Line": "Gift of Douglas Huntly Gordon in memory of Douglas Huntley Gordon 1866-1918 of Baltimore and Rappahnnock County, VA, 1982",
+ "Accession Number": "1982.525.18",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Pins",
+  "Stickpins"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80032054,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1982.525.18_F.jpg",
+ "related-artworks": [
+  80032041,
+  80032042,
+  80032043,
+  80032048,
+  80032046
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80032054"
+  }
+ }
+}

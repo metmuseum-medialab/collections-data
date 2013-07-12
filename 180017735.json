@@ -1,0 +1,40 @@
+{
+ "Date": "early 20th century",
+ "Geography": "Democratic Republic of the Congo",
+ "Culture": "Luba",
+ "Medium": "Wood, hide, metal",
+ "Dimensions": "H. 103.7 x Diam. 31cm (40 13/16 x 12 3/16in.)",
+ "Classification": "Membranophone-single-headed / cylindrical drum",
+ "Credit Line": "Purchase, Frederick M. Lehman Bequest, 2007",
+ "Accession Number": "2007.337",
+ "Who": "Luba",
+ "What": [
+  "Metal",
+  "Musical instruments",
+  "Membranophones",
+  "Drums",
+  "Hide"
+ ],
+ "Where": [
+  "Africa",
+  "Democratic Republic of the Congo"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Central Africa, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 180017735,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DP159038.jpg",
+ "related-artworks": [
+  180015674,
+  180014916,
+  180015096,
+  180015603,
+  180014826
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180017735"
+  }
+ }
+}

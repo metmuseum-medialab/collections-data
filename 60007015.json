@@ -1,0 +1,45 @@
+{
+ "Period": "Khotan Kingdom",
+ "Date": "6th–7th century",
+ "Culture": "China (Xinjiang Autonomous Region)",
+ "Medium": "Stucco with color",
+ "Dimensions": "3 1/2 x 4 3/4 in. (8.9 x 12.1 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.32.19",
+ "What": [
+  "Sculpture",
+  "Reliefs",
+  "Plaster",
+  "Stucco"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60007015,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP269541.jpg",
+ "related-artworks": [
+  60006967,
+  60006969,
+  60007010,
+  60007011,
+  60007013
+ ],
+ "Description": "These fragments are from an elaborate halo that once adorned a larger-than-life-size Buddha or bodhisattva. The larger Buddha fragment holds his right hand in abhaya mudra, a gesture of approachability. The style of the robes attests to an interest in the classical forms of Gandhara.",
+ "Provenance": [
+  "Site of Dandan-Uiliq"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60007015"
+  }
+ }
+}

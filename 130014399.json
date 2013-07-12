@@ -1,0 +1,34 @@
+{
+ "Culture": "Roman",
+ "Medium": "Jasper, red",
+ "Dimensions": "Other 3/8 x 5/16 x 1/8 in. (1 x 0.8 x 0.3 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.160.815",
+ "What": [
+  "Sculpture",
+  "Chalcedony",
+  "Gems",
+  "Intaglios",
+  "Jasper"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130014399,
+ "related-artworks": [
+  130014454,
+  130014467,
+  130006366,
+  130014375,
+  130014410
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130014399"
+  }
+ }
+}

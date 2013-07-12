@@ -1,0 +1,43 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian",
+ "Medium": "Linen",
+ "Dimensions": [
+  "L. (tassel) 5 inches",
+  "12.7 cm",
+  "L. (cord)  28 inches",
+  "71.1 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. J. Pierpont Morgan, 1921",
+ "Accession Number": "21.83.47",
+ "What": [
+  "Textiles",
+  "Linen",
+  "Trimming",
+  "Passementerie",
+  "Tassel"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120038924,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP6719.jpg",
+ "related-artworks": [
+  120038952,
+  120038964,
+  120038900,
+  120038899,
+  120038905
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120038924"
+  }
+ }
+}

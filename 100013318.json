@@ -1,0 +1,41 @@
+{
+ "Period": "Late Old Kingdom–Early Middle Kingdom",
+ "Dynasty": "Dynasty 8–12",
+ "Date": "ca. 2150–1950 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Ivory or bone",
+ "Dimensions": "W. 1.2 cm",
+ "Credit Line": "Rogers Fund, 1959",
+ "Accession Number": "59.100.8",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Amulets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100013318,
+ "gallery-id": 103,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs59.100.8.jpg",
+ "related-artworks": [
+  100002382,
+  100002385,
+  100002392,
+  100013317,
+  100013323
+ ],
+ "Provenance": [
+  "Collection of Georges Michailidis, Cairo, who said they had been acquired from Guy Brunton.. Acquired by the Museum from Georges Michailidis in 1959."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100013318"
+  }
+ }
+}

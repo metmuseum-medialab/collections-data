@@ -1,0 +1,39 @@
+{
+ "Date": "1624–63",
+ "Medium": "Pen and brown ink.  Framing lines in pen and brown ink on mount",
+ "Dimensions": "2-3/4 x 3-3/4 in.  (7.0 x 9.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Cornelius Vanderbilt, 1880",
+ "Accession Number": "80.3.534",
+ "Who": "Francesco Allegrini",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90005133,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP807683.jpg",
+ "related-artworks": [
+  90005066,
+  90005084,
+  90005085,
+  90005080,
+  90005076
+ ],
+ "Provenance": [
+  "James Jackson Jarves",
+  "Cornelius Vanderbilt (American, Staten Island, New York 1843–1899 New York)",
+  "Donor: Cornelius Vanderbilt (American, Staten Island, New York 1843–1899 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005133"
+  }
+ }
+}

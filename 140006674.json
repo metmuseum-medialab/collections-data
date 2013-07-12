@@ -1,0 +1,50 @@
+{
+ "Date": "11th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware; white slip under turquoise glaze, incised",
+ "Dimensions": [
+  "H. 3 1/2 in. (8.9 cm)",
+  "Diam. of rim 7 1/4 in. (18.4 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.40.188",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Bowls",
+  "Slip",
+  "Turquoise"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140006674,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/wb-38.40.188.JPG",
+ "related-artworks": [
+  140006398,
+  140008093,
+  140006699,
+  140006730,
+  140006673
+ ],
+ "Provenance": [
+  "1937, excavated at Village Tepe in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1938, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140006674"
+  }
+ }
+}

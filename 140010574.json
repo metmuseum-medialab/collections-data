@@ -1,0 +1,52 @@
+{
+ "Object Name": "Non-illustrated album leaf",
+ "Date": "18th century",
+ "Geography": "Iran",
+ "Medium": "Ink, opaque watercolor, and gold on paper",
+ "Dimensions": [
+  "H. 8 5/8 inches",
+  "W. 5 1/8 inches",
+  "H. 22 cms",
+  "W; 13 cms"
+ ],
+ "Classification": "Codices",
+ "Credit Line": "The Friends of the Islamic Department Fund, 1982",
+ "Accession Number": "1982.120.5",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paper",
+  "Books",
+  "Gold",
+  "Watercolors",
+  "Albums",
+  "Manuscripts",
+  "Codices"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140010574,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf1982-120-5.jpg",
+ "related-artworks": [
+  140005719,
+  140005741,
+  140007892,
+  140003349,
+  140005720
+ ],
+ "Provenance": [
+  "Philip Hofer, Cambridge, MA (until 1982",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010574"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Medium": "Watercolor, over graphite (?)",
+ "Dimensions": "sheet 12 1/4 x 18 11/16 in. (31.1 x 47.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, C. G. Boerner Gift, 2010",
+ "Accession Number": "2010.376",
+ "Who": "Thomas Ender",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90069148,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP827888.jpg",
+ "related-artworks": [
+  90045523,
+  90047311,
+  90056555,
+  90057852
+ ],
+ "Provenance": [
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90069148"
+  }
+ }
+}

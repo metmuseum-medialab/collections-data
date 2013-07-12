@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1810-30",
+ "Geography": "England; France",
+ "Medium": "Stamped brass, lacquer",
+ "Dimensions": "Diam. 3 in. (7.6 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Mrs. Edward Hunting Smith, 1968",
+ "Accession Number": "Inst.68.8.47",
+ "Who": "Henry Kellam Hancock",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Brass",
+  "Lacquer",
+  "Curtains",
+  "Stamping",
+  "Ties"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005378,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP232789.jpg",
+ "related-artworks": [
+  10005396,
+  10005398,
+  10000294,
+  10000300,
+  10001446
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005378"
+  }
+ }
+}

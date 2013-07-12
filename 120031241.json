@@ -1,0 +1,46 @@
+{
+ "Date": "18th century",
+ "Culture": "French",
+ "Medium": "Silk and cotton",
+ "Dimensions": [
+  "L. 7 1/2 inches",
+  "19.1 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.103.81",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Cotton",
+  "Trimming",
+  "Passementerie",
+  "Tassel"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120031241,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP6497.jpg",
+ "related-artworks": [
+  120031242,
+  120031240,
+  120031081,
+  120031208,
+  120031210
+ ],
+ "Provenance": [
+  "Samuel B. Dean (until 1908",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120031241"
+  }
+ }
+}

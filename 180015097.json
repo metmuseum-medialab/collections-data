@@ -1,0 +1,36 @@
+{
+ "Date": "20th century",
+ "Geography": "United States N.A.",
+ "Medium": "Gourd, wood, various materials",
+ "Dimensions": "L. 30.5 cm (12 in.); Diam. 7.6 cm (3 in.)",
+ "Classification": "Idiophone-Shaken",
+ "Credit Line": "Gift of Herbert J. Harris, 1986",
+ "Accession Number": "1986.467.88",
+ "What": [
+  "Musical instruments",
+  "Idiophones",
+  "Rattles",
+  "Gourd"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 180015097,
+ "related-artworks": [
+  180012623,
+  180012968,
+  180012970,
+  180012971,
+  180013000
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180015097"
+  }
+ }
+}

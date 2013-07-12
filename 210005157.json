@@ -1,0 +1,54 @@
+{
+ "Manufacturer": "Poltronova",
+ "Date": "1968",
+ "Medium": "Colored perspex and cast aluminum",
+ "Dimensions": [
+  "H.28-3/4, W.10-7/8, D.6-3/4 inches",
+  "(73 x 27.5 x 17 cm.)"
+ ],
+ "Classification": "Lighting",
+ "Credit Line": [
+  "Purchase, Theodore R. Gamble Jr. Gift, in honor of his mother,",
+  "Mrs. Theodore Robert Gamble, 1987"
+ ],
+ "Accession Number": "1987.64.1",
+ "Who": [
+  "Ettore Sottsass",
+  "Poltronova"
+ ],
+ "What": [
+  "Metal",
+  "Lighting devices",
+  "Plastic",
+  "Lamps",
+  "Acrylic",
+  "Aluminum",
+  "Lighting",
+  "Perspex"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1975–present",
+  "Italian Peninsula, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210005157,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf1987.64.1.jpg",
+ "related-artworks": [
+  210005262,
+  210014486,
+  210005060,
+  210005158,
+  210005062
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210005157"
+  }
+ }
+}

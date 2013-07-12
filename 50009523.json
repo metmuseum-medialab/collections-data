@@ -1,0 +1,42 @@
+{
+ "Date": "16th–18th century",
+ "Geography": "Peru",
+ "Culture": "Colonial",
+ "Medium": "Wood (escallonia?), metal inlay",
+ "Dimensions": "Height 4-5/8 in.",
+ "Classification": "Wood-Containers",
+ "Credit Line": "Bequest of Arthur M. Bullowa, 1993",
+ "Accession Number": "1994.35.28",
+ "What": [
+  "Metal",
+  "Bowls"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1400–1600 A.D.",
+  "South America, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50009523,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/hz1994_35_28.jpg",
+ "related-artworks": [
+  50003221,
+  50007906,
+  50008004,
+  50001308,
+  50003219
+ ],
+ "Provenance": [
+  "[Pinata Party, New York, until 1960s]",
+  "Arthur M. Bullowa, New York, 1960s–(d.)1993"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50009523"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Culture": "China",
+ "Medium": "Porcelain painted in underglaze blue",
+ "Dimensions": "H. 1 1/2 in. (3.8 cm); Diam. of rim 10 1/2 in. (26.7 cm); Diam. of foot: 5 7/8 in. (14.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.345",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Metalwork",
+  "Porcelain",
+  "Painting",
+  "Plate",
+  "Underglazing"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1600–1800 A.D.",
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60018788,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/79_2_345_F.jpg",
+ "related-artworks": [
+  60015273,
+  60015672,
+  60016156,
+  60016356,
+  60016885
+ ],
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60018788"
+  }
+ }
+}

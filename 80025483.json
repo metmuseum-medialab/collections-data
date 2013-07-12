@@ -1,0 +1,42 @@
+{
+ "Designer": "Yves Saint Laurent (French (born Algeria) Oran 1936–2008 Paris)",
+ "Date": "1981",
+ "Culture": "French",
+ "Medium": "metal, glass",
+ "Dimensions": "Length 23 1/2 in. (59.7 cm)",
+ "Credit Line": "Anonymous Gift, 1981",
+ "Accession Number": "1981.303.2",
+ "Who": [
+  "Yves Saint Laurent",
+  "Yves Saint Laurent, Paris"
+ ],
+ "What": [
+  "Metal",
+  "Costume",
+  "Glass",
+  "Jewelry",
+  "Necklaces"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80025483,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1981.303.2.jpg",
+ "related-artworks": [
+  80094880,
+  80108417,
+  80108418,
+  80069745,
+  80067052
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80025483"
+  }
+ }
+}

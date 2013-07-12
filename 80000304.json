@@ -1,0 +1,35 @@
+{
+ "Date": "1970s",
+ "Culture": "American or European",
+ "Medium": "silk",
+ "Dimensions": [
+  "a) L. at center back 32 in. (81.3 cm).",
+  "b) L. at side seam 44 in. (111.8 cm)."
+ ],
+ "Credit Line": "Gift of Clay H. Barr, 1996",
+ "Accession Number": "1996.335.25a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Suits"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "id": 80000304,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1996.335.25ab_F.jpg",
+ "related-artworks": [
+  80000091,
+  80000426,
+  80000509,
+  80001062,
+  80001355
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80000304"
+  }
+ }
+}

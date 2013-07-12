@@ -1,0 +1,36 @@
+{
+ "Date": "1st–2nd century",
+ "Culture": "Pakistan (ancient region of Gandhara)",
+ "Medium": "Schist",
+ "Dimensions": "Diam. 3 3/16 in. (8.1 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of The Kronos Collections, 1995",
+ "Accession Number": "1995.570.7",
+ "What": [
+  "Sculpture",
+  "Roundels",
+  "Schist"
+ ],
+ "Where": [
+  "Asia",
+  "Pakistan"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1–500A.D.",
+ "id": 60005454,
+ "gallery-id": 235,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP253590.jpg",
+ "related-artworks": [
+  60005044,
+  60005049,
+  60005161,
+  60005429,
+  60005451
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005454"
+  }
+ }
+}

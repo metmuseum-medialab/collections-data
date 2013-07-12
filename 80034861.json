@@ -1,0 +1,51 @@
+{
+ "Date": "1890–1910",
+ "Culture": "American",
+ "Medium": "metal, glass, paper, leather, wood",
+ "Dimensions": "Height 7 1/2 in. (19.1 cm)",
+ "Credit Line": "Gift of Mrs. Alan L. Corey Jr., Mrs. William T. Newbold, and Mrs. A.G. Paine, 1980",
+ "Accession Number": "1980.126.46a, b",
+ "What": [
+  "Metal",
+  "Glass",
+  "Leather",
+  "Cases"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80034861,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1980.126.46ab.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80001011"
+   },
+   {
+    "href": "http://scrapi.org/object/80094525"
+   },
+   {
+    "href": "http://scrapi.org/object/80012538"
+   },
+   {
+    "href": "http://scrapi.org/object/80013899"
+   },
+   {
+    "href": "http://scrapi.org/object/80024231"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80034861"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80034861"
+  }
+ }
+}

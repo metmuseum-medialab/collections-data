@@ -1,0 +1,41 @@
+{
+ "Date": "1897",
+ "Culture": "French",
+ "Medium": "Glazed stoneware",
+ "Dimensions": "36 x 25-3/8 in. (91.4 x 64.5 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Robert L. Isaacson Gift, 1988",
+ "Accession Number": "1989.8",
+ "Who": "Alexandre-Louis- Marie Charpentier",
+ "What": [
+  "Ceramics",
+  "Sculpture",
+  "Pottery",
+  "Reliefs",
+  "Glazing",
+  "Stoneware"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120023920,
+ "gallery-id": 556,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES4751.jpg",
+ "related-artworks": [
+  120023725,
+  120023947,
+  120024217,
+  120023726,
+  120003205
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120023920"
+  }
+ }
+}

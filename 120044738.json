@@ -1,0 +1,41 @@
+{
+ "Date": "16th century",
+ "Culture": "Spanish",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 37 1/2 x W. 20 inches (95.3 x 50.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1944",
+ "Accession Number": "44.112.2",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044738,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/133261.jpg",
+ "related-artworks": [
+  120030865,
+  120031981,
+  120033868,
+  120034321,
+  120034304
+ ],
+ "Provenance": [
+  "[ Loewi , 1944",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044738"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "1911",
+ "Culture": "American",
+ "Medium": "Linen, silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. John King, 1959",
+ "Accession Number": "2009.300.5050a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Linen",
+  "Footwear",
+  "Bootees"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80107487,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/59.159.28a-b_CP2.jpg",
+ "related-artworks": [
+  80106567,
+  80106771,
+  80106772,
+  80107513,
+  80046259
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107487"
+  }
+ }
+}

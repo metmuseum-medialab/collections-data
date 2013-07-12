@@ -1,0 +1,45 @@
+{
+ "Author": "Written by Philip Melanchthon (German, 1497–1560)",
+ "Printer": "Printed by Georg Rhau (1525–1548)",
+ "Date": "1532",
+ "Medium": "Woodcut",
+ "Dimensions": "Overall 8 1/4 x 6 1/8 x 3/16 in. (21 x 15.5 x 0.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1928",
+ "Accession Number": "28.94.20",
+ "Who": [
+  "Lucas Cranach the Elder",
+  "Philip Melanchthon",
+  "Georg Rhau"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90021658,
+ "related-artworks": [
+  90015512,
+  90021867,
+  40006212,
+  90003230,
+  90003231
+ ],
+ "Provenance": [
+  "Vendor: Joseph Baer & Co."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021658"
+  }
+ }
+}

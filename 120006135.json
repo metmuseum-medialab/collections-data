@@ -1,0 +1,46 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "British (?)",
+ "Medium": "Pewter",
+ "Dimensions": "7 3/4 x 4 1/4 in.  (19.7 x 10.8 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1909",
+ "Accession Number": "10.125.466",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Pewter",
+  "Chalices"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1600–1800 A.D.",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120006135,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/12865.jpg",
+ "related-artworks": [
+  120003624,
+  120006136,
+  120006137,
+  120006139,
+  120006154
+ ],
+ "Provenance": [
+  "H. Eugene Bolles",
+  "Mrs. Russell Sage (until 1909",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006135"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Cloisonné enamel",
+ "Dimensions": "H. 9 3/4 in. (24.8 cm); W. 4 3/4 in. (12.1 cm)",
+ "Classification": "Cloisonné",
+ "Credit Line": "Gift of Edward G. Kennedy, 1929",
+ "Accession Number": "29.110.2",
+ "What": [
+  "Enamels",
+  "Lighting devices",
+  "Candleholders",
+  "Candlesticks",
+  "Cloisonné"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60008001,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP238501.jpg",
+ "related-artworks": [
+  60007875,
+  60007876,
+  60007973,
+  60007972,
+  60008000
+ ],
+ "Provenance": [
+  "Edward Guthrie Kennedy , New York (until 1929)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60008001"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "10th century",
+ "Geography": "Egypt",
+ "Medium": "Wood; inscribed",
+ "Dimensions": [
+  "H. 1 3/8 in. (3.5 cm)",
+  "Diam. 1 3/8 in. (3.5 cm)",
+  "Wt. 0.8 oz. (22.682 g)"
+ ],
+ "Classification": "Jewelry",
+ "Credit Line": "Gift of Nelly, Violet and Elie Abemayor, in memory of Michel Abemayor, 1978",
+ "Accession Number": "1978.546.1",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Beads"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140010264,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf1978-546-1b.jpg",
+ "related-artworks": [
+  140003440,
+  140003448,
+  140003449,
+  140003447,
+  140003452
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010264"
+  }
+ }
+}

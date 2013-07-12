@@ -1,0 +1,61 @@
+{
+ "Date": "1675–1725",
+ "Culture": "Russian",
+ "Medium": "silk, linen, metal, mother-of-pearl, semi-precious stones",
+ "Dimensions": "36 x 14 in. (91.4 x 35.6 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Edward S. Harkness in memory of her mother, Elizabeth Greenman Stillman, 1931",
+ "Accession Number": "2009.300.2692",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Stone",
+  "Linen",
+  "Pearl",
+  "Vestments"
+ ],
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Anatolia and the Caucasus, 1600–1800 A.D.",
+  "Eastern Europe and Scandinavia, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "id": 80095401,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/31.356_CP4.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80095403",
+  "http://scrapi.org/object/80095402",
+  "http://scrapi.org/object/80094319",
+  "http://scrapi.org/object/80094318",
+  "http://scrapi.org/object/80094334"
+ ],
+ "related-images": [],
+ "Description": "This object is from the collection of Natalia de Shabelsky (1841-1905), a Russian noblewoman compelled to preserve what she perceived as the vanishing folk art traditions of her native country. Traveling extensively throughout Great Russia, she collected many fine examples of textile art of the wealthy peasant class. From the 1870s until moving to France in 1902, Shabelsky amassed a large collection of intricately embroidered hand-woven household textiles and opulent festival garments with rich decoration and elaborate motifs. The Brooklyn Museum holdings include many fine examples including the majority of the garments. Portions of Shabelsky's collection are also housed at the Museum of Fine Arts, Boston, the Cleveland Art Museum, and the Russian Museum of Ethnography in St. Petersburg.The use of gold and pearls indicate that this panel was quite costly. Though it dates from the late-17th to early 18th century, the lace is likely a later edition, probably the later 18th-century.",
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80095403"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80095402"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80094319"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80094318"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80094334"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80095401"
+  }
+ }
+}

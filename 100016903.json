@@ -1,0 +1,41 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12–13",
+ "Date": "ca. 1981–1640 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Cemetery, MMA 1920–1922",
+ "Medium": "Wood",
+ "Dimensions": "h. 28.5 cm (11 1/4 in)",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.151.762",
+ "What": [
+  "Wood",
+  "Mallets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100016903,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs11.151.760.jpg",
+ "related-artworks": [
+  100013394,
+  100017631,
+  100014804,
+  100016902,
+  100017632
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100016903"
+  }
+ }
+}

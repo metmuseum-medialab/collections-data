@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1930",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Tessim Zorach, 1984",
+ "Accession Number": "1984.1048.7",
+ "Rights and Reproduction": "© The Lane Collection",
+ "Who": "Charles Sheeler",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Paul Strand (1890–1976)",
+  "Precisionism",
+  "Charles Sheeler (1883–1965)",
+  "Early Documentary Photography",
+  "Alfred Stieglitz (1864–1946) and American Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190015766,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP118950.jpg",
+ "related-artworks": [
+  190014577,
+  190015756,
+  190015759,
+  190015760,
+  190015761
+ ],
+ "Provenance": [
+  "Tessim Zorach"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190015766"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Medium": "Engraving",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Edwin De Turck Bechtel, 1950",
+ "Accession Number": "49.132.102",
+ "Who": "Sebald Beham",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90090162,
+ "related-artworks": [
+  90064198,
+  90064205,
+  90090244,
+  90091232,
+  90091238
+ ],
+ "Provenance": [
+  "Donor: Edwin De Turck Bechtel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90090162"
+  }
+ }
+}

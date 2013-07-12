@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1922",
+ "Medium": "Gilt wood",
+ "Dimensions": "9 x 7 1/4 x 1 1/8 in. (22.9 x 18.4 x 2.9 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Purchase, Edward C. Moore Jr. Gift, 1924",
+ "Accession Number": "24.242.1",
+ "Who": "Dagobert Peche",
+ "What": [
+  "Gilt",
+  "Woodwork",
+  "Frames"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1900–25",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210007612,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/24.242.1.jpg",
+ "related-artworks": [
+  210002100,
+  80026521,
+  90016879,
+  90018261,
+  90028103
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210007612"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1865",
+ "Medium": "Albumen silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Mrs. Orme Wilson, 1963",
+ "Accession Number": "63.533.34",
+ "Who": "Adolphe Braun",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Rise of Paper Photography in 1850s France",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190022646,
+ "related-artworks": [
+  190012554,
+  190012718,
+  190012720,
+  190012719,
+  190012760
+ ],
+ "Provenance": [
+  "Mrs. Orme Wilson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190022646"
+  }
+ }
+}

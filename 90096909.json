@@ -1,0 +1,39 @@
+{
+ "Date": "[1726]",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "Sheet 6 1/4 x 3 9/16 in. (15.8 x 9.1 cm)",
+  "Plate 5 3/16 x 3 1/4 in. (13.2 x 8.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Humanities Fund, Inc., The Boris Bakhmeteff Collection, 1972",
+ "Accession Number": "1972.744.8",
+ "Who": "Jacob Houbraken",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 90096909,
+ "related-artworks": [
+  90064618,
+  90096907,
+  90064617,
+  90096929,
+  90037747
+ ],
+ "Provenance": [
+  "Donor: The Humanities Fund, Inc. Donor: Mrs. Boris Bakhmeteff"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90096909"
+  }
+ }
+}

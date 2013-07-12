@@ -1,0 +1,41 @@
+{
+ "Date": "20th century",
+ "Culture": "Austrian",
+ "Medium": "Glass",
+ "Dimensions": "H. 4 in.  (10.2 cm); Diam. 3 in. (7.6 cm.)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Erna Schnee, 1947",
+ "Accession Number": "47.91.1",
+ "Who": "Jaeger Gauchler",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Beakers"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 120014910,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/139320.jpg",
+ "related-artworks": [
+  120024030,
+  120000464,
+  120007855,
+  120008309,
+  120010740
+ ],
+ "Provenance": [
+  "Mrs. Erna Schnee (until 1947",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120014910"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1820",
+ "Medium": "Pewter",
+ "Dimensions": "H. 7 3/4 in. (19.7 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Bequest of Adeline R. Brown, 1947",
+ "Accession Number": "48.135.71",
+ "What": [
+  "Metal",
+  "Lighting devices",
+  "Candleholders",
+  "Pewter",
+  "Candlesticks"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10001319,
+ "Provenance": [
+  "Adeline R. Brown, St. Albans, New York, until died 1947"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10001241"
+   },
+   {
+    "href": "http://scrapi.org/object/10001320"
+   },
+   {
+    "href": "http://scrapi.org/object/10001353"
+   },
+   {
+    "href": "http://scrapi.org/object/10001354"
+   },
+   {
+    "href": "http://scrapi.org/object/10001367"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10001319"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10001319"
+  }
+ }
+}

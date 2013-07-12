@@ -1,0 +1,48 @@
+{
+ "Date": "2000",
+ "Culture": "China",
+ "Medium": "Stainless steel",
+ "Dimensions": [
+  "H. 35 1/2 in. (90 cm); W. 24 1/2 in. (62 cm); D. 24 1/2 in. (62 cm)",
+  "seat H. 18 in. (45.7 cm); L. 18 1/2 in. (47 cm); W. 20 7/8 in. (53 cm)"
+ ],
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Pearl Lam, 2010",
+ "Accession Number": "2010.476.2",
+ "Who": "Shao Fan",
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Furniture",
+  "Iron alloy",
+  "Steel",
+  "Seating furniture",
+  "Chairs",
+  "Armchairs",
+  "Chrome steel",
+  "Stainless steel"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60050453,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP284975.jpg",
+ "related-artworks": [
+  60050452,
+  60050454,
+  60050762
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60050453"
+  }
+ }
+}

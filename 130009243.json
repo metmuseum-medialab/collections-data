@@ -1,0 +1,41 @@
+{
+ "Period": "Late Classical",
+ "Date": "late 5th–early 4th century B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 4 1/4 in. (10.8 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.225.16",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009243,
+ "gallery-id": 161,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP116964.jpg",
+ "related-artworks": [
+  130007976,
+  130008034,
+  130008363,
+  130011180,
+  130015531
+ ],
+ "Description": "Fourteen of these figures are said to have been found together in a burial in Attica. They are among the earliest known statuettes of actors and are superbly executed and preserved. Originally they were brightly painted. They document the beginning of standardized characters and masks, indicating the popularity not of a specific figure but of types—the old man, the slave, the courtesan, etc.—that appeared repeatedly in different plays. By the mid-fourth century B.C., Attic examples or local copies were known throughout the Greek world, from Southern Russia to Spain.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009243"
+  }
+ }
+}

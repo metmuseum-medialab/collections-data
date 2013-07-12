@@ -1,0 +1,37 @@
+{
+ "Date": "1907",
+ "Medium": "Autochrome",
+ "Dimensions": "18 x 13 cm (7.08 x 5.11 in.)",
+ "Classification": "Transparencies",
+ "Credit Line": "Gift of Starr O. Lawrence and Prudence O. Harper, 1982",
+ "Accession Number": "1982.1183.6",
+ "Who": "Edward J. Steichen",
+ "What": [
+  "Photographs",
+  "Transparencies",
+  "Autochromes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 190015269,
+ "related-artworks": [
+  190015264,
+  190015265,
+  190015268,
+  190015266,
+  190021627
+ ],
+ "Provenance": [
+  "Starr Lawrence and Prudence O. Harper"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190015269"
+  }
+ }
+}

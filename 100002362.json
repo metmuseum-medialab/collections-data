@@ -1,0 +1,43 @@
+{
+ "Period": "Old Kingdom",
+ "Dynasty": "Dynasty 6",
+ "Date": "ca. 2323–2150 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, el-Giza, Western Cemetery, Shaft G 2347a E (= G 5564 C), Harvard-Boston MFA 1935",
+ "Medium": "Limestone, paint",
+ "Dimensions": "H. 8.3 cm (3 1/4 in.)",
+ "Credit Line": "Fletcher Fund, 1964",
+ "Accession Number": "64.66.10",
+ "What": [
+  "Limestone",
+  "Models",
+  "Molds"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "El Giza"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100002362,
+ "gallery-id": 103,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs64.66.4g.jpg",
+ "related-artworks": [
+  100002364,
+  100002358,
+  100002360,
+  100002361,
+  100002363
+ ],
+ "Provenance": [
+  "Excavated by the Harvard-Museum of Fine Arts, Boston Expediton in Giza, 1935. Recived from the Egyptian Government by  the MFA in the allotment of finds. Acquired by the Museum from the MFA, Boston, 1964."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100002362"
+  }
+ }
+}

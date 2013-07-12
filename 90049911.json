@@ -1,0 +1,38 @@
+{
+ "Date": "1829",
+ "Medium": "Graphite",
+ "Dimensions": "sheet 9 1/8 x 8 1/4 in. (23.2 x 21 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harry G. Sperling Fund, 2007",
+ "Accession Number": "2007.101.1",
+ "Who": "Carl Gottlieb Peschel",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90049911,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803871.jpg",
+ "related-artworks": [
+  90064587,
+  90023115,
+  90001858
+ ],
+ "Provenance": [
+  "Friedrich August II of Saxony (1797–1854)",
+  "Galerie Bassenge (Berlin), December 2, 2005, lot 5787",
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90049911"
+  }
+ }
+}

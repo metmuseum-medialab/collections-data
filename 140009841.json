@@ -1,0 +1,43 @@
+{
+ "Object Name": "Fragment",
+ "Date": "mid-15th century",
+ "Geography": "Egypt",
+ "Medium": "Stonepaste; painted under transparent glaze",
+ "Dimensions": [
+  "H. 1 1/16 in. (2.7 cm)",
+  "W. 2 9/16 in. (6.5 cm)",
+  "D. 2 1/2 in. (6.4 cm)",
+  "Wt. 2.1 oz. (59.541 g)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Jack A. Josephson, 1973",
+ "Accession Number": "1973.79.36",
+ "What": [
+  "Ceramics",
+  "Fragments",
+  "Painting",
+  "Glaze"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140009841,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf1973-79-36b.jpg",
+ "related-artworks": [
+  140009842,
+  140009829,
+  140001620,
+  140002361,
+  140002358
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009841"
+  }
+ }
+}

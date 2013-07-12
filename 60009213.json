@@ -1,0 +1,38 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Caribou? horn",
+ "Dimensions": "H. 7 1/2 in. (19.1 cm); Base W. 3 1/8 in. (7.9 cm); D. 1 3/4 in. (4.4 cm)",
+ "Classification": "Horn",
+ "Credit Line": "Fletcher Fund, 1933",
+ "Accession Number": "33.161",
+ "What": [
+  "Figures",
+  "Horn"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60009213,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/33_161_O1.jpg",
+ "related-artworks": [
+  60009205,
+  60009207,
+  60009208,
+  60009209,
+  60009210
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009213"
+  }
+ }
+}

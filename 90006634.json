@@ -1,0 +1,39 @@
+{
+ "Date": "1896",
+ "Medium": "Commercial relief process and lithography; green, yellow, blue, and red",
+ "Dimensions": "14 x 10 3/16 in.",
+ "Classification": "Prints",
+ "Credit Line": "Leonard A. Lauder Collection of American Posters, Gift of Leonard A. Lauder, 1984",
+ "Accession Number": "1984.1202.123",
+ "Who": "Edward Penfield",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90006634,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP823824.jpg",
+ "related-artworks": [
+  90006285,
+  90006307,
+  90006292,
+  90006294,
+  90006310
+ ],
+ "Provenance": [
+  "Donor: Leonard A. Lauder"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90006634"
+  }
+ }
+}

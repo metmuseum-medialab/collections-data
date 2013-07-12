@@ -1,0 +1,43 @@
+{
+ "Date": "18th century",
+ "Culture": "Madeira Islands",
+ "Medium": "Knitted lace",
+ "Dimensions": [
+  "L. 16 x W. 12 inches",
+  "40.6 x 30.5 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.48.116",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Mats",
+  "Knitting",
+  "Knitted lace"
+ ],
+ "Where": [
+  "Europe",
+  "Portugal",
+  "Madeira"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120031114,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP4806.jpg",
+ "related-artworks": [
+  120032760,
+  120031138,
+  120032759,
+  120032654,
+  120035067
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120031114"
+  }
+ }
+}

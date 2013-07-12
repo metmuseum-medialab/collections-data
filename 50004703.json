@@ -1,0 +1,39 @@
+{
+ "Date": "early 20th century",
+ "Geography": "Samoa",
+ "Culture": "Samoa",
+ "Medium": "Barkcloth, pigment",
+ "Dimensions": "H x W 55 x 45 in. (139.7 x 114.3 cm)",
+ "Classification": "Barkcloth",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Gift of Claire Gonska, 1975",
+ "Accession Number": "1978.412.1702",
+ "What": [
+  "Panels",
+  "Bark cloth"
+ ],
+ "Where": [
+  "Oceania",
+  "Samoa"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Polynesia, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50004703,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DP108305.jpg",
+ "related-artworks": [
+  50004704,
+  50006585,
+  50009062,
+  50009068,
+  50009070
+ ],
+ "Provenance": [
+  "Claire Gonska, 1920s–1974",
+  "The Museum of Primitive Art, New York, 1974–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50004703"
+  }
+ }
+}

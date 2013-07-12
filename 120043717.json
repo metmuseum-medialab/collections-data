@@ -1,0 +1,42 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian",
+ "Medium": "Embroidered net",
+ "Dimensions": [
+  "L. 38 x W. 8 inches",
+  "96.5 x 20.3 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Ann Payne Blumenthal, 1936",
+ "Accession Number": "36.130.9",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Lace",
+  "Borders",
+  "Net"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120043717,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/AR1014.jpg",
+ "related-artworks": [
+  120029940,
+  120032461,
+  120029938,
+  120029937,
+  120030470
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120043717"
+  }
+ }
+}

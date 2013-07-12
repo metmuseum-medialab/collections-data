@@ -1,0 +1,41 @@
+{
+ "Period": "Pre-Columbian",
+ "Date": "ca. 800–1500",
+ "Geography": "Costa Rica",
+ "Dimensions": "H. 75mm.; W. 52 mm.; D. 69 mm.; Wt. 66 g.",
+ "Classification": "Aerophone-Whistle Flute",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.3486",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Musical instruments",
+  "Aerophones",
+  "Flutes",
+  "Duct flutes",
+  "Whistles"
+ ],
+ "Where": [
+  "North and Central America",
+  "Costa Rica"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": [
+  "Central America and the Caribbean, 1400–1600 A.D.",
+  "Central America and the Caribbean, 500–1000 A.D."
+ ],
+ "id": 180014722,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/DP160880.jpg",
+ "related-artworks": [
+  180012637,
+  180014507,
+  180014542,
+  180014570,
+  180014621
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180014722"
+  }
+ }
+}

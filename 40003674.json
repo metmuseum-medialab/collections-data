@@ -1,0 +1,33 @@
+{
+ "Date": "ca. 1450",
+ "Culture": "German",
+ "Classification": "Helmets",
+ "Credit Line": "Rogers Fund, 1904",
+ "Accession Number": "04.3.240",
+ "What": [
+  "Costume",
+  "Helmets"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40003674,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/2262.jpg",
+ "related-artworks": [
+  40000118,
+  40000172,
+  40000433,
+  40000437,
+  40001092
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40003674"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Modeler": "Franz Konrad Linck (1730–1793, active 1762–66)",
+ "Date": "ca. 1765",
+ "Culture": "German (Frankenthal)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 7 3/8 in. (18.7 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Estate of James Hazen Hyde, 1959",
+ "Accession Number": "59.208.12",
+ "Who": [
+  "Frankenthal Porcelain Manufactory",
+  "Franz Konrad Linck"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Figures",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Frankenthal"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120017711,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/170276.jpg",
+ "related-artworks": [
+  120022785,
+  120009731,
+  120012274,
+  120017710,
+  120017712
+ ],
+ "Provenance": [
+  "Bauer (before 1928)",
+  "[ Cassirer and Helbing, Berlin (April 1928",
+  "sold to Hyde) ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120017711"
+  }
+ }
+}

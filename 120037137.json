@@ -1,0 +1,60 @@
+{
+ "Date": "ca. 1805",
+ "Culture": "British",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "H. 16 1/8 x W. 26 1/4 inches",
+  "41.0 x 66.7 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1913",
+ "Accession Number": "13.69.17",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120037137,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/163318.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120041620",
+  "http://scrapi.org/object/120045246",
+  "http://scrapi.org/object/120046931",
+  "http://scrapi.org/object/120047023",
+  "http://scrapi.org/object/120047024"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Alexander Wilson Drake (until 1913; to MMA)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120041620"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120045246"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120046931"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120047023"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120047024"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120037137"
+  }
+ }
+}

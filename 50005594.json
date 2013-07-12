@@ -1,0 +1,62 @@
+{
+ "Date": "7th century",
+ "Geography": "Peru",
+ "Culture": "Nasca",
+ "Medium": "Camelid hair",
+ "Dimensions": "H. 26 3/8 x W. 14 1/2 in. (67 x 36.8 cm)",
+ "Classification": "Textiles-Woven",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.745",
+ "Who": "Nazca",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Woven",
+  "Hair",
+  "Camelidae",
+  "Tunics"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 500–1000 A.D.",
+ "id": 50005594,
+ "gallery-id": 357,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1979.206.745_a.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ao/original/1979.206.745_a.jpg",
+  "http://images.metmuseum.org/CRDImages/ao/original/1979.206.745_b.jpg"
+ ],
+ "Provenance": [
+  "[Louis Slavitz, New York, until 1958]",
+  "Nelson A. Rockefeller, New York, 1958, on loan to The Museum of Primitive Art, New York, 1958–1978"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50000517"
+   },
+   {
+    "href": "http://scrapi.org/object/50000519"
+   },
+   {
+    "href": "http://scrapi.org/object/50000542"
+   },
+   {
+    "href": "http://scrapi.org/object/50005467"
+   },
+   {
+    "href": "http://scrapi.org/object/50000521"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50005594"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50005594"
+  }
+ }
+}

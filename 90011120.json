@@ -1,0 +1,40 @@
+{
+ "Date": "1493",
+ "Medium": "plates woodcuts, colored",
+ "Dimensions": "9 1/4 x 6 7/8 x 1 15/16 in.  (23.5 x 17.5 x 5 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1944",
+ "Accession Number": "44.7.24",
+ "Who": "Johann Schönsperger the Elder",
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90011120,
+ "related-artworks": [
+  90011104,
+  90011106,
+  90011112,
+  90011119,
+  90011121
+ ],
+ "Provenance": [
+  "Jacques Rosenthal"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90011120"
+  }
+ }
+}

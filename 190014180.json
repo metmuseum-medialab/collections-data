@@ -1,0 +1,54 @@
+{
+ "Date": "1977",
+ "Medium": "Chromogenic print",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Robert Wood Johnson Jr. Charitable Trust and Lila Acheson Wallace Gifts, 1978",
+ "Accession Number": "1978.668.51",
+ "Rights and Reproduction": "© Stephen Shore",
+ "Who": "Stephen Shore",
+ "What": [
+  "Photographs",
+  "Chromogenic prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Kodak and the Rise of Amateur Photography",
+  "The New Documentary Tradition in Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190014180,
+ "Provenance": [
+  "Stephen Shore/European Paintings"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190012884"
+   },
+   {
+    "href": "http://scrapi.org/object/190013354"
+   },
+   {
+    "href": "http://scrapi.org/object/190013355"
+   },
+   {
+    "href": "http://scrapi.org/object/190013356"
+   },
+   {
+    "href": "http://scrapi.org/object/190013353"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190014180"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190014180"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "1913",
+ "Medium": "Platinum print",
+ "Classification": "Photographs",
+ "Credit Line": "Rogers Fund, 1972",
+ "Accession Number": "1972.633.113",
+ "Who": "Frank Eugene",
+ "What": [
+  "Photographs",
+  "Platinum prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Pictorialism in America",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190011871,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP72054.jpg",
+ "related-artworks": [
+  190011868,
+  190011869,
+  190011870,
+  190011855,
+  190011872
+ ],
+ "Provenance": [
+  "Frank Eugene",
+  "Anne Königer Smith",
+  "Mrs. Charles Hendley"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190011871"
+  }
+ }
+}

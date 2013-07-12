@@ -1,0 +1,50 @@
+{
+ "Maker": "Case maker Marcus Bellanger (1659–1727)",
+ "Date": "ca. 1695",
+ "Culture": "Dutch (Amsterdam)",
+ "Medium": "Outer and inner case silver; Dial: silver, gilded brass",
+ "Dimensions": "Diam. 2-1/4 in. (5.7 cm)",
+ "Classification": "Horology",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.1499a, b",
+ "Who": [
+  "Jacob Hasluck",
+  "Marcus Bellanger"
+ ],
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Silver",
+  "Gilt",
+  "Brass",
+  "Cases",
+  "Timepieces",
+  "Watches",
+  "Dials"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands",
+  "Amsterdam"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 120008803,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF17_190_1499ab.jpg",
+ "related-artworks": [
+  120014862,
+  120008739,
+  120008740,
+  120008437,
+  120008782
+ ],
+ "Provenance": [
+  "Frederick George Hilton Price"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120008803"
+  }
+ }
+}

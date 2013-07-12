@@ -1,0 +1,41 @@
+{
+ "Artist": "Behar Lithographic Press (Bihar, India)",
+ "Printer": "Behar Lithographic Press (Bihar, India)",
+ "Date": "ca. 1828",
+ "Medium": "Lithograph",
+ "Dimensions": "Sheet 6 1/8 x 8 in. (15.5 x 20.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.521.13",
+ "Who": [
+  "Behar Lithographic Press",
+  "Sir Charles D'Oyly",
+  "Christopher Webb Smith"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90081015,
+ "related-artworks": [
+  90016345,
+  90080987,
+  90081008,
+  90081012,
+  90081013
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90081015"
+  }
+ }
+}

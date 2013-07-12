@@ -1,0 +1,43 @@
+{
+ "Date": "15th–16th century",
+ "Culture": "French",
+ "Medium": "Iron",
+ "Dimensions": "Overall 7 9/16 x 5 9/16 x 3/4 in. (19.2 x 14.1 x 1.9 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.374",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Frames",
+  "Wallets"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004231,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-374s1.jpg",
+ "related-artworks": [
+  170007515,
+  170008652,
+  170009713,
+  170003387,
+  170003778
+ ],
+ "Provenance": [
+  "M. Charles Mannheim, Paris (1898, no. 227)",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004231"
+  }
+ }
+}

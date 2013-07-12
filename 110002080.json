@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1766–72",
+ "Medium": "Paper",
+ "Dimensions": "Diameter 3 in. (77 mm)",
+ "Classification": "Miniatures",
+ "Credit Line": "Bequest of Mary Clark Thompson, 1923",
+ "Accession Number": "24.80.525",
+ "Who": "Edmé Charles de Lioux de Savignac",
+ "What": [
+  "Paper",
+  "Paintings",
+  "Miniatures"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110002080,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/57116.jpg",
+ "related-artworks": [
+  110002081,
+  110000041,
+  110000200,
+  110000267
+ ],
+ "Provenance": [
+  "Mary Clark Thompson, New York and Canandaigua, N.Y. (until d. 1923)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110002080"
+  }
+ }
+}

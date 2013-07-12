@@ -1,0 +1,35 @@
+{
+ "Date": "18th century",
+ "Culture": "Japanese",
+ "Dimensions": "L. 27\"",
+ "Classification": "Swords",
+ "Credit Line": "Gift of Dr. George M. Lefferts, 1910",
+ "Accession Number": "10.187.40a–c",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Blades"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40000318,
+ "related-artworks": [
+  40000322,
+  40000826,
+  40000868,
+  40002206,
+  40002556
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40000318"
+  }
+ }
+}

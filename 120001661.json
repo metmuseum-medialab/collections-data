@@ -1,0 +1,46 @@
+{
+ "Date": "18th century",
+ "Culture": "Southern German (?)",
+ "Medium": "Steel, mother-of-pearl, silver",
+ "Dimensions": "Knife L. 8 1/2 in. (21.6 cm); fork L. 7 7/8 in. (20 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of R. Stuyvesant, 1891",
+ "Accession Number": "91.16.56,57",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Iron and iron alloy",
+  "Furniture",
+  "Iron alloy",
+  "Steel",
+  "Flatware",
+  "Knives",
+  "Tables",
+  "Mother of pearl",
+  "Forks",
+  "Place knives",
+  "Table knives"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001661,
+ "related-artworks": [
+  120001635,
+  120001657,
+  120001868,
+  120001655,
+  120001636
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001661"
+  }
+ }
+}

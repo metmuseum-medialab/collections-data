@@ -1,0 +1,41 @@
+{
+ "Artist": "The Buford Family",
+ "Date": "1880s–90s",
+ "Classification": "Albums",
+ "Credit Line": "Gift of Janos Scholz, 1986",
+ "Accession Number": "1986.1115",
+ "Who": [
+  "Francis Frith",
+  "H.T. Cooke & Son",
+  "C. Hertel",
+  "The Buford Family"
+ ],
+ "What": [
+  "Books",
+  "Albums"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 190016638,
+ "related-artworks": [
+  190012858,
+  190012721,
+  190012723,
+  190011437
+ ],
+ "Provenance": [
+  "Buford Family",
+  "[...]",
+  "Janos Scholz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190016638"
+  }
+ }
+}

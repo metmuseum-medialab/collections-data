@@ -1,0 +1,36 @@
+{
+ "Object Name": "Earring",
+ "Date": "?",
+ "Medium": "Gold",
+ "Classification": "Jewelry",
+ "Credit Line": "Rogers Fund, 1935",
+ "Accession Number": "35.29.6",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Islamic Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 140011047,
+ "related-artworks": [
+  140002011,
+  140002012,
+  140002013,
+  140006961,
+  140006962
+ ],
+ "Provenance": [
+  "[ E.S. David, New York, until 1935",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140011047"
+  }
+ }
+}

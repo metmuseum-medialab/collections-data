@@ -1,0 +1,43 @@
+{
+ "Publisher": "Published by Pierre Mariette (French, 1596–1657)",
+ "Date": "ca. 1641",
+ "Medium": "Etching, state ii",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Grace M. Pugh, 1985",
+ "Accession Number": "1986.1180.592",
+ "Who": [
+  "Stefano della Bella",
+  "Pierre Mariette"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Printed Image in the West History and Techniques",
+  "France, 1600–1800 A.D."
+ ],
+ "id": 90050635,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP817855.jpg",
+ "related-artworks": [
+  90009182,
+  90039895,
+  90047318,
+  90047320,
+  90047321
+ ],
+ "Provenance": [
+  "Donor: Estate of Grace M. Pugh"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050635"
+  }
+ }
+}

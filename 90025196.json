@@ -1,0 +1,24 @@
+{
+ "Date": "1705, 1708",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1964",
+ "Accession Number": "64.672",
+ "Who": "Jan Willem Sluiter",
+ "What": "Books",
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90025196,
+ "related-artworks": [
+  90000025,
+  90000062,
+  90000060,
+  90000061,
+  90000082
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90025196"
+  }
+ }
+}

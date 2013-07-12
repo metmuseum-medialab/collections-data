@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Northern Upper Egypt, Deir el-Ballas probably",
+ "Medium": "Faience",
+ "Dimensions": "Diam. 1.7 cm. (11/16 in)",
+ "Credit Line": "Gift of Albert M. Lythgoe, 1917",
+ "Accession Number": "17.6.88",
+ "What": [
+  "Faience",
+  "Rings"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100015978,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/17.6.88.jpg",
+ "related-artworks": [
+  100002018,
+  100005523,
+  100005524,
+  100005525,
+  100005620
+ ],
+ "Provenance": [
+  "Purchased from a local Egyptian by Albert M. Lythgoe in the area of Deir el-Ballas. Donated to the Museum by Lythgoe, 1917."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100015978"
+  }
+ }
+}

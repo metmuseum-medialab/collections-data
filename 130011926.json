@@ -1,0 +1,37 @@
+{
+ "Culture": "Etruscan",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 3 3/4 in. (9.5 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Rogers Fund, 1923",
+ "Accession Number": "23.160.104",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Bronze",
+  "Jewelry",
+  "Bracelets"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011926,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP20599.jpg",
+ "related-artworks": [
+  130003465,
+  130003466,
+  130016307,
+  130017410,
+  130007645
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011926"
+  }
+ }
+}

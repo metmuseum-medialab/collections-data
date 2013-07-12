@@ -1,0 +1,43 @@
+{
+ "Publisher": "Published by Balthasar Caymocx",
+ "Date": "1598",
+ "Medium": "Etching",
+ "Dimensions": "Overall 14 9/16 x 10 5/8 x 1 9/16in. (37 x 27 x 4cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.4",
+ "Who": [
+  "Wendel Dietterlin, the Elder",
+  "Balthasar Caymocx"
+ ],
+ "What": [
+  "Etching",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90010898,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP236674.jpg",
+ "related-artworks": [
+  90074546,
+  90074592,
+  90044207,
+  90074587,
+  90074577
+ ],
+ "Provenance": [
+  "Charles Fairfax Murray (British, London 1849–1919 London)",
+  "Vendor: Francis Edwards"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010898"
+  }
+ }
+}

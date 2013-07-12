@@ -1,0 +1,45 @@
+{
+ "Date": "1846–47",
+ "Culture": "British, London",
+ "Medium": "Silver",
+ "Dimensions": "h. 2 3/4 x w. 5 in. (7 x 12.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Louise and David Braver, 2006",
+ "Accession Number": "2006.470.42a, b",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Lighting devices",
+  "Candleholders",
+  "Candlesticks",
+  "Chambersticks"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 120050299,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF2006_470_42ab_img1.jpg",
+ "related-artworks": [
+  120050211,
+  120050274,
+  120050295,
+  120050294,
+  120050286
+ ],
+ "Provenance": [
+  "Louise and David Braver (until 2006",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120050299"
+  }
+ }
+}

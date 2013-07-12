@@ -1,0 +1,38 @@
+{
+ "Period": "Late Period–Ptolemaic Period",
+ "Date": "664–30 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Credit Line": "Fletcher Fund, 1926 and Gift of Lily S. Place, 1921",
+ "Accession Number": "21.6.42",
+ "What": [
+  "Faience",
+  "Amulets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100028919,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs28aw38.jpg",
+ "related-artworks": [
+  100000285,
+  100000287,
+  100000329,
+  100001310,
+  100001661
+ ],
+ "Provenance": [
+  "Collection of Lily S. Place, Cairo. Donated by Lily Place to the museum, 1921."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100028919"
+  }
+ }
+}

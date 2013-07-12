@@ -1,0 +1,39 @@
+{
+ "Date": "1976",
+ "Medium": "Wool",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Gloria F. Ross, 1996",
+ "Accession Number": "1996.551.4",
+ "Who": "Romare Bearden",
+ "What": [
+  "Textiles",
+  "Wool",
+  "Samples",
+  "Tapestries"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "African Influences in Modern Art",
+  "Modern Storytellers Romare Bearden, Jacob Lawrence, Faith Ringgold",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210007012,
+ "related-artworks": [
+  210007009,
+  90038034,
+  210000902,
+  210001828,
+  210002087
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210007012"
+  }
+ }
+}

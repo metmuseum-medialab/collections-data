@@ -1,0 +1,54 @@
+{
+ "Draftsman": "Drawn by Jacob de Wit (Dutch, Amsterdam 1695–1754 Amsterdam)",
+ "Artist": "Engraved by Jan Punt (Dutch, Amsterdam 1711–1779 Amsterdam)",
+ "Date": "1747",
+ "Medium": "Engraving and etching",
+ "Dimensions": [
+  "image 12 3/8 x 14 9/16 in. (31.5 x 37 cm)",
+  "sheet 12 13/16 x 14 9/16 in. (32.6 x 37 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.7260",
+ "Who": [
+  "Peter Paul Rubens",
+  "Jacob de Wit",
+  "Jan Punt"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Portraiture in Renaissance and Baroque Europe",
+  "Velázquez (1599–1660)",
+  "Annibale Carracci (1560–1609)",
+  "Couples in Art",
+  "Anatomy in the Renaissance",
+  "Peter Paul Rubens (1577–1640) and Anthony van Dyck (1599–1641) Works on Paper",
+  "European Tapestry Production and Patronage, 1600–1800",
+  "Peter Paul Rubens (1577–1640) and Anthony van Dyck (1599–1641) Paintings",
+  "Islamic Carpets in European Paintings",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "id": 90038283,
+ "related-artworks": [
+  90043863,
+  90027880,
+  90043864,
+  90043891,
+  90043894
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90038283"
+  }
+ }
+}

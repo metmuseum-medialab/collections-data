@@ -1,0 +1,42 @@
+{
+ "Date": "1914",
+ "Medium": "Drypoint",
+ "Dimensions": [
+  "sheet 12 3/4 x 9 in. (32.4 x 22.9 cm)",
+  "plate 7 1/8 x 5 1/2 in. (18.1 x 14 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Scofield Thayer, 1982",
+ "Accession Number": "1984.1203.27",
+ "Who": "Lovis Corinth",
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90060451,
+ "related-artworks": [
+  90060464,
+  90060469,
+  90004272,
+  90024383,
+  90028005
+ ],
+ "Provenance": [
+  "Donor: Scofield Thayer (American, Worcester, Massachusetts 1889–1982 Providence, Rhode Island)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060451"
+  }
+ }
+}

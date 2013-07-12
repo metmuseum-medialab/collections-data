@@ -1,0 +1,43 @@
+{
+ "Artist": "Milton Miller",
+ "Date": "ca. 1869",
+ "Medium": "Albumen silver print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, Robert Rosenkranz Gift, 2005",
+ "Accession Number": "2005.100.494.91",
+ "Who": [
+  "John Thomson",
+  "Milton Miller"
+ ],
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190043252,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP165642.jpg",
+ "related-artworks": [
+  190039585,
+  190040513,
+  190043163,
+  190043165,
+  190043167
+ ],
+ "Provenance": [
+  "(sold Sotheby's Parke Bernet, Lot 124, May 8, 1979)",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190043252"
+  }
+ }
+}

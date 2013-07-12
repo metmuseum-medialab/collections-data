@@ -1,0 +1,38 @@
+{
+ "Date": "n.d.",
+ "Medium": "Pen and brown ink, brush and gray wash, with framing line",
+ "Dimensions": "sheet 10 11/16 x 14 7/16 in. (27.2 x 36.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harry G. Sperling Fund and Frits and Rita Markus Fund, 2003",
+ "Accession Number": "2003.319",
+ "Who": "Jan Luyken",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90028336,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800463.jpg",
+ "related-artworks": [
+  90000859,
+  90011394,
+  90013818,
+  90020617,
+  90021260
+ ],
+ "Provenance": [
+  "Vendor: Galerie Arnoldi-Livie (Munich)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90028336"
+  }
+ }
+}

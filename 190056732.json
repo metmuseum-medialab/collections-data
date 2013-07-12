@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1970, printed 2002",
+ "Medium": "Dye-transfer print",
+ "Dimensions": [
+  "Image 36.8 x 55.3 cm (14 1/2 x 21 3/4 in.)",
+  "Sheet 48.3 x 56.5 cm (19 x 22 1/4 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Louis V. Bell, Harris Brisbane Dick, Fletcher, and Rogers Funds and Joseph Pulitzer Bequest, and Charlotte A. and William E. Ford Gift, 2012",
+ "Accession Number": "2012.293",
+ "Rights and Reproduction": "© Eggleston Artistic Trust",
+ "Who": "William Eggleston",
+ "What": [
+  "Prints",
+  "Photographs",
+  "Dye"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The New Documentary Tradition in Photography",
+  "Kodak and the Rise of Amateur Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190056732,
+ "gallery-id": 852,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP278035.jpg",
+ "related-artworks": [
+  190053830,
+  190053831,
+  190056733,
+  190056734,
+  190056736
+ ],
+ "Provenance": [
+  "William Eggleston",
+  "Caldecott Chubb",
+  "[Cheim & Read, New York]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190056732"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "1835",
+ "Culture": "British",
+ "Medium": "Silk on wool canvas",
+ "Dimensions": "H. 16 3/4 x W. 13 1/4 inches (42.5 x 33.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "From the Collection of Mrs. Lathrop Colgate Harper, Bequest of Mabel Herbert Harper, 1957",
+ "Accession Number": "57.122.542",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Wool",
+  "Embroidery",
+  "Canvas",
+  "Samplers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120046161,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/164766.jpg",
+ "related-artworks": [
+  120045917,
+  120045964,
+  120045971,
+  120045962,
+  120037092
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046161"
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "Date": "1973",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 1974",
+ "Accession Number": "1974.537.2",
+ "Rights and Reproduction": "© Shedrich Williames",
+ "Who": "Shedrich Williames",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190012861,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP250781.jpg",
+ "Provenance": [
+  "Shedrick Williames"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190012860"
+   },
+   {
+    "href": "http://scrapi.org/object/190012862"
+   },
+   {
+    "href": "http://scrapi.org/object/190012863"
+   },
+   {
+    "href": "http://scrapi.org/object/190015344"
+   },
+   {
+    "href": "http://scrapi.org/object/190015345"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190012861"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190012861"
+  }
+ }
+}

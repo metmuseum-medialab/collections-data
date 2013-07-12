@@ -1,0 +1,45 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Date": "ca. 1981–1802 B.C.",
+ "Geography": "probably from Egypt, Middle Egypt, Meir (Mir), Khashaba",
+ "Medium": "Wood (Cedrus sp.), paint",
+ "Dimensions": "h. 11.5 cm (4 1/2 in.)",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.182.133d",
+ "What": [
+  "Vessels",
+  "Wood",
+  "Jars",
+  "Softwood",
+  "Funerary containers",
+  "Lids",
+  "Cedar"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Mīr"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100002901,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/12.182.133d_0014.jpg",
+ "related-artworks": [
+  100016082,
+  100016083,
+  100000566,
+  100002900,
+  100002908
+ ],
+ "Provenance": [
+  "Excavated at Meir by Sayyid Pasha Khashaba. Acquired by Khashaba in the division of finds. Purchased from Khashaba by the Museum, 1912."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100002901"
+  }
+ }
+}

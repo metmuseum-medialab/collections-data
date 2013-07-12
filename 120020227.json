@@ -1,0 +1,65 @@
+{
+ "Date": "ca. 1520",
+ "Culture": "Italian (Deruta)",
+ "Medium": "Maiolica (tin-enameled earthenware), lustered",
+ "Dimensions": "Overall (confirmed) 3 1/4 x 15 1/2 in. (8.3 x 39.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of J. Pierpont Morgan, by exchange, 1965",
+ "Accession Number": "65.6.12",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Dishes",
+  "Plates",
+  "Maiolica"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Umbrian",
+  "Perugia",
+  "Deruta"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020227,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES4570.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/ES4570.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/ES2135.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/ES7734.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/182088.jpg"
+ ],
+ "Provenance": [
+  "Walter von Pannwitz",
+  "[ his collection through Stiebel Ltd. , sold to MMA ]"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120003319"
+   },
+   {
+    "href": "http://scrapi.org/object/120012117"
+   },
+   {
+    "href": "http://scrapi.org/object/120014850"
+   },
+   {
+    "href": "http://scrapi.org/object/120003316"
+   },
+   {
+    "href": "http://scrapi.org/object/120011265"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120020227"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120020227"
+  }
+ }
+}

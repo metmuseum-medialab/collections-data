@@ -1,0 +1,61 @@
+{
+ "Date": "1700–1735",
+ "Culture": "Estonian (Reval)",
+ "Medium": "Silver, parcel gilt",
+ "Dimensions": "8 5/16 x 8 1/2 x 6 3/16 in.  (21.1 x 21.6 x 15.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mrs. Lucy W. Drexel, 1889",
+ "Accession Number": "89.2.30",
+ "Who": "Christoffer Mansfeld II",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Drinking vessels",
+  "Tankards"
+ ],
+ "Where": [
+  "Europe",
+  "Estonia",
+  "Tallinn"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001391,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/17222.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/17222.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/164196.jpg"
+ ],
+ "Provenance": [
+  "Lucy W. Drexel (until 1889; to MMA)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120056700"
+   },
+   {
+    "href": "http://scrapi.org/object/120022267"
+   },
+   {
+    "href": "http://scrapi.org/object/120000667"
+   },
+   {
+    "href": "http://scrapi.org/object/120001375"
+   },
+   {
+    "href": "http://scrapi.org/object/120001396"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120001391"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120001391"
+  }
+ }
+}

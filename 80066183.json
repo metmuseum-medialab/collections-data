@@ -1,0 +1,62 @@
+{
+ "Designer": "Oscar de la Renta (American, born Dominican Republic, 1932)",
+ "Couture Line": "House of Balmain (French, founded 1945)",
+ "Date": "fall/winter 1999–2000",
+ "Culture": "French",
+ "Medium": "a) silk, metal, plastic; b) silk, synthetic, fur",
+ "Dimensions": "N/A",
+ "Credit Line": "Gift of Thomas L. Kempner, 2006",
+ "Accession Number": "2006.420.107a, b",
+ "Who": [
+  "House of Balmain",
+  "Oscar de la Renta"
+ ],
+ "What": [
+  "Metal",
+  "Silk",
+  "Ensembles",
+  "Plastic",
+  "Hair",
+  "Fur"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80066183,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2006.420.107ab_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/2006.420.107ab_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/2006.420.107ab_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/2006.420.107a_label.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/2006.420.107b_F.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80097137"
+   },
+   {
+    "href": "http://scrapi.org/object/80064825"
+   },
+   {
+    "href": "http://scrapi.org/object/80038087"
+   },
+   {
+    "href": "http://scrapi.org/object/80020146"
+   },
+   {
+    "href": "http://scrapi.org/object/80074725"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80066183"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80066183"
+  }
+ }
+}

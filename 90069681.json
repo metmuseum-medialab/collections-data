@@ -1,0 +1,59 @@
+{
+ "Architect": "Designed by Ithiel Town (American, Thompson, Connecticut  1784–1844 New Haven, Connecticut)",
+ "Date": "ca. 1832",
+ "Medium": "Wood engraving with additions in pen and ink and wash",
+ "Dimensions": "sheet 13 7/16 x 10 1/4 in. (34.2 x 26 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1924",
+ "Accession Number": "24.66.1404",
+ "Who": [
+  "Alexander Jackson Davis",
+  "Ithiel Town"
+ ],
+ "What": [
+  "Prints",
+  "Ink",
+  "Engraving",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90069681,
+ "related-artworks": [
+  "http://scrapi.org/object/90068820",
+  "http://scrapi.org/object/90068819",
+  "http://scrapi.org/object/90068816",
+  "http://scrapi.org/object/90068817",
+  "http://scrapi.org/object/90068821"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90068820"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90068819"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90068816"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90068817"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90068821"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90069681"
+  }
+ }
+}

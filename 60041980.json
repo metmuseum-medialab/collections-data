@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Silk / Compound weave twill ground",
+ "Dimensions": "18 3/4 x 18 3/4 in. (47.63 x 47.63 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.162.2",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Woven",
+  "Twill"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60041980,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/19_162_2_d1.jpg",
+ "related-artworks": [
+  60023046,
+  60041981,
+  60042602,
+  60043657,
+  60043121
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60041980"
+  }
+ }
+}

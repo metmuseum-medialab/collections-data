@@ -1,0 +1,44 @@
+{
+ "Date": "early 20th century",
+ "Geography": "Iran",
+ "Medium": "Iron, damascened, lacquered",
+ "Dimensions": [
+  "H. 8 in. (20.3 cm)",
+  "L. 10 in. (25.4 cm)"
+ ],
+ "Classification": "Metal",
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.87.1",
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Figures",
+  "Iron"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005634,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf30-87-1b.jpg",
+ "related-artworks": [
+  140002190,
+  140001778,
+  140007358,
+  140008489,
+  140001824
+ ],
+ "Provenance": [
+  "A. Vecht, Amsterdam (until 1930",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005634"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1759–82",
+ "Medium": "Etching",
+ "Dimensions": "10 1/8 x 13 9/16 in.  (25.7 x 34.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry Shaw Newman, 1941",
+ "Accession Number": "41.97.48",
+ "Who": "Francesco Londonio",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90009474,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90009221"
+   },
+   {
+    "href": "http://scrapi.org/object/90009227"
+   },
+   {
+    "href": "http://scrapi.org/object/90009231"
+   },
+   {
+    "href": "http://scrapi.org/object/90009232"
+   },
+   {
+    "href": "http://scrapi.org/object/90009234"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90009474"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90009474"
+  }
+ }
+}

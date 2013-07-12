@@ -1,0 +1,45 @@
+{
+ "Publisher": "Published by Rudolph Ackermann (London)",
+ "Date": "October 15, 1798",
+ "Medium": "Hand-colored etching",
+ "Dimensions": "sheet 13 11/16 x 17 5/16 in. (34.8 x 43.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.533.574",
+ "Who": [
+  "Thomas Rowlandson",
+  "Rudolph Ackermann"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Watercolor Painting in Britain, 1750–1850",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "id": 90067582,
+ "related-artworks": [
+  90022016,
+  90027822,
+  90034274,
+  90058114,
+  90059864
+ ],
+ "Provenance": [
+  "Francis Harvey (British, active by 1859–died 1899)",
+  "C. W. Dyson Perrins(sale Sotheby's London, Jan. 12, 1959)",
+  "Vendor: Sotheby's, London , Jan. 12, 1959"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90067582"
+  }
+ }
+}

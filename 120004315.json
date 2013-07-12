@@ -1,0 +1,58 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "French",
+ "Medium": "Bronze-gilt",
+ "Dimensions": "7 x 6 1/4 in.  (17.8 x 15.9 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+ "Accession Number": "07.225.510.19",
+ "What": [
+  "Metal",
+  "Costume",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Gilt",
+  "Plate",
+  "Ormolu",
+  "Masks"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120004315,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/4030.jpg",
+ "Provenance": [
+  "Georges Hoentschel"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120004625"
+   },
+   {
+    "href": "http://scrapi.org/object/120004305"
+   },
+   {
+    "href": "http://scrapi.org/object/120004311"
+   },
+   {
+    "href": "http://scrapi.org/object/120004316"
+   },
+   {
+    "href": "http://scrapi.org/object/120004317"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120004315"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120004315"
+  }
+ }
+}

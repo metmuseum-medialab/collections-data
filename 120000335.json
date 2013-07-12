@@ -1,0 +1,41 @@
+{
+ "Date": "late 17th–early 18th century",
+ "Culture": "Italian, Venice (Murano)",
+ "Medium": "Glass",
+ "Dimensions": "H. 4 in.  (10.2 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of James Jackson Jarves, 1881",
+ "Accession Number": "81.8.204",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice",
+  "Murano"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000335,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF81_8_204.jpg",
+ "related-artworks": [
+  120001581,
+  120001585,
+  120000160,
+  120000154,
+  120000206
+ ],
+ "Provenance": [
+  "James Jackson Jarves (until 1881)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000335"
+  }
+ }
+}

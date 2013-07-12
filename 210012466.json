@@ -1,0 +1,44 @@
+{
+ "Manufacturer": "Red Wing Pottery (Red Wing, Minnesota)",
+ "Date": "ca. 1946",
+ "Medium": "Glazed earthenware",
+ "Dimensions": "1 5/8 x Diam. 10 5/8 in. (4.1 x 27 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of the artist, 2001",
+ "Accession Number": "2001.745.7",
+ "Who": [
+  "Eva Zeisel",
+  "Red Wing Pottery"
+ ],
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Plates",
+  "Glazing",
+  "Dinner plates"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210012466,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/ex122000.jpg",
+ "related-artworks": [
+  210006735,
+  210012470,
+  210012467,
+  210005946,
+  210005957
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210012466"
+  }
+ }
+}

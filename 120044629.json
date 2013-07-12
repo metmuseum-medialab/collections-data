@@ -1,0 +1,41 @@
+{
+ "Date": "16th century",
+ "Culture": "Spanish",
+ "Medium": "Wool and linen",
+ "Dimensions": "Overall 11 x 11 in. (27.9 x 27.9 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1942",
+ "Accession Number": "42.65.2",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Wool",
+  "Linen"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044629,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/128199.jpg",
+ "related-artworks": [
+  120040677,
+  120034013,
+  120039901,
+  120034034,
+  120037433
+ ],
+ "Provenance": [
+  "Herman A. Elsberg , 1942",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044629"
+  }
+ }
+}

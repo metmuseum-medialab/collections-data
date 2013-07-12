@@ -1,0 +1,45 @@
+{
+ "Date": "5th century",
+ "Geography": "Egypt, Aswan (Assouan)",
+ "Medium": "Sandstone",
+ "Dimensions": [
+  "H. 17 3/4 in. (45.1 cm)",
+  "W. (Top) 20 11/16 in. (52.5 cm)",
+  "Diam. (Base) 20 1/4 in. (51.4 cm)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.175.2",
+ "What": [
+  "Sculpture",
+  "Sandstone",
+  "Capitals"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Aswan"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140014452,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/10.175.2.JPG",
+ "related-artworks": [
+  140014454,
+  140014453,
+  140014457,
+  140014455,
+  140014456
+ ],
+ "Provenance": [
+  "Government of Egypt(until 1910)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140014452"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Medium": "Pastel on brown paper",
+ "Dimensions": [
+  "H. 12, W. 20-1/8 inches",
+  "(31 x 51.1 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Gift of A. W. Bahr, 1958",
+ "Accession Number": "58.21.7",
+ "Who": "Wilhelm Hunt Diederich",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Pastels"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Modern and Contemporary Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009233,
+ "related-artworks": [
+  210003512,
+  210003513,
+  90037744,
+  90108858,
+  90080915
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009233"
+  }
+ }
+}

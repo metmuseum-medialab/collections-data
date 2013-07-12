@@ -1,0 +1,38 @@
+{
+ "Period": "Late Imperial",
+ "Date": "3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown in a three-part mold",
+ "Dimensions": "H. 15.24 cm.",
+ "Classification": "Glass",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.21.190",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130017240,
+ "gallery-id": 162,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP108406.jpg",
+ "related-artworks": [
+  130000053,
+  130000078,
+  130000055,
+  130000063,
+  130000057
+ ],
+ "Description": "Translucent blue green.Rim folded out, round, and in, and pressed into flaring mouth; cylindrical neck expanding downwards, with slight horizontal tooled indent around base; shoulder sloping down and out, with hollow projecting roll below; ovoid body; low cylindrical base, with concave bottom. Pontil scar at center of bottom. Body blown into a three-part mold of two vertical sections, extending from base to top of body, and a disk-shaped base section.On body, a pattern of stylized grapes comprising eleven interlocking rows of twenty-two unevenly-spaced hemispherical knobs, and at top two indistinct leaves opposite each other, centered between the mold seams; on bottom, three narrow raised concentric circles.Intact; many bubbles; patches of dulling, pitting, and iridescent weathering.Bottles, jars, and handled jugs whose body is made in the shape of a stylized bunch of grapes have been found mainly in the Syro-Palestinian area. One bottle, for example, is known from a rock-cut tomb at Nazareth. But pieces are also known from Egypt, Carthage, and even Aksum in Ethiopia.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130017240"
+  }
+ }
+}

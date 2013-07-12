@@ -1,0 +1,46 @@
+{
+ "Date": "first quarter 20th century",
+ "Culture": "European",
+ "Medium": "silk",
+ "Dimensions": "21 x 21 in. (53.3 x 53.3 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of  Arturo and Paul Peralta-Ramos, 1955",
+ "Accession Number": "2009.300.3166",
+ "What": [
+  "Costume",
+  "Silk",
+  "Scarves"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "id": 80095928,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/55.26.126_CP4.jpg",
+ "Description": "While the specific origins of this scarf have not been identified, the floral patterning is typical of traditional European folk costume. The beautiful, saturated color is achieved only with silk dyeing. It was given to the collection by Millicent Rogers, who not only amassed a notable collection of haute couture garments, she also collected folkloric clothing and accessories for her own use.",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80094929"
+   },
+   {
+    "href": "http://scrapi.org/object/80095918"
+   },
+   {
+    "href": "http://scrapi.org/object/80095929"
+   },
+   {
+    "href": "http://scrapi.org/object/80095919"
+   },
+   {
+    "href": "http://scrapi.org/object/80096001"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80095928"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80095928"
+  }
+ }
+}

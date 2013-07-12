@@ -1,0 +1,43 @@
+{
+ "Date": "10th–12th century",
+ "Geography": "Mexico, Mesoamerica, Veracruz",
+ "Culture": "Veracruz",
+ "Medium": "Stone",
+ "Dimensions": "Height 6-1/2 in.",
+ "Classification": "Stone-Sculpture",
+ "Credit Line": "Purchase, Arthur M. Bullowa Bequest, 1994",
+ "Accession Number": "1994.39",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Hachas"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico",
+  "Veracruz"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico, 500–1000 A.D.",
+  "Mexico, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50010316,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1994.39.JPG",
+ "related-artworks": [
+  50003054,
+  50003179,
+  50005172,
+  50005174,
+  50005897
+ ],
+ "Provenance": [
+  "[Fine Arts of Ancient Lands, Inc., New York, until 1994]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50010316"
+  }
+ }
+}

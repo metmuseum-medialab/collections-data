@@ -1,0 +1,51 @@
+{
+ "Date": "ca. 1850",
+ "Culture": "American",
+ "Medium": "Linen, metal",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of the estate of Sarah B. Russell, 1956",
+ "Accession Number": "2009.300.6920",
+ "What": [
+  "Metal",
+  "Costume",
+  "Linen",
+  "Trousers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80115198,
+ "related-artworks": [
+  "http://scrapi.org/object/80114581",
+  "http://scrapi.org/object/80114734",
+  "http://scrapi.org/object/80115228",
+  "http://scrapi.org/object/80095764",
+  "http://scrapi.org/object/80114785"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80114581"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80114734"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80115228"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80095764"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80114785"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80115198"
+  }
+ }
+}

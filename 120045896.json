@@ -1,0 +1,41 @@
+{
+ "Date": "1867",
+ "Culture": "Spanish",
+ "Medium": "Linen on linen",
+ "Dimensions": [
+  "H. 13 3/4 x W. 12 3/4 inches",
+  "34.9 x 32.4 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "From the Collection of Mrs. Lathrop Colgate Harper, Bequest of Mabel Herbert Harper, 1957",
+ "Accession Number": "57.122.275",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Samplers"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120045896,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP755.jpg",
+ "related-artworks": [
+  120046367,
+  120037188,
+  120045684,
+  120045690,
+  120045882
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120045896"
+  }
+ }
+}

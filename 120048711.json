@@ -1,0 +1,43 @@
+{
+ "Date": "late 17th century",
+ "Culture": "French",
+ "Medium": "Bronze",
+ "Dimensions": "Overall 6 1/8 x 3 x 2 1/2 in. (15.6 x 7.6 x 6.4 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Eugene V. Thaw, 2004",
+ "Accession Number": "2004.83.2",
+ "Who": "Pierre I Legros",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120048711,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF2004_83_2.jpg",
+ "related-artworks": [
+  120056896,
+  120009956,
+  120010146,
+  120004323
+ ],
+ "Provenance": [
+  "Eugene V. Thaw (until 2004",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120048711"
+  }
+ }
+}

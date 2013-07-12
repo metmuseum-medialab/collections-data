@@ -1,0 +1,35 @@
+{
+ "Date": "19th century",
+ "Geography": "Iran",
+ "Medium": "cotton",
+ "Dimensions": "22 3/4 x 17 in. (57.8 x 43.2 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Nanette B. Kelekian, in honor of Olga Raggio, 2002",
+ "Accession Number": "2002.494.710",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Cotton"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran (Persia), 1800–1900 A.D.",
+ "id": 140012267,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/Tr.20.575.2002.JPG",
+ "related-artworks": [
+  140002881,
+  140003058,
+  140004961,
+  140004974,
+  140004979
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140012267"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "n.d.",
+ "Medium": "Woodblock",
+ "Dimensions": "block 5 3/8 x 6 7/8 x 11/16 in. (13.7 x 17.5 x 1.7 cm)",
+ "Classification": "Blocks",
+ "Credit Line": "Gift of Rockwell Kent, 1933",
+ "Accession Number": "33.41",
+ "Who": "Rockwell Kent",
+ "What": [
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90059704,
+ "related-artworks": [
+  90016368,
+  90020223,
+  90020224,
+  90020225,
+  90020222
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90059704"
+  }
+ }
+}

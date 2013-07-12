@@ -1,0 +1,36 @@
+{
+ "Date": "1843",
+ "Medium": "Sepia wash over graphite",
+ "Dimensions": "22-7/16 x 16-1/16 in.  (57.1 x 40.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1953",
+ "Accession Number": "53.82",
+ "Who": "Frederick Catherwood",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90008195,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820949.jpg",
+ "related-artworks": [
+  90054509,
+  90054932,
+  90000826
+ ],
+ "Provenance": [
+  "Vendor: Smith"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90008195"
+  }
+ }
+}

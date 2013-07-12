@@ -1,0 +1,32 @@
+{
+ "Date": "4th century",
+ "Geography": "Made in Kharga Oasis, Byzantine Egypt",
+ "Culture": "Coptic",
+ "Medium": "Glass",
+ "Dimensions": "Storage (petri dish diam.) 2 3/16 in. (5.5 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1931",
+ "Accession Number": "31.8.42.53",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Fragments"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170021371,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cop0753.jpg",
+ "related-artworks": [
+  170016793,
+  170018983,
+  170018985,
+  170018987,
+  170018988
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170021371"
+  }
+ }
+}

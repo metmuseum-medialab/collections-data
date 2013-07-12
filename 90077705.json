@@ -1,0 +1,49 @@
+{
+ "Artist": "Bernard Baron (French, Paris 1696–1762 London)",
+ "Publisher": "S. Austen (London)",
+ "Sitter": "Thomas Herring (British, 1693–1757)",
+ "Date": "1750",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 16 5/8 x 11 7/16 in. (42.3 x 29 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1932",
+ "Accession Number": "32.35",
+ "Who": [
+  "William Hogarth",
+  "Bernard Baron",
+  "S. Austen",
+  "Thomas Herring"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Portrait Painting in England, 1600–1800",
+  "The Kilt",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90077705,
+ "related-artworks": [
+  90036163,
+  90037738,
+  90040932,
+  90049367,
+  90049368
+ ],
+ "Provenance": [
+  "Donor: Harris Brisbane Dick Fund"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90077705"
+  }
+ }
+}

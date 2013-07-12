@@ -1,0 +1,45 @@
+{
+ "Period": "Archaic",
+ "Date": "7th–6th century B.C.",
+ "Culture": "Etruscan",
+ "Medium": "Amber, bronze, ivory",
+ "Dimensions": "Diam. 1 11/16 in. (4.3 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Purchase, 1896",
+ "Accession Number": "96.9.489",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Fragments",
+  "Bronze",
+  "Bone",
+  "Ivory",
+  "Pins",
+  "Resin",
+  "Amber",
+  "Fibulae"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006956,
+ "gallery-id": 170,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP257863.jpg",
+ "related-artworks": [
+  130006969,
+  130006971,
+  130006974,
+  130006972,
+  130006959
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006956"
+  }
+ }
+}

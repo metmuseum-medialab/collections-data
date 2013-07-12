@@ -1,0 +1,49 @@
+{
+ "Date": "1899–1904",
+ "Geography": "Midwest, Chicago, Illinois, United States",
+ "Culture": "American",
+ "Medium": "Cast iron",
+ "Dimensions": "39 x 9 7/8 x 1 in. (99.1 x 25.1 x 2.5 cm)",
+ "Classification": "Architecture",
+ "Credit Line": "Gift of the Art Institute of Chicago, 1973",
+ "Accession Number": "1973.211.4",
+ "Who": "Louis Henry Sullivan",
+ "What": [
+  "Metal",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Balusters",
+  "Cast iron"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Illinois",
+  "Chicago"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10000320,
+ "gallery-id": 701,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/203659.jpg",
+ "related-artworks": [
+  10000317,
+  10000318,
+  10000319,
+  10000321,
+  10000323
+ ],
+ "Provenance": [
+  "Carson, Pirie, Scott Company, Chicago",
+  "Art Institute of Chicago, Chicago, until 1973"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000320"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Designer": "Roger Vivier (French, 1913–1998)",
+ "Date": "1957",
+ "Culture": "French",
+ "Medium": "silk, leather",
+ "Dimensions": [
+  "Length 9 in. (22.9 cm)",
+  "Height (of heel) 3 3/8 in. (8.6 cm)"
+ ],
+ "Credit Line": "Gift of Valerian Stux-Rybar, 1979",
+ "Accession Number": "1979.472.27",
+ "Who": [
+  "House of Dior",
+  "Roger Vivier"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Leather",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80027470,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1979.472.27_S1.jpg",
+ "related-artworks": [
+  80003634,
+  80004769,
+  80004961,
+  80004962,
+  80005067
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80027470"
+  }
+ }
+}

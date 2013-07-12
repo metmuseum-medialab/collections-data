@@ -1,0 +1,43 @@
+{
+ "Date": "third quarter 18th century",
+ "Culture": "French or Italian (Veneto/Burano)",
+ "Medium": "Linen, needle lace",
+ "Dimensions": "L. 48 x W. 4 1/2 inches (121.9 x 11.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The Lady Reigate in memory of her mother, Mrs. William Redmond Cross, 1979",
+ "Accession Number": "1979.310.6b",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Lace",
+  "Needles",
+  "Needle lace",
+  "Lappets"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 120047308,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/225589.jpg",
+ "related-artworks": [
+  120047304,
+  120047307,
+  120047316,
+  120047305,
+  120047317
+ ],
+ "Provenance": [
+  "The Lady Reigate (until 1979",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120047308"
+  }
+ }
+}

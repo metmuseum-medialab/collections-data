@@ -1,0 +1,40 @@
+{
+ "Date": "18th century",
+ "Culture": "Italian",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "Overall 14 x 7 3/4 in. (35.6 x 19.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2071",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "id": 120034550,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/73125.jpg",
+ "related-artworks": [
+  120041761,
+  120044666,
+  120037277,
+  120039895,
+  120044993
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120034550"
+  }
+ }
+}

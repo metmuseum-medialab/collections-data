@@ -1,0 +1,38 @@
+{
+ "Period": "Ming dynasty (1368–1644)",
+ "Culture": "China",
+ "Dimensions": "H. 12.5 in. (31.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Anonymous Gift, 1912",
+ "Accession Number": "12.39.2",
+ "What": [
+  "Ceramics",
+  "Tile"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1000–1400 A.D.",
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60019119,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/12322.jpg",
+ "related-artworks": [
+  60006593,
+  60012024,
+  60015332,
+  60015333,
+  60015389
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60019119"
+  }
+ }
+}

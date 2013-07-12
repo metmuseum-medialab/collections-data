@@ -1,0 +1,38 @@
+{
+ "Date": "18th century",
+ "Culture": "British",
+ "Medium": "Iron",
+ "Dimensions": "32 3/4 x 44 1/4 in.  (83.2 x 112.4 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1931",
+ "Accession Number": "31.92.39",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Panels"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011754,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/86629.jpg",
+ "related-artworks": [
+  120011753,
+  120011755,
+  120005276,
+  120005274,
+  120005980
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011754"
+  }
+ }
+}

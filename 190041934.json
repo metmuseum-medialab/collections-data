@@ -1,0 +1,42 @@
+{
+ "Photography Studio": "Sun Sculpture Works and Studios (American)",
+ "Publisher": "Strohmeyer & Wyman (American)",
+ "Artist": "Unknown",
+ "Date": "1890s–1910s",
+ "Dimensions": "Mounts approximately 8.9 x 17.8 cm (3 1/2 x 7 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Weston J. Naef, in memory of Kathleen W. Naef and Weston J. Naef Sr., 1982",
+ "Accession Number": "1982.1182.312–.314",
+ "Who": [
+  "Unknown",
+  "Underwood & Underwood",
+  "Sun Sculpture Works  Studios",
+  "Strohmeyer & Wyman",
+  "Bert Underwood"
+ ],
+ "What": [
+  "Photographs",
+  "Stereographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 190041934,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP74765.jpg",
+ "related-artworks": [
+  190041900,
+  190041915,
+  190041917,
+  190041951,
+  190041935
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190041934"
+  }
+ }
+}

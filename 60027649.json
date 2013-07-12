@@ -1,0 +1,42 @@
+{
+ "Period": "Bronze and Iron Age period",
+ "Date": "500 B.C.–A.D. 300",
+ "Culture": "Thailand",
+ "Medium": "Bronze",
+ "Dimensions": "H. 1 1/8 in. (2.9cm); W. 1 5/8 in. (4.1 cm); L. 3 in. (7.6cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Samuel Eilenberg Collection, Bequest of Samuel Eilenberg, 1998",
+ "Accession Number": "2001.433.143",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Membranophones",
+  "Drums"
+ ],
+ "Where": [
+  "Asia",
+  "Thailand"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1000 B.C.–1 A.D.",
+  "Southeast Asia, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60027649,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2001_433_143_O1.jpg",
+ "related-artworks": [
+  60027793,
+  60027658,
+  60027652,
+  60004354,
+  60004356
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60027649"
+  }
+ }
+}

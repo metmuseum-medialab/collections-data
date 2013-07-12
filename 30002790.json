@@ -1,0 +1,43 @@
+{
+ "Period": "Jemdet Nasr",
+ "Date": "ca. 3100–2900 B.C.",
+ "Geography": "Mesopotamia, Khafajah",
+ "Medium": "Stone",
+ "Dimensions": "1.12 in. (2.84 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Rogers Fund and Gifts of Lucy W. Drexel, Theodore M. Davis, Helen Miller Gould, Albert Gallatin, Egypt Exploration Fund and Egyptian Research Account, by exchange, 1950",
+ "Accession Number": "51.25.15",
+ "What": [
+  "Stone",
+  "Seals",
+  "Cylinder seals"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Khafajah"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30002790,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss51_25_15.jpg",
+ "related-artworks": [
+  30002789,
+  30002792,
+  30002776,
+  30002777,
+  30002778
+ ],
+ "Provenance": [
+  "1935-36, excavated by the Iraq Expedition of the Oriental Institute of the University of Chicago",
+  "ceded to the Oriental Institute in the division of finds",
+  "acquired by the Museum in 1950, through an exchange of objects with the Oriental Institute."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30002790"
+  }
+ }
+}

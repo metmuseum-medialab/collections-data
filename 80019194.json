@@ -1,0 +1,43 @@
+{
+ "Designer": "Cristobal Balenciaga (Spanish, 1895–1972)",
+ "Date": "ca. 1950",
+ "Culture": "French",
+ "Medium": "wool",
+ "Dimensions": [
+  "Length at CB (a) 26 in. (66 cm)",
+  "Length at CB (b) 29 1/2 in. (74.9 cm)"
+ ],
+ "Credit Line": "Gift of Mr. and Mrs. William F. Brooks, Jr., 1982",
+ "Accession Number": "1982.402.2a, b",
+ "Who": [
+  "House of Balenciaga",
+  "Cristobal Balenciaga"
+ ],
+ "What": [
+  "Costume",
+  "Wool",
+  "Suits"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80019194,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1982.402.2ab_F.jpg",
+ "related-artworks": [
+  80002939,
+  80004764,
+  80014625,
+  80014613,
+  80014609
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80019194"
+  }
+ }
+}

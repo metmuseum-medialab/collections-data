@@ -1,0 +1,61 @@
+{
+ "Date": "1760–70",
+ "Culture": "British",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length at CB (a) 59 in. (149.9 cm)",
+  "Total Length (b) 38 1/2 in. (97.8 cm)"
+ ],
+ "Credit Line": "Hoeschst Fiber Industries Fund, 1981",
+ "Accession Number": "1981.351a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Robes",
+  "Robe à la française"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 80008569,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1981.351a_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1981.351a_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1981.351a_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1981.351a_d1.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1981.351a_d2.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1981.351b_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1981.351b_d.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1981.351ab_CI62.27a-c_MM70555.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80001010"
+   },
+   {
+    "href": "http://scrapi.org/object/80003827"
+   },
+   {
+    "href": "http://scrapi.org/object/80005919"
+   },
+   {
+    "href": "http://scrapi.org/object/80008528"
+   },
+   {
+    "href": "http://scrapi.org/object/80097057"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80008569"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80008569"
+  }
+ }
+}

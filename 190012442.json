@@ -1,0 +1,31 @@
+{
+ "Date": "ca. 1937",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 1972",
+ "Accession Number": "1972.746.12",
+ "Who": "Nym Wales",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190012442,
+ "related-artworks": [
+  190012453,
+  190012454,
+  190012452,
+  190012439,
+  190012440
+ ],
+ "Provenance": [
+  "Helen Foster Snow (Nym Wales)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190012442"
+  }
+ }
+}

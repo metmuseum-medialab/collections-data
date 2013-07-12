@@ -1,0 +1,39 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1830",
+ "Culture": "Japan",
+ "Medium": "Clay, unglazed, with decorations in dark blue enamel (Awata ware)",
+ "Dimensions": "H. 3 1/2 in. (8.9 cm); Diam. 4 in. (10.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Howard Mansfield Collection, Gift of Howard Mansfield, 1936",
+ "Accession Number": "36.120.528",
+ "Who": "Kinkozan",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Bowls",
+  "Enamels"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60016461,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/36_120_528.JPG",
+ "related-artworks": [
+  60015805,
+  60034120,
+  60034141,
+  60034612,
+  60019428
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60016461"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1350–75",
+ "Culture": "North French",
+ "Medium": "Ivory",
+ "Dimensions": "Overall 4 1/2 x 2 7/8 x 3/8 in. (11.5 x 7.3 x 0.9 cm)",
+ "Classification": "Ivories",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.283",
+ "What": [
+  "Bone",
+  "Ivory"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004151,
+ "gallery-id": 306,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-283s1.jpg",
+ "related-artworks": [
+  170003242,
+  170003339,
+  170003386,
+  170003910,
+  170003911
+ ],
+ "Provenance": [
+  "Sir Andrew Fountaine(?)",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004151"
+  }
+ }
+}

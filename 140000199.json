@@ -1,0 +1,48 @@
+{
+ "Object Name": "Towel ends",
+ "Date": "early 19th century",
+ "Geography": "Turkey",
+ "Medium": "Linen, silk, metal wrapped thread; plain weave, embroidered",
+ "Dimensions": [
+  "H. 18 in. (45.7 cm)",
+  "W. 6 1/2 in. (16.5 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Anonymous Gift, 1879",
+ "Accession Number": "79.1.39a",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Plain weave",
+  "Towels"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140000199,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/3889.jpg",
+ "related-artworks": [
+  140000179,
+  140000198,
+  140000177,
+  140000201,
+  140000178
+ ],
+ "Provenance": [
+  "Private collection(until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140000199"
+  }
+ }
+}

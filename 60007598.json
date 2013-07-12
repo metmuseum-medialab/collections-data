@@ -1,0 +1,33 @@
+{
+ "Culture": "China",
+ "Medium": "Ink on paper",
+ "Dimensions": "33 3/4 x 80in. (85.7 x 203.2cm)",
+ "Classification": "Rubbing",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.111.37",
+ "What": [
+  "Ink",
+  "Paper",
+  "Rubbings"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 60007598,
+ "related-artworks": [
+  60035358,
+  60035367,
+  60035371,
+  60035374,
+  60035379
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60007598"
+  }
+ }
+}

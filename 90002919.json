@@ -1,0 +1,37 @@
+{
+ "Medium": "Pen and black ink with brush and gray wash. Framing lines in brown ink.",
+ "Dimensions": "5 x 4 1/4 in.  (12.7 x 10.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1948",
+ "Accession Number": "48.4.1",
+ "Who": "Gilles-Marie Oppenord",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002919,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP807785.jpg",
+ "related-artworks": [
+  90002921,
+  90002922,
+  90002923,
+  90002920,
+  90002924
+ ],
+ "Provenance": [
+  "Vendor: F. & G. Staack , Camden, Maine"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002919"
+  }
+ }
+}

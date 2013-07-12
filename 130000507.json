@@ -1,0 +1,42 @@
+{
+ "Period": "Cypro-Geometric I",
+ "Date": "ca. 1050–950 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 9 7/16 in. (24 cm)",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.455",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Trays"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+  "The Eastern Mediterranean, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130000507,
+ "gallery-id": 174,
+ "related-artworks": [
+  130000508,
+  130000429,
+  130000430,
+  130000431,
+  130000412
+ ],
+ "Description": "The tray consists of two sections and was evidently intended to be hung when not in use. The decoration on the back is more elaborate than that on the front.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130000507"
+  }
+ }
+}

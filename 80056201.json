@@ -1,0 +1,32 @@
+{
+ "Date": "1700–1938",
+ "Culture": "European",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Lee Simonson, 1938",
+ "Accession Number": "C.I.38.23.345",
+ "What": [
+  "Costume",
+  "Silk",
+  "Parasols"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80056201,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI38.23.345_S.jpg",
+ "related-artworks": [
+  80029362,
+  80055854,
+  80056030,
+  80056023,
+  80056178
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80056201"
+  }
+ }
+}

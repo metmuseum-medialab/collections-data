@@ -1,0 +1,34 @@
+{
+ "Date": "1900",
+ "Classification": "Books",
+ "Credit Line": "Gift of C.E.H. Whitlock, 1955",
+ "Accession Number": "55.666",
+ "Who": "Elkhart Carriage & Harness Mfg. Co.",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90016892,
+ "related-artworks": [
+  90016893,
+  90000871,
+  90000872,
+  90000873
+ ],
+ "Provenance": [
+  "Donor: C. E. H. Whitlock (New Haven, Connecticut)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90016892"
+  }
+ }
+}

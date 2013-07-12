@@ -1,0 +1,54 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "dated 1693",
+ "Culture": "China",
+ "Medium": "Hanging scroll; ink on paper",
+ "Dimensions": [
+  "Image 33 3/4 x 17 1/4 in. (85.7 x 43.8 cm)",
+  "Overall with mounting 101 1/2 x 24 1/2 in. (257.8 x 62.2 cm)",
+  "Overall with knobs 104 x 24 1/2 in. (264.2 x 62.2 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Wan-go H. C. Weng, 1955",
+ "Accession Number": "55.211.2",
+ "Who": "Wang Hui",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Qing Dynasty (1644–1911) Painting",
+  "Chinese Handscrolls",
+  "Wang Hui (1632–1717)",
+  "The Qing Dynasty (1644–1911) The Traditionalists",
+  "Landscape Painting in Chinese Art",
+  "China, 1800–1900 A.D.",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1800–1900 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60000131,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/55_211_2_O2_sf.jpg",
+ "related-artworks": [
+  60007108,
+  60019797,
+  60019799,
+  60019800,
+  60019795
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60000131"
+  }
+ }
+}

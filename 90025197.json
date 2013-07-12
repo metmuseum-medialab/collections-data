@@ -1,0 +1,32 @@
+{
+ "Date": "1886–87",
+ "Classification": "Books",
+ "Credit Line": "Jefferson R. Burdick Bequest, 1981",
+ "Accession Number": "1981.1120",
+ "Who": "S. C. Small & Company",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90025197,
+ "related-artworks": [
+  90000882,
+  90003457,
+  90006966,
+  90006963,
+  90006988
+ ],
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90025197"
+  }
+ }
+}

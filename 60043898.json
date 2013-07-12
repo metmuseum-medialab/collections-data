@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911), Guangxu period (1875–1908)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Silk",
+ "Dimensions": "57 3/4 x 82 in. (146.69 x 208.28 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Gift of Gene Ulmann, 1955",
+ "Accession Number": "55.200.2",
+ "What": [
+  "Costume",
+  "Silk",
+  "Tapestries",
+  "Robes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043898,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/160809.jpg",
+ "related-artworks": [
+  60037790,
+  60038559,
+  60041826,
+  60042081,
+  60042156
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043898"
+  }
+ }
+}

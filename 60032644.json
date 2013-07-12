@@ -1,0 +1,41 @@
+{
+ "Period": "Shang dynasty (ca. 1600–1046 B.C.)",
+ "Date": "13th–11th century B.C.",
+ "Culture": "China",
+ "Medium": "Bronze",
+ "Dimensions": "H. 11 1/2 in. (29.2 cm); W. 7 3/4 in. (19.7 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Ernest Erickson Foundation, 1985",
+ "Accession Number": "1985.214.23",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Axes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 2000–1000 B.C.",
+  "Central and North Asia, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60032644,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP167764.jpg",
+ "related-artworks": [
+  60011932,
+  60020064,
+  60020063,
+  60032603,
+  60020062
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60032644"
+  }
+ }
+}

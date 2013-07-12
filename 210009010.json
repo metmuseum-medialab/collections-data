@@ -1,0 +1,38 @@
+{
+ "Date": "1951",
+ "Medium": "Oil and sand on canvas",
+ "Dimensions": [
+  "H. 40-1/8, W. 25 inches",
+  "(101.9 x 63.5 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Anonymous Gift, in memory of Robert Glenn Price, 1954",
+ "Accession Number": "54.184.3",
+ "Rights and Reproduction": "© Joseph Glasco",
+ "Who": "Joseph Glasco",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009010,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/SF54.184.3.jpg",
+ "related-artworks": [
+  210008930,
+  210009011,
+  210000746
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009010"
+  }
+ }
+}

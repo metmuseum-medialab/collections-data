@@ -1,0 +1,41 @@
+{
+ "Date": "late 13th–early 14th century",
+ "Geography": "Made in Pyrénées-Aquintaine, France",
+ "Culture": "French",
+ "Medium": "Marble",
+ "Dimensions": "Overall 18 1/2 x 8 1/4 x 10 1/2 in. (47 x 21 x 26.7 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Cloisters Collection, 1925",
+ "Accession Number": "25.120.785",
+ "What": [
+  "Sculpture",
+  "Marble"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Burgundy"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011474,
+ "gallery-id": 11,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/DP102892.jpg",
+ "related-artworks": [
+  70011132,
+  70011159,
+  70011137,
+  70011144,
+  70011145
+ ],
+ "Provenance": [
+  "From the Cistercian abbey at Bonnefont-en-Comminges and other nearby monasteries.George Grey Barnard American, Bellefonte, Pennsylvania 1863–1938 New York , New York (until 1925)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011474"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "19th century",
+ "Geography": "Bergen, Norway",
+ "Medium": "Wood, metal",
+ "Dimensions": "L. 90.9 cm., W. 9.0 cm., Sounding length of string 72.3 cm.",
+ "Classification": "Chordophone-Zither",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.981 a, b",
+ "Who": "W. Harloff",
+ "What": [
+  "Metal",
+  "Musical instruments",
+  "Chordophones",
+  "Zithers"
+ ],
+ "Where": [
+  "Europe",
+  "Norway",
+  "Bergen"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+ "id": 180013338,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS272A.jpg",
+ "related-artworks": [
+  180013346,
+  180014214,
+  180016599,
+  180013319,
+  180014162
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180013338"
+  }
+ }
+}

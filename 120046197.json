@@ -1,0 +1,40 @@
+{
+ "Date": "1840",
+ "Culture": "German",
+ "Medium": "Silk on wool canvas",
+ "Dimensions": "H. 31 1/4 x W. 11 7/8 inches (79.4 x 30.2 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "From the Collection of Mrs. Lathrop Colgate Harper, Bequest of Mabel Herbert Harper, 1957",
+ "Accession Number": "57.122.579",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Wool",
+  "Embroidery",
+  "Canvas",
+  "Samplers"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120046197,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/164719.jpg",
+ "related-artworks": [
+  120046124,
+  120046127,
+  120046221,
+  120045628,
+  120045662
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046197"
+  }
+ }
+}

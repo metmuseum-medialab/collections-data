@@ -1,0 +1,38 @@
+{
+ "Designer": "Yves Saint Laurent (French (born Algeria) Oran 1936–2008 Paris)",
+ "Date": "ca. 1985",
+ "Culture": "French",
+ "Medium": "Silk, leather, wool",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Yves Saint Laurent, 1987",
+ "Accession Number": "2009.300.8274a–c",
+ "Who": [
+  "Yves Saint Laurent",
+  "Yves Saint Laurent, Paris"
+ ],
+ "What": [
+  "Silk",
+  "Wool",
+  "Leather",
+  "Ensembles"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80116543,
+ "related-artworks": [
+  80005363,
+  80023624,
+  80023776,
+  80064373,
+  80065267
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80116543"
+  }
+ }
+}

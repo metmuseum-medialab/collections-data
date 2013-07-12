@@ -1,0 +1,43 @@
+{
+ "Period": "Bronze and Iron Age period",
+ "Date": "500 B.C.–A.D. 300",
+ "Culture": "Vietnam (North, Dong Song Culture)",
+ "Medium": "Bronze",
+ "Dimensions": "H. 4 3/4 in. (12.1 cm); W. 6 1/4 in. (15.9 cm); D. 3/4 in. (1.9 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Samuel Eilenberg Collection, Bequest of Samuel Eilenberg, 1998",
+ "Accession Number": "2001.433.326",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Arms",
+  "Edged weapons",
+  "Axes"
+ ],
+ "Where": [
+  "Asia",
+  "Vietnam"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1000 B.C.–1 A.D.",
+  "Southeast Asia, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60030288,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2001_433_326_O1.jpg",
+ "related-artworks": [
+  60004696,
+  60022840,
+  60022839,
+  60022841,
+  60022842
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030288"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "Parthian",
+ "Date": "ca. 2nd–3rd century A.D.",
+ "Geography": "Iran, Shahr-i Qumis (ancient Hecatompylos)",
+ "Culture": "Parthian",
+ "Medium": "Ceramic",
+ "Dimensions": "2.64 in. (6.71 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase, H. Dunscombe Colt Gift, 1969",
+ "Accession Number": "69.24.28",
+ "Who": "Parthian",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Bowls"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30004652,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME69_24_28.jpg",
+ "related-artworks": [
+  30004651,
+  30001634,
+  30001884,
+  30001886,
+  30001885
+ ],
+ "Provenance": [
+  "1967, excavated by David Stronach and John Hansman, representing the British Institute of Persian Studies and the Oriental Institute of the University of Chicago",
+  "acquired by the Museum in 1969, as a result of its financial contribution to the excavations."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30004652"
+  }
+ }
+}

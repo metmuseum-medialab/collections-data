@@ -1,0 +1,55 @@
+{
+ "Period": "Mid-Imperial",
+ "Date": "ca. A.D. 100-225",
+ "Culture": "Roman",
+ "Medium": "Terracotta; alkaline-glazed ware",
+ "Dimensions": "H. 15 1/4 in. (38.8 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Gift of John D. Rockefeller Jr., 1938",
+ "Accession Number": "38.84.5",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Amphorae"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130014066,
+ "related-artworks": [
+  "http://scrapi.org/object/130000406",
+  "http://scrapi.org/object/130000409",
+  "http://scrapi.org/object/130000410",
+  "http://scrapi.org/object/130009541",
+  "http://scrapi.org/object/130009705"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130000406"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130000409"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130000410"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130009541"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/130009705"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130014066"
+  }
+ }
+}

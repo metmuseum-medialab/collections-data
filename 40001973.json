@@ -1,0 +1,34 @@
+{
+ "Date": "19th century",
+ "Culture": "Japanese",
+ "Medium": "Wood and pigments",
+ "Dimensions": "H. 4-1/2 in. (11.4 cm), W. 5 in. (12.7 cm)",
+ "Classification": "Archery Equipment",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.2584a, b",
+ "What": [
+  "Arms",
+  "Archery",
+  "Bows",
+  "Arrows"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 40001973,
+ "related-artworks": [
+  40001962,
+  40002198,
+  40000304,
+  40002192,
+  40002193
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40001973"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Date": "1613–78",
+ "Medium": "Red chalk (recto and verso)",
+ "Dimensions": "10- 7/8 x 7- 11/16 in.  (27.7 x 19.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1967",
+ "Accession Number": "67.95.2",
+ "Who": "Giulio Carpioni",
+ "What": [
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90005463,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP808251.jpg",
+ "related-artworks": [
+  90005465,
+  90005464,
+  90010669,
+  90018678,
+  90032403
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005463"
+  }
+ }
+}

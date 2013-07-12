@@ -1,0 +1,38 @@
+{
+ "Publisher": "Published by Pierre Guillaume Simon (French)",
+ "Date": "1766",
+ "Medium": "Woodcut",
+ "Dimensions": "7 15/16 x 5 7/16 x 1 3/16 in. (20.1 x 13.8 x 3 cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1921",
+ "Accession Number": "21.66",
+ "Who": [
+  "Jean Michel Papillon",
+  "Pierre Guillaume Simon"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90003360,
+ "related-artworks": [
+  90068501,
+  90012396,
+  90051579
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90003360"
+  }
+ }
+}

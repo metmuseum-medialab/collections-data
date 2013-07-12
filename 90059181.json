@@ -1,0 +1,46 @@
+{
+ "Medium": "Etching, second state",
+ "Dimensions": "plate 7 3/16 x 9 1/2 in. (18.3 x 24.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1955",
+ "Accession Number": "55.539.19",
+ "Who": "François Boucher",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Croome Court Tapestry Room, Worcestershire",
+  "European Tapestry Production and Patronage, 1600–1800",
+  "Jean–Honoré Fragonard (1732–1806)",
+  "From Italy to France Gardens in the Court of Louis XIV and After",
+  "François Boucher (1703–1770)",
+  "Jean Antoine Watteau (1684–1721)",
+  "Interior Design in England, 1600–1800",
+  "France, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90059181,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/55.539.19.jpg",
+ "related-artworks": [
+  90003945,
+  90005638,
+  90013885,
+  90013889,
+  90013890
+ ],
+ "Provenance": [
+  "Vendor: Mrs. Charles Slatkin"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90059181"
+  }
+ }
+}

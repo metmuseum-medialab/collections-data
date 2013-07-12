@@ -1,0 +1,45 @@
+{
+ "Date": "1785–90",
+ "Geography": "China",
+ "Culture": "Chinese, for American market",
+ "Medium": "Porcelain",
+ "Dimensions": "8 1/2 x 11 1/2 in. (21.6 x 29.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of James T. Woodward, 1910",
+ "Accession Number": "10.149.222a, b",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Tureens",
+  "Soup tureens"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "id": 10002536,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP258509.jpg",
+ "related-artworks": [
+  10007973,
+  10002535,
+  10002511,
+  10002512,
+  10009465
+ ],
+ "Provenance": [
+  "James T. Woodword, Woodward, New York, until 1910"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10002536"
+  }
+ }
+}

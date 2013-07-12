@@ -1,0 +1,38 @@
+{
+ "Artist": "Engraved by Pieter Van Sompel (Dutch, ca. 1600–ca. 1650)",
+ "Date": "1644",
+ "Medium": "Engraving and etching; third state of four",
+ "Dimensions": "sheet 17 5/16 x 14 in. (43.9 x 35.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.5104",
+ "Who": [
+  "Pieter Soutman",
+  "Pieter Van Sompel"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 90043868,
+ "related-artworks": [
+  90043860,
+  90043859,
+  90043862,
+  90043864,
+  90043867
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90043868"
+  }
+ }
+}

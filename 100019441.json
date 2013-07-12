@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19",
+ "Reign": "reign of Siptah",
+ "Date": "ca. 1194–1188 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Valley of the Kings, Tomb of Siptah (KV 47), Davis 1912",
+ "Medium": "Egyptian alabaster",
+ "Credit Line": "Gift of Theodore M. Davis, 1914",
+ "Accession Number": "14.6.309",
+ "What": [
+  "Vessels",
+  "Fragments",
+  "Jars",
+  "Gypsum",
+  "Alabaster"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100019441,
+ "related-artworks": [
+  100007904,
+  100012142,
+  100012141,
+  100019417,
+  100019424
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100019441"
+  }
+ }
+}

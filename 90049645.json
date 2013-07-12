@@ -1,0 +1,45 @@
+{
+ "Printer": "Printed by Pennequin",
+ "Date": "1956",
+ "Medium": "Drypoint",
+ "Dimensions": [
+  "plate 10 1/4 x 17 1/2 in. (26 x 44.5 cm)",
+  "sheet 19 3/4 x 26 in. (50.2 x 66 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of William S. Lieberman, 2005",
+ "Accession Number": "2007.49.537",
+ "Who": [
+  "Jean Messagier",
+  "Pennequin"
+ ],
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 90049645,
+ "related-artworks": [
+  90049644,
+  90049640,
+  90049641,
+  90049642,
+  90049643
+ ],
+ "Provenance": [
+  "Donor: William S. Lieberman (American, Paris 1923–2005 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90049645"
+  }
+ }
+}

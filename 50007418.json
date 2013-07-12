@@ -1,0 +1,52 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Geography": "Papua New Guinea, Gulf Province, Omaumere village, Papuan Gulf",
+ "Culture": "Urama people",
+ "Medium": "Wood, paint",
+ "Dimensions": "H x W 42 x 13 1/4in. (106.7 x 33.7cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Gift of Evelyn A. J. Hall and John A. Friede, 1983",
+ "Accession Number": "1983.604.10",
+ "What": "Sculpture",
+ "Where": [
+  "Oceania",
+  "Papua New Guinea"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Melanesia, 1800–1900 A.D.",
+  "Melanesia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50007418,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/hz1983_604_10.jpg",
+ "Provenance": [
+  "Thomas Schultze-Westrum, Munich, Germany, until 1980",
+  "Evelyn A. J. Hall, New York, 1980–1983"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50002508"
+   },
+   {
+    "href": "http://scrapi.org/object/50002578"
+   },
+   {
+    "href": "http://scrapi.org/object/50002579"
+   },
+   {
+    "href": "http://scrapi.org/object/50002650"
+   },
+   {
+    "href": "http://scrapi.org/object/50002738"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50007418"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50007418"
+  }
+ }
+}

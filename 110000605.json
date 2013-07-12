@@ -1,0 +1,69 @@
+{
+ "Date": "ca. 1879",
+ "Medium": "Charcoal and white chalk on green commercially coated wove paper",
+ "Dimensions": "25 1/8 x 19 1/4 in. (63.8 x 48.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.189",
+ "Who": "Edgar Degas",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Chalk",
+  "Charcoal"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "Édouard Manet (1832–1883)",
+  "Japonisme",
+  "Lithography in the Nineteenth Century",
+  "The Lure of Montmartre, 1880–1900",
+  "The Salon and The Royal Academy",
+  "Claude Monet (1840–1926)",
+  "Edgar Degas (1834–1917) Painting and Drawing",
+  "American Impressionism",
+  "Impressionism Art and Modernity",
+  "Mary Stevenson Cassatt (1844–1926)",
+  "The Print in the Nineteenth Century",
+  "Edgar Degas (1834–1917) Bronze Sculpture",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110000605,
+ "gallery-id": 816,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT253888.jpg",
+ "related-artworks": [
+  90000046,
+  90000047,
+  90000470,
+  90000043,
+  90003798
+ ],
+ "Provenance": [
+  "?[Durand-Ruel, Paris, 1882",
+  "stock no. 2184 as \"Danseuses\"",
+  "bought from the artist on January 26, 1882, for Fr 500",
+  "sold on August 31, 1882, for Fr 800 to Deschamps]",
+  "?Charles W. Deschamps, London (1882–90",
+  "sold on June 30, 1890, for Fr 800 to Durand-Ruel)",
+  "?[Durand-Ruel, Paris, 1890–93",
+  "stock no. 567",
+  "sent on November 29, 1893 to Durand-Ruel, New York]",
+  "?[Durand-Ruel, New York, 1893–94",
+  "stock no. 1105",
+  "sold on January 16, 1894 to Havemeyer]",
+  "?Mr. and Mrs. H. O. Havemeyer, New York (1894–his d. 1907)",
+  "Mrs. H. O. (Louisine W.) Havemeyer, New York (?1907, definitely by 1922–d. 1929",
+  "cat., 1931, p. 185, ill. p. 187)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110000605"
+  }
+ }
+}

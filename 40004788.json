@@ -1,0 +1,33 @@
+{
+ "Date": "13th century",
+ "Culture": "Syrian",
+ "Medium": "Glass",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Gift of Clarence H. Mackay, Archer M. Huntington, Stephen H. P. Pell and Bashford Dean, 1928",
+ "Accession Number": "28.99.69a, b",
+ "What": [
+  "Glass",
+  "Flasks"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40004788,
+ "related-artworks": [
+  40004789,
+  40004785,
+  40004781,
+  40004783,
+  40004786
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40004788"
+  }
+ }
+}

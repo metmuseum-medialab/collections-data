@@ -1,0 +1,42 @@
+{
+ "Period": "Chalcolithic",
+ "Date": "ca. 4600–3600 B.C.",
+ "Geography": "Levant, Teleilat Ghassul",
+ "Culture": "Ghassulian",
+ "Medium": "Stone",
+ "Dimensions": "1.18 x 1.38 x 2.17 in. (3 x 3.51 x 5.51 cm)",
+ "Classification": "Stone",
+ "Credit Line": "Purchase, H. Dunscombe Colt Gift, 1978",
+ "Accession Number": "1978.495.55",
+ "Who": "Ghassulian",
+ "What": [
+  "Stone",
+  "Scrapers"
+ ],
+ "Where": [
+  "Asia",
+  "Levant"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30005250,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME1978_495_55.jpg",
+ "related-artworks": [
+  30005199,
+  30005200,
+  30005201,
+  30005202,
+  30005249
+ ],
+ "Provenance": [
+  "1967, excavated under the direction of Professor J. Basil Hennessy, on behalf of the British School of Archaeology in Jerusalem",
+  "acquired by the Museum in 1978, as a result of its financial contribution to the excavations."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30005250"
+  }
+ }
+}

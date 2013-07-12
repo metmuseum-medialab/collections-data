@@ -1,0 +1,34 @@
+{
+ "Manufacturer": "Wiener Werkstätte",
+ "Date": "ca. 1920",
+ "Medium": "Watercolor on paper",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Joanne F. du Pont  and John F. Pleasants, in memory of Enos Rogers Pleasants, III, 1984",
+ "Accession Number": "1984.537.21a-c",
+ "Who": [
+  "Designer Unknown",
+  "Wiener Werkstätte"
+ ],
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 210003884,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP8720.jpg",
+ "related-artworks": [
+  210003882,
+  210003885,
+  210003887,
+  210003889,
+  210003890
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003884"
+  }
+ }
+}

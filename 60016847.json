@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Clay covered with white slip under a thin glaze and touches of enamel (Kyoto ware, Bizen type)",
+ "Dimensions": "H. 8 3/8 in. (21.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Samuel Colman, 1893",
+ "Accession Number": "93.1.134",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Glaze",
+  "Figures",
+  "Enamels",
+  "Slip",
+  "Kyoto",
+  "Bizen"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60016847,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/15963.jpg",
+ "related-artworks": [
+  60033966,
+  60034006,
+  60034123,
+  60018235,
+  60034007
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60016847"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "1769",
+ "Medium": "Pen and brown ink, brush and brown gouache (braun laviert)",
+ "Dimensions": "7 11/16 x 11 7/16 in. (19.5 x 29 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Van Day Truex Fund, 2006",
+ "Accession Number": "2006.491",
+ "Who": "Johann Georg Wille",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90047333,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804176.jpg",
+ "related-artworks": [
+  90006956,
+  90056043,
+  90010613,
+  90005168,
+  90040731
+ ],
+ "Provenance": [
+  "Galerie Bassenge (Berlin), December 1, 2005, lot 5662",
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90047333"
+  }
+ }
+}

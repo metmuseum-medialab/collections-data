@@ -1,0 +1,40 @@
+{
+ "Period": "Early Imperial",
+ "Date": "1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Ivory",
+ "Dimensions": [
+  "H. 2 in. (5.1 cm)",
+  "Diam. 1 9/16 in. (4 cm)"
+ ],
+ "Classification": "Miscellaneous",
+ "Credit Line": "Rogers Fund, 1923",
+ "Accession Number": "23.160.61a, b",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Pyxides"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011891,
+ "gallery-id": 166,
+ "related-artworks": [
+  130017971,
+  130018284,
+  130004547,
+  130004548,
+  130004556
+ ],
+ "Description": "The box is decorated with playful cupids, and the lid with a portrait bust of a woman.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011891"
+  }
+ }
+}

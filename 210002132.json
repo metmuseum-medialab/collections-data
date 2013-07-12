@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1930",
+ "Medium": "Glass",
+ "Dimensions": [
+  "D. 6-5/16 inches",
+  "(16 cm.)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mr. and Mrs. Niles M. Davies, Jr., 1979",
+ "Accession Number": "1979.193.1",
+ "Who": "Maurice Heaton",
+ "What": [
+  "Glass",
+  "Dishes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210002132,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/ADA5003.jpg",
+ "related-artworks": [
+  210002135,
+  210002136,
+  210002133,
+  210002134,
+  210002151
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210002132"
+  }
+ }
+}

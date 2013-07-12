@@ -1,0 +1,56 @@
+{
+ "Date": "1800–1939",
+ "Culture": "Spanish",
+ "Medium": "silver",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Miss Marion Hague, 1939",
+ "Accession Number": "C.I.39.109.5",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Hairpins"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1800–1900 A.D.",
+  "Great Britain and Ireland, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80012880,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI39.109.5.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80012876",
+  "http://scrapi.org/object/80012878",
+  "http://scrapi.org/object/80012879",
+  "http://scrapi.org/object/80012877",
+  "http://scrapi.org/object/80012859"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80012876"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80012878"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80012879"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80012877"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80012859"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80012880"
+  }
+ }
+}

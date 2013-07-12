@@ -1,0 +1,42 @@
+{
+ "Date": "19th century",
+ "Geography": "Mexico",
+ "Medium": "clay",
+ "Dimensions": "L. 269 mm.; W. 74 mm.; D. 70 mm.; Wt. 301 g.",
+ "Classification": "Aerophone-Whistle Flute",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.654",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Musical instruments",
+  "Aerophones",
+  "Flutes",
+  "Duct flutes",
+  "Whistles"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America Native Peoples, 1800–1900 A.D.",
+  "Mexico and Central America, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 180013016,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS800A11.jpg",
+ "related-artworks": [
+  180013012,
+  180013018,
+  180013003,
+  180013019,
+  180013608
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180013016"
+  }
+ }
+}

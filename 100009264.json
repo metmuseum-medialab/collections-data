@@ -1,0 +1,40 @@
+{
+ "Period": "Roman Period",
+ "Date": "13 B.C.",
+ "Geography": "Country of Origin Egypt, Alexandria Region, Alexandria",
+ "Medium": "Bronze",
+ "Dimensions": "H. 37 × w. 64.5 × d. 54.6 cm (14 9/16 × 25 3/8 × 21 1/2 in.)",
+ "Credit Line": "Gift of Henry H. Gorringe, 1881",
+ "Accession Number": "81.2.2",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Guglias"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Alexandria"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100009264,
+ "gallery-id": 131,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/81.2.2_EGDP014597.jpg",
+ "related-artworks": [
+  100009263,
+  100002599,
+  100008671,
+  100008672,
+  100009159
+ ],
+ "Description": "The two bronze crabs 81.2.1 and 81.2.2) are from a set of four originally used in Roman times as supports for the broken corners of the obelisk that now stands in Central Park. Thutmose III erected the obelisk about 1443 B.C. in Heliopolis, now part of modern Cairo. It was re-inscribed by Ramesses II and later moved to Alexandria by the Romans, who inserted the crabs when they re-erected it.The Roman crabs were replaced with newly cast substitutes in 1881 when the obelisk was moved to New York and placed in Central Park behind The Metropolitan Museum of Art. The originals were given to the Museum by Lieutenant Commander Henry H. Gorringe, who brought the obelisk to New York; the obelisk itself was a gift from Egypt to the City of New York.The claw of 81.2.1 has an inscription in Latin on the inside and one in Greek on the outside. Both state that the Roman prefect Barbarus and the architect Pontius re-erected the obelisk in Alexandria during the eighteenth year of an emperor, probably Augustus, who also built the Temple of Dendur.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100009264"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1830",
+ "Culture": "British",
+ "Medium": "Cotton",
+ "Dimensions": [
+  "L. 33 1/4 x W. 25 1/4 inches",
+  "84.5 x 64.1 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.161",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044028,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SC30221.jpg",
+ "related-artworks": [
+  120018389,
+  120034254,
+  120036545,
+  120036792,
+  120036799
+ ],
+ "Provenance": [
+  "Mrs. Mary E. Minahan , 1938",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044028"
+  }
+ }
+}

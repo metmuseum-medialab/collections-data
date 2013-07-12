@@ -1,0 +1,49 @@
+{
+ "Date": "1774/75",
+ "Culture": "British, London",
+ "Medium": "Silver",
+ "Dimensions": "Overall (confirmed) 11 7/16 x 6 1/8 x 6 1/8 in., 36.438oz. (29.1 x 15.6 x 15.6 cm, 1033g)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mrs. Charles Wrightsman, 2012",
+ "Accession Number": "2012.205.10a, b",
+ "Who": "Andrew Fogelberg",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Lighting devices",
+  "Candleholders",
+  "Candlesticks"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 120059709,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF2012_205_9-14_img1.jpg",
+ "related-artworks": [
+  120059407,
+  120059708,
+  120059412,
+  120059797
+ ],
+ "Provenance": [
+  "probably made for James Dutton, 1st Baron Sherborne",
+  "Trustees of The Sherborne Heirlooms (until 1987)",
+  "[ sale, Christie's, London , March 17, 1987, lots 390 and 391 ]",
+  "[ S. J. Phillips (until 1993",
+  "sold to Wrightsman) ]",
+  "Jayne Wrightsman (1993–2012",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120059709"
+  }
+ }
+}

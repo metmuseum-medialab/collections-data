@@ -1,0 +1,43 @@
+{
+ "Date": "1590",
+ "Culture": "Italian",
+ "Medium": "Linen",
+ "Dimensions": "L. 204 x W. 78 inches (518.2 x 198.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Helena Woolworth McCann Collection, Purchase, Winfield Foundation Gift, by exchange, 1975",
+ "Accession Number": "1975.151",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Linen",
+  "Table coverings",
+  "Tablecloths"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120047171,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/205669.jpg",
+ "related-artworks": [
+  120048535,
+  120031128,
+  120045592,
+  120045593,
+  120037379
+ ],
+ "Provenance": [
+  "Helena Woolworth McCann",
+  "[ Ginsburg FGA , 1975",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120047171"
+  }
+ }
+}

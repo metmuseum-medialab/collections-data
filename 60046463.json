@@ -1,0 +1,46 @@
+{
+ "Period": "Northern Song dynasty (960–1127)",
+ "Date": "before 1056",
+ "Culture": "China",
+ "Medium": "Album leaf; ink and color on silk",
+ "Dimensions": "Image 15 3/4 x 12 5/8 in. (40 x 32.1 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Rogers Fund, 1917",
+ "Accession Number": "17.170.1",
+ "Who": "Unidentified Artist",
+ "What": [
+  "Silk",
+  "Ink",
+  "Books",
+  "Paintings",
+  "Albums"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Northern Song Dynasty (960–1127)",
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D.",
+  "China, 1000–1400 A.D.",
+  "Central and North Asia, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60046463,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP275671.jpg",
+ "related-artworks": [
+  60000056,
+  60000061,
+  60000062,
+  60000110,
+  60000123
+ ],
+ "Description": "This portrait is one of a set that commemorates a gathering of five retired gentlemen at Suiyang, Henan Province. The sensitive delineation of features in contrast to the thick shaded brush lines of the garments reflects the Tang-dynasty conventions of official portraiture and a conservatism appropriate to the subject. Equally formal is the inscription written in regular script—a style also used for stelae and official documents.Two portraits from this set of five are at the Freer Gallery, Washington, D.C., and two are in the collection of the Yale University Art Gallery, New Haven, Connecticut.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60046463"
+  }
+ }
+}

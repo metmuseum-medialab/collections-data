@@ -1,0 +1,34 @@
+{
+ "Date": "1850s",
+ "Medium": "Daguerreotype",
+ "Dimensions": "7.1 x 5.9 cm. (2  13/16  x 2  5/16  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Juliet Thompson, 1946",
+ "Accession Number": "46.63.17",
+ "Who": "M. Moses Gallery",
+ "What": [
+  "Photographs",
+  "Daguerreotypes"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190020917,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/M.Moses_46.63.17_recto.jpg",
+ "related-artworks": [
+  190020920,
+  190037304,
+  190037336,
+  190013505,
+  190017499
+ ],
+ "Provenance": [
+  "[...]",
+  "Juliet Thompson, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190020917"
+  }
+ }
+}

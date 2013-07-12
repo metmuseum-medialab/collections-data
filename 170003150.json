@@ -1,0 +1,44 @@
+{
+ "Date": "12th–13th century",
+ "Culture": "German",
+ "Medium": "Silk, linen",
+ "Dimensions": [
+  "Overall 6 3/4 x 1 1/2 in. (17.2 x 3.8 cm)",
+  "Storage (Mat) 8 1/2 × 13 in. (21.6 × 33 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.990",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Linen",
+  "Brocade"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170003150,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf09-50-990s2.jpg",
+ "related-artworks": [
+  170003129,
+  170003448,
+  170003132,
+  170003151,
+  170005851
+ ],
+ "Provenance": [
+  "Friedrich Fischbach, Wiesbaden, Germany (sold 1909)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170003150"
+  }
+ }
+}

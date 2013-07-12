@@ -1,0 +1,48 @@
+{
+ "Date": "1965",
+ "Medium": "Gelatin silver print",
+ "Dimensions": [
+  "Image 18.8 x 18.2 cm (7 3/8 x 7 3/16 in.)",
+  "Sheet 35.6 x 27.9 cm (14 x 11 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Purchase, Ann Tenenbaum and Thomas H. Lee Gift, 2005",
+ "Accession Number": "2005.100.335",
+ "Rights and Reproduction": "© 1980 The Estate of Diane Arbus, LLC",
+ "Who": "Diane Arbus",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Early Documentary Photography",
+  "Walker Evans (1903–1975)",
+  "The New Documentary Tradition in Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190039987,
+ "related-artworks": [
+  190060626,
+  190012864,
+  190015070,
+  190016870,
+  190017459
+ ],
+ "Provenance": [
+  "Estate of Diane Arbus",
+  "[Robert Miller Gallery]",
+  "Gilman Paper Company Collection, New York, November 8, 1980"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190039987"
+  }
+ }
+}

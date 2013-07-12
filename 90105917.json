@@ -1,0 +1,45 @@
+{
+ "Printer": "Pace Prints",
+ "Date": "2008",
+ "Medium": "Etching, woodcut and collage",
+ "Dimensions": "Sheet 41 × 41 in. (104.1 × 104.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Stewart S. MacDermott Fund, 2013",
+ "Accession Number": "2013.160",
+ "Who": [
+  "Pace Prints",
+  "Nicola López"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Relief prints",
+  "Woodblock prints",
+  "Collages"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90105917,
+ "gallery-id": 690,
+ "related-artworks": [
+  90028156,
+  90012286,
+  90006818,
+  90004266,
+  90038500
+ ],
+ "Provenance": [
+  "Vendor: Pace Prints"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90105917"
+  }
+ }
+}

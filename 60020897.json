@@ -1,0 +1,46 @@
+{
+ "Period": "Momoyama period (1573–1615)",
+ "Date": "early 17th century",
+ "Culture": "Japan",
+ "Medium": "Stoneware with underglaze iron and copper-green glaze (Mino ware, Oribe Yaschichida type)",
+ "Dimensions": "H. 4 in. (10.2 cm); W. 2 1/2 in. (6.4 cm); D. 2 1/2 in. (6.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+ "Accession Number": "1975.268.442",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Pottery",
+  "Iron and iron alloy",
+  "Copper",
+  "Drinking vessels",
+  "Glaze",
+  "Cups",
+  "Iron",
+  "Stoneware",
+  "Underglazing",
+  "Oribe"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60020897,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP220705.jpg",
+ "related-artworks": [
+  60023174,
+  60020900,
+  60020902,
+  60020901,
+  60020899
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60020897"
+  }
+ }
+}

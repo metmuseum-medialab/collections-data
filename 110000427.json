@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1770–75",
+ "Medium": "Ivory",
+ "Dimensions": "Oval, 2 x 1 5/8 in. (50 x 42 mm)",
+ "Classification": "Miniatures",
+ "Credit Line": "Gift of Charlotte Guilford Muhlhofer, 1962",
+ "Accession Number": "62.49",
+ "Who": "Richard Cosway",
+ "What": [
+  "Paintings",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110000427,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT200582.jpg",
+ "related-artworks": [
+  110000429,
+  90008217,
+  90021246,
+  90050157,
+  90050145
+ ],
+ "Provenance": [
+  "Charlotte Guilford Muhlhofer (until 1962)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110000427"
+  }
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "Date": "14th century",
+ "Classification": "Equestrian Equipment",
+ "Credit Line": "Gift of Stephen V. Grancsay, 1942",
+ "Accession Number": "42.50.481",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40007741,
+ "related-artworks": [
+  40001573,
+  40000000,
+  40000001,
+  40000002,
+  40000003
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40007741"
+  }
+ }
+}

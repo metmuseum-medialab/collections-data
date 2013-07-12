@@ -1,0 +1,34 @@
+{
+ "Date": "1870–89",
+ "Culture": "American",
+ "Medium": "wood",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. William Drown Phelps, 1943",
+ "Accession Number": "C.I.43.29.2",
+ "What": [
+  "Costume",
+  "Parasols"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80056512,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI43.29.2_S.jpg",
+ "related-artworks": [
+  80034688,
+  80034973,
+  80055807,
+  80055846,
+  80056035
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80056512"
+  }
+ }
+}

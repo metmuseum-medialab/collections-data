@@ -1,0 +1,42 @@
+{
+ "Date": "20th century",
+ "Geography": "Cameroon",
+ "Culture": "Cameroon",
+ "Medium": "Cotton",
+ "Dimensions": "Length 74-1/2 in.",
+ "Classification": "Textiles-Woven",
+ "Credit Line": "Gift of John B. Elliott through the Mercer Trust, 2000",
+ "Accession Number": "2000.160.55",
+ "Who": "Cameroonian",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Woven",
+  "Cloth"
+ ],
+ "Where": [
+  "Africa",
+  "Cameroon"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central Africa, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50011337,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/lb2000_160_55.jpg",
+ "related-artworks": [
+  50010623,
+  50010723,
+  50007263,
+  50007264,
+  50007695
+ ],
+ "Provenance": [
+  "John B. Elliott, Princeton, NJ, until (d.) 1997",
+  "the Mercer Trust, 1997–2000"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50011337"
+  }
+ }
+}

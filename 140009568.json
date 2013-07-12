@@ -1,0 +1,49 @@
+{
+ "Object Name": "Carpet",
+ "Date": "19th century",
+ "Geography": "Northwestern Iran, Sanandaj",
+ "Medium": "Cotton (warp), wool (weft); tapestry-woven",
+ "Dimensions": [
+  "Rug L. 64 1/2 in. (163.8 cm)",
+  "W. 48 1/4  in. (122.5 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Joseph V. McMullan, 1970",
+ "Accession Number": "1970.302.8",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Woven",
+  "Wool",
+  "Tapestries",
+  "Rugs",
+  "Carpets"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Kurdistan",
+  "Sanandaj"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran (Persia), 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140009568,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP166864.jpg",
+ "related-artworks": [
+  140004825,
+  140008929,
+  140009312,
+  140009944,
+  140009943
+ ],
+ "Provenance": [
+  "Joseph V. McMullan, New York (by 1965–70)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140009568"
+  }
+ }
+}

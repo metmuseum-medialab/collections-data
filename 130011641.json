@@ -1,0 +1,49 @@
+{
+ "Period": "Middle Minoan I",
+ "Date": "ca. 2200-1900 B.C.",
+ "Culture": "Minoan",
+ "Medium": "Terracotta; Dark monochrome fine ware",
+ "Dimensions": "Overall 1 11/16 x 3 5/8in. (4.3 x 9.2cm)",
+ "Classification": "Vases",
+ "Credit Line": "Gift of George M. Whicher, 1921",
+ "Accession Number": "21.100.2",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades",
+  "Minoa"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southern Europe, 2000–1000 B.C.",
+  "Southern Europe, 8000–2000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130011641,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP121398.jpg",
+ "related-artworks": [
+  130008220,
+  130008233,
+  130008243,
+  130008246,
+  130008249
+ ],
+ "Description": "From Knossos, Crete",
+ "Provenance": [
+  "From Knossos, Crete"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011641"
+  }
+ }
+}

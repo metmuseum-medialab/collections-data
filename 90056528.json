@@ -1,0 +1,53 @@
+{
+ "Artist": "After Gerard van Zijl (Dutch, Haarlem ca. 1607–1655 Amsterdam)",
+ "Date": "17th century",
+ "Medium": "Mezzotint",
+ "Dimensions": "13 1/8 x 15 1/2 in. (33.3 x 39.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.1820",
+ "Who": [
+  "Wallerant Vaillant",
+  "Gerard van Zijl"
+ ],
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Mezzotints"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90056528,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90028190"
+   },
+   {
+    "href": "http://scrapi.org/object/90028335"
+   },
+   {
+    "href": "http://scrapi.org/object/90055221"
+   },
+   {
+    "href": "http://scrapi.org/object/90056529"
+   },
+   {
+    "href": "http://scrapi.org/object/90056539"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90056528"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90056528"
+  }
+ }
+}

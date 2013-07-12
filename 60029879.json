@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Lacquer, roiro, white lacquer, gold and coloured hiramakie; Interior nashiji and fundame",
+ "Dimensions": "3 1/4 x 1 5/8 x 13/16 in. (8.3 x 4.1 x 2.1 cm)",
+ "Classification": "Inrō",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.751",
+ "Who": "Kano Terunobu",
+ "What": [
+  "Metal",
+  "Gold",
+  "Lacquer",
+  "Inro",
+  "Sagemono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60029879,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/29_100_751_O3.JPG",
+ "related-artworks": [
+  60025055,
+  60025378,
+  60029583,
+  60029679,
+  60029715
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029879"
+  }
+ }
+}

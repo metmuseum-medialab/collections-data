@@ -1,0 +1,38 @@
+{
+ "Date": "late 19th century",
+ "Culture": "Hungarian-Slovak",
+ "Medium": "Linen and silk, bobbin lace",
+ "Dimensions": "L. 12 x W. 10 inches (30.5 x 25.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2440",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Lace",
+  "Bobbin lace",
+  "Cuffs"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "id": 120034776,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP2964.jpg",
+ "related-artworks": [
+  120030897,
+  120030898,
+  120030902,
+  120034772,
+  120034774
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120034776"
+  }
+ }
+}

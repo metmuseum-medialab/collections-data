@@ -1,0 +1,41 @@
+{
+ "Date": "1960s",
+ "Culture": "Colombian",
+ "Medium": "cotton, wool",
+ "Dimensions": [
+  "Length (b) 21 1/2 in. (54.6 cm)",
+  "Length (c) 32 in. (81.3 cm)",
+  "Length (d) 85 in. (215.9 cm)",
+  "Diameter (e) 15 in. (38.1 cm)",
+  "Length (f, g) 18 in. (45.7 cm)",
+  "Heel to Toe (h, i) 10 1/2 in. (26.7 cm)"
+ ],
+ "Credit Line": "Gift of Colombian Government Tourist Office, 1974",
+ "Accession Number": "1974.131a–i",
+ "What": [
+  "Cotton",
+  "Wool",
+  "Ensembles"
+ ],
+ "Where": [
+  "South America",
+  "Colombia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "South America, 1900 A.D.–present",
+ "id": 80012425,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1974.131a.jpg",
+ "related-artworks": [
+  80010843,
+  80010864,
+  80010929,
+  80007631,
+  80012261
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80012425"
+  }
+ }
+}

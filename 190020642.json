@@ -1,0 +1,36 @@
+{
+ "Date": "1924",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 1943",
+ "Accession Number": "43.22.2",
+ "Who": "Alice Boughton",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190020642,
+ "related-artworks": [
+  190013790,
+  190019468,
+  190019469,
+  190019471,
+  190020641
+ ],
+ "Provenance": [
+  "Alice Boughton"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190020642"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Publisher": "Published London by John Bowles (British, 1701?–1779)",
+ "Date": "1760",
+ "Medium": "Engraving; first state",
+ "Dimensions": [
+  "plate 14 9/16 x 21 1/8 in. (37 x 53.7 cm)",
+  "sheet 16 5/8 x 23 1/4 in. (42.3 x 59.1 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1939",
+ "Accession Number": "39.4.10",
+ "Who": [
+  "William Woollett",
+  "John Bowles",
+  "Thomas Bowles II",
+  "John Tinney"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90065665,
+ "related-artworks": [
+  90065660,
+  90065661,
+  90065671,
+  90065668,
+  90015100
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90065665"
+  }
+ }
+}

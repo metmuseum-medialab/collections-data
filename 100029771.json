@@ -1,0 +1,54 @@
+{
+ "Period": "Neolithic Period",
+ "Date": "ca. 7000–3900 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Stone",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.1237",
+ "What": [
+  "Stone",
+  "Arrowheads"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "id": 100029771,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs10.130.1237a.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/100002374",
+  "http://scrapi.org/object/100029468",
+  "http://scrapi.org/object/100029466",
+  "http://scrapi.org/object/100029769",
+  "http://scrapi.org/object/100029772"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100002374"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100029468"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100029466"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100029769"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100029772"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100029771"
+  }
+ }
+}

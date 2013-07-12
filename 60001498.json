@@ -1,0 +1,40 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "1887",
+ "Culture": "Japan",
+ "Medium": "Triptych of polychrome woodblock prints; ink and color on paper",
+ "Dimensions": "14 1/8 x 28 1/2 in. (35.9 x 72.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Lincoln Kirstein, 1959",
+ "Accession Number": "JP3244",
+ "Who": "Inoue Yasuji",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Triptychs"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60001498,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP147643.jpg",
+ "related-artworks": [
+  60026403,
+  60026559,
+  60026638
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60001498"
+  }
+ }
+}

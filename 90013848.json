@@ -1,0 +1,38 @@
+{
+ "Printer": "Printed by P. Aubouin, P. Emery et C. Clousier",
+ "Date": "[after 1664]",
+ "Medium": "Printed book with engraved illustrations",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.633.27(a)",
+ "Who": [
+  "Abraham Bosse",
+  "P. Aubouin, P. Emery et C. Clousier"
+ ],
+ "What": [
+  "Engraving",
+  "Books",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90013848,
+ "related-artworks": [
+  90013842,
+  90013847,
+  90051629,
+  90013844,
+  90012785
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90013848"
+  }
+ }
+}

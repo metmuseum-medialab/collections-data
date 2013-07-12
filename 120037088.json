@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1650",
+ "Culture": "British",
+ "Medium": "Silk on linen",
+ "Dimensions": "H. 8 5/8 x W. 7 3/4 inches (21.9 x 19.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.225.3",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Samplers"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120037088,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/14643.jpg",
+ "related-artworks": [
+  120044221,
+  120037086,
+  120037089,
+  120037094,
+  120037183
+ ],
+ "Provenance": [
+  "[ Mr. E. B. Powers , 1912",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120037088"
+  }
+ }
+}

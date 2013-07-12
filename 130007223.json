@@ -1,0 +1,35 @@
+{
+ "Period": "Hellenistic",
+ "Date": "3rd century B.C.",
+ "Culture": "Greek, South Italian ?",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 2 1/2 in. (6.4 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "Gift of F. W. Rhinelander, 1898",
+ "Accession Number": "98.8.38",
+ "What": [
+  "Clay",
+  "Terracotta"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130007223,
+ "related-artworks": [
+  130000415,
+  130000408,
+  130000411,
+  130000420,
+  130000443
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130007223"
+  }
+ }
+}

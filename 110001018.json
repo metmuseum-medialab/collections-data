@@ -1,0 +1,62 @@
+{
+ "Date": "1608–14",
+ "Medium": "Oil on canvas (top truncated)",
+ "Dimensions": "87 1/2 x 76in. (222.3 x 193cm); with added strips 88 1/2 x 78 1/2 in. (224.8 x 199.4 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Rogers Fund, 1956",
+ "Accession Number": "56.48",
+ "Who": "El Greco (Domenikos Theotokopoulos)",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "El Greco (Domenikos Theotokopoulos) (1541–1614)",
+  "Balkan Peninsula, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110001018,
+ "gallery-id": 611,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT1052.jpg",
+ "Provenance": [
+  "J. Nuñez del Prado, Madrid",
+  "Antonio Cánovas del Castillo, Prime Minister of Spain, Madrid, d. 1897",
+  "Dr. Rafael Vázquez de la Plaza, Córdoba (by 1890–1905; sold for 1,000 pesetas to Zuloaga)",
+  "Ignacio Zuloaga, Paris and Zumaya, Spain (1905–d. 1945)",
+  "Museo Zuloaga, Zumaya (1945–56; to Newhouse)",
+  "[Newhouse Galleries, New York, 1956",
+  "to MMA]"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/110001015"
+   },
+   {
+    "href": "http://scrapi.org/object/110001012"
+   },
+   {
+    "href": "http://scrapi.org/object/110001013"
+   },
+   {
+    "href": "http://scrapi.org/object/110001017"
+   },
+   {
+    "href": "http://scrapi.org/object/110001016"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/110001018"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/110001018"
+  }
+ }
+}

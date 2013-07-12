@@ -1,0 +1,44 @@
+{
+ "Designer": "Oscar de la Renta (American, born Dominican Republic, 1932)",
+ "Date": "1988",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": [
+  "(a) L. at center back  52 in. (137.1 cm)",
+  "(b) L. at center back  17 in. (43.1 cm)",
+  "(c, d) L.  4½ in. (11.5 cm)"
+ ],
+ "Credit Line": "Gift of Gail S. Davidson, 1996",
+ "Accession Number": "1996.490a–d",
+ "Who": [
+  "Oscar de la Renta",
+  "Oscar de la Renta, Ltd."
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80000443,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1996.490a–d_F.jpg",
+ "related-artworks": [
+  80000160,
+  80000516,
+  80000695,
+  80001033,
+  80001099
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80000443"
+  }
+ }
+}

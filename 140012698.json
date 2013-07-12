@@ -1,0 +1,46 @@
+{
+ "Object Name": "Fragment",
+ "Date": "10th–12th century",
+ "Geography": "Egypt, Fustat",
+ "Medium": "Earthenware; underglaze painted",
+ "Classification": "Ceramics",
+ "Credit Line": "The Grinnell Collection, Bequest of William Milne Grinnell, 1920",
+ "Accession Number": "20.120.196",
+ "What": [
+  "Ceramics",
+  "Fragments",
+  "Pottery",
+  "Earthenware",
+  "Painting",
+  "Underglazing"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Cairo",
+  "Fustat"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1000–1400 A.D.",
+  "Egypt, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140012698,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf20-120-196a.jpg",
+ "related-artworks": [
+  140002326,
+  140002338,
+  140002341,
+  140002342,
+  140004496
+ ],
+ "Provenance": [
+  "William Milne Grinnell, New York (until d. 1920)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140012698"
+  }
+ }
+}

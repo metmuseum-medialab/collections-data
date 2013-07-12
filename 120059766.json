@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Culture": "Japanese",
+ "Medium": "Ivory",
+ "Dimensions": "H. 5 1/2 in.  (14.0 cm)",
+ "Classification": "Chess Sets",
+ "Credit Line": "Gift of Gustavus A. Pfeiffer, 1953",
+ "Accession Number": "53.71.169",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Game pieces",
+  "Board games",
+  "Chess sets",
+  "Chessmen"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120059766,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES1657.jpg",
+ "related-artworks": [
+  120016759,
+  120027495,
+  120014994,
+  120015010,
+  120015027
+ ],
+ "Provenance": [
+  "Alexander Hammond",
+  "Gustavus A. Pfeiffer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120059766"
+  }
+ }
+}

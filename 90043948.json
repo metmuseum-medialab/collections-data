@@ -1,0 +1,49 @@
+{
+ "Artist": "Jonas Suyderhoef (Dutch, ca. 1613–1686)",
+ "Date": "17th century",
+ "Medium": "Etching and engraving",
+ "Dimensions": "sheet 4 3/4 x 6 7/8 in. (12.1 x 17.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.7526",
+ "Who": [
+  "Peter Paul Rubens",
+  "Jonas Suyderhoef"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Peter Paul Rubens (1577–1640) and Anthony van Dyck (1599–1641) Paintings",
+  "Couples in Art",
+  "Peter Paul Rubens (1577–1640) and Anthony van Dyck (1599–1641) Works on Paper",
+  "Anatomy in the Renaissance",
+  "European Tapestry Production and Patronage, 1600–1800",
+  "Annibale Carracci (1560–1609)",
+  "Portraiture in Renaissance and Baroque Europe",
+  "Islamic Carpets in European Paintings",
+  "Velázquez (1599–1660)",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "id": 90043948,
+ "related-artworks": [
+  90038283,
+  90043863,
+  90027880,
+  90043864,
+  90043891
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90043948"
+  }
+ }
+}

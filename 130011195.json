@@ -1,0 +1,41 @@
+{
+ "Period": "Mid-Imperial, Severan",
+ "Date": "early 3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Marble",
+ "Dimensions": "Overall 19 x 15 3/4 x 2 1/2in. (48.3 x 40 x 6.4cm)",
+ "Classification": "Stone Sculpture",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.145.52",
+ "What": [
+  "Sculpture",
+  "Fragments",
+  "Stone",
+  "Marble",
+  "Funerary containers",
+  "Coffins",
+  "Sarcophagi"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011195,
+ "gallery-id": 172,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP276799.jpg",
+ "related-artworks": [
+  130011199,
+  130011200,
+  130011410,
+  130013001,
+  130013002
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011195"
+  }
+ }
+}

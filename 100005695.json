@@ -1,0 +1,45 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "Joint reign of Hatshepsut and Thutmose III",
+ "Date": "ca. 1473–1458 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Temple of Hatshepsut, forecourt, Foundation Deposit 4 (D), MMA 1923–24",
+ "Medium": "Bronze or copper alloy",
+ "Dimensions": "L. 22 cm ( 8 11/16 in)",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.3.122",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Copper",
+  "Chisels"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100005695,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/25.3.122.jpg",
+ "related-artworks": [
+  100004240,
+  100005696,
+  100005698,
+  100005700,
+  100005701
+ ],
+ "Provenance": [
+  "Museum excavations 1923–24. Acquired by the Museum in the division of finds, 1925."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100005695"
+  }
+ }
+}

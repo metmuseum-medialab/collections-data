@@ -1,0 +1,47 @@
+{
+ "Printer": "Styria Studio (New York, NY)",
+ "Publisher": "Experiments in Art and Technology (New York, NY)",
+ "Date": "1973",
+ "Medium": "Lithograph, sprayed on stone",
+ "Dimensions": [
+  "Image 9 × 12 1/16 in. (22.9 × 30.6 cm)",
+  "Sheet 11 × 14 in. (28 × 35.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Robert Rauschenberg, 1976",
+ "Accession Number": "1976.661",
+ "Who": [
+  "Styria Studio",
+  "Experiments in Art  Technology",
+  "Robert Breer"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Stone"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90104343,
+ "related-artworks": [
+  90037830,
+  90043387,
+  90107425,
+  90043583
+ ],
+ "Provenance": [
+  "Donor: Robert Rauschenberg (American, Port Arthur, Texas 1925–2008 Captiva Island, Florida)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104343"
+  }
+ }
+}

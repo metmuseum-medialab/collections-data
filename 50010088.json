@@ -1,0 +1,40 @@
+{
+ "Date": "before 16th century",
+ "Geography": "Mexico, Mesoamerica, Colima",
+ "Culture": "Colima (?)",
+ "Medium": "Stone",
+ "Dimensions": "Height 1-5/8 in.",
+ "Classification": "Stone-Implements",
+ "Credit Line": "Bequest of Arthur M. Bullowa, 1993",
+ "Accession Number": "1994.35.572",
+ "Who": "Colima",
+ "What": "Stone",
+ "Where": [
+  "North and Central America",
+  "Mexico",
+  "Colima"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico, 1400–1600 A.D.",
+  "Mexico, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50010088,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/VS1994_35_572.JPG",
+ "related-artworks": [
+  50003263,
+  50005479,
+  50010107,
+  50005731,
+  50007277
+ ],
+ "Provenance": [
+  "Arthur M. Bullowa, New York, until (d.)1993"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50010088"
+  }
+ }
+}

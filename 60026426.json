@@ -1,0 +1,45 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1834",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "Image 8 5/8 x 13 7/8 in. (21.9 x 35.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "JP1319",
+ "Who": "Utagawa Hiroshige",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60026426,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP120470.jpg",
+ "related-artworks": [
+  60000671,
+  60000683,
+  60000813,
+  60000820,
+  60000846
+ ],
+ "Provenance": [
+  "Frank Lloyd Wright , Richland Center, WI and Phoenix, AZ (before 1922",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026426"
+  }
+ }
+}

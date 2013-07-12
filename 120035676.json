@@ -1,0 +1,61 @@
+{
+ "Date": "ca. 1600",
+ "Culture": "Italian",
+ "Medium": "Needle lace",
+ "Dimensions": "L. 58 x W. 3 inches (147.3 x 7.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase by subscription, 1909",
+ "Accession Number": "09.68.71",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace",
+  "Borders"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Florence and Central Italy, 1400–1600 A.D.",
+  "Florence and Central Italy, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120035676,
+ "related-artworks": [
+  "http://scrapi.org/object/120032484",
+  "http://scrapi.org/object/120032488",
+  "http://scrapi.org/object/120032490",
+  "http://scrapi.org/object/120032493",
+  "http://scrapi.org/object/120032474"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Arthur Blackborne"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120032484"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120032488"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120032490"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120032493"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120032474"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120035676"
+  }
+ }
+}

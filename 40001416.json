@@ -1,0 +1,64 @@
+{
+ "Date": "ca. 1525",
+ "Culture": "German, Augsburg",
+ "Medium": "Steel, etched and gilt",
+ "Dimensions": [
+  "Weight, 9 lb. (4082 g)",
+  "Height, 10 in. (25.4 cm)",
+  "Width, 15 in. (38.1 cm)"
+ ],
+ "Classification": "Helmets",
+ "Credit Line": "Bashford Dean Memorial Collection, Gift of Mr. and Mrs. Alexander McMillan Welch, 1929",
+ "Accession Number": "29.153.1",
+ "Who": "Kolman Helmschmid",
+ "What": [
+  "Metal",
+  "Costume",
+  "Etching",
+  "Gilt",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Armor",
+  "Body armor",
+  "Helmets",
+  "Sallets",
+  "Rennhüte"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Augsburg"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "The Decoration of European Armor",
+  "Arms and Armor in Renaissance Europe",
+  "Fashion in European Armor, 1500–1600",
+  "Fashion in European Armor",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40001416,
+ "gallery-id": 374,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/DP272458.jpg",
+ "related-artworks": [
+  40003051,
+  40004729,
+  40001299,
+  40001082,
+  40001158
+ ],
+ "Description": "The helmet was intended for the Scharfrennen, a joust fought by two mounted contestants armed with sharp lances. The conjoined initials L and M, for Louis II of Hungary (1506–1526) and his wife, Maria of Austria, are featured prominently in the decoration. Discovered in the collection of the former imperial arsenal in Istanbul, the helmet was presumably captured by the Turks when they overran much of eastern Europe between 1526 and 1529. Louis II was killed in the battle of Mohács on August 29, 1526, while defending Hungary against the Turkish invasion.",
+ "Provenance": [
+  "Ex. coll.: Arsenal of St. Irene, Constantinople",
+  "Bashford Dean, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40001416"
+  }
+ }
+}

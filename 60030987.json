@@ -1,0 +1,34 @@
+{
+ "Date": "18th century",
+ "Culture": "Japan",
+ "Medium": "Lacquered wood",
+ "Classification": "Netsuke",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1026",
+ "What": [
+  "Sculpture",
+  "Lacquer",
+  "Netsukes"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60030987,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/91_1_1026_14045.jpg",
+ "related-artworks": [
+  60013270,
+  60029838,
+  60012571,
+  60013283,
+  60025380
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030987"
+  }
+ }
+}

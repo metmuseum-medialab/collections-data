@@ -1,0 +1,36 @@
+{
+ "Date": "1790",
+ "Medium": "Tin",
+ "Dimensions": "H. 27 in. (68.6 cm); Diam. 41 in. (104.1 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Mr. and Mrs. Samuel Schwartz, 1960",
+ "Accession Number": "60.168",
+ "What": [
+  "Metal",
+  "Lighting devices",
+  "Tin",
+  "Chandeliers"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 10002012,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/171927.jpg",
+ "related-artworks": [
+  10002005,
+  10002003,
+  10001996,
+  10002024,
+  10002009
+ ],
+ "Provenance": [
+  "Stephen Van Rensselaer, Morristown, New Jersey",
+  "Mrs. George T. Vaughan, Morristown, New Jersey",
+  "Mr. and Mrs. Samuel Schwartz, Paterson, New Jersey, until 1960"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10002012"
+  }
+ }
+}

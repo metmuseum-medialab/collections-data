@@ -1,0 +1,41 @@
+{
+ "Date": "1984",
+ "Culture": "American",
+ "Medium": "synthetic",
+ "Dimensions": "Length at CB 60 in. (152.4 cm)",
+ "Credit Line": "Purchase, Gould Family Foundation Gift, in memory of Jo Copeland, 2011",
+ "Accession Number": "2011.291",
+ "Who": "Halston",
+ "What": [
+  "Costume",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The Chiton, Peplos, and Himation in Modern Dress",
+  "Classical Art and Modern Dress",
+  "American Ingenuity Sportswear, 1930s–1970s",
+  "Classicism in Modern Dress",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80101088,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2011.291_F.jpg",
+ "related-artworks": [
+  80000153,
+  80000371,
+  80000372,
+  80000377,
+  80000386
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80101088"
+  }
+ }
+}

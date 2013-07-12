@@ -1,0 +1,67 @@
+{
+ "Date": "ca. 1820",
+ "Geography": "New England, Boston, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Mahogany",
+ "Dimensions": "34 1/2 x 83 1/2 x 25 in. (87.6 x 212.1 x 63.5 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Bequest of May Blackstone Huntington, 1938",
+ "Accession Number": "39.148.1",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Mahogany",
+  "Sofas"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Boston"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10007849,
+ "gallery-id": 732,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA256.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/10007858",
+  "http://scrapi.org/object/10001642",
+  "http://scrapi.org/object/10001805",
+  "http://scrapi.org/object/10001806",
+  "http://scrapi.org/object/10010353"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ad/original/ADA256.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/182914.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/119569.jpg"
+ ],
+ "Provenance": [
+  "Mrs. Austin (May Blackstone) Huntington, New York, until died 1938"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10007858"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10001642"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10001805"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10001806"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10010353"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10007849"
+  }
+ }
+}

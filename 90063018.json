@@ -1,0 +1,41 @@
+{
+ "Date": "1894",
+ "Medium": "Color lithography",
+ "Dimensions": [
+  "image 17 1/2 x 25 in. (44.5 x 63.5 cm)",
+  "sheet 22 x 27 15/16 in. (55.9 x 71 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. and Mrs. Myron E. Mendelson, 1962",
+ "Accession Number": "62.556.16",
+ "Who": "Kurz & Allison Art Publishers",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90063018,
+ "related-artworks": [
+  90062976,
+  90063004,
+  90063005,
+  90063006,
+  90063009
+ ],
+ "Provenance": [
+  "Donor: Mr. and Mrs. Myron E. Mendelson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90063018"
+  }
+ }
+}

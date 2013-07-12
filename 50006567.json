@@ -1,0 +1,54 @@
+{
+ "Date": "19th–early 20th century",
+ "Geography": "Australia, Western Desert, Western Australia",
+ "Culture": "Western Desert",
+ "Medium": "Wood, paint",
+ "Dimensions": "H. 4 13/16 x W. 9 5/8 in. (12.3 x 24.4 cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.1683",
+ "What": [
+  "Sculpture",
+  "Ceremonial objects"
+ ],
+ "Where": [
+  "Oceania",
+  "Australia"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Australia, 1900 A.D.–present",
+  "Australia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50006567,
+ "Provenance": [
+  "S. Kellner, Sydney, Australia",
+  "Nelson A. Rockefeller, New York, 1964, on permanent loan to The Museum of Primitive Art, New York, 1964–1978"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50006386"
+   },
+   {
+    "href": "http://scrapi.org/object/50006269"
+   },
+   {
+    "href": "http://scrapi.org/object/50006385"
+   },
+   {
+    "href": "http://scrapi.org/object/50006387"
+   },
+   {
+    "href": "http://scrapi.org/object/50002651"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50006567"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50006567"
+  }
+ }
+}

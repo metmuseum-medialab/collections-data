@@ -1,0 +1,33 @@
+{
+ "Date": "1945",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "22.8 x 22.8 cm (9 x 9 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 1996",
+ "Accession Number": "1996.40.1",
+ "Who": "Unknown, American",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190019187,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP71123.jpg",
+ "related-artworks": [
+  190011635,
+  190012789,
+  190012787,
+  190012790,
+  190012788
+ ],
+ "Provenance": [
+  "Charles Isaacs"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190019187"
+  }
+ }
+}

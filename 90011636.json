@@ -1,0 +1,36 @@
+{
+ "Date": "1696–1756",
+ "Medium": "Pen, brown ink and gray wash",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Bequest of Joseph H. Durkee, by exchange, 1972",
+ "Accession Number": "1972.713.4",
+ "Who": "Giuseppe Galli Bibiena",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90011636,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820082.jpg",
+ "related-artworks": [
+  90007285,
+  90007288,
+  90007352,
+  90007353,
+  90007434
+ ],
+ "Provenance": [
+  "Vendor: Claus Virch (born 1927)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90011636"
+  }
+ }
+}

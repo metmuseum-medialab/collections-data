@@ -1,0 +1,43 @@
+{
+ "Printer": "Balathier",
+ "Date": "ca. 1845",
+ "Medium": "Lithograph; second state of two (Armelhault & Bocher)",
+ "Dimensions": "Sheet 14 3/16 x 10 5/8 in. (36.1 x 27 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Weston J. Naef, 1985",
+ "Accession Number": "1985.1123.4",
+ "Who": [
+  "Paul Gavarni [Chevalier]",
+  "Balathier"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90084951,
+ "related-artworks": [
+  90078664,
+  90084092,
+  90084107,
+  90084137,
+  90084689
+ ],
+ "Provenance": [
+  "Albert Maroni (French, 1852–1923)",
+  "Donor: Weston J. Naef"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90084951"
+  }
+ }
+}

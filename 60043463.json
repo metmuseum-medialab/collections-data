@@ -1,0 +1,39 @@
+{
+ "Date": "17th–18th century",
+ "Culture": "China",
+ "Medium": "Silk",
+ "Dimensions": "13 1/2 x 6 in. (34.29 x 15.24 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Anonymous Gift, 1946",
+ "Accession Number": "46.133.55",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043463,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/144230.jpg",
+ "related-artworks": [
+  60012236,
+  60021228,
+  60021232,
+  60022369,
+  60030354
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043463"
+  }
+ }
+}

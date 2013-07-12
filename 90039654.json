@@ -1,0 +1,40 @@
+{
+ "Artist": "After Anthony van Dyck (Flemish, Antwerp 1599–1641 London)",
+ "Sitter": "Portrait of Gerard Seghers (Antwerp 1591–1651 Antwerp)",
+ "Medium": "Etching; third state of four",
+ "Dimensions": "sheet 9 1/2 x 6 7/16 in. (24.2 x 16.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Grace M. Pugh, 1985",
+ "Accession Number": "1986.1180.1324",
+ "Who": [
+  "Anthony van Dyck",
+  "Gerard Seghers",
+  "Lucas Vorsterman II"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 90039654,
+ "related-artworks": [
+  90074033,
+  90062058,
+  90062056,
+  90062055
+ ],
+ "Provenance": [
+  "Donor: Estate of Grace M. Pugh"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90039654"
+  }
+ }
+}

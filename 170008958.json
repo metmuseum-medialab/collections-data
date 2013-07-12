@@ -1,0 +1,48 @@
+{
+ "Date": "mid-15th century",
+ "Culture": "French",
+ "Medium": "Tempera, ink, and gold on parchment",
+ "Dimensions": [
+  "Overall 12 13/16 x 9 5/8 in. (32.5 x 24.4 cm)",
+  "Study mat size 18 x 14 in. (45.7 x 35.5 cm)"
+ ],
+ "Classification": "Manuscripts & Illuminations",
+ "Credit Line": "Bequest of Mrs. A. M. Minturn, 1890",
+ "Accession Number": "90.61.4",
+ "What": [
+  "Metal",
+  "Ink",
+  "Paintings",
+  "Gold",
+  "Manuscripts",
+  "Tempera",
+  "Parchment",
+  "Illuminations",
+  "Missals"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170008958,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf90-61-4s1.jpg",
+ "related-artworks": [
+  170007450,
+  170008959,
+  170006622,
+  170009021,
+  170005980
+ ],
+ "Provenance": [
+  "Mrs. A. M. Minturn(until 1890)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170008958"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "18th century",
+ "Geography": "Iran",
+ "Medium": "silk",
+ "Dimensions": "6 x 12 7/8 in. (15.2 x 32.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Nanette B. Kelekian, in honor of Olga Raggio, 2002",
+ "Accession Number": "2002.494.760",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1600–1800 A.D.",
+ "id": 140012317,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/Tr.20.714.2002.JPG",
+ "related-artworks": [
+  140001587,
+  140002162,
+  140002445,
+  140002490,
+  140002493
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140012317"
+  }
+ }
+}

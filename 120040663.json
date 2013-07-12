@@ -1,0 +1,44 @@
+{
+ "Date": "1780–90",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Dimensions": [
+  "H. 21 3/4 x W. 23 3/8 inches",
+  "55.2 x 59.4 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of H.A. Elsberg, 1933",
+ "Accession Number": "33.148.1",
+ "Who": "Philippe de Lasalle",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120040663,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/94783.jpg",
+ "related-artworks": [
+  120044038,
+  120045177,
+  120045176,
+  120013696,
+  120039473
+ ],
+ "Provenance": [
+  "Herman A. Elsberg (until 1933",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120040663"
+  }
+ }
+}

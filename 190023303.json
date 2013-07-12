@@ -1,0 +1,44 @@
+{
+ "Date": "1942–45",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Museum Accession, 1969",
+ "Accession Number": "69.547.13",
+ "Who": "Charles Sheeler",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Paul Strand (1890–1976)",
+  "Charles Sheeler (1883–1965)",
+  "Alfred Stieglitz (1864–1946) and American Photography",
+  "Early Documentary Photography",
+  "Precisionism",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190023303,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP118916.jpg",
+ "related-artworks": [
+  190015759,
+  190023310,
+  190015755,
+  190015756,
+  190015757
+ ],
+ "Provenance": [
+  "Dept. of Egyptian Art"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190023303"
+  }
+ }
+}

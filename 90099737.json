@@ -1,0 +1,46 @@
+{
+ "Artist": "After Jean-Michel Moreau the Younger (French, Paris 1741–1814 Paris)",
+ "Author": "Jean Jacques Rousseau (Swiss, Geneva 1712–1778 Ermenonville)",
+ "Publisher": "Poinçot, Paris",
+ "Date": "ca. 1788",
+ "Medium": "Etching and engraving; second state of two (Bocher)",
+ "Dimensions": "Sheet 7 11/16 × 4 15/16 in. (19.5 × 12.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.500.577",
+ "Who": [
+  "Jean-Michel Moreau the Younger",
+  "Jean Jacques Rousseau",
+  "Poinçot, Paris",
+  ". T. Geoffroy"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90099737,
+ "related-artworks": [
+  90099744,
+  90099736,
+  90099138,
+  90099742,
+  90099743
+ ],
+ "Provenance": [
+  "Vendor: M. Sloog (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90099737"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Stoneware covered with thick glaze; vertical dripped glaze over wooden top (Shigaraki ware)",
+ "Dimensions": "H. 13 in. (33 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Stanley J. Love Gift, 1988",
+ "Accession Number": "1988.373.2",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Glaze",
+  "Jars",
+  "Stoneware",
+  "Shigaraki"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60012216,
+ "related-artworks": [
+  60012215,
+  60012307,
+  60019924,
+  60021043,
+  60034870
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60012216"
+  }
+ }
+}

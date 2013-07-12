@@ -1,0 +1,46 @@
+{
+ "Date": "19th–20th century",
+ "Geography": "Democratic Republic of the Congo",
+ "Culture": "Ngala peoples",
+ "Medium": "Metal, wood",
+ "Dimensions": "H. 22 7/16 x W. 8 3/8 x D. 1 1/2 in. (57 x 21.2 x 3.8 cm)",
+ "Classification": "Metal-Implements",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Gift of Douglas Newton, 1962",
+ "Accession Number": "1978.412.458",
+ "Who": [
+  "Ngala",
+  "Ngiri"
+ ],
+ "What": [
+  "Metal",
+  "Knives"
+ ],
+ "Where": [
+  "Africa",
+  "Democratic Republic of the Congo"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central Africa, 1900 A.D.–present",
+  "Central Africa, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50003501,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1978_412_458.jpg",
+ "related-artworks": [
+  50004879,
+  50004874,
+  50007125,
+  50007126,
+  50007250
+ ],
+ "Provenance": [
+  "Douglas Newton, New York, until 1962",
+  "The Museum of Primitive Art, New York, 1962–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50003501"
+  }
+ }
+}

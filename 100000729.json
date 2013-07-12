@@ -1,0 +1,58 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "Joint reign of Hatshepsut and Thutmose III",
+ "Date": "ca. 1473–1458 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, 2 frags. in \"Hatshepsut Hole\"/ rest Senenmut Quarry, MMA 1922–23/ 1926–1928",
+ "Medium": "Limestone, paint",
+ "Dimensions": "H. 85 cm (33 7/16 in)",
+ "Credit Line": "Rogers Fund, 1931",
+ "Accession Number": "31.3.163",
+ "What": "Limestone",
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100000729,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs31.3.163zz.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/100004359",
+  "http://scrapi.org/object/100000122",
+  "http://scrapi.org/object/100000132",
+  "http://scrapi.org/object/100000133",
+  "http://scrapi.org/object/100000134"
+ ],
+ "related-images": [],
+ "Description": "This head was once part of a mummiform figure of Hatshepsut that decorated a niche on the west wall of the upper terrace of her temple at Deir el-Bahri. The heads of three of these niche statues are in the Museum's collection. This one wears the tall white crown of Upper Egypt and probably was originally in one of the niches on the south side of the entrance to the sanctuary.  The other two heads (31.3.157, 31.3.164) wear the combined \"double crown\" of Upper and Lower Egypt and probably were in niches north of the sanctuary entrance.",
+ "Provenance": [
+  "Museum excavations, 1926-1928. Acquired by the Museum in the division of finds, 1931."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100004359"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000122"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000132"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000133"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100000134"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100000729"
+  }
+ }
+}

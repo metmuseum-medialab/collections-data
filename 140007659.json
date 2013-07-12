@@ -1,0 +1,44 @@
+{
+ "Object Name": "Star-shaped tile",
+ "Date": "13th century",
+ "Geography": "Iran",
+ "Medium": "Stonepaste; luster-painted on opaque white glaze under transparent glaze",
+ "Dimensions": [
+  "8 in. (20.3 cm)",
+  "Wt. 51 lbs. (23.1 kg)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "H.O. Havemeyer Collection, Gift of Horace Havemeyer, 1940",
+ "Accession Number": "40.181.12",
+ "What": [
+  "Ceramics",
+  "Painting",
+  "Glaze",
+  "Tile"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140007659,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/40.181.12.jpg",
+ "related-artworks": [
+  140001631,
+  140002461,
+  140003186,
+  140003914,
+  140006409
+ ],
+ "Provenance": [
+  "H. O. Havemeyer Collection, New York (by 1930–40)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007659"
+  }
+ }
+}

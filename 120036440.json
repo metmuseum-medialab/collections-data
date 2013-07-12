@@ -1,0 +1,43 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian (Venice)",
+ "Medium": "Needle lace",
+ "Dimensions": "L. 10 x W. 2 inches (25.4 x 5.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Henrietta Seligman Lace Collection, Bequest of Mrs. Jesse Seligman, 1910",
+ "Accession Number": "10.102.19",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036440,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/GT206b.jpg",
+ "related-artworks": [
+  120030150,
+  120030159,
+  120030645,
+  120032511,
+  120035716
+ ],
+ "Provenance": [
+  "Henrietta Seligman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120036440"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Date": "1916",
+ "Medium": "Lithograph",
+ "Dimensions": "22 1/2 x 17 1/2 inches",
+ "Classification": "Prints",
+ "Credit Line": "John B. Turner Fund, 1976",
+ "Accession Number": "67.765.7",
+ "Who": "Man Ray",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Photography and Surrealism",
+  "Surrealism",
+  "Marcel Duchamp (1887–1968)",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90044517,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90008048"
+   },
+   {
+    "href": "http://scrapi.org/object/90044406"
+   },
+   {
+    "href": "http://scrapi.org/object/90044458"
+   },
+   {
+    "href": "http://scrapi.org/object/90044463"
+   },
+   {
+    "href": "http://scrapi.org/object/90044470"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90044517"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90044517"
+  }
+ }
+}

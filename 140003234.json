@@ -1,0 +1,43 @@
+{
+ "Date": "probably 14th–15th century",
+ "Geography": "Egypt or Syria",
+ "Medium": "Glass",
+ "Dimensions": "Diam. 64mm",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.1110",
+ "What": [
+  "Costume",
+  "Glass",
+  "Jewelry",
+  "Bracelets"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Eastern Mediterranean, 1400–1600 A.D.",
+  "The Eastern Mediterranean, 1000–1400 A.D."
+ ],
+ "id": 140003234,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf10-130-1110a.jpg",
+ "related-artworks": [
+  140003210,
+  140003205,
+  140003214,
+  140003216,
+  140003218
+ ],
+ "Provenance": [
+  "Chauncey Murch, Luxor, Egypt (until d. 1907)",
+  "Mrs. Chauncey Murch(1907–10)",
+  "Helen Miller Gould, New York (1910)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003234"
+  }
+ }
+}

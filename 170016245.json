@@ -1,0 +1,45 @@
+{
+ "Date": "4th century",
+ "Geography": "Made in Kharga Oasis, Byzantine Egypt",
+ "Culture": "Coptic",
+ "Medium": "Linen",
+ "Dimensions": "Overall 70 7/8 × 47 1/4 in. (180 × 120 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1933",
+ "Accession Number": "33.10.26",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Linen",
+  "Dresses"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170016245,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/170016244"
+   },
+   {
+    "href": "http://scrapi.org/object/170016231"
+   },
+   {
+    "href": "http://scrapi.org/object/170016237"
+   },
+   {
+    "href": "http://scrapi.org/object/170016249"
+   },
+   {
+    "href": "http://scrapi.org/object/170016254"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/170016245"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/170016245"
+  }
+ }
+}

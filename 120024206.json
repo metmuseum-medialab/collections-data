@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1835",
+ "Culture": "French",
+ "Medium": "Terracotta",
+ "Dimensions": "10 3/8 x 9-1/8 in.  (26.4 x 23.2 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Friends of European Sculpture and Decorative Arts Gifts, 1992",
+ "Accession Number": "1992.49.2",
+ "Who": "Pierre Jean David d'Angers",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Reliefs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120024206,
+ "gallery-id": 552,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DT6853.jpg",
+ "related-artworks": [
+  120024205,
+  120028239,
+  120059918,
+  120001706,
+  120002773
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120024206"
+  }
+ }
+}

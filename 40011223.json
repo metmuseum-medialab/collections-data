@@ -1,0 +1,34 @@
+{
+ "Date": "17th century",
+ "Culture": "Spanish",
+ "Classification": "Daggers",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "25.135.153",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Daggers",
+  "Blades"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40011223,
+ "related-artworks": [
+  40011221,
+  40011222,
+  40011204,
+  40011206,
+  40011202
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40011223"
+  }
+ }
+}

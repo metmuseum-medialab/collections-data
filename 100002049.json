@@ -1,0 +1,43 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18, early",
+ "Date": "ca. 1550–1458 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, Courtyard CC 41, Pit 3, Burial D 1, Beside or on inner coffin, MMA 1915–1916",
+ "Medium": "Copper alloy",
+ "Dimensions": "L. 9.2 cm (3 5/8 in)",
+ "Credit Line": "Rogers Fund, 1916",
+ "Accession Number": "16.10.460",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Copper",
+  "Arrowheads"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100002049,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/16.10.460_front.jpg",
+ "related-artworks": [
+  100002048,
+  100000453,
+  100000527,
+  100000525,
+  100000526
+ ],
+ "Provenance": [
+  "Museum excavations, 1915–16. Acquired by the Museum in the division of finds, 1916."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100002049"
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 18th century",
+ "Culture": "Japan",
+ "Medium": "Earthenware with transparent crackled glaze, colored enamels, and gold (Awata ware)",
+ "Dimensions": "H. 6 1/2 in. (16.5 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Charles Stewart Smith, 1893",
+ "Accession Number": "93.3.223",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Gold",
+  "Earthenware",
+  "Glaze",
+  "Bottles",
+  "Enamels"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60024695,
+ "related-artworks": [
+  "http://scrapi.org/object/60034240",
+  "http://scrapi.org/object/60046139",
+  "http://scrapi.org/object/60034381",
+  "http://scrapi.org/object/60034387",
+  "http://scrapi.org/object/60012068"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60034240"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60046139"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60034381"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60034387"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60012068"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60024695"
+  }
+ }
+}

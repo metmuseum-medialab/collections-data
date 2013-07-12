@@ -1,0 +1,38 @@
+{
+ "Date": "1850–69",
+ "Culture": "American",
+ "Medium": "hair, metal",
+ "Dimensions": "Length 2 1/2 in. (6.4 cm)",
+ "Credit Line": "Gift of Mrs. John C. Cattus, in memory of her mother, Mrs. William Gordon Ver Planck, 1948",
+ "Accession Number": "C.I.48.5.7",
+ "What": [
+  "Metal",
+  "Costume",
+  "Jewelry",
+  "Hair",
+  "Pins",
+  "Brooches"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80058901,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI48.5.7.jpg",
+ "related-artworks": [
+  80058899,
+  80032325,
+  80017049,
+  80031964,
+  80058897
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80058901"
+  }
+ }
+}

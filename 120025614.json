@@ -1,0 +1,47 @@
+{
+ "Date": "19th century",
+ "Culture": "British",
+ "Medium": "Bronze on green marble base",
+ "Dimensions": "H. 16 in. (40.6 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Edward D. Adams, 1927",
+ "Accession Number": "27.21.5",
+ "Who": "A. Drury",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Figures",
+  "Marble",
+  "Busts"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120025614,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/66896.jpg",
+ "related-artworks": [
+  120009841,
+  120017188,
+  120001025,
+  120001429,
+  120021654
+ ],
+ "Provenance": [
+  "Edward D. Adams (until 1927",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120025614"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "1830–35",
+ "Geography": "New England, United States",
+ "Culture": "American",
+ "Medium": "Free-blown lead glass",
+ "Dimensions": "H. 4 5/8 in. (11.7 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Marshall Perry Slade, 1938",
+ "Accession Number": "38.39.2",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Glass",
+  "Blown glass",
+  "Lead",
+  "Pitchers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New England"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005864,
+ "gallery-id": 774,
+ "related-artworks": [
+  10005812,
+  10005813,
+  10005580,
+  10005418,
+  10005590
+ ],
+ "Provenance": [
+  "Mrs. Marshall P. Slade, until 1938"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005864"
+  }
+ }
+}

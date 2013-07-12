@@ -1,0 +1,42 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print (surimono); ink and color on paper",
+ "Dimensions": "8 x 7 3/16 in. (20.3 x 18.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "JP2170",
+ "Who": "Uematsu Tōshū",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Surimono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "id": 60026231,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP138381.jpg",
+ "related-artworks": [
+  60025592,
+  60025113,
+  60026129,
+  60026130
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026231"
+  }
+ }
+}

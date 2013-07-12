@@ -1,0 +1,51 @@
+{
+ "Date": "4th–3rd century BCE",
+ "Geography": "Peru",
+ "Culture": "Paracas",
+ "Medium": "Camelid hair, cotton",
+ "Dimensions": [
+  "Overall 5 x 11 in. (12.7 x 27.94 cm)",
+  "Other 5 in. (12.7 cm)"
+ ],
+ "Classification": "Textiles-Woven",
+ "Credit Line": "Gift of George D. Pratt, 1933",
+ "Accession Number": "33.149.26",
+ "Who": [
+  "Early horizon",
+  "Paracas"
+ ],
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Cotton",
+  "Woven",
+  "Hair",
+  "Borders",
+  "Camelidae"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50000628,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DP18546A.JPG",
+ "related-artworks": [
+  50000617,
+  50000630,
+  50000610,
+  50000618,
+  50000619
+ ],
+ "Provenance": [
+  "George D. Pratt, Glen Cove, N.Y., until 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50000628"
+  }
+ }
+}

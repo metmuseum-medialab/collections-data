@@ -1,0 +1,39 @@
+{
+ "Date": "15th–16th century",
+ "Culture": "German",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 43 3/4 x W. 26 3/8 inches (111.1 x 67.0 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Kate Read Blacque, in memory of her husband, Valentine Alexander Blacque, 1933",
+ "Accession Number": "33.95.60",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Vestments",
+  "Chasubles"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120040623,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/93882.jpg",
+ "related-artworks": [
+  120037491,
+  120037494,
+  120030355,
+  120037390,
+  120037493
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120040623"
+  }
+ }
+}

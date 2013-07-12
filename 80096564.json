@@ -1,0 +1,37 @@
+{
+ "Date": "1889",
+ "Culture": "Greek",
+ "Medium": "cotton, wool",
+ "Dimensions": [
+  "Length at CB (a) 17 in. (43.2 cm)",
+  "Length at CB (b) 40 in. (101.6 cm)"
+ ],
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mary Dudley Kenna, 1965",
+ "Accession Number": "2009.300.373a–e",
+ "What": [
+  "Cotton",
+  "Wool",
+  "Ensembles"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "id": 80096564,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/65.181.12a-e_front_CP4.jpg",
+ "related-artworks": [
+  80052548,
+  80002857,
+  80007401,
+  80007408,
+  80007437
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80096564"
+  }
+ }
+}

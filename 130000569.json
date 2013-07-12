@@ -1,0 +1,57 @@
+{
+ "Period": "Cypro-Geometric I",
+ "Date": "1050–950 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 9.7 cm",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.516",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jugs",
+  "Juglets"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Eastern Mediterranean, 2000–1000 B.C.",
+  "The Eastern Mediterranean, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130000569,
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130000430"
+   },
+   {
+    "href": "http://scrapi.org/object/130000433"
+   },
+   {
+    "href": "http://scrapi.org/object/130000457"
+   },
+   {
+    "href": "http://scrapi.org/object/130000459"
+   },
+   {
+    "href": "http://scrapi.org/object/130000461"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130000569"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130000569"
+  }
+ }
+}

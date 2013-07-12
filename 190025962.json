@@ -1,0 +1,41 @@
+{
+ "Date": "December 1940",
+ "Medium": "Film negative",
+ "Dimensions": "4 x 5 in.",
+ "Classification": "Negatives",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.254.350",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": "Walker Evans",
+ "What": [
+  "Photographs",
+  "Negatives",
+  "Film"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Early Documentary Photography",
+  "Walker Evans (1903–1975)",
+  "Kodak and the Rise of Amateur Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 190025962,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/PH6464.jpg",
+ "related-artworks": [
+  190024488,
+  190024514,
+  190024491,
+  190024520,
+  190024497
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190025962"
+  }
+ }
+}

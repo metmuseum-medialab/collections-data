@@ -1,0 +1,47 @@
+{
+ "Period": "Iron Age",
+ "Date": "ca. 6th–5th century B.C.",
+ "Geography": "Levant or Syria",
+ "Medium": "Jasper, green",
+ "Dimensions": [
+  "Seal Face 1.87 x 1.39 cm",
+  "Height 1.02 cm",
+  "String Hole 0.3 cm"
+ ],
+ "Classification": "Stone",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.160.162",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Scarabs",
+  "Chalcedony",
+  "Seals",
+  "Jasper"
+ ],
+ "Where": [
+  "Asia",
+  "Levant"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30002399,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/DP109170.jpg",
+ "related-artworks": [
+  30002400,
+  30002401,
+  30002402,
+  30003229,
+  30001772
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1941, bequest of W. Gedney Beatty."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30002399"
+  }
+ }
+}

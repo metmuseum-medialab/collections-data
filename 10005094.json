@@ -1,0 +1,56 @@
+{
+ "Date": "1775–1883",
+ "Geography": "France",
+ "Culture": "French",
+ "Medium": "Porcelain",
+ "Dimensions": "Diam. 2 5/8 in. (6.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of William H. Huntington, 1883",
+ "Accession Number": "83.2.340",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Medallions"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "West Midlands"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Great Britain and Ireland, 1600–1800 A.D.",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10005094,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP248075.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10004055"
+   },
+   {
+    "href": "http://scrapi.org/object/10005095"
+   },
+   {
+    "href": "http://scrapi.org/object/10000505"
+   },
+   {
+    "href": "http://scrapi.org/object/10005092"
+   },
+   {
+    "href": "http://scrapi.org/object/10000506"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10005094"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10005094"
+  }
+ }
+}

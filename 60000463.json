@@ -1,0 +1,43 @@
+{
+ "Date": "20th century",
+ "Culture": "China",
+ "Medium": "Folding fan mounted as an album leaf; ink and color on alum paper",
+ "Dimensions": "7 x 20 1/8 in. (17.8 x 51.1 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1986",
+ "Accession Number": "1986.267.381",
+ "Who": "Huang Huanwu",
+ "What": [
+  "Costume",
+  "Ink",
+  "Paper",
+  "Books",
+  "Paintings",
+  "Albums",
+  "Fans",
+  "Alum"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60000463,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP162718.jpg",
+ "related-artworks": [
+  60000464,
+  60000465,
+  60000276
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60000463"
+  }
+ }
+}

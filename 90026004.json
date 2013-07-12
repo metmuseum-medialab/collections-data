@@ -1,0 +1,60 @@
+{
+ "Engraver": "Titlepage engraved by Blas Ametller (Spanish, 1768–1841)",
+ "Designer": "Titlepage designed by Luis Paret y Alcazar (Spanish, Madrid 1746–1799 Madrid)",
+ "Publisher": "Published by Joaquin Ibarra",
+ "Date": "1798",
+ "Medium": "platesengraving",
+ "Dimensions": "Overall 8 7/16 x 6 1/8 x 1 3/8 in. (21.5 x 15.5 x 3.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "26.26",
+ "Who": [
+  "Luis Paret y Alcazar",
+  "Blas Ametller",
+  "Don Torquato Torio de la Riva y Herrero",
+  "Gangoiti",
+  "J. Castro",
+  "Joaquin Ibarra",
+  "T. Asensio"
+ ],
+ "What": [
+  "Engraving",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90026004,
+ "related-artworks": [
+  "http://scrapi.org/object/90026007",
+  "http://scrapi.org/object/90014576",
+  "http://scrapi.org/object/90022669",
+  "http://scrapi.org/object/90022889"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90026007"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90014576"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90022669"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90022889"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90026004"
+  }
+ }
+}

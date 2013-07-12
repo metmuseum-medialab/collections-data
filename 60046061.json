@@ -1,0 +1,35 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Kihei Hattori, in memory of his father, Kihei Hattori, 1920",
+ "Accession Number": "20.148.1265",
+ "What": [
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60046061,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP14349.jpg",
+ "related-artworks": [
+  60012269,
+  60038403,
+  60039319,
+  60039265,
+  60039460
+ ],
+ "Provenance": [
+  "Kihei Hattori , Tokyo (until 1920)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60046061"
+  }
+ }
+}

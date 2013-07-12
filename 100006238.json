@@ -1,0 +1,42 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19",
+ "Reign": "reign of Ramesses II",
+ "Date": "ca. 1279–1213 B.C.",
+ "Geography": "Country of Origin Egypt, Eastern Delta, el-Qantir, Palace of Ramesses II",
+ "Medium": "Faience",
+ "Dimensions": "L. 21.8 cm (8 9/16 in), w. 11.8 cm (4 5/8 in), Depth 3 cm (1 3/16 in)",
+ "Credit Line": "Purchase, Rogers Fund, Edward S. Harkness Gift and by exchange, 1922, 1929, 1935",
+ "Accession Number": "35.1.7",
+ "What": [
+  "Faience",
+  "Tile"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100006238,
+ "gallery-id": 124,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs35.1.4.10x.jpg",
+ "related-artworks": [
+  100000602,
+  100000594,
+  100001115,
+  100001118,
+  100001108
+ ],
+ "Provenance": [
+  "Many of the tile fragments from el-Qantir were purchased in Cairo, 1922 and 1929",
+  "others were excavated for the Egyptian Antiquities Service by Mahmud Hamza in 1928 and were acquired from the Egyptian Museum, Cairo by exchange in 1934."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100006238"
+  }
+ }
+}

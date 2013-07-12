@@ -1,0 +1,46 @@
+{
+ "Period": "Old Kingdom",
+ "Dynasty": "Dynasty 5",
+ "Reign": "reign of Isesi–Unis",
+ "Date": "ca. 2381–2323 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Saqqara; includes the Serapeum, Tomb of Perneb",
+ "Medium": "Pottery",
+ "Dimensions": "H 4.8 cm (1 7/8 in.); diam: 3.9 cm (1 9/16 in.)",
+ "Credit Line": "Gift of Edward S. Harkness, 1913",
+ "Accession Number": "13.183.16",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Vases",
+  "Models"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Saqqara"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100003694,
+ "gallery-id": 100,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vspernebcups2.jpg",
+ "related-artworks": [
+  100003700,
+  100003689,
+  100003691,
+  100003697,
+  100003693
+ ],
+ "Provenance": [
+  "from the rubble filling the interior and from outside Perneb's tomb"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003694"
+  }
+ }
+}

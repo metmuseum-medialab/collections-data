@@ -1,0 +1,48 @@
+{
+ "Date": "n.d.",
+ "Medium": "Etching, third state of three",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.75.1",
+ "Who": "Carl Wilhelm Kolbe",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe and Low Countries, 1800–1900 A.D.",
+  "Central Europe (including Germany), 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90027846,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90040796"
+   },
+   {
+    "href": "http://scrapi.org/object/90040799"
+   },
+   {
+    "href": "http://scrapi.org/object/90040802"
+   },
+   {
+    "href": "http://scrapi.org/object/90040805"
+   },
+   {
+    "href": "http://scrapi.org/object/90049421"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90027846"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90027846"
+  }
+ }
+}

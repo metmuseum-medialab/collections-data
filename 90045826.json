@@ -1,0 +1,40 @@
+{
+ "Date": "1791",
+ "Medium": "Printed book with engraved frontispiece and illustrations",
+ "Dimensions": [
+  "Overall 18 15/16 x 12 11/16 x 1 7/16 in. (48.1 x 32.2 x 3.6 cm)",
+  "Storage 20 5/16 x 13 11/16 x 2 3/16 in. (51.6 x 34.8 x 5.6 cm)"
+ ],
+ "Classification": "Books",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.100.275.2",
+ "Who": "Marcus Pollio Vitruvius",
+ "What": [
+  "Engraving",
+  "Books",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90045826,
+ "related-artworks": [
+  90040335,
+  90041472,
+  90041462,
+  90041464,
+  90041467
+ ],
+ "Provenance": [
+  "William Gedney Beatty"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90045826"
+  }
+ }
+}

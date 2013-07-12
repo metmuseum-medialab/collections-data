@@ -1,0 +1,43 @@
+{
+ "Date": "late 19th–mid-20th century",
+ "Medium": "Pen and ink, pencil and charcoal on paper",
+ "Dimensions": "11 x 13 1/4 in.  (27.9 x 33.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Scofield Thayer, 1982",
+ "Accession Number": "1984.433.47",
+ "Who": "Ernst Barlach",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Pencil",
+  "Charcoal"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe and Low Countries, 1800–1900 A.D.",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90001699,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804307.jpg",
+ "related-artworks": [
+  90001697,
+  90001698,
+  90010604,
+  90013445,
+  90019976
+ ],
+ "Provenance": [
+  "Donor: Scofield Thayer (American, Worcester, Massachusetts 1889–1982 Providence, Rhode Island)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90001699"
+  }
+ }
+}

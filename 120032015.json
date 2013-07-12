@@ -1,0 +1,40 @@
+{
+ "Date": "16th–17th century",
+ "Culture": "Italian or Spanish",
+ "Medium": "Silk and hemp",
+ "Dimensions": "Overall 23 1/2 x 7 1/2 in. (59.7 x 19.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.168.6",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Plant fiber",
+  "Hemp"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120032015,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/4426A.jpg",
+ "related-artworks": [
+  120033966,
+  120034181,
+  120034585,
+  120007343,
+  120032016
+ ],
+ "Provenance": [
+  "[ Revel , 1908",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032015"
+  }
+ }
+}

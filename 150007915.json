@@ -1,0 +1,48 @@
+{
+ "Date": "model ca. 1590-1600 (possibly cast 17th century)",
+ "Culture": "German, Augsburg",
+ "Medium": "Copper alloy with a light brown patina under a dark lacquer patina; pierced at the top.",
+ "Dimensions": "9.8 x 7.7 cm, wt. 91.9 g.",
+ "Classification": "Plaquettes",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.1357",
+ "Who": "Paul Hubner",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Copper",
+  "Plaquettes",
+  "Lacquer",
+  "Patina"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Augsburg"
+ ],
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe (including Germany), 1400–1600 A.D.",
+  "Central Europe (including Germany), 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 150007915,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/1357r.jpg",
+ "related-artworks": [
+  150007516,
+  150008298,
+  150008250,
+  150008317,
+  150007836
+ ],
+ "Provenance": [
+  "Not established."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150007915"
+  }
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "Medium": "Watercolor and graphite on off-white laid paper",
+ "Dimensions": "8 1/2 x 11 9/16 in. (21.6 x 29.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Mr. and Mrs. Leonard Milberg Gift; Bequest of Susan Ludlow Parish and Gifts of Hanson K. Corning, Edward D. Adams, Samuel P. Avery, and Martin Birnbaum, by exchange; Gifts in memory of Elizabeth Buell Besobrasow, and Maria DeWitt Jesup Fund, 1985",
+ "Accession Number": "1985.107.1",
+ "Who": "Edwin Whitefield",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Graphite",
+  "Laid paper"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20013684,
+ "related-artworks": [
+  20012986,
+  20013063,
+  20013121,
+  20013124,
+  20013100
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20013684"
+  }
+ }
+}

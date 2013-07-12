@@ -1,0 +1,38 @@
+{
+ "Date": "late 19th century",
+ "Culture": "Hungarian",
+ "Medium": "wool, silk",
+ "Dimensions": [
+  "Length at CB (a) 28 in. (71.1 cm)",
+  "Length at Side Seam (b) 41 in. (104.1 cm)"
+ ],
+ "Credit Line": "Gift of International Business Machines Corporation, 1960",
+ "Accession Number": "C.I.60.22.4a, b",
+ "What": [
+  "Silk",
+  "Wool",
+  "Ensembles"
+ ],
+ "Where": [
+  "Europe",
+  "Hungary"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80061761,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI60.22.4ab_F.jpg",
+ "related-artworks": [
+  80062028,
+  80011438,
+  80095254,
+  80096904,
+  80114562
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80061761"
+  }
+ }
+}

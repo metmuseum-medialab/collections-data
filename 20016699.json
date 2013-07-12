@@ -1,0 +1,29 @@
+{
+ "Date": "ca. 1850",
+ "Medium": "Compo, gold leaf",
+ "Dimensions": "40 x 35 1/16 x 2 7/8 in. (101.6 x 89.1 x 7.3 cm)",
+ "Classification": "Frames",
+ "Accession Number": "Inst.67.14",
+ "What": [
+  "Metal",
+  "Gold",
+  "Frames",
+  "Gold leaf"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20016699,
+ "related-artworks": [
+  20013798,
+  20013802,
+  20013970,
+  20016505,
+  20016515
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20016699"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Period": "Late Helladic IIIB",
+ "Date": "ca. 1300-1200 B.C.",
+ "Culture": "Mycenaean",
+ "Medium": "watercolor on paper",
+ "Dimensions": "Overall 19 x 26 1/2 in. (48.3 x 67.3 cm)",
+ "Credit Line": "Dodge Fund, 1912",
+ "Accession Number": "12.58.3",
+ "Who": "Emile Gilliéron",
+ "What": [
+  "Paper",
+  "Paintings",
+  "Watercolors",
+  "Frescoes"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Peloponnese",
+  "Mycenae"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130018732,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP247792.jpg",
+ "related-artworks": [
+  130018730,
+  130018731,
+  130018746,
+  130018736,
+  130018744
+ ],
+ "Description": "Excavated 1910 in the west slope rubbish deposit at Tiryns.This fragment belongs to a large boar hunting scene, of which other fragments are displayed on this wall.  The scene remains the most detailed depiction of a two-horse chariot and its harness fittings from Bronze Age Greece.The original is in the National Archaeological Museum, Athens.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130018732"
+  }
+ }
+}

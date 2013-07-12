@@ -1,0 +1,50 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1352 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Sheikh Abd el-Qurna, Tomb of Pairy (TT 139)",
+ "Medium": "Tempera on paper",
+ "Dimensions": [
+  "facsimile h. 48.5 cm (19 1/8 in); w. 192 cm (75 9/16 in)",
+  "scale 11",
+  "framed h. 52/1 cm (20 1/2 in); w. 195.6 cm (77 in)"
+ ],
+ "Credit Line": "Rogers Fund, 1935",
+ "Accession Number": "35.101.3",
+ "Who": "Nina de Garis Davies",
+ "What": [
+  "Paper",
+  "Tempera",
+  "Facsimiles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100015630,
+ "gallery-id": 135,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/35.101.3.jpg",
+ "related-artworks": [
+  100000858,
+  100000861,
+  100000865,
+  100000927,
+  100000871
+ ],
+ "Description": "This facsimile painting copies two scenes in the tomb of Pairy (TT 139) at Thebes. The upper register shows the funeral procession in which Pairy is being transported to the tomb inside his coffin. The lower register depicts, from right to left, various stages in the \"opening of the mouth\" ceremony.",
+ "Provenance": [
+  "Painted at Qurna by  Nina de Garis Davies for the Egyptian Expedition of the Metropolitan Museum of Art, 1935."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100015630"
+  }
+ }
+}

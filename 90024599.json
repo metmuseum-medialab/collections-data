@@ -1,0 +1,34 @@
+{
+ "Date": "ca. 1490–1510",
+ "Medium": "Printed book with three woodcuts.",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1925",
+ "Accession Number": "25.30.112",
+ "Who": "Girolamo Savonarola",
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024599,
+ "related-artworks": [
+  90024569,
+  90024570,
+  90024573,
+  90024584,
+  90024578
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024599"
+  }
+ }
+}

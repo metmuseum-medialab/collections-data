@@ -1,0 +1,38 @@
+{
+ "Date": "18th century",
+ "Culture": "Italian or German",
+ "Dimensions": "H. 6 7/8 in.  (17.5 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1205",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001499,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/16347.jpg",
+ "related-artworks": [
+  120000135,
+  120000572,
+  120000629,
+  120000613,
+  120000614
+ ],
+ "Provenance": [
+  "Edward C. Moore"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001499"
+  }
+ }
+}

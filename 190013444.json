@@ -1,0 +1,56 @@
+{
+ "Artist": "Raphael (Raffaello Sanzio or Santi) (Italian, Urbino 1483–1520 Rome)",
+ "Author": "James Perkins Walker (American, 1829–1868)",
+ "Date": "1860s",
+ "Classification": "Books",
+ "Credit Line": "Purchase, 1975",
+ "Accession Number": "1975.660",
+ "Who": [
+  "Raphael (Raffaello Sanzio  Santi)",
+  "E. Hufnagel",
+  "James Perkins Walker"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190013444,
+ "related-artworks": [
+  "http://scrapi.org/object/190011332",
+  "http://scrapi.org/object/190011334",
+  "http://scrapi.org/object/190011354",
+  "http://scrapi.org/object/190012549",
+  "http://scrapi.org/object/190012892"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Richard W. Lipack"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011332"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011334"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190011354"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190012549"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190012892"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190013444"
+  }
+ }
+}

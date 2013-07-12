@@ -1,0 +1,36 @@
+{
+ "Date": "1938",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "29.7 x 25 cm (11 11/16 x 9 13/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of The Harold and Esther Edgerton Family Foundation, 1997",
+ "Accession Number": "1997.62.26",
+ "Rights and Reproduction": "© Harold and Esther Edgerton Foundation, courtesy of Palm Press, Inc.",
+ "Who": "Harold Edgerton",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190034851,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP70427.jpg",
+ "related-artworks": [
+  190017142,
+  190017143,
+  190017402,
+  190018384,
+  190018385
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190034851"
+  }
+ }
+}

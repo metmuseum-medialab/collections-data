@@ -1,0 +1,43 @@
+{
+ "Date": "19th century",
+ "Geography": "United States, Hawai'i",
+ "Culture": "Hawai'i",
+ "Medium": "Barkcloth, pigment",
+ "Dimensions": "H. 9 3/4 x W. 26 1/2in. (24.8 x 67.3cm)",
+ "Classification": "Barkcloth",
+ "Credit Line": "Gift of Mr. and Mrs. Martin Wright, 1977",
+ "Accession Number": "1977.458.15",
+ "What": [
+  "Fragments",
+  "Panels",
+  "Bark cloth"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Hawaii"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50003012,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1977_458_15.jpg",
+ "related-artworks": [
+  50002998,
+  50002999,
+  50003000,
+  50003001,
+  50003002
+ ],
+ "Provenance": [
+  "Martin and Faith-Dorian Wright, New York, until 1977"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50003012"
+  }
+ }
+}

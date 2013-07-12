@@ -1,0 +1,35 @@
+{
+ "Date": "1730–70",
+ "Geography": "England",
+ "Medium": "Wood",
+ "Dimensions": "14 5/16 x 18 1/4 in. (36.4 x 46.4 cm)",
+ "Classification": "Frames",
+ "Credit Line": "Rogers Fund, 1933",
+ "Accession Number": "33.85.15",
+ "What": "Frames",
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10003914,
+ "related-artworks": [
+  10003915,
+  10003916,
+  10003917,
+  10003918,
+  10003912
+ ],
+ "Provenance": [
+  "with Plaza Art Galleries, New York, 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003914"
+  }
+ }
+}

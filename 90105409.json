@@ -1,0 +1,34 @@
+{
+ "Date": "ca. 1910",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 × 1 1/2 in. (7 × 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 314, E15.20",
+ "Who": "American Caramel Company, Philadelphia",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90105409,
+ "related-artworks": [
+  90102849,
+  90102860,
+  90102858,
+  90103040,
+  90103043
+ ],
+ "Description": "Trade cards from the \"Flag Caramels\" series (E15), issued ca. 1910 by the American Caramel Company to promote Flag Caramels.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90105409"
+  }
+ }
+}

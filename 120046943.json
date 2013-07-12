@@ -1,0 +1,46 @@
+{
+ "Date": "early 18th century",
+ "Culture": "Chinese",
+ "Medium": "Cotton, silk",
+ "Dimensions": "H. 28 x W. 139 inches (71.1 x 353.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1967",
+ "Accession Number": "68.63",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Cotton",
+  "Needlework",
+  "Embroidery",
+  "Valances"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120046943,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/189512.jpg",
+ "related-artworks": [
+  120030692,
+  120040207,
+  120045046,
+  120046539,
+  120047105
+ ],
+ "Provenance": [
+  "[ Ginsberg and Levy, Inc. , 1967",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046943"
+  }
+ }
+}

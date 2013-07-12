@@ -1,0 +1,41 @@
+{
+ "Date": "1800",
+ "Culture": "Austrian",
+ "Medium": "Silk on silk",
+ "Dimensions": "L. 15 7/8 x W. 18 inches (40.3 x 45.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "From the Collection of Mrs. Lathrop Colgate Harper, Bequest of Mabel Herbert Harper, 1957",
+ "Accession Number": "57.122.758",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Samplers"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central Europe (including Germany), 1600–1800 A.D.",
+  "Central Europe and Low Countries, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120046368,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/165258.jpg",
+ "related-artworks": [
+  120045843,
+  120045844,
+  120045845,
+  120045850,
+  120045852
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046368"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1740–60",
+ "Culture": "British, London",
+ "Medium": "Silver enamel, gilt-metal",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Horology",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.1460",
+ "Who": "Charles Cabrier",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gilt",
+  "Enamel",
+  "Timepieces",
+  "Watches",
+  "Movements"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120008763,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/40373.jpg",
+ "related-artworks": [
+  120008761,
+  120008762,
+  10019096,
+  120008764,
+  120008814
+ ],
+ "Provenance": [
+  "Frederick George Hilton Price"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120008763"
+  }
+ }
+}

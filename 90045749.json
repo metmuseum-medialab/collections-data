@@ -1,0 +1,51 @@
+{
+ "Date": "1894",
+ "Medium": "Transfer lithograph with stumping; only state",
+ "Dimensions": "sheet 11 11/16 x 8 1/4 in. (29.7 x 21 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Albert Ten Eyck Gardner, 1970",
+ "Accession Number": "1970.703.59",
+ "Who": "James McNeill Whistler",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Transfer lithographs",
+  "Stumping"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "James McNeill Whistler (1834–1903)",
+  "Design Reform",
+  "Americans in Paris, 1860–1900",
+  "Lithography in the Nineteenth Century",
+  "Japonisme",
+  "William Merritt Chase (1849–1916)",
+  "Nineteenth–Century American Drawings",
+  "The Print in the Nineteenth Century",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90045749,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP813903.jpg",
+ "related-artworks": [
+  90045674,
+  90045691,
+  90045694,
+  90045796,
+  90035924
+ ],
+ "Provenance": [
+  "Donor: Albert Ten Eyck Gardner"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90045749"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1510–20",
+ "Culture": "Anglo-Flemish",
+ "Medium": "Steel",
+ "Dimensions": "Wt. 10 lb. 5 oz. (4675 g)",
+ "Classification": "Helmets",
+ "Credit Line": "Bashford Dean Memorial Collection, Funds from various donors, 1929",
+ "Accession Number": "29.158.38",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Helmets"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40004744,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/DP22360.jpg",
+ "related-artworks": [
+  40000118,
+  40000171,
+  40000175,
+  40000176,
+  40000179
+ ],
+ "Provenance": [
+  "Ex colls.:  Adalbert von Kolasinski, Warsaw",
+  "Bashford Dean, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40004744"
+  }
+ }
+}

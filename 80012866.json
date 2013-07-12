@@ -1,0 +1,40 @@
+{
+ "Date": "16th century–19th century",
+ "Culture": "Spanish (probably)",
+ "Medium": "gold",
+ "Dimensions": "[no dimension available]",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "X.104.1",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Iberian Peninsula, 1400–1600 A.D.",
+  "Southern Europe, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80012866,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/X104.1.jpg",
+ "related-artworks": [
+  80012868,
+  80012867,
+  80012855,
+  80012852,
+  80012884
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80012866"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "1800–1943",
+ "Culture": "French (Breton peoples)",
+ "Medium": "linen, silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. Beaumont Newhall, 1943",
+ "Accession Number": "C.I.43.12.10",
+ "What": [
+  "Costume",
+  "Silk",
+  "Linen",
+  "Caps",
+  "Coifs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1900 A.D.–present",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80006466,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI43.12.10_F.jpg",
+ "related-artworks": [
+  80011741,
+  80011779,
+  80011733,
+  80011783,
+  80038359
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80006466"
+  }
+ }
+}

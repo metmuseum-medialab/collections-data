@@ -1,0 +1,46 @@
+{
+ "Date": "early 19th century",
+ "Culture": "British",
+ "Medium": "Applied",
+ "Dimensions": [
+  "L. 11 x W. 3 1/2 inches",
+  "27.9 x 8.9 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.91",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120033157,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/58578.jpg",
+ "related-artworks": [
+  120030414,
+  120030562,
+  120032046,
+  120032082,
+  120032119
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120033157"
+  }
+ }
+}

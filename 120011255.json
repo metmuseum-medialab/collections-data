@@ -1,0 +1,52 @@
+{
+ "Artist": "After a composition by Marcantonio Raimondi (Italian, Argini (?) ca. 1480–before 1534 Bologna (?))",
+ "Date": "ca. 1555",
+ "Culture": "French, Paris",
+ "Medium": "Marble with traces of gilding",
+ "Dimensions": "43 1/4 x 24 1/2 in.  (109.9 x 62.2 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Fletcher Fund, 1929",
+ "Accession Number": "29.56",
+ "Who": [
+  "Marcantonio Raimondi",
+  "Jean Goujon"
+ ],
+ "What": [
+  "Sculpture",
+  "Gilt",
+  "Reliefs",
+  "Marble"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Patronage at the Later Valois Courts (1461–1589)",
+  "France, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120011255,
+ "gallery-id": 544,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES6027.jpg",
+ "related-artworks": [
+  90015995,
+  90018064,
+  90018065,
+  90018067,
+  90021176
+ ],
+ "Description": "Against a distant view of Jerusalem, Christ’s body is lowered into the arms of Saint John the Evangelist under the anguished gaze of Mary Magdalen, who kneels at the foot of the cross. On the left, one of the other Maries supports the swooning Virgin. Although the composition was based on an engraving by the Bolognese printmaker Marcantonio Raimondi (ca. 1480–before 1534), the figures’ thin draperies, elongated silhouettes, and Grecian profiles reflect the influence of the court artist Jean Goujon.",
+ "Provenance": [
+  "Saint-André family",
+  "Miss E. Jones"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011255"
+  }
+ }
+}

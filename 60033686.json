@@ -1,0 +1,45 @@
+{
+ "Culture": "Japan",
+ "Medium": "Wood, carved",
+ "Dimensions": "H. ca. 29 1/2 in. (74.9 cm); W. ca. 48 in. (121.9 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Mrs. Morris Stokes, 1951",
+ "Accession Number": "51.167",
+ "What": [
+  "Sculpture",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 60033686,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60012523"
+   },
+   {
+    "href": "http://scrapi.org/object/60033704"
+   },
+   {
+    "href": "http://scrapi.org/object/60012525"
+   },
+   {
+    "href": "http://scrapi.org/object/60012633"
+   },
+   {
+    "href": "http://scrapi.org/object/60013362"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60033686"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60033686"
+  }
+ }
+}

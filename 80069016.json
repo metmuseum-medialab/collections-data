@@ -1,0 +1,53 @@
+{
+ "Date": "ca. 1930",
+ "Culture": "British or American",
+ "Medium": "wool",
+ "Dimensions": "Length at CB 28 3/4 in. (73 cm)",
+ "Credit Line": "Gift of Mrs. John Sherman Cooper, 1978",
+ "Accession Number": "1978.358.2",
+ "What": [
+  "Costume",
+  "Wool",
+  "Sports clothing",
+  "Riding habits"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80069016,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.358.2_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1978.358.2_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1978.358.2_TQL.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80037532"
+   },
+   {
+    "href": "http://scrapi.org/object/80038674"
+   },
+   {
+    "href": "http://scrapi.org/object/80054364"
+   },
+   {
+    "href": "http://scrapi.org/object/80054366"
+   },
+   {
+    "href": "http://scrapi.org/object/80094870"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80069016"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80069016"
+  }
+ }
+}

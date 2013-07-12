@@ -1,0 +1,44 @@
+{
+ "Date": "1830–40",
+ "Geography": "New England, Sandwich, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Pressed glass",
+ "Dimensions": "Dimensions unavailable",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Emily Winthrop Miles, 1946",
+ "Accession Number": "46.140.330",
+ "Who": "Boston & Sandwich Glass Company",
+ "What": [
+  "Glass",
+  "Pressed glass",
+  "Salts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Sandwich"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10007189,
+ "gallery-id": 704,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP207340.jpg",
+ "related-artworks": [
+  10002506,
+  10005345,
+  10007247,
+  10007248,
+  10007249
+ ],
+ "Provenance": [
+  "Mrs. Emily Winthrop Miles, New York, until 1946"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10007189"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1750",
+ "Culture": "Italian",
+ "Medium": "Silk and metal thread",
+ "Dimensions": [
+  "L. 5 3/4 x W. 2 1/4 inches",
+  "14.6 x 5.7 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The United Piece Dye Works, 1936",
+ "Accession Number": "36.90.1983",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Fringe"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120042752,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP5228.jpg",
+ "related-artworks": [
+  120031039,
+  120042751,
+  120042754,
+  120042756,
+  120042757
+ ],
+ "Provenance": [
+  "Besselièvre"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120042752"
+  }
+ }
+}

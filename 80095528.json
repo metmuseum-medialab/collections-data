@@ -1,0 +1,43 @@
+{
+ "Date": "1955",
+ "Culture": "American",
+ "Medium": "plaster, papier-mache, wood, metal",
+ "Dimensions": [
+  "Length at CF 61 1/2 in. (156.2 cm)",
+  "Shoulders 34 1/2 in. (87.6 cm)",
+  "Bust 32 1/2 in. (82.6 cm)",
+  "Waist 22 3/4 in. (57.8 cm)",
+  "Hips 38 1/4 in. (97.2 cm)"
+ ],
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. John de Menil, 1957",
+ "Accession Number": "2009.300.2806",
+ "Who": "Charles James",
+ "What": [
+  "Metal",
+  "Paper",
+  "Plaster",
+  "Mannequins"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80095528,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/57.109.2_front_CP3.jpg",
+ "related-artworks": [
+  80095671,
+  80095530,
+  80095672,
+  80094092,
+  80017789
+ ],
+ "Description": "This form was made for the original butterfly dress, which was made for Mrs. William Randolph Hearst, Jr.   2009.300.816  in this donation is another version of the butterfly dress.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80095528"
+  }
+ }
+}

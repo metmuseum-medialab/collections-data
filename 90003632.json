@@ -1,0 +1,48 @@
+{
+ "Date": "1833",
+ "Medium": "Etching,second state",
+ "Dimensions": [
+  "plate 3 3/8 x 3 1/4 in. (8.6 x 8.3 cm)",
+  "sheet 8 9/16 x 5 7/8 in. (21.7 x 15 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1957",
+ "Accession Number": "57.583",
+ "Who": "Eugène Delacroix",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Vincent van Gogh (1853–1890)",
+  "Romanticism",
+  "Orientalism in Nineteenth–Century Art",
+  "The Print in the Nineteenth Century",
+  "The Aesthetic of the Sketch in Nineteenth–Century France",
+  "Lithography in the Nineteenth Century",
+  "The Rise of Paper Photography in 1850s France",
+  "Nadar (1820–1910)",
+  "The Salon and The Royal Academy",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90003632,
+ "related-artworks": [
+  90003625,
+  90003633,
+  90003634,
+  90004117,
+  90004289
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90003632"
+  }
+ }
+}

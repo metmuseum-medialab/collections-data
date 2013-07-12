@@ -1,0 +1,36 @@
+{
+ "Date": "1937",
+ "Culture": "French",
+ "Medium": "Straw, silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Bettina Ballard, 1952",
+ "Accession Number": "2009.300.4678",
+ "Who": "Madame Suzy",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Straw",
+  "Toys"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80107101,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/52.96.1_CP2.jpg",
+ "related-artworks": [
+  80034708,
+  80006330,
+  80034705,
+  80045608,
+  80006331
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107101"
+  }
+ }
+}

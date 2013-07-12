@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1650–80",
+ "Culture": "Dutch",
+ "Medium": "Tin-enameled earthenware",
+ "Dimensions": "Each tile 5-1/8 x 5-1/8 in.  (13.0 x 13.0 cm)",
+ "Classification": "Fans",
+ "Credit Line": "Fletcher Fund, 1927",
+ "Accession Number": "27.199.362–.445",
+ "What": [
+  "Costume",
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Fans",
+  "Tile"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 120011134,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/69564.jpg",
+ "related-artworks": [
+  120011056,
+  120011047,
+  120011071,
+  120011074,
+  120011085
+ ],
+ "Provenance": [
+  "Eelco M. Vis (before 1926–1927",
+  "Eelco M. Vis sale, American Art Association, no. 326)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011134"
+  }
+ }
+}

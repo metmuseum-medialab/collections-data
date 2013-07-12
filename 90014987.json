@@ -1,0 +1,33 @@
+{
+ "Publisher": "M'corquodale and Co. (London)",
+ "Date": "ca. 1885",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1956",
+ "Accession Number": "56.516.17",
+ "Who": [
+  "Clark  Company",
+  "M'corquodale  Co."
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90014987,
+ "related-artworks": [
+  90019077,
+  90000024,
+  90000066,
+  90000026,
+  90000027
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90014987"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Date": "late 15th–early 16th century",
+ "Culture": "Italian, Ferrara",
+ "Medium": "Gesso on wood (pastiglia)",
+ "Dimensions": "H. 7-1/4 x W. 8-1/2 x D. 10-1/4 in.  (18.4 x 21.6 x 26.0 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.141.1",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Gesso",
+  "Caskets",
+  "Pastiglia"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Ferrara"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Nuptial Furnishings in the Italian Renaissance",
+  "Art and Love in the Italian Renaissance"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120006203,
+ "gallery-id": 500,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP154237.jpg",
+ "related-artworks": [
+  120008275,
+  120011920,
+  120003380,
+  120006246,
+  120017232
+ ],
+ "Description": "The variety of fantastic ornament employed for the decoration of this casket was derived from Roman wall decoration. After centuries of burial, these decorations were revealed during the excavations of the Golden house of Nero in Rome, begun about 1480. As they were found underground in grotto-like spaces, they were named grottesche, or grotesques.",
+ "Provenance": [
+  "[ Heilbronner Gallery , until 1910",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006203"
+  }
+ }
+}

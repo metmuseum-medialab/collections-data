@@ -1,0 +1,56 @@
+{
+ "Date": "ca. 1100",
+ "Geography": "Made in Conques, France",
+ "Culture": "French",
+ "Medium": "Copper cut and gilt; champlevé and cloisonné enamel: black, lapis and lavender blue, turquoise, green, red, white, pinkish white.",
+ "Dimensions": "Overall 4 x 2 3/8 x 1/8in. (10.1 x 6.1 x 0.3cm)",
+ "Classification": "Enamels",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.429",
+ "What": [
+  "Metal",
+  "Gilt",
+  "Copper",
+  "Enamels",
+  "Plaques",
+  "Cloisonné",
+  "Champlevé"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Aveyron",
+  "Conques"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004295,
+ "gallery-id": 304,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-429s1.jpg",
+ "related-artworks": [
+  170004293,
+  170004292,
+  170004294,
+  170006019,
+  170015314
+ ],
+ "Description": "This ensemble, including four plaques with the symbols of the evangelists and a central roundel with the crucifixion, probably from a book cover, can be securely attributed to the celebrated pilgrimage abbey of Saint Foy at Conques, France's richest surviving repository of medieval goldsmith's work. Several of the rare works dispersed from the abbey's treasury in the nineteenth century share with others still in situ a technique, style, and palette uniquely combined during the abbacy of Bégon III in the late eleventh century. For these pieces the monk goldsmiths employed superimposed copper plaques, the lower one to receive the delicate cloisons that define features and drapery, the upper one cut to delineate the silhouettes of the figures and the cross. Hallmarks of the style include the single cloison used to define eyebrows and noses and the thin loop of gold that creates cowlicks. In the Metropolitan's reconstituted ensemble, the same remarkable oxblood color was used for the symbol of Saint Luke and the hair of the image of the Sun (\"Sol\") above the Crucifixion. Furthermore, scientific analysis has determined that common enamel compositions and the same metallic oxides were used to tint and opacify all five pieces.",
+ "Provenance": [
+  "Hôtel Drouot, Paris (November 10, 1853, no. 120 (?))",
+  "comte de Clermont(sold 1864)",
+  "his sale, Hôtel Drouot, Paris (April 18-20, 1864, no. 10, to Spitzer)",
+  "[ Frédéric Spitzer (d. 1890), Paris (from 1864",
+  "not listed in catalogue of 1890)]",
+  "Sigismond Bardac, Paris (in 1900)",
+  "Georges Hoentschel (French, Paris 1855–1915)(before 1911)",
+  "J. Pierpont Morgan, London and New York (until 1913)",
+  "Estate of J. Pierpont Morgan(1913-1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004295"
+  }
+ }
+}

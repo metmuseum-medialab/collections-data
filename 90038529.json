@@ -1,0 +1,40 @@
+{
+ "Printer": "Atelier Franck Bordas, Paris",
+ "Publisher": "American Abstract Artists (Princeton, New Jersey)",
+ "Date": "1987",
+ "Medium": "Lithograph",
+ "Dimensions": "plate 9 13/16 x 12 3/4 in. (24.9 x 32.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of American Abstract Artists, 1988",
+ "Accession Number": "1988.1095",
+ "Who": [
+  "Atelier Franck Bordas, Paris",
+  "American Abstract Artists",
+  "Heidi Glück"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90038529,
+ "related-artworks": [
+  90038656,
+  90038520,
+  90038522,
+  90038519,
+  90038535
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90038529"
+  }
+ }
+}

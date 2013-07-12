@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1775–85",
+ "Culture": "Belgian (Tournai)",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "Diam. 9-3/4 in. (24.8 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Alfred Duane Pell, 1913",
+ "Accession Number": "13.50.6",
+ "Who": "Tournai",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "Belgium",
+  "Tournai"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120006951,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/15576.jpg",
+ "related-artworks": [
+  120003386,
+  120003443,
+  120006521,
+  120006952,
+  120012608
+ ],
+ "Provenance": [
+  "Rev. Alfred Duane Pell (until 1913",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006951"
+  }
+ }
+}

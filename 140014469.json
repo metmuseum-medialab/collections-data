@@ -1,0 +1,44 @@
+{
+ "Date": "6th–7th century",
+ "Geography": "Egypt, Saqqara",
+ "Medium": "Limestone",
+ "Dimensions": [
+  "H. 12 3/4 in. (32.4 cm)",
+  "W. 10 1/4 in. (26 cm)",
+  "D. 10 1/4 in. (26 cm)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.175.49",
+ "What": [
+  "Sculpture",
+  "Limestone"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Saqqara"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140014469,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/10.175.49.JPG",
+ "related-artworks": [
+  140003317,
+  140014460,
+  140014474,
+  140014484,
+  140014536
+ ],
+ "Provenance": [
+  "Government of Egypt(until 1910)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140014469"
+  }
+ }
+}

@@ -1,0 +1,33 @@
+{
+ "Period": "Bronze Age",
+ "Medium": "Bronze",
+ "Dimensions": "length    11.81 cm.",
+ "Classification": "Bronzes",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.5345",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Chisels"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130004695,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP21055.jpg",
+ "related-artworks": [
+  130011684,
+  130004735,
+  130005038,
+  130011097,
+  130011108
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130004695"
+  }
+ }
+}

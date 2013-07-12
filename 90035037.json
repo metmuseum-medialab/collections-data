@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1890",
+ "Medium": "Watercolor and gouache",
+ "Dimensions": "sheet 13 15/16 x 10 in. (35.4 x 25.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1966",
+ "Accession Number": "66.68.2",
+ "Who": "Walter Crane",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90035037,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP801081.jpg",
+ "related-artworks": [
+  90008342,
+  90008343,
+  90000069,
+  90000528,
+  90034160
+ ],
+ "Provenance": [
+  "Vendor: Elkin Mathews Ltd."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90035037"
+  }
+ }
+}

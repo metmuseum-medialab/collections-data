@@ -1,0 +1,42 @@
+{
+ "Date": "1894",
+ "Medium": "Photogravure",
+ "Dimensions": "12.3 x 8.8 cm. (4  13/16  x 3  7/16  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Alfred Stieglitz Collection, 1949",
+ "Accession Number": "49.55.282",
+ "Who": "James Craig Annan",
+ "What": [
+  "Photographs",
+  "Photomechanical reproductions",
+  "Photogravures"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "International Pictorialism",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190021228,
+ "related-artworks": [
+  190019477,
+  190019612,
+  190019615,
+  190021194,
+  190021195
+ ],
+ "Provenance": [
+  "Alfred Stieglitz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190021228"
+  }
+ }
+}

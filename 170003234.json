@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 668–685",
+ "Medium": "Gold",
+ "Dimensions": "Overall 9/16 x 1/16 in. (1.5 x 0.1 cm)",
+ "Classification": "Coins",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.1492",
+ "What": [
+  "Metal",
+  "Gold",
+  "Money",
+  "Coins",
+  "Tremisses"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170003234,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf10-130-1492s1.jpg",
+ "related-artworks": [
+  170002605,
+  170008139,
+  170008218,
+  170008219,
+  170008140
+ ],
+ "Provenance": [
+  "Helen Miller Gould, New York (until 1910)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170003234"
+  }
+ }
+}

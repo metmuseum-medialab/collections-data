@@ -1,0 +1,34 @@
+{
+ "Date": "1805–15",
+ "Culture": "American",
+ "Medium": "Cotton",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Florence Inniss, 1970",
+ "Accession Number": "2009.300.5769",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Outerwear",
+  "Shawls"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80108188,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/70.123.2_CP2.jpg",
+ "related-artworks": [
+  80095445,
+  80038389,
+  80038306,
+  80038378,
+  80054078
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108188"
+  }
+ }
+}

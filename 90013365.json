@@ -1,0 +1,45 @@
+{
+ "Printer": "Printed by Paolo Monti",
+ "Dedicatee": "Dedicated to Charles VI, King of Austria (1685–1740)",
+ "Date": "1711",
+ "Medium": "Printed book with etched and engraved illustrations",
+ "Dimensions": [
+  "Overall 13 1/8 x 17 x 1 15/16 in. (33.4 x 43.2 x 5 cm)",
+  "Storage 18 3/16 x 14 3/16 x 2 13/16 in. (46.2 x 36 x 7.1 cm)"
+ ],
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "26.44",
+ "Who": [
+  "Ferdinando Galli Bibiena",
+  "Paolo Monti",
+  "Charles VI, King of Austria"
+ ],
+ "What": [
+  "Etching",
+  "Engraving",
+  "Books",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90013365,
+ "related-artworks": [
+  90043772,
+  90055604,
+  90021187,
+  90021188,
+  90072156
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90013365"
+  }
+ }
+}

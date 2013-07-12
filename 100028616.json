@@ -1,0 +1,44 @@
+{
+ "Period": "Macedonian-Ptolemaic Period",
+ "Date": "332–30 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, Birabi, MMA 1915–1916",
+ "Medium": "Bronze",
+ "Dimensions": "diam. 4.2 cm",
+ "Credit Line": "Rogers Fund and Edward S. Harkness Gift, 1922",
+ "Accession Number": "22.3.342",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Money",
+  "Coins"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100028616,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vscoins1x.jpg",
+ "related-artworks": [
+  100009157,
+  100028619,
+  100028617,
+  100028618,
+  100008646
+ ],
+ "Provenance": [
+  "Museum excavations, 1915-1916 season. Acquired by the Museum in the division of finds, 1922."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100028616"
+  }
+ }
+}

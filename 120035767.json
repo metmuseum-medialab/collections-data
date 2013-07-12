@@ -1,0 +1,46 @@
+{
+ "Date": "late 17th century",
+ "Culture": "French",
+ "Medium": "Needle lace",
+ "Dimensions": "L. 15 1/2 x W. 6 inches (39.4 x 15.2 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase by subscription, 1909",
+ "Accession Number": "09.68.158",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace",
+  "Neckwear",
+  "Neckcloths",
+  "Cravats"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120035767,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/AR789.jpg",
+ "related-artworks": [
+  120040734,
+  120035768,
+  120037728,
+  120040118,
+  120040147
+ ],
+ "Provenance": [
+  "Arthur Blackborne , 1909",
+  "to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120035767"
+  }
+ }
+}

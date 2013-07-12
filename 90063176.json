@@ -1,0 +1,34 @@
+{
+ "Date": "1901",
+ "Medium": "Photomechanical reproduction",
+ "Dimensions": "sheet 32 1/16 x 16 1/8 in. (81.5 x 41 cm)",
+ "Classification": "Posters",
+ "Credit Line": "Gift of Fern Bradley Dufner, 1952",
+ "Accession Number": "52.625.181",
+ "Who": "William Henry Bradley",
+ "What": "Posters",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90063176,
+ "related-artworks": [
+  90063175,
+  90012168,
+  90013964,
+  90013965,
+  90018994
+ ],
+ "Provenance": [
+  "Donor: Fern Bradley Dufner (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90063176"
+  }
+ }
+}

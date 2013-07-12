@@ -1,0 +1,31 @@
+{
+ "Date": "19th century",
+ "Medium": "Graphite and brown wash on tan wove paper",
+ "Dimensions": "sheet 7 3/16 x 7 3/16 in. (18.2 x 18.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1963",
+ "Accession Number": "63.611.23",
+ "Who": "Anonymous, French, 19th century",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Graphite"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90067006,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP812590.jpg",
+ "related-artworks": [
+  90007029,
+  90023921,
+  90025763,
+  90032635,
+  90043126
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90067006"
+  }
+ }
+}

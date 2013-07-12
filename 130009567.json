@@ -1,0 +1,38 @@
+{
+ "Period": "Classical",
+ "Date": "ca. 400 B.C.",
+ "Culture": "East Greek",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 8 7/8 in. (22.5 cm)",
+ "Classification": "Terracottas",
+ "Credit Line": "Gift of The American Society for the Exploration of Sardis, 1916",
+ "Accession Number": "16.75.20",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009567,
+ "related-artworks": [
+  130007414,
+  130008377,
+  130008372,
+  130008641,
+  130009188
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009567"
+  }
+ }
+}

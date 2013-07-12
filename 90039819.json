@@ -1,0 +1,38 @@
+{
+ "Date": "1841–84",
+ "Medium": "Graphite",
+ "Dimensions": "sheet 14 3/8 x 10 9/16 in. (36.5 x 26.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1946",
+ "Accession Number": "46.38.47",
+ "Who": "Charles Hindley  Sons",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90039819,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804589.jpg",
+ "related-artworks": [
+  90039772,
+  90039777,
+  90039778,
+  90039787,
+  90039818
+ ],
+ "Provenance": [
+  "Vendor: Charles Hindley and Sons (British, London 1841–1917 London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90039819"
+  }
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "Date": "20th century",
+ "Culture": "Scottish",
+ "Medium": "wool",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Purchase, Irene Lewisohn Bequest, 1963",
+ "Accession Number": "C.I.63.29.141",
+ "What": [
+  "Wool",
+  "Twill",
+  "Tartan"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80019470,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.63.29.141.JPG",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80019346"
+   },
+   {
+    "href": "http://scrapi.org/object/80019576"
+   },
+   {
+    "href": "http://scrapi.org/object/80019336"
+   },
+   {
+    "href": "http://scrapi.org/object/80019337"
+   },
+   {
+    "href": "http://scrapi.org/object/80019342"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80019470"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80019470"
+  }
+ }
+}

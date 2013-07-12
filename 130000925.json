@@ -1,0 +1,42 @@
+{
+ "Period": "Iron Age",
+ "Date": "ca. 1050–900 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta",
+ "Dimensions": "Other 1 1/2 x 4 11/16 in. (3.8 x 11.9 cm)",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.870",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Bowls"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Eastern Mediterranean, 2000–1000 B.C.",
+  "The Eastern Mediterranean, 1000 B.C.–1 A.D."
+ ],
+ "id": 130000925,
+ "related-artworks": [
+  130000653,
+  130000710,
+  130000680,
+  130000681,
+  130000745
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130000925"
+  }
+ }
+}

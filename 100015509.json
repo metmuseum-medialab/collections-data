@@ -1,0 +1,41 @@
+{
+ "Period": "Ptolemaic or Roman Period",
+ "Date": "304 B.C.–A.D. 364",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Linen",
+ "Dimensions": "L. 19 cm x H. 13 cm",
+ "Credit Line": "Gift of George F. Baker, 1890",
+ "Accession Number": "90.5.140",
+ "What": [
+  "Linen",
+  "Cloth"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1000 B.C.–1 A.D.",
+  "Egypt, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100015509,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vsgal28a4d.jpg",
+ "related-artworks": [
+  100000431,
+  100000428,
+  100000430,
+  100002699,
+  100005152
+ ],
+ "Provenance": [
+  "Previously collection of Emil Brugsch Bey, Cairo. Purchased from Brugsch and donated to the museum in 1890 by George F. Baker, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100015509"
+  }
+ }
+}

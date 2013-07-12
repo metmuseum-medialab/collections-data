@@ -1,0 +1,40 @@
+{
+ "Artist": "after Victor Jean Nicolle (French, Paris 1754–1826 Paris)",
+ "Date": "1855",
+ "Medium": "Etching; first state of six",
+ "Dimensions": [
+  "Sheet 4 15/16 × 9 1/16 in. (12.5 × 23 cm)",
+  "Plate 5 1/4 × 9 7/16 in. (13.4 × 23.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Anonymous Gift, 2012",
+ "Accession Number": "2012.541",
+ "Who": [
+  "Charles Meryon",
+  "Victor Jean Nicolle"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90099478,
+ "related-artworks": [
+  90044496,
+  90044500,
+  90044525,
+  90044503,
+  90044504
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90099478"
+  }
+ }
+}

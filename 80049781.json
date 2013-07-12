@@ -1,0 +1,37 @@
+{
+ "Date": "1949",
+ "Culture": "American",
+ "Medium": "straw, feathers",
+ "Dimensions": "Diameter (curve of crown-front to back) 12 in. (30.5 cm)",
+ "Credit Line": "Gift of Miss Isabel Shults, 1953",
+ "Accession Number": "C.I.53.16.13a–c",
+ "Who": "Bergdorf Goodman",
+ "What": [
+  "Costume",
+  "Hats",
+  "Feather",
+  "Straw"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80049781,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI53.16.13a.jpg",
+ "related-artworks": [
+  80001371,
+  80006121,
+  80030513,
+  80034704,
+  80034855
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80049781"
+  }
+ }
+}

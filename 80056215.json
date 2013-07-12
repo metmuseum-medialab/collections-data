@@ -1,0 +1,34 @@
+{
+ "Date": "1880s",
+ "Culture": "European",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Lee Simonson, 1938",
+ "Accession Number": "C.I.38.23.387",
+ "What": [
+  "Costume",
+  "Neckwear",
+  "Neckcloths",
+  "Cravats"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80056215,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI38.23.387.jpg",
+ "related-artworks": [
+  80056209,
+  80056210,
+  80055869,
+  80114834,
+  80115194
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80056215"
+  }
+ }
+}

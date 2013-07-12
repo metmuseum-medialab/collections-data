@@ -1,0 +1,44 @@
+{
+ "Date": "2nd–5th century",
+ "Geography": "Peru",
+ "Culture": "Moche",
+ "Medium": "Copper (cast)",
+ "Dimensions": "H x W 2 1/4 x 2 3/8in. (5.7 x 6.1cm)",
+ "Classification": "Metal-Implements",
+ "Credit Line": "Bequest of Jane Costello Goldberg, from the Collection of Arnold I. Goldberg, 1986",
+ "Accession Number": "1987.394.152",
+ "Who": "Moche",
+ "What": [
+  "Metal",
+  "Arms",
+  "Copper",
+  "Clubs",
+  "Maces"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50007881,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1987.394.152.jpg",
+ "related-artworks": [
+  50005623,
+  50008024,
+  50008145,
+  50007880,
+  50007883
+ ],
+ "Provenance": [
+  "[Everett Rassiga, New York, until 1967]",
+  "Arnold I. Goldberg, New York, 1967–(d.)1976",
+  "Jane Costello Goldberg, New York, 1976– (d.)1986"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50007881"
+  }
+ }
+}

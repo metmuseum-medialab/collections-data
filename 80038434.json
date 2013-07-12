@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1970",
+ "Culture": "American",
+ "Medium": "synthetic (corefam), leather",
+ "Dimensions": "Length 10 in. (25.4 cm)",
+ "Credit Line": "The Jacqueline Loewe Fowler Costume Collection, Gift of Jacqueline Loewe Fowler, 1981",
+ "Accession Number": "1981.380.15a, b",
+ "What": [
+  "Costume",
+  "Leather",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80038434,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1981.380.15ab_F.jpg",
+ "related-artworks": [
+  80000100,
+  80000098,
+  80000129,
+  80001093,
+  80002153
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80038434"
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "Date": "ca. 1907",
+ "Culture": "American or European",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. H. E. Winlock, 1941",
+ "Accession Number": "C.I.41.44.5",
+ "What": [
+  "Costume",
+  "Boleros"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80033962,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.41.44.5_F.jpg",
+ "related-artworks": [
+  80001283,
+  80007532,
+  80061722,
+  80025079,
+  80032472
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80033962"
+  }
+ }
+}

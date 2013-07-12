@@ -1,0 +1,51 @@
+{
+ "Date": "mid-15th century",
+ "Culture": "Italian, Florence",
+ "Medium": "Bronze, dark brown patina",
+ "Dimensions": "H. 12 1/4 in. (31.1 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of George Blumenthal, 1941",
+ "Accession Number": "41.100.74",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Lighting devices",
+  "Candleholders",
+  "Candlesticks",
+  "Patina"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Florence"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013722,
+ "gallery-id": 500,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/124706.jpg",
+ "related-artworks": [
+  120011952,
+  120023134,
+  120007013,
+  120023136,
+  120023145
+ ],
+ "Description": "The figure, with his contrapposto pose, shows the pervasive influence of Donatello (ca. 1386–1466).",
+ "Provenance": [
+  "John Edward Taylor , London",
+  "George and Florence Blumenthal , New York (until her death in 1930)",
+  "George Blumenthal (until 1941",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013722"
+  }
+ }
+}

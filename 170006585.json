@@ -1,0 +1,45 @@
+{
+ "Date": "mid-16th century",
+ "Culture": "German",
+ "Medium": "Glass",
+ "Dimensions": [
+  "Overall 8 5/8 x 3 7/16 in. (21.9 x 8.8 cm)",
+  "at foot 2 11/16 in. (6.9 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Munsey Fund, 1927",
+ "Accession Number": "27.185.203",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Beakers"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170006585,
+ "gallery-id": 307,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf27-185-203s1.jpg",
+ "related-artworks": [
+  170006586,
+  170006588,
+  170002712,
+  170006587,
+  170006589
+ ],
+ "Description": "This exceptionally tall, straight-sided glass, sometimes called a Stangenglas (pole glass), is as richly ornamented on the inside as on the outside. It is a rare example of a glass featuring sharp-pointed spikes that project into the glass.",
+ "Provenance": [
+  "Othmar Strauss, Vienna (until 1922)",
+  "Jacques Mühsam, Berlin (1922–sold 1927)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006585"
+  }
+ }
+}

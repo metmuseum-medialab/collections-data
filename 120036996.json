@@ -1,0 +1,54 @@
+{
+ "Date": "early 19th century",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Dimensions": "Dimensions not recorded.",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Maria P. James, 1911",
+ "Accession Number": "11.60.747",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Samples"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120036996,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP16906.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/DP16906.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/DP16906_11.60.747.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120036847"
+   },
+   {
+    "href": "http://scrapi.org/object/120036856"
+   },
+   {
+    "href": "http://scrapi.org/object/120036849"
+   },
+   {
+    "href": "http://scrapi.org/object/120036858"
+   },
+   {
+    "href": "http://scrapi.org/object/120036843"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120036996"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120036996"
+  }
+ }
+}

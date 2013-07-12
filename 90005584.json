@@ -1,0 +1,40 @@
+{
+ "Date": "1914",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Plate 9 15/16 x 7 3/4 in. (25.2 x 19.7 cm)",
+  "Sheet 10 5/8 × 8 11/16 in. (27 × 22 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Leo Steinberg, 1998",
+ "Accession Number": "1998.466.3",
+ "Who": "Ernest S. Lumsden",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90005584,
+ "related-artworks": [
+  90051241,
+  90051253,
+  90051243,
+  90051245,
+  90051249
+ ],
+ "Provenance": [
+  "Donor: Leo Steinberg (American, Moscow 1921–2011 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90005584"
+  }
+ }
+}

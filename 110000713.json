@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1780",
+ "Medium": "Ivory",
+ "Dimensions": "Oval, 1 1/4 x 1 1/8 in. (32 x 29 mm)",
+ "Classification": "Miniatures",
+ "Credit Line": "The Moses Lazarus Collection, Gift of Josephine and Sarah Lazarus, in memory of their father, 1888–95",
+ "Accession Number": "95.14.55",
+ "Who": "George Engleheart",
+ "What": [
+  "Paintings",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110000713,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/50908.jpg",
+ "related-artworks": [
+  110000714,
+  110000715,
+  110000717,
+  90021117
+ ],
+ "Provenance": [
+  "Moses Lazarus, New York (until d. 1885)",
+  "his daughters, Josephine and Sarah Lazarus, New York (1885–1888/95)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110000713"
+  }
+ }
+}

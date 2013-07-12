@@ -1,0 +1,40 @@
+{
+ "Period": "Halaf",
+ "Date": "ca. 4500 B.C.",
+ "Geography": "Mesopotamia",
+ "Culture": "Halaf",
+ "Medium": "Ceramic, paint",
+ "Dimensions": "3 1/4 x 3 1/2 in. (8.4 x 8.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Anonymous Gift, 1962",
+ "Accession Number": "62.154.6",
+ "Who": "Halaf",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Fragments",
+  "Sherds"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30004192,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME62_154_6.jpg",
+ "related-artworks": [
+  30006058,
+  30006059,
+  30006060,
+  30006061,
+  30001177
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30004192"
+  }
+ }
+}

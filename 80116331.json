@@ -1,0 +1,33 @@
+{
+ "Date": "1805–10",
+ "Culture": "British",
+ "Medium": "Silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Designated Purchase Fund, 1983",
+ "Accession Number": "2009.300.8048",
+ "What": [
+  "Costume",
+  "Silk",
+  "Underwear",
+  "Underdresses"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 80116331,
+ "related-artworks": [
+  80007415,
+  80007416,
+  80037281,
+  80097576,
+  80095865
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80116331"
+  }
+ }
+}

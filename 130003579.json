@@ -1,0 +1,36 @@
+{
+ "Medium": "Gold, glass paste",
+ "Dimensions": "Other 5/16 x 5/16 x 3/8 in. (0.8 x 0.8 x 1 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.3690",
+ "What": [
+  "Metal",
+  "Glass",
+  "Silver",
+  "Gold",
+  "Faience",
+  "Pendants",
+  "Beads",
+  "Glass paste"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "id": 130003579,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/sf74513690.jpg",
+ "related-artworks": [
+  130003578,
+  130003694,
+  130003693,
+  130003695,
+  130003696
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130003579"
+  }
+ }
+}

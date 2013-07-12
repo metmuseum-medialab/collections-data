@@ -1,0 +1,44 @@
+{
+ "Period": "Early Dynastic Period",
+ "Dynasty": "Dynasty 1–2",
+ "Date": "ca. 2960–2926 B.C.",
+ "Geography": "Country of Origin Egypt, Southern Upper Egypt, Gebelein (Nag el-Gharira; Krokodilopolis), Maspero",
+ "Medium": "Wood, fiber",
+ "Dimensions": "L. 161 cm (63 3/8 in); w. 71 cm (27 15/16 in)",
+ "Credit Line": "Funds from various donors, 1886",
+ "Accession Number": "86.1.39",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Stands",
+  "Biers"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008932,
+ "gallery-id": 103,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs86.1.39.jpg",
+ "related-artworks": [
+  100008352,
+  100009380,
+  100002357,
+  100019247,
+  100029633
+ ],
+ "Description": "The earliest evidence from Egypt (ca. 3400 B.C.) indicates that beds were used in burials as biers for the deceased. On this bed, a thin rope of plant fibers was passed back and forth across the center, through the slots, and looped over the rails. This webbing, often patterned, formed the bed's surface. Fragments are preserved at one end. Decorative elements in the form of papyrus umbels (blooms) adorn the ends of the rails of the bed. The supports are shaped like the front and hind legs of a bull. The anatomical differences in the legs are especially discernible in the ivory versions made for royalty.",
+ "Provenance": [
+  "Excavated at Gebelein by Gaston Maspero on behalf of the Egyptian Antiquities Service. Purchased from the Egyptian Government, 1886."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008932"
+  }
+ }
+}

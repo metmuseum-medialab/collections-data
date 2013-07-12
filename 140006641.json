@@ -1,0 +1,49 @@
+{
+ "Date": "10th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware; white slip with polychrome slip decoration under transparent glaze",
+ "Dimensions": [
+  "H. 3 in (7.6 cm)",
+  "Diam. 10 in. (25.4 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.40.154",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Bowls",
+  "Slip"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140006641,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf38-40-154a.jpg",
+ "related-artworks": [
+  140006830,
+  140003920,
+  140006307,
+  140006308,
+  140006333
+ ],
+ "Provenance": [
+  "1937, excavated at Village Tepe in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1938, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140006641"
+  }
+ }
+}

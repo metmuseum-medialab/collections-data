@@ -1,0 +1,54 @@
+{
+ "Date": "ca. 1670 or slightly later",
+ "Medium": "Oil on wood",
+ "Dimensions": "14 1/2 x 11 3/4 in. (36.8 x 29.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Purchase, 1871",
+ "Accession Number": "71.70",
+ "Who": "Pieter van Slingelandt",
+ "What": [
+  "Paintings",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110002140,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP143190.jpg",
+ "related-artworks": [
+  110001084,
+  110002001,
+  110002331,
+  110002373,
+  110003036
+ ],
+ "Provenance": [
+  "the sitter, Johan Hulshout, Leiden (about 1670–d. 1687)",
+  "his son, Johannes Hulshout, Leiden (1687–d. 1713)",
+  "his daughter, Anna Hulshout, Leiden (1713–d. 1766)",
+  "her daughter, Elisabeth Dorothea de Raet, Leiden (1766–d. 1780)",
+  "her widower, baron Nicolaes van den Boetzelaer, Leiden (1780–d. 1796)",
+  "their daughter, Magdalena Anna Elisabeth van den Boetzelaer, Leiden (1796–d. 1808)",
+  "her daughter, baroness Diederica Catharina van Slingelandt, Leiden (1808–d. 1838)",
+  "her widower, Daniël Hooft, Leiden (1838–d. 1860",
+  "his estate sale, Amsterdam, October 30, 1860, no. 2, as \"Portrait en pied d'un magistrat,\" for 445 florins to Brack)",
+  "J. P. Gilkinet, Liège (until 1863",
+  "his sale, Hôtel des Commissaires-Priseurs, Paris, April 18, 1863, no. 38, as \"Portrait d'un magistrat,\" for Fr 700)",
+  "comte Cornet de Ways Ruart, Brussels (until d. 1870)",
+  "[Étienne Le Roy, Brussels, and Léon Gauchez, Paris, 1870]",
+  "William T. Blodgett, Paris (from 1870",
+  "sold half share to Johnston)",
+  "William T. Blodgett, Paris, and John Taylor Johnston, New York (1870–71",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110002140"
+  }
+ }
+}

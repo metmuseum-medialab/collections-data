@@ -1,0 +1,59 @@
+{
+ "Date": "390–450",
+ "Geography": "Peru",
+ "Culture": "Moche (Loma Negra)",
+ "Medium": "Silvered copper",
+ "Dimensions": "H. 4 1/8 x W. 2 3/4 in. (10.5 x 7 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.1313",
+ "Who": "Moche",
+ "What": [
+  "Metal",
+  "Fragments",
+  "Copper"
+ ],
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central and Southern Andes, 1–500A.D.",
+ "id": 50006136,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_206_1313.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/50006143",
+  "http://scrapi.org/object/50006135",
+  "http://scrapi.org/object/50006139",
+  "http://scrapi.org/object/50006140",
+  "http://scrapi.org/object/50006144"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "[Andre Emmerich Gallery, New York, until 1969]",
+  "Nelson A. Rockefeller, New York, 1969, on loan to The  Museum of Primitive Art, New York, 1969–1978"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50006143"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50006135"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50006139"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50006140"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50006144"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50006136"
+  }
+ }
+}

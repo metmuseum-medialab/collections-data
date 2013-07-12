@@ -1,0 +1,42 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1941",
+ "Medium": "Lithograph",
+ "Dimensions": "image 13 1/2 x 10 in. (34.3 x 25.4 cm) sheet: 16 x 12 1/4 in. (40.6 x 31.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, New York, 1943",
+ "Accession Number": "43.33.477",
+ "Who": [
+  "WPA",
+  "Saul Kovner"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90048673,
+ "related-artworks": [
+  90048668,
+  90048669,
+  90048670,
+  90048671,
+  90048675
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90048673"
+  }
+ }
+}

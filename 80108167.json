@@ -1,0 +1,39 @@
+{
+ "Maker": "Mr. John, Inc. (American, 1948–1970)",
+ "Date": "1955",
+ "Culture": "American",
+ "Medium": "Wool, silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Stanley Mortimer, 1970",
+ "Accession Number": "2009.300.5747",
+ "Who": [
+  "Mr. John, Inc.",
+  "John P. John"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Wool",
+  "Hats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80108167,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/70.20.29_CP2.jpg",
+ "related-artworks": [
+  80107321,
+  80107409,
+  80094226,
+  80107318,
+  80107700
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108167"
+  }
+ }
+}

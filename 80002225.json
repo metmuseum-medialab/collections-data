@@ -1,0 +1,42 @@
+{
+ "Date": "1970s",
+ "Culture": "American",
+ "Medium": "synthetics, plastic",
+ "Dimensions": "Length at CB 29 in. (73.7 cm)",
+ "Credit Line": "Gift of Jane Holzer, 1993",
+ "Accession Number": "1993.517.28",
+ "Who": "Halston",
+ "What": [
+  "Costume",
+  "Plastic",
+  "Skirts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "American Ingenuity Sportswear, 1930s–1970s",
+  "Classicism in Modern Dress",
+  "The Chiton, Peplos, and Himation in Modern Dress",
+  "Classical Art and Modern Dress",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80002225,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1993.517.28_F.jpg",
+ "related-artworks": [
+  80000043,
+  80002202,
+  80002201,
+  80001312,
+  80002219
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002225"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "1880s",
+ "Medium": "Albumen silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Museum accession, 1955",
+ "Accession Number": "55.672",
+ "Who": "William Notman",
+ "What": [
+  "Photographs",
+  "Furniture",
+  "Albumen silver prints",
+  "Case furniture",
+  "Cabinets"
+ ],
+ "Where": [
+  "North and Central America",
+  "Canada"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190021675,
+ "related-artworks": [
+  190022704,
+  190039667,
+  190041131,
+  190011839,
+  190020443
+ ],
+ "Provenance": [
+  "N/A"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190021675"
+  }
+ }
+}

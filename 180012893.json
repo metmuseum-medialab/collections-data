@@ -1,0 +1,30 @@
+{
+ "Date": "late 19th century",
+ "Culture": "Fan Tribe",
+ "Medium": "Wood",
+ "Dimensions": "L.15.9 cm  (6-1/4 in.)",
+ "Classification": "Aerophone-Blow Hole",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.531",
+ "What": [
+  "Musical instruments",
+  "Aerophones",
+  "Flutes"
+ ],
+ "In the Museum": "Musical Instruments",
+ "MetPublications": "Search for related Met publications",
+ "id": 180012893,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/260510.jpg",
+ "related-artworks": [
+  180012267,
+  180012271,
+  180012272,
+  180012316,
+  180012338
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180012893"
+  }
+ }
+}

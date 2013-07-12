@@ -1,0 +1,41 @@
+{
+ "Date": "20th century",
+ "Geography": "Burkina Faso, Black Volta River region",
+ "Culture": "Nuna",
+ "Medium": "Wood, fiber, reptile skin",
+ "Dimensions": "Height 10 in.",
+ "Classification": "Wood-Musical Instruments",
+ "Credit Line": "Gift of Thomas G.B. Wheelock, 1997",
+ "Accession Number": "1997.444.15",
+ "Who": "Nuna",
+ "What": [
+  "Musical instruments",
+  "Aerophones",
+  "Flutes"
+ ],
+ "Where": [
+  "Africa",
+  "Burkina Faso"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Western and Central Sudan, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50010530,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/hz1997_444_15.jpg",
+ "related-artworks": [
+  50010529,
+  50010531,
+  50010532,
+  50011916,
+  50010520
+ ],
+ "Provenance": [
+  "Collected Burkina Faso, by Thomas G.B. Wheelock, New York, 1975–1997"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50010530"
+  }
+ }
+}

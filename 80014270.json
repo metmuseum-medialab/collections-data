@@ -1,0 +1,41 @@
+{
+ "Manufacturer": "Textile by Milliken (American)",
+ "Date": "1976",
+ "Culture": "American",
+ "Medium": "Lycra blend",
+ "Dimensions": "Length at CB 17 1/2 in. (44.5 cm)",
+ "Credit Line": "Gift of Bonnie August, 2003",
+ "Accession Number": "2003.353.4",
+ "Who": [
+  "Danskin",
+  "Bonnie August",
+  "Milliken"
+ ],
+ "What": [
+  "Costume",
+  "Elastomer",
+  "Spandex",
+  "Leotards"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80014270,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2003.353.4.JPG",
+ "related-artworks": [
+  80014268,
+  80014269,
+  80014272,
+  80014271
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80014270"
+  }
+ }
+}

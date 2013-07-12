@@ -1,0 +1,46 @@
+{
+ "Artist": "Formerly known as Louis Breslow (American, 1908–2011)",
+ "Publisher": "Published by WPA",
+ "Date": "1935–43",
+ "Medium": "Wood engraving",
+ "Dimensions": "block 6 x 8 in. (15.2 x 20.3 cm) sheet: 8 3/4 x 11 1/4 in. (22.2 x 28.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of New York City WPA, 1943",
+ "Accession Number": "43.33.16",
+ "Who": [
+  "WPA",
+  "Lou Barlow",
+  "Louis Breslow"
+ ],
+ "What": [
+  "Prints",
+  "Engraving",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90028375,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820151.jpg",
+ "related-artworks": [
+  90016335,
+  90028371,
+  90028372,
+  90028374,
+  90028370
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90028375"
+  }
+ }
+}

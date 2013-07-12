@@ -1,0 +1,60 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Date": "ca. 2030–1640 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Cemetery, MMA",
+ "Medium": "Ivory, faience",
+ "Dimensions": "l. 2.6 cm (1 in); w. 0.9 cm (3/8 in)",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.151.317",
+ "What": [
+  "Costume",
+  "Faience",
+  "Jewelry",
+  "Bone",
+  "Ivory",
+  "Necklaces"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 8000–2000 B.C.",
+  "Egypt, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100033529,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs22.1.1355.jpg",
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100033528"
+   },
+   {
+    "href": "http://scrapi.org/object/100033526"
+   },
+   {
+    "href": "http://scrapi.org/object/100033527"
+   },
+   {
+    "href": "http://scrapi.org/object/100033530"
+   },
+   {
+    "href": "http://scrapi.org/object/100003488"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100033529"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100033529"
+  }
+ }
+}

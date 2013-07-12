@@ -1,0 +1,46 @@
+{
+ "Artist": "Paintings after a design by François Boucher (French, Paris 1703–1770 Paris)",
+ "Date": "ca. 1770–75",
+ "Culture": "Swiss",
+ "Medium": "Gold, enamel",
+ "Dimensions": "3-9/16 x 1-7/8 x 1-9/16 in.  (9.0 x 4.8 x 4.0 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1976",
+ "Accession Number": "1976.155.19",
+ "Who": [
+  "François Boucher",
+  "A. P. C., Switzerland"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Gold",
+  "Enamel",
+  "Snuff containers",
+  "Platinum",
+  "Snuffboxes"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120022489,
+ "gallery-id": 545,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES7314.jpg",
+ "related-artworks": [
+  120005717,
+  120008532,
+  120008612,
+  120015571,
+  120021153
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022489"
+  }
+ }
+}

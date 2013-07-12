@@ -1,0 +1,36 @@
+{
+ "Period": "Nabataean",
+ "Date": "ca. 1st century A.D.",
+ "Culture": "Nabataean",
+ "Medium": "Ceramic",
+ "Dimensions": "3.82 in. (9.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of the American Expedition to Petra, 1967",
+ "Accession Number": "67.246.7",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Unguentaria"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Ancient Near Eastern Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 30004555,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME67_246_8.jpg",
+ "related-artworks": [
+  30004576,
+  30004577,
+  30004578,
+  30004561,
+  30004562
+ ],
+ "Provenance": [
+  "1961, purchased at Petra by the American Expedition to Petra",
+  "acquired by the Museum in 1967, gift of the American Expedition to Petra."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30004555"
+  }
+ }
+}

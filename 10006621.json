@@ -1,0 +1,46 @@
+{
+ "Date": "1800–1830",
+ "Geography": "China",
+ "Culture": "Chinese",
+ "Medium": "Porcelain",
+ "Dimensions": "Diam. 9 5/8 in. (24.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. W. Murray Crane, 1954",
+ "Accession Number": "54.87.25",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Plates"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10006621,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/157746.jpg",
+ "related-artworks": [
+  10002159,
+  10002839,
+  10002907,
+  10002910,
+  10002915
+ ],
+ "Provenance": [
+  "Mrs. W. Murray Crane, New York, until 1954"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006621"
+  }
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Reign": "reign of Amenemhat III",
+ "Date": "ca. 1859–1813 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Priests' Cemetery, Tomb of Senwosretankh (MMA 211), MMA 1921–1922",
+ "Medium": "Wood",
+ "Dimensions": "L. 29 x W. 10.5 cm (11 7/16 x 4 1/8 in.)",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.3.286",
+ "What": [
+  "Costume",
+  "Wood",
+  "Footwear",
+  "Models",
+  "Sandals"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100001734,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs25.3.286a.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/eg/original/vs25.3.286a.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/25.3.286.JPG"
+ ],
+ "Provenance": [
+  "Museum excavations 1921–22. Acquired by the Museum in the division of finds, 1925."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100030938"
+   },
+   {
+    "href": "http://scrapi.org/object/100050422"
+   },
+   {
+    "href": "http://scrapi.org/object/100050423"
+   },
+   {
+    "href": "http://scrapi.org/object/100004316"
+   },
+   {
+    "href": "http://scrapi.org/object/100004565"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100001734"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100001734"
+  }
+ }
+}

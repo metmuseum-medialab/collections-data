@@ -1,0 +1,51 @@
+{
+ "Author": "Written by Longus (Greek, active 3rd century A.D.)",
+ "Publisher": "Published by Ambroise Vollard (French, 1867–1939)",
+ "Date": "1902",
+ "Medium": "Lithograph, proof impression on China paper",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1985",
+ "Accession Number": "1985.1082.1",
+ "Who": [
+  "Ambroise Vollard",
+  "Pierre Bonnard",
+  "Longus"
+ ],
+ "What": [
+  "Prints",
+  "Paper",
+  "Planographic prints",
+  "Lithographs",
+  "Proofs",
+  "China paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Nabis and Decorative Painting",
+  "School of Paris",
+  "Lithography in the Nineteenth Century",
+  "Japonisme",
+  "Pierre Bonnard (1867–1947) The Late Interiors",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90004186,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP824355.jpg",
+ "related-artworks": [
+  90004173,
+  90004182,
+  90004162,
+  90004201,
+  90004164
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90004186"
+  }
+ }
+}

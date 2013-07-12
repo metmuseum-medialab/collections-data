@@ -1,0 +1,39 @@
+{
+ "Medium": "Ivory",
+ "Dimensions": "4 x 3 1/8 in. (100 x 80 mm)",
+ "Classification": "Miniatures",
+ "Credit Line": "Bequest of Margaret Crane Hurlbut, 1933",
+ "Accession Number": "33.136.15",
+ "Who": "Joshua Wilson Faulkner",
+ "What": [
+  "Paintings",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110000738,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/94567.jpg",
+ "related-artworks": [
+  110000717,
+  110000729,
+  110001768,
+  110002116,
+  110002403
+ ],
+ "Provenance": [
+  "Margaret Crane Hurlbut (until d. 1933)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110000738"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Period": "Sasanian",
+ "Date": "ca. 3rd–7th century A.D.",
+ "Geography": "Egypt",
+ "Culture": "Sasanian",
+ "Medium": "Wool",
+ "Dimensions": "3.54 x 7.09 in. (8.99 x 18.01 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mr. and Mrs. Charles D. Kelekian, 1979",
+ "Accession Number": "1979.102",
+ "Who": "Sasanian",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Wool"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 500–1000 A.D.",
+  "Egypt, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 30005302,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss1979_102.jpg",
+ "related-artworks": [
+  30004903,
+  30004653,
+  30004657,
+  30004660,
+  30004656
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1979, gift of Mr. and Mrs. Charles D. Kelekian, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30005302"
+  }
+ }
+}

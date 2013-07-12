@@ -1,0 +1,43 @@
+{
+ "Date": "20th century",
+ "Culture": "China",
+ "Medium": "Folding fan mounted as an album leaf; ink on paper",
+ "Dimensions": "8 x 21 1/4 in. (20.3 x 54 cm)",
+ "Classification": "Calligraphy",
+ "Credit Line": "Gift of Robert Hatfield Ellsworth, in memory of La Ferne Hatfield Ellsworth, 1995",
+ "Accession Number": "1995.289.4",
+ "Who": "Pan Feisheng",
+ "What": [
+  "Costume",
+  "Ink",
+  "Paper",
+  "Books",
+  "Albums",
+  "Fans",
+  "Calligraphy"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60020441,
+ "related-artworks": [
+  60007439,
+  60020439,
+  60020440,
+  60020442,
+  60020443
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60020441"
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "Date": "1865",
+ "Medium": "Albumen silver print from glass negative",
+ "Classification": "Photographs",
+ "Credit Line": "Harris Brisbane Dick Fund, 1941",
+ "Accession Number": "41.21.8",
+ "Who": "Julia Margaret Cameron",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Julia Margaret Cameron (1815–1879)",
+  "The Industrialization of French Photography after 1860",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190020544,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/MM16061.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/190012110",
+  "http://scrapi.org/object/190020527",
+  "http://scrapi.org/object/190020535",
+  "http://scrapi.org/object/190020543",
+  "http://scrapi.org/object/190020540"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "[E.P. Goldschmidt & Co.]"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190012110"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190020527"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190020535"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190020543"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190020540"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190020544"
+  }
+ }
+}

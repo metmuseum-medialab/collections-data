@@ -1,0 +1,58 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": [
+  "Black lacquer and nashiji ground with gold and silver iroe togidashi and hiramaki-e",
+  "Netsuke Kintarō with forest animals on peach stone; ivory, mother-of-pearl, tortoise shell",
+  "Ojime melon; red bronze with iron and gilding"
+ ],
+ "Dimensions": "3 x 3 1/8 x 13/16 in. (7.6 x 7.9 x 2 cm)",
+ "Classification": "Inrō",
+ "Credit Line": "The Howard Mansfield Collection, Purchase, Rogers Fund, 1936",
+ "Accession Number": "36.100.241",
+ "Who": "Koma Yasutada",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Silver",
+  "Gold",
+  "Bronze",
+  "Gilt",
+  "Stone",
+  "Iron and iron alloy",
+  "Bone",
+  "Ivory",
+  "Iron",
+  "Beads",
+  "Lacquer",
+  "Shell",
+  "Netsukes",
+  "Pearl",
+  "Inro",
+  "Sagemono",
+  "Ojime"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60030181,
+ "gallery-id": 231,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP281397.jpg",
+ "related-artworks": [
+  60025380,
+  60013283,
+  60030182
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030181"
+  }
+ }
+}

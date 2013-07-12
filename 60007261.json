@@ -1,0 +1,42 @@
+{
+ "Period": "Eastern Javanese period",
+ "Date": "early 9th–14th century",
+ "Culture": "Indonesia (Java)",
+ "Medium": "Gold with inlaid stones",
+ "Dimensions": "1 1/4 in. (3.2 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "The Samuel Eilenberg-Jonathan P. Rosen Collection of Indonesian Gold, Bequest of Samuel Eilenberg and Gift of Jonathan P. Rosen, 1998",
+ "Accession Number": "1998.544.66",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Stone",
+  "Jewelry"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 500–1000 A.D.",
+  "Southeast Asia, 1000–1400 A.D."
+ ],
+ "id": 60007261,
+ "gallery-id": 247,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1998_544_66.jpg",
+ "related-artworks": [
+  60007264,
+  60020651,
+  60020719,
+  60020720,
+  60020723
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60007261"
+  }
+ }
+}

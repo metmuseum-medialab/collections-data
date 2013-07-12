@@ -1,0 +1,54 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1773",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "H. 8 3/8 in. (21.3 cm); W. 14 3/4 in. (37.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Estate of Samuel Isham, 1914",
+ "Accession Number": "JP892",
+ "Who": "Isoda Koryūsai",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60025729,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP124451.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60000712"
+   },
+   {
+    "href": "http://scrapi.org/object/60000716"
+   },
+   {
+    "href": "http://scrapi.org/object/60000794"
+   },
+   {
+    "href": "http://scrapi.org/object/60025726"
+   },
+   {
+    "href": "http://scrapi.org/object/60025727"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60025729"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60025729"
+  }
+ }
+}

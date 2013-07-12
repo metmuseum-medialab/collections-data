@@ -1,0 +1,39 @@
+{
+ "Period": "Goryeo dynasty (918–1392)",
+ "Culture": "Korea",
+ "Medium": "Silver",
+ "Dimensions": "H. 11/16 in. (1.7 cm); W. 15/16 in. (2.4 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Rogers Fund, 1917",
+ "Accession Number": "17.175.46",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Jewelry"
+ ],
+ "Where": [
+  "Asia",
+  "Korea"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Korea, 500–1000 A.D.",
+  "Korea, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60023166,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/17_175_46.JPG",
+ "related-artworks": [
+  60012511,
+  60012530,
+  60028580,
+  60012510,
+  60012528
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60023166"
+  }
+ }
+}

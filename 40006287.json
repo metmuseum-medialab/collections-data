@@ -1,0 +1,28 @@
+{
+ "Date": "800",
+ "Culture": "Norway",
+ "Classification": "Equestrian Equipment",
+ "Credit Line": "Gift of the Universitetets Oldsaksamling and the government of Norway, 1946",
+ "Accession Number": "46.79.6",
+ "Where": [
+  "Europe",
+  "Norway"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40006287,
+ "related-artworks": [
+  40006283,
+  40006282,
+  40006284,
+  40006285,
+  40006286
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40006287"
+  }
+ }
+}

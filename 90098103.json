@@ -1,0 +1,56 @@
+{
+ "Date": "1884-93",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 15 1/8 x 12 3/16 in. (38.4 x 31 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 202",
+ "Who": "Allen & Ginter",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90098103,
+ "related-artworks": [
+  "http://scrapi.org/object/90081274",
+  "http://scrapi.org/object/90081277",
+  "http://scrapi.org/object/90081249",
+  "http://scrapi.org/object/90081547",
+  "http://scrapi.org/object/90081569"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90081274"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90081277"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90081249"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90081547"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90081569"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90098103"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "500–600",
+ "Culture": "Frankish",
+ "Medium": "Glass",
+ "Dimensions": "Overall 1/4 x 1/4 in. (0.6 x 0.6 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.193.18",
+ "What": [
+  "Glass",
+  "Beads"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170005403,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-193-18s1.jpg",
+ "related-artworks": [
+  170004694,
+  170004695,
+  170004696,
+  170004718,
+  170004875
+ ],
+ "Provenance": [
+  "Friedrich Queckenberg, Niederbreisig, Germany",
+  "Joseph Queckenberg, Niederbreisig, Germany",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005403"
+  }
+ }
+}

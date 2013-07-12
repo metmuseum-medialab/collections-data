@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1525–30 (?)",
+ "Culture": "French",
+ "Medium": "Limestone",
+ "Dimensions": "Diam. 29 in. (73.7 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Bequest of George Blumenthal, 1941",
+ "Accession Number": "41.190.479",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Roundels"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120014049,
+ "gallery-id": 544,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/130212.jpg",
+ "related-artworks": [
+  120025802,
+  120014050,
+  120014051,
+  120022687,
+  120059720
+ ],
+ "Description": "This roundel and its three companions, 41.190.478, 480, 481, come from the Château d'Assier (Department of Lot), built for Galiot de Genouillac (1465-1546), Grand Master of the Artillery and Grand Master of the Horse under François I.",
+ "Provenance": [
+  "Château d'Assier, Department of Lot, FranceJacques Galiot de Genouillac"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120014049"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Silk",
+ "Dimensions": "44 x 78 in. (111.76 x 198.12 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1919",
+ "Accession Number": "19.93.4",
+ "What": [
+  "Costume",
+  "Silk",
+  "Textiles",
+  "Robes"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60041868,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/43840.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60041969"
+   },
+   {
+    "href": "http://scrapi.org/object/60024562"
+   },
+   {
+    "href": "http://scrapi.org/object/60039082"
+   },
+   {
+    "href": "http://scrapi.org/object/60041828"
+   },
+   {
+    "href": "http://scrapi.org/object/60041867"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60041868"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60041868"
+  }
+ }
+}

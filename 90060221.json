@@ -1,0 +1,36 @@
+{
+ "Artist": "After Jacopo Tintoretto (Jacopo Robusti) (Italian, Venice 1519–1594 Venice)",
+ "Medium": "Copper plate",
+ "Dimensions": "plate 24 3/8 x 16 3/4 in. (61.9 x 42.5 cm)",
+ "Classification": "Plates",
+ "Credit Line": "Gift of David and Constance Yates in memory of Jacob Bean, 1993",
+ "Accession Number": "1993.1128.1",
+ "Who": [
+  "Jacopo Tintoretto (Jacopo Robusti)",
+  "Anonymous, 17th century"
+ ],
+ "What": [
+  "Metal",
+  "Copper",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "id": 90060221,
+ "related-artworks": [
+  90009146,
+  90044300,
+  90050648,
+  90050892,
+  90051255
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060221"
+  }
+ }
+}

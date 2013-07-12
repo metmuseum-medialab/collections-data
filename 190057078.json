@@ -1,0 +1,44 @@
+{
+ "Date": "1974-1978",
+ "Medium": "Video",
+ "Dimensions": "Variable",
+ "Classification": "Variable Media",
+ "Credit Line": "Purchase, Henry Nias Foundation Inc. Gift, 2013",
+ "Accession Number": "2013.228",
+ "Who": "Ilene Segalove",
+ "What": "Video art",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190057078,
+ "Provenance": [
+  "Video Data Bank"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190050729"
+   },
+   {
+    "href": "http://scrapi.org/object/190037722"
+   },
+   {
+    "href": "http://scrapi.org/object/190038279"
+   },
+   {
+    "href": "http://scrapi.org/object/190038277"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190057078"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190057078"
+  }
+ }
+}

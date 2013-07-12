@@ -1,0 +1,48 @@
+{
+ "Period": "Neolithic–Chalcolithic",
+ "Date": "7th–6th millennium B.C.",
+ "Geography": "Northern Syria (?)",
+ "Medium": "Chlorite or steatite, black",
+ "Dimensions": [
+  "Seal Face 2.54 x 1.69 cm",
+  "Height 1.4 cm",
+  "String Hole 0.4 cm"
+ ],
+ "Classification": "Stone",
+ "Credit Line": "Gift of Martin and Sarah Cherkasky, 1985",
+ "Accession Number": "1985.192.24",
+ "What": [
+  "Stone",
+  "Seals",
+  "Talc",
+  "Steatite",
+  "Stamping",
+  "Chlorite"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30005778,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss1985_192_24.jpg",
+ "related-artworks": [
+  30005770,
+  30005771,
+  30005773,
+  30005776,
+  30005777
+ ],
+ "Provenance": [
+  "By 1983, collection of Martin and Sarah Cherkasky, New York",
+  "acquired by the Museum in 1985, gift of Martin and Sarah Cherkasky, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30005778"
+  }
+ }
+}

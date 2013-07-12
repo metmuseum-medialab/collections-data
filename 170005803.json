@@ -1,0 +1,42 @@
+{
+ "Date": "16th century",
+ "Culture": "French",
+ "Medium": "Earthenware, glaze",
+ "Dimensions": "Overall 2 1/16 x 2 1/8 in. (5.3 x 5.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.2208",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Bottles"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "id": 170005803,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-194-2208s1.jpg",
+ "related-artworks": [
+  170005785,
+  170003379,
+  170003560,
+  170003561,
+  170007911
+ ],
+ "Provenance": [
+  "Julien Gréau, Paris",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005803"
+  }
+ }
+}

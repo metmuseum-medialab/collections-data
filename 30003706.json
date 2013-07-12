@@ -1,0 +1,38 @@
+{
+ "Period": "Iron Age II",
+ "Date": "ca. 9th century B.C.",
+ "Geography": "Iran, Hasanlu",
+ "Medium": "Faience",
+ "Dimensions": "1.22 x 0.75 x 0.24 in. (3.1 x 1.91 x 0.61 cm)",
+ "Classification": "Faience",
+ "Credit Line": "Rogers Fund, 1960",
+ "Accession Number": "60.20.53",
+ "What": "Faience",
+ "Where": [
+  "Asia",
+  "Iran",
+  "Hasanlu"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003706,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME60_20_53.jpg",
+ "related-artworks": [
+  30003659,
+  30003675,
+  30003688,
+  30003795,
+  30003880
+ ],
+ "Provenance": [
+  "1959, excavated by Robert H. Dyson Jr. on behalf of the Hasanlu Project sponsored by the University Museum of the University of Pennsylvania, the Archaeological Service of Iran, and The Metropolitan Museum of Art",
+  "acquired by the Museum in 1960, as a result of its financial contribution to the excavations."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003706"
+  }
+ }
+}

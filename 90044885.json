@@ -1,0 +1,43 @@
+{
+ "Publisher": "WPA",
+ "Date": "1935–43",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "sheet 10 5/8 x 14 in. (27 x 35.6 cm)",
+  "image 8 1/2 x 10 3/4 in. (21.6 x 27.3 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, Board of Education, Cleveland, Ohio, 1943",
+ "Accession Number": "43.29.19",
+ "Who": [
+  "WPA",
+  "Hughie Lee-Smith"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90044885,
+ "related-artworks": [
+  210012269,
+  210012270,
+  210006605
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90044885"
+  }
+ }
+}

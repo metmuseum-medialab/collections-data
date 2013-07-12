@@ -1,0 +1,40 @@
+{
+ "Date": "20th century",
+ "Culture": "China",
+ "Medium": "Drawing; pencil on paper",
+ "Dimensions": "Overall 14 15/16 x 19 5/8 in. (38 x 49.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Sarah Shay, 2005",
+ "Accession Number": "2005.411.115",
+ "Who": "Xie Zhiliu",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Pencil"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60047013,
+ "related-artworks": [
+  60046725,
+  60046726,
+  60046730,
+  60046790,
+  60046789
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60047013"
+  }
+ }
+}

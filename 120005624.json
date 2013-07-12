@@ -1,0 +1,42 @@
+{
+ "Date": "1908",
+ "Culture": "Austrian",
+ "Medium": "Silver",
+ "Dimensions": "Diam. 7/16 in. (11 mm.)",
+ "Classification": "Coins",
+ "Credit Line": "Gift of Edward D. Adams, 1908",
+ "Accession Number": "08.214.4",
+ "What": [
+  "Metal",
+  "Silver",
+  "Money",
+  "Coins",
+  "Crowns"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 120005624,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF08_214_4_img1.jpg",
+ "related-artworks": [
+  120005623,
+  120005313,
+  120005621,
+  120005622,
+  120005706
+ ],
+ "Provenance": [
+  "Edward D. Adams (until 1908",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120005624"
+  }
+ }
+}

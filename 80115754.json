@@ -1,0 +1,31 @@
+{
+ "Date": "ca. 1908",
+ "Culture": "Irish",
+ "Medium": "Cotton, silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. George A. Bonaventure in memory of Mrs. James Steel, 1965",
+ "Accession Number": "2009.300.7414",
+ "What": [
+  "Silk",
+  "Cotton"
+ ],
+ "Where": [
+  "Europe",
+  "Republic of Ireland"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "id": 80115754,
+ "related-artworks": [
+  80108165,
+  80114706,
+  80116953,
+  80115704,
+  80003158
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80115754"
+  }
+ }
+}

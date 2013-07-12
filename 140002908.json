@@ -1,0 +1,44 @@
+{
+ "Date": "4th century",
+ "Geography": "Egypt",
+ "Medium": "Linen, wool; tapestry weave",
+ "Dimensions": [
+  "H. 16 1/8 in. (40.9 cm)",
+  "W. 12 3/4 in. (32.4 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.1397",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Wool",
+  "Linen",
+  "Tapestries"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1–500A.D.",
+ "id": 140002908,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf09-50-1397a.jpg",
+ "related-artworks": [
+  140000726,
+  140000374,
+  140000378,
+  140000381,
+  140000382
+ ],
+ "Provenance": [
+  "Friedrich FischbachCollection, Wiesbaden (until 1909",
+  "sold to Dr. Voos for MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140002908"
+  }
+ }
+}

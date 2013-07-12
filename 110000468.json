@@ -1,0 +1,56 @@
+{
+ "Date": "ca. 1545–50",
+ "Medium": "Oil on wood",
+ "Dimensions": "6 1/4 x 8 1/2 in. (15.9 x 21.6 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+ "Accession Number": "1982.60.35",
+ "Who": "Lucas Cranach the Younger  Workshop",
+ "What": [
+  "Paintings",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "The Reformation",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110000468,
+ "gallery-id": 643,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP280360.jpg",
+ "related-artworks": [
+  110000469,
+  110000237,
+  110000251,
+  110000252,
+  110000476
+ ],
+ "Provenance": [
+  "D. Schevitch, Paris (until 1906",
+  "his sale, Galerie Georges Petit, Paris, April 4–7, 1906, no. 3, as by Cranach, for Fr 1,350 to Drey)",
+  "?[A. S. Drey, Paris and Munich, from 1906]",
+  "Gustav von Gerhardt, Budapest (until 1911",
+  "his estate sale, Lepke's, Berlin, November 10, 1911, no. 81, as by Lucas Cranach the Younger, bought in",
+  "his estate, from 1911)",
+  "sale, American Art Association, New York, February 2–3, 1928, no. 108, \"To be sold to close an Estate,\" for $500",
+  "[R. Ederheimer, New York, until 1936]",
+  "Henry Schniewind, New York (from 1936)",
+  "Mrs. Arthur Corwin, Greenwich, Conn. (by 1945–55",
+  "sold to Newhouse)",
+  "[Newhouse Galleries, New York, 1955",
+  "sold to Linsky]",
+  "Mr. and Mrs. Jack Linsky,  New York (1955–his d. 1980)",
+  "Mrs. Jack Linsky, New York (1980–82)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110000468"
+  }
+ }
+}

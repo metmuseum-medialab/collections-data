@@ -1,0 +1,33 @@
+{
+ "Date": "1700–1850",
+ "Medium": "Etching and engraving",
+ "Classification": "Albums",
+ "Credit Line": "Gift of Mrs. Morris Hawkes, 1927",
+ "Accession Number": "27.100.3",
+ "What": [
+  "Etching",
+  "Engraving",
+  "Books",
+  "Albums"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90034262,
+ "related-artworks": [
+  90000239,
+  90013298,
+  90013894,
+  90013873,
+  90013874
+ ],
+ "Provenance": [
+  "Hesketh, first Vicount Leverhulme (British, Bolton 1851–1925 Hampstead)",
+  "A. M. Broadley",
+  "Donor: Mrs. Morris Hawkes"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90034262"
+  }
+ }
+}

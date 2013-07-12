@@ -1,0 +1,37 @@
+{
+ "Date": "1935",
+ "Culture": "American",
+ "Medium": "fur, felt",
+ "Dimensions": "Diameter 7 1/2 in. (19.1 cm)",
+ "Credit Line": "Gift of Louisa Laing Bowles, 1982",
+ "Accession Number": "1982.80",
+ "Who": "Julius Garfinckel & Co.",
+ "What": [
+  "Costume",
+  "Hats",
+  "Hair",
+  "Fur",
+  "Felt"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80045442,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1982.80_F.jpg",
+ "related-artworks": [
+  80045431,
+  80004392,
+  80016769,
+  80025447
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80045442"
+  }
+ }
+}

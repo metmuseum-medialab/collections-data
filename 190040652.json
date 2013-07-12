@@ -1,0 +1,42 @@
+{
+ "Printer": "Louis-Désiré Blanquart-Évrard (French, 1802–1872)",
+ "Date": "1854",
+ "Medium": "Salted paper print from paper negative",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+ "Accession Number": "2005.100.373.114",
+ "Who": [
+  "Louis-Désiré Blanquart-Évrard",
+  "Auguste Salzmann"
+ ],
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 190040652,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP131332.jpg",
+ "related-artworks": [
+  190035145,
+  190036342,
+  190039073,
+  190040413,
+  190040417
+ ],
+ "Provenance": [
+  "André Jammes Collection",
+  "[Graphics International, Ltd.]",
+  "Gilman Paper Company Collection, New York, October 7, 1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190040652"
+  }
+ }
+}

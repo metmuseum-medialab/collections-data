@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1858",
+ "Medium": "Salted paper print",
+ "Dimensions": "18.7 x 23.4 cm (7 3/8 x 9 3/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+ "Accession Number": "2005.100.552",
+ "Who": "Horatio Ross",
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "id": 190041861,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP148525.jpg",
+ "related-artworks": [
+  190040547,
+  190041832,
+  190041833,
+  190041834,
+  190041835
+ ],
+ "Provenance": [
+  "Family of the photographer",
+  "(sold Christie's London, Sale 5055, Lot 50, October 20, 1993)",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190041861"
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "Date": "18th century",
+ "Culture": "European",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Dr. and Mrs. Roger Gerry, 1967",
+ "Accession Number": "C.I.67.9.3",
+ "What": [
+  "Costume",
+  "Vests"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80064743,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI67.9.3_F.jpg",
+ "related-artworks": [
+  80002282,
+  80002624,
+  80003648,
+  80004568,
+  80005881
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80064743"
+  }
+ }
+}

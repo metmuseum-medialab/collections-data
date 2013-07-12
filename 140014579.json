@@ -1,0 +1,44 @@
+{
+ "Date": "probably 8th–12th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware (?)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1940",
+ "Accession Number": "40.170.169",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Earthenware",
+  "Jars"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 500–1000 A.D.",
+  "Iran, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140014579,
+ "related-artworks": [
+  140006779,
+  140006354,
+  140006359,
+  140006362,
+  140006611
+ ],
+ "Provenance": [
+  "1939, excavated at Sabz Pushan in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1940, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140014579"
+  }
+ }
+}

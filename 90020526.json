@@ -1,0 +1,37 @@
+{
+ "Lithographer": "Hipolyte Lecomte",
+ "Publisher": "Published by R. Engelmann",
+ "Date": "1818",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1969",
+ "Accession Number": "69.613.1-.2",
+ "Who": [
+  "Jean de La Fontaine",
+  "Horace Vernet",
+  "Carle (Antoine Charles Horace) Vernet",
+  "R. Engelmann",
+  "Hipolyte Lecomte"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90020526,
+ "related-artworks": [
+  90011826,
+  90020511,
+  90020510,
+  90020515,
+  90020533
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90020526"
+  }
+ }
+}

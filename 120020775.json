@@ -1,0 +1,53 @@
+{
+ "Date": "1709–10",
+ "Culture": "British, London",
+ "Medium": "Silver gilt",
+ "Dimensions": [
+  "Overall (.218, confirmed) 9 1/8 x 5 5/8 x 7 1/8 in., 23 oz. 14 dwt. (23.2 x 14.3 x 18.1 cm, 0.7375kg)",
+  "Overall (.219, confirmed) 10 x 5 5/8 x 6 3/4 in., 24 oz.  (25.4 x 14.3 x 17.1 cm, 0.747kg)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1968",
+ "Accession Number": "68.141.218, .219",
+ "Who": "Isaac Liger",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Lighting devices",
+  "Sconces"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020775,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP267097.jpg",
+ "related-artworks": [
+  120012661,
+  120018282,
+  120020621,
+  120057961,
+  120013856
+ ],
+ "Provenance": [
+  "Private Collection (until 1964)",
+  "[ Sotheby's, London , February 20, 1964, #16]",
+  "[ S. J. Phillips",
+  "sold to Irwin Untermyer, February 20, 1964 ]",
+  "Irwin Untermyer (1964–68",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120020775"
+  }
+ }
+}

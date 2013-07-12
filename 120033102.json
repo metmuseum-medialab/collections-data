@@ -1,0 +1,44 @@
+{
+ "Date": "16th–17th century",
+ "Culture": "Italian",
+ "Medium": "Needle lace",
+ "Dimensions": "L. 8 1/4 x W. 1 1/2 inches (21.0 x 3.8 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.35",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Florence and Central Italy, 1600–1800 A.D.",
+  "Florence and Central Italy, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120033102,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/58728.jpg",
+ "related-artworks": [
+  120029993,
+  120030009,
+  120030021,
+  120030039,
+  120030065
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120033102"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "Date": "1754",
+ "Medium": "Oil on canvas",
+ "Dimensions": "49 7/8 x 40 1/8 in. (126.7 x 101.9 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Sylvester Dering, 1916",
+ "Accession Number": "16.68.3",
+ "Who": "Joseph Blackburn",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20010518,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap16.68.3.jpg",
+ "related-artworks": [
+  20010517,
+  20010519,
+  20010520
+ ],
+ "Provenance": [
+  "descended to the subject's grandnephew, Dr. Nicoll Havens Dering,  Rome, New York, by 1833–died 1867",
+  "his son, Sylvester Dering, Utica,  New York, until 1916"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20010518"
+  }
+ }
+}

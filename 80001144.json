@@ -1,0 +1,36 @@
+{
+ "Date": "1963–69",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": "Length at CB 39 in. (99.1 cm)",
+ "Credit Line": "Gift of Geoffrey Beene, 1995",
+ "Accession Number": "1995.429.11",
+ "Who": "Geoffrey Beene",
+ "What": [
+  "Costume",
+  "Wool",
+  "Coats"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80001144,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1995.429.11_F.jpg",
+ "related-artworks": [
+  80002949,
+  80003929,
+  80004026,
+  80004048,
+  80019862
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001144"
+  }
+ }
+}

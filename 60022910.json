@@ -1,0 +1,40 @@
+{
+ "Period": "Qin–Han dynasty (221 B.C.–A.D. 220)",
+ "Culture": "China",
+ "Medium": "Earthenware",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.202.29",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Tile"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000 B.C.–1 A.D.",
+  "China, 1–500A.D.",
+  "Central and North Asia, 1–500A.D.",
+  "Central and North Asia, 1000 B.C.–1 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60022910,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/10_202_29.JPG",
+ "related-artworks": [
+  60012024,
+  60018910,
+  60019878,
+  60020191,
+  60022890
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60022910"
+  }
+ }
+}

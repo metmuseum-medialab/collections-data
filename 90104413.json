@@ -1,0 +1,44 @@
+{
+ "Date": "1511",
+ "Medium": "Woodcut",
+ "Dimensions": "Sheet 5 7/16 × 4 in. (13.8 × 10.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1950",
+ "Accession Number": "50.592",
+ "Who": "Albrecht Altdorfer",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Printed Image in the West History and Techniques",
+  "Jews and the Arts in Medieval Europe",
+  "Central Europe (including Germany), 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90104413,
+ "related-artworks": [
+  90003247,
+  90003248,
+  90062863,
+  90070728,
+  90070726
+ ],
+ "Provenance": [
+  "Heneage Finch, 5th Earl of Aylesford (British, 1786–1859)",
+  "Hermann Marx (British, d. 1947)",
+  "Vendor: Richard H. Zinser"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104413"
+  }
+ }
+}

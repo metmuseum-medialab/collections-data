@@ -1,0 +1,42 @@
+{
+ "Designer": "Jacques Griffe (French, born 1917)",
+ "Date": "ca. 1952",
+ "Culture": "French",
+ "Medium": "wool",
+ "Dimensions": [
+  "Length at CB (a) 43 1/2 in. (110.5 cm)",
+  "Length (b) 36 in. (91.4 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. Charles C. Paterson, 1982",
+ "Accession Number": "1982.528.2a, b",
+ "Who": [
+  "Jacques Griffe",
+  "Griffe of Paris"
+ ],
+ "What": [
+  "Costume",
+  "Wool",
+  "Dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80023108,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1982.528.2ab_F.jpg",
+ "related-artworks": [
+  80018085,
+  80018087,
+  80030000,
+  80031917,
+  80018930
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80023108"
+  }
+ }
+}

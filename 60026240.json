@@ -1,0 +1,43 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print (surimono); ink and color on paper",
+ "Dimensions": "8 x 3 9/16 in. (20.3 x 9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "JP2178",
+ "Who": "Kitao Shigemasa",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Surimono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60026240,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP138394.jpg",
+ "related-artworks": [
+  60001211,
+  60025253,
+  60026125,
+  60026121,
+  60000769
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026240"
+  }
+ }
+}

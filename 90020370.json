@@ -1,0 +1,33 @@
+{
+ "Date": "19th or early 20th century",
+ "Medium": "Photomechanical process",
+ "Dimensions": "9 x 6 in. (22.9 x 15.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.609.26",
+ "Who": "Alois Kohn & Co.",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1800–1900 A.D.",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90020370,
+ "related-artworks": [
+  90000871,
+  90000872,
+  90000873,
+  90000874,
+  90000875
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90020370"
+  }
+ }
+}

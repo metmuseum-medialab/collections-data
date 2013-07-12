@@ -1,0 +1,47 @@
+{
+ "Date": "17th–18th century (?)",
+ "Geography": "Bolivia",
+ "Culture": "Aymara",
+ "Medium": "Camelid hair",
+ "Dimensions": "H. 44-1/2 x 39 in. (113 x 99.1 cm)",
+ "Classification": "Textiles-Woven",
+ "Credit Line": "Bequest of John B. Elliott, 1997",
+ "Accession Number": "1999.47.245",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Woven",
+  "Hair",
+  "Outerwear",
+  "Camelidae",
+  "Mantles"
+ ],
+ "Where": [
+  "South America",
+  "Bolivia"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "South America, 1800–1900 A.D.",
+  "Central and Southern Andes, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50010851,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/DP137350.jpg",
+ "related-artworks": [
+  50009666,
+  50009667,
+  50009665,
+  50009668,
+  50010795
+ ],
+ "Provenance": [
+  "John B. Elliott, Princeton, NJ, until (d.) 1997",
+  "John B. Elliott Estate, until 1999"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50010851"
+  }
+ }
+}

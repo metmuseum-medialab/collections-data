@@ -1,0 +1,42 @@
+{
+ "Manufacturer": "Margot, Inc. (American)",
+ "Date": "fall/winter 1952–53",
+ "Culture": "American",
+ "Medium": "metallic cloth, cotton",
+ "Dimensions": "Length 49 1/2 in. (125.7 cm)",
+ "Credit Line": "Gift of Miss Anne Fogarty, 1959",
+ "Accession Number": "C.I.59.16.4",
+ "Who": [
+  "Anne Fogarty",
+  "Margot, Inc."
+ ],
+ "What": [
+  "Costume",
+  "Cotton",
+  "Dresses",
+  "Evening dresses",
+  "Cloth"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80017814,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI59.16.4_F.jpg",
+ "related-artworks": [
+  80018842,
+  80024323,
+  80017442,
+  80017828,
+  80019073
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80017814"
+  }
+ }
+}

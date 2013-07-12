@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19–20",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Cemetery, MMA",
+ "Medium": "Slag",
+ "Dimensions": "l. 6.5 cm (2 9/16 in)",
+ "Credit Line": "Rogers Fund, 1915",
+ "Accession Number": "15.3.1063",
+ "What": [
+  "Fragments",
+  "Crucibles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100027454,
+ "related-artworks": [
+  100013183,
+  100015046,
+  100019955,
+  100027451,
+  100027452
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100027454"
+  }
+ }
+}

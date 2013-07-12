@@ -1,0 +1,33 @@
+{
+ "Date": "first quarter 20th century",
+ "Culture": "German",
+ "Medium": "Silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of August Gross, 1940",
+ "Accession Number": "2009.300.4301",
+ "What": [
+  "Costume",
+  "Silk",
+  "Gloves"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "id": 80106744,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/40.821_CP2.jpg",
+ "related-artworks": [
+  80106755,
+  80106756,
+  80106759,
+  80106761,
+  80106763
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80106744"
+  }
+ }
+}

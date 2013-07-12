@@ -1,0 +1,38 @@
+{
+ "Date": "16th–12th century B.C.",
+ "Geography": "Mesopotamia",
+ "Medium": "Glazed faience",
+ "Dimensions": "2.83 x 4.61 in. (7.19 x 11.71 cm)",
+ "Classification": "Faience",
+ "Credit Line": "Rogers Fund, 1956",
+ "Accession Number": "56.81.57",
+ "What": [
+  "Vessels",
+  "Faience",
+  "Jars",
+  "Glazing",
+  "Lids"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003204,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME56_81_57.jpg",
+ "related-artworks": [
+  30002891,
+  30002957,
+  30004765,
+  30004760,
+  30004761
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003204"
+  }
+ }
+}

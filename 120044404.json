@@ -1,0 +1,46 @@
+{
+ "Date": "early 18th century",
+ "Culture": "Italian, Genoa",
+ "Medium": "Silk and metal thread",
+ "Dimensions": [
+  "a) L. 105 1/4 x W. 21 1/4 inches (267.3 x 54.0 cm)",
+  "b) L. 105 1/2 x W. 21 1/4 inches (268.0 x 54.0 cm)",
+  "c) L. 104 1/4 x W. 21 1/4 inches (264.8 x 54.0 cm)",
+  "d) L. 105 x W. 21 1/4 inches (266.7 x 54.0 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of George Blumenthal, 1941",
+ "Accession Number": "41.190.153a–d",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Liguria",
+  "Genoa"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044404,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SC30429.jpg",
+ "related-artworks": [
+  120034110,
+  120045509,
+  120017146,
+  120040039,
+  120042199
+ ],
+ "Provenance": [
+  "George and Florence Blumenthal , New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044404"
+  }
+ }
+}

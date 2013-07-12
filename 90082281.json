@@ -1,0 +1,51 @@
+{
+ "Artist": "After George Barret, the elder (Irish, Dublin 1732?–1784 Paddington, London)",
+ "Date": "1784–1788",
+ "Medium": "Aquatint and soft ground etching",
+ "Dimensions": [
+  "Plate 9 15/16 x 13 in. (25.2 x 33 cm)",
+  "Sheet 12 3/8 x 18 1/2 in. (31.5 x 47 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1933",
+ "Accession Number": "33.7",
+ "Who": [
+  "Thomas Rowlandson",
+  "George Barret, the elder"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Aquatint",
+  "Etching ground",
+  "Soft-ground etching"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Watercolor Painting in Britain, 1750–1850",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90082281,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP823308.jpg",
+ "related-artworks": [
+  90082274,
+  90082268,
+  90082271,
+  90082282,
+  90082275
+ ],
+ "Provenance": [
+  "Vendor: James Rimell & Son"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90082281"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Silk, metallic thread",
+ "Dimensions": "4 1/2 x 3 3/4 in. (11.43 x 9.53 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "09.50.3290",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60041518,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP14225.jpg",
+ "related-artworks": [
+  60038403,
+  60039212,
+  60039207,
+  60039320,
+  60039259
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60041518"
+  }
+ }
+}

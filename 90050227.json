@@ -1,0 +1,49 @@
+{
+ "Artist": "After John Hodges Benwell (British, Blenheim 1764–1785 London)",
+ "Date": "February 1, 1785",
+ "Medium": "Stipple engraving, printed in brown ink",
+ "Dimensions": [
+  "oval image 4 1/8 x 3 3/16 in. (10.5 x 8.1 cm)",
+  "sheet 4 5/16 x 3 5/16 in. (11 x 8.4 cm) (clipped impression)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Charles Allen Munn, 1924",
+ "Accession Number": "24.90.1487",
+ "Who": [
+  "Francesco Bartolozzi",
+  "John Hodges Benwell"
+ ],
+ "What": [
+  "Prints",
+  "Ink",
+  "Engraving",
+  "Intaglio prints",
+  "Engravings",
+  "Stippling",
+  "Stipple engravings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90050227,
+ "related-artworks": [
+  90050075,
+  90050128,
+  90050439,
+  90050678,
+  90050862
+ ],
+ "Provenance": [
+  "Donor: Charles Allen Munn"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050227"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "fourth quarter 19th century",
+ "Culture": "Czech",
+ "Medium": "cotton, silk, wool",
+ "Dimensions": "Length at CB 25 in. (63.5 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Museum Expedition 1920, Robert B. Woodward Memorial Fund, 1920",
+ "Accession Number": "2009.300.2956",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Wool",
+  "Aprons"
+ ],
+ "Where": [
+  "Europe",
+  "Czech Republic"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 80095693,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/20.718_CP4.jpg",
+ "related-artworks": [
+  80095695,
+  80058046,
+  80095694,
+  80095703,
+  80096948
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80095693"
+  }
+ }
+}

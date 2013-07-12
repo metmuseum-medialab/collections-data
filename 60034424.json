@@ -1,0 +1,37 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1770",
+ "Culture": "Japan",
+ "Medium": "Pottery with black glaze (Raku ware)",
+ "Dimensions": "Diam. 4 3/8 in. (11.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.60.34",
+ "Who": "Tokunyu",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Glaze",
+  "Raku"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60034424,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/25_60_34.jpg",
+ "related-artworks": [
+  60034217,
+  60034573,
+  60034580
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60034424"
+  }
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "Date": "late 17th century",
+ "Medium": "Black chalk, pen and brown ink, brown and gray wash",
+ "Dimensions": "each sheet 6 1/2 x 8 11/16 in. (16.5 x 22 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Frits and Rita Markus Fund, 2002",
+ "Accession Number": "2002.425.3",
+ "Who": "Godfried Maes",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90026918,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802218.jpg",
+ "related-artworks": [
+  90003055,
+  90014810,
+  90026119,
+  90026917,
+  90014812
+ ],
+ "Provenance": [
+  "Godfried Maes (Antwerp 1649–1700 Antwerp)",
+  "Jacob de Wit (Dutch, Amsterdam 1695–1754 Amsterdam)before 1717",
+  "Jacob de Wit (Dutch, Amsterdam 1695–1754 Amsterdam)sale, Amsterdam, March 10, 1755album U, no. 87",
+  "Cronenburgh (Dutch)",
+  "Cronenburgh (Dutch)sale, Amsterdam, March 22, 1762Album A, no.1",
+  "Anton C. R. Dreesman (Dutch, Amsterdam, 1923–2001)",
+  "Christie's, LondonApril 11, 2002lot663",
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026918"
+  }
+ }
+}

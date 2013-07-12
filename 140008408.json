@@ -1,0 +1,48 @@
+{
+ "Date": "16th century",
+ "Geography": "Turkey, Bursa",
+ "Medium": "Silk and metal thread",
+ "Dimensions": [
+  "H. 55 in. (139.7 cm)",
+  "W. 26 1/2 in. (67.3 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1952",
+ "Accession Number": "52.20.24",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey",
+  "Marmara",
+  "Bursa"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140008408,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/wb-52.20.24.JPG",
+ "related-artworks": [
+  140004098,
+  140002449,
+  140007811,
+  140007813,
+  140008400
+ ],
+ "Provenance": [
+  "Dikran G. Kelekian, New York (until d. 1951)",
+  "his estate, New York (1951–52",
+  "sold to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140008408"
+  }
+ }
+}

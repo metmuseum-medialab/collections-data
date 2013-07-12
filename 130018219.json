@@ -1,0 +1,42 @@
+{
+ "Period": "Early Cycladic I–II",
+ "Date": "ca. 2700 B.C.",
+ "Culture": "Cycladic",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 5 1/8 in. (13 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Gift of Andrés A. Mata, in memory of Elodia Mata, 2004",
+ "Accession Number": "2004.342.1",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jars"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130018219,
+ "gallery-id": 151,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP256407.jpg",
+ "related-artworks": [
+  130008106,
+  130008109,
+  130008165,
+  130008176,
+  130008227
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130018219"
+  }
+ }
+}

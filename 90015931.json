@@ -1,0 +1,40 @@
+{
+ "Publisher": "Published by Aux Quatre Vents",
+ "Date": "ca. 1570",
+ "Medium": "Etching and engraving",
+ "Dimensions": [
+  "sheet 7 3/8 x 9 15/16 in. (18.8 x 25.2 cm)",
+  "plate 6 x 8 1/16 in. (15.3 x 20.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Howard A. Fox Gift, Chester Dale Bequest, by exchange; A. Hyatt Mayor Purchase Fund, Marjorie Phelps Starr Bequest, 1999",
+ "Accession Number": "1999.360.5",
+ "Who": [
+  "Anonymous, Netherlandish, late 16th century",
+  "Aux Quatre Vents"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90015931,
+ "related-artworks": [
+  90015854,
+  90015880,
+  90015932,
+  90017026,
+  90017021
+ ],
+ "Provenance": [
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90015931"
+  }
+ }
+}

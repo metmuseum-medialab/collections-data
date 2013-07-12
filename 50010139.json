@@ -1,0 +1,46 @@
+{
+ "Date": "1st–8th century",
+ "Geography": "Mexico, Mesoamerica, Guerrero",
+ "Culture": "Mezcala",
+ "Medium": "Stone",
+ "Dimensions": "Height 5-5/8 in.",
+ "Classification": "Stone-Sculpture",
+ "Credit Line": "Bequest of Arthur M. Bullowa, 1993",
+ "Accession Number": "1994.35.633",
+ "Who": "Mezcala",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Models",
+  "Temples"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico",
+  "Guerrero"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico, 500–1000 A.D.",
+  "Mexico, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50010139,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1994.35.633.jpg",
+ "related-artworks": [
+  50009793,
+  50005232,
+  50005396,
+  50007734,
+  50007736
+ ],
+ "Provenance": [
+  "[Frances Pratt, New York]",
+  "Arthur M. Bullowa, New York, acquired by 1987, until (d.)1993"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50010139"
+  }
+ }
+}

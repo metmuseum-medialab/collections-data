@@ -1,0 +1,48 @@
+{
+ "Object Name": "Finials",
+ "Date": "ca. 1650–80",
+ "Geography": "India, Deccan, Golconda",
+ "Medium": "Copper; cast, pierced, chased, and gilded",
+ "Dimensions": [
+  "(a) H. 11 1/2 in. (29 cm); L. 20 1/2 in. (52 cm); W. 6 in. (15 cm)",
+  "(b) H. 11 in. (28 cm); L. 22 1/2 in. (57 cm); W. 6 in. (15 cm)"
+ ],
+ "Classification": "Metal",
+ "Credit Line": "Purchase, Friends of Islamic Art Gifts, 1995",
+ "Accession Number": "1995.258a, b",
+ "What": [
+  "Metal",
+  "Gilt",
+  "Copper",
+  "Finials"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Deccan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1600–1800 A.D.",
+ "id": 140010771,
+ "gallery-id": 463,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP246496.jpg",
+ "related-artworks": [
+  140011076,
+  140004323,
+  140016092,
+  140010687,
+  140012079
+ ],
+ "Description": "These finials were made to adorn the poles of a palanquin, a covered conveyance consisting of a large box carried by bearers. Their particularly fine decoration includes a pierced, openwork pattern of flattened lotus pods and scrolling vines on the body, and lotus flowers that issue from the domed ends.",
+ "Provenance": [
+  "Private collection, Europe",
+  "[ Terence McInerney, until 1995",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010771"
+  }
+ }
+}

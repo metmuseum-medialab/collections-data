@@ -1,0 +1,41 @@
+{
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "10 1/4 x 15 in. (26.0 x 38.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+ "Accession Number": "JP2882",
+ "Who": "Utagawa Hiroshige",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60027148,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP120486.jpg",
+ "related-artworks": [
+  60000605,
+  60000607,
+  60000612,
+  60000615,
+  60000621
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60027148"
+  }
+ }
+}

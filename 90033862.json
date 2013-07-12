@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1764",
+ "Medium": "etching",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. David Keppel, 1960",
+ "Accession Number": "60.591.11",
+ "Who": "Giovanni Battista Piranesi",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Venice in the Eighteenth Century",
+  "The French Academy in Rome",
+  "The Grand Tour",
+  "Joseph Mallord William Turner (1775–1851)",
+  "The Rediscovery of Classical Antiquity",
+  "The Printed Image in the West History and Techniques",
+  "Neoclassicism",
+  "Giovanni Battista Piranesi (1720–1778)"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90033862,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP828232.jpg",
+ "related-artworks": [
+  90004085,
+  90004773,
+  90016288,
+  90025589,
+  90027820
+ ],
+ "Provenance": [
+  "Donor: Mrs. David Keppel, New York , 1960"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90033862"
+  }
+ }
+}

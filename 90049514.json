@@ -1,0 +1,49 @@
+{
+ "Date": "1880",
+ "Medium": "Etching and drypoint on laid paper; only state",
+ "Dimensions": [
+  "sheet 16 1/2 x 10 9/16 in. (41.9 x 26.8 cm)",
+  "plate 11 7/16 x 7 5/8 in. (29 x 19.3 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of William S. Lieberman, 2007",
+ "Accession Number": "2007.49.578",
+ "Who": "James Tissot",
+ "What": [
+  "Prints",
+  "Etching",
+  "Paper",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints",
+  "Laid paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Japonisme",
+  "The Salon and The Royal Academy",
+  "France, 1800–1900 A.D."
+ ],
+ "id": 90049514,
+ "related-artworks": [
+  90069978,
+  90069979,
+  90069976,
+  90069977,
+  90070065
+ ],
+ "Provenance": [
+  "William S. Lieberman (American, Paris 1923–2005 New York)",
+  "Donor: William S. Lieberman (American, Paris 1923–2005 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90049514"
+  }
+ }
+}

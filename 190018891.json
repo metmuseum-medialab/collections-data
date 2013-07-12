@@ -1,0 +1,47 @@
+{
+ "Artist": "Stanislas Ratel (French, 1824–1904)",
+ "Date": "1844",
+ "Medium": "Daguerreotype",
+ "Dimensions": "16.4 x 21.7 cm (6 7/16 x 8 9/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Louis V. Bell Fund, 1994",
+ "Accession Number": "1994.417",
+ "Who": [
+  "Marie-Charles-Isidore Choiselat",
+  "Stanislas Ratel"
+ ],
+ "What": [
+  "Photographs",
+  "Daguerreotypes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Daguerreian Age in France 1839–1855",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190018891,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/ph1994.417.R.jpg",
+ "related-artworks": [
+  190036294,
+  190039593,
+  190020439
+ ],
+ "Description": "In the first decade of photography the overwhelming majority of daguerreotypes were portraits, as the complicated procedures required to produce these astonishingly detailed images on silver-plated sheets of copper were best carried out under the controlled conditions of the studio. A few adventurous travelers carried daguerreotype equipment with them and brought home dazzling records of far-off churches, castles, and classical ruins and, more rarely, of landscape and vernacular architecture. Seldom did they self-consciously strive for art. This full-plate daguerreotype, the first important French photograph of the 1840s to enter the Museum's collection, is one such rarity.Made during an excursion through eastern France just five years after the daguerreotype's invention, this remarkable picture demonstrates how the camera prompted artists to see and represent the world in new ways. Rather than employing pictorial devices or perspectival and atmospheric effects rooted in the traditions of landscape painting, Choiselat and Ratel emphasized the two-dimensional organization of the picture's surface. The poplars, reflected in the water, seem to stretch across the plate from top to bottom instead of sitting on the far side of the pond; the cottage (perhaps a rustic pleasure house for the château beyond) forms, with its reflection, a single geometric solid floating in space.",
+ "Provenance": [
+  "Descendants of Stanislas Ratel",
+  "[Pierre-Marc Richard, Paris]",
+  "Joachim Bonnemaison, Paris",
+  "[Robert Hershkowitz, London]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190018891"
+  }
+ }
+}

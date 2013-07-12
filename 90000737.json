@@ -1,0 +1,39 @@
+{
+ "Date": "1897",
+ "Medium": "Graphite, red and white oil paint, pen and brown ink",
+ "Dimensions": "Sheet 20 x 13 13/16 in. (50.8 x 35.1cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Karen B. Cohen Gift, 1989",
+ "Accession Number": "1989.286.7",
+ "Who": "Fernand Cormon",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite",
+  "Oil paint",
+  "Oil"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90000737,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP810297.jpg",
+ "related-artworks": [
+  90000736,
+  90000738,
+  90000683
+ ],
+ "Provenance": [
+  "Vendor: Eric G. Carlson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90000737"
+  }
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "Date": "February 5, 1835",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1924",
+ "Accession Number": "24.66.340",
+ "Who": "Washington, D. C., Executive Buildings",
+ "What": "Books",
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018542,
+ "related-artworks": [
+  90019077,
+  90000024,
+  90000031,
+  90000033,
+  90000066
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90018542"
+  }
+ }
+}

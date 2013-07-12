@@ -1,0 +1,35 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1685, second month",
+ "Culture": "Japan",
+ "Medium": "Ink and color on paper",
+ "Classification": "Illustrated Books",
+ "Credit Line": "Rogers Fund, 1923",
+ "Accession Number": "JIB74",
+ "Who": "Hishikawa Moronobu",
+ "What": [
+  "Ink",
+  "Paper",
+  "Books"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60028870,
+ "related-artworks": [
+  60012817,
+  60028757,
+  60028862,
+  60028863,
+  60028864
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028870"
+  }
+ }
+}

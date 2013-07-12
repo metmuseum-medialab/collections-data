@@ -1,0 +1,46 @@
+{
+ "Printer": "Frederick Thomas Reynolds (American, born England, born 1882)",
+ "Date": "1917",
+ "Medium": "Drypoint",
+ "Dimensions": [
+  "plate 5 3/4 x 5 1/2 in. (14.6 x 14 cm)",
+  "sheet 8 3/8 x 6 1/2 in. (21.3 x 16.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of A. W. Bahr, 1958",
+ "Accession Number": "58.547.17",
+ "Who": [
+  "Arthur . Davies",
+  "Frederick Thomas Reynolds"
+ ],
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90070580,
+ "related-artworks": [
+  90070574,
+  90070578,
+  90070584,
+  90070585,
+  90070586
+ ],
+ "Provenance": [
+  "Donor: A. W. Bahr"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90070580"
+  }
+ }
+}

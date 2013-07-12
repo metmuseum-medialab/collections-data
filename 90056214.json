@@ -1,0 +1,38 @@
+{
+ "Patron": "Competition sponsored by the National Institute for Architectural Education (American)",
+ "Date": "1920",
+ "Medium": "Graphite, pen and black ink, grey and brown wash",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of the National Institute for Architectural Education, 1980",
+ "Accession Number": "1980.1101.10A",
+ "Who": [
+  "National Institute for Architectural Education",
+  "Duncan McLachlan Jr."
+ ],
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 90056214,
+ "related-artworks": [
+  90055620,
+  90056154,
+  90055612
+ ],
+ "Provenance": [
+  "Donor: National Institute for Architectural Education (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90056214"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Date": "1915",
+ "Medium": "Gouache and watercolor on paper",
+ "Dimensions": [
+  "H. 7-1/8, W. 9-1/18 inches",
+  "(17.8 x 23.2 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "The Berggruen Klee Collection, 1984",
+ "Accession Number": "1984.315.8",
+ "Who": "Paul Klee",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Watercolors",
+  "Gouaches"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Bauhaus, 1919–1933",
+  "African Influences in Modern Art",
+  "Paul Klee (1879–1940)",
+  "The Magic of Signs and Patterns in North African Art",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210003395,
+ "gallery-id": 914,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT7778.jpg",
+ "related-artworks": [
+  210003382,
+  210003338,
+  210003364,
+  210005082,
+  210005084
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003395"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Period": "Late Period",
+ "Dynasty": "Dynasty 26–29",
+ "Date": "664–332 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Dimensions": "H. 2 cm (13/16 in), w. 2.7 cm (1 1/16 in)",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.8.301",
+ "What": [
+  "Faience",
+  "Amulets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008275,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs30.8.301.jpg",
+ "related-artworks": [
+  100000285,
+  100000329,
+  100000312,
+  100001310,
+  100001311
+ ],
+ "Provenance": [
+  "Theodore M. Davis Collection, bequeathed by Theodore Davis in 1915."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008275"
+  }
+ }
+}

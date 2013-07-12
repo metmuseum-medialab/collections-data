@@ -1,0 +1,27 @@
+{
+ "Medium": "Clay",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Purchase, 1896",
+ "Accession Number": "96.9.530",
+ "What": [
+  "Clay",
+  "Spindles",
+  "Whorls"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130006998,
+ "related-artworks": [
+  130006995,
+  130006999,
+  130008212,
+  130008213,
+  130008214
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130006998"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Geography": "Turkey, Kula",
+ "Medium": "Wool (warp, weft and pile); symmetrically knotted pile",
+ "Dimensions": [
+  "H. 70 in. (177.8 cm)",
+  "W. 49 in. (124.5 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "The James F. Ballard Collection, Gift of James F. Ballard, 1922",
+ "Accession Number": "22.100.84",
+ "What": [
+  "Textiles",
+  "Wool",
+  "Rugs",
+  "Carpets"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey",
+  "Kula"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140004784,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/53653.jpg",
+ "related-artworks": [
+  140004779,
+  140004780,
+  140004781,
+  140004783,
+  140004801
+ ],
+ "Provenance": [
+  "James F. Ballard, St. Louis, MO (until 1922)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004784"
+  }
+ }
+}

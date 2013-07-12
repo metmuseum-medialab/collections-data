@@ -1,0 +1,43 @@
+{
+ "Designer": "Roger Vivier (French, 1913–1998)",
+ "Date": "1957",
+ "Culture": "French",
+ "Medium": "silk, leather, glass, metallic threads",
+ "Dimensions": "Length 10 5/8 in. (27 cm)",
+ "Credit Line": "Gift of Valerian Rybar, 1975",
+ "Accession Number": "1975.403.12",
+ "Who": [
+  "House of Dior",
+  "Roger Vivier"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Glass",
+  "Leather",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80027432,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1975.403.12.jpg",
+ "related-artworks": [
+  80004769,
+  80004961,
+  80005861,
+  80005972,
+  80027414
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80027432"
+  }
+ }
+}

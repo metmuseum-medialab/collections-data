@@ -1,0 +1,43 @@
+{
+ "Date": "1800–1900",
+ "Geography": "Mid-Atlantic, New Jersey, United States; Midwest, Indiana, United States",
+ "Culture": "American",
+ "Medium": "Mottled brown earthenware",
+ "Dimensions": "H. 5 1/2 in. (14 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Robert Macauley Jackson, 1920",
+ "Accession Number": "20.109.7",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Earthenware",
+  "Pitchers"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New Jersey"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005839,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP252565.jpg",
+ "related-artworks": [
+  10005868,
+  10005942,
+  10005943,
+  10005973,
+  10005825
+ ],
+ "Provenance": [
+  "Robert M. Jackson, New York, until 1920"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005839"
+  }
+ }
+}

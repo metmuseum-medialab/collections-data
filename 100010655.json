@@ -1,0 +1,55 @@
+{
+ "Period": "Third Intermediate Period",
+ "Dynasty": "Dynasty 22",
+ "Date": "ca. 1070–945 B.C.",
+ "Geography": "Country of Origin Egypt, Middle Egypt, el-Rifeh (Deir Rifa), Grave 329",
+ "Medium": "Shells, blue beads",
+ "Credit Line": "Gift of The Egyptian Research Account and British School of Archaeology in Egypt, 1907",
+ "Accession Number": "07.231.18",
+ "What": [
+  "Costume",
+  "Jewelry",
+  "Shell",
+  "Necklaces"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100010655,
+ "gallery-id": 130,
+ "related-artworks": [
+  "http://scrapi.org/object/100002587",
+  "http://scrapi.org/object/100002588",
+  "http://scrapi.org/object/100013479",
+  "http://scrapi.org/object/100015232",
+  "http://scrapi.org/object/100018793"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100002587"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100002588"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100013479"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100015232"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100018793"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100010655"
+  }
+ }
+}

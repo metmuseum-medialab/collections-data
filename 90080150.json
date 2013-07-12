@@ -1,0 +1,42 @@
+{
+ "Date": "1764",
+ "Medium": "Engraving; seventh state of seven",
+ "Dimensions": "Sheet 15 15/16 x 14 in. (40.5 x 35.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Sarah Lazarus, 1891",
+ "Accession Number": "91.1.81",
+ "Who": "William Hogarth",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Portrait Painting in England, 1600–1800",
+  "The Kilt",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90080150,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP827166.jpg",
+ "related-artworks": [
+  90036163,
+  90037738,
+  90040932,
+  90049367,
+  90049368
+ ],
+ "Provenance": [
+  "Donor: Sarah Lazarus , 1891"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90080150"
+  }
+ }
+}

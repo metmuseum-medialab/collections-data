@@ -1,0 +1,35 @@
+{
+ "Date": "19th Century",
+ "Geography": "Italy",
+ "Dimensions": "Overall 26.7 x 10.2cm (10 1/2 x 4in.)",
+ "Classification": "Accessory",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2232",
+ "Who": "Gaspar Otto Michele",
+ "What": [
+  "Cases",
+  "Chordophones",
+  "Violins",
+  "Violin cases"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "id": 180016745,
+ "related-artworks": [
+  180014945,
+  180014780,
+  180015293,
+  180017096,
+  180012648
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016745"
+  }
+ }
+}

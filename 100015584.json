@@ -1,0 +1,48 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep II",
+ "Date": "ca. 1427–1400 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes",
+ "Medium": "Tempera on paper",
+ "Dimensions": [
+  "facsimile h. 37.5 cm (14 3/4 in); w. 65 cm (25 9/16 in)",
+  "scale 11",
+  "framed h. 41 cm (16 1/8 in); w. 68.9 cm (27 1/8 in)"
+ ],
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.4.76",
+ "Who": "Nina de Garis Davies",
+ "What": [
+  "Paper",
+  "Tempera",
+  "Facsimiles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100015584,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs30.4.76.jpg",
+ "related-artworks": [
+  100000861,
+  100000882,
+  100000938,
+  100005249,
+  100005490
+ ],
+ "Provenance": [
+  "Painted at Qurna by Nina de Garis Davies for the Egyptian Expedition of the Metropolitan Museum of Art, 1928 (?)."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100015584"
+  }
+ }
+}

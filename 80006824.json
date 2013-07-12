@@ -1,0 +1,30 @@
+{
+ "Date": "1675–1725",
+ "Culture": "Italian",
+ "Medium": "wood",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Edward S. Harkness, 1930",
+ "Accession Number": "30.135.27",
+ "What": "Busks",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80006824,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/30.135.27_F.jpg",
+ "related-artworks": [
+  80006821,
+  80006822,
+  80006823,
+  80029585,
+  80036016
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80006824"
+  }
+ }
+}

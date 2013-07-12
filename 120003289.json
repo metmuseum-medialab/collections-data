@@ -1,0 +1,52 @@
+{
+ "Date": "ca. 1570",
+ "Culture": "French (Limoges)",
+ "Medium": "Painted enamel on copper, partly gilt",
+ "Dimensions": "Diam. 12 1/8 in. (30.8 cm.)",
+ "Classification": "Enamels",
+ "Credit Line": "The F.O. Matthiessen Collection, Gift of Mrs. Emma Matthiessen, in memory of her husband, 1904",
+ "Accession Number": "04.6.7",
+ "Who": "Pierre Reymond",
+ "What": [
+  "Metal",
+  "Gilt",
+  "Dishes",
+  "Copper",
+  "Painting",
+  "Plates",
+  "Enamels",
+  "Enamel"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Limousin",
+  "Limoges"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Patronage at the Later Valois Courts (1461–1589)",
+  "France, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120003289,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES168.jpg",
+ "related-artworks": [
+  120003290,
+  120023614,
+  120012005,
+  120012025,
+  120014712
+ ],
+ "Provenance": [
+  "F. O. Matthiessen",
+  "Mrs. Emma Matthiessen (until 1904",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120003289"
+  }
+ }
+}

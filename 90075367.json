@@ -1,0 +1,35 @@
+{
+ "Date": "1890",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "sheet 1 1/2 x 2 13/16 in. (3.8 x 7.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 214, N163.36",
+ "Who": "Goodwin & Company",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "id": 90075367,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821942.jpg",
+ "related-artworks": [
+  90075272,
+  90075280,
+  90075269,
+  90075267,
+  90075270
+ ],
+ "Description": "The \"Dogs of the World\" series of trading cards (N163) was issued by Goodwin & Company in 1890 to promote Old Judge Cigarettes. The series of 50 cards depicts dogs of various breeds. The Metropolitan Museum of Art owns 23 of the series' 50 cards.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90075367"
+  }
+ }
+}

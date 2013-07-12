@@ -1,0 +1,28 @@
+{
+ "Medium": "Glass",
+ "Dimensions": [
+  "Other 3 1/16 in. (7.8 cm)",
+  "Diameter (Largest bead) 13/16 in. (2 cm)",
+  "Diameter (Smallest bead) 9/16 in. (1.4 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.654",
+ "What": "Glass",
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130010367,
+ "related-artworks": [
+  130000052,
+  130000054,
+  130000059,
+  130000062,
+  130000064
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130010367"
+  }
+ }
+}

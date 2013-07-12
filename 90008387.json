@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1583",
+ "Medium": "Engraving",
+ "Dimensions": "4 3/4 x 3 3/4 in.  (12 x 9.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "26.70.4",
+ "Who": "Agostino Carracci",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Paolo Veronese (Paolo Caliari) (1528–1588)",
+  "Heroes in Italian Mythological Prints",
+  "Lovers in Italian Mythological Prints",
+  "Poets, Lovers, and Heroes in Italian Mythological Prints",
+  "Sixteenth–Century Painting in Emilia–Romagna",
+  "Annibale Carracci (1560–1609)",
+  "Baroque Rome"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90008387,
+ "related-artworks": [
+  90008150,
+  90008179,
+  90008180,
+  90008189,
+  90008222
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90008387"
+  }
+ }
+}

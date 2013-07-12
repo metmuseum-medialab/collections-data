@@ -1,0 +1,53 @@
+{
+ "Retailer": "Ball, Tompkins and Black (active 1839–51)",
+ "Date": "1850",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": [
+  "Overall 8 15/16 x 7 1/8 x 5 5/16 in. (22.7 x 18.1 x 13.5 cm); 25 oz. (776.9 g)",
+  "Foot Diam. 4 11/16 in. (11.9 cm)",
+  "Body H. 7 1/8 in. (18.1 cm); 21 oz. 8 dwt. (664.9 g)",
+  "Cover 2 1/8 x 3 9/16 in. (5.4 x 9 cm); 3 oz. 12 dwt. (112 g)"
+ ],
+ "Classification": "Silver",
+ "Credit Line": "Gift of Mrs. F. R. Lefferts, 1969",
+ "Accession Number": "69.141.2a, b",
+ "Who": [
+  "Ball, Tompkins  Black",
+  "John C. Moore"
+ ],
+ "What": [
+  "Metal",
+  "Silver",
+  "Bowls",
+  "Sugar bowls"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10002582,
+ "gallery-id": 705,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/191517.jpg",
+ "related-artworks": [
+  10004511,
+  10004710,
+  10021431
+ ],
+ "Provenance": [
+  "Marshall Lefferts, from 1850",
+  "Mrs. F. R. Lefferts, Setauket, New York, until 1969"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10002582"
+  }
+ }
+}

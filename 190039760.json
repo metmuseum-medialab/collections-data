@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1854",
+ "Medium": "Salted paper print from paper negative",
+ "Dimensions": "Image 31.8 x 26.4 cm (12 1/2 x 10 3/8 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+ "Accession Number": "2005.100.630",
+ "Who": "Louis-Rémy Robert",
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Louis–Rémy Robert (1810–1882)",
+  "The Rise of Paper Photography in 1850s France",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190039760,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP261153.jpg",
+ "related-artworks": [
+  190016873,
+  190018117,
+  190018936,
+  190019050,
+  190024191
+ ],
+ "Provenance": [
+  "Descendant of Louis Robert",
+  "[Lunn Gallery]",
+  "Gilman Paper Company Collection, New York, August 25, 1994"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190039760"
+  }
+ }
+}

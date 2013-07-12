@@ -1,0 +1,49 @@
+{
+ "Designer": "Donatella Versace (Italian, born 1955)",
+ "Couture Line": "Versace Couture (Italian, founded 1992)",
+ "Date": "spring/summer 1999",
+ "Culture": "Italian",
+ "Medium": "wool",
+ "Dimensions": "Length at CB 59 in. (149.9 cm)",
+ "Credit Line": "Gift of Donatella Versace, 1999",
+ "Accession Number": "1999.137.3",
+ "Who": [
+  "Gianni Versace",
+  "Versace Couture",
+  "Donatella Versace"
+ ],
+ "What": [
+  "Costume",
+  "Wool",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Costume in The Metropolitan Museum of Art",
+  "Haute Couture",
+  "The Greek Key and Divine Attributes in Modern Dress",
+  "Made in Italy Italian Fashion from 1950 to Now",
+  "Italian Peninsula, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80002295,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1999.137.3_F.jpg",
+ "related-artworks": [
+  80000156,
+  80001760,
+  80002087,
+  80002251,
+  80002293
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002295"
+  }
+ }
+}

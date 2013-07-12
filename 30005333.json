@@ -1,0 +1,45 @@
+{
+ "Period": "Iron Age III",
+ "Date": "ca. 8th–7th century B.C.",
+ "Geography": "Iran, probably from Luristan",
+ "Medium": "Bronze",
+ "Dimensions": "2.36 in. (5.99 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Louise Crane, 1980",
+ "Accession Number": "1980.324.4",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Luristan"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30005333,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME1980_324_4.jpg",
+ "related-artworks": [
+  30001503,
+  30001509,
+  30003337,
+  30005335,
+  30001504
+ ],
+ "Provenance": [
+  "Until 1931, Stora Art Gallery, New York",
+  "formerly collection of Mrs. W. Murray Crane, New York (until d. 1972)",
+  "acquired by the Museum in 1980, gift of Louise Crane, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30005333"
+  }
+ }
+}

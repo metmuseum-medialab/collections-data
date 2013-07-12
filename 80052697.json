@@ -1,0 +1,37 @@
+{
+ "Date": "1700–1940",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. William Bamberger, 1940",
+ "Accession Number": "C.I.40.39.3a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Mittens"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80052697,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI40.39.3ab.jpg",
+ "related-artworks": [
+  80031348,
+  80038325,
+  80052719,
+  80052755,
+  80094413
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80052697"
+  }
+ }
+}

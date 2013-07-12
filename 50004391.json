@@ -1,0 +1,38 @@
+{
+ "Date": "mid-20th century",
+ "Geography": "Indonesia, Papua Province (Irian Jaya)",
+ "Culture": "Asmat people",
+ "Medium": "Feathers, fiber, seeds",
+ "Dimensions": "L. 24 1/2 in. (62.2 cm)",
+ "Classification": "Feathers-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection; Gift of Nelson A. Rockefeller and Mrs. Mary C. Rockefeller, 1965",
+ "Accession Number": "1978.412.1361",
+ "What": "Feathers",
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Irian Jaya"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1900 A.D.–present",
+ "id": 50004391,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1978.412.1361A.JPG",
+ "related-artworks": [
+  50003830,
+  50003856,
+  50003932,
+  50004485,
+  50006457
+ ],
+ "Provenance": [
+  "Michael C. Rockefeller Expedition, collected 1961",
+  "Nelson A. Rockefeller, New York, 1961–1965",
+  "The Museum of Primitive Art, New York, 1965–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50004391"
+  }
+ }
+}

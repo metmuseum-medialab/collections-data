@@ -1,0 +1,59 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "bronze, gilt",
+ "Dimensions": "1 15/16 in. (50 mm)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Bequest of Gwynne M. Andrews, 1931",
+ "Accession Number": "31.33.196",
+ "Who": "A. Desaide",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Gilt",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011661,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/82499.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120000912",
+  "http://scrapi.org/object/120001010",
+  "http://scrapi.org/object/120000905",
+  "http://scrapi.org/object/120000908",
+  "http://scrapi.org/object/120000906"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000912"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120001010"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000905"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000908"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120000906"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120011661"
+  }
+ }
+}

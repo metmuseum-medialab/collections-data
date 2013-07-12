@@ -1,0 +1,40 @@
+{
+ "Period": "19th century",
+ "Date": "1809–65",
+ "Medium": "Pen and black ink over black chalk. Incised for transfer.",
+ "Dimensions": "5 3/8 x 3 3/8 in.  (13.7 x 8.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1963",
+ "Accession Number": "63.540.8",
+ "Who": "Carl Alexander von Heideloff",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90002300,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803821.jpg",
+ "related-artworks": [
+  90002299,
+  90003966,
+  90002298,
+  90002301,
+  90019233
+ ],
+ "Provenance": [
+  "Vendor: Walter Schatzki"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90002300"
+  }
+ }
+}

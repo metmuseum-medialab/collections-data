@@ -1,0 +1,40 @@
+{
+ "Date": "ca. 1130–40",
+ "Geography": "Made in present-day France",
+ "Culture": "Catalan",
+ "Medium": "Marble",
+ "Dimensions": "Overall 8 1/2 x 17 1/2 in. (21.6 x 44.5 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Cloisters Collection, 1925",
+ "Accession Number": "25.120.657",
+ "What": [
+  "Sculpture",
+  "Marble"
+ ],
+ "Where": [
+  "Europe",
+  "Spain",
+  "Catalonia"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011318,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/sf61157.jpg",
+ "related-artworks": [
+  70011078,
+  70011079,
+  70011080,
+  70011075,
+  70011115
+ ],
+ "Provenance": [
+  "From the Benedictine monastery of Saint-Michel-de-Cuxa, near Perpignan, France.George Grey Barnard American, Bellefonte, Pennsylvania 1863–1938 New York , New York (until 1925)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011318"
+  }
+ }
+}

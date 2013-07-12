@@ -1,0 +1,58 @@
+{
+ "Date": "1941–42",
+ "Medium": "Engraving",
+ "Dimensions": "plate 4 x 2 3/4 inches (10.2 x 7 cm) sheet: 6 1/4 x 4 3/4 inches (15.9 x 12.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Estate of John Taylor Arms, 1955",
+ "Accession Number": "55.621.38",
+ "Who": "Stanley William Hayter",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Postwar Print Renaissance in America",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90047032,
+ "related-artworks": [
+  "http://scrapi.org/object/90047029",
+  "http://scrapi.org/object/90047033",
+  "http://scrapi.org/object/90047016",
+  "http://scrapi.org/object/90047017",
+  "http://scrapi.org/object/90047019"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Donor: John Taylor Arms (American, Washington, D.C. 1887–1953 New York)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90047029"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90047033"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90047016"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90047017"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90047019"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90047032"
+  }
+ }
+}

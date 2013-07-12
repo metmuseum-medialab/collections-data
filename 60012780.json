@@ -1,0 +1,51 @@
+{
+ "Calligrapher": "after Senseki",
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1816–20",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "H. 14 3/16 in. (36 cm); W. 9 5/8 in. (24.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "JP1856",
+ "Who": [
+  "Katsushika Hokusai",
+  "Senseki"
+ ],
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Art of the Pleasure Quarters and the Ukiyo–e Style",
+  "Art of the Edo Period (1615–1868)",
+  "Japonisme",
+  "Woodblock Prints in the Ukiyo–e Style",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60012780,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP141120.jpg",
+ "related-artworks": [
+  60000584,
+  60000585,
+  60000586,
+  60000587,
+  60000588
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60012780"
+  }
+ }
+}

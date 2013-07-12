@@ -1,0 +1,39 @@
+{
+ "Date": "1972",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Bonnie Cashin, 1972",
+ "Accession Number": "1972.161.1",
+ "Who": "Bonnie Cashin",
+ "What": [
+  "Costume",
+  "Wool",
+  "Sweaters"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "American Ingenuity Sportswear, 1930s–1970s",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80005439,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1972.161.1_F.jpg",
+ "related-artworks": [
+  80115635,
+  80115638,
+  80115805,
+  80116311,
+  80005278
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80005439"
+  }
+ }
+}

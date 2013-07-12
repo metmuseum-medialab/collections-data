@@ -1,0 +1,40 @@
+{
+ "Date": "16th–17th century",
+ "Culture": "China",
+ "Medium": "Silk",
+ "Dimensions": "14 x 6 in. (35.56 x 15.24 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1946",
+ "Accession Number": "46.186.3",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1400–1600 A.D.",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043487,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/176013.jpg",
+ "related-artworks": [
+  60006611,
+  60006612,
+  60006609,
+  60006770,
+  60006771
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043487"
+  }
+ }
+}

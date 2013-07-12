@@ -1,0 +1,36 @@
+{
+ "Date": "1927",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "Overall 81 x 86 in. (205.7 x 218.4 cm)",
+ "Credit Line": "Gift of Charlotte and Sidney F. Peskin, 1978",
+ "Accession Number": "1978.42.3",
+ "What": [
+  "Costume",
+  "Silk",
+  "Outerwear",
+  "Shawls"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80057353,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.42.3.jpg",
+ "related-artworks": [
+  80001658,
+  80002847,
+  80034875,
+  80057505,
+  80057502
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80057353"
+  }
+ }
+}

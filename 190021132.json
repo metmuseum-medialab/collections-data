@@ -1,0 +1,54 @@
+{
+ "Printer": "Frederick H. Evans (British, London 1853–1943 London)",
+ "Date": "1904",
+ "Medium": "Platinum print",
+ "Dimensions": "8.3 x 5.6 cm (3 1/4 x 2 3/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Alfred Stieglitz Collection, 1949",
+ "Accession Number": "49.55.185",
+ "Who": [
+  "Frederick H. Evans",
+  "George Bernard Shaw"
+ ],
+ "What": [
+  "Photographs",
+  "Platinum prints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190021132,
+ "Provenance": [
+  "Alfred Stieglitz"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190021133"
+   },
+   {
+    "href": "http://scrapi.org/object/190021134"
+   },
+   {
+    "href": "http://scrapi.org/object/190021131"
+   },
+   {
+    "href": "http://scrapi.org/object/90000402"
+   },
+   {
+    "href": "http://scrapi.org/object/90025055"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190021132"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190021132"
+  }
+ }
+}

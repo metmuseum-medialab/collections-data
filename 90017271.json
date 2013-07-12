@@ -1,0 +1,44 @@
+{
+ "Artist": "Frontispiece by Marie Laurencin (French, Paris 1883–1956 Paris)",
+ "Publisher": "William Heinemann Ltd. (London)",
+ "Printer": "The Windmill Press (Kingswood, Surrey)",
+ "Date": "1929",
+ "Medium": "Lithography",
+ "Dimensions": "Overall 7 3/4 x 5 1/2 in. (19.7 x 14 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1967",
+ "Accession Number": "67.807.4",
+ "Who": [
+  "William Heinemann Ltd.",
+  "Marie Laurencin",
+  "The Windmill Press",
+  "Daisy Fellowes"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90017271,
+ "related-artworks": [
+  90020532,
+  90011815,
+  90013145,
+  90013148,
+  90014544
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90017271"
+  }
+ }
+}

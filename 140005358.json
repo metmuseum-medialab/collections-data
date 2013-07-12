@@ -1,0 +1,49 @@
+{
+ "Date": "10th–11th century",
+ "Geography": "Egypt, Fustat",
+ "Medium": "Linen and silk",
+ "Dimensions": [
+  "H. 4 1/2 in. (11.4 cm)",
+  "W. 20 1/4 in. (51.4 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1927",
+ "Accession Number": "27.170.60",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Woven",
+  "Linen"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Cairo",
+  "Fustat"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1000–1400 A.D.",
+  "Egypt, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140005358,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/69138.jpg",
+ "related-artworks": [
+  140005337,
+  140005340,
+  140005309,
+  140005290,
+  140005312
+ ],
+ "Provenance": [
+  "[ Joseph Abemayor, Cairo, until 1927",
+  "sold to H.E. Winlock for MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005358"
+  }
+ }
+}

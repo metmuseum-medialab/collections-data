@@ -1,0 +1,44 @@
+{
+ "Manufacturer": "Cleto Munari",
+ "Date": "1980",
+ "Medium": "Silverplate, rose quartz, lapis lazuli",
+ "Dimensions": "1 1/2 x 19 3/4 x 19 3/4 in. (3.8 x 50.2 x 50.2 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Cleto Munari, 1988",
+ "Accession Number": "1988.191.6",
+ "Who": [
+  "Mario Bellini",
+  "Cleto Munari"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Trays",
+  "Lapis lazuli",
+  "Rose quartz"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210005222,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT5956.jpg",
+ "related-artworks": [
+  210005888,
+  210005890,
+  210005891,
+  210005889,
+  210005018
+ ],
+ "Description": "Although trained as an architect, Bellini is known less for his buildings than for his product design.  This tea and coffee service, a prototype for the silversmith Cleto Munari, reveals Bellini's strong architectural background.  All of the elements are reduced to minimal geometry: squares, circles, cylinders, a hemisphere.  Postmodernist designers often refer to a classical past through the use of historical detail.  Bellini however, suggests the discipline of classical architecture through form alone, without using any sort of conventional ornament.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210005222"
+  }
+ }
+}

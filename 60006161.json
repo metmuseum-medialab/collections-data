@@ -1,0 +1,55 @@
+{
+ "Date": "12th century",
+ "Culture": "Thailand or Cambodia",
+ "Medium": "Bronze",
+ "Dimensions": "H. 5 1/4 in. (13.3 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Doris Wiener and Michele Caplan, in memory of Anthony Gardner, 1992",
+ "Accession Number": "1992.188",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "Thailand"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60006161,
+ "related-artworks": [
+  "http://scrapi.org/object/60005938",
+  "http://scrapi.org/object/60004371",
+  "http://scrapi.org/object/60006079",
+  "http://scrapi.org/object/60006086",
+  "http://scrapi.org/object/60006124"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60005938"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60004371"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60006079"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60006086"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60006124"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60006161"
+  }
+ }
+}

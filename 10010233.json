@@ -1,0 +1,43 @@
+{
+ "Date": "1700–1800",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Free-blown lead glass",
+ "Dimensions": "H. 4 1/4 in. (10.8 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Frederick W. Hunter, 1913",
+ "Accession Number": "13.179.116",
+ "What": [
+  "Metal",
+  "Glass",
+  "Drinking vessels",
+  "Blown glass",
+  "Lead",
+  "Drinking glasses",
+  "Wine glasses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10010233,
+ "gallery-id": 774,
+ "related-artworks": [
+  10010212,
+  10010216,
+  10010227,
+  10010259,
+  10010261
+ ],
+ "Provenance": [
+  "Frederick W. Hunter, New York, until 1913"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10010233"
+  }
+ }
+}

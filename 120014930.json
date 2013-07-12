@@ -1,0 +1,44 @@
+{
+ "Date": "18th century",
+ "Culture": "British",
+ "Medium": "Silver",
+ "Dimensions": "3 3/4 x 3 1/4 in.  (9.5 x 8.3 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of James Hazen Hyde, 1948",
+ "Accession Number": "48.14.13",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Metalwork",
+  "Silver",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120014930,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/140735.jpg",
+ "related-artworks": [
+  120014929,
+  120003370,
+  120027740,
+  120027756,
+  120028374
+ ],
+ "Provenance": [
+  "James Hazen Hyde (until 1948",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120014930"
+  }
+ }
+}

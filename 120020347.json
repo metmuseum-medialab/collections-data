@@ -1,0 +1,47 @@
+{
+ "Date": "second half 18th century",
+ "Culture": "probably British, South Staffordshire",
+ "Medium": "Enamel on copper",
+ "Dimensions": "H. 3/4 in.  (1.9 cm); L. 1 13/16 in. (4.6 cm.); W. 1 1/2 in. (3.8 cm.)",
+ "Classification": "Enamels",
+ "Credit Line": "Gift of Louise Knobloch, 1966",
+ "Accession Number": "66.43.3",
+ "What": [
+  "Metal",
+  "Copper",
+  "Painting",
+  "Enamels",
+  "Boxes",
+  "Enamel"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020347,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/184809.jpg",
+ "related-artworks": [
+  120019173,
+  120003279,
+  120019182,
+  120020346,
+  120019174
+ ],
+ "Provenance": [
+  "Charles Kingsley",
+  "Elizabeth Smith Berg",
+  "Louise Knobloch (until 1966",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120020347"
+  }
+ }
+}

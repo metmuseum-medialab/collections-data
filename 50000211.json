@@ -1,0 +1,67 @@
+{
+ "Date": "15th–early 16th century",
+ "Geography": "Mexico, Mesoamerica",
+ "Culture": "Aztec",
+ "Medium": "Basalt",
+ "Dimensions": [
+  "Overall 11 1/4 x 6 1/2 x 4 1/8 in. (28.58 x 16.51 x 10.49 cm)",
+  "Other 6 1/2 x 4 1/8 in. (16.51 x 10.49 cm)"
+ ],
+ "Classification": "Stone-Sculpture",
+ "Credit Line": "Museum Purchase, 1900",
+ "Accession Number": "00.5.52",
+ "Who": "Aztec",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Figures",
+  "Basalt"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Mexico, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50000211,
+ "gallery-id": 358,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs00_5_52.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/50000199",
+  "http://scrapi.org/object/50000207",
+  "http://scrapi.org/object/50000210",
+  "http://scrapi.org/object/50000217",
+  "http://scrapi.org/object/50000218"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ao/original/vs00_5_52.jpg",
+  "http://images.metmuseum.org/CRDImages/ao/original/vs00_5_52a.jpg"
+ ],
+ "Provenance": [
+  "Louis Petich Collection, New York, before 1893, on loan to Metropolitan Museum of Art, New York, 1894–1900"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50000199"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50000207"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50000210"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50000217"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/50000218"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50000211"
+  }
+ }
+}

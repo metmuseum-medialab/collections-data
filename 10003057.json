@@ -1,0 +1,41 @@
+{
+ "Date": "1830–50",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Gilt metal",
+ "Dimensions": "6 3/8 x 6 3/8 x 8 9/16 in. (16.2 x 16.2 x 21.7 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Rogers Fund, 1963",
+ "Accession Number": "63.17.3",
+ "What": [
+  "Metal",
+  "Gilt",
+  "Curtains",
+  "Knobs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10003057,
+ "gallery-id": 774,
+ "related-artworks": [
+  10003055,
+  10003056,
+  10003058,
+  10003049,
+  10003050
+ ],
+ "Provenance": [
+  "Roger MacLaughlin, New York, until 1963"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003057"
+  }
+ }
+}

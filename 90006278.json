@@ -1,0 +1,38 @@
+{
+ "Date": "[1895 printing of 1894 image]",
+ "Medium": "Commercial lithography; yellow, red, and black",
+ "Dimensions": "12 1/16 x 10 in. (image); 13 x 10 13/16 in. (sheet)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Bessie Potter Vonnoh, 1941",
+ "Accession Number": "41.12.146",
+ "Who": "Peter Newell",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90006278,
+ "related-artworks": [
+  90013251,
+  90019118,
+  90047478,
+  90047479,
+  90095235
+ ],
+ "Provenance": [
+  "Donor: Bessie Potter Vonnoh (American, St. Louis, Missouri 1872–1955 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90006278"
+  }
+ }
+}

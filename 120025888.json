@@ -1,0 +1,44 @@
+{
+ "Date": "third quarter 18th century",
+ "Culture": "British, Staffordshire",
+ "Medium": "Lead-glazed earthenware",
+ "Dimensions": "H. with cover 2 1/8 in.  (5.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Dr. and Mrs. A. L. Garbat, 1961",
+ "Accession Number": "61.107.131 ab",
+ "Who": "Whieldon type",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Ceramic glaze",
+  "Lead glaze",
+  "Caddies",
+  "Tea caddies"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120025888,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/172734_.jpg",
+ "related-artworks": [
+  120014071,
+  120014072,
+  120014523,
+  120025567,
+  120006179
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120025888"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "1963",
+ "Medium": "Gelatin silver print",
+ "Dimensions": [
+  "Image 35.5 x 34 cm (14 x 13 3/8 in.)",
+  "Sheet 50.8 x 40.6 cm (20 x 16 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Danielle and David Ganek, 2005",
+ "Accession Number": "2005.493.5",
+ "Who": "Diane Arbus",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The New Documentary Tradition in Photography",
+  "Walker Evans (1903–1975)",
+  "Early Documentary Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190038589,
+ "related-artworks": [
+  190060626,
+  190012864,
+  190015070,
+  190016870,
+  190017459
+ ],
+ "Provenance": [
+  "Diane Arbus",
+  "The Estate of Diane Arbus",
+  "David and Danielle Ganek, Greenwich, CT"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190038589"
+  }
+ }
+}

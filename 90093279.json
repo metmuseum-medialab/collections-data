@@ -1,0 +1,45 @@
+{
+ "Dedicatee": "Lorenzo de' Medici (Italian, Florence 1599–1648 Florence)",
+ "Date": "1617–20",
+ "Medium": "Etching; first state of two (Lieure)",
+ "Dimensions": [
+  "Sheet 7 5/16 x 10 3/8 in. (18.6 x 26.4 cm)",
+  "Plate 2 3/16 x 3 3/8 in. (5.6 x 8.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Edwin De T. Bechtel, 1957",
+ "Accession Number": "57.650.300",
+ "Who": [
+  "Jacques Callot",
+  "Lorenzo de' Medici"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90093279,
+ "related-artworks": [
+  90003572,
+  90008838,
+  90010396,
+  90010397,
+  90010780
+ ],
+ "Provenance": [
+  "Junius Spencer Morgan",
+  "Donor: Edwin De Turck Bechtel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90093279"
+  }
+ }
+}

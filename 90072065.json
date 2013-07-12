@@ -1,0 +1,40 @@
+{
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 10 5/16 x 12 15/16 in. (26.2 x 32.9 cm)",
+  "sheet 11 1/4 x 14 in. (28.5 x 35.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.17",
+ "Who": "Abraham Bosse",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90072065,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP829688.jpg",
+ "related-artworks": [
+  90015712,
+  90018510,
+  90018511,
+  90018512,
+  90018514
+ ],
+ "Provenance": [
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90072065"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "13th–14th century",
+ "Culture": "European",
+ "Medium": "Pot metal glass",
+ "Dimensions": [
+  "red piece 1 1/2 x 1 in (4 x 2.5 cm)",
+  "yellow piece 3 1/4 x 1 1/2 in (8.5 x 4 cm)"
+ ],
+ "Classification": "Glass-Stained",
+ "Credit Line": "Gift of George D. Pratt, 1930",
+ "Accession Number": "30.73.255a, b",
+ "What": [
+  "Metal",
+  "Glass",
+  "Fragments",
+  "Stained glass"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "id": 170007176,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cdi30-73-255-1.jpg",
+ "related-artworks": [
+  170005910,
+  170005911,
+  170005913,
+  170005917,
+  170005918
+ ],
+ "Provenance": [
+  "George D. Pratt, Glen Cove, NY (until 1930)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170007176"
+  }
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "Date": "1640–70",
+ "Culture": "Dutch",
+ "Medium": "Tin-enameled earthenware",
+ "Dimensions": "5 x 5 in.  (12.7 x 12.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of W. R. Valentiner, 1908",
+ "Accession Number": "08.196.2",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Tile"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120005405,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/4772.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/es/original/4772.jpg",
+  "http://images.metmuseum.org/CRDImages/es/original/152095.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120005518"
+   },
+   {
+    "href": "http://scrapi.org/object/120005614"
+   },
+   {
+    "href": "http://scrapi.org/object/120011055"
+   },
+   {
+    "href": "http://scrapi.org/object/120011065"
+   },
+   {
+    "href": "http://scrapi.org/object/120011085"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120005405"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120005405"
+  }
+ }
+}

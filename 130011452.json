@@ -1,0 +1,42 @@
+{
+ "Period": "Classical",
+ "Date": "2nd half of the 5th century B.C.",
+ "Culture": "Greek, South Italian, Tarentine",
+ "Medium": "Terracotta",
+ "Dimensions": [
+  "H. 7 5/8 in. (19.4 cm.)",
+  "W. 10 3/4 in. (27.3 cm.)"
+ ],
+ "Classification": "Terracottas",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.215",
+ "What": [
+  "Clay",
+  "Terracotta",
+  "Antefixes"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011452,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP233548.jpg",
+ "related-artworks": [
+  130008804,
+  130008806,
+  130011060,
+  130011717,
+  130012965
+ ],
+ "Description": "The style of this gorgoneion antefix is of a transitional type between the archaic, more fierce Medusa and the calm Medusa of later centuries. Traces of white slip remain on her face, and a few traces of paint from the once bright yellow hair can still be seen on her head. The irises of her eyes would have been painted blue or black.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011452"
+  }
+ }
+}

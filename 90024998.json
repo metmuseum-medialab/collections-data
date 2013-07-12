@@ -1,0 +1,34 @@
+{
+ "Date": "18th century",
+ "Medium": "Graphite, pen and black ink",
+ "Dimensions": "3 11/16 x 23 1/16 in. (9.4 x 58.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Regina Slatkin, 1963",
+ "Accession Number": "63.712.48",
+ "Who": "Anonymous, French, 18th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024998,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/63.712.48.jpg",
+ "related-artworks": [
+  90004741,
+  90004742,
+  90007036,
+  90007037,
+  90007433
+ ],
+ "Provenance": [
+  "Donor: Regina Shoolman Slatkin"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024998"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Date": "third quarter 16th century",
+ "Culture": "Upper Rhine",
+ "Medium": "Pen and black ink, brush and blackish brown and blackish gray wash, highlighted with opaque white, on reddish brown prepared paper",
+ "Dimensions": "9 15/16 x 6 7/16 in.  (25.2 x 16.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.854",
+ "Who": "Follower of Hans Baldung Grien",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Pen"
+ ],
+ "Where": [
+  "Europe",
+  "Upper Rhine"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Robert Lehman Collection",
+ "MetPublications": "Search for related Met publications",
+ "id": 150000274,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3361.jpg",
+ "related-artworks": [
+  150000239,
+  150000275,
+  150000276,
+  150000280,
+  150000281
+ ],
+ "Provenance": [
+  "Private Collection, New York",
+  "sale, Anderson Galleries, New Yok, 18 February 1921 (sale 1560), lot 39 (as Hans Baldung Grien",
+  "to Ederheimer[?]}",
+  "[Richard Ederheimer, New York]."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150000274"
+  }
+ }
+}

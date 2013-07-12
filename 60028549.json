@@ -1,0 +1,38 @@
+{
+ "Period": "Goryeo dynasty (918–1392)",
+ "Culture": "Korea",
+ "Medium": "Pottery",
+ "Dimensions": "H. 2 in. (5.1 cm); Diam. 4 1/2 in. (11.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Samuel T. Peters, 1915",
+ "Accession Number": "15.160.6",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Bowls"
+ ],
+ "Where": [
+  "Asia",
+  "Korea"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Korea, 500–1000 A.D.",
+  "Korea, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60028549,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/15_160_6.JPG",
+ "related-artworks": [
+  60006584,
+  60009739,
+  60012686,
+  60012693,
+  60018726
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028549"
+  }
+ }
+}

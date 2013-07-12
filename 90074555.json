@@ -1,0 +1,38 @@
+{
+ "Date": "mid 17th century",
+ "Medium": "Red chalk",
+ "Dimensions": "sheet approximately 9 13/16 in. (25 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Frits and Rita Markus Fund, 2011",
+ "Accession Number": "2011.488",
+ "Who": "Cornelis Schut",
+ "What": [
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 90074555,
+ "related-artworks": [
+  90072494,
+  90072495,
+  90069153,
+  90050386,
+  90069485
+ ],
+ "Provenance": [
+  "Private Collection, Southern France(?)",
+  "Hôtel Drouot, Paris, December 8, 2010, part of lot 76",
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90074555"
+  }
+ }
+}

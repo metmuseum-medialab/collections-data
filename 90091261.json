@@ -1,0 +1,24 @@
+{
+ "Medium": "Photomechanical process",
+ "Dimensions": "10 5/8 x 7 3/4 in. (27 x 19.7 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.609.83",
+ "What": "Books",
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90091261,
+ "related-artworks": [
+  90085739,
+  90086125,
+  90087173,
+  90087176,
+  90087588
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90091261"
+  }
+ }
+}

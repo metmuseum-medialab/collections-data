@@ -1,0 +1,40 @@
+{
+ "Date": "?",
+ "Geography": "Egypt",
+ "Medium": "Earhenware",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1927",
+ "Accession Number": "27.94.44",
+ "What": [
+  "Ceramics",
+  "Lighting devices",
+  "Lamps"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Islamic Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005265,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf27-94-44.jpg",
+ "related-artworks": [
+  140003845,
+  140003846,
+  140003849,
+  140003851,
+  140003843
+ ],
+ "Provenance": [
+  "Count Grigory Sergeievich Stroganoff, Palazzo Stroganoff, Rome (until d. 1910)",
+  "his daughter, Princess Maria Grigorievna Scerbatov, Palazzo Stroganoff, Rome (from 1910)",
+  "Elia Volpi, Florence (until 1927",
+  "his sale, American Art Association, NewYork, March 31–April 1, 1927, to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005265"
+  }
+ }
+}

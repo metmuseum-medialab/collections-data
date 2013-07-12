@@ -1,0 +1,49 @@
+{
+ "Date": "17th century",
+ "Geography": "Egypt or Syria",
+ "Medium": "Stained glass, gypsum",
+ "Dimensions": [
+  "Window without wood frame  H. 18 7/16 in. (46.8 cm)",
+  "W. 15 1/8 in. (38.4 cm)",
+  "D. 1 in. (2.5 cm)",
+  "Window with wood frame  H. 22 3/8 in. (56.8 cm)",
+  "W. 18 7/8 in. (47.9 cm)",
+  "D. 1 1/4 in. (3.2 cm)"
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Gift of William R. Ware, 1893",
+ "Accession Number": "93.26.4",
+ "What": [
+  "Glass",
+  "Gypsum",
+  "Stained glass",
+  "Windows"
+ ],
+ "Where": [
+  "Asia",
+  "Syria"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140010997,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/wb-93.26.4bb.JPG",
+ "related-artworks": [
+  140001996,
+  140002001,
+  140001999,
+  140002003,
+  140002000
+ ],
+ "Description": "A window such as this with brightly colored panes in blue, orange, green, and red might have been found in a room of a late Ottoman aristocratic home, like the Damascus reception room also in the Museum's collection (1970.70) Tinted glass was favored because it filtered the light, but it also complemented the multihued furnishings of these rooms.",
+ "Provenance": [
+  "Art market, Cairo (until 1890)",
+  "William R. Ware, New York (1890–93)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010997"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Period": "Early–Middle Cypriot",
+ "Date": "2500–1600 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 14.5 cm",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.1299",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Jugs"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Eastern Mediterranean, 8000–2000 B.C.",
+  "The Eastern Mediterranean, 2000–1000 B.C."
+ ],
+ "id": 130001352,
+ "related-artworks": [
+  130000697,
+  130000698,
+  130001155,
+  130000429,
+  130000430
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130001352"
+  }
+ }
+}

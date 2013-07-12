@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1895",
+ "Geography": "Midwest, Grand Rapids, Michigan, United States",
+ "Culture": "American",
+ "Medium": "Oak",
+ "Dimensions": "16 3/8 x 17 1/4 in. (41.6 x 43.8 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Purchase, Jane D. Kaufmann Gift, 1994",
+ "Accession Number": "1994.1",
+ "Who": "David Wolcott Kendall",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Oak",
+  "Stools"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Michigan",
+  "Grand Rapids"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10015376,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/257451.jpg",
+ "related-artworks": [
+  10005127,
+  10015020,
+  10014710,
+  10004663
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10015376"
+  }
+ }
+}

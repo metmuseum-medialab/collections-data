@@ -1,0 +1,63 @@
+{
+ "Artist": "After Pierre Etienne Falconet (French, Paris 1741–1791 Paris)",
+ "Sitter": "Correggio (Antonio Allegri) (Italian, Correggio, active by 1514–died 1534 Correggio)",
+ "Publisher": "Benjamin White and Son (London)",
+ "Date": "1792",
+ "Medium": "Stipple engraving, engraving and etching; black ink over brick",
+ "Dimensions": "Overall 9 1/4 x 7 11/16 in. (23.5 x 19.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Spencer Bickerton, 1934",
+ "Accession Number": "34.79.1",
+ "Who": [
+  "Raphael (Raffaello Sanzio  Santi)",
+  "Rembrandt (Rembrandt van Rijn)",
+  "Hans Holbein the Younger",
+  "Peter Paul Rubens",
+  "Anthony van Dyck",
+  "Leonardo da Vinci",
+  "Pietro da Cortona (Pietro Berrettini)",
+  "Sir Joshua Reynolds",
+  "Nicolas Poussin",
+  "Luca Giordano",
+  "Correggio (Antonio Allegri)",
+  "Pierre Etienne Falconet",
+  "Jonathan Richardson, Senior",
+  "Benjamin White  Son",
+  "Thomas Worlidge",
+  "D. P. Pariset"
+ ],
+ "What": [
+  "Prints",
+  "Ink",
+  "Etching",
+  "Engraving",
+  "Books",
+  "Intaglio prints",
+  "Engravings",
+  "Stippling",
+  "Stipple engravings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90024033,
+ "related-artworks": [
+  90059680,
+  90015152,
+  90023472,
+  90073986
+ ],
+ "Provenance": [
+  "Donor: Spencer Bickerton"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90024033"
+  }
+ }
+}

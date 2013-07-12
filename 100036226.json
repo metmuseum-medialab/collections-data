@@ -1,0 +1,42 @@
+{
+ "Period": "Late Period",
+ "Dynasty": "Dynasty 26",
+ "Reign": "reign of Apries",
+ "Date": "589–570 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Memphis (Mit Rahina)",
+ "Medium": "Bronze or copper alloy",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "O.C.2057g",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Arms",
+  "Copper",
+  "Arrows"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Memphis"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "id": 100036226,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs09.183.4.jpg",
+ "related-artworks": [
+  100022826,
+  100022824,
+  100010269,
+  100022830,
+  100036232
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100036226"
+  }
+ }
+}

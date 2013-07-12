@@ -1,0 +1,42 @@
+{
+ "Date": "1928",
+ "Culture": "French",
+ "Medium": "(a) silk, feathers; (b) silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Wolcott Blair, 1973",
+ "Accession Number": "1973.6a, b",
+ "Who": "Louiseboulanger",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Evening dresses",
+  "Feather"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Costume in The Metropolitan Museum of Art",
+  "Twentieth–Century Silhouette and Support",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80004442,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DT990.jpg",
+ "related-artworks": [
+  80001898,
+  80006310,
+  80003749,
+  80003750
+ ],
+ "Description": "Feathers of the 1920s swayed with the new music and dance, benefited from Orientalism's panache and bent for the exotic, and allowed clothing to be more fluid and flexible than ever. Here, the feather trim is individual filiments of ostrich plume knotted together to form longer strands. Each is dyed a different tone for the effect of an ombré cascade. The feather in nature is a beautiful form, but Louiseboulanger's feathers are purposely governed and distilled beyond natural beauty to achieve a trim synthetic and sophisticated silhouette.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80004442"
+  }
+ }
+}

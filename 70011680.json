@@ -1,0 +1,48 @@
+{
+ "Date": "late 19th–early 20th century (Romanesque style)",
+ "Culture": "French",
+ "Medium": "Red and white marble of Villefranche",
+ "Dimensions": [
+  "Overall (a) 71 x 37 1/2 x 36 in. (180.3 x 95.3 x 91.4 cm)",
+  "Overall (b) 71 x 24 x 36 1/2 in. (180.3 x 61 x 92.7 cm)",
+  "Overall (c, d) 19 x 10 3/4 in. (48.3 x 27.3 cm)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "The Cloisters Collection, 1935",
+ "Accession Number": "35.51a-d",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Marble"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Burgundy"
+ ],
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1900 A.D.–present",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 70011680,
+ "gallery-id": 7,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi35-51-a-ds1.jpg",
+ "related-artworks": [
+  70006522,
+  70006509,
+  70010344,
+  70012930,
+  70013299
+ ],
+ "Description": "Although acquired as a twelfth-century original from the monastery of Notre-Dame-du-Vilar (Roussillon), this fountain is probably a forgery based on Romanesque decorative forms of the Pyrenees, such as those of the Cuxa Cloister.",
+ "Provenance": [
+  "Notre-Dame-du-Vilar, near Villelongue des Monts (Pyrénees-Orientales)[ Monsieur Paul Gouvert , Paris (1924–sold 1935)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011680"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "probably 19th century",
+ "Culture": "Russian",
+ "Medium": "silk, metallic thread",
+ "Dimensions": [
+  "Width at Bottom (a) 43 in. (109.2 cm)",
+  "Length (b) 17 1/2 in. (44.5 cm)"
+ ],
+ "Credit Line": "Rogers Fund, 1907",
+ "Accession Number": "07.141.3a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D.",
+  "Anatolia and the Caucasus, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80025021,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/07.141.3ab_F.jpg",
+ "related-artworks": [
+  80011999,
+  80097012,
+  80025040,
+  80097384,
+  80009115
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80025021"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Period": "Imperial",
+ "Date": "ca. 1st–early 2nd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Amber",
+ "Dimensions": "Diam. 2 3/4 in. (7 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Rogers Fund, 1923",
+ "Accession Number": "23.160.98",
+ "What": [
+  "Resin",
+  "Amber"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011919,
+ "gallery-id": 166,
+ "related-artworks": [
+  130004178,
+  130017982,
+  130011068,
+  130000050,
+  130000053
+ ],
+ "Description": "Valued for its rarity and richness, amber was an increasingly favored precious material from the time of the emperor Nero, when it became more widely available. The elder Pliny, in his Natural History, tells us that amber was imported from the Baltic coast of Germany. The style of the carving and iconography of this piece look back to Hellenistic art. The disk preserves the remains of silver pins that were part of a handle on either side of the Nereid. It likely served as a lid, possibly for a small pyxis (box).",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011919"
+  }
+ }
+}

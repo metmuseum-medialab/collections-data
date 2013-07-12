@@ -1,0 +1,40 @@
+{
+ "Date": "1659",
+ "Medium": "Black chalk, over brush and gray-brown ink",
+ "Dimensions": "sheet 7 1/4 x 11 3/4 in. (18.4 x 29.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1973",
+ "Accession Number": "1973.68",
+ "Who": "Pieter de Molijn",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90014916,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800493.jpg",
+ "related-artworks": [
+  90055401,
+  90014915,
+  90014911,
+  90043206,
+  90055402
+ ],
+ "Provenance": [
+  "Hendrikus Egbertus ten Kate",
+  "C. G. Boerner, Dusseldorf"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90014916"
+  }
+ }
+}

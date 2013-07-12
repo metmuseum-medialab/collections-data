@@ -1,0 +1,39 @@
+{
+ "Date": "1856",
+ "Medium": "Woodcut",
+ "Dimensions": "5 13/16 x 4 3/4 x 11/16 in. (14.8 x 12.1 x 1.8 cm)",
+ "Classification": "Books",
+ "Credit Line": "Anonymous Gift, 1941",
+ "Accession Number": "41.102.5",
+ "Who": "D. Appleton & Co.",
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90026159,
+ "related-artworks": [
+  90012155,
+  90014183,
+  90041676,
+  90041696,
+  90057959
+ ],
+ "Provenance": [
+  "Donor: A. Hyatt Mayor (American, 1901–1980)(anonymous) Donor: William M. Ivins Jr. (American, 1878–1964)(anonymous)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90026159"
+  }
+ }
+}

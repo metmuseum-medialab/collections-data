@@ -1,0 +1,37 @@
+{
+ "Illustrator": "Gustave Doré (French, Strasbourg 1832–1883 Paris)",
+ "Publisher": "Thompson & Thomas (Chicago, Illinois)",
+ "Date": "early 20th century (?)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Fairchild Bowler, 1965",
+ "Accession Number": "65.518.14",
+ "Who": [
+  "Gustave Doré",
+  "John Milton",
+  "Thompson & Thomas"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90021846,
+ "related-artworks": [
+  90000202,
+  90000338,
+  90002606,
+  90014846,
+  90021834
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021846"
+  }
+ }
+}

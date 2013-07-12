@@ -1,0 +1,32 @@
+{
+ "Date": "1700–1942",
+ "Culture": "American or European",
+ "Medium": "tortoiseshell",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Florance Rogers Dietrich, 1942",
+ "Accession Number": "C.I.42.95.23",
+ "What": [
+  "Costume",
+  "Fans",
+  "Tortoise shell"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80053854,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI42.95.23.jpg",
+ "related-artworks": [
+  80028178,
+  80053604,
+  80053605,
+  80053610,
+  80053582
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80053854"
+  }
+ }
+}

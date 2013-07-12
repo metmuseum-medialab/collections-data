@@ -1,0 +1,55 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "1800",
+ "Culture": "Japan",
+ "Medium": "Clay covered with a finely crackled transparent glaze (Satsuma ware?)",
+ "Dimensions": "H. 3 1/8 in. (7.9 cm); Diam. 4 7/8 in. (12.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Charles Stewart Smith, 1893",
+ "Accession Number": "93.3.114",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Glaze",
+  "Bowls",
+  "Satsuma"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60034074,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/93_3_114.JPG",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60016485"
+   },
+   {
+    "href": "http://scrapi.org/object/60016508"
+   },
+   {
+    "href": "http://scrapi.org/object/60016509"
+   },
+   {
+    "href": "http://scrapi.org/object/60016966"
+   },
+   {
+    "href": "http://scrapi.org/object/60016892"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60034074"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60034074"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1918",
+ "Culture": "American",
+ "Medium": [
+  "(a–f) wool",
+  "(g, h) silk"
+ ],
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. G. C. Fritts, in memory of her sister, Miss Julia S. Alexander, 1942",
+ "Accession Number": "C.I.42.67.1a–h",
+ "What": [
+  "Costume",
+  "Silk",
+  "Wool",
+  "Uniforms"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80036577,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.42.67.1a–d_F.jpg",
+ "related-artworks": [
+  80000453,
+  80095444,
+  80097249,
+  80000451,
+  80000449
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80036577"
+  }
+ }
+}

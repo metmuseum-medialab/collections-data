@@ -1,0 +1,43 @@
+{
+ "Lithographer": "Lithography by Donaldson Brothers (American, New York)",
+ "Date": "1892",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 × 1 1/2 in. (7 × 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 204, N75.46",
+ "Who": [
+  "American Tobacco Company",
+  "Donaldson Brothers"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90098678,
+ "related-artworks": [
+  90095746,
+  90095761,
+  90095741,
+  90095747,
+  90095748
+ ],
+ "Description": "Trade cards from the \"Floral Beauties and Language of Flowers\" series (N75), issued in a set of 50 cards in 1892 to promote the W. Duke Sons & Co. branch of the American Tobacco Company.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90098678"
+  }
+ }
+}

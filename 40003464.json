@@ -1,0 +1,58 @@
+{
+ "Date": "late 18th–early 19th century",
+ "Culture": "Japanese",
+ "Medium": "Shakudo, gold, and silver",
+ "Dimensions": "3-13/16 x 9/16 in.",
+ "Classification": "Sword Furniture",
+ "Credit Line": "Gift of Herman A. E. and Paul C. Jaehne, 1943",
+ "Accession Number": "43.120.93",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Arms",
+  "Edged weapons",
+  "Swords"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1600–1800 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40003464,
+ "related-artworks": [
+  "http://scrapi.org/object/40000088",
+  "http://scrapi.org/object/40001594",
+  "http://scrapi.org/object/40002604",
+  "http://scrapi.org/object/40002852",
+  "http://scrapi.org/object/40002949"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40000088"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40001594"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40002604"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40002852"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/40002949"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40003464"
+  }
+ }
+}

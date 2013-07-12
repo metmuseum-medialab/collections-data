@@ -1,0 +1,39 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Thutmose III",
+ "Date": "ca. 1479–1425 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Wadi Gabbanat el-Qurud, Tomb of the 3 Foreign Wives of Thutmose III, Wadi D, Tomb 1",
+ "Medium": "Gold",
+ "Credit Line": "Fletcher Fund, 1926",
+ "Accession Number": "26.8.198",
+ "What": [
+  "Metal",
+  "Gold"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100035470,
+ "gallery-id": 118,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vstoestalls.jpg",
+ "related-artworks": [
+  100003565,
+  100003563,
+  100003674,
+  100003679,
+  100004311
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100035470"
+  }
+ }
+}

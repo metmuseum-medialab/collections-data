@@ -1,0 +1,36 @@
+{
+ "Date": "1664",
+ "Medium": "Etching",
+ "Dimensions": "Sheet 3 9/16 x 5 in. (9 x 12.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.527.16",
+ "Who": "Remigio Cantagallina",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "id": 90087705,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP827763.jpg",
+ "related-artworks": [
+  90072321,
+  90072325,
+  90072323,
+  90087692,
+  90087697
+ ],
+ "Provenance": [
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90087705"
+  }
+ }
+}

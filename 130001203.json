@@ -1,0 +1,56 @@
+{
+ "Period": "Bronze Age",
+ "Date": "ca. 3200–1050 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta",
+ "Dimensions": "Other 3 3/16 x 2 9/16 in. (8.1 x 6.5 cm)",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.1150",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Eastern Mediterranean, 8000–2000 B.C.",
+  "The Eastern Mediterranean, 2000–1000 B.C."
+ ],
+ "id": 130001203,
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130000519"
+   },
+   {
+    "href": "http://scrapi.org/object/130000520"
+   },
+   {
+    "href": "http://scrapi.org/object/130000566"
+   },
+   {
+    "href": "http://scrapi.org/object/130000567"
+   },
+   {
+    "href": "http://scrapi.org/object/130000671"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130001203"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130001203"
+  }
+ }
+}

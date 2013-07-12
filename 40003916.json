@@ -1,0 +1,33 @@
+{
+ "Date": "ca. 1450",
+ "Culture": "French",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.210.3",
+ "What": [
+  "Arms",
+  "Hammers",
+  "War hammers"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40003916,
+ "related-artworks": [
+  40012317,
+  40003354,
+  40005418,
+  40012314,
+  40012315
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40003916"
+  }
+ }
+}

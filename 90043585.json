@@ -1,0 +1,30 @@
+{
+ "Date": "18th–19th century",
+ "Medium": "Embossed print",
+ "Dimensions": "sheet 5 13/16 x 8 1/16 in. (14.8 x 20.5 cm)",
+ "Classification": "Cut Paper",
+ "Credit Line": "Museum accession",
+ "Accession Number": "x.791",
+ "Who": "Anonymous, American, 18th to 19th century",
+ "What": [
+  "Prints",
+  "Paper",
+  "Embossing",
+  "Embossed prints"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "id": 90043585,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP140879.jpg",
+ "related-artworks": [
+  90063084,
+  90063085,
+  90063083,
+  90063087,
+  90043585
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90043585"
+  }
+ }
+}

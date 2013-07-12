@@ -1,0 +1,47 @@
+{
+ "Publisher": "W. Stephenson & Co. (New York, NY)",
+ "Date": "1856",
+ "Medium": "Lithograph with tint stone",
+ "Dimensions": [
+  "image 16 1/4 x 37 5/16 in. (41.2 x 94.7 cm)",
+  "sheet 21 11/16 x 37 5/8 in. (55.1 x 95.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954",
+ "Accession Number": "54.90.1161",
+ "Who": [
+  "W. Stephenson & Co.",
+  "Boell  Michelin"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Stone"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90039367,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/49FF_454R2.jpg",
+ "related-artworks": [
+  90054419,
+  90054417,
+  90054418,
+  90054822,
+  90054940
+ ],
+ "Provenance": [
+  "Donor: Edward W. C. Arnold"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90039367"
+  }
+ }
+}

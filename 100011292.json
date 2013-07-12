@@ -1,0 +1,53 @@
+{
+ "Period": "Third Intermediate Period or later",
+ "Dynasty": "Dynasty 21–25",
+ "Date": "ca. 1070–664 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Credit Line": "Purchase, Edward S. Harkness Gift, 1926",
+ "Accession Number": "26.7.1034",
+ "What": [
+  "Faience",
+  "Counterpoises"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100011292,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs26.7.1034.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/100005209",
+  "http://scrapi.org/object/100005310",
+  "http://scrapi.org/object/100005602",
+  "http://scrapi.org/object/100011448",
+  "http://scrapi.org/object/100010312"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100005209"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100005310"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100005602"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100011448"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/100010312"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100011292"
+  }
+ }
+}

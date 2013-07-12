@@ -1,0 +1,31 @@
+{
+ "Publisher": "Published by Geslin",
+ "Printer": "Printed by F. Malteste et Cie.",
+ "Date": "1835",
+ "Medium": "Printed press",
+ "Dimensions": "Overall 9 1/2 x 6 3/4 x 1 1/2 in. (24.1 x 17.2 x 3.8 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.599.4",
+ "Who": [
+  "Geslin",
+  "Société de Peintures en décor",
+  "F. Malteste et Cie."
+ ],
+ "What": "Books",
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90055572,
+ "related-artworks": [
+  90025265,
+  90019077,
+  90000024,
+  90000026
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90055572"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "20th century",
+ "Geography": "Liberia, St. Paul River region",
+ "Culture": "Kpelle or Kimbuzi peoples",
+ "Medium": "Raffia palm fiber",
+ "Dimensions": "Length 31 in.",
+ "Classification": "Textiles-Woven",
+ "Credit Line": "Gift of Mr. Richard Bloch in memory of Nettie and Fred Bloch, 1989",
+ "Accession Number": "1989.217.1",
+ "Who": "Kpelle",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Bags",
+  "Plant fiber",
+  "Raffia"
+ ],
+ "Where": [
+  "Africa",
+  "Liberia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Guinea Coast, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50008942,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1989.217.1a.jpg",
+ "related-artworks": [
+  50008943,
+  50008945,
+  50009405,
+  50008944,
+  50008948
+ ],
+ "Provenance": [
+  "Collected 1923–1930 at Zorzor village, St. Paul River region, Liberia, by Rev. Frederick H. and Nettie Bloch",
+  "by descent to Richard L. Bloch, Edgewater, NJ, until 1989"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50008942"
+  }
+ }
+}

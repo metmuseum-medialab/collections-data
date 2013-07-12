@@ -1,0 +1,40 @@
+{
+ "Date": "1935",
+ "Medium": "Drypoint and Sand Ground",
+ "Dimensions": "plate 8 x 11 3/4 inches (20.3 x 29.8 cm) sheet: 11 x 15 1/4 inches (27.9 x 38.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of John O. Hamlin, 1976",
+ "Accession Number": "1976.653.46",
+ "Who": "Martin Lewis",
+ "What": [
+  "Prints",
+  "Intaglio prints",
+  "Engravings",
+  "Drypoints",
+  "Etching ground"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90047111,
+ "related-artworks": [
+  90047103,
+  90047110,
+  90047114,
+  90047115,
+  90047095
+ ],
+ "Provenance": [
+  "Donor: John O. Hamlin Bequest"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90047111"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1835",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "plate 9 x 10 7/8 in. (22.8 x 27.6 cm)",
+  "sheet 10 7/8 x 14 7/8 in. (27.7 x 37.8 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954",
+ "Accession Number": "54.90.747",
+ "Who": "Anonymous, American, 19th century",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "id": 90054533,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/ADA4611.jpg",
+ "related-artworks": [
+  90012475,
+  90024632,
+  90057145,
+  90057146,
+  90057147
+ ],
+ "Provenance": [
+  "Donor: Edward W. C. Arnold"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90054533"
+  }
+ }
+}

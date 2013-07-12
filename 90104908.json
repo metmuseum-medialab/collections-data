@@ -1,0 +1,33 @@
+{
+ "Date": "1922",
+ "Medium": "Photolithograph",
+ "Dimensions": "Sheet 3 1/4 × 2 in. (8.2 × 5.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 314, E120.201",
+ "Who": "American Caramel Company, Lancaster  York, Pennsylvania",
+ "What": [
+  "Prints",
+  "Photomechanical reproductions",
+  "Photolithographs"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "id": 90104908,
+ "related-artworks": [
+  90104408,
+  90104421,
+  90104390,
+  90104393,
+  90104394
+ ],
+ "Description": "Trade cards from the \"American Caramel\" baseball card series (E120), issued in 1922 in a set of 240 cards by the American Caramel Company. The set contains cards in two colors: sepia to represent American League players, and green-blue to represent players from the National League.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104908"
+  }
+ }
+}

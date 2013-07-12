@@ -1,0 +1,35 @@
+{
+ "Date": "1830–90",
+ "Medium": "Graphite",
+ "Dimensions": "Irregular sheet 2 x 4 7/16 in. (5.1 x 11.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.529.61",
+ "Who": "Eugène Ciceri",
+ "What": [
+  "Drawings",
+  "Graphite"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90027292,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP809854.jpg",
+ "related-artworks": [
+  90025790,
+  90025802,
+  90025792,
+  90025793,
+  90025794
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90027292"
+  }
+ }
+}

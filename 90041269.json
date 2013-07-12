@@ -1,0 +1,40 @@
+{
+ "Medium": "Etching in yellowy green ink, with white gouache and yellow wash",
+ "Dimensions": "sheet 8 11/16 x 4 5/8 in. (22 x 11.7 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.634.65",
+ "Who": "Andrea Schiavone (Andrea Medulic  Meldolla)",
+ "What": [
+  "Prints",
+  "Ink",
+  "Etching",
+  "Watercolors",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90041269,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP822192.jpg",
+ "related-artworks": [
+  90045471,
+  90032395,
+  90036015,
+  90036014,
+  90036002
+ ],
+ "Provenance": [
+  "Sir Joshua Reynolds (British, Plympton 1723–1792 London)",
+  "Donor: Elisha Whittelsey Fund"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90041269"
+  }
+ }
+}

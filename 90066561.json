@@ -1,0 +1,33 @@
+{
+ "Date": "1927",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, The Martin Foundation Inc. Gift, 1967",
+ "Accession Number": "67.762.63",
+ "Who": "Erté (Romain de Tirtoff)",
+ "What": "Drawings",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90066561,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP806305.jpg",
+ "related-artworks": [
+  90008756,
+  90008758,
+  90008762,
+  90008760,
+  90008755
+ ],
+ "Provenance": [
+  "Donor: Jane Martin Ginsburg"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90066561"
+  }
+ }
+}

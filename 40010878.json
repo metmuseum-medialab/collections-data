@@ -1,0 +1,35 @@
+{
+ "Date": "1450–75",
+ "Culture": "North Italian",
+ "Classification": "Swords",
+ "Credit Line": "Gift of Henry Walters, 1926",
+ "Accession Number": "26.259.2a, b",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Swords",
+  "Cases",
+  "Sheaths",
+  "Scabbards"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40010878,
+ "related-artworks": [
+  40014183,
+  40012601,
+  40003854,
+  40005666,
+  40012459
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40010878"
+  }
+ }
+}

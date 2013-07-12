@@ -1,0 +1,58 @@
+{
+ "Date": "June 27, 1877",
+ "Medium": "Etching, engraving, mezzotint and aquatint.",
+ "Dimensions": [
+  "Sheet 23 13/16 x 29 15/16 in. (60.5 x 76 cm)",
+  "Image 22 7/16 x 28 1/4 in. (57 x 71.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Anna Hyatt Huntington, 1974",
+ "Accession Number": "1974.672.22",
+ "Who": "Anonymous, British, 19th century",
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving",
+  "Intaglio prints",
+  "Engravings",
+  "Aquatint",
+  "Mezzotints"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90003662,
+ "related-artworks": [
+  "http://scrapi.org/object/90069798",
+  "http://scrapi.org/object/90073358",
+  "http://scrapi.org/object/90066870",
+  "http://scrapi.org/object/90034935",
+  "http://scrapi.org/object/90061750"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Donor: Anna Hyatt Huntington (American, Cambridge, Massachusetts 1876–1973 Redding, Connecticut)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90069798"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90073358"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90066870"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90034935"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90061750"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90003662"
+  }
+ }
+}

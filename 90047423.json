@@ -1,0 +1,39 @@
+{
+ "Date": "1924",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "image 13 3/4 x 8 3/4 in. (34.9 x 22.2 cm)",
+  "sheet 21 1/4 x 14 5/8 in. (54 x 37.1 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1928",
+ "Accession Number": "28.68.7",
+ "Who": "Käthe Kollwitz",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90047423,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/MM2200.jpg",
+ "related-artworks": [
+  90027928,
+  90013445,
+  90047334,
+  90047336,
+  90047426
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90047423"
+  }
+ }
+}

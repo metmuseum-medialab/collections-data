@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Porcelain",
+ "Dimensions": "Diam. 8 7/16 in. (21.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Flora E. Whiting, 1971",
+ "Accession Number": "1971.180.260",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Metalwork",
+  "Porcelain",
+  "Plate"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60015637,
+ "related-artworks": [
+  60015195,
+  60015611,
+  60015610,
+  60015632,
+  60015633
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60015637"
+  }
+ }
+}

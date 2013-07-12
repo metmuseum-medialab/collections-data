@@ -1,0 +1,37 @@
+{
+ "Period": "Archaic",
+ "Date": "2nd half of the 6th century B.C.",
+ "Culture": "Greek",
+ "Medium": "Gold, silver",
+ "Dimensions": "Other (average length) 1 1/16 in. (2.7 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "Anonymous Gift, 1992",
+ "Accession Number": "1992.367.1–.6a, b",
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "id": 130016670,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP144423.jpg",
+ "related-artworks": [
+  130000051,
+  130003137,
+  130003232,
+  130003266,
+  130003267
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130016670"
+  }
+ }
+}

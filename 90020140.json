@@ -1,0 +1,48 @@
+{
+ "Translator": "Translated by Heironymus Boner",
+ "Printer": "Printed by Heinrich Steyner (German, 1522–1547)",
+ "Artist": "Jörg Breu the Younger (German, Augsburg ca. 1510–1547 Augsburg)",
+ "Date": "1531",
+ "Medium": "Woodcut",
+ "Dimensions": "Overall 12 5/16 x 7 15/16 x 1 in. (31.2 x 20.2 x 2.5 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Philip Hofer, 1934",
+ "Accession Number": "34.81.5",
+ "Who": [
+  "Hans Weiditz the Younger",
+  "Jörg Breu the Elder",
+  "Master DS",
+  "Heinrich Steyner",
+  "Jörg Breu the Younger",
+  "Marcus Junianus Justinus",
+  "Heironymus Boner"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90020140,
+ "related-artworks": [
+  90020141,
+  90020143,
+  90005837
+ ],
+ "Provenance": [
+  "Donor: Philip Hofer (American, Cincinnati, Ohio 1898–1984 Cambridge, Massachusetts)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90020140"
+  }
+ }
+}

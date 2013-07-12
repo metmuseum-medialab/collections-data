@@ -1,0 +1,44 @@
+{
+ "Date": "5th–6th century",
+ "Geography": "Egypt",
+ "Medium": "Linen, wool",
+ "Dimensions": "23 in. high 40.00 in. wide (58.4 cm high 101.6 cm wide)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of George F. Baker, 1890",
+ "Accession Number": "90.5.898",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Wool",
+  "Linen",
+  "Tunics"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 500–1000 A.D.",
+  "Egypt, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140001540,
+ "related-artworks": [
+  140000698,
+  140000997,
+  140001191,
+  140001275,
+  140001351
+ ],
+ "Provenance": [
+  "Emil Brugsch-Bey(until 1890",
+  "sold to Baker)",
+  "George F. Baker, New York (1890)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140001540"
+  }
+ }
+}

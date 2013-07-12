@@ -1,0 +1,51 @@
+{
+ "Date": "1745–60",
+ "Geography": "Mid-Atlantic, Philadelphia, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Walnut, maple, pine, cedar, tulip poplar",
+ "Dimensions": "46 1/4 x 33 1/2 x 28 3/8 in. (117.5 x 85.1 x 72.1 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1938",
+ "Accession Number": "38.52.1",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Softwood",
+  "Walnut",
+  "Pine",
+  "Maple",
+  "Poplar",
+  "Cedar",
+  "Easy chairs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Philadelphia"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10003582,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA4337.jpg",
+ "related-artworks": [
+  10003588,
+  10003586,
+  10000179,
+  10008016,
+  10001082
+ ],
+ "Provenance": [
+  "Allan B. A. Bradley, New York, until 1938"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003582"
+  }
+ }
+}

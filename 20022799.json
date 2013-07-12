@@ -1,0 +1,40 @@
+{
+ "Date": "1843",
+ "Medium": "Watercolor on ivory",
+ "Dimensions": [
+  "6 1/4 x 5 1/2 in. (15.9 x 14 cm)",
+  "Other (watercolor on an ivory support) 3 3/4 x 4 3/4 in. (9.5 x 12.1 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Elle Shushan, in honor of Allison Eckardt Ledes, 2007",
+ "Accession Number": "2007.437",
+ "Who": "Henry Colton Shumway",
+ "What": [
+  "Paintings",
+  "Watercolors",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20022799,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DP157979.jpg",
+ "related-artworks": [
+  20012962,
+  20012963,
+  20013361,
+  20015815,
+  20016009
+ ],
+ "Provenance": [
+  "Descended in the family of the sitter",
+  "to Elle Shushan, 2007"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20022799"
+  }
+ }
+}

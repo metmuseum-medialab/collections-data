@@ -1,0 +1,40 @@
+{
+ "Date": "ca. late 1st millennium B.C.",
+ "Geography": "Mesopotamia",
+ "Medium": "Clay",
+ "Dimensions": "1 x 7/8 x 3/8 in. (2.6 x 2.1 x 0.8 cm)",
+ "Classification": "Clay",
+ "Credit Line": "Purchase, 1886",
+ "Accession Number": "86.11.549",
+ "What": [
+  "Clay",
+  "Fragments",
+  "Tablets",
+  "Cuneiform"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30000739,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/vs86_11_549a.jpg",
+ "related-artworks": [
+  30000247,
+  30000383,
+  30000458,
+  30000459,
+  30000460
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1886, purchased from the Reverend William Hayes Ward."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30000739"
+  }
+ }
+}

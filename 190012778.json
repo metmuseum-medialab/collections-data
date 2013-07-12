@@ -1,0 +1,41 @@
+{
+ "Date": "1917",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Jean Loeb Whitehill, 1973",
+ "Accession Number": "1973.664.3",
+ "Who": "Morton Schamberg",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Early Documentary Photography",
+  "Precisionism",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190012778,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP137414.jpg",
+ "related-artworks": [
+  190012774,
+  190012779,
+  190012781,
+  190012775,
+  190012776
+ ],
+ "Provenance": [
+  "Jean Loeb Whitehill"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190012778"
+  }
+ }
+}

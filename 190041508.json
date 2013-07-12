@@ -1,0 +1,37 @@
+{
+ "Date": "1850s",
+ "Medium": "Albumen silver print",
+ "Dimensions": [
+  "Image 10.5 x 8.6 cm (4 1/8 x 3 3/8 in.)",
+  "Mount 27.6 x 23.5 cm (10 7/8 x 9 1/4 in.)",
+  "Print mounted vertically."
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Museum Purchase, 2005",
+ "Accession Number": "2005.100.948.1 (4b)",
+ "Who": "Unknown",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "id": 190041508,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP147383.jpg",
+ "related-artworks": [
+  190011576,
+  190011793,
+  190011794,
+  190012616,
+  190012631
+ ],
+ "Provenance": [
+  "(Christie's South Kensington, April 21, 1988, Lot 183)",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190041508"
+  }
+ }
+}

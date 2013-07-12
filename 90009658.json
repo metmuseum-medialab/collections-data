@@ -1,0 +1,37 @@
+{
+ "Artist": "After Marco Dente (Italian, Ravenna, active by 1515–died 1527 Rome)",
+ "Date": "ca. 1515–1600",
+ "Medium": "Engraving",
+ "Dimensions": "7 3/8 x 4 3/4 in.  (18.7 x 12.0 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "26.50.1",
+ "Who": [
+  "Marco Dente",
+  "Anonymous, Italian, 16th to early 17th century"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90009658,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818726.jpg",
+ "related-artworks": [
+  90009647,
+  90009654,
+  90009705,
+  90009688,
+  90009691
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90009658"
+  }
+ }
+}

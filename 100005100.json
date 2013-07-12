@@ -1,0 +1,45 @@
+{
+ "Period": "Third Intermediate Period",
+ "Dynasty": "Dynasty 21",
+ "Date": "ca. 1070–945 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Tomb MMA 60, Chamber, Burial of Nesenaset , MMA 1923–24",
+ "Medium": "Serpentine",
+ "Dimensions": "l. 7.3 cm (2 7/8 in); w. 4.8 cm (1 7/8 in)",
+ "Credit Line": "Rogers Fund, 1925",
+ "Accession Number": "25.3.161",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Serpentine"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1000 B.C.–1 A.D.",
+  "Egypt, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100005100,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs25.3.161.jpg",
+ "related-artworks": [
+  100005549,
+  100001564,
+  100001595,
+  100001976,
+  100002323
+ ],
+ "Provenance": [
+  "Museum excavations 1923–24. Acquired by the Museum in the division of finds, 1925."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100005100"
+  }
+ }
+}

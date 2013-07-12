@@ -1,0 +1,57 @@
+{
+ "Date": "1965–87",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": [
+  "(a) L. at center back 56 1/2 in. (143.5 cm)",
+  "(b) L. at center back 3 in. (7.6 cm)",
+  "(c) L. at side seam 43 in. (109.2 cm)"
+ ],
+ "Credit Line": "Gift of Mrs. Ahmet Ertegün, 1997",
+ "Accession Number": "1997.478.3a–c",
+ "Who": "Madame Grès (Alix Barton)",
+ "What": [
+  "Silk",
+  "Ensembles"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80000768,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1997.478.3a–c_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/1997.478.3a–c_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1997.478.3a–c_S.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1997.478.3a–c_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/1997.478.3bc_F.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80000057"
+   },
+   {
+    "href": "http://scrapi.org/object/80000058"
+   },
+   {
+    "href": "http://scrapi.org/object/80000322"
+   },
+   {
+    "href": "http://scrapi.org/object/80000387"
+   },
+   {
+    "href": "http://scrapi.org/object/80000603"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80000768"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80000768"
+  }
+ }
+}

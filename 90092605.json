@@ -1,0 +1,41 @@
+{
+ "Dedicatee": "Lorenzo de' Medici (Italian, Florence 1599–1648 Florence)",
+ "Date": "1617",
+ "Medium": "Etching",
+ "Dimensions": "Sheet 2 3/16 x 3 3/16 in. (5.6 x 8.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.4839",
+ "Who": [
+  "Jacques Callot",
+  "Lorenzo de' Medici"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90092605,
+ "related-artworks": [
+  90003572,
+  90008838,
+  90010396,
+  90010397,
+  90010780
+ ],
+ "Provenance": [
+  "Princes of Liechtenstein, Vaduz and Vienna",
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90092605"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "1984",
+ "Culture": "American",
+ "Medium": "silk, plastic",
+ "Dimensions": "Length at CB 52 in. (132.1 cm)",
+ "Credit Line": "Gift, from the collection of Larry McLeon, 1989",
+ "Accession Number": "1989.39",
+ "Who": "Tracy Mills",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Plastic",
+  "Evening dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80025768,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1989.39_F.jpg",
+ "related-artworks": [
+  80005135,
+  80023288,
+  80023719,
+  80000512,
+  80001312
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80025768"
+  }
+ }
+}

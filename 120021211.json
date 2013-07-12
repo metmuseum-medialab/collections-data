@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1760–65",
+ "Culture": "British, Derby",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. 8 1/4 in. (21 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Charles E. Sampson Memorial Fund, 1971",
+ "Accession Number": "1971.133.1",
+ "Who": "Derby",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Figures",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Derbyshire",
+  "Derby"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021211,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/196359.jpg",
+ "related-artworks": [
+  120019111,
+  120020402,
+  120007454,
+  120007455,
+  120007458
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021211"
+  }
+ }
+}

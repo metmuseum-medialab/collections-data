@@ -1,0 +1,42 @@
+{
+ "Period": "Tang dynasty (618–907)",
+ "Culture": "China",
+ "Medium": "Earthenware with brown glaze",
+ "Dimensions": "H. 1 1/2 in. (3.8 cm)",
+ "Classification": "Tomb Pottery",
+ "Credit Line": "GIft of Sadajiro Yamanaka, 1911",
+ "Accession Number": "11.7.3",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Glaze",
+  "Figures"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60023588,
+ "gallery-id": 207,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/11_7_3.JPG",
+ "related-artworks": [
+  60009851,
+  60006527,
+  60009852,
+  60009853,
+  60011878
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60023588"
+  }
+ }
+}

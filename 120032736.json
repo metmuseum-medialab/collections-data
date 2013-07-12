@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Culture": "Italian",
+ "Medium": "Embroidered net",
+ "Dimensions": [
+  "L. 7 x W. 5 inches",
+  "17.8 x 12.7 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.722",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Embroidery",
+  "Lace",
+  "Net"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "id": 120032736,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP4076.jpg",
+ "related-artworks": [
+  120032744,
+  120032737,
+  120032731,
+  120032741,
+  120032742
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032736"
+  }
+ }
+}

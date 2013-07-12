@@ -1,0 +1,41 @@
+{
+ "Date": "second half 19th century",
+ "Culture": "European",
+ "Medium": "Enameled gold set with diamonds and with pendant pearls",
+ "Dimensions": "H. 4-1/8 in. (10.5 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+ "Accession Number": "1982.60.389",
+ "What": [
+  "Metal",
+  "Costume",
+  "Metalwork",
+  "Gold",
+  "Jewelry",
+  "Pendants",
+  "Pearl",
+  "Platinum",
+  "Diamond"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "MetPublications": "Search for related Met publications",
+ "id": 120023396,
+ "gallery-id": 542,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/233033.jpg",
+ "related-artworks": [
+  120012037,
+  120013719,
+  120013720,
+  120023380,
+  120023393
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120023396"
+  }
+ }
+}

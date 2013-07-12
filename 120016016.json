@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1730–40",
+ "Culture": "French (Chantilly)",
+ "Medium": "Tin-glazed soft-paste porcelain",
+ "Dimensions": "H. 2 5/16 in. (5.9 cm.); Diam. 4 1/8 in. (10.5 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of R. Thornton Wilson, in memory of Florence Ellsworth Wilson, 1950",
+ "Accession Number": "50.211.115",
+ "Who": "Chantilly",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Bowls",
+  "Glazing",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Picardy",
+  "Chantilly"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120016016,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/201855.jpg",
+ "related-artworks": [
+  120011413,
+  120016019,
+  120007451,
+  120016017,
+  120016020
+ ],
+ "Provenance": [
+  "Private Collection, France",
+  "[ Georges de Batz , before 1950",
+  "sold to Wilson ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120016016"
+  }
+ }
+}

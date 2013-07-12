@@ -1,0 +1,45 @@
+{
+ "Date": "1821",
+ "Medium": "Wood engraving",
+ "Dimensions": "block 1 7/16 x 3 1/8 in. (3.7 x 7.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1931",
+ "Accession Number": "31.87.23",
+ "Who": "William Blake",
+ "What": [
+  "Prints",
+  "Engraving",
+  "Relief prints",
+  "Wood engravings"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "William Blake (1757–1827)",
+  "Romanticism",
+  "Watercolor Painting in Britain, 1750–1850",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90057354,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP816568.jpg",
+ "related-artworks": [
+  90057350,
+  90057351,
+  90057352,
+  90057353,
+  90057356
+ ],
+ "Provenance": [
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90057354"
+  }
+ }
+}

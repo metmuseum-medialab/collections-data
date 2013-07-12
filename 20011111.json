@@ -1,0 +1,36 @@
+{
+ "Date": "1908 or 1910",
+ "Medium": "Oil on canvas",
+ "Dimensions": "39 7/8 x 30 in. (99.9 x 76.2 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mr. and Mrs. Leftwich Dodge Kimbrough, 1972",
+ "Accession Number": "1972.192",
+ "Who": "William de Leftwich Dodge",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Paintings and Sculpture",
+ "MetPublications": "Search for related Met publications",
+ "id": 20011111,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DP161235.jpg",
+ "related-artworks": [
+  20010368,
+  20010396,
+  20010399,
+  20010400,
+  20010468
+ ],
+ "Provenance": [
+  "the artist, New York and Long Island, until died 1935",
+  "his daughter, Sara Dodge Kimbrough",
+  "her son, Leftwich Dodge Kimbrough"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20011111"
+  }
+ }
+}

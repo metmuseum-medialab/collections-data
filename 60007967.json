@@ -1,0 +1,44 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Date": "18th century",
+ "Culture": "China",
+ "Medium": "Cloisonné and painted enamel",
+ "Dimensions": "H. 12 1/2 in. (31.8 cm); W. 5 1/8 in. (13 cm); D. 7 in. (17.8 cm)",
+ "Classification": "Cloisonné",
+ "Credit Line": "Gift of Edward G. Kennedy, 1929",
+ "Accession Number": "29.110.62a, b",
+ "What": [
+  "Painting",
+  "Enamels",
+  "Cloisonné",
+  "Incense burners"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60007967,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/74143.jpg",
+ "related-artworks": [
+  60007864,
+  60007909,
+  60007971,
+  60008006,
+  60007865
+ ],
+ "Provenance": [
+  "Edward Guthrie Kennedy , New York (until 1929)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60007967"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Tibetan",
+ "Medium": "Iron, gold, turquoise, coral, leather, wood",
+ "Classification": "Swords",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.1466a, b",
+ "What": [
+  "Metal",
+  "Gold",
+  "Arms",
+  "Iron and iron alloy",
+  "Edged weapons",
+  "Leather",
+  "Swords",
+  "Iron",
+  "Cases",
+  "Sheaths",
+  "Scabbards",
+  "Turquoise",
+  "Coral"
+ ],
+ "Where": [
+  "Asia",
+  "China",
+  "Tibet"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Himalayan Region, 1600–1800 A.D.",
+  "South Asia and the Himalayan Region, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40006179,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/DP113248.jpg",
+ "related-artworks": [
+  40006176,
+  40004826,
+  40006177,
+  40006175,
+  40006196
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40006179"
+  }
+ }
+}

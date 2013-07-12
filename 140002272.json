@@ -1,0 +1,43 @@
+{
+ "Date": "14th–15th century",
+ "Geography": "Egypt, Cairo",
+ "Medium": "Wood; inlaid with carved ivory",
+ "Classification": "Wood",
+ "Credit Line": "Rogers Fund, 1907",
+ "Accession Number": "07.236.75",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Panels"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Cairo"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1400–1600 A.D.",
+  "Egypt, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140002272,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf07-236-75a.jpg",
+ "related-artworks": [
+  140002207,
+  140002271,
+  140002273,
+  140002292,
+  140002313
+ ],
+ "Provenance": [
+  "A. Beaudry Collection",
+  "[ Panayotis Kitycas, Cairo, until 1907",
+  "sold to Albert M. Lythgoe for MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140002272"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1765",
+ "Culture": "British",
+ "Medium": "Mahogany",
+ "Dimensions": "H. 34 (86.4 cm.); Diam. 12-3/4 in. (32.4 cm.)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.1048a",
+ "What": [
+  "Vessels",
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Mahogany",
+  "Stands",
+  "Basins",
+  "Washstands",
+  "Basin stands"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "id": 120019382,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/194652.jpg",
+ "related-artworks": [
+  120017324,
+  120019381,
+  120020371,
+  120024747,
+  120012248
+ ],
+ "Provenance": [
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019382"
+  }
+ }
+}

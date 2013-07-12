@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1st century",
+ "Culture": "Pakistan (ancient region of Gandhara)",
+ "Medium": "Stone",
+ "Dimensions": "Diam. 3 3/4 in  (9.5 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Samuel Eilenberg Collection, Gift of Samuel Eilenberg, 1987",
+ "Accession Number": "1987.142.114",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Dishes"
+ ],
+ "Where": [
+  "Asia",
+  "Pakistan"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005633,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1987_142_114.JPG",
+ "related-artworks": [
+  60005043,
+  60005632,
+  60005451,
+  60004564,
+  60005796
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005633"
+  }
+ }
+}

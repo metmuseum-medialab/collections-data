@@ -1,0 +1,41 @@
+{
+ "Date": "7th century (?)",
+ "Geography": "Made in France",
+ "Culture": "Frankish",
+ "Medium": "Copper alloy, \"tinned\" surface",
+ "Dimensions": "Overall 1 7/16 x 1 7/16 x 3/8 in. (3.7 x 3.7 x 1 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.191.233",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Copper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004838,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/DP30271.jpg",
+ "related-artworks": [
+  170004837,
+  170004888,
+  170005710,
+  170004449,
+  170004815
+ ],
+ "Provenance": [
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004838"
+  }
+ }
+}

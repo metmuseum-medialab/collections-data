@@ -1,0 +1,43 @@
+{
+ "Date": "18th century",
+ "Culture": "Japanese",
+ "Medium": "Steel",
+ "Dimensions": [
+  "Length 8 1/4 in.  ( 20.96 cm)",
+  "L. 8-1/4 in."
+ ],
+ "Classification": "Archery Equipment",
+ "Credit Line": "The Collection of Giovanni P. Morosini, presented by his daughter Giulia, 1932",
+ "Accession Number": "32.75.382",
+ "What": [
+  "Metal",
+  "Arms",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Archery",
+  "Arrowheads",
+  "Bows"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40001672,
+ "related-artworks": [
+  40001613,
+  40001611,
+  40001616,
+  40001617,
+  40001614
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40001672"
+  }
+ }
+}

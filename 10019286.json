@@ -1,0 +1,69 @@
+{
+ "Maker": "Possibly Tiffany Studios (1902–32)",
+ "Date": "late 19th–early 20th century",
+ "Geography": "Mid-Atlantic, New York, United States",
+ "Culture": "American",
+ "Medium": "Watercolor, graphite, pen, and ink on tissue paper mounted on board.",
+ "Dimensions": [
+  "Overall 21 15/16 x 14 15/16 in. (55.7 x 37.9 cm)",
+  "Other (Design) 20 3/16 x 11 3/16 in. (51.3 x 28.4 cm)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Walter Hoving and Julia T. Weld Gifts and Dodge Fund, 1967",
+ "Accession Number": "67.654.371",
+ "Who": [
+  "Louis Comfort Tiffany",
+  "Tiffany Studios",
+  "Tiffany Glass  Decorating Company",
+  "Tiffany Glass Company"
+ ],
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Graphite",
+  "Pen"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Nineteenth–Century American Jewelry",
+  "The Arts and Crafts Movement in America",
+  "America Comes of Age 1876–1900",
+  "Louis Comfort Tiffany (1848–1933)",
+  "Art Nouveau",
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "id": 10019286,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10017634"
+   },
+   {
+    "href": "http://scrapi.org/object/10019104"
+   },
+   {
+    "href": "http://scrapi.org/object/10019374"
+   },
+   {
+    "href": "http://scrapi.org/object/10017628"
+   },
+   {
+    "href": "http://scrapi.org/object/10017722"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10019286"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10019286"
+  }
+ }
+}

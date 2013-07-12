@@ -1,0 +1,47 @@
+{
+ "Date": "1818",
+ "Culture": "Austrian (Vienna)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "Diam. 5-7/8 in. (14.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Margarette A. Jones, 1907",
+ "Accession Number": "07.233.35",
+ "Who": "Imperial Porcelain Manufactory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Hard paste porcelain",
+  "Saucers"
+ ],
+ "Where": [
+  "Europe",
+  "Austria",
+  "Vienna"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120005039,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/72968.jpg",
+ "related-artworks": [
+  120002106,
+  120003070,
+  120015917,
+  120022759,
+  120014182
+ ],
+ "Provenance": [
+  "Margarette A. Jones (until 1906",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120005039"
+  }
+ }
+}

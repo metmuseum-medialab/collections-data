@@ -1,0 +1,43 @@
+{
+ "Period": "Neo-Babylonian or Achaemenid",
+ "Date": "ca. 7th–4th century B.C.",
+ "Geography": "Mesopotamia",
+ "Culture": "Babylonian or Achaemenid",
+ "Medium": "Clay",
+ "Dimensions": "2 x 2.4 x 2 cm (3/4 x 1 x 3/4 in.)",
+ "Classification": "Clay",
+ "Credit Line": "Purchase, 1886",
+ "Accession Number": "86.11.505",
+ "Who": "Babylonian",
+ "What": [
+  "Clay",
+  "Fragments",
+  "Tablets",
+  "Cuneiform"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30000504,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/vsz86.11.505.jpg",
+ "related-artworks": [
+  30000459,
+  30000468,
+  30000591,
+  30000648,
+  30000687
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1886, purchased from the Reverend William Hayes Ward."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30000504"
+  }
+ }
+}

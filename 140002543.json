@@ -1,0 +1,58 @@
+{
+ "Date": "7th–8th century",
+ "Geography": "Egypt, Medinet Habu",
+ "Medium": "Rock crystal, silver",
+ "Dimensions": "1 3/8 x 3/4 in. (3.5 x 1.9 cm)",
+ "Classification": "Jewelry",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.202.28",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Jewelry",
+  "Seals",
+  "Crystal",
+  "Quartz crystal"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Medinet Habu"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140002543,
+ "Provenance": [
+  "[ Mohammed Mohassib, Luxor, until 1908",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/140011070"
+   },
+   {
+    "href": "http://scrapi.org/object/140003508"
+   },
+   {
+    "href": "http://scrapi.org/object/140014391"
+   },
+   {
+    "href": "http://scrapi.org/object/140007778"
+   },
+   {
+    "href": "http://scrapi.org/object/140011508"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140002543"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/140002543"
+  }
+ }
+}

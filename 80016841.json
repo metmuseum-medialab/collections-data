@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1930",
+ "Culture": "French",
+ "Medium": "leather, rhinestones",
+ "Dimensions": "Heel to Toe 8 in. (20.3 cm)",
+ "Credit Line": "Gift of Selma Sapir, 1999",
+ "Accession Number": "1999.496a, b",
+ "Who": "Max Gustin",
+ "What": [
+  "Costume",
+  "Glass",
+  "Leather",
+  "Footwear",
+  "Shoes",
+  "Glass paste",
+  "Rhinestone"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80016841,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1999.496ab_F.jpg",
+ "related-artworks": [
+  80093750,
+  80032216,
+  80108366,
+  80094071,
+  80096285
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80016841"
+  }
+ }
+}

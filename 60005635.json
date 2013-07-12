@@ -1,0 +1,54 @@
+{
+ "Date": "ca. 1st century",
+ "Culture": "Pakistan (ancient region of Gandhara)",
+ "Medium": "Gray schist",
+ "Dimensions": "Diam. 4 1/2 in. (11.4 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Samuel Eilenberg Collection, Gift of Samuel Eilenberg, 1987",
+ "Accession Number": "1987.142.126",
+ "What": [
+  "Sculpture",
+  "Lids",
+  "Schist"
+ ],
+ "Where": [
+  "Asia",
+  "Pakistan"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005635,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1987_142_126.JPG",
+ "related-artworks": [
+  "http://scrapi.org/object/60005637",
+  "http://scrapi.org/object/60004325",
+  "http://scrapi.org/object/60005049",
+  "http://scrapi.org/object/60005056",
+  "http://scrapi.org/object/60005458"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60005637"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60004325"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60005049"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60005056"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60005458"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60005635"
+  }
+ }
+}

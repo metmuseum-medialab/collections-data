@@ -1,0 +1,38 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Culture": "Japan",
+ "Medium": "Lacquer, tsuishu, yellow, brown layers, carved; Interior roiro",
+ "Dimensions": "4 1/4 x 3 1/16 x 1 9/16 in. (10.8 x 7.7 x 4 cm)",
+ "Classification": "Inrō",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.900",
+ "What": [
+  "Lacquer",
+  "Inro",
+  "Sagemono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60030077,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/29_100_900_O3.JPG",
+ "related-artworks": [
+  60013265,
+  60013270,
+  60013277,
+  60013330,
+  60013405
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030077"
+  }
+ }
+}

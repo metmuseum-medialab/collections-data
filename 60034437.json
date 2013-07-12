@@ -1,0 +1,38 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1775",
+ "Culture": "Japan",
+ "Medium": "Shigaraki ware",
+ "Dimensions": "H. 3 in. (7.6 cm); Diam. 2 1/2 in. (6.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Fletcher Fund, 1925",
+ "Accession Number": "25.215.19a, b",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Jars",
+  "Shigaraki"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60034437,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/25_215_19ab.jpg",
+ "related-artworks": [
+  60034435,
+  60034605,
+  60012216,
+  60012215,
+  60012307
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60034437"
+  }
+ }
+}

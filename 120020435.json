@@ -1,0 +1,51 @@
+{
+ "Date": "ca. 1727",
+ "Culture": "French, Paris",
+ "Medium": "Marble",
+ "Dimensions": [
+  "Overall without base (confirmed) H. 36 1/8 x W. 27 7/8 x D. 14 5/8 in. (91.8 x 70.8 x 37.1 cm);",
+  "Height with base (confirmed) 37 3/4 in. (95.9 cm)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Purchase, Josephine Bay Paul and C. Michael Paul Foundation Inc. Gift and Charles Ulrick and Josephine Bay Foundation Inc. Gift, 1966",
+ "Accession Number": "66.210a, b",
+ "Who": "Guillaume Coustou the Elder",
+ "What": [
+  "Sculpture",
+  "Figures",
+  "Marble",
+  "Busts"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020435,
+ "gallery-id": 549,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP234067.jpg",
+ "related-artworks": [
+  90044358,
+  120011223,
+  120013751,
+  120015727
+ ],
+ "Description": "The banker Samuel Bernard was made a member of the Order of Saint-Michel in 1702. This bust was probably carved on the occasion of his second marriage in 1720.",
+ "Provenance": [
+  "Samuel Bernard, comte de Coubert (ca. 1726–d. 1739)",
+  "his descendants the comtes de Coubert (from 1739)",
+  "comte Félix de Forestier de Coubert (recorded in 1914)",
+  "comte Guy de Forestier de Coubert (in 1937)",
+  "[ Wildenstein and Co., Inc. , New York (until 1966",
+  "sold to MMA) ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120020435"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "1890–98",
+ "Medium": "Platinum print",
+ "Dimensions": "17.2 x 6.3 cm. (6  3/4  x 2  1/2  in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Alfred Stieglitz Collection, 1949",
+ "Accession Number": "49.55.243",
+ "Who": "Frank Eugene",
+ "What": [
+  "Photographs",
+  "Platinum prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Pictorialism in America",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190021189,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/MM58931.jpg",
+ "related-artworks": [
+  190011900,
+  190011896,
+  190011897,
+  190012007,
+  190012027
+ ],
+ "Provenance": [
+  "Alfred Stieglitz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190021189"
+  }
+ }
+}

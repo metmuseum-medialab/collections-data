@@ -1,0 +1,61 @@
+{
+ "Maker": "John Fothergill (died 1782)",
+ "Designer": "James Wyatt (British, Weeford, Stafforshire 1746–1813 near Markborough, Wiltshire)",
+ "Date": "1775–76",
+ "Culture": "British, Birmingham",
+ "Medium": "Silver",
+ "Dimensions": [
+  "H. 5 1/8 in. (13 cm); L. of supports 5 1/2 in. (14 cm);",
+  "Diam. of center support 5 in. (12.7 cm);",
+  "Diam. of lid of burner 2 9/16 in. (6.5 cm);",
+  "Diam. of burner 2 9/16 in. (6.5 cm)"
+ ],
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Madame Lilliana Teruzzi, 1966",
+ "Accession Number": "66.192.5a–c",
+ "Who": [
+  "James Wyatt",
+  "Matthew Boulton",
+  "John Fothergill"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Furniture",
+  "Stands",
+  "Tripods"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "West Midlands",
+  "Birmingham"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "English Silver, 1600–1800",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120020425,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP104618.jpg",
+ "related-artworks": [
+  120024276,
+  120002853,
+  120013339,
+  120017773,
+  120020428
+ ],
+ "Provenance": [
+  "Madame Lilliana Teruzzi (until 1966",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120020425"
+  }
+ }
+}

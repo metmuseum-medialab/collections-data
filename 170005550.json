@@ -1,0 +1,41 @@
+{
+ "Date": "7th century",
+ "Culture": "Frankish",
+ "Medium": "Iron, silver inlay",
+ "Dimensions": "Overall 2 3/4 x 1 7/8 x 3/8 in. (7 x 4.8 x 1 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.193.308b",
+ "What": [
+  "Metal",
+  "Costume",
+  "Metalwork",
+  "Silver",
+  "Iron and iron alloy",
+  "Iron",
+  "Plate",
+  "Belts",
+  "Belt plates"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "id": 170005550,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-193-308bs1.jpg",
+ "related-artworks": [
+  170004776,
+  170004925,
+  170004932,
+  170004936,
+  170004943
+ ],
+ "Provenance": [
+  "Friedrich Queckenberg, Niederbreisig, Germany",
+  "Joseph Queckenberg, Niederbreisig, Germany",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005550"
+  }
+ }
+}

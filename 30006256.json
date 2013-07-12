@@ -1,0 +1,35 @@
+{
+ "Period": "Six Dynasties Period",
+ "Date": "ca. 8th century A.D.",
+ "Geography": "Caucasus region",
+ "Medium": "Metal",
+ "Dimensions": "1.66 in. (4.22 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Jacqueline Simcox, 1999",
+ "Accession Number": "1999.153.19",
+ "What": [
+  "Metal",
+  "Metalwork"
+ ],
+ "Where": [
+  "Asia",
+  "Caucasus"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Ancient Near Eastern Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 30006256,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/sd1999_153_19.jpg",
+ "related-artworks": [
+  30006258,
+  30006269,
+  30006270,
+  30006248,
+  30006249
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30006256"
+  }
+ }
+}

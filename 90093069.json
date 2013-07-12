@@ -1,0 +1,37 @@
+{
+ "Date": "after 1549",
+ "Medium": "Engraving",
+ "Dimensions": "Sheet 7/8 x 3 1/4 in. (2.2 x 8.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Harry G. Friedman, 1959",
+ "Accession Number": "59.644.72",
+ "Who": "Sebald Beham",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90093069,
+ "related-artworks": [
+  90003257,
+  90003289,
+  90003291,
+  90003292,
+  90003293
+ ],
+ "Description": "Frieze with a procession moving from left to right. At center, a horse-drawn carriage bearing two standing figures. Leading the procession at right are four female figures bearing horns, vases, and torches; at left a man on horseback.",
+ "Provenance": [
+  "Donor: Harry G. Friedman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90093069"
+  }
+ }
+}

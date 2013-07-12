@@ -1,0 +1,61 @@
+{
+ "Date": "1764",
+ "Medium": "Printed book with engraved illustrations",
+ "Classification": "Books",
+ "Credit Line": "Bequest of W. Gedney Beatty, 1941",
+ "Accession Number": "41.100.176",
+ "Who": "Robert Adam",
+ "What": [
+  "Engraving",
+  "Books",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90011754,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP167068.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90011756",
+  "http://scrapi.org/object/90000754",
+  "http://scrapi.org/object/90011749",
+  "http://scrapi.org/object/90032650",
+  "http://scrapi.org/object/90072530"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP167068.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/DP167190.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/035_0r2m_99A.jpg"
+ ],
+ "Provenance": [
+  "Donor: William Gedney Beatty"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90011756"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90000754"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90011749"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90032650"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90072530"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90011754"
+  }
+ }
+}

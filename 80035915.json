@@ -1,0 +1,38 @@
+{
+ "Date": "1873–76",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": [
+  "(a) Length at CB 25 in. (63.5 cm)",
+  "(b) Length at CB 47 in. (119.4 cm)"
+ ],
+ "Credit Line": "Purchase, Irene Lewisohn Bequest, 1955",
+ "Accession Number": "C.I.55.26a, b",
+ "What": [
+  "Costume",
+  "Wool",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80035915,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.55.26ab_F2.jpg",
+ "related-artworks": [
+  80002104,
+  80002105,
+  80002748,
+  80003301,
+  80003527
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80035915"
+  }
+ }
+}

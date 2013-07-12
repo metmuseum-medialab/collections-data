@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1920",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": [
+  "Length at CB (a) 27 3/4 in. (70.5 cm)",
+  "Length (b) 31 in. (78.7 cm)"
+ ],
+ "Credit Line": "The Jacqueline Loewe Fowler Costume Collection, Gift of Jacqueline Loewe Fowler, 1982",
+ "Accession Number": "1982.82.22a, b",
+ "What": [
+  "Costume",
+  "Wool",
+  "Suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80030449,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1982.82.22a_F.jpg",
+ "related-artworks": [
+  80000031,
+  80000033,
+  80000275,
+  80000446,
+  80000511
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80030449"
+  }
+ }
+}

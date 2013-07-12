@@ -1,0 +1,43 @@
+{
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 5 13/16 x 3 13/16 in. (14.8 x 9.7 cm)",
+  "sheet 10 13/16 x 7 15/16 in. (27.4 x 20.1 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.299.3",
+ "Who": "Salvator Rosa",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Baroque Rome",
+  "Art of the Seventeenth and Eighteenth Centuries in Naples",
+  "Poets, Lovers, and Heroes in Italian Mythological Prints",
+  "Heroes in Italian Mythological Prints"
+ ],
+ "id": 90072748,
+ "related-artworks": [
+  90008715,
+  90008716,
+  90008717,
+  90008701,
+  90008703
+ ],
+ "Provenance": [
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90072748"
+  }
+ }
+}

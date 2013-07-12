@@ -1,0 +1,37 @@
+{
+ "Date": "19th century",
+ "Culture": "Mexican",
+ "Medium": "[no medium available]",
+ "Dimensions": "Overall 16 x 16 in. (40.6 x 40.6 cm)",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.954",
+ "What": [
+  "Costume",
+  "Shirts"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America, 1800–1900 A.D.",
+  "Mexico and Central America Native Peoples, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80024992,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/08.180.954.jpg",
+ "related-artworks": [
+  80012431,
+  80012421,
+  80012411,
+  80012440,
+  80012451
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80024992"
+  }
+ }
+}

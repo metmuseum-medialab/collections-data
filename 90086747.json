@@ -1,0 +1,41 @@
+{
+ "Artist": "Previously connected to Master f (North Italian, active ca. 1525–40)",
+ "Date": "1450–1550",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "Sheet 6 9/16 x 3 9/16 in. (16.7 x 9.1 cm)",
+  "Plate 1 9/16 x 1 5/8 in. (3.9 x 4.2 cm)",
+  "Plate 1 9/16 x 1 9/16 in. (4 x 3.9 cm)",
+  "Plate 1 9/16 x 1 5/8 in. (3.9 x 4.1 cm)"
+ ],
+ "Classification": "Ornament & Architecture",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.64.5",
+ "Who": [
+  "Master f",
+  "Anonymous, Italian  Spanish, late 15th to early 16th century",
+  "Giovanni Battista di Jacopo Cennini"
+ ],
+ "What": "Engraving",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90086747,
+ "related-artworks": [
+  90013671,
+  90086348,
+  90086343,
+  90086363,
+  90086361
+ ],
+ "Description": "Page with two small engravings of coats of arms, printed one above the other on the page. The upper crest is characterized by an unfinished fleur de lis. The lower crest is divided in quarters. The upper left and lower right ones contain a lion while the upper right and lower left quarters are filled with crossed pickaxes. On the verso a third similar design has been printed in which the crest shows a sword.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90086747"
+  }
+ }
+}

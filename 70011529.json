@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1175–1200",
+ "Geography": "Made in Burgos, Castile-León, Spain",
+ "Culture": "Spanish",
+ "Medium": "Limestone",
+ "Dimensions": "Overall, Height 52 3/4 in. (134 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Cloisters Collection,1930",
+ "Accession Number": "30.77.7",
+ "What": [
+  "Sculpture",
+  "Limestone"
+ ],
+ "Where": [
+  "Europe",
+  "Spain",
+  "Castilla y León",
+  "Burgos"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70011529,
+ "gallery-id": 2,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi30-77-7.jpg",
+ "related-artworks": [
+  70010463,
+  70011531,
+  70011528,
+  70011530,
+  70013094
+ ],
+ "Description": "The Virgin with Christ seated on her lap is flanked, on the left, by two magi, and, on the right, by a seated Joseph; the third magus is missing. The group, which may have originally been made for the main portal, was, at a later date, set into a side wall of the church at Cerezo de Riotirón. the rhythmic pleats, hook folds, and blocky masses of the figures are characteristic of Castillian sculpture in the late 12th century.See also 30.77.6, .8, .9.",
+ "Provenance": [
+  "From the wall (west wall of South Portal) of the church of Nuestra Señora de la Llana at Cerezo de Riotirón, near BurgosRaimundo Ruíz Ruíz , Burgos (sold 1929)",
+  "[ Brummer Gallery , Paris and New York (1929–1930)]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70011529"
+  }
+ }
+}

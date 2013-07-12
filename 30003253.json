@@ -1,0 +1,44 @@
+{
+ "Period": "Ur III",
+ "Date": "ca. 2027 B.C.",
+ "Geography": "Mesopotamia, Umma (modern Jokha)",
+ "Culture": "Neo-Sumerian",
+ "Medium": "Clay",
+ "Dimensions": "3.4 x 2.8 x 1.3 cm (1 3/8 x 1 1/8 x 1/2 in.)",
+ "Classification": "Clay",
+ "Credit Line": "Gift of Mrs. Henry E. Coe, 1957",
+ "Accession Number": "57.16.6",
+ "Who": "Neo-Sumerian",
+ "What": [
+  "Clay",
+  "Tablets",
+  "Cuneiform"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Umma"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003253,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME57_16_6.jpg",
+ "related-artworks": [
+  30002484,
+  30003248,
+  30003932,
+  30004381,
+  30000445
+ ],
+ "Provenance": [
+  "Formerly collection of Walter B. James (until d. 1927)",
+  "acquired by the Museum in 1957, gift of Mrs. Henry E. Coe, daughter of Walter B. James, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003253"
+  }
+ }
+}

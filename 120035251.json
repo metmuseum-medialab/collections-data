@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Culture": "German",
+ "Medium": "Cotton",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2994",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Printing"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 120035251,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP1764.jpg",
+ "related-artworks": [
+  120033362,
+  120033363,
+  120033364,
+  120033365,
+  120033366
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120035251"
+  }
+ }
+}

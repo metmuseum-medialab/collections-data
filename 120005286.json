@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Culture": "British (after an Italian original)",
+ "Medium": "Bronze",
+ "Dimensions": "H. 8 1/2 in. (21.6 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.105.1",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Metalwork",
+  "Bronze",
+  "Printing plates",
+  "Electrotype",
+  "Mortars"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120005286,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF08_105_1.jpg",
+ "related-artworks": [
+  120000029,
+  120000023,
+  120000060,
+  120000040,
+  120000782
+ ],
+ "Provenance": [
+  "[ Christofle & Cie , 1908",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120005286"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Culture": "China",
+ "Medium": "Silk / Compound weave",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Kihei Hattori, in memory of his father, Kihei Hattori, 1920",
+ "Accession Number": "20.148.210",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 60045020,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP15697.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/as/original/DP15697.jpg",
+  "http://images.metmuseum.org/CRDImages/as/original/DP14401.jpg"
+ ],
+ "Provenance": [
+  "Kihei Hattori , Tokyo (until 1920)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60045036"
+   },
+   {
+    "href": "http://scrapi.org/object/60045040"
+   },
+   {
+    "href": "http://scrapi.org/object/60045308"
+   },
+   {
+    "href": "http://scrapi.org/object/60045615"
+   },
+   {
+    "href": "http://scrapi.org/object/60045616"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60045020"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60045020"
+  }
+ }
+}

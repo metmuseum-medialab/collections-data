@@ -1,0 +1,58 @@
+{
+ "Artist": "Engraved by Thomas Hodgetts (British, active 1801–46)",
+ "Publisher": "Published by Joseph Mallord William Turner (British, London 1775–1851 London)",
+ "Date": "June 1811",
+ "Medium": "Etching and mezzotint; first state",
+ "Dimensions": [
+  "plate 7 3/16 x 10 3/8 in. (18.3 x 26.4 cm)",
+  "sheet 8 1/4 x 11 7/16 in. (21 x 29.1 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1928",
+ "Accession Number": "28.97.36",
+ "Who": [
+  "Joseph Mallord William Turner",
+  "Thomas Hodgetts"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Intaglio prints",
+  "Engravings",
+  "Mezzotints"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "John Constable (1776–1837)",
+  "Joseph Mallord William Turner (1775–1851)",
+  "Roger Fenton (1819–1869)",
+  "Watercolor Painting in Britain, 1750–1850",
+  "The Hudson River School",
+  "The Salon and The Royal Academy",
+  "Romanticism",
+  "Great Britain and Ireland, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90056745,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821403.jpg",
+ "related-artworks": [
+  90056732,
+  90056739,
+  90056723,
+  90056743,
+  90056757
+ ],
+ "Provenance": [
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90056745"
+  }
+ }
+}

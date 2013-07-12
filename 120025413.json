@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Culture": "British",
+ "Medium": "Lustreware",
+ "Dimensions": "4 1/4 in.  (10.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Sidney H. and Helen M. Witty, 1964",
+ "Accession Number": "64.173.35",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Earthenware",
+  "Jugs",
+  "Lusterware"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120025413,
+ "related-artworks": [
+  120009367,
+  120020092,
+  120020072,
+  120020030,
+  120020031
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120025413"
+  }
+ }
+}

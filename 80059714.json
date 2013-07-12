@@ -1,0 +1,40 @@
+{
+ "Date": "1930–60",
+ "Culture": "French",
+ "Medium": "(a) silk, metal, glass, diamond; (b) leather",
+ "Dimensions": [
+  "Height (a) 2 7/8 in. (7.3 cm)",
+  "Width 2 in. (5.1 cm)"
+ ],
+ "Credit Line": "Gift of Pinckney G. Daves, 1980",
+ "Accession Number": "1980.167.2a, b",
+ "What": [
+  "Metal",
+  "Silk",
+  "Glass",
+  "Leather",
+  "Medals",
+  "Diamond"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80059714,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1980.167.2ab.jpg",
+ "related-artworks": [
+  80050141,
+  80059713,
+  80003634,
+  80065455,
+  80000276
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80059714"
+  }
+ }
+}

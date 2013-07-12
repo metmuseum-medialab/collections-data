@@ -1,0 +1,42 @@
+{
+ "Artist": "After Andrea del Sarto (Andrea d'Agnolo) (Italian, Florence 1486–1530 Florence)",
+ "Dedicatee": "Dedicated to Alathea Howard, Countess of Arundel (British, 1585–1654)",
+ "Medium": "Engraving; second state of two",
+ "Dimensions": "sheet 9 3/16 x 7 5/16 in. (23.4 x 18.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1917",
+ "Accession Number": "17.50.18-134",
+ "Who": [
+  "Lucas Vorsterman I",
+  "Andrea del Sarto (Andrea d'Agnolo)",
+  "Alathea Howard, Countess of Arundel"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90062067,
+ "related-artworks": [
+  90022409,
+  90062229,
+  90062612,
+  90099451,
+  90032615
+ ],
+ "Provenance": [
+  "Donor: Joseph Pulitzer Bequest"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90062067"
+  }
+ }
+}

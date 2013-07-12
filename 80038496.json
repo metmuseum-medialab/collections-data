@@ -1,0 +1,34 @@
+{
+ "Date": "1970",
+ "Culture": "American or European",
+ "Medium": "fur",
+ "Dimensions": "Length at CB 52 in. (132.1 cm)",
+ "Credit Line": "Gift of Lauren Bacall, 1979",
+ "Accession Number": "1979.324.37",
+ "What": [
+  "Costume",
+  "Hair",
+  "Coats",
+  "Fur"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80038496,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1979.324.37_F.jpg",
+ "related-artworks": [
+  80000652,
+  80001301,
+  80001634,
+  80001886,
+  80001967
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80038496"
+  }
+ }
+}

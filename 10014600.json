@@ -1,0 +1,47 @@
+{
+ "Manufacturer": "Probably manufactured by Cheney Brothers (American, 1838–1955)",
+ "Date": "1883–1900",
+ "Geography": "New England, Connecticut, United States",
+ "Culture": "American",
+ "Medium": "Silk, woven",
+ "Dimensions": "31 1/4 x 24 in. (79.4 x 61 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Boudinot Keith, 1928",
+ "Accession Number": "28.70.20",
+ "Who": [
+  "Associated Artists",
+  "Cheney Brothers"
+ ],
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Samples"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Connecticut"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Watercolor Painting in Britain, 1750–1850",
+  "Candace Wheeler (1827–1923)",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10014600,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP14670.jpg",
+ "related-artworks": [
+  10014573,
+  10014574,
+  10014576,
+  10014577,
+  10014578
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10014600"
+  }
+ }
+}

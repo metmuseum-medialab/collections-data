@@ -1,0 +1,57 @@
+{
+ "Artist": "In the manner of Polifilo Giancarli (active in Venice ca. 1600-1625)",
+ "Date": "17th century (first half)",
+ "Medium": "Pen and brown ink over leadpoint.",
+ "Dimensions": "Sheet 7 1/4 x 10 5/16 in. (18.4 x 26.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1962",
+ "Accession Number": "66.602.11",
+ "Who": [
+  "Polifilo Giancarli",
+  "Anonymous, Italian, Venetian, 17th century"
+ ],
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90085892,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP824428.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90085874",
+  "http://scrapi.org/object/90085861",
+  "http://scrapi.org/object/90085880",
+  "http://scrapi.org/object/90085885",
+  "http://scrapi.org/object/90085887"
+ ],
+ "related-images": [],
+ "Description": "Design for a horizontal panel filled with a meandering acanthus rinceau. Three male figures, whose lower bodies consist of stems and leaves, are entangled in the rinceaux. The outer two are depicted from the back.",
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90085874"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90085861"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90085880"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90085885"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90085887"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90085892"
+  }
+ }
+}

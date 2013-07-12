@@ -1,0 +1,40 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Estate of Samuel Isham, 1914",
+ "Accession Number": "JP212.72",
+ "Who": "Utagawa Kunisada",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60029262,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP149038.jpg",
+ "related-artworks": [
+  60026312,
+  60000782,
+  60000780,
+  60000785,
+  60021908
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029262"
+  }
+ }
+}

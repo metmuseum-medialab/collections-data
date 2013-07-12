@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Culture": "Hungarian, Nytra",
+ "Medium": "Metal thread on net",
+ "Dimensions": "L. 28 x W. 2 1/2 inches (71.1 x 6.4 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Bashford Dean through her sister, Mrs. Alexander M. Welch, 1950",
+ "Accession Number": "50.178.2",
+ "What": [
+  "Metal",
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Net"
+ ],
+ "Where": [
+  "Europe",
+  "Hungary"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120045200,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/148444.jpg",
+ "related-artworks": [
+  120045199,
+  120045203,
+  120045201,
+  120045202,
+  120037525
+ ],
+ "Provenance": [
+  "Mrs. Bashford Dean (until 1950)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120045200"
+  }
+ }
+}

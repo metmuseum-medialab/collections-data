@@ -1,0 +1,47 @@
+{
+ "Date": "1770",
+ "Culture": "French",
+ "Medium": "Cast terracotta (terre de Chaumont); gilt wood frame",
+ "Dimensions": "Diam. (without frame) 6-1/2 in. (16.5 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of James Hazen Hyde, 1952",
+ "Accession Number": "52.133.8",
+ "Who": "Jean-Baptiste Nini",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Gilt",
+  "Terracotta",
+  "Wood",
+  "Medals",
+  "Frames",
+  "Medallions",
+  "Miniature"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120016632,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES1648.jpg",
+ "related-artworks": [
+  120016651,
+  120015776,
+  120015777,
+  120015778,
+  120015779
+ ],
+ "Provenance": [
+  "James Hazen Hyde (until 1952",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120016632"
+  }
+ }
+}

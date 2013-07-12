@@ -1,0 +1,38 @@
+{
+ "Period": "Third Intermediate Period",
+ "Dynasty": "Dynasty 25",
+ "Date": "ca. 740–700 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Khokha, MMA",
+ "Medium": "Terracotta",
+ "Dimensions": "Dia. 7.5 x  L. 15.5 cm (2 15/16 x 6 1/8 in.)",
+ "Credit Line": "Rogers Fund, 1915",
+ "Accession Number": "15.10.48",
+ "What": [
+  "Clay",
+  "Terracotta"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100012018,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs15.10.49.jpg",
+ "related-artworks": [
+  100010136,
+  100016400,
+  100008099,
+  100008100,
+  100010117
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100012018"
+  }
+ }
+}

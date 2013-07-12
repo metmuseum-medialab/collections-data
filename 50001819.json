@@ -1,0 +1,52 @@
+{
+ "Date": "1st–mid-16th century",
+ "Geography": "Peru",
+ "Culture": "Peru; north coast (?)",
+ "Medium": "Stone",
+ "Dimensions": "Length 3-1/2 in. (8.9 cm)dbld",
+ "Classification": "Beads-Ornaments",
+ "Credit Line": "Gift of Mr. and Mrs. Nathan Cummings, 1964",
+ "Accession Number": "64.228.722",
+ "What": "Stone",
+ "Where": [
+  "South America",
+  "Peru"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central and Southern Andes, 1400–1600 A.D.",
+  "Central and Southern Andes, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50001819,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs64_228_722.JPG",
+ "Provenance": [
+  "Bruno J. Wassermann-San Blas Collection, Buenos Aires, Argentina, acquired by 1938, until 1954",
+  "Nathan Cummings, Chicago, 1954–1964"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50001302"
+   },
+   {
+    "href": "http://scrapi.org/object/50001821"
+   },
+   {
+    "href": "http://scrapi.org/object/50001827"
+   },
+   {
+    "href": "http://scrapi.org/object/50001828"
+   },
+   {
+    "href": "http://scrapi.org/object/50001842"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50001819"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50001819"
+  }
+ }
+}

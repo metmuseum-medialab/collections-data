@@ -1,0 +1,46 @@
+{
+ "Date": "early 19th century",
+ "Culture": "probably Italian",
+ "Medium": "Carnelian",
+ "Dimensions": "L. 1-5/6 in. (4.7 cm); W. 1-1/2 in. (3.8 cm)",
+ "Classification": "Lapidary Work",
+ "Credit Line": "Gift of Cele H. and William B. Rubin, 1961",
+ "Accession Number": "61.109.6",
+ "What": [
+  "Sculpture",
+  "Chalcedony",
+  "Gems",
+  "Carnelian",
+  "Intaglios"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120017957,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF61_109_6_img1.jpg",
+ "related-artworks": [
+  120013891,
+  120014366,
+  120017952,
+  120017953,
+  120017954
+ ],
+ "Provenance": [
+  "Prince Stanislas Poniatowski",
+  "[ Poniatowski sale, Christie's, London , 1939 ]",
+  "John Tyrrell (until 1854)",
+  "[ Christie's, London , 1954 ]",
+  "Cele H. and William B. Rubin (until 1961",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120017957"
+  }
+ }
+}

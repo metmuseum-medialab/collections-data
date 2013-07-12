@@ -1,0 +1,37 @@
+{
+ "Date": "early 20th century (original dated 14th century)",
+ "Culture": "Italian",
+ "Medium": "Tesserae, glass in wooden frame",
+ "Dimensions": "Overall 76 3/8 x 36 1/4 x 1 1/2 in. (194 x 92.1 x 3.8 cm)",
+ "Classification": "Reproductions",
+ "Credit Line": "Johnston Fund, 1924",
+ "Accession Number": "24.144.8",
+ "What": [
+  "Glass",
+  "Frames",
+  "Mosaics",
+  "Tesserae"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170006496,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf24-144-8.jpg",
+ "related-artworks": [
+  170006492,
+  170006490,
+  170006494,
+  170006495,
+  170006489
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006496"
+  }
+ }
+}

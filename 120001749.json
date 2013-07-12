@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Bronze, cast",
+ "Dimensions": "5 1/2 x 4 in.  (140 x 102 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Gift of Samuel P. Avery, 1893",
+ "Accession Number": "93.10.18",
+ "Who": "Louis-Oscar Roty",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaques",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001749,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/29901.jpg",
+ "related-artworks": [
+  120001773,
+  120001766,
+  120002655,
+  120001754,
+  120002657
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001749"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "August 1997",
+ "Medium": "Gelatin silver print",
+ "Dimensions": [
+  "Image 45.9 x 36 cm (18 1/16 x 14 3/16 in.)",
+  "Sheet 40.6 x 50.8 cm (16 x 20 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Haluk Soykan and Elisa Fredrickson Gift, 2007",
+ "Accession Number": "2007.399",
+ "Rights and Reproduction": "© John Goodman",
+ "Who": "John Goodman",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190041887,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP160253.jpg",
+ "related-artworks": [
+  190041898,
+  190041899,
+  190041886,
+  190053707,
+  190041885
+ ],
+ "Provenance": [
+  "John Goodman"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190041887"
+  }
+ }
+}

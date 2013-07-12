@@ -1,0 +1,53 @@
+{
+ "Artist": "After a composition by F. de Wit",
+ "Designer": "After a design by Charles Le Brun (French, Paris 1619–1690 Paris)",
+ "Date": "19th century",
+ "Culture": "Italian",
+ "Medium": "Earthenware",
+ "Dimensions": [
+  "Overall 9 1/4 x 12 1/8 in. (23.5 x 30.8 cm)",
+  "Other (of Africa) 9 x 12 5/16 in. (22.9 x 31.3 cm)",
+  "Other (of America) 9 5/16 x 12 5/16 in. (23.7 x 31.3 cm)",
+  "Other (of Asia) 9 7/16 x 12 1/4 in. (24 x 31.1 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Estate of James Hazen Hyde, 1959",
+ "Accession Number": "59.208.38",
+ "Who": [
+  "Charles Le Brun",
+  "Castelli",
+  "F. de Wit"
+ ],
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Tile"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120058000,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/170313.jpg",
+ "related-artworks": [
+  120057999,
+  120017732,
+  120057997,
+  120057998,
+  120001960
+ ],
+ "Provenance": [
+  "[ Brüder Egger (until 1925",
+  "sale, March 30, 1925) ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120058000"
+  }
+ }
+}

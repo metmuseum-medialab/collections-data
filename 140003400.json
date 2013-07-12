@@ -1,0 +1,39 @@
+{
+ "Object Name": "Fragment of a bowl",
+ "Date": "13th century",
+ "Geography": "Iran, Rayy",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.34.6",
+ "What": [
+  "Ceramics",
+  "Fragments",
+  "Bowls"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Rayy"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140003400,
+ "related-artworks": [
+  140008993,
+  140014589,
+  140003401,
+  140003397,
+  140003488
+ ],
+ "Provenance": [
+  "[ Hassan Khan Monif, New York, until 1912",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140003400"
+  }
+ }
+}

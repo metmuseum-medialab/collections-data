@@ -1,0 +1,34 @@
+{
+ "Date": "17th century",
+ "Medium": "Etching",
+ "Dimensions": "sheet 7 7/16 x 5 9/16 in. (18.9 x 14.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Janet Lee Kadesky Ruttenberg Fund, in honor of Colta Ives; and Phyllis D. Massar Gift, 2010",
+ "Accession Number": "2010.75",
+ "Who": "Antonio Ugolino",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90066924,
+ "related-artworks": [
+  90021187,
+  90021188,
+  90002145
+ ],
+ "Provenance": [
+  "Vendor: Katrin Bellinger Kunsthandel , Munich"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90066924"
+  }
+ }
+}

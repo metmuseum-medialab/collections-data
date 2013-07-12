@@ -1,0 +1,58 @@
+{
+ "Period": "Middle Minoan I–II",
+ "Date": "ca. 2000–1700 B.C.",
+ "Culture": "Minoan",
+ "Medium": "Steatite",
+ "Dimensions": "Overall 1 3/16 x 1 11/16in. (3 x 4.3cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "Bequest of Richard B. Seager, 1926",
+ "Accession Number": "26.31.394",
+ "What": [
+  "Vessels",
+  "Vases",
+  "Stone",
+  "Furniture",
+  "Talc",
+  "Steatite",
+  "Tables"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades",
+  "Minoa"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130012811,
+ "gallery-id": 151,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP260371.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130009349"
+   },
+   {
+    "href": "http://scrapi.org/object/130019168"
+   },
+   {
+    "href": "http://scrapi.org/object/130009351"
+   },
+   {
+    "href": "http://scrapi.org/object/130012840"
+   },
+   {
+    "href": "http://scrapi.org/object/130012502"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130012811"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130012811"
+  }
+ }
+}

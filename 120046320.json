@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Culture": "German",
+ "Medium": "Cotton, knitted lace",
+ "Dimensions": [
+  "L.94 1/4 x W. 2 7/8 inches",
+  "239.4 x 7.3 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "From the Collection of Mrs. Lathrop Colgate Harper, Bequest of Mabel Herbert Harper, 1957",
+ "Accession Number": "57.122.703",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Needlework",
+  "Embroidery",
+  "Lace",
+  "Samplers",
+  "Knitting",
+  "Knitted lace"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120046320,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/165896.jpg",
+ "related-artworks": [
+  120046302,
+  120046319,
+  120046305,
+  120046315,
+  120046337
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046320"
+  }
+ }
+}

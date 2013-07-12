@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1910",
+ "Culture": "French (probably)",
+ "Medium": "cotton, linen",
+ "Dimensions": "Length at CB 28 1/2 in. (72.4 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mercedes de Acosta, 1953",
+ "Accession Number": "2009.300.2395",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Linen",
+  "Blouses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80095071,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/53.267.22_CP1.jpg",
+ "related-artworks": [
+  80095072,
+  80115596,
+  80037727,
+  80095073,
+  80095089
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80095071"
+  }
+ }
+}

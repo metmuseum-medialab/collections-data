@@ -1,0 +1,44 @@
+{
+ "Date": "19th–20th century",
+ "Geography": "Republic of Congo, Brazzaville",
+ "Culture": "Teke peoples",
+ "Medium": "Wood, encrustation, pigment",
+ "Dimensions": "H. 11 1/8 x Diam. 4 3/4 in. (28.2 x 12.1 cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Purchase, Nelson A. Rockefeller Gift, 1965",
+ "Accession Number": "1978.412.500",
+ "Who": "Teke",
+ "What": [
+  "Sculpture",
+  "Figures"
+ ],
+ "Where": [
+  "Africa",
+  "Republic of the Congo",
+  "Brazzaville"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central Africa, 1900 A.D.–present",
+  "Central Africa, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50003541,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1978.412.500.jpg",
+ "related-artworks": [
+  50003690,
+  50007438,
+  50002866,
+  50004755,
+  50003556
+ ],
+ "Provenance": [
+  "[Henri Kamer, Paris and New York, until 1965]",
+  "The Museum of Primitive Art, New York, 1965–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50003541"
+  }
+ }
+}

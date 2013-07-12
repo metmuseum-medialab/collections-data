@@ -1,0 +1,44 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Tutankhamun",
+ "Date": "ca. 1336–1327 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Valley of the Kings, Tomb of Tutankhamun (KV 54), Embalming cache of Tutankhamun, Davis/Ayrton 1907",
+ "Medium": "Papyrus fiber",
+ "Dimensions": "diam. 7.5 cm (2 15/16 in)",
+ "Credit Line": "Gift of Theodore M. Davis, 1909",
+ "Accession Number": "09.184.241",
+ "What": [
+  "Vessels",
+  "Jars",
+  "Lids",
+  "Papyrus"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100016520,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/VS09.184.241A.JPG",
+ "related-artworks": [
+  100006729,
+  100006741,
+  100007425,
+  100016523,
+  100016524
+ ],
+ "Provenance": [
+  "Excavated by Theodore M. Davis in the Valley of the Kings (KV 54), 1907. Received by Davis in the division of finds. Given by Davis to the Metropolitan Museum of Art, 1909."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100016520"
+  }
+ }
+}

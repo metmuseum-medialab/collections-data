@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Silk",
+ "Dimensions": "58 1/4 x 64 1/2 in. (147.96 x 163.83 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Gift of Gene Ulmann, 1955",
+ "Accession Number": "55.200.1",
+ "What": [
+  "Costume",
+  "Silk",
+  "Needlework",
+  "Embroidery",
+  "Coats"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60043897,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/160808.jpg",
+ "related-artworks": [
+  60042077,
+  60043804,
+  60042657,
+  60042792,
+  60043037
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60043897"
+  }
+ }
+}

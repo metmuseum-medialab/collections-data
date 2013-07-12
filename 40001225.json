@@ -1,0 +1,64 @@
+{
+ "Barrelsmith": "Jean Le Clerc (French, Paris, recorded 1807–10)",
+ "Date": "dated 1809",
+ "Culture": "French, Paris",
+ "Medium": "Steel, walnut, silver, gold",
+ "Dimensions": [
+  "Caliber of barrels, .59 in. (15.08 mm)",
+  "Weight, 6 lb. 10 oz. (3000 g)",
+  "Length, 48 in. (121.92 cm)",
+  "Length of barrels, 32 1/2 in. (82.55 cm)",
+  "Length of lock, 5 1/4 in. (13.34 cm)"
+ ],
+ "Classification": "Firearms",
+ "Credit Line": "Rogers Fund, 1927",
+ "Accession Number": "27.203",
+ "Who": [
+  "Jean Le Clerc",
+  "François Pirmet"
+ ],
+ "What": [
+  "Metal",
+  "Silver",
+  "Gold",
+  "Arms",
+  "Wood",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Firearms",
+  "Walnut",
+  "Locks",
+  "Small arms",
+  "Flintlocks",
+  "Snaphances",
+  "Long guns",
+  "Shotguns"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Paris"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40001225,
+ "gallery-id": 375,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/sfr27.203_71203.jpg",
+ "related-artworks": [
+  40001263,
+  40003156,
+  40003125
+ ],
+ "Description": "Pirmet was gunmaker to Jérôme Bonaparte (1784–1860), Napoleon's brother, who ruled as king of Westphalia from 1807 to 1813.",
+ "Provenance": [
+  "Ex. coll.: Wierzbicki."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40001225"
+  }
+ }
+}

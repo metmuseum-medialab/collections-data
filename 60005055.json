@@ -1,0 +1,36 @@
+{
+ "Date": "A.D. 5–6",
+ "Culture": "Pakistan (ancient region of Gandhara, Bajaur)",
+ "Medium": "Schist",
+ "Dimensions": "Diam. 3 5/8 in. (9.2 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Samuel Eilenberg Collection, Gift of Samuel Eilenberg, 1987",
+ "Accession Number": "1987.142.70a, b",
+ "What": [
+  "Sculpture",
+  "Reliquaries",
+  "Schist"
+ ],
+ "Where": [
+  "Asia",
+  "Pakistan"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1–500A.D.",
+ "id": 60005055,
+ "gallery-id": 235,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP134721.jpg",
+ "related-artworks": [
+  60005060,
+  60005182,
+  60005383,
+  60005513,
+  60005643
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005055"
+  }
+ }
+}

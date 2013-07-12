@@ -1,0 +1,45 @@
+{
+ "Date": "18th century",
+ "Culture": "British, Liverpool",
+ "Medium": "Silver",
+ "Dimensions": "Diam. 2-1/4 in. (5.7 cm)",
+ "Classification": "Horology",
+ "Credit Line": "Gift of Mrs. Lucy W. Drexel, 1889",
+ "Accession Number": "89.2.94 ab",
+ "Who": "D. Edmonds",
+ "What": [
+  "Metal",
+  "Silver",
+  "Timepieces",
+  "Watches"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Liverpool",
+  "Merseyside"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001415,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/89-2-94.jpg",
+ "related-artworks": [
+  120005256,
+  120014483,
+  120005875,
+  120021609,
+  120001936
+ ],
+ "Provenance": [
+  "Lucy W. Drexel (until 1889",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001415"
+  }
+ }
+}

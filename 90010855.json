@@ -1,0 +1,42 @@
+{
+ "Artist": "After Cornelis Cornelisz van Haarlem (Netherlandish, Haarlem 1562–1638 Haarlem)",
+ "Date": "1588",
+ "Medium": "Engraving",
+ "Dimensions": "13 1/4 x 13 1/4 in.  (33.6 x 33.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.601.338",
+ "Who": [
+  "Hendrick Goltzius",
+  "Cornelis Cornelisz van Haarlem"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Hendrick Goltzius (1558–1617)",
+  "Low Countries, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90010855,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP108228.jpg",
+ "related-artworks": [
+  90001882,
+  90003573,
+  90003654,
+  90005996,
+  90006977
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010855"
+  }
+ }
+}

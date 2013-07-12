@@ -1,0 +1,35 @@
+{
+ "Retailer": "F. R. Tripler & Co. (American)",
+ "Date": "1968",
+ "Culture": "American",
+ "Medium": "Wool",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Milton F. Rosenthal, 1983",
+ "Accession Number": "2009.300.8067a, b",
+ "Who": [
+  "F. R. Tripler & Co.",
+  "Hickey Freeman"
+ ],
+ "What": [
+  "Costume",
+  "Wool",
+  "Suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80116350,
+ "related-artworks": [
+  80116469,
+  80116470,
+  80097365
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80116350"
+  }
+ }
+}

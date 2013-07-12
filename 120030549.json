@@ -1,0 +1,43 @@
+{
+ "Date": "early 18th century",
+ "Culture": "Flemish",
+ "Medium": "Bobbin lace",
+ "Dimensions": [
+  "L. 22 x W. 2 3/4 inches",
+  "55.9 x 7.0 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1906",
+ "Accession Number": "06.666",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120030549,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP15985.jpg",
+ "related-artworks": [
+  120030521,
+  120035856,
+  120040497,
+  120005697,
+  120030008
+ ],
+ "Provenance": [
+  "sold to MMA through Margaret Taylor Johnstone , 1906"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120030549"
+  }
+ }
+}

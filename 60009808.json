@@ -1,0 +1,51 @@
+{
+ "Period": "Qing dynasty (1644–1911), Kangxi period (1662–1722)",
+ "Date": "late 17th century",
+ "Culture": "China",
+ "Medium": "Porcelain painted with cobalt blue and copper red under a clear glaze (Jiangxi Province; Jingdezhen ware)",
+ "Dimensions": "H. 8 1/8 in. (20.6 cm); Diam. 3 7/16 in. (8.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Purchase by subscription, 1879",
+ "Accession Number": "79.2.453",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Porcelain",
+  "Vases",
+  "Copper",
+  "Painting",
+  "Glaze",
+  "Cobalt"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60009808,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/79_2_453_S6.jpg",
+ "related-artworks": [
+  60007188,
+  60009824,
+  60019169,
+  60019306,
+  60020544
+ ],
+ "Description": "The combination of a phoenix and bright red peonies on this vase creates a visual metaphor for prosperity and righteousness.",
+ "Provenance": [
+  "Samuel Putnam Avery Sr. , New York (until 1879)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60009808"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Period": "Third Intermediate Period–Late Period",
+ "Dynasty": "Dynasty 21–26",
+ "Date": "ca. 1070–525 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Tomb TT 114, MMA 1926–1927",
+ "Medium": "Blue faience",
+ "Dimensions": "H. 6.5 cm",
+ "Credit Line": "Rogers Fund, 1927",
+ "Accession Number": "27.3.612d",
+ "What": [
+  "Faience",
+  "Amulets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100042808,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs27.3.612.jpg",
+ "related-artworks": [
+  100001206,
+  100002158,
+  100003539,
+  100003659,
+  100004288
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1926–1927. Acquired by the Museum in the division of finds, 1927."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100042808"
+  }
+ }
+}

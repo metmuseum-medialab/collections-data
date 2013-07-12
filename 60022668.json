@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "dated 1862",
+ "Culture": "China",
+ "Medium": "Handscroll; silk",
+ "Dimensions": "11 3/16 x 138 in. (28.4 x 350.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Frances Morris, 1949",
+ "Accession Number": "49.83",
+ "Who": "Unidentified Artist",
+ "What": [
+  "Silk",
+  "Paintings",
+  "Scroll paintings",
+  "Handscrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60022668,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP215374_CRD.jpg",
+ "related-artworks": [
+  60024619,
+  60022509,
+  60022772,
+  60006777,
+  60007032
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60022668"
+  }
+ }
+}

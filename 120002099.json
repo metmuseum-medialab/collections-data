@@ -1,0 +1,41 @@
+{
+ "Date": "18th century",
+ "Culture": "German (Höchst)",
+ "Medium": "Faience (tin-enameled earthenware)",
+ "Dimensions": "H.  8-1/4 in.  (21.0 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Henry G. Marquand, 1894",
+ "Accession Number": "94.4.252 ab",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Faience",
+  "Vases",
+  "Earthenware"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Hesse",
+  "Höchst"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120002099,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/7481.jpg",
+ "related-artworks": [
+  120016085,
+  120014414,
+  120022462,
+  120021838,
+  120021843
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120002099"
+  }
+ }
+}

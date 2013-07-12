@@ -1,0 +1,55 @@
+{
+ "Period": "Mid Imperial",
+ "Date": "2nd–3rd century A.D.",
+ "Culture": "Roman",
+ "Medium": "Glass; blown, tooled, and trailed",
+ "Dimensions": "H. 3 1/2 x 4 x 2 3/8 x 2 in. (8.9 x 10.2 x 6 x 5.1 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Henry G. Marquand, 1881",
+ "Accession Number": "81.10.201",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Cups"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130005825,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP222353.jpg",
+ "Description": "Translucent blue green, with same color trail and ring base.Rim outsplayed, cracked off and ground; straight side expanding downwards, and then turned in sharply to solid ring base; shallow kick in center of bottom.Fine horizontal trail wound once round top of body; on side, eight oval indents.One large chip  in rim and one long crack running from rim around body; some pinprick bubbles; patches of limy encrustation, creamy weathering, and iridescence on exterior.",
+ "Provenance": [
+  "Said to be from Arelate (modern Arles, southern France) (Froehner 1879, p. 139, pl. XIV, 81).Until 1881, collection of Jules Charvet, Le Pecq, Île-de-France",
+  "1881, purchased from J. Charvet by Henry G. Marquand",
+  "acquired in 1881, gift of Henry G. Marquand."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130000201"
+   },
+   {
+    "href": "http://scrapi.org/object/130000291"
+   },
+   {
+    "href": "http://scrapi.org/object/130000293"
+   },
+   {
+    "href": "http://scrapi.org/object/130000296"
+   },
+   {
+    "href": "http://scrapi.org/object/130000300"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130005825"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130005825"
+  }
+ }
+}

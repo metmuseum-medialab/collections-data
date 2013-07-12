@@ -1,0 +1,44 @@
+{
+ "Date": "18th century",
+ "Culture": "British, Staffordshire or Welsh",
+ "Medium": "Earthenware",
+ "Dimensions": "3-1/2 x 5-1/2 in.  (8.9 x 14.0 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.142.8",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Furniture",
+  "Beds",
+  "Cradles"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120006604,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/13971.jpg",
+ "related-artworks": [
+  120006673,
+  120006605,
+  120014498,
+  120014512,
+  120020192
+ ],
+ "Provenance": [
+  "[ Partridge ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006604"
+  }
+ }
+}

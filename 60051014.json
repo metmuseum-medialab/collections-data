@@ -1,0 +1,55 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Silk and metallic-thread tapestry (kesi) with painted details",
+ "Dimensions": "Overall 72 x 53 1/2 in. (182.9 x 135.9 cm)",
+ "Classification": "Costumes",
+ "Credit Line": "Gift of Ellen Peckham, 2011",
+ "Accession Number": "2011.433.2",
+ "What": [
+  "Costume",
+  "Silk",
+  "Painting",
+  "Tapestries",
+  "Robes",
+  "Kesi"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60051014,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60038559"
+   },
+   {
+    "href": "http://scrapi.org/object/60043575"
+   },
+   {
+    "href": "http://scrapi.org/object/60037790"
+   },
+   {
+    "href": "http://scrapi.org/object/60021222"
+   },
+   {
+    "href": "http://scrapi.org/object/60024693"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60051014"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60051014"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1972",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "15.3 x 19.4 cm (6 x 7 5/8 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.263.126",
+ "Who": "Jerry L. Thompson",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190035815,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190019010"
+   },
+   {
+    "href": "http://scrapi.org/object/190035275"
+   },
+   {
+    "href": "http://scrapi.org/object/190035822"
+   },
+   {
+    "href": "http://scrapi.org/object/190035824"
+   },
+   {
+    "href": "http://scrapi.org/object/190035826"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190035815"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190035815"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Date": "20th century",
+ "Geography": "Burkina Faso",
+ "Culture": "Bobo, Kurumani group",
+ "Medium": "Wood, hair, beeswax, pigment",
+ "Dimensions": "Height 32 in.",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Gift of Thomas G.B. Wheelock, 1997",
+ "Accession Number": "1997.444.2",
+ "Who": "Bobo",
+ "What": [
+  "Costume",
+  "Sculpture",
+  "Hair",
+  "Wax",
+  "Masks",
+  "Ceremonial masks",
+  "Beeswax"
+ ],
+ "Where": [
+  "Africa",
+  "Burkina Faso"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Western and Central Sudan, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50010517,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1997.444.2_b.jpg",
+ "related-artworks": [
+  50004953,
+  50010516,
+  50010518,
+  50002576,
+  50005014
+ ],
+ "Provenance": [
+  "Thomas G.B. Wheelock, New York (acquired in Burkina Faso), 1977–1997"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50010517"
+  }
+ }
+}

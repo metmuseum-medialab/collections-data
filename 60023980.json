@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911), Yongzheng period (1723–35)",
+ "Culture": "China",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 2 in. (5.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Mary Clark Thompson, 1923",
+ "Accession Number": "24.80.546",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Drinking vessels",
+  "Cups"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60023980,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/24_80_546_01.jpg",
+ "related-artworks": [
+  60015704,
+  60015730,
+  60015787,
+  60015792,
+  60015899
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60023980"
+  }
+ }
+}

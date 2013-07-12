@@ -1,0 +1,39 @@
+{
+ "Artist": "Engraved by Philips Galle (Netherlandish, Haarlem 1537–1612 Antwerp)",
+ "Publisher": "Published by Philips Galle (Netherlandish, Haarlem 1537–1612 Antwerp)",
+ "Date": "ca. 1585–90",
+ "Medium": "Engraving",
+ "Dimensions": "plate 5 15/16 x 3 9/16 in. (15.1 x 9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.601.14",
+ "Who": "Philips Galle",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90041527,
+ "related-artworks": [
+  90025570,
+  90039321,
+  90041491,
+  90041474,
+  90041492
+ ],
+ "Provenance": [
+  "Donor: Harris Brisbane Dick Fund"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90041527"
+  }
+ }
+}

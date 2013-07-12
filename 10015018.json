@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1850–55",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Rosewood",
+ "Dimensions": "35 x 19 in. (88.9 x 48.3 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Friends of the American Wing Fund, 1992",
+ "Accession Number": "1992.81",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Side chairs",
+  "Rosewood"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10015018,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/356302.JPG",
+ "related-artworks": [
+  10000252,
+  10001728,
+  10001729,
+  10001712,
+  10001750
+ ],
+ "Provenance": [
+  "Sale, Neal and Company Auctioneers, New Orleans, 5 Nov. 1988",
+  "with Don Didier, New Orleans, 1988–1992."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10015018"
+  }
+ }
+}

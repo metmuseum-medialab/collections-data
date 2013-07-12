@@ -1,0 +1,47 @@
+{
+ "Date": "late 15th century",
+ "Culture": "Italian (Florence)",
+ "Medium": "Terracotta, painted",
+ "Dimensions": "H. 40-1/8 in. (101.9 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Bequest of Benjamin Altman, 1913",
+ "Accession Number": "14.40.684",
+ "Who": "Benedetto da Maiano",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Painting",
+  "Statues"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Florence"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "id": 120007375,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF14_40_684_img1.jpg",
+ "related-artworks": [
+  120013988,
+  120014046,
+  150008575,
+  120023731,
+  120023732
+ ],
+ "Provenance": [
+  "Spinelli, Borgo San Sepolcro (before 1910)",
+  "[ Duveen Brothers , New York, 1910",
+  "sold to Altman ]",
+  "Benjamin Altman (1910–13",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120007375"
+  }
+ }
+}

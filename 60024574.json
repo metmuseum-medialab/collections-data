@@ -1,0 +1,38 @@
+{
+ "Date": "early 20th century",
+ "Culture": "China",
+ "Medium": "Leaf; color on rice paper",
+ "Dimensions": "3 5/8 x 2 5/16 in. (9.2 x 5.9 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mrs. Henry Hussey, 1931",
+ "Accession Number": "31.96.9",
+ "What": [
+  "Paper",
+  "Paintings",
+  "Rice paper"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60024574,
+ "related-artworks": [
+  60022437,
+  60024571,
+  60024572,
+  60024573,
+  60024570
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60024574"
+  }
+ }
+}

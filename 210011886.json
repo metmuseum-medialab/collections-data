@@ -1,0 +1,44 @@
+{
+ "Maker": "Onondaga Silk Company, Inc. (American, New York, 1933–81)",
+ "Date": "1944",
+ "Geography": "Object place Mid-Atlantic, New York, New York, America",
+ "Culture": "American",
+ "Medium": "Rayon (Enka), printed",
+ "Dimensions": "31 x 27 in. (78.7 cm. x 68.6 cm. )",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Onondaga Silk Company, Inc., 1945",
+ "Accession Number": "45.133.4b",
+ "Who": [
+  "Onondaga Silk Company, Inc.",
+  "Fritzi Reckendorf"
+ ],
+ "What": [
+  "Textiles",
+  "Printing",
+  "Samples",
+  "Rayon"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 210011886,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP10562.jpg",
+ "related-artworks": [
+  210011885,
+  210011888,
+  210012873,
+  210012876,
+  210012877
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210011886"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Artist": "After Giulio Romano (Italian, Rome 1499?–1546 Mantua)",
+ "Date": "1540",
+ "Medium": "Engraving",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1942",
+ "Accession Number": "42.45.3",
+ "Who": [
+  "Giulio Romano",
+  "Giovanni Battista Scultori"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Heroes in Italian Mythological Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90027851,
+ "related-artworks": [
+  90032386,
+  90032427,
+  90039097,
+  90039926,
+  90039927
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90027851"
+  }
+ }
+}

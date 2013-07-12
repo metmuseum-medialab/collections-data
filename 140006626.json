@@ -1,0 +1,48 @@
+{
+ "Date": "9th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware; underglazed painted with polychrome pigments with incised decoration under monochrome transparent glaze",
+ "Dimensions": [
+  "H. 3 9/16 in. (9 cm)",
+  "Diam. 11 1/2 in. (29.2 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1938",
+ "Accession Number": "38.40.139",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Painting",
+  "Glaze",
+  "Bowls",
+  "Underglazing"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140006626,
+ "related-artworks": [
+  140006631,
+  140006907,
+  140006931,
+  140006988,
+  140006993
+ ],
+ "Provenance": [
+  "1937, excavated at Sabz Pushan in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1938, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140006626"
+  }
+ }
+}

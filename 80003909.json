@@ -1,0 +1,39 @@
+{
+ "Date": "spring/summer 1967",
+ "Culture": "American",
+ "Medium": "(a, b) cotton; (c) silk",
+ "Dimensions": [
+  "Length at CB (a) 26 in. (66 cm)",
+  "Length at CB (b) 14 in. (35.6 cm)"
+ ],
+ "Credit Line": "Gift of Geoffrey Beene, 2001",
+ "Accession Number": "2001.393.5a–c",
+ "Who": "Geoffrey Beene",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80003909,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2001.393.5ab_F.jpg",
+ "related-artworks": [
+  80003927,
+  80003908,
+  80000591,
+  80000593,
+  80019886
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80003909"
+  }
+ }
+}

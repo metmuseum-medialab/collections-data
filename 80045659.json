@@ -1,0 +1,54 @@
+{
+ "Date": "1916–17",
+ "Culture": "French",
+ "Medium": "silk, feathers",
+ "Dimensions": "Length (front to back) 11 1/2 in. (29.2 cm)",
+ "Credit Line": "Gift of Estate of Annie-May Hegeman, 1950",
+ "Accession Number": "C.I.50.40.21",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Feather"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80045659,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI50.40.21_F.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/CI50.40.21_F.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI50.40.21_B.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/C.I.50.40.21_label.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/80004795"
+   },
+   {
+    "href": "http://scrapi.org/object/80004798"
+   },
+   {
+    "href": "http://scrapi.org/object/80006032"
+   },
+   {
+    "href": "http://scrapi.org/object/80006149"
+   },
+   {
+    "href": "http://scrapi.org/object/80025480"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80045659"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/80045659"
+  }
+ }
+}

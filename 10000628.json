@@ -1,0 +1,43 @@
+{
+ "Date": "1850–1900",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Free-blown molded amber glass",
+ "Dimensions": "H. 9 7/8 in. (25.1 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Bequest of Constance R. Brown, 1939",
+ "Accession Number": "40.150.108",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Bottles",
+  "Blown glass",
+  "Resin",
+  "Amber"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000628,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP234114.jpg",
+ "related-artworks": [
+  10000647,
+  10003819,
+  10003838,
+  10003546,
+  10004609
+ ],
+ "Provenance": [
+  "Constance R. Brown, Kalamazoo, Michigan, until died 1939"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000628"
+  }
+ }
+}

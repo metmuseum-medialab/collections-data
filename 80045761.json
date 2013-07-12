@@ -1,0 +1,34 @@
+{
+ "Date": "1943",
+ "Culture": "American",
+ "Medium": "[no medium available]",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Morton Anderson Lee, 1949",
+ "Accession Number": "C.I.49.38.2e, f",
+ "What": [
+  "Costume",
+  "Bags",
+  "Purses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80045761,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI49.38.2e.jpg",
+ "related-artworks": [
+  80000355,
+  80000810,
+  80000994,
+  80000996,
+  80001963
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80045761"
+  }
+ }
+}

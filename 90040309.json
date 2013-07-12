@@ -1,0 +1,38 @@
+{
+ "Former Attribution": "Formerly attributed to Giorgio Ghisi (Italian, Mantua ca. 1520–1582 Mantua)",
+ "Artist": "After Perino del Vaga (Pietro Buonaccorsi) (Italian, Florence 1501–1547 Rome)",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 7 3/4 x 10 3/8 in. (19.7 x 26.4 cm) trimmed to oval",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.620",
+ "Who": [
+  "Giorgio Ghisi",
+  "Perino del Vaga (Pietro Buonaccorsi)",
+  "Anonymous, Italian?, 16th century"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90040309,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP821518.jpg",
+ "related-artworks": [
+  90039825,
+  90040000,
+  90040308,
+  90040304,
+  90040305
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90040309"
+  }
+ }
+}

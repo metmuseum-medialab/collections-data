@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1870",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Rosewood, ash, white oak",
+ "Dimensions": "36 x 33 x 32 in. (91.4 x 83.8 x 81.3 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Rogers Fund, 1964",
+ "Accession Number": "64.237",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Oak",
+  "Rosewood",
+  "Easy chairs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10003587,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/181201.jpg",
+ "related-artworks": [
+  10003583,
+  10001866,
+  10007823,
+  10016120,
+  10000236
+ ],
+ "Provenance": [
+  "Theodore A. Merkt, Montville, New Jersey, until 1964"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003587"
+  }
+ }
+}

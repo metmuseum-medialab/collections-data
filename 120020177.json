@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1760",
+ "Culture": "British, Sheffield",
+ "Medium": "Sheffield plate and wood",
+ "Dimensions": "H. 10 5/8 in.  (27.0 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Frances and Edward Munves, 1964",
+ "Accession Number": "64.187.15",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Wood",
+  "Plate",
+  "Coffeepots"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Sheffield",
+  "South Yorkshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120020177,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/189518.jpg",
+ "related-artworks": [
+  120006247,
+  120006536,
+  120020168,
+  120025466,
+  120020167
+ ],
+ "Provenance": [
+  "Frances and Edward Munves (until 1964",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120020177"
+  }
+ }
+}

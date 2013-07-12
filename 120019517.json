@@ -1,0 +1,42 @@
+{
+ "Date": "ca. 1750",
+ "Culture": "Southern German",
+ "Medium": "Gilt-wood, ebony",
+ "Dimensions": "24 x 22 in.  (61.0 x 55.9 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Gift of Irwin Untermyer, 1964",
+ "Accession Number": "64.101.1230",
+ "What": [
+  "Gilt",
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Frames",
+  "Mirrors",
+  "Ebony"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "id": 120019517,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/194835.jpg",
+ "related-artworks": [
+  120003239,
+  120021717,
+  120058346,
+  120021806,
+  120023925
+ ],
+ "Provenance": [
+  "Irwin Untermyer , New York (until 1964)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120019517"
+  }
+ }
+}

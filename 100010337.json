@@ -1,0 +1,40 @@
+{
+ "Period": "Late Period–Ptolemaic Period",
+ "Dynasty": "Dynasty 26–30",
+ "Date": "664–30 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Dark green faience",
+ "Dimensions": "H. 0.038m",
+ "Credit Line": "Bequest of Mary Anna Palmer Draper, 1915",
+ "Accession Number": "15.43.19",
+ "What": [
+  "Faience",
+  "Amulets"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100010337,
+ "gallery-id": 130,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs15.43.19a.jpg",
+ "related-artworks": [
+  100000285,
+  100000287,
+  100000329,
+  100001310,
+  100001661
+ ],
+ "Provenance": [
+  "Bequeathed to the Museum by Mary Anna Palmer Draper, 1915."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100010337"
+  }
+ }
+}

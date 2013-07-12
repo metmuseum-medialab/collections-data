@@ -1,0 +1,36 @@
+{
+ "Date": "late 19th century",
+ "Culture": "African",
+ "Medium": "Gourd, leather",
+ "Classification": "Firearms Accessories",
+ "Credit Line": "Purchase, Rogers Fund, 1977",
+ "Accession Number": "1977.251.11",
+ "What": [
+  "Arms",
+  "Leather",
+  "Firearms",
+  "Accessories",
+  "Gourd"
+ ],
+ "Where": [
+  "Africa"
+ ],
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005101,
+ "related-artworks": [
+  40005100,
+  40005630,
+  40005102,
+  40008785,
+  40008806
+ ],
+ "Provenance": [
+  "Ex. Coll.: Bill Wright"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40005101"
+  }
+ }
+}

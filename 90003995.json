@@ -1,0 +1,43 @@
+{
+ "Date": "1784",
+ "Medium": "Gouache",
+ "Dimensions": "12 1/2 x 17 1/4 in.  (31.7 x 43.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1966",
+ "Accession Number": "66.54.1",
+ "Who": "Jean Démosthène Dugourc",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90003995,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP810346.jpg",
+ "related-artworks": [
+  90003997,
+  90064422,
+  120012666,
+  90051412,
+  90071701
+ ],
+ "Provenance": [
+  "Wildenstein & Co., Inc. (New York)",
+  "Peter Gregory",
+  "Ann Phillips",
+  "Parke-Bernet (New York)May 6-7, 1964, no. 285, repr.",
+  "Vendor: Herbert N. Bier (London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90003995"
+  }
+ }
+}

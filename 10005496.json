@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1740",
+ "Geography": "New England, Salem, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": [
+  "Overall 4 1/2 x 4 7/8 in. (11.4 x 12.4 cm); 8 oz. 6 dwt. (257.7 g)",
+  "Lip Diam. 2 7/8 in. (7.3 cm)",
+  "Foot Diam. 2 13/16 in. (7.1 cm)"
+ ],
+ "Classification": "Silver",
+ "Credit Line": "Bequest of Alphonso T. Clearwater, 1933",
+ "Accession Number": "33.120.271",
+ "Who": "Jeffrey Lang",
+ "What": [
+  "Metal",
+  "Silver",
+  "Drinking vessels",
+  "Cups",
+  "Canns"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Salem"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005496,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP105888.jpg",
+ "related-artworks": [
+  10006879,
+  10001440,
+  10001441,
+  10005469,
+  10005488
+ ],
+ "Provenance": [
+  "Alphonso T. Clearwater, Kingston, New York, until died 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005496"
+  }
+ }
+}

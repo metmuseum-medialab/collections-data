@@ -1,0 +1,45 @@
+{
+ "Date": "ca. 1896",
+ "Medium": "Commercial lithography",
+ "Dimensions": "sheet 11 7/8 x 16 in. (30.2 x 40.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Leonard A. Lauder Gift, 2002",
+ "Accession Number": "2002.223.10",
+ "Who": "Anonymous, American, 19th century",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90023166,
+ "Provenance": [
+  "Donor: Poster Auctions International, Inc."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90002082"
+   },
+   {
+    "href": "http://scrapi.org/object/90005201"
+   },
+   {
+    "href": "http://scrapi.org/object/90032872"
+   },
+   {
+    "href": "http://scrapi.org/object/90032914"
+   },
+   {
+    "href": "http://scrapi.org/object/90032915"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90023166"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90023166"
+  }
+ }
+}

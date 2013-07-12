@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1589",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "plate 6 1/8 x 4 1/8 in. (15.6 x 10.4 cm)",
+  "sheet 8 1/8 x 6 1/8 in. (20.7 x 15.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Phyllis Massar, 2011",
+ "Accession Number": "2012.136.471.12",
+ "Who": "Hendrick Goltzius",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Dutch and Flemish Artists in Rome, 1500–1600",
+  "Hendrick Goltzius (1558–1617)",
+  "The Rediscovery of Classical Antiquity",
+  "Low Countries, 1400–1600 A.D."
+ ],
+ "id": 90073666,
+ "related-artworks": [
+  90001882,
+  90003573,
+  90003654,
+  90005996,
+  90006977
+ ],
+ "Provenance": [
+  "Donor: Phyllis D. Massar"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90073666"
+  }
+ }
+}

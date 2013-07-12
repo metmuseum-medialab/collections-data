@@ -1,0 +1,43 @@
+{
+ "Artist": "Designed by François Boucher (French, Paris 1703–1770 Paris)",
+ "Date": "1783",
+ "Medium": "Etching and wash-manner engraving printed in color from four plates",
+ "Dimensions": [
+  "image 14 3/4 x 11 1/2 in. (37.5 x 29.2 cm)",
+  "sheet 17 7/16 x 12 5/16 in. (44.3 x 31.3 cm) clipped"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1935",
+ "Accession Number": "35.100.28",
+ "Who": [
+  "François Boucher",
+  "Jean François Janinet"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90019023,
+ "related-artworks": [
+  90019010,
+  90028276,
+  90055745,
+  90043609,
+  90098836
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90019023"
+  }
+ }
+}

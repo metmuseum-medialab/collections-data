@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Culture": "China",
+ "Medium": "Ceramic with amber glaze",
+ "Dimensions": "smallest 3/4 in. (1.9 cm)–largest: 4 1/2 in. (11.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. John R. Menke, 1982",
+ "Accession Number": "1982.464.7",
+ "What": [
+  "Ceramics",
+  "Glaze",
+  "Resin",
+  "Amber"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D.",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60052135,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/229611.jpg",
+ "related-artworks": [
+  60009709,
+  60012047,
+  60020608,
+  60020759,
+  60052130
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60052135"
+  }
+ }
+}

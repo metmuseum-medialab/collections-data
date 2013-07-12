@@ -1,0 +1,35 @@
+{
+ "Date": "1922",
+ "Medium": "Lithograph in red, blue, yellow, and black",
+ "Dimensions": "plate 10 15/16 x 9 1/16 inches (27.8 x 23.0 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1931",
+ "Accession Number": "31.10.17",
+ "Who": "Vasily Kandinsky",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90028214,
+ "related-artworks": [
+  90028054,
+  90041681,
+  90041705,
+  90041706,
+  90041695
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90028214"
+  }
+ }
+}

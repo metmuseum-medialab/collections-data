@@ -1,0 +1,62 @@
+{
+ "Date": "1555–1619",
+ "Medium": "Pen and brown ink, brush with brown and gray wash, highlighted with white, squared in black chalk",
+ "Dimensions": "9-1/16 x 14-13/16 in.  (23 x 37.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1968",
+ "Accession Number": "68.2",
+ "Who": "Giovanni Battista Trotti (\"Il Malosso\")",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90008016,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP812149.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90008019",
+  "http://scrapi.org/object/90008017",
+  "http://scrapi.org/object/90008018",
+  "http://scrapi.org/object/90009022",
+  "http://scrapi.org/object/90005243"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP812149.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/68.2.jpg"
+ ],
+ "Provenance": [
+  "Charles I, King of England, Scotland, Wales and Ireland (British, Dunfermline, Scotland 1600–1649 London)(according to Esdaile sale catalogue)",
+  "John Thane (British, London 1748–1818)(Lugt 1544)",
+  "Thomas Dimsdale",
+  "William Esdaile (British, 1758–1837 London)",
+  "Christie's, London(sale, June 18-23, 1840, part of no. 203)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90008019"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90008017"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90008018"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90009022"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90005243"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90008016"
+  }
+ }
+}

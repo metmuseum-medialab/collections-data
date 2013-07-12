@@ -1,0 +1,32 @@
+{
+ "Date": "1922–49",
+ "Medium": "Various media",
+ "Dimensions": "Various dimensions",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Cornelia Weininger, 1992",
+ "Accession Number": "1992.217.34",
+ "Who": "Andor Weininger",
+ "What": "Drawings",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210006210,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf.1992.217.34.jpg",
+ "related-artworks": [
+  210006198,
+  210006199,
+  210006197,
+  210006200,
+  210006201
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006210"
+  }
+ }
+}

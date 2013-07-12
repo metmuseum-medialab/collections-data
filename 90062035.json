@@ -1,0 +1,40 @@
+{
+ "Artist": "After Hendrick Goltzius (Netherlandish, Mühlbracht 1558–1617 Haarlem)",
+ "Medium": "Engraving; only state",
+ "Dimensions": "sheet 7 3/4 x 5 1/16 in. (19.7 x 12.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.601.336",
+ "Who": [
+  "Hendrick Goltzius",
+  "Lucas Vorsterman I"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Low Countries, 1400–1600 A.D.",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90062035,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820916.jpg",
+ "related-artworks": [
+  90032615,
+  90039637,
+  90039639,
+  90039640,
+  90039651
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90062035"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1908",
+ "Medium": "Charcoal on paper",
+ "Dimensions": "24 3/4 x 18 7/8 in. (62.9 x 47.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Alfred Stieglitz Collection, 1949",
+ "Accession Number": "49.70.216",
+ "Who": "Marius de Zayas",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Charcoal"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "Mexico and Central America, 1900 A.D.–present",
+  "Mexico and Central America Native Peoples, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210008673,
+ "related-artworks": [
+  210008647,
+  210008639,
+  210008641,
+  210008646,
+  210008674
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210008673"
+  }
+ }
+}

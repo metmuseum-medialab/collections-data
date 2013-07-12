@@ -1,0 +1,39 @@
+{
+ "Date": "1916",
+ "Culture": "Russian",
+ "Medium": "Wool",
+ "Dimensions": "72 x 102 in. (182.9 x 259.1 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift Mrs. Karl Kroeber in memory of Graham Romeyn Taylor, 1976",
+ "Accession Number": "2009.300.5866",
+ "What": [
+  "Costume",
+  "Wool",
+  "Outerwear",
+  "Shawls"
+ ],
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Anatolia and the Caucasus, 1900 A.D.–present",
+  "Eastern Europe and Scandinavia, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present"
+ ],
+ "id": 80108286,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/76.58_CP1.jpg",
+ "related-artworks": [
+  80038678,
+  80057397,
+  80062257,
+  80061894,
+  80062258
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108286"
+  }
+ }
+}

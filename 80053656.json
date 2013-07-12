@@ -1,0 +1,33 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Culture": "American or European",
+ "Medium": "feathers, plastic",
+ "Dimensions": "Height 22 in. (55.9 cm)",
+ "Credit Line": "Gift of Mrs. Janos Scholz (Helen Marshall), 1978",
+ "Accession Number": "1978.583.14",
+ "What": [
+  "Costume",
+  "Plastic",
+  "Fans",
+  "Feather"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80053656,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1978.583.14.jpg",
+ "related-artworks": [
+  80031806,
+  80031816,
+  80031819,
+  80034828,
+  80034830
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80053656"
+  }
+ }
+}

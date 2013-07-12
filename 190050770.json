@@ -1,0 +1,60 @@
+{
+ "Date": "1986",
+ "Medium": "Platinum print",
+ "Dimensions": [
+  "Image 42.6 x 16 cm (16 3/4 x 6 5/16 in.)",
+  "Sheet 48.6 x 21 cm (19 1/8 x 8 1/4 in.)"
+ ],
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Susan and Arthur Fleischer Jr., 2011",
+ "Accession Number": "2011.555.11",
+ "Who": "Lois Conner",
+ "What": [
+  "Photographs",
+  "Platinum prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 190050770,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP273656.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/190016651",
+  "http://scrapi.org/object/190016910",
+  "http://scrapi.org/object/190016905",
+  "http://scrapi.org/object/190016906",
+  "http://scrapi.org/object/190016907"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Lois Conner",
+  "[Lawrence Miller Gallery, New York]",
+  "Arthur Fleischer, Jr."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190016651"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190016910"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190016905"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190016906"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/190016907"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190050770"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Period": "Cypro-Archaic II",
+ "Date": "ca. 600–480 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Terracotta; wheel-made",
+ "Dimensions": "diameter  6 1/2 in. (16.5 cm)",
+ "Classification": "Vases",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.1260",
+ "What": [
+  "Costume",
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Armor",
+  "Shields"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130001313,
+ "gallery-id": 174,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/GR706_74.51.1260.jpg",
+ "related-artworks": [
+  130000512,
+  130005225,
+  130001549,
+  130000429,
+  130000432
+ ],
+ "Description": "The shield is decorated with a scale pattern and has a painted projection in the center. During the Archaic period, clay models of shields were offered in sanctuaries and tombs. This practice speaks for the rarity of bronze, out of which an actual shield would have been made.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130001313"
+  }
+ }
+}

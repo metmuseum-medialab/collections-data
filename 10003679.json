@@ -1,0 +1,50 @@
+{
+ "Date": "1772",
+ "Geography": "Mid-Atlantic, New Hackensack, New York, United States",
+ "Culture": "American",
+ "Medium": "Sweet gum, oak",
+ "Dimensions": "89 1/2 x 40 1/2 in. (227.3 x 102.9 cm)",
+ "Classification": "Architecture",
+ "Credit Line": "Gift of Mrs. Joseph Tuckerman Tower, 1934",
+ "Accession Number": "34.79a, b",
+ "What": [
+  "Wood",
+  "Oak",
+  "Doors",
+  "Eucalyptus",
+  "Gumwood",
+  "Sweet gum"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New Hackensack"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Architecture, Furniture, and Silver from Colonial Dutch America",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10003679,
+ "gallery-id": 711,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP105044.jpg",
+ "related-artworks": [
+  10004396,
+  10005782,
+  10000214,
+  10001854,
+  10001855
+ ],
+ "Provenance": [
+  "Stephen Thorn, New Hackensack, New York",
+  "Mrs. Joseph Tuckerman Tower, Millbrook, New York, until 1934"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10003679"
+  }
+ }
+}

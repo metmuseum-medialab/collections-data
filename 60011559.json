@@ -1,0 +1,45 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Nephrite, a mixture of pear-leaf-green with rich dark green and light greenish-gray",
+ "Dimensions": "H. 4 3/4 in. (12 cm); W. 5 11/16 in. (14.5 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.656a, b",
+ "What": [
+  "Glass",
+  "Wood",
+  "Jade",
+  "Nephrite",
+  "Incense burners",
+  "Pear",
+  "Batch"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "id": 60011559,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/02_18_656_15011.jpg",
+ "related-artworks": [
+  60011560,
+  60011538,
+  60011447,
+  60011536,
+  60009559
+ ],
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60011559"
+  }
+ }
+}

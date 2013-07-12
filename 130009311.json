@@ -1,0 +1,47 @@
+{
+ "Period": "Archaic",
+ "Date": "6th century B.C.",
+ "Culture": "Lydian",
+ "Medium": "Terracotta",
+ "Dimensions": [
+  "H. 4 1/4 in. (10.8 cm)",
+  "diameter  9 5/16 in. (23.7 cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Gift of The American Society for the Exploration of Sardis, 1914",
+ "Accession Number": "14.30.12",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Bowls"
+ ],
+ "Where": [
+  "Asia",
+  "Turkey",
+  "Lydia"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009311,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP130707.jpg",
+ "related-artworks": [
+  130009300,
+  130009313,
+  130009317,
+  130009563,
+  130009299
+ ],
+ "Provenance": [
+  "Excavated at Sardis"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009311"
+  }
+ }
+}

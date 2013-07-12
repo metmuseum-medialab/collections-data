@@ -1,0 +1,51 @@
+{
+ "Date": "ca. 1470–80",
+ "Culture": "Italian (Milan)",
+ "Medium": "Steel",
+ "Dimensions": "Wt. 6 lb. 9 oz. (2989 g)",
+ "Classification": "Helmets",
+ "Credit Line": "Rogers Fund, 1904",
+ "Accession Number": "04.3.232",
+ "What": [
+  "Metal",
+  "Costume",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Armor",
+  "Body armor",
+  "Helmets",
+  "Sallets"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Lombardy",
+  "Milan"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Fashion in European Armor, 1400–1500",
+  "Venice and Northern Italy, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 40003670,
+ "image": "http://images.metmuseum.org/CRDImages/aa/original/DP22334.jpg",
+ "related-artworks": [
+  40006362,
+  40003669,
+  40003668,
+  40004732,
+  40000173
+ ],
+ "Provenance": [
+  "Ex colls.:  Constantine Ressman, Florence",
+  "Maurice de Talleyrand-Périgord, duc de Dino, Paris"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40003670"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Design House": "Miyake Design Studio (Japanese)",
+ "Date": "1989",
+ "Culture": "Japanese",
+ "Medium": "wool",
+ "Dimensions": "Length at CB 43 in. (109.2 cm)",
+ "Credit Line": "Gift of Muriel Kallis Newman, 2003",
+ "Accession Number": "2003.79.3",
+ "Who": [
+  "Issey Miyake",
+  "Miyake Design Studio"
+ ],
+ "What": [
+  "Costume",
+  "Wool",
+  "Dresses"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Miyake, Kawakubo, and Yamamoto Japanese Fashion in the Twentieth Century",
+  "Japan, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80009820,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DP108255.jpg",
+ "related-artworks": [
+  80002502,
+  80032723,
+  80032724,
+  80032727,
+  80051502
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80009820"
+  }
+ }
+}

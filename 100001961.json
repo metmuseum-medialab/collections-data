@@ -1,0 +1,44 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 12",
+ "Reign": "reign of Senwosret I",
+ "Date": "ca. 1961–1917 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht South, Pyramid Temple of Senwosret I, MMA 1908–1909",
+ "Medium": "Limestone, paint",
+ "Dimensions": "H. 30.5 x W. 22.9 cm (12 x 9 in.)",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.180.2566",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Reliefs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100001961,
+ "gallery-id": 110,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs09.180.40.jpg",
+ "related-artworks": [
+  100000347,
+  100000348,
+  100000349,
+  100000351,
+  100000405
+ ],
+ "Description": "One of hundreds of relief fragments from the funerary complex of Senwosret I at Lisht, this depicts the head of a god from a procession of deities. He wears a full wig that divides to fall down his back and in front of his shoulders, and the long, curled beard of divinity. Displayed to his right is a figure of the harvest goddess Renenutet; to his left is the desert god Soped, followed by a third god.These reliefs, combining the vigor and liveliness of the 11th Dynasty Theban tradition with the elegance and refinement characteristic of the Old Kingdom temples in the Memphite region, illustrate the artistic heights reaced under Senwosret I.",
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100001961"
+  }
+ }
+}

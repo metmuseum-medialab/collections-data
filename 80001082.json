@@ -1,0 +1,46 @@
+{
+ "Designer": "Karl Lagerfeld (French, born Hamburg, 1938)",
+ "Date": "early 1990s",
+ "Culture": "French",
+ "Medium": "plastic, metal",
+ "Dimensions": "Length 12 1/2 in. (31.8 cm)",
+ "Credit Line": "Purchase, Bunka Fashion College Gift and Judith and Gerson Leiber Fund, 1995",
+ "Accession Number": "1995.376.2",
+ "Who": [
+  "House of Chanel",
+  "Karl Lagerfeld"
+ ],
+ "What": [
+  "Metal",
+  "Plastic",
+  "Eyeglasses",
+  "Sunglasses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Dressing for the Cocktail Hour",
+  "Gabrielle \"Coco\" Chanel (1883–1971) and the House of Chanel",
+  "Costume in The Metropolitan Museum of Art",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80001082,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1995.376.2.jpg",
+ "related-artworks": [
+  80004944,
+  80004950,
+  80004952,
+  80004953,
+  80009541
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001082"
+  }
+ }
+}

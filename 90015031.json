@@ -1,0 +1,31 @@
+{
+ "Publisher": "Published by Giovanni de Rossi (Italian, 17th century)",
+ "Date": "1676 or later",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.603.1",
+ "Who": [
+  "Giovanni de Rossi",
+  "Albertus Clouwet"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90015031,
+ "related-artworks": [
+  90054155,
+  90012940,
+  90087711,
+  90054154
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90015031"
+  }
+ }
+}

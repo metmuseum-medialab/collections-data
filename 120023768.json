@@ -1,0 +1,45 @@
+{
+ "Date": "late 15th century",
+ "Culture": "Northern Italian",
+ "Medium": "Bronze",
+ "Dimensions": "1 7/8 x 4 11/16 in. (4.7 x 11.9 cm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "The Erich Lederer Collection, Gift of Mrs. Erich Lederer, 1986",
+ "Accession Number": "1986.319.40",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes",
+  "Friezes"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120023768,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/241041.jpg",
+ "related-artworks": [
+  120005369,
+  120005757,
+  120005759,
+  120005761,
+  120005762
+ ],
+ "Provenance": [
+  "Seymour de Ricci",
+  "[ sale, Sotheby's, London , November 17, 1970, no. 54 ]",
+  "Erich Lederer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120023768"
+  }
+ }
+}

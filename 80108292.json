@@ -1,0 +1,36 @@
+{
+ "Date": "1937",
+ "Culture": "British",
+ "Medium": "Wool, silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Stanley Mortimer, 1976",
+ "Accession Number": "2009.300.5872",
+ "Who": "Walter Barnard & Son",
+ "What": [
+  "Costume",
+  "Silk",
+  "Wool",
+  "Hats",
+  "Fedoras"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "id": 80108292,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/76.138.27_CP2.jpg",
+ "related-artworks": [
+  80108003,
+  80108291,
+  80044538,
+  80043466,
+  80044567
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108292"
+  }
+ }
+}

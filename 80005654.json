@@ -1,0 +1,37 @@
+{
+ "Date": "1700–1750",
+ "Culture": "British",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 25 in. (63.5 cm)",
+ "Credit Line": "Isabel Shults Fund, 1986",
+ "Accession Number": "1986.179.1",
+ "What": [
+  "Costume",
+  "Silk",
+  "Furniture",
+  "Beds",
+  "Bed jackets"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80005654,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1986.179.1_F.jpg",
+ "related-artworks": [
+  80037051,
+  80036945,
+  80037036,
+  80037019,
+  80037060
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80005654"
+  }
+ }
+}

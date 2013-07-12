@@ -1,0 +1,43 @@
+{
+ "Period": "Late Cypriot",
+ "Date": "ca. 15th–12th century B.C.",
+ "Geography": "Cyprus",
+ "Culture": "Cypriot",
+ "Medium": "Steatite (?)",
+ "Dimensions": "0.75 in. (1.91 cm)",
+ "Classification": "Stone",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.4326",
+ "What": [
+  "Stone",
+  "Seals",
+  "Talc",
+  "Steatite",
+  "Cylinder seals"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 2000–1000 B.C.",
+ "id": 30000038,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss74_51_4326.jpg",
+ "related-artworks": [
+  30000039,
+  30000050,
+  30001035,
+  30000015,
+  30000017
+ ],
+ "Provenance": [
+  "Said to be from Amathus, Cyprus. \r\n1865–1872, found in Cyprus by General Luigi Palma di Cesnola",
+  "acquired by the Museum in 1874, purchased from General Luigi Palma di Cesnola."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30000038"
+  }
+ }
+}

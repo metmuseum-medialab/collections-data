@@ -1,0 +1,42 @@
+{
+ "Period": "Archaic",
+ "Date": "ca. 500 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; black-figure",
+ "Dimensions": "H. 4 3/16 in. (10.6 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Purchase, Richard A. Van Every Gift , 1964",
+ "Accession Number": "64.11.3",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Skyphoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130015664,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP119389.jpg",
+ "related-artworks": [
+  130005337,
+  130013676,
+  130014885,
+  130014886,
+  130015104
+ ],
+ "Description": "Obverse, between hunters, lioness felling fallow deerReverse, between hunters, lion felling deerThis vase gives noteworthy testimony to the persistence of tradition in Attic vase-painting. Introduced from the Near East and depicted as early as Geometric vases, the motif of a feline felling a bull or deer appears here in mannerly, decorative form. The hunters to either side reflect the predilection for symmetrical compositions with decorative elements, figural or floral, at the handles. The shape of the skyphos readily accommodates the narrative frieze.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130015664"
+  }
+ }
+}

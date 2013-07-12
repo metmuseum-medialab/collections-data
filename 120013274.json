@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1730",
+ "Culture": "German (Meissen)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. with cover 20 in. (50.8 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of Rev. Alfred Duane Pell, 1925",
+ "Accession Number": "38.166.1a, b",
+ "Who": "Meissen Manufactory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Faience",
+  "Porcelain",
+  "Vases",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Saxony",
+  "Meissen"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013274,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF38_166_1_img2.jpg",
+ "related-artworks": [
+  120018625,
+  120018638,
+  120006245,
+  120013275,
+  120014195
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013274"
+  }
+ }
+}

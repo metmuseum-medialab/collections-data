@@ -1,0 +1,35 @@
+{
+ "Date": "1952",
+ "Medium": "Lithograph",
+ "Dimensions": "image 14 x 18 inches (35.6 x 45.7 cm) sheet: 16 x 21 1/4 inches (40.6 x 54.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Colleciton, The Elisha Whittelsey Fund, 1963",
+ "Accession Number": "63.509.8",
+ "Who": "Adolf Dehn",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90046929,
+ "related-artworks": [
+  90046910,
+  90046911,
+  90046914,
+  90046912,
+  90046915
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90046929"
+  }
+ }
+}

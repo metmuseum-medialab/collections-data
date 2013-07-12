@@ -1,0 +1,34 @@
+{
+ "Publisher": "N. G. Burgess & Co. (Cincinnati, Ohio)",
+ "Date": "1839",
+ "Dimensions": "12 x 9 1/2 in. (30.5 x 24.1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1954",
+ "Accession Number": "54.524.76",
+ "Who": [
+  ". G. Burgess & Co.",
+  "J. A. Cleveland"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90015025,
+ "related-artworks": [
+  90000882,
+  90003457,
+  90004101,
+  90004257,
+  90004888
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90015025"
+  }
+ }
+}

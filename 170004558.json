@@ -1,0 +1,46 @@
+{
+ "Date": "14th century",
+ "Geography": "Made in Limoges, France",
+ "Culture": "French or Italian",
+ "Medium": "Champlevé enamel, copper-gilt",
+ "Dimensions": "Overall 2 1/16 x 1 1/8 x 1 1/4 in. (5.2 x 2.9 x 3.2 cm)",
+ "Classification": "Enamels",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.797",
+ "What": [
+  "Metal",
+  "Gilt",
+  "Copper",
+  "Enamels",
+  "Seals",
+  "Champlevé"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Limousin",
+  "Limoges"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004558,
+ "gallery-id": 307,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-797s09.jpg",
+ "related-artworks": [
+  170004195,
+  170003530,
+  170003870,
+  170003867,
+  170003868
+ ],
+ "Provenance": [
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004558"
+  }
+ }
+}

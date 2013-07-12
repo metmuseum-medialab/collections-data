@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1888",
+ "Geography": "New England, East Cambridge, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Blown glass",
+ "Dimensions": "H. 4 3/8 in. (11.1 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Emily Winthrop Miles, 1946",
+ "Accession Number": "46.140.528",
+ "Who": "New England Glass Company",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Blown glass",
+  "Drinking glasses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Cambridge",
+  "East Cambridge"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10007702,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/176277.jpg",
+ "related-artworks": [
+  10004200,
+  10006993,
+  10006994,
+  10006995,
+  10007701
+ ],
+ "Provenance": [
+  "Mrs. Emily Winthrop Miles, New York, until 1946"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10007702"
+  }
+ }
+}

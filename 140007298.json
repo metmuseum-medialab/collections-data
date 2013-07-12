@@ -1,0 +1,47 @@
+{
+ "Object Name": "Button or bead",
+ "Date": "9th–10th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Bone; incised and inlaid with paint",
+ "Dimensions": [
+  "H. 1/2 in. (1.2 cm)",
+  "Diam. 9/16 in. (1.5 cm)"
+ ],
+ "Classification": "Ivories and Bone",
+ "Credit Line": "Rogers Fund, 1940",
+ "Accession Number": "40.170.336",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Beads",
+  "Buttons"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140007298,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf40-170-336z.jpg",
+ "related-artworks": [
+  140006497,
+  140006510,
+  140006515,
+  140006533,
+  140006534
+ ],
+ "Provenance": [
+  "1937–39, excavated in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1940, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007298"
+  }
+ }
+}

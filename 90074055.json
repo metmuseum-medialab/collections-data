@@ -1,0 +1,38 @@
+{
+ "Date": "19th century",
+ "Medium": "Hand-colored lithograph",
+ "Dimensions": "sheet 11 5/8 x 8 5/8 in. (29.5 x 21.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. H.J. Bernheim, 1958",
+ "Accession Number": "58.646.15",
+ "Who": "Hélöise Leloir",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90074055,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP819130.jpg",
+ "related-artworks": [
+  90074057,
+  90074054,
+  90074068,
+  90060495
+ ],
+ "Provenance": [
+  "Donor: Mrs. Henry J. Bernheim"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90074055"
+  }
+ }
+}

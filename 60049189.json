@@ -1,0 +1,49 @@
+{
+ "Date": "14th century",
+ "Culture": "Nepal (Kathmandu Valley)",
+ "Medium": "Ink and color on palm leaves",
+ "Dimensions": "1 7/8 x 11 3/4 in. (4.8 x 29.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Rogers Fund, 1955",
+ "Accession Number": "55.121.37.7",
+ "What": [
+  "Ink",
+  "Paintings"
+ ],
+ "Where": [
+  "Asia",
+  "Nepal",
+  "Kathmandu Valley"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Himalayan Region, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60049189,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/55_121_37_7.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60049187"
+   },
+   {
+    "href": "http://scrapi.org/object/60004733"
+   },
+   {
+    "href": "http://scrapi.org/object/60049185"
+   },
+   {
+    "href": "http://scrapi.org/object/60049188"
+   },
+   {
+    "href": "http://scrapi.org/object/60004732"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60049189"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60049189"
+  }
+ }
+}

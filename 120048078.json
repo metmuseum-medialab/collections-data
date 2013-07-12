@@ -1,0 +1,37 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian (Venice)",
+ "Medium": "Silk",
+ "Dimensions": "Overall 24 1/2 x 9 in. (62.2 x 22.9 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Nanette B. Kelekian, in honor of Olga Raggio, 2002",
+ "Accession Number": "2002.494.361",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "id": 120048078,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP103591.jpg",
+ "related-artworks": [
+  120048051,
+  120048120,
+  120048298,
+  120048328,
+  120037271
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120048078"
+  }
+ }
+}

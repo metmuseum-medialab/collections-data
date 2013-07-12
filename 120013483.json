@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1770",
+ "Culture": "British, Worcester",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "H. with cover 5 3/8 in. (13.7 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Luke Vincent Lockwood, 1939",
+ "Accession Number": "39.140.129 ab",
+ "Who": "Worcester",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Soft paste porcelain",
+  "Teapots"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Worcestershire",
+  "Worcester"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013483,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/119754.jpg",
+ "related-artworks": [
+  120002985,
+  120013405,
+  120013427,
+  120013514,
+  120014092
+ ],
+ "Provenance": [
+  "[ A.E. Perry , London, before 1939",
+  "sold to Lockwood ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013483"
+  }
+ }
+}

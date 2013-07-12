@@ -1,0 +1,73 @@
+{
+ "Manufacturer": "Manufactured by Noritake (1904–present)",
+ "Date": "ca. 1922",
+ "Geography": "Japan",
+ "Culture": "American, Japanese",
+ "Medium": "Porcelain",
+ "Dimensions": "Diam. 6 3/8 in. (16.2 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mr. and Mrs. Roger G. Kennedy, 1978",
+ "Accession Number": "1978.501.8",
+ "Who": [
+  "Frank Lloyd Wright",
+  "Noritake"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Dishes",
+  "Plates",
+  "Bread-and-butter plates"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "America Comes of Age 1876–1900",
+  "Art Nouveau",
+  "The Arts and Crafts Movement in America",
+  "Frank Lloyd Wright (1867–1959)",
+  "Design, 1900–25",
+  "Japan, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10001049,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/215358.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ad/original/215358.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/215156.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/ADA2580.jpg"
+ ],
+ "Provenance": [
+  "Mr. and Mrs. Roger G. Kennedy, New York, until 1978"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10001050"
+   },
+   {
+    "href": "http://scrapi.org/object/10003278"
+   },
+   {
+    "href": "http://scrapi.org/object/10007100"
+   },
+   {
+    "href": "http://scrapi.org/object/10007464"
+   },
+   {
+    "href": "http://scrapi.org/object/10007465"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10001049"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10001049"
+  }
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "Date": "1765–70",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 52 in. (132.1 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Peter T. Denker, 1961",
+ "Accession Number": "2009.300.854",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Robes",
+  "Robe à la française"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 80097286,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/61.173.1_front_CP4.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80097104",
+  "http://scrapi.org/object/80097287",
+  "http://scrapi.org/object/80097340",
+  "http://scrapi.org/object/80097353",
+  "http://scrapi.org/object/80003690"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/61.173.1_front_CP4.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/61.173.1_back_CP4.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/61.173.1_detail_CP4.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/61.173.1_side_CP4.jpg"
+ ],
+ "Description": "The striped textile here is indicative of the change in aesthetics around 1765 to a more neoclassical taste, less florid than the silks of the decades prior to them.Women with coquettish airs were imposing in robes à la française and robes à l'anglaise throughout the period between 1720 and 1780.  The robe à la française was derived from the loose negligee sacque dress of the earlier part of the century, which was pleated from the shoulders at the front at the back.  The silhouette, composed of a funnel-shaped bust feeding into wide rectangular skirts, was inspired by Spanish designs of the previous century and allowed for expansive amounts of textiles with delicate Rococo curvilinear decoration.  The wide skirts, which were often open at the front to expose a highly decorated underskirt, were supported by panniers created from padding and hoops of different materials such as cane, baleen or metal.  The robes à la française are renowned for the beauty of their textiles, the cut of the back employing box pleats and skirt decorations, known as robings, which showed endless imagination and variety.",
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80097104"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80097287"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80097340"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80097353"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80003690"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80097286"
+  }
+ }
+}

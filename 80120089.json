@@ -1,0 +1,34 @@
+{
+ "Date": "1942–52",
+ "Culture": "American",
+ "Medium": "silk",
+ "Credit Line": "Gift of Patricia Pastor and Barry Friedman, 2012",
+ "Accession Number": "2012.538.15",
+ "Who": "Gilbert Adrian",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80120089,
+ "related-artworks": [
+  80002942,
+  80004324,
+  80004326,
+  80004337,
+  80004334
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80120089"
+  }
+ }
+}

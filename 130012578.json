@@ -1,0 +1,44 @@
+{
+ "Period": "Middle Minoan I",
+ "Date": "ca. 2200-1900 B.C.",
+ "Culture": "Minoan",
+ "Medium": "Serpentine",
+ "Dimensions": "L. 1.45 cm; W. of each face 1 cm",
+ "Classification": "Gems",
+ "Credit Line": "Bequest of Richard B. Seager, 1926",
+ "Accession Number": "26.31.137",
+ "What": [
+  "Seals",
+  "Gems",
+  "Serpentine"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades",
+  "Minoa"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southern Europe, 8000–2000 B.C.",
+  "Southern Europe, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130012578,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP114375.jpg",
+ "related-artworks": [
+  130012523,
+  130012451,
+  130012452,
+  130012453,
+  130012460
+ ],
+ "Description": "Scorpion, man, 2 insects",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130012578"
+  }
+ }
+}

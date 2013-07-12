@@ -1,0 +1,52 @@
+{
+ "Date": "1850–59",
+ "Culture": "possibly Swiss",
+ "Medium": "Wool",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Gunnar Maske, 1969",
+ "Accession Number": "2009.300.5671",
+ "What": [
+  "Costume",
+  "Wool",
+  "Outerwear",
+  "Shawls"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 80108098,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/69.13.4_CP2.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80096204",
+  "http://scrapi.org/object/80094383",
+  "http://scrapi.org/object/80094868",
+  "http://scrapi.org/object/80094994",
+  "http://scrapi.org/object/80095011"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80096204"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80094383"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80094868"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80094994"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80095011"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80108098"
+  }
+ }
+}

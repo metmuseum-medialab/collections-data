@@ -1,0 +1,42 @@
+{
+ "Date": "late 19th–early 20th century",
+ "Geography": "Papua New Guinea, Burume village, Upper Sepik, May River",
+ "Culture": "Iwam people",
+ "Medium": "Wood",
+ "Dimensions": "H. 110 x W. 12 in. (279.4 x 30.5 cm)",
+ "Classification": "Wood-Musical Instruments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.1764a, b",
+ "What": [
+  "Musical instruments",
+  "Idiophones",
+  "Gongs"
+ ],
+ "Where": [
+  "Oceania",
+  "Papua New Guinea"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Melanesia, 1900 A.D.–present",
+  "Melanesia, 1800–1900 A.D."
+ ],
+ "id": 50006643,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/VS1979_206_1764.jpg",
+ "related-artworks": [
+  50003755,
+  50003842,
+  50003843,
+  50003883,
+  50004553
+ ],
+ "Provenance": [
+  "Warren K. Hanson, Papua New Guinea, until 1966",
+  "Nelson A. Rockefeller, New York, 1966, on loan to The Museum of Primitive Art, New York, 1966–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50006643"
+  }
+ }
+}

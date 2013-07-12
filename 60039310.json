@@ -1,0 +1,51 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Culture": "China",
+ "Medium": "Silk; lined with silk",
+ "Dimensions": "Overall 38 3/4 x 52 1/4 in. (98.4 x 132.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.74b",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1900 A.D.–present",
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "id": 60039310,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60006609"
+   },
+   {
+    "href": "http://scrapi.org/object/60006611"
+   },
+   {
+    "href": "http://scrapi.org/object/60006612"
+   },
+   {
+    "href": "http://scrapi.org/object/60006770"
+   },
+   {
+    "href": "http://scrapi.org/object/60006771"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60039310"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60039310"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "20th century",
+ "Geography": "Cameroon",
+ "Medium": "Pebbles, sticks, fiber, wood",
+ "Dimensions": "14 x 12 1/2 x 1 in.",
+ "Classification": "Idiophone-Shaken",
+ "Credit Line": "Gift of Mark Rapoport, MD and Jane Hughes, 2000",
+ "Accession Number": "2000.620.43",
+ "What": [
+  "Musical instruments",
+  "Idiophones",
+  "Rattles"
+ ],
+ "Where": [
+  "Africa",
+  "Cameroon"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Central Africa, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 180015852,
+ "related-artworks": [
+  180015309,
+  180015844,
+  180015846,
+  180015847,
+  180016283
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180015852"
+  }
+ }
+}

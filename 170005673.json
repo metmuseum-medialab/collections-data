@@ -1,0 +1,41 @@
+{
+ "Date": "600–700",
+ "Geography": "Made in Niederbreisig, Germany",
+ "Culture": "Frankish",
+ "Medium": "Glass with yellow interior",
+ "Dimensions": "Overall 3/8 x 1 1/4 in. (1 x 3.2 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.193.47",
+ "What": [
+  "Glass",
+  "Beads"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170005673,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-193-47s1.jpg",
+ "related-artworks": [
+  170005500,
+  170005696,
+  170005350,
+  170005442,
+  170005451
+ ],
+ "Provenance": [
+  "Friedrich Queckenberg, Niederbreisig, Germany",
+  "Joseph Queckenberg, Niederbreisig, Germany",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005673"
+  }
+ }
+}

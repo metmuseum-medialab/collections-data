@@ -1,0 +1,41 @@
+{
+ "Period": "Ming (1368–1644) or Qing dynasty (1644–1911)",
+ "Culture": "China",
+ "Medium": "Handscroll; ink and color on paper",
+ "Dimensions": "11 3/8 x 130 1/4 in. (28.9 x 330.8 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947",
+ "Accession Number": "47.18.8",
+ "Who": "Zha Shibiao",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Handscrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1000–1400 A.D.",
+  "Central and North Asia, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60022542,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP201277_CRD.jpg",
+ "related-artworks": [
+  60019775,
+  60000015,
+  60022398
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60022542"
+  }
+ }
+}

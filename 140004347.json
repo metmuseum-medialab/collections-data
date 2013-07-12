@@ -1,0 +1,66 @@
+{
+ "Date": "probably 12th century",
+ "Geography": "Syria, Raqqa",
+ "Medium": "Stonepaste; underglaze-painted",
+ "Dimensions": [
+  "Diam. 10 3/8 in. (26.4 cm);",
+  "H. 3 1/8 in. (7.9 cm)",
+  "H. 3 1/8 inl (7.9 cm)",
+  "Diam. 10 3/8 in. (26. 4 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.52.3",
+ "What": [
+  "Ceramics",
+  "Painting",
+  "Bowls",
+  "Underglazing"
+ ],
+ "Where": [
+  "Asia",
+  "Syria",
+  "Raqqa"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140004347,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/ISL113.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/is/original/ISL113.jpg",
+  "http://images.metmuseum.org/CRDImages/is/original/20.52.3 bowl.jpg",
+  "http://images.metmuseum.org/CRDImages/is/original/sf20-52-3a.jpg",
+  "http://images.metmuseum.org/CRDImages/is/original/sf20-52-3b.jpg"
+ ],
+ "Provenance": [
+  "[ Dikran G. Kelekian, New York, until 1920",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/140001654"
+   },
+   {
+    "href": "http://scrapi.org/object/140002192"
+   },
+   {
+    "href": "http://scrapi.org/object/140003140"
+   },
+   {
+    "href": "http://scrapi.org/object/140007712"
+   },
+   {
+    "href": "http://scrapi.org/object/140007713"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140004347"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/140004347"
+  }
+ }
+}

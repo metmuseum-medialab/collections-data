@@ -1,0 +1,52 @@
+{
+ "Date": "16th century",
+ "Culture": "Spanish",
+ "Medium": "Silk",
+ "Dimensions": "15 1/2 x 17 3/4 inches (39.4 x 45.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2081",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "id": 120034559,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/84549.jpg",
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120030655"
+   },
+   {
+    "href": "http://scrapi.org/object/120030870"
+   },
+   {
+    "href": "http://scrapi.org/object/120030871"
+   },
+   {
+    "href": "http://scrapi.org/object/120030873"
+   },
+   {
+    "href": "http://scrapi.org/object/120030863"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120034559"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120034559"
+  }
+ }
+}

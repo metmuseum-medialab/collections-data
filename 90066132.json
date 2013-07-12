@@ -1,0 +1,41 @@
+{
+ "Artist": "After Parmigianino (Girolamo Francesco Maria Mazzola) (Italian, Parma 1503–1540 Casalmaggiore)",
+ "Date": "16th century",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 10 13/16 x 8 3/16 in. (27.5 x 20.8 cm)",
+  "sheet 11 x 8 1/4 in. (27.9 x 21 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1927",
+ "Accession Number": "27.78.2",
+ "Who": [
+  "Anonymous, Italian, 16th century",
+  "Parmigianino (Girolamo Francesco Maria Mazzola)"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90066132,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP826206.jpg",
+ "related-artworks": [
+  90066140,
+  90066160,
+  90066141,
+  90066146,
+  90066168
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90066132"
+  }
+ }
+}

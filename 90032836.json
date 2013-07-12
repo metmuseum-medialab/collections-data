@@ -1,0 +1,49 @@
+{
+ "Date": "1645",
+ "Dimensions": "Overall 12 3/16 × 20 1/2 × 13/16 in. (31 × 52 × 2.1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, transferred from the Library, 1947",
+ "Accession Number": "47.188",
+ "Who": "François Perrier",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90032836,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP294662.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/dp/original/DP294662.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/DP294693.jpg",
+  "http://images.metmuseum.org/CRDImages/dp/original/DP298934.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90005266"
+   },
+   {
+    "href": "http://scrapi.org/object/90108375"
+   },
+   {
+    "href": "http://scrapi.org/object/90108376"
+   },
+   {
+    "href": "http://scrapi.org/object/90108377"
+   },
+   {
+    "href": "http://scrapi.org/object/90108378"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90032836"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90032836"
+  }
+ }
+}

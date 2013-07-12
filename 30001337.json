@@ -1,0 +1,46 @@
+{
+ "Period": "Sasanian–early Islamic",
+ "Date": "ca. 6th–8th century A.D.",
+ "Geography": "Mesopotamia, Ctesiphon",
+ "Culture": "Sasanian or Islamic",
+ "Medium": "Stucco",
+ "Dimensions": "9.5 x 5.25 in. (24.13 x 13.34 cm)",
+ "Classification": "Stucco",
+ "Credit Line": "Rogers Fund, 1932",
+ "Accession Number": "32.150.62",
+ "Who": "Sasanian",
+ "What": [
+  "Sculpture",
+  "Fragments",
+  "Reliefs",
+  "Plaster",
+  "Stucco"
+ ],
+ "Where": [
+  "Asia",
+  "Iraq",
+  "Ctesiphon"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Mesopotamia, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30001337,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ME31_150_62.jpg",
+ "related-artworks": [
+  30001327,
+  30001328,
+  30001329,
+  30001330,
+  30001331
+ ],
+ "Provenance": [
+  "1931–32, excavated by the Joint Expedition of the Staatliche Museen of Berlin and the Metropolitan Museum of Art",
+  "acquired by the Museum in 1932, ceded in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30001337"
+  }
+ }
+}

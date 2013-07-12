@@ -1,0 +1,26 @@
+{
+ "Date": "late 19th century",
+ "Medium": "Photomechanical process",
+ "Dimensions": "9 15/16 x 7 7/8 in. (25.3 x 20 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.561.4",
+ "Who": "W. & W. K. White",
+ "What": "Books",
+ "When": "A.D. 1-500",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90092340,
+ "related-artworks": [
+  90077645,
+  90078116,
+  90078124,
+  90078127,
+  90078128
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90092340"
+  }
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "Date": "Datable to the 1930s",
+ "Culture": "China",
+ "Medium": "Drawing mounted as a hanging scroll; ink on tracing paper",
+ "Dimensions": "Overall 36 3/4 x 13 5/8 in. (93.3 x 34.6 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Sarah Shay, 2005",
+ "Accession Number": "2005.411.85",
+ "Who": "Xie Zhiliu",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60046981,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP224437.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/60046845",
+  "http://scrapi.org/object/60046850",
+  "http://scrapi.org/object/60046865",
+  "http://scrapi.org/object/60046858",
+  "http://scrapi.org/object/60046924"
+ ],
+ "related-images": [],
+ "Description": "This tracing bears no signature, but its subject matter and painting style suggest that it derives from a work by Chen Hongshou (1599–1652).",
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60046845"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60046850"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60046865"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60046858"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/60046924"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60046981"
+  }
+ }
+}

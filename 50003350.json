@@ -1,0 +1,62 @@
+{
+ "Date": "15th–19th century",
+ "Geography": "Nigeria, Lower Niger River region",
+ "Culture": "Lower Niger Bronze Industry",
+ "Medium": "Brass",
+ "Dimensions": "H. 7 9/16 x W. 2 1/4 x D. 3 7/8 in. (19.2 x 5.7 x 9.9 cm)",
+ "Classification": "Metal-Sculpture",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Gift of Nelson A. Rockefeller, 1964",
+ "Accession Number": "1978.412.328",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Figures",
+  "Brass"
+ ],
+ "Where": [
+  "Africa",
+  "Nigeria"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Guinea Coast, 1800–1900 A.D.",
+  "Guinea Coast, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50003350,
+ "gallery-id": 352,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1978_412_328.jpg",
+ "Provenance": [
+  "Augustus Lane-Fox Pitt-Rivers, Farnham, Dorset, U.K., until 1958",
+  "[K. John Hewett, London, until 1958]",
+  "[Matthias Komor, New York, until 1958]",
+  "Nelson A. Rockefeller, New York, on loan to The Museum of Primitive Art, New York, 1958–1964",
+  "The Museum of Primitive Art, New York, 1964–1978"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50002836"
+   },
+   {
+    "href": "http://scrapi.org/object/50006212"
+   },
+   {
+    "href": "http://scrapi.org/object/50007091"
+   },
+   {
+    "href": "http://scrapi.org/object/50009171"
+   },
+   {
+    "href": "http://scrapi.org/object/50009170"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50003350"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50003350"
+  }
+ }
+}

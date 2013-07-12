@@ -1,0 +1,51 @@
+{
+ "Date": "1950s",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "25.4 x 20.3 cm (10 x 8 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Bruce A. Kirstein, in memory of Marc S. Kirstein, 1978",
+ "Accession Number": "1978.616.20",
+ "Rights and Reproduction": "© Weegee / International Center of Photography.",
+ "Who": "Weegee",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190014011,
+ "Provenance": [
+  "Bruce A. Kirstein"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190014004"
+   },
+   {
+    "href": "http://scrapi.org/object/190014002"
+   },
+   {
+    "href": "http://scrapi.org/object/190014007"
+   },
+   {
+    "href": "http://scrapi.org/object/190014029"
+   },
+   {
+    "href": "http://scrapi.org/object/190014010"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190014011"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190014011"
+  }
+ }
+}

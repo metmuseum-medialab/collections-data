@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1615–1868",
+ "Culture": "Japanese",
+ "Classification": "Firearms Accessories",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.2292",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Accessories",
+  "Flasks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1400–1600 A.D.",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 40002741,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/40000847"
+   },
+   {
+    "href": "http://scrapi.org/object/40000873"
+   },
+   {
+    "href": "http://scrapi.org/object/40001947"
+   },
+   {
+    "href": "http://scrapi.org/object/40002732"
+   },
+   {
+    "href": "http://scrapi.org/object/40002737"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/40002741"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/40002741"
+  }
+ }
+}

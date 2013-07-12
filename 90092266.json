@@ -1,0 +1,32 @@
+{
+ "Medium": "Woodcut",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1953",
+ "Accession Number": "53.600.4832",
+ "Who": "Sebald Beham",
+ "What": [
+  "Prints",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "id": 90092266,
+ "related-artworks": [
+  90005839,
+  90005836,
+  90005971,
+  90008830,
+  90028184
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90092266"
+  }
+ }
+}

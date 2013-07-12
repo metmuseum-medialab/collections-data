@@ -1,0 +1,58 @@
+{
+ "Date": "1849–50",
+ "Medium": "Salted paper print from paper negative",
+ "Dimensions": "Mount Approximately 32 x 47 cm (12 5/8 x 18 1/2 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+ "Accession Number": "2005.100.376.40",
+ "Who": "Maxime Du Camp",
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Photographers in Egypt",
+  "Gustave Le Gray (1820–1884)",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190040751,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP131855.jpg",
+ "Provenance": [
+  "Eugène Viollet-le-Duc (presumed)",
+  "André Jammes, Paris",
+  "[Graphics International, Ltd., Washington, D.C.]",
+  "Gilman Paper Company Collection, New York, September 1, 1978"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190013707"
+   },
+   {
+    "href": "http://scrapi.org/object/190013878"
+   },
+   {
+    "href": "http://scrapi.org/object/190013879"
+   },
+   {
+    "href": "http://scrapi.org/object/190014451"
+   },
+   {
+    "href": "http://scrapi.org/object/190014452"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190040751"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190040751"
+  }
+ }
+}

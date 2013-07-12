@@ -1,0 +1,61 @@
+{
+ "Period": "Late Cypriot",
+ "Date": "ca. 15th–13th century B.C.",
+ "Geography": "Cyprus",
+ "Culture": "Cypriot",
+ "Medium": "Steatite",
+ "Dimensions": "0.73 in. (1.85 cm)",
+ "Classification": "Stone",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.4331",
+ "What": [
+  "Stone",
+  "Seals",
+  "Talc",
+  "Steatite",
+  "Cylinder seals"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 2000–1000 B.C.",
+ "id": 30000043,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/ss74_51_4331.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/30000054",
+  "http://scrapi.org/object/30000055",
+  "http://scrapi.org/object/30000058",
+  "http://scrapi.org/object/30000060",
+  "http://scrapi.org/object/30000069"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Said to be from Kourion, Cyprus. \r\n1865–1872, found in Cyprus by General Luigi Palma di Cesnola",
+  "acquired by the Museum in 1874, purchased from General Luigi Palma di Cesnola."
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000054"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000055"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000058"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000060"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/30000069"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/30000043"
+  }
+ }
+}

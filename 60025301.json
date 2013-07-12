@@ -1,0 +1,45 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Part of an album of woodblock prints (surimono); ink and color on paper",
+ "Dimensions": "8 x 7 3/16 in. (20.3 x 18.3 cm)",
+ "Classification": "Prints",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "JP2387",
+ "Who": "Totoya Hokkei",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Books",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Albums",
+  "Surimono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60025301,
+ "gallery-id": 231,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP139072.jpg",
+ "related-artworks": [
+  60025141,
+  60025153,
+  60025190,
+  60025260,
+  60025257
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60025301"
+  }
+ }
+}

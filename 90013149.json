@@ -1,0 +1,38 @@
+{
+ "Printer": "Printed by Christian Egenolff (German, 1502–1555)",
+ "Author": "Written by Georg Aemylius",
+ "Date": "1539",
+ "Dimensions": "Overall 7 11/16 x 5 11/16 x 3/8 in. (19.6 x 14.5 x 1 cm)",
+ "Classification": "Books",
+ "Credit Line": "The George Khuner Collection, Gift of Mrs. George Khuner, 1981",
+ "Accession Number": "1981.1178.18",
+ "Who": [
+  "Sebald Beham",
+  "Christian Egenolff",
+  "Georg Aemylius"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "id": 90013149,
+ "related-artworks": [
+  90005836,
+  90005839,
+  90005971,
+  90013151,
+  70020937
+ ],
+ "Provenance": [
+  "Donor: Marianne Khuner (Mrs. George Khuner)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90013149"
+  }
+ }
+}

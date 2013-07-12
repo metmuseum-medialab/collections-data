@@ -1,0 +1,62 @@
+{
+ "Date": "1770–1800",
+ "Geography": "New England, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Silver",
+ "Dimensions": "L. 8 3/4 in. (22.2 cm)",
+ "Classification": "Silver",
+ "Credit Line": "Bequest of Alphonso T. Clearwater, 1933",
+ "Accession Number": "33.120.425",
+ "Who": "Loring Bailey",
+ "What": [
+  "Metal",
+  "Silver",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10008037,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/97922.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ad/original/97922.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/DP253699.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/DP254061.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/DP254062.jpg"
+ ],
+ "Provenance": [
+  "Alphonso T. Clearwater, Kingston, New York, until died 1933"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10008080"
+   },
+   {
+    "href": "http://scrapi.org/object/10003967"
+   },
+   {
+    "href": "http://scrapi.org/object/10007148"
+   },
+   {
+    "href": "http://scrapi.org/object/10007149"
+   },
+   {
+    "href": "http://scrapi.org/object/10007146"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10008037"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10008037"
+  }
+ }
+}

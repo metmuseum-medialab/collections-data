@@ -1,0 +1,45 @@
+{
+ "Date": "16th century",
+ "Culture": "Flemish",
+ "Medium": "Steel, repoussé",
+ "Dimensions": "9-1/2 x 11 in.  (24.1 x 27.9 cm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Rogers Fund, 1950",
+ "Accession Number": "50.115",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Medals",
+  "Plaquettes",
+  "Repoussé"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120015835,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/147743.jpg",
+ "related-artworks": [
+  120008851,
+  120011383,
+  120024995,
+  120002856,
+  120013548
+ ],
+ "Provenance": [
+  "Frédéric Spitzer , Paris (until 1893",
+  "Spitzer sale, Paris, April 17–June 16, 1893 , no. 2579, pl. XXVI)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120015835"
+  }
+ }
+}

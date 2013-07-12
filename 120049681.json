@@ -1,0 +1,52 @@
+{
+ "Designer": "Model attributed to Jean-Claude Duplessis (ca. 1695–1774, active 1748–74)",
+ "Date": "ca. 1752",
+ "Culture": "French, Vincennes",
+ "Medium": "Soft-paste porcelain",
+ "Dimensions": "Other (confirmed) 9 1/2 x 5 3/8 x 4 1/2 in. (24.1 x 13.7 x 11.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Morris Hawkes, 1924",
+ "Accession Number": "24.214.4",
+ "Who": [
+  "Vincennes Manufactory",
+  "Jean-Claude Duplessis"
+ ],
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Vessels",
+  "Faience",
+  "Porcelain",
+  "Vases",
+  "Soft paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Vincennes"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120049681,
+ "gallery-id": 545,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP155972.jpg",
+ "related-artworks": [
+  120009973,
+  120016071,
+  120022597,
+  120049682,
+  120049683
+ ],
+ "Provenance": [
+  "E. M. Hodgkins (in 1909)",
+  "Mrs. Morris Hawkes (until 1924",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120049681"
+  }
+ }
+}

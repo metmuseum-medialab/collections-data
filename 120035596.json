@@ -1,0 +1,46 @@
+{
+ "Date": "20th century",
+ "Culture": "Japanese",
+ "Medium": "Crochet",
+ "Dimensions": [
+  "L. 9 x W. 4 inches",
+  "22.9 x 10.2 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of S. Takagi, 1909",
+ "Accession Number": "09.53.2",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Medals",
+  "Medallions",
+  "Crochet"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Japan, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 120035596,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/5876C.jpg",
+ "related-artworks": [
+  120035595,
+  120036594,
+  120036595,
+  120036596,
+  120036597
+ ],
+ "Provenance": [
+  "S. Takagi (until 1909",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120035596"
+  }
+ }
+}

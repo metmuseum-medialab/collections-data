@@ -1,0 +1,42 @@
+{
+ "Date": "before 16th century",
+ "Geography": "Mexico (?), Mesoamerica",
+ "Culture": "Mexico (?)",
+ "Medium": "Obsidian",
+ "Dimensions": "Height 5-7/8 in.",
+ "Classification": "Stone-Implements",
+ "Credit Line": "Bequest of Arthur M. Bullowa, 1993",
+ "Accession Number": "1994.35.465",
+ "What": [
+  "Stone",
+  "Blades",
+  "Obsidian"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico, 1000–1400 A.D.",
+  "Mexico, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50009988,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/hz1994_35_465.jpg",
+ "related-artworks": [
+  50000301,
+  50009775,
+  50009777,
+  50000303,
+  50009776
+ ],
+ "Provenance": [
+  "Arthur M. Bullowa, New York, until (d.)1993"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50009988"
+  }
+ }
+}

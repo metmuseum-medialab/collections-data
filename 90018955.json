@@ -1,0 +1,32 @@
+{
+ "Date": "n.d. [before 1719]",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 15 13/16 x 11 1/8 x 3/8 in. (40.1 x 28.2 x 0.9 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1939",
+ "Accession Number": "39.77.2",
+ "Who": "Nicolas Guerard",
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90018955,
+ "related-artworks": [
+  90016080,
+  90018954,
+  90044298
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90018955"
+  }
+ }
+}

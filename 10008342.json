@@ -1,0 +1,43 @@
+{
+ "Date": "1780–90",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Mahogany",
+ "Dimensions": "39 x 23 1/2 x 13 1/2 in. (99.1 x 59.7 x 34.3 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1909",
+ "Accession Number": "10.125.155",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Mahogany",
+  "Tables",
+  "Work tables"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10008342,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/11911.jpg",
+ "related-artworks": [
+  10010345,
+  10010346,
+  10010332,
+  10010333,
+  10010337
+ ],
+ "Provenance": [
+  "H. Eugene Bolles, Boston, until 1909",
+  "[Mrs. Russell Sage, New York, 1909]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10008342"
+  }
+ }
+}

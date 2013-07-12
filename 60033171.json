@@ -1,0 +1,38 @@
+{
+ "Period": "Song dynasty (960–1279)",
+ "Culture": "China",
+ "Medium": "Fresco",
+ "Dimensions": "H. 8 ft. (243.8 cm); W. 3 ft. 9 in. (114.3 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Robert E. Tod, 1938",
+ "Accession Number": "38.33",
+ "What": [
+  "Paintings",
+  "Frescoes"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1000–1400 A.D.",
+  "China, 500–1000 A.D.",
+  "Central and North Asia, 1000–1400 A.D.",
+  "Central and North Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60033171,
+ "related-artworks": [
+  60007522,
+  60007523,
+  60007546,
+  60033168,
+  60007521
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033171"
+  }
+ }
+}

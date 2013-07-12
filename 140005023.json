@@ -1,0 +1,42 @@
+{
+ "Date": "17th–18th century",
+ "Geography": "India",
+ "Medium": "Earthenware; glazed",
+ "Dimensions": "H. 13 1/2 in. (34.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Paul Bronson in memory of Anna Fleiss Bronson, 1924",
+ "Accession Number": "24.85",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Vases",
+  "Earthenware",
+  "Glazing"
+ ],
+ "Where": [
+  "Asia",
+  "India"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140005023,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf24-85a.jpg",
+ "related-artworks": [
+  140001658,
+  140009244,
+  140001660,
+  140009109,
+  140006964
+ ],
+ "Provenance": [
+  "Paul Bronson(until 1924)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140005023"
+  }
+ }
+}

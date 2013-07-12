@@ -1,0 +1,36 @@
+{
+ "Date": "1880s",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Vanderbilt Webb, 1939",
+ "Accession Number": "C.I.39.100.1a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80035753,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/C.I.39.100.1ab_F.jpg",
+ "related-artworks": [
+  80013665,
+  80013642,
+  80034366,
+  80034399,
+  80035860
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80035753"
+  }
+ }
+}

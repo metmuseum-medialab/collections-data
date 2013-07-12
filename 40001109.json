@@ -1,0 +1,25 @@
+{
+ "Date": "17th century",
+ "Classification": "Helmets",
+ "Accession Number": "26.25.164",
+ "What": [
+  "Costume",
+  "Helmets"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40001109,
+ "related-artworks": [
+  40000111,
+  40000215,
+  40000217,
+  40000230,
+  40000232
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40001109"
+  }
+ }
+}

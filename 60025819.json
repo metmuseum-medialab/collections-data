@@ -1,0 +1,41 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Culture": "Japan",
+ "Medium": "Album leaf; ink and color on silk",
+ "Dimensions": "14 1/8 x 10 3/4 in. (35.9 x 27.3 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Charles Stewart Smith Collection, Gift of Mrs. Charles Stewart Smith, Charles Stewart Smith Jr., and Howard Caswell Smith, in memory of Charles Stewart Smith, 1914",
+ "Accession Number": "14.76.61.46",
+ "Who": "Watanabe Seitei",
+ "What": [
+  "Silk",
+  "Ink",
+  "Books",
+  "Paintings",
+  "Albums"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60025819,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP211834.jpg",
+ "related-artworks": [
+  60025786,
+  60025787,
+  60025788,
+  60025815,
+  60025816
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60025819"
+  }
+ }
+}

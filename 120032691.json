@@ -1,0 +1,41 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian",
+ "Medium": "Cutwork",
+ "Dimensions": [
+  "W. 17 x H. 14 inches",
+  "73.7 x 10.2 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.676",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Lace",
+  "Cutwork",
+  "Pillows",
+  "Pillowcases"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "id": 120032691,
+ "related-artworks": [
+  120038425,
+  120047634,
+  120040758,
+  120029919,
+  120029920
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032691"
+  }
+ }
+}

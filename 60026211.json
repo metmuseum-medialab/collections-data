@@ -1,0 +1,45 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print (surimono); ink and color on paper",
+ "Dimensions": "8 3/16 x 7 1/4 in. (20.8 x 18.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "JP2157",
+ "Who": "Kubo Shunman",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Surimono"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japanese Incense",
+  "Netsuke From Fashion Fobs to Coveted Collectibles",
+  "Japan, 1800–1900 A.D."
+ ],
+ "id": 60026211,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP138364.jpg",
+ "related-artworks": [
+  60024899,
+  60025115,
+  60025140,
+  60025128,
+  60025137
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60026211"
+  }
+ }
+}

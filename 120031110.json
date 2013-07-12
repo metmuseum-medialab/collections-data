@@ -1,0 +1,41 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian",
+ "Medium": "Macrame",
+ "Dimensions": [
+  "L. 24 1/2 x W. 2 1/2 inches",
+  "62.2 x 6.4 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.48.112",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Macrame",
+  "Punto a groppo"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120031110,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP16525.jpg",
+ "related-artworks": [
+  120031109,
+  120032617,
+  120032618,
+  120032616,
+  120044081
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120031110"
+  }
+ }
+}

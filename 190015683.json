@@ -1,0 +1,36 @@
+{
+ "Date": "1960s",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Michael G. Wilson, 1983",
+ "Accession Number": "1983.1204.10",
+ "Who": "Ralph Gibson",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190015683,
+ "related-artworks": [
+  190015686,
+  190013968,
+  190013969,
+  190013970,
+  190013967
+ ],
+ "Provenance": [
+  "Michael G. Wilson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190015683"
+  }
+ }
+}

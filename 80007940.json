@@ -1,0 +1,33 @@
+{
+ "Date": "1875–1925",
+ "Culture": "American or European",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Samuel Liebmann, 1941",
+ "Accession Number": "C.I.41.52.23",
+ "What": [
+  "Costume",
+  "Silk",
+  "Underwear",
+  "Underskirts"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "In the Museum": "Costume Institute",
+ "MetPublications": "Search for related Met publications",
+ "id": 80007940,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI41.52.23.jpg",
+ "related-artworks": [
+  80006001,
+  80005994,
+  80007935,
+  80007938,
+  80007915
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80007940"
+  }
+ }
+}

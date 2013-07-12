@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Jadeite",
+ "Dimensions": "H. 20 in. (50.8 cm); W. 4 7/8 in. (12.4 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.734",
+ "What": [
+  "Jade",
+  "Jadeite",
+  "Scepters"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60011626,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/84423.jpg",
+ "related-artworks": [
+  60011447,
+  60010786,
+  60010787,
+  60010785,
+  60010944
+ ],
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60011626"
+  }
+ }
+}

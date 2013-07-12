@@ -1,0 +1,71 @@
+{
+ "Object Name": "Fragment",
+ "Date": "5th–6th century",
+ "Geography": "Egypt, Bawit",
+ "Medium": "Limestone",
+ "Dimensions": [
+  "H. 11 13/16 in. (30 cm)",
+  "W. 33 7/8 in. (86 cm)",
+  "D. 3 3/16 in. (8.1 cm)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.176.8",
+ "What": [
+  "Sculpture",
+  "Fragments",
+  "Limestone"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Bawiti"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 500–1000 A.D.",
+  "Egypt, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140003333,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/10.176.8a.JPG",
+ "related-artworks": [
+  "http://scrapi.org/object/140003332",
+  "http://scrapi.org/object/140011059",
+  "http://scrapi.org/object/140002194",
+  "http://scrapi.org/object/140003156",
+  "http://scrapi.org/object/140003334"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/is/original/10.176.8a.JPG",
+  "http://images.metmuseum.org/CRDImages/is/original/10.176.8.JPG",
+  "http://images.metmuseum.org/CRDImages/is/original/11484.jpg"
+ ],
+ "Provenance": [
+  "[ Michael Casira, Cairo, until 1910",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140003332"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140011059"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140002194"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140003156"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/140003334"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/140003333"
+  }
+ }
+}

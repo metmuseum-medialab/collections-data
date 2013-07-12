@@ -1,0 +1,45 @@
+{
+ "Date": "1465–69",
+ "Culture": "Italian (Florence)",
+ "Medium": "Bronze",
+ "Dimensions": "Diam. 3 in. (76 mm.)",
+ "Classification": "Medals and Plaquettes",
+ "Credit Line": "Bequest of Anne D. Thomson, 1923",
+ "Accession Number": "23.280.25",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Medals",
+  "Plaquettes"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Tuscany",
+  "Florence"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120009821,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/55380.jpg",
+ "related-artworks": [
+  120010188,
+  120011642,
+  120015822,
+  120017885,
+  120005751
+ ],
+ "Provenance": [
+  "Anne D. Thomson (until 1923",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120009821"
+  }
+ }
+}

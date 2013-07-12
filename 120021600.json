@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1675",
+ "Culture": "British",
+ "Medium": "Silver gilt filigree",
+ "Dimensions": "H. (both) 5 13/16 in.  (14.8 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Bequest of Irwin Untermyer, 1973",
+ "Accession Number": "1974.28.157, .158",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Lighting devices",
+  "Candleholders",
+  "Candlesticks",
+  "Filigree"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021600,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF1974_28_157_img1.jpg",
+ "related-artworks": [
+  120059412,
+  120059410,
+  120059411,
+  120059408,
+  120059409
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021600"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Period": "Archaic",
+ "Date": "3rd quarter of the 6th century B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta",
+ "Classification": "Vases",
+ "Credit Line": "Uncertain",
+ "Accession Number": "X.284",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Fragments",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups",
+  "Kylikes"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130017297,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP21805.jpg",
+ "related-artworks": [
+  130001427,
+  130007936,
+  130008085,
+  130009066,
+  130011262
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130017297"
+  }
+ }
+}

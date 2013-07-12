@@ -1,0 +1,54 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "Joint reign of Hatshepsut and Thutmose III",
+ "Date": "ca. 1473–1458 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Sheikh Abd el-Qurna, Tomb of Senenmut (TT 71), below, deposit of 2 pots, MMA 1935–1936",
+ "Medium": [
+  "Pottery with papyrus rope, linen",
+  "Sycamore log sections"
+ ],
+ "Dimensions": "H. 69 cm (27 3/16 in)",
+ "Credit Line": "Rogers Fund, 1936",
+ "Accession Number": "36.3.229",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Jars",
+  "Pots",
+  "Cord",
+  "Papyrus",
+  "Rope",
+  "Slings",
+  "Logs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100006084,
+ "gallery-id": 116,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/VSHATNOFERJARBIG.JPG",
+ "related-artworks": [
+  100020074,
+  100020075,
+  100020076,
+  100010101,
+  100000204
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1935–1936. Acquired by the Museum in the division of finds, 1936."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100006084"
+  }
+ }
+}

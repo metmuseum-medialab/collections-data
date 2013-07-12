@@ -1,0 +1,44 @@
+{
+ "Period": "Goryeo dynasty (918–1392)",
+ "Date": "early 12th century",
+ "Culture": "Korea",
+ "Medium": "Stoneware with mold-relief decoration under celadon glaze",
+ "Dimensions": "H. 2 3/4 in. (7 cm); Diam. 7 in. (17.8 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Samuel T. Peters, 1915",
+ "Accession Number": "15.29.25",
+ "What": [
+  "Ceramics",
+  "Sculpture",
+  "Pottery",
+  "Glaze",
+  "Bowls",
+  "Reliefs",
+  "Stoneware",
+  "Ceramic glaze",
+  "Molds",
+  "Celadon"
+ ],
+ "Where": [
+  "Asia",
+  "Korea"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Korea, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60028595,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/15_29_25.JPG",
+ "related-artworks": [
+  60028597,
+  60028608,
+  60018726,
+  60028596,
+  60028607
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028595"
+  }
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "Date": "17th century",
+ "Culture": "probably Greek Islands, Southern Cyclades, Pholegandros",
+ "Medium": "Silk on linen",
+ "Dimensions": "L. 108 x W. 42 1/2 inches (274.3 x 108 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of H.A.E. and Paul C. Jaehne, 1930",
+ "Accession Number": "30.25",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Curtains"
+ ],
+ "Where": [
+  "Europe",
+  "Greece",
+  "Aegean Islands",
+  "Cyclades"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Balkan Peninsula, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120040012,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/76643.jpg",
+ "Provenance": [
+  "H.A.E. and Paul C. Jaehne (until 1930; to MMA)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120039978"
+   },
+   {
+    "href": "http://scrapi.org/object/120045331"
+   },
+   {
+    "href": "http://scrapi.org/object/120040227"
+   },
+   {
+    "href": "http://scrapi.org/object/120045329"
+   },
+   {
+    "href": "http://scrapi.org/object/120045330"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120040012"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120040012"
+  }
+ }
+}

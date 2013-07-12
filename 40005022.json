@@ -1,0 +1,33 @@
+{
+ "Date": "ca. 1550",
+ "Culture": "Italian",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.314",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Staff weapons",
+  "Halberds"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Arms and Armor",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005022,
+ "related-artworks": [
+  40000396,
+  40001425,
+  40003297,
+  40004136,
+  40004190
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40005022"
+  }
+ }
+}

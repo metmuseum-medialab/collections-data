@@ -1,0 +1,33 @@
+{
+ "Date": "mid 17th century",
+ "Medium": "Etching; second state",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1917",
+ "Accession Number": "17.50.15-329",
+ "Who": "Jacob van Ruisdael",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90039679,
+ "related-artworks": [
+  90027802,
+  90027913,
+  90037765,
+  90037766,
+  90039672
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90039679"
+  }
+ }
+}

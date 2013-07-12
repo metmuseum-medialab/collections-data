@@ -1,0 +1,46 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian",
+ "Medium": "Embroidered net",
+ "Dimensions": [
+  "L. 120 1/2 x H. of lace and fringe 18 1/4 inches; total H. 28 inches",
+  "306.1 x 46.4 cm; total H. 71.1 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Susan Dwight Bliss, 1954",
+ "Accession Number": "54.189.6",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Embroidery",
+  "Lace",
+  "Net",
+  "Altar frontal"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120045465,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/158827.jpg",
+ "related-artworks": [
+  120045125,
+  120045127,
+  120045128,
+  120045462,
+  120043959
+ ],
+ "Provenance": [
+  "Susan Dwight Bliss (until 1954",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120045465"
+  }
+ }
+}

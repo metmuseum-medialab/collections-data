@@ -1,0 +1,43 @@
+{
+ "Artist": "after Jacques de Gheyn II (Netherlandish, Antwerp 1565–1629 The Hague)",
+ "Publisher": "published by Jacques de Gheyn II (Netherlandish, Antwerp 1565–1629 The Hague)",
+ "Medium": "Engraving; first state of two (New Hollstein)",
+ "Dimensions": "Sheet (trimmed) 5 11/16 × 5 9/16 in. (14.4 × 14.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1972",
+ "Accession Number": "1972.647.2",
+ "Who": [
+  "Jacques de Gheyn II",
+  "Zacharias Dolendo"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Low Countries, 1400–1600 A.D.",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90109349,
+ "related-artworks": [
+  90040930,
+  90055202,
+  90108224,
+  90108226,
+  90108227
+ ],
+ "Provenance": [
+  "Vendor: David Tunick"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90109349"
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "Date": "1220–72",
+ "Culture": "Crusader",
+ "Medium": "Stained Glass",
+ "Classification": "Glass-Stained",
+ "Credit Line": "Gift of Clarence H. Mackay, Archer M. Huntington, Stephen H. P. Pell and Bashford Dean, 1928",
+ "Accession Number": "28.99.675",
+ "What": [
+  "Glass",
+  "Fragments",
+  "Stained glass"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170016555,
+ "gallery-id": 303,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf28-99-675s1.jpg",
+ "related-artworks": [
+  170005901,
+  170005902,
+  170005906,
+  170005907,
+  170005911
+ ],
+ "Description": "Painted in grisaille (shades of grey) in a style associated with the mid-1200s in France, these fragments are among numerous remnants of the elaborate glass windows that once decorated Castle Montfort/Starkenberg. One shows the nose and eye of a human face; the others display portions of vines with fleur-de-lis terminals.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170016555"
+  }
+ }
+}

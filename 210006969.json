@@ -1,0 +1,68 @@
+{
+ "Date": "1915",
+ "Medium": "Oil, sand, and paper on canvas",
+ "Dimensions": "51 1/4 x 38 1/4in. (130.2 x 97.2cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Florene M. Schoenborn, 1995",
+ "Accession Number": "1996.403.3",
+ "Rights and Reproduction": "© 2011 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+ "Who": "Pablo Picasso",
+ "What": [
+  "Paper",
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Lure of Montmartre, 1880–1900",
+  "Symbolism",
+  "Paul Klee (1879–1940)",
+  "Pablo Picasso (1881–1973)",
+  "Cubism",
+  "Surrealism",
+  "Geometric Abstraction",
+  "School of Paris",
+  "African Influences in Modern Art",
+  "Alfred Stieglitz (1864–1946) and His Circle",
+  "Iberian Peninsula, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210006969,
+ "gallery-id": 900,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP220037.jpg",
+ "related-artworks": [
+  210010263,
+  210008654,
+  210008936,
+  210000934,
+  210002590
+ ],
+ "Description": "\"My life is hell,\" wrote Picasso to Gertrude Stein just before the death of his companion, Eva Gouel, in December 1915. Picasso's preoccupation with Eva's health, the war, his friends in the army, and his status as a Spanish citizen in France accounts for his small output that year. Although Picasso's few friends remaining in Paris were fascinated by his foray into representational portraiture (see the portrait of Ambroise Vollard 47.140), they all noted the presence of large Cubist compositions in his studio on the rue Schoelcher, overlooking the Montparnasse cemetery. It was, perhaps, because of the war that the canvases remained in his studio, where Picasso continued to revise them. This composition was repainted innumerable times, passing from a drab palette of browns and grays to one of cool, vivid hues, and then, finally, to the dark colors associated with Picasso's despair over Eva's decline.While Picasso would paint many still lifes on a mantel, this may be his first. He stresses the anthropomorphic aspects of the inanimate objects, encouraging the cheeks of the mantel to be read as legs and the musical instruments to be associated with male and female anatomy. Picasso clearly considered this an important work: not only did he photograph it in progress, he later hung the painting at his country home in Fontainebleau and kept it until 1930.",
+ "Provenance": [
+  "The artist, Paris and elsewhere (1915–30",
+  "sold on July 31, 1930, to Rosenberg and Wildenstein)",
+  "[Paul Rosenberg, Paris, in joint ownership with Georges Wildenstein, Paris 1930, until at least spring 1934]",
+  "[Galerie Pierre (Pierre Loeb), Paris, after spring 1934–1940",
+  "consigned, through Käte Perls, Paris, to Perls Galleries (Klaus G. Perls), New York, stock no. 1074",
+  "consigned by Perls on November 14, 1940, to Matisse",
+  "sold on December 21, 1940 (in full on June 30, 1941) for $3,500 to Matisse]",
+  "[Pierre Matisse Gallery, New York, 1940–44",
+  "stock no. 1027",
+  "sold on January 17, 1944, for $8,500 to Marx]",
+  "Samuel and Florene Marx, Chicago (1944–his d. 1964)",
+  "Florene May Marx, later Mrs. Wolfgang Schoenborn, New York (1964–d. 1995",
+  "on extended loan at The Museum of Modern Art, from 1971",
+  "her bequest to MMA, 1995)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006969"
+  }
+ }
+}

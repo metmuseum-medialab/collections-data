@@ -1,0 +1,40 @@
+{
+ "Date": "1873",
+ "Medium": "Oil on canvas",
+ "Dimensions": "102 3/8 x 70 7/8 in. (260 x 180 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Sterling and Francine Clark Art Institute, Williamstown, Massachusetts, U.S.A.",
+ "Accession Number": "L.2012.29",
+ "Who": "William Bouguereau",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "The Salon and The Royal Academy",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110006977,
+ "gallery-id": 827,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/Bouguereau.jpg",
+ "related-artworks": [
+  110000185,
+  110000187,
+  110000186,
+  90000517,
+  90019707
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110006977"
+  }
+ }
+}

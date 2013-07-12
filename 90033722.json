@@ -1,0 +1,53 @@
+{
+ "Author": "Introduction written by André Chevillon (French, active 20th century)",
+ "Publisher": "Published by Association des Peintres Officiels de la Marine",
+ "Date": "1975",
+ "Classification": "Portfolios",
+ "Credit Line": "Gift of Commander Bonbon, 1977",
+ "Accession Number": "1977.579",
+ "Who": [
+  "André Chevillon",
+  "André Dauchez",
+  "Association des Peintres Officiels de la Marine"
+ ],
+ "What": "Portfolios",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90033722,
+ "related-artworks": [
+  "http://scrapi.org/object/90004864",
+  "http://scrapi.org/object/90013214",
+  "http://scrapi.org/object/90014693",
+  "http://scrapi.org/object/90015930",
+  "http://scrapi.org/object/90016379"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90004864"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90013214"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90014693"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90015930"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90016379"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90033722"
+  }
+ }
+}

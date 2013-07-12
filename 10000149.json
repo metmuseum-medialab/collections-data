@@ -1,0 +1,71 @@
+{
+ "Date": "1720–40",
+ "Geography": "New England, Portsmouth, New Hampshire, United States; New England, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Hard maple, soft maple, ash",
+ "Dimensions": "44 1/2 x 23 x 22 1/2 in. (113 x 58.4 x 57.2 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Mrs. Russell Sage, 1909",
+ "Accession Number": "10.125.219",
+ "What": [
+  "Wood",
+  "Furniture",
+  "Seating furniture",
+  "Chairs",
+  "Armchairs",
+  "Maple",
+  "Silver maple",
+  "Sugar maple"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New Hampshire",
+  "Portsmouth"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000149,
+ "gallery-id": 708,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/85C_ACF129R7.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/10000205",
+  "http://scrapi.org/object/10000188",
+  "http://scrapi.org/object/10004953",
+  "http://scrapi.org/object/10008563",
+  "http://scrapi.org/object/10007818"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ad/original/85C_ACF129R7.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/12033.jpg",
+  "http://images.metmuseum.org/CRDImages/ad/original/DT241037.jpg"
+ ],
+ "Provenance": [
+  "H. Eugene Bolles, Boston, until 1909",
+  "[Mrs. Russell Sage, New York, 1909]"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10000205"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10000188"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10004953"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10008563"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10007818"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10000149"
+  }
+ }
+}

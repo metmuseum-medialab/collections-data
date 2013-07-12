@@ -1,0 +1,36 @@
+{
+ "Date": "1850–59",
+ "Culture": "American",
+ "Medium": "Wool, silk",
+ "Dimensions": "69 x 71 1/2 in. (175.3 x 181.6 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Thomas Sturgis, 1955",
+ "Accession Number": "2009.300.4857",
+ "What": [
+  "Costume",
+  "Silk",
+  "Wool",
+  "Outerwear",
+  "Shawls"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80107312,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/55.193.3_CP2.jpg",
+ "related-artworks": [
+  80107001,
+  80107740,
+  80095203,
+  80107997,
+  80107702
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80107312"
+  }
+ }
+}

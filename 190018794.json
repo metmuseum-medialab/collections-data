@@ -1,0 +1,41 @@
+{
+ "Author": "James Fergusson (British, 1808–1886)",
+ "Date": "1860s",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1926, transferred from the Library",
+ "Accession Number": "1994.126",
+ "Who": [
+  "James Fergusson",
+  "Thomas Biggs",
+  "Sir Theodore Cracraft Hope"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190018794,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190015261"
+   },
+   {
+    "href": "http://scrapi.org/object/190018167"
+   },
+   {
+    "href": "http://scrapi.org/object/190023026"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190018794"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190018794"
+  }
+ }
+}

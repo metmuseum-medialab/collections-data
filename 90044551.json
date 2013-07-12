@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1652",
+ "Medium": "Etching; first state of three",
+ "Dimensions": "sheet 8 1/8 x 9 3/8 in. (20.6 x 23.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Felix M. Warburg and his family, 1941",
+ "Accession Number": "41.1.19",
+ "Who": "Rembrandt (Rembrandt van Rijn)",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90044551,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP814788.jpg",
+ "related-artworks": [
+  90000884,
+  90000912,
+  90010392,
+  90022436,
+  90022429
+ ],
+ "Provenance": [
+  "Donor: Felix Moritz Warburg , and his family"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90044551"
+  }
+ }
+}

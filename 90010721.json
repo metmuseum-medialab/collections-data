@@ -1,0 +1,37 @@
+{
+ "Medium": "Pen and black ink",
+ "Dimensions": "4 11/16 x 6 15/16 in.  (11.9 x 17.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The J.B. Neumann Collection, Gift of Dr. Franz H. Hirschland, 1951",
+ "Accession Number": "51.504.11",
+ "Who": "Rodolphe Bresdin",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90010721,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP805521.jpg",
+ "related-artworks": [
+  90010719,
+  90010722,
+  90010723,
+  90010720,
+  90010738
+ ],
+ "Provenance": [
+  "Donor: Dr. Franz H. Hirschland"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010721"
+  }
+ }
+}

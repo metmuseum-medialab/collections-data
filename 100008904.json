@@ -1,0 +1,40 @@
+{
+ "Period": "Late Period–Ptolemaic Period",
+ "Date": "400–30 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Limestone",
+ "Dimensions": "H. 26.5 x W. 25.5 cm (10 7/16 x 10 1/16 in.)",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.202.3",
+ "What": [
+  "Limestone",
+  "Models"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008904,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DP236787.jpg",
+ "related-artworks": [
+  100000334,
+  100001657,
+  100001660,
+  100002622,
+  100002708
+ ],
+ "Description": "Small Late Period and Ptolemaic reliefs or sculptures that depict a subject in a partial or unfinished way but are themselves finished objects constitute a special class of object. Guidelines like those for artists are often prominently exhibited as part of the object, although, in fact, many instances can be noted where the object simply could not serve as a suitable model for a traditional formal Egyptian representation. Personifications of kingship, figures that may represent the now emerging demigods Imhotep and Amenhotep Son of Hapu, and popular gods like Harpokrates or Isis, are heavily represented within the corpus. Taken together, the figures represented and the other features indicate the reliefs and sculptures of this class, sometimes called by Egyptologists \"sculptor’s models / votives,\" were the material of a donation practice, perhaps connected with the prolific temple building of these centuries. Unfortunately there is little to illuminate us about the mechanics of such a donation practice.This relief depicts a the upper body of a capped figure on one side that may represent Imhotep, and on the opposite side an unfinished versionof a similar figure and a partial representation of the crocodile-headed god Sobek-Re.",
+ "Provenance": [
+  "Purchased by the museum from Maurice Nahman, Cairo, 1908."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008904"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Date": "probably 8th–12th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Stone or bone",
+ "Classification": "Metal",
+ "Credit Line": "Rogers Fund, 1940",
+ "Accession Number": "40.170.408",
+ "What": [
+  "Metal",
+  "Stone",
+  "Bone"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Iran, 500–1000 A.D.",
+  "Iran, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140007367,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf40-170-408b.jpg",
+ "related-artworks": [
+  140007369,
+  140007368,
+  140007358,
+  140010129,
+  140006500
+ ],
+ "Provenance": [
+  "1939, excavated in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1940, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007367"
+  }
+ }
+}

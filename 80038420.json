@@ -1,0 +1,39 @@
+{
+ "Date": "19th–20th century",
+ "Culture": "American",
+ "Medium": "straw, silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Unknown, 1965",
+ "Accession Number": "C.I.X.65.2",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Straw",
+  "Bonnets"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80038420,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CIX65.2_S.jpg",
+ "related-artworks": [
+  80029440,
+  80031369,
+  80044636,
+  80044638,
+  80044624
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80038420"
+  }
+ }
+}

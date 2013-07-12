@@ -1,0 +1,38 @@
+{
+ "Date": "late 12th–early 13th century",
+ "Culture": "European",
+ "Medium": "Pot metal glass",
+ "Dimensions": "Overall 2 1/8 x 5 1/4 in. (5.4 x 13.3 cm)",
+ "Classification": "Glass-Stained",
+ "Credit Line": "Gift of George D. Pratt, 1930",
+ "Accession Number": "30.73.109",
+ "What": [
+  "Metal",
+  "Glass",
+  "Fragments",
+  "Stained glass"
+ ],
+ "Where": [
+  "Europe"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170007013,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/cdi30-73-109.jpg",
+ "related-artworks": [
+  170005901,
+  170005906,
+  170005911,
+  170005912,
+  170005909
+ ],
+ "Provenance": [
+  "George D. Pratt, Glen Cove, NY (until 1930)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170007013"
+  }
+ }
+}

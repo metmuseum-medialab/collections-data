@@ -1,0 +1,39 @@
+{
+ "Period": "Ming dynasty (1368–1644)",
+ "Culture": "China",
+ "Medium": "Jade",
+ "Dimensions": "H. 3 1/4 in. (8.3 cm); L. 4 5/8 in. (11.7 cm); D. 2 3/4 in. (7 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Alfred W. Hoyt Collection, Bequest of Rosina H. Hoppin, 1965",
+ "Accession Number": "65.86.147",
+ "What": [
+  "Jade",
+  "Paperweights"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1000–1400 A.D.",
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60033357,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/183844.jpg",
+ "related-artworks": [
+  60010838,
+  60011506,
+  60011521,
+  60009276,
+  60009298
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60033357"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "third quarter 19th century",
+ "Culture": "probably Chinese",
+ "Medium": "Cotton, silk, metallic",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Anonymous gift, 1974",
+ "Accession Number": "2009.300.5841",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Outerwear",
+  "Stoles"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "id": 80108261,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/74.9_CP1.jpg",
+ "related-artworks": [
+  80057364,
+  80057365,
+  80095624,
+  80107121,
+  80106676
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108261"
+  }
+ }
+}

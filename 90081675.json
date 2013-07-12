@@ -1,0 +1,45 @@
+{
+ "Lithographer": "George S. Harris & Sons (American, Philadelphia)",
+ "Date": "1889",
+ "Medium": "Commercial color lithograph",
+ "Dimensions": "Sheet 2 3/4 x 1 1/2 in. (7 x 3.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "63.350.201.5.5",
+ "Who": [
+  "Allen & Ginter",
+  "George S. Harris & Sons"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Color lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90081675,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP829125.jpg",
+ "related-artworks": [
+  90081255,
+  90081258,
+  90081314,
+  90081305,
+  90081309
+ ],
+ "Description": "Trade cards from the \"Birds of the Tropics\" series (N5), issued in 1889 in a series of 50 cards to promote Allen & Ginter Brand Cigarettes.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90081675"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Object Name": "Fragment",
+ "Date": "18th–19th century",
+ "Geography": "India, Varanasi",
+ "Medium": "Silk, cotton and metal thread; brocaded",
+ "Dimensions": "3 in. high 6.00 in. wide (7.6 cm high 15.2 cm wide)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of the Museum of the Cranbrook Academy of Art, 1946",
+ "Accession Number": "46.37.1kkk",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Fragments",
+  "Cotton"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Uttar Pradesh",
+  "Varanasi"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia and the Himalayan Region, 1800–1900 A.D.",
+  "South Asia, 1600–1800 A.D."
+ ],
+ "id": 140007944,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/136316.jpg",
+ "related-artworks": [
+  140003064,
+  140007971,
+  140002834,
+  140003068,
+  140007952
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140007944"
+  }
+ }
+}

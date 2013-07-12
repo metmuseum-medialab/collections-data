@@ -1,0 +1,35 @@
+{
+ "Date": "19th century",
+ "Geography": "United States",
+ "Culture": "Native American (Southern Plains)",
+ "Dimensions": "Thickness ±1.5 x Diam. ±13 x L. ±53cm (±9/16 x ±5 1/8 x ±20 7/8in.)",
+ "Classification": "Idiophone-Shaken",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2276",
+ "What": [
+  "Musical instruments",
+  "Idiophones",
+  "Rattles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 180014481,
+ "gallery-id": 681,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS1135A6.jpg",
+ "related-artworks": [
+  180012623,
+  180012629,
+  180012630,
+  180012631,
+  180012632
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180014481"
+  }
+ }
+}

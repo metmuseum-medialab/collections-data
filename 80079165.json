@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1985",
+ "Culture": "French",
+ "Medium": "silk, metal",
+ "Dimensions": "Length at CF 48 in. (121.9 cm)",
+ "Credit Line": "Purchase, Ditty Peto Inc. Gift, 2008",
+ "Accession Number": "2008.155a, b",
+ "Who": "Jean Paul Gaultier",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silk",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80079165,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2008.155ab_F.JPG",
+ "related-artworks": [
+  80092945,
+  80045234,
+  80063586,
+  80083690,
+  80065761
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80079165"
+  }
+ }
+}

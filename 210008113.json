@@ -1,0 +1,41 @@
+{
+ "Date": "1939",
+ "Medium": "Watercolor on paper",
+ "Dimensions": [
+  "H. 15-5/8, W. 22-3/4 inches",
+  "(39.7 x 57.8 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Arthur Hoppock Hearn Fund, 1939",
+ "Accession Number": "39.166.1",
+ "Who": "George Grosz",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "African Influences in Modern Art",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210008113,
+ "related-artworks": [
+  210008114,
+  210008115,
+  210008124,
+  210008799,
+  210008800
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210008113"
+  }
+ }
+}

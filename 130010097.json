@@ -1,0 +1,39 @@
+{
+ "Period": "Hellenistic",
+ "Date": "1st century B.C.–1st century A.D.",
+ "Culture": "Egyptian, Roman",
+ "Medium": "Glass",
+ "Dimensions": "Other 1 3/4 in. (4.4 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.194.381",
+ "What": [
+  "Glass",
+  "Mosaics"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Italian Peninsula, 1000 B.C.–1 A.D.",
+  "Italian Peninsula, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130010097,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP121779.jpg",
+ "related-artworks": [
+  130005784,
+  130005941,
+  130005942,
+  130005943,
+  130005965
+ ],
+ "Description": "This piece is cut from the same mosaic glass bar as 17.194.377.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130010097"
+  }
+ }
+}

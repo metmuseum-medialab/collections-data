@@ -1,0 +1,42 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1352 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Dimensions": "h. 14.4 cm (5 11/16 in); diam. 1.8 cm (11/16 in)",
+ "Credit Line": "Purchase, Edward S. Harkness Gift, 1926",
+ "Accession Number": "26.7.910",
+ "What": [
+  "Faience",
+  "Cosmetics"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100000806,
+ "gallery-id": 119,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/EG134.jpg",
+ "related-artworks": [
+  100001195,
+  100002817,
+  100003097,
+  100005529,
+  100008560
+ ],
+ "Description": "Tube for Eye Paint (Kohl) with the Names of Amenhotep III and \"the Royal Daughter and Great Royal Wife, Sitamun\"",
+ "Provenance": [
+  "Formerly MacGregor Collection. Purchased by Lord Carnarvon at MacGregor sale (Sotheby's, June 1922, lot 255). Carnarvon Collection  purchased by the Museum from Lady Carnarvon, 1926."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100000806"
+  }
+ }
+}

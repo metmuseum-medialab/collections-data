@@ -1,0 +1,43 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "dated 1667",
+ "Culture": "China",
+ "Medium": "Album of ten paintings; ink and color on paper",
+ "Dimensions": "10 5/8 x 15 5/8 in. (27 x 39.7 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Edward Elliott Family Collection, Purchase, The Dillon Fund Gift, 1981",
+ "Accession Number": "1981.285.12a–m",
+ "Who": "Yun Shouping",
+ "What": [
+  "Ink",
+  "Paper",
+  "Books",
+  "Paintings",
+  "Albums"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1600–1800 A.D.",
+  "China, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60019809,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP161128.jpg",
+ "related-artworks": [
+  60019810,
+  60019806,
+  60019807,
+  60022217,
+  60019811
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60019809"
+  }
+ }
+}

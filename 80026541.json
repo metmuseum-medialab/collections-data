@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1929",
+ "Culture": "American",
+ "Medium": "wool, fur",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Sidney Bernard, 1972",
+ "Accession Number": "1972.28.1",
+ "Who": "H. Jaeckal & Sons",
+ "What": [
+  "Costume",
+  "Wool",
+  "Hair",
+  "Coats",
+  "Fur"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80026541,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1972.28.1_F.jpg",
+ "related-artworks": [
+  80001558,
+  80006270,
+  80001495
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80026541"
+  }
+ }
+}

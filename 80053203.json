@@ -1,0 +1,37 @@
+{
+ "Date": "ca. 1872",
+ "Culture": "American",
+ "Medium": "cotton, flax",
+ "Dimensions": "Length 14 in. (35.6 cm)",
+ "Credit Line": "Gift of June Dorflinger Hardy, 1983",
+ "Accession Number": "1983.616.1a, b",
+ "What": [
+  "Cotton",
+  "Plant fiber",
+  "Sleeves",
+  "Undersleeves",
+  "Flax"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80053203,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1983.616.1ab.jpg",
+ "related-artworks": [
+  80054078,
+  80053220,
+  80038353,
+  80053201,
+  80053202
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80053203"
+  }
+ }
+}

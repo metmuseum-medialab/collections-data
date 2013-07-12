@@ -1,0 +1,44 @@
+{
+ "Period": "Classical",
+ "Date": "ca. 460 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": [
+  "H. 17 13/16 in. (45.2 cm)",
+  "diameter of mouth  13 15/16 in. (35.4 cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Fletcher Fund, 1929",
+ "Accession Number": "29.131.7",
+ "Who": "Bologna 228",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Kraters"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013525,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP232614.jpg",
+ "related-artworks": [
+  130008424,
+  130006075,
+  130006074,
+  130007027
+ ],
+ "Description": "Obverse,  warrior and quadriga (four-horse chariot) with driverReverse, Dionysos and two maenadsThe scene on the obverse shows a four-horse chariot from which a warrior has dismounted in order to fight. The painter seems to have a predilection for effects of glaze on a reserved background—note the armor of the charioteer and, on the reverse, the black kantharos (drinking cup with high handles) of Dionysos.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013525"
+  }
+ }
+}

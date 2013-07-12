@@ -1,0 +1,43 @@
+{
+ "Artist": "Jean Denis Attiret (French, 1702–1768)",
+ "Editor": "Charles Nicolas Cochin II (French, Paris 1715–1790 Paris)",
+ "Medium": "Etching and engraving",
+ "Dimensions": [
+  "plate 22 11/16 x 36 13/16 in. (57.6 x 93.5 cm)",
+  "sheet 25 13/16 x 39 3/4 in. (65.5 x 100.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1945",
+ "Accession Number": "45.100.14",
+ "Who": [
+  "Charles Nicolas Cochin II",
+  "Louis Joseph Masquelier",
+  "Jean Denis Attiret"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90070348,
+ "related-artworks": [
+  90100519,
+  90100637,
+  90101003,
+  90101024,
+  90101014
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90070348"
+  }
+ }
+}

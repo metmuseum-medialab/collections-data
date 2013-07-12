@@ -1,0 +1,56 @@
+{
+ "Artist": "After Lidi (Chinese, ca. 1110– after 1197)",
+ "Period": "Edo period (1615–1868)",
+ "Date": "17th century",
+ "Culture": "Japan",
+ "Medium": "Album leaf; ink and color on silk",
+ "Dimensions": "11 7/16 x 16 3/4 in. (29 x 42.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mr. and Mrs. Harry Rubin, 1974",
+ "Accession Number": "1974.224.11",
+ "Who": [
+  "Kano Tsunenobu",
+  "Lidi"
+ ],
+ "What": [
+  "Silk",
+  "Ink",
+  "Books",
+  "Paintings",
+  "Albums"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60029966,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60013567"
+   },
+   {
+    "href": "http://scrapi.org/object/60029956"
+   },
+   {
+    "href": "http://scrapi.org/object/60029957"
+   },
+   {
+    "href": "http://scrapi.org/object/60029958"
+   },
+   {
+    "href": "http://scrapi.org/object/60029959"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60029966"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60029966"
+  }
+ }
+}

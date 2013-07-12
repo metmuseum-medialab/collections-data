@@ -1,0 +1,35 @@
+{
+ "Culture": "Greek",
+ "Medium": "Terracotta",
+ "Dimensions": "H. 3.00 cm.",
+ "Classification": "Vases",
+ "Accession Number": "20.263.2",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Miniature",
+  "Pithoi"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130011495,
+ "related-artworks": [
+  130011494,
+  130007794,
+  130011497,
+  130011498,
+  130011592
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130011495"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Date": "16th–20th century",
+ "Geography": "Mali",
+ "Culture": "Dogon peoples",
+ "Medium": "Wood",
+ "Dimensions": "H x W x D 20 1/2 x 4 7/8 x 4in. (52.1 x 12.4 x 10.2cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Gift of Lester Wunderman, 1977",
+ "Accession Number": "1977.394.8",
+ "Who": "Dogon",
+ "What": [
+  "Sculpture",
+  "Figures"
+ ],
+ "Where": [
+  "Africa",
+  "Mali"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Western and Central Sudan, 1900 A.D.–present",
+  "Western and Central Sudan, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50002897,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1977_394_8.jpg",
+ "related-artworks": [
+  50002892,
+  50002898,
+  50002909,
+  50003342,
+  50006810
+ ],
+ "Provenance": [
+  "[John J. Klejman, New York]",
+  "Lester Wunderman, New York, until 1977"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50002897"
+  }
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "Date": "8th–12th century",
+ "Geography": "Panama, Cocle Province, Rio Parita region",
+ "Culture": "Macaracas",
+ "Medium": "Gold, greenstone",
+ "Dimensions": "L.  5 3/4 in. (14.6 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.729",
+ "Who": "Macaracas",
+ "What": [
+  "Metal",
+  "Gold",
+  "Rods"
+ ],
+ "Where": [
+  "North and Central America",
+  "Panama",
+  "Coclé"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central America and the Caribbean, 500–1000 A.D.",
+  "Central America and the Caribbean, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50005578,
+ "gallery-id": 357,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs197920672930.jpg",
+ "Provenance": [
+  "[John C. Wise Ltd., New York, until 1958]",
+  "Nelson A. Rockefeller, 1958, on loan to The Museum of Primitive Art, New York, 1958–1978"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/50002108"
+   },
+   {
+    "href": "http://scrapi.org/object/50002107"
+   },
+   {
+    "href": "http://scrapi.org/object/50005579"
+   },
+   {
+    "href": "http://scrapi.org/object/50005278"
+   },
+   {
+    "href": "http://scrapi.org/object/50009338"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/50005578"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/50005578"
+  }
+ }
+}

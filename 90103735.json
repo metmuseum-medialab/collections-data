@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1648",
+ "Medium": "Etching and engraving",
+ "Dimensions": "Sheet 10 7/16 × 7 3/8 in. (26.5 × 18.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1920",
+ "Accession Number": "20.13.10",
+ "Who": "Robert Nanteuil",
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90103735,
+ "related-artworks": [
+  90103736,
+  90103749,
+  90103757,
+  90103761,
+  90104723
+ ],
+ "Provenance": [
+  "Max Julius Bonn",
+  "Vendor: Knoedler and Co."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90103735"
+  }
+ }
+}

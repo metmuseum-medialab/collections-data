@@ -1,0 +1,34 @@
+{
+ "Date": "1895",
+ "Medium": "Commercial relief process and letterpress; red, light green, and black",
+ "Dimensions": "17 1/16 x 12 in. (image); 19 1/2 x 13 7/16 in. (sheet)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Bessie Potter Vonnoh, 1941",
+ "Accession Number": "41.12.193",
+ "Who": "Charles Dana Gibson",
+ "What": "Prints",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90006191,
+ "related-artworks": [
+  90006193,
+  90006194,
+  90074167,
+  90019118,
+  90074168
+ ],
+ "Provenance": [
+  "Donor: Bessie Potter Vonnoh (American, St. Louis, Missouri 1872–1955 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90006191"
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "Author": "Author's account written by Vincent O'Sullivan (American, New York 1872–1940)",
+ "Illustrator": "William Thomas Horton (British, active late 19th century)",
+ "Publisher": "Leonard Smithers & Co. (London)",
+ "Printer": "Plates printed by Lemerciergravure",
+ "Date": "1899",
+ "Medium": "Plates lithography",
+ "Dimensions": "Overall 11 3/16 x 9 x 5/8 in. (28.4 x 22.9 x 1.6 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1966",
+ "Accession Number": "66.542.25",
+ "Who": [
+  "Edgar Allan Poe",
+  "Chiswick Press",
+  "Leonard Smithers & Co.",
+  "Lemerciergravure",
+  "Vincent O'Sullivan",
+  "William Thomas Horton"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90045827,
+ "related-artworks": [
+  90022727,
+  90023401,
+  90002266,
+  90023402,
+  90023403
+ ],
+ "Provenance": [
+  "Vendor: E. Seligmann , London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90045827"
+  }
+ }
+}

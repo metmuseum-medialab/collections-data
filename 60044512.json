@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "late 19th-early 20th century",
+ "Culture": "China",
+ "Medium": "Silk, metallic thread",
+ "Dimensions": "31 x 6 1/4 in.",
+ "Classification": "Costumes",
+ "Credit Line": "Gift of Professor Robert C. Schnitzer, 1983",
+ "Accession Number": "1983.21a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Needlework",
+  "Embroidery",
+  "Skirts"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1800–1900 A.D.",
+  "China, 1900 A.D.–present",
+  "Central and North Asia, 1900 A.D.–present",
+  "Central and North Asia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60044512,
+ "related-artworks": [
+  60043037,
+  60038801,
+  60042079,
+  60042093,
+  60042145
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044512"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Printer": "The Photo-Gravure Company",
+ "Date": "1883–86, printed 1887",
+ "Medium": "Collotype",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the Philadelphia Commercial Museum, 1964",
+ "Accession Number": "64.661.6.16",
+ "Who": [
+  "Eadweard Muybridge",
+  "The Photo-Gravure Company"
+ ],
+ "What": [
+  "Photographs",
+  "Photomechanical reproductions",
+  "Photolithographs",
+  "Collotypes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190022745,
+ "related-artworks": [
+  190020452,
+  190020449,
+  190020450,
+  190020451,
+  190020453
+ ],
+ "Provenance": [
+  "Philadelphia Commercial Museum"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190022745"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "Date": "first half 20th century",
+ "Culture": "American",
+ "Medium": "feather",
+ "Dimensions": "Total Length 100 in. (254 cm)",
+ "Credit Line": "Gift in memory of Eleanora Robinson Countiss and Henrietta Eleanora Countiss Vieta, by their family, 2003",
+ "Accession Number": "2003.197.11",
+ "What": [
+  "Costume",
+  "Neckwear",
+  "Feather",
+  "Neckpieces",
+  "Boas"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80009914,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2003.197.11.JPG",
+ "related-artworks": [
+  80052123,
+  80052388,
+  80107089,
+  80052403,
+  80052442
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80009914"
+  }
+ }
+}

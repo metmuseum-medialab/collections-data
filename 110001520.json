@@ -1,0 +1,50 @@
+{
+ "Date": "early 1660s",
+ "Medium": "Oil on wood",
+ "Dimensions": "10 7/8 x 8 7/8 in. (27.6 x 22.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+ "Accession Number": "1982.60.32",
+ "Who": "Gabriël Metsu",
+ "What": [
+  "Paintings",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "Johannes Vermeer (1632–1675) and The Milkmaid",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110001520,
+ "gallery-id": 542,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DP146466.jpg",
+ "related-artworks": [
+  110001517,
+  110001518,
+  90014890
+ ],
+ "Provenance": [
+  "Mr. Chaplin, Copenhagen, later England",
+  "Edmund Higginson, Saltmarsh Castle, Herefordshire (by 1842–46",
+  "his sale, Christie's, London, June 4, 1846, no. 95, for £46)",
+  "Madame Duval (until 1904",
+  "her estate sale, Hôtel Drouot, Paris, November 28, 1904, no. 9, for Fr 27,000 to Kleinberger)",
+  "[Kleinberger, Paris, from 1904]",
+  "Marcus Kappel, Berlin (by 1906–30",
+  "cat., 1914, no. 16",
+  "his sale, Cassirer & Helbing, Berlin, November 25, 1930, no. 11)",
+  "Mr. and Mrs. Jack Linsky, New York (until his d. 1980)",
+  "The Jack and Belle Linsky Foundation, New York (1980–82)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001520"
+  }
+ }
+}

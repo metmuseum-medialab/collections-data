@@ -1,0 +1,44 @@
+{
+ "Date": "20th century",
+ "Geography": "Côte d'Ivoire",
+ "Culture": "Dida peoples",
+ "Medium": "Raffia palm fiber, natural dye",
+ "Dimensions": "H. 39 in. x W.11 in.",
+ "Classification": "Textiles-Woven",
+ "Credit Line": "Purchase, Rogers Fund, 2001",
+ "Accession Number": "2001.80",
+ "Who": "Dida",
+ "What": [
+  "Costume",
+  "Textiles",
+  "Woven",
+  "Plant fiber",
+  "Raffia",
+  "Dye",
+  "Clothing"
+ ],
+ "Where": [
+  "Africa",
+  "Ivory Coast"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Guinea Coast, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 50011610,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/2001.80.jpg",
+ "related-artworks": [
+  50014946,
+  50014943,
+  50014944,
+  50014942,
+  50011611
+ ],
+ "Provenance": [
+  "[David M. Lantz, New York, until 2001]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50011610"
+  }
+ }
+}

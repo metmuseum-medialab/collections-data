@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 17th century",
+ "Culture": "Tibet",
+ "Medium": "Bone",
+ "Dimensions": "H. 4 3/4 in. (12.1 cm); W. 1 9/16 in. (3.9 cm); Th. 3/4 in. (1.9 cm)",
+ "Classification": "Bone",
+ "Credit Line": "Gift of Peter and Jean Marks, 1984",
+ "Accession Number": "1984.489",
+ "What": [
+  "Bone",
+  "Plaques"
+ ],
+ "Where": [
+  "Asia",
+  "China",
+  "Tibet"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Himalayan Region, 1400–1600 A.D.",
+  "Himalayan Region, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60005526,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1984_489.JPG",
+ "related-artworks": [
+  60005524,
+  60005527,
+  60005684,
+  60007334,
+  60012315
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005526"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Date": "carving ca. 1300, painting ca. 1310–20",
+ "Culture": "North French (carving), Upper Rhenish (painting)",
+ "Medium": "Elephant ivory, polychromy, and gilt",
+ "Dimensions": [
+  "Overall (opened) 2 13/16 x 3 3/16 x 1/2 in. (7.2 x 8.1 x 1.2 cm)",
+  "Overall (closed) 2 13/16 x 1 9/16 x 7/8 in. (7.2 x 4 x 2.2 cm)"
+ ],
+ "Classification": "Ivories",
+ "Credit Line": "The Jack and Belle Linsky Collection, 1982",
+ "Accession Number": "1982.60.399",
+ "What": [
+  "Gilt",
+  "Bone",
+  "Ivory",
+  "Tablets",
+  "Polychromy",
+  "Writing tablet"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": [
+  "Pilgrimage in Medieval Europe",
+  "Private Devotion in Medieval Christianity",
+  "France, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 170006015,
+ "gallery-id": 626,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/DT133.jpg",
+ "related-artworks": [
+  170005964,
+  170004015,
+  170007287,
+  170003951,
+  170004124
+ ],
+ "Description": "Gothic ivory carvings of the thirteenth and fourteenth centuries took many forms, including diptychs, triptychs, caskets, combs, and mirror backs.  One of the most exceptional objects, however, is the ivory booklet.  Secular examples were common, but tablets with religious subjects were extremely rare and are known primarily from surviving inventories.This diminutive booklet is unusual in that the exterior covers are not the only carved components: the interior of each cover and its outer vertical edge are carved as well.  The subjects of the upper and lower exterior covers are (from right to left, bottom to top): the Betrayal of Christ, Judas' acceptance of the thirty pieces of silver, the Flagellation, Pilate washing his hands, the Way to Calvary, and the Crucifixion, in which Christ is surrounded by the two thieves and the event is witnessed by the Virgin and John the Evangelist.  Scenes and figures secondary to the principal narratives are continued on the outer vertical edges, so that Judas committing suicide is adjacent to the Way to Calvary (at the upper left), Longinus with his spear and sword is alongside the Crucifixion (at the upper right), and a counselor (?) appears next to the scene with Pilate (at the lower right).  On the interior of the front cover is a carving of the standing Virgin and Child beneath a trefoil arch and between kneeling donors, and on the interior of the back cover is a depiction of the Coronation of the Virgin, also set beneath a trefoil arch.  Two images painted on the leaves facing the interior covers clearly are later additions, which transform the standard iconic subjects of the carvings.  Along with the kneeling donors, the three Magi under a trefoil arch create an unusual Adoration group, while the corresponding scene added to the Coronation includes a fair-haired female figure dressed in a golden gown and with attendant angels who are presenting her to the royal heavenly couple.In spite of the fact that the addition of painted panels to the carved scenes creates a certain iconographic ambiguity, from the beginning these spaces must have been intended for some purpose.  Except for the two painted leaves, all the others have raised edges on the surfaces of which wax could have been applied to allow them to be written on with a stylus.  The religious nature of this booklet suggests that it served as an accessory for private devotion.  The wax tablets within could have contained prayers of intercession or the litanies of saints.",
+ "Provenance": [
+  "Albert Freund, Vienna",
+  "[ Blumka Gallery, New York]",
+  "Jack and Belle Linsky, New York (until 1982)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170006015"
+  }
+ }
+}

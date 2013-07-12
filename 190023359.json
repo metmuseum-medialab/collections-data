@@ -1,0 +1,31 @@
+{
+ "Date": "1965",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 1969",
+ "Accession Number": "69.643.1",
+ "Who": "Edward R. Miller",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190023359,
+ "related-artworks": [
+  190022830,
+  190022831,
+  190022832,
+  190022833,
+  190022834
+ ],
+ "Provenance": [
+  "Edward R. Miller"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190023359"
+  }
+ }
+}

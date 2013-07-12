@@ -1,0 +1,46 @@
+{
+ "Date": "5th–6th century",
+ "Geography": "Egypt",
+ "Medium": "Wool, linen; plain weave, tapestry weave",
+ "Dimensions": "8 3/8 in. high 6 1/2 in. wide (21.2 cm high 16.5 cm wide)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of George F. Baker, 1890",
+ "Accession Number": "90.5.344",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Wool",
+  "Linen",
+  "Tapestries",
+  "Plain weave"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1–500A.D.",
+  "Egypt, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140000999,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/83168.jpg",
+ "related-artworks": [
+  140000379,
+  140000376,
+  140000387,
+  140000390,
+  140000391
+ ],
+ "Provenance": [
+  "Emil Brugsch-Bey(until 1890",
+  "sold to Baker)",
+  "George F. Baker, New York (1890)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140000999"
+  }
+ }
+}

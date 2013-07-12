@@ -1,0 +1,42 @@
+{
+ "Period": "Northern Song dynasty (960–1127)",
+ "Date": "11th–12th century",
+ "Culture": "China",
+ "Medium": "Porcelaneous ware with reddish-brown glaze (Ding ware)",
+ "Dimensions": "H. 2 5/8 in. (6.7 cm); Diam. 7 3/4 in. (19.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Fletcher Fund, 1927",
+ "Accession Number": "27.119.15",
+ "What": [
+  "Ceramics",
+  "Glaze",
+  "Bowls",
+  "Ritual vessels",
+  "Ding"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60023606,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/27_119_15_67827.jpg",
+ "related-artworks": [
+  60009926,
+  60009931,
+  60009933,
+  60009922,
+  60012089
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60023606"
+  }
+ }
+}

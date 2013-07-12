@@ -1,0 +1,45 @@
+{
+ "Date": "1918",
+ "Medium": "Etching",
+ "Dimensions": [
+  "plate 3 3/4 x 2 3/4 in. (9.5 x 7 cm)",
+  "sheet 5 11/16 x 3 3/8 in. (14.4 x 8.6 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Harry Payne Whitney, 1926",
+ "Accession Number": "26.30.64",
+ "Who": "John Sloan",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Ashcan School",
+  "American Scenes of Everyday Life, 1840–1910",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90040441,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP814621.jpg",
+ "related-artworks": [
+  90035820,
+  90035821,
+  90040384,
+  90040385,
+  90040386
+ ],
+ "Provenance": [
+  "Donor: Mrs. Harry Payne Whitney"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90040441"
+  }
+ }
+}

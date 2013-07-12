@@ -1,0 +1,36 @@
+{
+ "Date": "17th century",
+ "Medium": "Red chalk, brush and brown wash on cream paper",
+ "Dimensions": "8-3/16 x 5-13/16 in.  (20.75 x 14.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Cornelius Vanderbilt, 1880",
+ "Accession Number": "80.3.140",
+ "Who": "Anonymous, Italian, Roman-Bolognese, 17th century",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Chalk"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90007487,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802198.jpg",
+ "related-artworks": [
+  90003273,
+  90003361,
+  90003363,
+  90006845,
+  90006847
+ ],
+ "Provenance": [
+  "James Jackson Jarves",
+  "Cornelius Vanderbilt (American, Staten Island, New York 1843–1899 New York)",
+  "Donor: Cornelius Vanderbilt (American, Staten Island, New York 1843–1899 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90007487"
+  }
+ }
+}

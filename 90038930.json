@@ -1,0 +1,39 @@
+{
+ "Artist": "After(?) Abraham Bloemaert (Netherlandish, Gorinchem 1566–1651 Utrecht)",
+ "Date": "n.d.",
+ "Medium": "Engraving",
+ "Dimensions": "Diameter 7 1/4 in. (18.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.95.2703",
+ "Who": [
+  "Jacques de Gheyn II",
+  "Abraham Bloemaert"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Low Countries, 1400–1600 A.D.",
+  "Low Countries, 1600–1800 A.D."
+ ],
+ "id": 90038930,
+ "related-artworks": [
+  90003410,
+  90018158,
+  90072181,
+  90094721,
+  90099407
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90038930"
+  }
+ }
+}

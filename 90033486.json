@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1769",
+ "Medium": "Pen and brown ink, touches of watercolor",
+ "Dimensions": "sheet 8 3/8 x 11 3/4 in. (21.3 x 29.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1934",
+ "Accession Number": "34.78.2",
+ "Who": "Sir William Chambers",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90033486,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP800994.jpg",
+ "related-artworks": [
+  90028521,
+  90028678,
+  90028679,
+  90028676,
+  90028657
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90033486"
+  }
+ }
+}

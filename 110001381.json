@@ -1,0 +1,36 @@
+{
+ "Medium": "Oil on canvas",
+ "Dimensions": "62 3/8 x 37 1/4 in. (158.4 x 94.6 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Catharine Lorillard Wolfe Collection, Bequest of Catharine Lorillard Wolfe, 1887",
+ "Accession Number": "87.15.133",
+ "Who": "Hans Makart",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110001381,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT271288.jpg",
+ "related-artworks": [
+  90003456,
+  20016325,
+  110001264
+ ],
+ "Provenance": [
+  "Catharine Lorillard Wolfe, New York (by 1879–d. 1887)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001381"
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "Date": "17th century",
+ "Medium": "Black and red chalk",
+ "Dimensions": "sheet 15 7/16 x 10 5/8 in. (39.2 x 27 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Purchase, Lila Acheson Wallace Gift, Gifts in Memory of Jacob Bean, and various donors, 1994",
+ "Accession Number": "1994.610",
+ "What": [
+  "Drawings",
+  "Chalk"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90054210,
+ "related-artworks": [
+  90000486,
+  90000570,
+  90000917,
+  90000918,
+  90001591
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90054210"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Date": "14th–16th century",
+ "Culture": "French",
+ "Medium": "Lead",
+ "Dimensions": "Overall 1 x 7/8in. (2.5 x 2.2cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "The Cloisters Collection, 1977",
+ "Accession Number": "1977.240.40",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Lead",
+  "Badges"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Burgundy"
+ ],
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1400–1600 A.D.",
+  "France, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 70012623,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/cdi1977-240-40.jpg",
+ "related-artworks": [
+  70010001,
+  70012580,
+  70012563,
+  70012583,
+  70012585
+ ],
+ "Provenance": [
+  "[ Ronald A. Lee Fine Arts, Ltd. ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70012623"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Date": "second half 16th century",
+ "Culture": "Italian (Sicily or Faenza)",
+ "Medium": "Maiolica (tin-enameled earthenware)",
+ "Dimensions": "Overall (confirmed) 7 3/8 x 5 1/16 in. (18.7 x 12.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+ "Accession Number": "32.100.376",
+ "Who": "Vincenzo di Marco",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Maiolica",
+  "Apothecary jars",
+  "Albarelli"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Sicily"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120012129,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/88407.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120012128"
+   },
+   {
+    "href": "http://scrapi.org/object/120012127"
+   },
+   {
+    "href": "http://scrapi.org/object/120002898"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120012129"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120012129"
+  }
+ }
+}

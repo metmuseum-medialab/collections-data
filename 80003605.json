@@ -1,0 +1,39 @@
+{
+ "Date": "1949",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": [
+  "Length (a) 30 in. (76.2 cm)",
+  "Length at CF (b, c) 40 in. (101.6 cm)"
+ ],
+ "Credit Line": "Gift of Estate of H.R.H. Duke of Windsor and the Duchess of Windsor, 1986",
+ "Accession Number": "1986.295.14a–c",
+ "Who": "H. Harris",
+ "What": [
+  "Costume",
+  "Wool",
+  "Suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80003605,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1986.295.14ab_F.jpg",
+ "related-artworks": [
+  80003360,
+  80003606,
+  80115500,
+  80003364,
+  80003435
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80003605"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "Dated 1875",
+ "Culture": "China",
+ "Medium": "Set of four hanging scrolls; ink and color on paper",
+ "Dimensions": [
+  "Image 104 1/2 x 22 1/8 in. (265.4 x 56.2 cm)",
+  "Overall with mounting (a) 143 x 29 in. (363.2 x 73.7 cm)",
+  "Overall with mounting (b) 143 3/8 x 29 1/16 in. (364.2 x 73.8 cm)",
+  "Overall with mounting (c) 143 1/8 x 29 1/16 in. (363.5 x 73.8 cm)",
+  "Overall with mounting (d) 143 1/2 x 29 in. (364.5 x 73.7 cm)",
+  "Overall with rollers (each) 33 1/4 in. (84.5 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mark Shrum Pratt, 2004",
+ "Accession Number": "2004.557.3a–d",
+ "Who": "Hu Yuan",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "id": 60046573,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2004_557_3a_O.jpg",
+ "related-artworks": [
+  60009261,
+  60000232,
+  60020113,
+  60020115,
+  60020116
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60046573"
+  }
+ }
+}

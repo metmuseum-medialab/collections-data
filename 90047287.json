@@ -1,0 +1,51 @@
+{
+ "Printer": "Sirocco Screenprints (New Haven, Connecticut)",
+ "Publisher": "Ives-Sillman Inc. (America, New Haven, Connecticut)",
+ "Date": "1969",
+ "Medium": "Screenprint",
+ "Dimensions": [
+  "image 22 1/2 x 26 1/16 in. (57.2 x 66.2 cm)",
+  "sheet 28 x 36 in. (71.1 x 91.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Josef Albers, 1970",
+ "Accession Number": "1970.712.6",
+ "Who": [
+  "Josef Albers",
+  "Ives-Sillman Inc.",
+  "Sirocco Screenprints"
+ ],
+ "What": [
+  "Prints",
+  "Screen prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1925–50",
+  "Geometric Abstraction",
+  "The Bauhaus, 1919–1933",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90047287,
+ "related-artworks": [
+  90046086,
+  90046085,
+  90046087,
+  90046084,
+  90046088
+ ],
+ "Provenance": [
+  "Donor: Josef Albers (American (born Germany), Bottrop 1888–1976 New Haven, Connecticut)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90047287"
+  }
+ }
+}

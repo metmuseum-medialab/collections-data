@@ -1,0 +1,40 @@
+{
+ "Date": "20th century",
+ "Geography": "Cameroon, North Cameroon, Donga River",
+ "Culture": "Mambila peoples, Tep group",
+ "Medium": "Pith, pigment",
+ "Dimensions": "H. 7 7/8 x W. 2 1/8 x D. 2 1/4in. (20 x 5.4 x 5.7cm)",
+ "Classification": "Wood-Sculpture",
+ "Credit Line": "Fletcher Fund, 1972",
+ "Accession Number": "1972.4.22",
+ "Who": "Mambila",
+ "What": [
+  "Sculpture",
+  "Figures"
+ ],
+ "Where": [
+  "Africa",
+  "Cameroon"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Central Africa, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 50002385,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1972.4.22.JPG",
+ "related-artworks": [
+  50002378,
+  50002380,
+  50002383,
+  50002382,
+  50002386
+ ],
+ "Provenance": [
+  "Paul and Clara Gebauer, McMinnville, Ore., 1941–1972"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50002385"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Period": "Late Archaic",
+ "Date": "6th–5th century B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Gold, Lapis lazuli",
+ "Dimensions": "Other 13/16 in. (2.1 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.3247",
+ "What": [
+  "Metal",
+  "Costume",
+  "Silver",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings",
+  "Lapis lazuli"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "id": 130003146,
+ "gallery-id": 171,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP135966.jpg",
+ "related-artworks": [
+  130003053,
+  130003061,
+  130003077,
+  130003107,
+  130003140
+ ],
+ "Provenance": [
+  "From Cyprus"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130003146"
+  }
+ }
+}

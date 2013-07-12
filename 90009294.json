@@ -1,0 +1,38 @@
+{
+ "Date": "16th century",
+ "Medium": "Pen and brown ink, washed",
+ "Dimensions": "13-3/8 x 9-1/4 in.  (34.0 x 23.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Cornelius Vanderbilt, 1880",
+ "Accession Number": "80.3.239",
+ "Who": "Anonymous, Italian, 16th century",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90009294,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP801868.jpg",
+ "related-artworks": [
+  90007317,
+  90007322,
+  90007329,
+  90007330,
+  90007315
+ ],
+ "Provenance": [
+  "James Jackson Jarves",
+  "Cornelius Vanderbilt (American, Staten Island, New York 1843–1899 New York)",
+  "Donor: Cornelius Vanderbilt (American, Staten Island, New York 1843–1899 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90009294"
+  }
+ }
+}

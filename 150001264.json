@@ -1,0 +1,51 @@
+{
+ "Date": "ca. 1525–30",
+ "Culture": "Italian, Urbino",
+ "Medium": "Maiolica (tin-glazed earthenware)",
+ "Dimensions": "Diameter 19 1/16 in. (48.4cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.1004",
+ "Who": "Nicola da Urbino",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Glaze",
+  "Glazing",
+  "Ceramic glaze",
+  "Maiolica",
+  "Tin",
+  "Tin glaze"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Urbino"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1400–1600 A.D.",
+ "id": 150001264,
+ "gallery-id": 950,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/DP158924.jpg",
+ "related-artworks": [
+  150000250,
+  150001263,
+  120020222,
+  120020223
+ ],
+ "Provenance": [
+  "The early provenance of the piece has not been established",
+  "according to one of the labels on the back it was once in a French collection (perhaps that of Baron Adolphe de Rothschild, Paris (?)). J. Pierpont Morgan, London and New York, (sale, Duveen, New York, May 22, 1922)",
+  "purchased from Duveen in 1924 by Mrs. Albert E. Goodhart, New York",
+  "bequeathed to Robert Lehman in 1952."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150001264"
+  }
+ }
+}

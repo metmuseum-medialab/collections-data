@@ -1,0 +1,52 @@
+{
+ "Maker": "Elkington & Co. (British, Birmingham, 1829–1963)",
+ "Date": "19th century",
+ "Culture": "British, Birmingham (after a German, Augsburg original)",
+ "Medium": "Gold",
+ "Dimensions": "H. 38 in. (96.5 cm.)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Henry G. Marquand, 1883",
+ "Accession Number": "83.18.32",
+ "Who": [
+  "Elkington & Co.",
+  "Johann Ludwig Biller",
+  "Johann Jakob Wald"
+ ],
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Gold",
+  "Printing plates",
+  "Frames",
+  "Mirrors",
+  "Electrotype"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "West Midlands",
+  "Birmingham"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000702,
+ "related-artworks": [
+  120000697,
+  120000698,
+  120000700,
+  120000703,
+  120000710
+ ],
+ "Provenance": [
+  "Henry G. Marquand (until 1883",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000702"
+  }
+ }
+}

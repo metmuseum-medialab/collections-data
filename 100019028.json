@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1353 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Malqata, Palace of Amenhotep III, MMA 1911–1912",
+ "Medium": "Faience",
+ "Dimensions": "H. 3.8 cm (1 1/2 in), w. 3.2 cm (1 1/4 in)",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.180.373",
+ "What": [
+  "Fragments",
+  "Faience",
+  "Dishes"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100019028,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/12.180.373.jpg",
+ "related-artworks": [
+  100008589,
+  100009220,
+  100010060,
+  100019022,
+  100005956
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100019028"
+  }
+ }
+}

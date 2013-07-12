@@ -1,0 +1,34 @@
+{
+ "Date": "1702",
+ "Medium": "Etching",
+ "Dimensions": "sheet 7 x 11 7/8 in. (17.8 x 30.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.621.54",
+ "Who": "Romeyn de Hooghe",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90050177,
+ "related-artworks": [
+  90008859,
+  90011395,
+  90039937,
+  90039949,
+  90041088
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90050177"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "fourth quarter 19th century",
+ "Culture": "French",
+ "Medium": "leather, silk",
+ "Dimensions": "21 3/4 in. (55.2 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Katharine D. Kittinger, 1953",
+ "Accession Number": "2009.300.3145a, b",
+ "What": [
+  "Costume",
+  "Silk",
+  "Leather",
+  "Gloves"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 80095904,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/53.200.2a-b_CP4.jpg",
+ "related-artworks": [
+  80052891,
+  80004783,
+  80108290,
+  80108718,
+  80094789
+ ],
+ "Description": "The attractive embroidery on these elegant kidskin gloves illustrate subtle nuances of color in the greens, purples and grays, which make them very engaging.  Needlework on leather is difficult and would require great skill and the use of special techniques to execute in this caliber.  The wheatear motif was particularly popular towards the end of the 19th century.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80095904"
+  }
+ }
+}

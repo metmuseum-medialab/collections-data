@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1873",
+ "Culture": "Norwegian (Christiania)",
+ "Medium": "Silver filigree",
+ "Dimensions": "No dimensions recorded.",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mrs. Harriette M. Arnold, 1906",
+ "Accession Number": "06.464",
+ "Who": "J. Tostrup",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Buttons",
+  "Filigree"
+ ],
+ "Where": [
+  "Europe",
+  "Norway",
+  "Oslo"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003458,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/59146.jpg",
+ "related-artworks": [
+  120003456,
+  120003459,
+  120003452,
+  120003453,
+  120003454
+ ],
+ "Provenance": [
+  "Mrs. Harriette M. Arnold (until 1906",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120003458"
+  }
+ }
+}

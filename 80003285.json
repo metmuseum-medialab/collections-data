@@ -1,0 +1,38 @@
+{
+ "Date": "spring/summer 1939",
+ "Culture": "French",
+ "Medium": "silk, cotton",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mrs. Harrison Williams, Lady Mendl, and Mrs. Ector Munn, 1946",
+ "Accession Number": "C.I.46.4.11a, b",
+ "Who": "House of Paquin",
+ "What": [
+  "Costume",
+  "Silk",
+  "Cotton",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80003285,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI46.4.11ab_F.jpg",
+ "related-artworks": [
+  80033641,
+  80093848,
+  80033813,
+  80093647,
+  80095004
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80003285"
+  }
+ }
+}

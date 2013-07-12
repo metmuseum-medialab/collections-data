@@ -1,0 +1,47 @@
+{
+ "Artist": "Copy after Hendrick Goltzius (Paris)",
+ "Date": "n.d.",
+ "Medium": "Engraving",
+ "Dimensions": [
+  "sheet 7 13/16 x 5 1/16 in. (19.8 x 12.8 cm)",
+  "mount 10 5/8 x 9 7/16 in. (27 x 24 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.168",
+ "Who": [
+  "Anonymous",
+  "Hendrick Goltzius"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1000–1400 A.D.",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90073127,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820901.jpg",
+ "related-artworks": [
+  90020244,
+  90026323,
+  90060140,
+  90060135,
+  90060254
+ ],
+ "Provenance": [
+  "Donor: Elisha Whittelsey Fund"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90073127"
+  }
+ }
+}

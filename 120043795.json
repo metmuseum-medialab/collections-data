@@ -1,0 +1,52 @@
+{
+ "Date": "17th century",
+ "Culture": "Italian (Venice)",
+ "Medium": "Needle lace",
+ "Dimensions": "L. 15 x W. 4 inches (38.1 x 10.2 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of Emma T. Gary, 1937",
+ "Accession Number": "37.20.244",
+ "What": [
+  "Textiles",
+  "Needlework",
+  "Lace",
+  "Needles",
+  "Needle lace",
+  "Borders"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120043795,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120040413"
+   },
+   {
+    "href": "http://scrapi.org/object/120030156"
+   },
+   {
+    "href": "http://scrapi.org/object/120030209"
+   },
+   {
+    "href": "http://scrapi.org/object/120035713"
+   },
+   {
+    "href": "http://scrapi.org/object/120035718"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120043795"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120043795"
+  }
+ }
+}

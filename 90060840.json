@@ -1,0 +1,34 @@
+{
+ "Date": "ca. 1880",
+ "Medium": "Pen and ink, wash and watercolor",
+ "Dimensions": "sheet 9 13/16 x 9 13/16 in. (25 x 25 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1960",
+ "Accession Number": "60.632.116",
+ "Who": "Richardson Ellson & Co.",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90060840,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP806676.jpg",
+ "related-artworks": [
+  90060831,
+  90060830,
+  90060832,
+  90060836,
+  90060839
+ ],
+ "Provenance": [
+  "Vendor: Benjamin Weinreb (London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060840"
+  }
+ }
+}

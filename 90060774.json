@@ -1,0 +1,30 @@
+{
+ "Date": "19th century",
+ "Medium": "Ink and watercolor",
+ "Dimensions": "sheet 4 5/16 x 5 3/8 in. (11 x 13.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.608.70",
+ "Who": "Anonymous, British, 19th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90060774,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP806517.jpg",
+ "related-artworks": [
+  90033811,
+  90033895,
+  90033896,
+  90033884,
+  90033885
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90060774"
+  }
+ }
+}

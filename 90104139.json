@@ -1,0 +1,44 @@
+{
+ "Publisher": "The Bibliophile Society (American, 1901–1939)",
+ "Date": "1912",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Plate 7 5/16 × 5 7/8 in. (18.6 × 15 cm)",
+  "Sheet 9 13/16 × 8 1/8 in. (25 × 20.7 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Felix M. Warburg, 1940",
+ "Accession Number": "40.139.3",
+ "Who": [
+  "William Harry Warren Bicknell",
+  "The Bibliophile Society"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90104139,
+ "related-artworks": [
+  90054691,
+  90104132,
+  90104134,
+  90104135,
+  90104136
+ ],
+ "Provenance": [
+  "Donor: Freida Schiff Warburg"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90104139"
+  }
+ }
+}

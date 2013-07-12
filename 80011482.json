@@ -1,0 +1,35 @@
+{
+ "Date": "20th century",
+ "Culture": "Armenian",
+ "Medium": "wool",
+ "Dimensions": "Height 9 3/4 in. (24.8 cm)",
+ "Accession Number": "1981.307.3a, b",
+ "What": [
+  "Costume",
+  "Wool",
+  "Hosiery",
+  "Socks"
+ ],
+ "Where": [
+  "Asia",
+  "Armenia"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Anatolia and the Caucasus, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80011482,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1981.307.3ab.jpg",
+ "related-artworks": [
+  80011463,
+  80011201,
+  80002836,
+  80011528,
+  80011577
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80011482"
+  }
+ }
+}

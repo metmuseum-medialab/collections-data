@@ -1,0 +1,41 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "ca. 1910",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "14 5/8 x 20 in. (37.1 x 50.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Teiji Ito, 1919",
+ "Accession Number": "MJP9",
+ "Who": "Tsukioka Kōgyo",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1900 A.D.–present",
+ "id": 60028300,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP143334.jpg",
+ "related-artworks": [
+  60024902,
+  60028298,
+  60028308,
+  60028310,
+  60028316
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60028300"
+  }
+ }
+}

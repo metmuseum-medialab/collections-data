@@ -1,0 +1,35 @@
+{
+ "Date": "1986–88",
+ "Culture": "American",
+ "Medium": "synthetic",
+ "Dimensions": [
+  "Total Length (a) 57 in. (144.8 cm)",
+  "Total Length (b) 49 in. (124.5 cm)",
+  "Total Length (c) 49 in. (124.5 cm)"
+ ],
+ "Credit Line": "Gift of Martin F. Price, 1998",
+ "Accession Number": "1998.493.971a–c",
+ "Who": "Giorgio di Sant'Angelo",
+ "What": "Sashes",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80016514,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1998.493.971a_F.jpg",
+ "related-artworks": [
+  80067461,
+  80000762,
+  80001440,
+  80002289,
+  80003678
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80016514"
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "Period": "Hellenistic",
+ "Date": "3rd–2nd century B.C.",
+ "Culture": "Greek",
+ "Medium": "Silver",
+ "Dimensions": "H. 1 15/16 in. (5 cm)",
+ "Classification": "Gold and Silver",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.91.2",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Silver",
+  "Gold",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130008953,
+ "gallery-id": 163,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130016740"
+   },
+   {
+    "href": "http://scrapi.org/object/130011223"
+   },
+   {
+    "href": "http://scrapi.org/object/130015849"
+   },
+   {
+    "href": "http://scrapi.org/object/130012063"
+   },
+   {
+    "href": "http://scrapi.org/object/130012076"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130008953"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130008953"
+  }
+ }
+}

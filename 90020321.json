@@ -1,0 +1,38 @@
+{
+ "Publisher": "Published by Johann Andreas Pfeffel",
+ "Date": "1738",
+ "Medium": "Engraving",
+ "Dimensions": "Overall 11 13/16 x 15 3/8 x 13/16 in. (30 x 39 x 2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1930",
+ "Accession Number": "30.70.12",
+ "Who": [
+  "Johann Andreas Pfeffel",
+  "Salomon Kleiner"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90020321,
+ "related-artworks": [
+  90020317,
+  90020322,
+  90020323,
+  90020320,
+  90020324
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90020321"
+  }
+ }
+}

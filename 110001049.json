@@ -1,0 +1,50 @@
+{
+ "Date": "ca. 1815",
+ "Medium": "Ivory",
+ "Dimensions": "Oval, 2 3/8 x 1 3/4 in. (59 x 46 mm)",
+ "Classification": "Miniatures",
+ "Credit Line": "Bequest of Millie Bruhl Fredrick, 1962",
+ "Accession Number": "62.122.87",
+ "Who": "Jean Urbain Guérin",
+ "What": [
+  "Paintings",
+  "Bone",
+  "Ivory",
+  "Miniatures"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110001049,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/259972.jpg",
+ "Provenance": [
+  "Mrs. Leopold (Millie Bruhl) Fredrick, New York (by 1960–d. 1962; inv., 1960, no. 76)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/110001048"
+   },
+   {
+    "href": "http://scrapi.org/object/110001522"
+   },
+   {
+    "href": "http://scrapi.org/object/110000023"
+   },
+   {
+    "href": "http://scrapi.org/object/110000095"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/110001049"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/110001049"
+  }
+ }
+}

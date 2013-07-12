@@ -1,0 +1,37 @@
+{
+ "Printer": "Berkey K & L",
+ "Date": "1950s–70s",
+ "Classification": "Portfolios",
+ "Credit Line": "Gift of Sheri and Paul J. Siegel, 1981",
+ "Accession Number": "1981.1201",
+ "Rights and Reproduction": "© 1990 Amon Carter Museum, Fort Worth, Texas",
+ "Who": [
+  "Eliot Porter",
+  "Berkey K & L"
+ ],
+ "What": "Portfolios",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190014918,
+ "related-artworks": [
+  190011780,
+  190011788,
+  190011789,
+  190011784,
+  190011785
+ ],
+ "Provenance": [
+  "Sheri and Paul J. Siegel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190014918"
+  }
+ }
+}

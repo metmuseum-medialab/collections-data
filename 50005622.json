@@ -1,0 +1,45 @@
+{
+ "Date": "10th–15th century",
+ "Geography": "Colombia, Rio Magdalena region",
+ "Culture": "Tolima (?)",
+ "Medium": "Gold",
+ "Dimensions": "H. 1 5/8 x W. 1 x D. 2 1/8 in. (4.1 x 2.5 x 5.4 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.782",
+ "Who": "Tolima",
+ "What": [
+  "Metal",
+  "Gold",
+  "Pendants"
+ ],
+ "Where": [
+  "South America",
+  "Colombia"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Northern Andes, 1400–1600 A.D.",
+  "Northern Andes, 500–1000 A.D."
+ ],
+ "id": 50005622,
+ "gallery-id": 357,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_206_782.jpg",
+ "related-artworks": [
+  50001700,
+  50009355,
+  50000450,
+  50005070,
+  50005287
+ ],
+ "Provenance": [
+  "Federico Restrepo, Medellin, Colombia",
+  "[John C. Wise Ltd., New York, until 1956]",
+  "Nelson A. Rockefeller, New York, 1956, on loan to The Museum of Primitive Art, New York, 1958–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50005622"
+  }
+ }
+}

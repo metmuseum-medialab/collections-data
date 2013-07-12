@@ -1,0 +1,41 @@
+{
+ "Period": "Anuradhapura period",
+ "Date": "ca. late 7th century",
+ "Culture": "Sri Lanka",
+ "Medium": "Bronze with traces of gilt",
+ "Dimensions": "H. 2 1/8 in. (5.4 cm); W. 2 1/8 in. (5.4 cm); D. 1 1/8 in. (2.9 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Samuel Eilenberg Collection, Gift of Samuel Eilenberg, 1987",
+ "Accession Number": "1987.142.63",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Gilt",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Asia",
+  "Sri Lanka"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia South, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60005949,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/1987_142_63.jpg",
+ "related-artworks": [
+  60005956,
+  60005950,
+  60005951,
+  60005955,
+  60006102
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60005949"
+  }
+ }
+}

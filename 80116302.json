@@ -1,0 +1,37 @@
+{
+ "Date": "mid-20th century",
+ "Culture": "French",
+ "Medium": "Silk",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Arthur Wm. Fried, 1981",
+ "Accession Number": "2009.300.8019",
+ "Who": "A. Sulka & Company",
+ "What": [
+  "Costume",
+  "Silk",
+  "Neckwear",
+  "Bows",
+  "Neckties",
+  "Ties",
+  "Bow ties"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "id": 80116302,
+ "related-artworks": [
+  80116287,
+  80116289,
+  80116292,
+  80116296,
+  80116297
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80116302"
+  }
+ }
+}

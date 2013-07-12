@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1470–90",
+ "Geography": "Made in London, England",
+ "Culture": "British",
+ "Medium": "Silver, partial gilt",
+ "Dimensions": "Overall 7 5/8 x 2 1/16 x 13/16 in. (19.4 x 5.3 x 2.1 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "The Cloisters Collection, 1955",
+ "Accession Number": "55.42.6",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Gilt",
+  "Flatware",
+  "Spoons"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "The Cloisters",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 70012115,
+ "image": "http://images.metmuseum.org/CRDImages/cl/original/sf55-42-6s1.jpg",
+ "related-artworks": [
+  70012119,
+  70012116,
+  70012117,
+  70012113,
+  70012111
+ ],
+ "Provenance": [
+  "Edward Rt. Thomas",
+  "Sir Andrew Napier Noble",
+  "J.P. Benson",
+  "[ G.E.P. How (sold 1955) ]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/70012115"
+  }
+ }
+}

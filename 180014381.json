@@ -1,0 +1,40 @@
+{
+ "Date": "18th century (?)",
+ "Geography": "France",
+ "Medium": "Wood, brass, ivory",
+ "Dimensions": "Length 1288 mm along bore axix, Embouchure length 1198 along bore axis",
+ "Classification": "Aerophone-Blow Hole",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2038",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bone",
+  "Ivory",
+  "Musical instruments",
+  "Brass",
+  "Aerophones",
+  "Flutes",
+  "Transverse flutes"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 180014381,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/209654.jpg",
+ "related-artworks": [
+  180014498,
+  180015566,
+  180016781,
+  180013280,
+  180013282
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180014381"
+  }
+ }
+}

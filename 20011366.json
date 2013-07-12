@@ -1,0 +1,38 @@
+{
+ "Date": "1866",
+ "Medium": "Oil on canvas",
+ "Dimensions": "23 x 41 in. (58.4 x 104.1 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of the sons of William Paton, 1909",
+ "Accession Number": "09.214.2",
+ "Who": "William Hart",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 20011366,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap09.214.2.jpg",
+ "related-artworks": [
+  20011365,
+  90019816,
+  20010361
+ ],
+ "Provenance": [
+  "William Paton, New York, died 1890",
+  "his sons, William Agnew Paton, David Paton, and Stewart Paton, 1890–1909"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20011366"
+  }
+ }
+}

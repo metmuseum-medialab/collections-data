@@ -1,0 +1,41 @@
+{
+ "Manufacturer": "Wiener Werkstätte",
+ "Date": "ca. 1920",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Joanne F. du Pont and John F. Pleasants, in memory of Enos Rogers Pleasants, III, 1984",
+ "Accession Number": "1984.537.47",
+ "Who": [
+  "Wiener Werkstätte",
+  "Dagobert Peche"
+ ],
+ "What": [
+  "Textiles",
+  "Printing",
+  "Samples"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "Design, 1900–25",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210003912,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DP10800.jpg",
+ "related-artworks": [
+  210003851,
+  210003852,
+  210003864,
+  210003866,
+  210003867
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003912"
+  }
+ }
+}

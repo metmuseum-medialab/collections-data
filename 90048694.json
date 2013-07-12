@@ -1,0 +1,38 @@
+{
+ "Date": "early 20th century",
+ "Medium": "Lithograph",
+ "Dimensions": "image 13 3/4 x 7 in. (35 x 17.5 cm) sheet: 15 3/4 x 11 1/4 in. (40 x 28.5 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Weyhe Gallery, 1932",
+ "Accession Number": "32.16.4",
+ "Who": "Alexander Zerdini Kruse",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90048694,
+ "related-artworks": [
+  90048700,
+  90048703,
+  90048691,
+  90048692,
+  90048696
+ ],
+ "Provenance": [
+  "Donor: Weyhe Gallery"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90048694"
+  }
+ }
+}

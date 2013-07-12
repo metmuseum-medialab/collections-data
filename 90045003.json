@@ -1,0 +1,39 @@
+{
+ "Date": "17th century",
+ "Medium": "Pen and dark brown ink; traces of framing outlines in pen and brown ink",
+ "Dimensions": "sheet 8 1/8 x 6 5/16 in. (20.6 x 16 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Anonymous Gift, 2006",
+ "Accession Number": "2006.393.6",
+ "Who": "Pietro da Cortona (Pietro Berrettini)",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90045003,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP809276.jpg",
+ "related-artworks": [
+  90010909,
+  90027625,
+  90045004,
+  90005613,
+  90005608
+ ],
+ "Provenance": [
+  "Pietro Scarpa, Paris",
+  "John and Alice F. Steiner (American, Larchmont, New York), acquired in 1980",
+  "Steiner Family Collection by descent"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90045003"
+  }
+ }
+}

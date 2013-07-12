@@ -1,0 +1,34 @@
+{
+ "Date": "n.d.",
+ "Classification": "Books",
+ "Credit Line": "Gift of Shelley Marks, 1970",
+ "Accession Number": "1970.567",
+ "Who": "Milton Paper Co., Inc.",
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90021853,
+ "related-artworks": [
+  90000871,
+  90000872,
+  90000873,
+  90000874,
+  90000875
+ ],
+ "Provenance": [
+  "Donor: Shelley Marks"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90021853"
+  }
+ }
+}

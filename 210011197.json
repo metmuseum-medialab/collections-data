@@ -1,0 +1,38 @@
+{
+ "Date": "1992",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "H. 74-1/4, W. 62-5/8 inches",
+  "(188.6 x 159.1 cm)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Susan Kasen Summer and Robert D. Summer, 1998",
+ "Accession Number": "1998.452.1",
+ "Who": "Ian Phillips",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210011197,
+ "related-artworks": [
+  210000759,
+  210000931,
+  210001233,
+  210001330,
+  210001649
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210011197"
+  }
+ }
+}

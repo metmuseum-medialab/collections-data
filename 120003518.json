@@ -1,0 +1,41 @@
+{
+ "Date": "second half 17th century",
+ "Culture": "German (?)",
+ "Medium": "Pewter",
+ "Dimensions": "Not given",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1906",
+ "Accession Number": "06.792",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Metalwork",
+  "Bottles",
+  "Pewter"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003518,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/18486.jpg",
+ "related-artworks": [
+  120008002,
+  120005948,
+  120007709,
+  120005834,
+  120005945
+ ],
+ "Provenance": [
+  "Lady Selina Hervey"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120003518"
+  }
+ }
+}

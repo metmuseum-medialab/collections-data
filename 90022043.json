@@ -1,0 +1,54 @@
+{
+ "Publisher": "Henry Graves & Company (London)",
+ "Dedicatee": "Duke of Rutland (British)",
+ "Printer": "Charles Joseph Hullmandel (British, London 1789–1850 London)",
+ "Date": "1842",
+ "Medium": "Lithography with tint stones",
+ "Dimensions": "Overall 21 1/4 x 14 15/16 x 13/16 in. (54 x 38 x 2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1918, transferred from the Library (1991.1073.63)",
+ "Accession Number": "1991.1073.63",
+ "Who": [
+  "Charles Joseph Hullmandel",
+  "Henry Graves & Company",
+  "Douglas Morison",
+  "Duke of Rutland"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90022043,
+ "related-artworks": [
+  "http://scrapi.org/object/90016499",
+  "http://scrapi.org/object/90070186",
+  "http://scrapi.org/object/90070187"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90016499"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90070186"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90070187"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90022043"
+  }
+ }
+}

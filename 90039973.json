@@ -1,0 +1,41 @@
+{
+ "Publisher": "Published by La Nuove Foglio Editrice",
+ "Date": "[1970s]",
+ "Medium": "plates photomechanical",
+ "Dimensions": "Overall 11 x 8 1/4 x 13/16 in. (28 x 21 x 2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Hsaio Chin, 1979",
+ "Accession Number": "1979.623",
+ "Who": [
+  "Hsiao Chin",
+  "La Nuove Foglio Editrice"
+ ],
+ "What": [
+  "Books",
+  "Printing plates"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1900 A.D.–present",
+  "China, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90039973,
+ "related-artworks": [
+  90019608,
+  90012494,
+  90049673,
+  90085792,
+  90014859
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90039973"
+  }
+ }
+}

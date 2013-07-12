@@ -1,0 +1,42 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "Joint reign of Hatshepsut and Thutmose III",
+ "Date": "ca. 1473–1458 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Sheikh Abd el-Qurna, Tomb of Senenmut (TT 71) or below, Radim, MMA 1930–1931",
+ "Medium": "Limestone, paint",
+ "Dimensions": "h. 30 cm (11 13/16 in); w. 26 cm (10 1/4 in); d. 27.5 cm (10 13/16 in)",
+ "Credit Line": "Rogers Fund, 1936",
+ "Accession Number": "36.3.245",
+ "What": [
+  "Stone",
+  "Limestone"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100005954,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs36.3.243zz.jpg",
+ "related-artworks": [
+  100012794,
+  100015404,
+  100000144,
+  100001012,
+  100004354
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art, 1935–1936. Acquired by the Museum in the division of finds, 1936."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100005954"
+  }
+ }
+}

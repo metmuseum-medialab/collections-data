@@ -1,0 +1,40 @@
+{
+ "Date": "late 15th century",
+ "Culture": "Italian (Venice)",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 61 1/2 x W. 25 1/4 inches (156.2 x 64.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Bequest of George Blumenthal, 1941",
+ "Accession Number": "41.190.139",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044390,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/126847.jpg",
+ "related-artworks": [
+  120037512,
+  120037532,
+  120039497,
+  120039896,
+  120044257
+ ],
+ "Provenance": [
+  "George and Florence Blumenthal"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044390"
+  }
+ }
+}

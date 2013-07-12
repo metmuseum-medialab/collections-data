@@ -1,0 +1,39 @@
+{
+ "Period": "Archaic",
+ "Date": "mid-7th–mid-6th century B.C.",
+ "Culture": "Greek, Corinthian",
+ "Medium": "Terracotta; black-figure",
+ "Dimensions": "H. 5 1/8 in. (13 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Bequest of George D. Pratt, 1935",
+ "Accession Number": "37.128.2",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Alabastra"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130014037,
+ "gallery-id": 152,
+ "related-artworks": [
+  130001401,
+  130001443,
+  130005324,
+  130005328,
+  130006071
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130014037"
+  }
+ }
+}

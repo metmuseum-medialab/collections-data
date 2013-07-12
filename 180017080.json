@@ -1,0 +1,48 @@
+{
+ "Date": "before 1848",
+ "Geography": "Wertingen, Germany",
+ "Medium": "Maple, spruce, metal",
+ "Dimensions": "Overall Height  163 cm (64 3/16 in.)",
+ "Classification": "Chordophone-Harp",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2705",
+ "Who": "Martin Eggert",
+ "What": [
+  "Metal",
+  "Wood",
+  "Musical instruments",
+  "Chordophones",
+  "Softwood",
+  "Maple",
+  "Hooks",
+  "Harps",
+  "Spruce",
+  "Chromatic harps",
+  "Frame harps",
+  "Hook harps"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Wertingen"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 180017080,
+ "gallery-id": 684,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/132556.jpg",
+ "related-artworks": [
+  180013808,
+  180014613,
+  180014953,
+  180017741,
+  180015051
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180017080"
+  }
+ }
+}

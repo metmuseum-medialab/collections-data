@@ -1,0 +1,41 @@
+{
+ "Period": "Qing dynasty (1644–1911)",
+ "Date": "19th century",
+ "Culture": "China",
+ "Medium": "Silk;  on silk",
+ "Dimensions": "4 3/4 x 2 1/2 in. (12.07 x 6.35 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of The Carnegie Corporation of New York, 1930",
+ "Accession Number": "30.10.42",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Needlework",
+  "Embroidery"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1800–1900 A.D.",
+  "China, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60042060,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/178566C.jpg",
+ "related-artworks": [
+  60006842,
+  60006843,
+  60024797,
+  60024798,
+  60031659
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60042060"
+  }
+ }
+}

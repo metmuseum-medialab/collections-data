@@ -1,0 +1,43 @@
+{
+ "Period": "Third Intermediate Period–Late Period",
+ "Dynasty": "Dynasty 21–30",
+ "Date": "ca. 1070–343 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Dimensions": [
+  "L. .015m",
+  "L. .011m"
+ ],
+ "Credit Line": "Gift of Joseph W. Drexel, 1889",
+ "Accession Number": "89.2.491",
+ "What": [
+  "Sculpture",
+  "Faience",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100010954,
+ "gallery-id": 130,
+ "related-artworks": [
+  100001537,
+  100002151,
+  100006126,
+  100006321,
+  100007769
+ ],
+ "Provenance": [
+  "Donated by Joseph W. Drexel, Philadelphia, 1889."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100010954"
+  }
+ }
+}

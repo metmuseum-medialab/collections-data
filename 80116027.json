@@ -1,0 +1,33 @@
+{
+ "Date": "third quarter 19th century",
+ "Culture": "American",
+ "Medium": "Cotton",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of The Jason and Peggy Westerfield Collection, 1969",
+ "Accession Number": "2009.300.7730a, b",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Hosiery",
+  "Stockings"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 80116027,
+ "related-artworks": [
+  80094519,
+  80094583,
+  80094672,
+  80108033,
+  80108034
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80116027"
+  }
+ }
+}

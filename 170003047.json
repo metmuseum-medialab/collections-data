@@ -1,0 +1,43 @@
+{
+ "Date": "12th–13th century",
+ "Geography": "Made in Venice probably, Veneto, Italy",
+ "Culture": "Italian",
+ "Medium": "Marble (Proconnesian from island of Marmara (Turkey))",
+ "Dimensions": "Overall 11 3/8 x 12 5/8 x 5 11/16 in. (28.9 x 32.1 x 14.4 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.152.9",
+ "What": [
+  "Sculpture",
+  "Leather",
+  "Marble",
+  "Roundels",
+  "Turkey leather"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170003047,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf09-152-9s1.jpg",
+ "related-artworks": [
+  170003039,
+  170003037,
+  170003038,
+  170008283,
+  170005838
+ ],
+ "Provenance": [
+  "Robert Forrer, Colmar (sold 1909)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170003047"
+  }
+ }
+}

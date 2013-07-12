@@ -1,0 +1,41 @@
+{
+ "Publisher": "Eveleigh Nash (London)",
+ "Printer": "Ballantyne & Co. (Edinburgh and London)",
+ "Date": "1909",
+ "Medium": "Commercial process",
+ "Dimensions": "9 x 6 11/16 x 1 3/4 in. (22.9 x 17 x 4.4 cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Lincoln Kirstein, 1970",
+ "Accession Number": "1970.565.186",
+ "Who": [
+  "Ballantyne & Co.",
+  "Eveleigh Nash",
+  "Walter Shaw Sparrow"
+ ],
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "Scottish"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90025313,
+ "related-artworks": [
+  90018616,
+  90019764,
+  90025530,
+  90047467,
+  90000530
+ ],
+ "Provenance": [
+  "Donor: Lincoln Kirstein (American, 1907–1996)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90025313"
+  }
+ }
+}

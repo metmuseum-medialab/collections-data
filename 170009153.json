@@ -1,0 +1,39 @@
+{
+ "Date": "1485–1509",
+ "Culture": "British",
+ "Medium": "Gold",
+ "Dimensions": "Overall 1 1/8 x 1/16 in. (2.8 x 0.1 cm)",
+ "Classification": "Coins",
+ "Credit Line": "Bequest of Joseph H. Durkee, 1898",
+ "Accession Number": "99.35.7415",
+ "What": [
+  "Metal",
+  "Gold",
+  "Money",
+  "Coins"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1400–1600 A.D.",
+ "id": 170009153,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf99-35-7415s1.jpg",
+ "related-artworks": [
+  170002573,
+  170009071,
+  170016357,
+  170019872,
+  170009070
+ ],
+ "Provenance": [
+  "Joseph H. Durkee(until 1899)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170009153"
+  }
+ }
+}

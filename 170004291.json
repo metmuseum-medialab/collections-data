@@ -1,0 +1,47 @@
+{
+ "Date": "ca. 1160–70",
+ "Geography": "Made in Meuse Valley, Netherlands",
+ "Culture": "South Netherlandish",
+ "Medium": "Champlevé enamel, copper alloy, gilt",
+ "Dimensions": "Overall 5 13/16 x 3 9/16 x 1/8 in. (14.7 x 9 x 0.3 cm)",
+ "Classification": "Enamels",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.425",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Gilt",
+  "Copper",
+  "Enamels",
+  "Plaques",
+  "Champlevé"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1000–1400 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170004291,
+ "gallery-id": 304,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-425s1.jpg",
+ "related-artworks": [
+  170004298,
+  170004282,
+  170004286,
+  170004290,
+  170007664
+ ],
+ "Description": "The style and technique of this plaque are close to the one with the Baptism of Jesus (17.190.430) also in this case, suggesting that it may have been part of the same altar or pulpit.",
+ "Provenance": [
+  "Julien Gréau, Paris",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170004291"
+  }
+ }
+}

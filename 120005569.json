@@ -1,0 +1,38 @@
+{
+ "Date": "1620–40",
+ "Culture": "Dutch",
+ "Medium": "Delftware (tin-enameled earthenware)",
+ "Dimensions": "5 x 5 in.  (12.7 x 12.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of W. R. Valentiner, 1908",
+ "Accession Number": "08.196.168",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Tile",
+  "Delftware"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120005569,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/4766.jpg",
+ "related-artworks": [
+  120005417,
+  120005447,
+  120005584,
+  120011083,
+  120011084
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120005569"
+  }
+ }
+}

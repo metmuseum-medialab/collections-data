@@ -1,0 +1,44 @@
+{
+ "Period": "Old Kingdom",
+ "Dynasty": "Dynasty 5",
+ "Date": "ca. 2446–2389 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Saqqara; includes the Serapeum, North of the Djoser pyramid complex, Mariette D3, Quibell/EAS 1907–1908",
+ "Medium": "Limestone, paint",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.201.1e",
+ "What": [
+  "Sculpture",
+  "Limestone",
+  "Reliefs",
+  "Doors"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Saqqara"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "id": 100036387,
+ "gallery-id": 102,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/EG548.jpg",
+ "related-artworks": [
+  100036388,
+  100000027,
+  100000075,
+  100000074,
+  100000179
+ ],
+ "Description": "THE FALSE DOORA False Door is a stylized representation of an actual door. The rectangular slot-like niche at the center (here filled with the name and titles of Raemkai) stands for the opening through a real doorway. This niche-like feature is flanked by inner doorjambs on which figures of the deceased appear in relief and is topped by a lower lintel. Below that lintel is a flattened version of the drum representing the rolled-up matting with which a real doorway would have been closed. Above that lintel is a rectangular slab with an empty recess at each side, a configuration that conveys the impression of a partially shuttered transom window. On the slab the tomb owner is depicted seated before an offering table. An upper inscribed lintel and two outer doorjambs--here with four relief images of the tomb owner--surround the whole. In front of the False Door, relatives and friends of the tomb owner deposited offerings, in the belief that this was a place where the dead would come forward to meet the living.Text Changes on the False DoorThis tomb chapel was originally dedicated to the official Neferiretenes, and only later adapted for Raemkai. Changes are most extensive on the False Door. Traces of erased original text are still discernible on the lower lintel, enabling Egyptologists to decipher the titles \"senior overseer of documents, royal property master, Neferiretenes.\" Fragments of additional titles are preserved above the inner lower left figure: \"priest of King …'s pyramid…, priest of King …'s pyramid …,\" and \"under-superintendent of priests of Re in every place of his.\" A longer list above the outer lower figures reads: \"senior district administrator of preeminent rank, personal document scribe of the king, senior overseer of documents, senior document inspector, Neferiretenes.\" Raemkai's name and titles have been inserted at the left end of the upper lintel, above the two upper figures and above the right lower inner figure. The inscription in sunken relief at the center is the most prominent: \"member of the elite, king's bodily son, chief lector priest, temple scribe, unique associate, representative of El-Kab, possessor of honor by the great god, Raemkai.\"Image Changes on the False DoorWhen the tomb of Nefertiretenes was adapted for Raemkai's use, only a few changes were made to the reliefs. The most important concerned the upper standing figures of the tomb owner on the False Door. Originally, both of these were noticeably obese, and their kilts were of calf-length. During the Old Kingdom it was the custom to include among the mostly idealizing images of a tomb owner at least one representation showing him as a mature heavy-set man. Such images emphasized the deceased's success in life and his high social standing. For Raemkai, the full breasts and abdomens were removed, and the kilts were shortened. The prince was evidently of such a young age when he died that the mature representations common for elite men were deemed inappropriate.",
+ "Provenance": [
+  "Discovered by Mariette between 1858 and 1863",
+  "recleared in 1907-08 by Quibell on behalf of the Egyptian Antiquities Service and sold to the Museum in 1908."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100036387"
+  }
+ }
+}

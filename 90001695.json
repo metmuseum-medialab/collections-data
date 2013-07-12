@@ -1,0 +1,38 @@
+{
+ "Date": "1513",
+ "Medium": "Pen and black ink",
+ "Dimensions": "9 1/2 x 5 13/16 in.  (24.1 x 14.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.66.9",
+ "Who": "Hans Baldung (called Hans Baldung Grien)",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90001695,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802886.jpg",
+ "related-artworks": [
+  90010706,
+  150000189,
+  90001702,
+  90004463,
+  90001607
+ ],
+ "Provenance": [
+  "Vendor: P. & D. Colnaghi & Co., Ltd., London"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90001695"
+  }
+ }
+}

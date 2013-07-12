@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1860",
+ "Medium": "Pen and ink",
+ "Dimensions": [
+  "8 x 6 in. (20.3 x 15.2 cm)",
+  "9 x 7 in. (22.9 x 17.8 cm)"
+ ],
+ "Classification": "Albums",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1958",
+ "Accession Number": "58.602(1-2)",
+ "Who": "Wood Brothers Glass Works",
+ "What": [
+  "Ink",
+  "Books",
+  "Albums"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90034801,
+ "related-artworks": [
+  90019987,
+  90012744,
+  90017594,
+  90024778,
+  90026859
+ ],
+ "Provenance": [
+  "Vendor: Walter Schatzki"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90034801"
+  }
+ }
+}

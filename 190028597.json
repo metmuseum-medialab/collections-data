@@ -1,0 +1,29 @@
+{
+ "Date": "1928",
+ "Classification": "Books",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.133",
+ "Who": "Marcel Proust",
+ "What": "Books",
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190028597,
+ "related-artworks": [
+  90023603,
+  90023604,
+  90023605,
+  190028598,
+  90023606
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028597"
+  }
+ }
+}

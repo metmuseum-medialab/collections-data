@@ -1,0 +1,38 @@
+{
+ "Artist": "After Abraham Bloemaert (Netherlandish, Gorinchem 1566–1651 Utrecht)",
+ "Date": "1650–56",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 7 1/4 x 5 3/4 in. (18.4 x 14.6 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1949",
+ "Accession Number": "49.95.497",
+ "Who": [
+  "Abraham Bloemaert",
+  "Frederick Bloemaert"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90057780,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP166555.jpg",
+ "related-artworks": [
+  90060528,
+  90013532,
+  90033725,
+  90013534
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90057780"
+  }
+ }
+}

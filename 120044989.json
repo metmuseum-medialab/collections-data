@@ -1,0 +1,43 @@
+{
+ "Date": "ca. 1725 (?)",
+ "Culture": "Italian (Venice)",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 70 x W. 40 inches (177.8 x 101.6 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1948",
+ "Accession Number": "48.55.6",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Woven",
+  "Panels"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044989,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/140633.jpg",
+ "related-artworks": [
+  120044752,
+  120044993,
+  120045273,
+  120045099,
+  120045161
+ ],
+ "Provenance": [
+  "[ Dalva Brothers, Inc. , 1948",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044989"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19–20",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Cemetery, Radim, MMA 1920–1922",
+ "Medium": "Glass",
+ "Dimensions": "h. 2 cm (13/16 in); w. 3.2 cm (1 1/4 in)",
+ "Credit Line": "Rogers Fund and Edward S. Harkness Gift, 1922",
+ "Accession Number": "22.1.1186",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Fragments"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000–1400 A.D.",
+ "id": 100027267,
+ "related-artworks": [
+  100008497,
+  100009151,
+  100027260,
+  100027261,
+  100027265
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100027267"
+  }
+ }
+}

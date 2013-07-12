@@ -1,0 +1,45 @@
+{
+ "Period": "Archaic",
+ "Date": "ca. 560 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; black-figure",
+ "Dimensions": [
+  "H. 7 in. (17.8 cm)",
+  "diameter  11 1/8 in. (28.3 cm)"
+ ],
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.234.1",
+ "Who": "C Painter",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups",
+  "Kylikes"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130009200,
+ "gallery-id": 155,
+ "related-artworks": [
+  130007405,
+  130009136,
+  130009385,
+  130016102
+ ],
+ "Description": "Interior, Herakles fighting an AmazonExterior, obverse and reverse, three chariotsThis cup is distinguished by its rich decoration and by the sensitivity with which the composition is applied to the shape. On the interior, Herakles' opponent is identifiable as a woman by the white pigment that indicates her flesh. The chariots on the exterior have been described as racing, but it is equally possible that they are advancing in a procession.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130009200"
+  }
+ }
+}

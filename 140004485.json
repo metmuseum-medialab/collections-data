@@ -1,0 +1,42 @@
+{
+ "Date": "second half 17th century",
+ "Geography": "Iran",
+ "Medium": "Stonepaste; glazed",
+ "Dimensions": [
+  "H. 8 in. (20.3 cm)",
+  "W. 8 in. (20.3 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "The Grinnell Collection, Bequest of William Milne Grinnell, 1920",
+ "Accession Number": "20.120.173",
+ "What": [
+  "Ceramics",
+  "Glazing",
+  "Tile"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140004485,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf20-120-173.jpg",
+ "related-artworks": [
+  140000066,
+  140002128,
+  140004480,
+  140004481,
+  140004484
+ ],
+ "Provenance": [
+  "William Milne Grinnell, New York (until d. 1920)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004485"
+  }
+ }
+}

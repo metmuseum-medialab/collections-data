@@ -1,0 +1,44 @@
+{
+ "Lithographer": "J. Bonnard (French, active 19th century)",
+ "Printer": "Imprimerie Honoré Lefèvre",
+ "Publisher": "Adolphe Goubaud & Cie.",
+ "Date": "1880–82",
+ "Medium": "Hand-colored lithograph",
+ "Dimensions": "Sheet 12 15/16 x 9 1/2 in. (32.8 x 24.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1953",
+ "Accession Number": "53.531.30",
+ "Who": [
+  "Jules David",
+  "Adolphe Goubaud & Cie.",
+  "J. Bonnard",
+  "Imprimerie Honoré Lefèvre"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90073722,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP819052.jpg",
+ "related-artworks": [
+  90073731,
+  90002022,
+  90002421,
+  90002539,
+  90021937
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90073722"
+  }
+ }
+}

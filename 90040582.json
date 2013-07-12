@@ -1,0 +1,42 @@
+{
+ "Artist": "Frescos drawn and etched by Carlo Cesi (Italian, 1622–1682)",
+ "Dedicatee": "Dedicated to Cardinal Camillo Pamphili",
+ "Publisher": "Published by Giovanni Giacomo De Rossi (Rome 1627–1691 Rome)",
+ "Date": "1661",
+ "Medium": "Etching",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.4331",
+ "Who": [
+  "Giovanni Giacomo De Rossi",
+  "Pietro da Cortona (Pietro Berrettini)",
+  "Cardinal Camillo Pamphili",
+  "Carlo Cesi"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "id": 90040582,
+ "related-artworks": [
+  90040573,
+  90040579,
+  90040587,
+  90040574,
+  90040575
+ ],
+ "Provenance": [
+  "Princes of Liechtenstein, Vaduz and Vienna"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90040582"
+  }
+ }
+}

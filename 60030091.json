@@ -1,0 +1,44 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "18th–19th century",
+ "Culture": "Japan",
+ "Medium": "Lacquer, roiro, gold hiramakie, raden, stained horn, ivory, chinkinbori; Interior red lacquer and fundame, chinkinbori decoration",
+ "Dimensions": "2 11/16 x 3 x 3/4 in. (6.9 x 7.6 x 1.9 cm)",
+ "Classification": "Inrō",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.914",
+ "What": [
+  "Metal",
+  "Gold",
+  "Bone",
+  "Ivory",
+  "Lacquer",
+  "Inro",
+  "Sagemono",
+  "Horn"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60030091,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/29_100_914_O5.JPG",
+ "related-artworks": [
+  60030056,
+  60030170,
+  60013259,
+  60029800,
+  60029854
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60030091"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Artist": "Eugène-Pierre Gourdet (French, born Paris, 1820)",
+ "Date": "second half 19th century",
+ "Medium": "graphite, pen and ink, watercolor, gouache, and gold paint on wove paper; inset in blue wove paper",
+ "Dimensions": "sheet 9 9/16 x 16 1/8 in. (24.3 x 40.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Dodge Fund, 1967",
+ "Accession Number": "67.827.200",
+ "Who": [
+  "Jules-Edmond-Charles Lachaise",
+  "Eugène-Pierre Gourdet"
+ ],
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Graphite",
+  "Gouache",
+  "Wove paper"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 90058922,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811212.jpg",
+ "related-artworks": [
+  90059143,
+  90059142,
+  90059147,
+  90059151,
+  90059417
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90058922"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "mid-19th century",
+ "Culture": "British (probably)",
+ "Medium": "wool",
+ "Dimensions": "Length 78 in. (198.1 cm)",
+ "Credit Line": "Gift of Lois Dwight Cole Taylor, 1975",
+ "Accession Number": "1975.348.1",
+ "What": [
+  "Costume",
+  "Wool",
+  "Outerwear",
+  "Shawls"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80057320,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1975.348.1.jpg",
+ "related-artworks": [
+  80029751,
+  80094994,
+  80107741,
+  80001523,
+  80005926
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80057320"
+  }
+ }
+}

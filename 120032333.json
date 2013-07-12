@@ -1,0 +1,40 @@
+{
+ "Date": "late 18th century",
+ "Culture": "French (Chantilly)",
+ "Medium": "Bobbin lace",
+ "Dimensions": "L. 13 1/2 x W. 2 inches (34.3 x 5.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "The Nuttall Collection, Gift of Mrs. Magdalena Nuttall, 1908",
+ "Accession Number": "08.180.315",
+ "What": [
+  "Textiles",
+  "Fragments",
+  "Needlework",
+  "Lace",
+  "Bobbin lace"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Picardy",
+  "Chantilly"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120032333,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP17360.jpg",
+ "related-artworks": [
+  120032334,
+  120030536,
+  120030537,
+  120032335,
+  120030314
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120032333"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Date": "1938",
+ "Culture": "American",
+ "Medium": "Wool",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Bonnie Cashin, 1951",
+ "Accession Number": "2009.300.6700a, b",
+ "Who": "Bonnie Cashin",
+ "What": [
+  "Costume",
+  "Wool",
+  "Suits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "American Ingenuity Sportswear, 1930s–1970s",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 80114965,
+ "related-artworks": [
+  80005278,
+  80005283,
+  80015382,
+  80015403,
+  80114967
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80114965"
+  }
+ }
+}

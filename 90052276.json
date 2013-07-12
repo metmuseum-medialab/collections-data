@@ -1,0 +1,39 @@
+{
+ "Date": "1880",
+ "Medium": "Pen and black in, watercolor and gouache with gum arabic",
+ "Dimensions": "sheet 6 7/8 x 9 1/8 in. (17.4 x 23.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of William Brewster, 1923",
+ "Accession Number": "23.112.564",
+ "Who": "Brewster & Co.",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Gouache",
+  "Gum arabic"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90052276,
+ "related-artworks": [
+  90051891,
+  90051890,
+  90051901,
+  90051935,
+  90051942
+ ],
+ "Provenance": [
+  "Donor: William Brewster"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90052276"
+  }
+ }
+}

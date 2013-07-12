@@ -1,0 +1,48 @@
+{
+ "Date": "17th century",
+ "Geography": "Iran",
+ "Medium": "Stonepaste; painted under a transparent glaze; copper alloy",
+ "Dimensions": [
+  "H. 4 7/8 in. (12.4 cm)",
+  "Diam. 5 3/4 in. (14.6 cm)"
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Anonymous Gift, 1974",
+ "Accession Number": "1974.370.13",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Vessels",
+  "Copper alloy",
+  "Copper",
+  "Painting",
+  "Glaze",
+  "Bottles"
+ ],
+ "Where": [
+  "Asia",
+  "Iran"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140010071,
+ "gallery-id": 461,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf1974-370-13.jpg",
+ "related-artworks": [
+  140004230,
+  140001689,
+  140004467,
+  140005689,
+  140007774
+ ],
+ "Provenance": [
+  "Private collection(until 1974)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140010071"
+  }
+ }
+}

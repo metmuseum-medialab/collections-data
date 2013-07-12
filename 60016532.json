@@ -1,0 +1,42 @@
+{
+ "Date": "early 19th century",
+ "Culture": "Japan",
+ "Medium": "White porcelain crackled and decorated with enamels, iron red and gold (Kiyomizu ware)",
+ "Dimensions": "H. 6 1/4 in. (15.9 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Charles Stewart Smith, 1893",
+ "Accession Number": "93.3.522",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Clay",
+  "Gold",
+  "Porcelain",
+  "Iron and iron alloy",
+  "Iron",
+  "Enamels",
+  "Pedestals"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60016532,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/30503.jpg",
+ "related-artworks": [
+  60015328,
+  60015932,
+  60016889,
+  60023338,
+  60023403
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60016532"
+  }
+ }
+}

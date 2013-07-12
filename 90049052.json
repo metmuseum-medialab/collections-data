@@ -1,0 +1,38 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1935–43",
+ "Medium": "Serigraph",
+ "Dimensions": "image 17 x 13 in. (43.2 x 33 cm) sheet: 19 1/4 x 14 1/4 in. (48.9 x 36.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Works Projects Administration, New York, 1943",
+ "Accession Number": "64.500.38",
+ "Who": [
+  "WPA",
+  "Elizabeth Olds"
+ ],
+ "What": "Prints",
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90049052,
+ "related-artworks": [
+  90049042,
+  90049044,
+  90049046,
+  90049053,
+  90049051
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90049052"
+  }
+ }
+}

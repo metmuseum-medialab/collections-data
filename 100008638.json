@@ -1,0 +1,60 @@
+{
+ "Period": "Late Period–Ptolemaic Period",
+ "Date": "4th century B.C.",
+ "Geography": "Country of Origin Egypt, Lower Egypt",
+ "Medium": "Silver",
+ "Dimensions": "H. 8.5 x Diam. 13.6 cm at mouth 15 for body (3 3/8 x 5 3/8 and 5 7/8 in)",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.2.13",
+ "What": [
+  "Metal",
+  "Silver",
+  "Bowls",
+  "Weights",
+  "Bosses"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Lower Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008638,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/DP238940.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/eg/original/DP238940.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/DP239394.jpg"
+ ],
+ "Provenance": [
+  "Purchased from Maurice Nahman, Cairo, 1918."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100008641"
+   },
+   {
+    "href": "http://scrapi.org/object/100008642"
+   },
+   {
+    "href": "http://scrapi.org/object/100008639"
+   },
+   {
+    "href": "http://scrapi.org/object/100008640"
+   },
+   {
+    "href": "http://scrapi.org/object/100001599"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100008638"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100008638"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Artist": "After Raphael (Raffaello Sanzio or Santi) (Italian, Urbino 1483–1520 Rome)",
+ "Date": "ca. 1500–1534",
+ "Medium": "Engraving",
+ "Dimensions": "4 7/16 x 6 7/8 in.  (11.3 x 17.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Purchase, Joseph Pulitzer Bequest, 1917",
+ "Accession Number": "17.50.16-30",
+ "Who": [
+  "Raphael (Raffaello Sanzio  Santi)",
+  "Marcantonio Raimondi"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Lovers in Italian Mythological Prints",
+  "Poets in Italian Mythological Prints",
+  "The Papacy and the Vatican Palace",
+  "Heroes in Italian Mythological Prints",
+  "The Printed Image in the West History and Techniques",
+  "The Rediscovery of Classical Antiquity",
+  "Profane Love and Erotic Art in the Italian Renaissance"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90009799,
+ "related-artworks": [
+  90003578,
+  90004083,
+  90008249,
+  90009704,
+  90009694
+ ],
+ "Provenance": [
+  "Sir Peter Lely (Pieter van der Faes) (British, Soest 1618–1680 London)",
+  "Earls of Pembroke (British, Wilton House, near Salisbury, Wiltshire)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90009799"
+  }
+ }
+}

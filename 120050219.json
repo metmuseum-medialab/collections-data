@@ -1,0 +1,78 @@
+{
+ "Designer": "Jean-Baptiste Oudry (French, Paris 1686–1755 Beauvais)",
+ "Factory director": "and André Charlemagne Charron (French, active 1754–80)",
+ "Date": "1754–56",
+ "Culture": "French, Beauvais",
+ "Medium": "Wool and silk",
+ "Dimensions": [
+  "a) 29 x 24 in. (approx.) (73.7 x 61 cm)",
+  "b) 34 x 35 in. (approx.) (86.4 x 88.9 cm)",
+  "c,d) 12 x 8 in. (approx.) (30.5 x 20.3 cm)"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of John D. Rockefeller Jr., 1935",
+ "Accession Number": "35.145.21c",
+ "Who": [
+  "Beauvais",
+  "Jean-Baptiste Oudry",
+  "André Charlemagne Charron"
+ ],
+ "What": [
+  "Silk",
+  "Textiles",
+  "Wool",
+  "Panels",
+  "Tapestries",
+  "Upholstery"
+ ],
+ "Where": [
+  "Europe",
+  "France",
+  "Beauvais"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120050219,
+ "gallery-id": 551,
+ "related-artworks": [
+  "http://scrapi.org/object/120030911",
+  "http://scrapi.org/object/120046487",
+  "http://scrapi.org/object/120048380",
+  "http://scrapi.org/object/120048381",
+  "http://scrapi.org/object/120048382"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Count Johann Hartvig Ernst Bernstorff",
+  "Andreas Peter Bernstorff",
+  "Prince Frederick Ferdinand and Princess Caroline of Denmark",
+  "King Georg of the Hellenes",
+  "[ Charles Wertheimer ]",
+  "J. Pierpont Morgan",
+  "[ Duveen Brothers ]"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120030911"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120046487"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120048380"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120048381"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120048382"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120050219"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "1700–1943",
+ "Culture": "American (probably)",
+ "Medium": "silk, ivory",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Estate of Mrs. Robert B. Noyes, 1943",
+ "Accession Number": "C.I.43.7.22",
+ "What": [
+  "Costume",
+  "Silk",
+  "Bone",
+  "Ivory",
+  "Parasols"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80051922,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI43.7.22_S.jpg",
+ "related-artworks": [
+  80029422,
+  80056068,
+  80056188,
+  80056516,
+  80056670
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80051922"
+  }
+ }
+}

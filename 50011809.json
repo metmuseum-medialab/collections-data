@@ -1,0 +1,51 @@
+{
+ "Date": "1884",
+ "Geography": "United States, Oklahoma",
+ "Culture": "Cheyenne or Arapaho",
+ "Medium": "Paper, pencil (lead and colored), watercolor, crayon, leather binding",
+ "Dimensions": "W. 11 3/4 in. (pages)",
+ "Classification": "Paper-Drawings",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Purchase, Nelson A. Rockefeller Gift, 1968",
+ "Accession Number": "1978.412.207P164",
+ "Who": "Cheyenne",
+ "What": [
+  "Metal",
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Leather",
+  "Lead",
+  "Pencil",
+  "Crayons",
+  "Binding"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Oklahoma"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 50011809,
+ "gallery-id": 356,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/page164.jpg",
+ "related-artworks": [
+  50011728,
+  50011709,
+  50011731,
+  50011713,
+  50011711
+ ],
+ "Provenance": [
+  "George West Maffet, Indian Territory, collected in 1884–(d.) 1924",
+  "by descent to Samuel Ross Maffet",
+  "Karen Daniels Peterson, St. Paul, Minn., until 1968",
+  "The Museum of Primitive Art, New York, 1968–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50011809"
+  }
+ }
+}

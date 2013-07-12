@@ -1,0 +1,45 @@
+{
+ "Date": "19th century",
+ "Culture": "Italian or French",
+ "Medium": "Silk",
+ "Dimensions": [
+  "L. 3 15/16 x W. 1 1/8 inches (selvage to selvage)",
+  "10.0 x 2.9 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Harvey Smith, 1984",
+ "Accession Number": "1984.468",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Galloon"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120047566,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP6329.jpg",
+ "related-artworks": [
+  120031483,
+  120031439,
+  120031437,
+  120031482,
+  120031484
+ ],
+ "Provenance": [
+  "Harvey Smith (until 1984",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120047566"
+  }
+ }
+}

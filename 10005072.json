@@ -1,0 +1,48 @@
+{
+ "Date": "1799",
+ "Geography": "Mid-Atlantic, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Ink and watercolor on paper",
+ "Dimensions": "7 3/4 x 12 3/4 in. (19.7 x 32.4 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Mrs. Robert W. de Forest, 1933",
+ "Accession Number": "34.100.77",
+ "Who": "Johannes Hoeffer",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Needlework",
+  "Embroidery",
+  "Manuscripts",
+  "Samplers",
+  "Frakturs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005072,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/97215.jpg",
+ "related-artworks": [
+  10005071,
+  10005070,
+  10000539,
+  10000540,
+  10000541
+ ],
+ "Provenance": [
+  "Mrs. Robert W. de Forest, New York, until 1933"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005072"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "19th–20th century",
+ "Geography": "Democratic Republic of the Congo",
+ "Culture": "Ngbaka peoples",
+ "Medium": "Wood, leather, cord",
+ "Dimensions": "H. 17 1/2 in.",
+ "Classification": "Wood-Musical Instruments",
+ "Credit Line": "Gift of Ernst Anspach, 1978",
+ "Accession Number": "1978.434.2",
+ "Who": "Ngbaka",
+ "What": [
+  "Leather",
+  "Musical instruments",
+  "Chordophones",
+  "Harps"
+ ],
+ "Where": [
+  "Africa",
+  "Democratic Republic of the Congo"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central Africa, 1800–1900 A.D.",
+  "Central Africa, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50004716,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1978_434_2.jpg",
+ "related-artworks": [
+  50003660,
+  50010275,
+  50013215,
+  50003421,
+  50002573
+ ],
+ "Provenance": [
+  "[Ernst Anspach, New York, until 1978]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50004716"
+  }
+ }
+}

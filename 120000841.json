@@ -1,0 +1,44 @@
+{
+ "Date": "19th century",
+ "Culture": "British, Birmingham (after a German, Augsburg original)",
+ "Medium": "Electroformed copper, gilt",
+ "Dimensions": "Overall (confirmed) H. 2 1/2 x W. 42 x D. 34 1/2 in. (6.4 x 106.7 x 87.6 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Henry G. Marquand, 1883",
+ "Accession Number": "83.18.265",
+ "Who": "Elkington & Co.",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Gilt",
+  "Copper",
+  "Printing plates",
+  "Electrotype",
+  "Plateaus"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "West Midlands",
+  "Birmingham"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000841,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP255275.jpg",
+ "related-artworks": [
+  120000800,
+  120000838,
+  120000674,
+  120000685,
+  120000708
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000841"
+  }
+ }
+}

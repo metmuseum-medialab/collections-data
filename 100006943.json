@@ -1,0 +1,42 @@
+{
+ "Period": "New Kingdom, Amarna Period",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Akhenaten",
+ "Date": "ca. 1353–1336 B.C.",
+ "Geography": "Country of Origin Egypt, Middle Egypt, el-Amarna (Akhetaten); inc. el-Hagg Qandil, Great Temple of the Aten, Pit outside southern wall, Petrie/Carter 1891–1892",
+ "Medium": "Indurated limestone",
+ "Dimensions": "H. 4.5 x W. 10.5 x D. 5.5 cm",
+ "Credit Line": "Gift of Edward S. Harkness, 1921",
+ "Accession Number": "21.9.513",
+ "What": [
+  "Fragments",
+  "Limestone"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Amarna"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100006943,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/21.9.513.jpg",
+ "related-artworks": [
+  100006230,
+  100006783,
+  100006814,
+  100006835,
+  100006842
+ ],
+ "Provenance": [
+  "Excavated at Amarna by Petrie and Carter 1891-2. Received by Lord Amherst in the division of finds. Purchased by the Museum at Sotheby's, London, 1921."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100006943"
+  }
+ }
+}

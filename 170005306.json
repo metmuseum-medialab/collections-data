@@ -1,0 +1,39 @@
+{
+ "Date": "3rd century",
+ "Culture": "Eastern Germanic",
+ "Medium": "Gold",
+ "Dimensions": "Overall 4 7/16 x 9/16 x 1/4 in. (11.2 x 1.4 x 0.6 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.192.95",
+ "What": [
+  "Metal",
+  "Costume",
+  "Metalwork",
+  "Gold",
+  "Jewelry",
+  "Ear ornaments",
+  "Earrings"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170005306,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-192-95s1.jpg",
+ "related-artworks": [
+  170006304,
+  170005061,
+  170005075,
+  170005081,
+  170005305
+ ],
+ "Provenance": [
+  "Stanislas Baron, Paris",
+  "J. Pierpont Morgan, London and New York (until 1917)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170005306"
+  }
+ }
+}

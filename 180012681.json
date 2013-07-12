@@ -1,0 +1,35 @@
+{
+ "Date": "19th century",
+ "Geography": "Ukraine, Russia",
+ "Culture": "Russia",
+ "Medium": "Wood and wire",
+ "Dimensions": "Length 118.1 cm (46-1/2 in.), Width 36.8 cm (14-1/2 in.)",
+ "Classification": "Chordophone",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.310",
+ "What": [
+  "Musical instruments",
+  "Chordophones"
+ ],
+ "Where": [
+  "Europe",
+  "Ukraine"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180012681,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS33A.jpg",
+ "related-artworks": [
+  180018083,
+  180018084,
+  180012284,
+  180012263,
+  180012286
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180012681"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18–20",
+ "Date": "ca. 1550–1070 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, cemetery north of Senwosret , Pit 808, MMA 1908–1909",
+ "Medium": "Ivory",
+ "Dimensions": "h. 3.5 cm (1 3/8 in); w. 2.6 cm (1 in)",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.180.1258c",
+ "What": [
+  "Bone",
+  "Ivory"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "id": 100003398,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs09.180.1258.jpg",
+ "related-artworks": [
+  100003460,
+  100026953,
+  100000360,
+  100000464,
+  100000465
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003398"
+  }
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "Date": "1954",
+ "Medium": "Gelatin silver print",
+ "Dimensions": "19.1 x 24.8 cm (7 1/2 x 9 3/4 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 2000",
+ "Accession Number": "2000.651.10",
+ "Rights and Reproduction": "©1998 Center for Creative Photography, Arizona Board of Regents",
+ "Who": "John Gutmann",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 190037399,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP135675.jpg",
+ "Provenance": [
+  "estate of the artist"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190016413"
+   },
+   {
+    "href": "http://scrapi.org/object/190016925"
+   },
+   {
+    "href": "http://scrapi.org/object/190016941"
+   },
+   {
+    "href": "http://scrapi.org/object/190017250"
+   },
+   {
+    "href": "http://scrapi.org/object/190017303"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190037399"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190037399"
+  }
+ }
+}

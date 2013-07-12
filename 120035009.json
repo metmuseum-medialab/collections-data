@@ -1,0 +1,39 @@
+{
+ "Date": "second half 19th century",
+ "Culture": "Probably German",
+ "Medium": "Silk",
+ "Dimensions": "Overall 11 3/4 x 11 in. (29.8 x 27.9 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.2737",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 120035009,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/14186.jpg",
+ "related-artworks": [
+  120033038,
+  120034007,
+  120034031,
+  120034270,
+  120034365
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120035009"
+  }
+ }
+}

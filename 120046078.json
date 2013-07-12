@@ -1,0 +1,43 @@
+{
+ "Date": "1853",
+ "Culture": "German",
+ "Medium": "Cotton and metal thread on linen",
+ "Dimensions": "H. 16 1/4 x W. 18 inches (41.3 x 45.7 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "From the Collection of Mrs. Lathrop Colgate Harper, Bequest of Mabel Herbert Harper, 1957",
+ "Accession Number": "57.122.459",
+ "What": [
+  "Metal",
+  "Textiles",
+  "Cotton",
+  "Needlework",
+  "Linen",
+  "Embroidery",
+  "Samplers"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120046078,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/164628.jpg",
+ "related-artworks": [
+  120046071,
+  120046061,
+  120046074,
+  120046079,
+  120046082
+ ],
+ "Provenance": [
+  "Mrs. Schumann , Frankfort"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046078"
+  }
+ }
+}

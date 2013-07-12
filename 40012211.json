@@ -1,0 +1,44 @@
+{
+ "Date": "17th century",
+ "Culture": "German",
+ "Medium": "Steel, wood.",
+ "Dimensions": [
+  "L. 28 3/4",
+  "W. 17 3/4 in.",
+  "Wt. 6 lb. 8 oz."
+ ],
+ "Classification": "Archery Equipment",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.1588",
+ "What": [
+  "Metal",
+  "Arms",
+  "Iron and iron alloy",
+  "Iron alloy",
+  "Steel",
+  "Archery",
+  "Bows",
+  "Crossbows"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40012211,
+ "related-artworks": [
+  40014210,
+  40001552,
+  40003158,
+  40003160,
+  40005732
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40012211"
+  }
+ }
+}

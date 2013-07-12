@@ -1,0 +1,46 @@
+{
+ "Date": "1st–8th century",
+ "Geography": "Mexico, Mesoamerica, Guerrero, Balsas River region",
+ "Culture": "Mezcala",
+ "Medium": "Serpentine",
+ "Dimensions": "H. 2 3/8 x W. 1 1/2 x D. 1 in. (6.1 x 3.8 x 2.5 cm)",
+ "Classification": "Stone-Sculpture",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection, Bequest of Nelson A. Rockefeller, 1979",
+ "Accession Number": "1979.206.565",
+ "Who": "Mezcala",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Figures",
+  "Serpentine"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico",
+  "Guerrero"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico, 1–500A.D.",
+  "Mexico, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50005423,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1979_206_565.jpg",
+ "related-artworks": [
+  50006045,
+  50005733,
+  50006050,
+  50000319,
+  50010268
+ ],
+ "Provenance": [
+  "[William Spratling, New York and Guerrero, Taxco, Mexico, until 1957]",
+  "Nelson A. Rockefeller, New York, 1957, on loan to The Museum of Primitive Art, New York, 1957–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50005423"
+  }
+ }
+}

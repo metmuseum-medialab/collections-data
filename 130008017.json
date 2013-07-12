@@ -1,0 +1,54 @@
+{
+ "Period": "Late Classical",
+ "Date": "2nd half of the 4th century B.C.",
+ "Culture": "Greek",
+ "Medium": "Gold",
+ "Dimensions": "H. 9 7/16 in. (23.9 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Rogers Fund, 1906",
+ "Accession Number": "06.1125",
+ "What": [
+  "Metal",
+  "Gold",
+  "Gems",
+  "Rings"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "id": 130008017,
+ "gallery-id": 157,
+ "Description": "Woman before thymiaterion (incense burner)",
+ "Provenance": [
+  "Said to be from Macedonia"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130004104"
+   },
+   {
+    "href": "http://scrapi.org/object/130003943"
+   },
+   {
+    "href": "http://scrapi.org/object/130003945"
+   },
+   {
+    "href": "http://scrapi.org/object/130003941"
+   },
+   {
+    "href": "http://scrapi.org/object/130004037"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130008017"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130008017"
+  }
+ }
+}

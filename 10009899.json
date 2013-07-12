@@ -1,0 +1,54 @@
+{
+ "Maker": "Tiffany Glass and Decorating Company (1892–1902)",
+ "Date": "ca. 1900",
+ "Geography": "Mid-Atlantic, New York, United States",
+ "Culture": "American",
+ "Medium": "Glass",
+ "Dimensions": "H. 2 in. (5.1 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Madame Lilliana Teruzzi, 1973",
+ "Accession Number": "1973.130.3",
+ "Who": [
+  "Louis Comfort Tiffany",
+  "Tiffany Glass  Decorating Company"
+ ],
+ "What": [
+  "Vessels",
+  "Glass",
+  "Vases"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Louis Comfort Tiffany (1848–1933)",
+  "Nineteenth–Century American Jewelry",
+  "America Comes of Age 1876–1900",
+  "Art Nouveau",
+  "The Arts and Crafts Movement in America",
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10009899,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/200946.jpg",
+ "related-artworks": [
+  10000855,
+  10000857,
+  10001070,
+  10001071,
+  10004371
+ ],
+ "Provenance": [
+  "Madame Lilliana Teruzzi, until 1973."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10009899"
+  }
+ }
+}

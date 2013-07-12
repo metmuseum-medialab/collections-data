@@ -1,0 +1,41 @@
+{
+ "Date": "dated 1615",
+ "Culture": "German",
+ "Medium": "Etched steel, wood, textile",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "14.25.322",
+ "What": [
+  "Metal",
+  "Textiles",
+  "Etching",
+  "Arms",
+  "Iron and iron alloy",
+  "Edged weapons",
+  "Iron alloy",
+  "Steel",
+  "Staff weapons",
+  "Partisans"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40005026,
+ "related-artworks": [
+  40005016,
+  40011463,
+  40000387,
+  40000400,
+  40000402
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40005026"
+  }
+ }
+}

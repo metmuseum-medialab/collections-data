@@ -1,0 +1,44 @@
+{
+ "Date": "15th–16th century",
+ "Culture": "Spanish",
+ "Medium": "Iron",
+ "Dimensions": "H. 8 1/4 in. (21 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Mrs. Ridgeley Hunt, in the name of the late William Cruger Pell, 1907",
+ "Accession Number": "07.24.10",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Lighting devices",
+  "Candleholders",
+  "Candlesticks"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120029866,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/1194.jpg",
+ "related-artworks": [
+  120017435,
+  120014025,
+  120024983,
+  120029868,
+  120003599
+ ],
+ "Provenance": [
+  "Mrs. Ridgeley Hunt (until 1907",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120029866"
+  }
+ }
+}

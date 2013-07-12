@@ -1,0 +1,45 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Date": "ca. 1550–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht South, Pyramid Slump, North side, MMA 1933–1934",
+ "Medium": "Bronze or copper alloy",
+ "Dimensions": "l. 23 cm (9 1/16 in); w. 3.5 cm (1 3/8 in)",
+ "Credit Line": "Rogers Fund, 1934",
+ "Accession Number": "34.1.50",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Copper",
+  "Knives",
+  "Blades"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100028599,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs34.1.50yy.jpg",
+ "related-artworks": [
+  100019324,
+  100028605,
+  100028602,
+  100009618,
+  100001513
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100028599"
+  }
+ }
+}

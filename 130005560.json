@@ -1,0 +1,30 @@
+{
+ "Medium": "Carnelian",
+ "Dimensions": "Other 15/16 x 5/8 x 1/8 in. (2.4 x 1.7 x 0.4 cm)",
+ "Classification": "Gems",
+ "Credit Line": "Gift of John Taylor Johnston, 1881",
+ "Accession Number": "81.6.218",
+ "What": [
+  "Sculpture",
+  "Chalcedony",
+  "Gems",
+  "Carnelian",
+  "Intaglios"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130005560,
+ "related-artworks": [
+  130005590,
+  130006374,
+  130008715,
+  130008722,
+  130014240
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130005560"
+  }
+ }
+}

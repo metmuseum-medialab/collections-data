@@ -1,0 +1,36 @@
+{
+ "Date": "19th century",
+ "Geography": "Switzerland",
+ "Medium": "wood, straw",
+ "Dimensions": "Longest bar 30.5cm (12in.); shortest bar 14cm (5 1/2in.)",
+ "Classification": "Idiophone-Struck",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2329",
+ "What": [
+  "Musical instruments",
+  "Idiophones",
+  "Straw"
+ ],
+ "Where": [
+  "Europe",
+  "Switzerland"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180016557,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS706A.jpg",
+ "related-artworks": [
+  180016723,
+  180017436,
+  180017630,
+  180017632,
+  180017633
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016557"
+  }
+ }
+}

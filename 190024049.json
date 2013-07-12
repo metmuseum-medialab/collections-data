@@ -1,0 +1,42 @@
+{
+ "Date": "1881",
+ "Medium": "Albumen silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of John T. Marvin, 1985",
+ "Accession Number": "1985.1027.31",
+ "Who": "Thomas Eakins",
+ "What": [
+  "Prints",
+  "Photographs",
+  "Albumen",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Nineteenth–Century American Drawings",
+  "Thomas Eakins (1844–1916) Painting",
+  "The Industrialization of French Photography after 1860",
+  "Americans in Paris, 1860–1900",
+  "Thomas Eakins (1844–1916) Photography, 1880s–1890s",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "id": 190024049,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/MM74896.jpg",
+ "related-artworks": [
+  190024032,
+  190024033,
+  190024019,
+  190024021,
+  190024020
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190024049"
+  }
+ }
+}

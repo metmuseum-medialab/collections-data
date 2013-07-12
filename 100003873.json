@@ -1,0 +1,35 @@
+{
+ "Period": "Predynastic, Naqada II",
+ "Date": "ca. 3500–3300 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Chlorite",
+ "Dimensions": "H 3.5 cm (1 3/8 in.)",
+ "Credit Line": "Rogers Fund, 1959",
+ "Accession Number": "59.101.2",
+ "What": [
+  "Amulets",
+  "Chlorite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "8000-2000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 8000–2000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100003873,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs59.101.1c.jpg",
+ "related-artworks": [
+  100004117,
+  100000670,
+  100000671,
+  100000673,
+  100000676
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003873"
+  }
+ }
+}

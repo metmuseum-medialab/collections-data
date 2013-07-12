@@ -1,0 +1,45 @@
+{
+ "Date": "ca. late 1st millennium B.C.",
+ "Geography": "Southwestern Arabia",
+ "Medium": "Copper alloy",
+ "Dimensions": "H. 27.3 cm, W. 14.6 cm",
+ "Classification": "Metalwork",
+ "Credit Line": "Pfeiffer Fund, 1993",
+ "Accession Number": "1993.169",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Metalwork",
+  "Copper",
+  "Reliefs",
+  "Plaques"
+ ],
+ "Where": [
+  "Asia",
+  "Arabian Peninsula"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "Arabian Peninsula, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30006172,
+ "gallery-id": 406,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/an1993.169.jpg",
+ "related-artworks": [
+  30008446,
+  30002686,
+  30002916,
+  30002736,
+  30003266
+ ],
+ "Description": "This votive plaque with a raised border around its edges has a Sabaean dedicatory inscription.While the worship of aniconic images was widespread among South Arabian cultures, the precise significance of the inscription as a cult object is uncertain. The practice of dedicating the inscription itself, as opposed to placing the inscription on an object intended for dedication, is a departure from the contemporary customs of greater Mesopotamia and Iran.",
+ "Provenance": [
+  "Acquired by the Museum in 1993, purchased from Robert Haber, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30006172"
+  }
+ }
+}

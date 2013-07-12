@@ -1,0 +1,41 @@
+{
+ "Date": "18th century",
+ "Culture": "British, Staffordshire",
+ "Medium": "Jasper dip",
+ "Dimensions": "Diam. 3/8 in. (1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1914",
+ "Accession Number": "14.132.36",
+ "Who": "Josiah Wedgwood  Sons",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Chalcedony",
+  "Buttons",
+  "Jasper"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120007815,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/26756.jpg",
+ "related-artworks": [
+  120007814,
+  120007818,
+  120007829,
+  120007812,
+  120007813
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120007815"
+  }
+ }
+}

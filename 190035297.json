@@ -1,0 +1,35 @@
+{
+ "Date": "ca. 1853",
+ "Medium": "Albumen silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.17.1.216",
+ "Who": "Alois Auer",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190035297,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP112649.jpg",
+ "related-artworks": [
+  190011320,
+  190018267,
+  190015536
+ ],
+ "Provenance": [
+  "F. Meder"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190035297"
+  }
+ }
+}

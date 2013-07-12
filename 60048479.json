@@ -1,0 +1,43 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Porcelain",
+ "Dimensions": "H. 9/16 in. (1.4 cm); W. 9/16 in. (1.5 cm)",
+ "Classification": "Ojime",
+ "Credit Line": "Bequest of Stephen Whitney Phoenix, 1881",
+ "Accession Number": "81.1.424.89",
+ "What": [
+  "Clay",
+  "Porcelain",
+  "Beads",
+  "Ojime"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Japan, 1800–1900 A.D.",
+  "Japan, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60048479,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/81_1_424_89_O1.jpg",
+ "related-artworks": [
+  60030124,
+  60030146,
+  60048478,
+  60000138,
+  60007097
+ ],
+ "Provenance": [
+  "Stephen Whitney Phoenix , New York (until d. 1881)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60048479"
+  }
+ }
+}

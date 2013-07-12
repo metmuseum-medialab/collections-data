@@ -1,0 +1,51 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Album of small sketches; paper",
+ "Classification": "Paintings",
+ "Credit Line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+ "Accession Number": "29.100.1401",
+ "Who": "Unidentified Artist",
+ "What": [
+  "Paper",
+  "Books",
+  "Paintings",
+  "Albums",
+  "Sketches"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60026146,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60026147"
+   },
+   {
+    "href": "http://scrapi.org/object/60025124"
+   },
+   {
+    "href": "http://scrapi.org/object/60025151"
+   },
+   {
+    "href": "http://scrapi.org/object/60025234"
+   },
+   {
+    "href": "http://scrapi.org/object/60025135"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60026146"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60026146"
+  }
+ }
+}

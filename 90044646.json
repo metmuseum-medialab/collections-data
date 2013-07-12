@@ -1,0 +1,38 @@
+{
+ "Artist": "After Raphael (Raffaello Sanzio or Santi) (Italian, Urbino 1483–1520 Rome)",
+ "Medium": "Etching and engraving, second state",
+ "Dimensions": "sheet 9 13/16 x 16 in. (25 x 40.6 cm) trimmed to platemark",
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1926",
+ "Accession Number": "26.70.3",
+ "Who": [
+  "Raphael (Raffaello Sanzio  Santi)",
+  "Battista Franco"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90044646,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP819538.jpg",
+ "related-artworks": [
+  90040928,
+  90044467,
+  90044468,
+  90044475,
+  90044454
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90044646"
+  }
+ }
+}

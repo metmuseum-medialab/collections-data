@@ -1,0 +1,39 @@
+{
+ "Date": "16th–17th century",
+ "Geography": "India, Ahmadabad",
+ "Medium": "Wood; carved",
+ "Classification": "Wood",
+ "Credit Line": "Rogers Fund, 1910",
+ "Accession Number": "10.84.160",
+ "What": "Brackets",
+ "Where": [
+  "Asia",
+  "India",
+  "Gujarat",
+  "Ahmadabad"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "South Asia, 1600–1800 A.D.",
+  "South Asia, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140014443,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/10.84.160.JPG",
+ "related-artworks": [
+  140003193,
+  140003194,
+  140003191,
+  140003196,
+  140003192
+ ],
+ "Provenance": [
+  "[ Watson & Co. Cable Cyfers, Bombay, India, until 1910",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140014443"
+  }
+ }
+}

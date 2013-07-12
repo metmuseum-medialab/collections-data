@@ -1,0 +1,36 @@
+{
+ "Date": "18th–19th century",
+ "Culture": "Unknown",
+ "Medium": "Silk",
+ "Dimensions": "10 7/8 x 1 inches (27.6 x 2.5 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1909",
+ "Accession Number": "09.50.3082",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Trimming",
+  "Passementerie",
+  "Braid",
+  "Gimp"
+ ],
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "id": 120035339,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP6125.jpg",
+ "related-artworks": [
+  120031401,
+  120031412,
+  120031394,
+  120031398,
+  120031399
+ ],
+ "Provenance": [
+  "Friedrich Fischbach , Wiesbaden, Germany, 1909",
+  "sold to MMA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120035339"
+  }
+ }
+}

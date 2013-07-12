@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1780",
+ "Geography": "New England, Dorchester, Massachusetts, United States",
+ "Culture": "American",
+ "Medium": "Mahogany, gilt",
+ "Dimensions": [
+  "Frame 46 x 23 13/16 in. (116.8 x 60.5 cm)",
+  "Glass 23 3/8 x 15 1/4 in. (59.4 x 38.7 cm)"
+ ],
+ "Classification": "Furniture",
+ "Credit Line": "Gift of Wunsch Foundation, Inc., 1985",
+ "Accession Number": "1985.219",
+ "Who": "Stephen Badlam",
+ "What": [
+  "Glass",
+  "Gilt",
+  "Wood",
+  "Furniture",
+  "Mahogany",
+  "Mirrors",
+  "Looking glasses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Massachusetts",
+  "Boston",
+  "Dorchester"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005004,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DT8157.jpg",
+ "related-artworks": [
+  10016485,
+  10001709,
+  10004989
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005004"
+  }
+ }
+}

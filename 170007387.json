@@ -1,0 +1,45 @@
+{
+ "Date": "late 15th century",
+ "Culture": "North French or South Netherlandish",
+ "Medium": "Limestone, polychromed, gilding",
+ "Dimensions": "Overall 19 x 19 x 3 3/16 in. (48.3 x 48.3 x 8.1 cm)",
+ "Classification": "Sculpture",
+ "Credit Line": "The Friedsam Collection, Bequest of Michael Friedsam, 1931",
+ "Accession Number": "32.100.145",
+ "What": [
+  "Sculpture",
+  "Gilt",
+  "Stone",
+  "Limestone",
+  "Polychromy",
+  "Altarpieces"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170007387,
+ "gallery-id": 305,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf32-100-145s1.jpg",
+ "related-artworks": [
+  170003338,
+  170003624,
+  170003567,
+  170003568,
+  170003834
+ ],
+ "Description": "This altarpiece is said to have come from the convent of the Ursulines in Amiens, France.",
+ "Provenance": [
+  "Michael Friedsam, New York",
+  "Mrs. Chauncey Blair, Chicago"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170007387"
+  }
+ }
+}

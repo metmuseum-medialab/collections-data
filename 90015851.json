@@ -1,0 +1,54 @@
+{
+ "Artist": "After The Master of the Small Landscapes (Netherlandish, 16th century)",
+ "Former Attribution": "Formerly attributed to Pieter Bruegel the Elder (Netherlandish, Breda (?) ca. 1525–1569 Brussels)",
+ "Date": "1559-1561",
+ "Medium": "Etching; first state of four",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "22.20.2",
+ "Who": [
+  "Pieter Bruegel the Elder",
+  "Johannes van Doetecum the elder",
+  "Lucas van Doetecum",
+  "The Master of the Small Landscapes"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90015851,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP818232.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90004379"
+   },
+   {
+    "href": "http://scrapi.org/object/90026270"
+   },
+   {
+    "href": "http://scrapi.org/object/90032776"
+   },
+   {
+    "href": "http://scrapi.org/object/90055126"
+   },
+   {
+    "href": "http://scrapi.org/object/90077025"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90015851"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90015851"
+  }
+ }
+}

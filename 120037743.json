@@ -1,0 +1,53 @@
+{
+ "Date": "early 17th century",
+ "Culture": "Italian",
+ "Medium": "Silk",
+ "Dimensions": "Overall 13 1/2 x 3 1/2 in. (34.3 x 8.9 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Rogers Fund, 1919",
+ "Accession Number": "19.116.2",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120037743,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/44097.jpg",
+ "Provenance": [
+  "[ Galleria Sangiorgi , 1919",
+  "sold to MMA ]"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/120030764"
+   },
+   {
+    "href": "http://scrapi.org/object/120030834"
+   },
+   {
+    "href": "http://scrapi.org/object/120034255"
+   },
+   {
+    "href": "http://scrapi.org/object/120034290"
+   },
+   {
+    "href": "http://scrapi.org/object/120034515"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120037743"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/120037743"
+  }
+ }
+}

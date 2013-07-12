@@ -1,0 +1,62 @@
+{
+ "Date": "1949",
+ "Culture": "French",
+ "Medium": "estron, rayon",
+ "Dimensions": "Length at CF (skirt only) 47 in. (119.4 cm)",
+ "Credit Line": "Gift of A. M Tenney Associates, Inc. and Tennessee Eastman Corporation, 1950",
+ "Accession Number": "C.I.50.21.12",
+ "Who": "Edward Molyneux",
+ "What": [
+  "Costume",
+  "Dresses",
+  "Evening dresses",
+  "Rayon"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Classical Art and Modern Dress",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80009201,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI50.21.12_F.JPG",
+ "related-artworks": [
+  "http://scrapi.org/object/80031928",
+  "http://scrapi.org/object/80002262",
+  "http://scrapi.org/object/80003281",
+  "http://scrapi.org/object/80023098",
+  "http://scrapi.org/object/80027800"
+ ],
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/ci/original/CI50.21.12_F.JPG",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI50.21.12_F2.jpg",
+  "http://images.metmuseum.org/CRDImages/ci/original/CI50.21.12_d.jpg"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80031928"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80002262"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80003281"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80023098"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80027800"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80009201"
+  }
+ }
+}

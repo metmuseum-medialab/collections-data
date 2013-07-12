@@ -1,0 +1,64 @@
+{
+ "Date": "1810–20, published in 1863",
+ "Medium": "Etching, lavis, burin and burnisher on wove paper",
+ "Dimensions": [
+  "image 6 15/16 x 5 in. (17.6 x 12.7 cm)",
+  "plate 8 1/8 x 6 in. (20.6 x 15.2 cm)",
+  "sheet 13 9/16 x 9 15/16 in. (34.5 x 25.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Gift of Mrs. Grafton H. Pyne, 1951",
+ "Accession Number": "51.530.2",
+ "Who": "Goya (Francisco de Goya y Lucientes)",
+ "What": [
+  "Prints",
+  "Etching",
+  "Paper",
+  "Wove paper",
+  "Burins",
+  "Burnishers"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90055145,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP817447.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90054348",
+  "http://scrapi.org/object/90055092",
+  "http://scrapi.org/object/90055132",
+  "http://scrapi.org/object/90055138",
+  "http://scrapi.org/object/90055143"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "Mrs. Grafton H. Pyne"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90054348"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90055092"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90055132"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90055138"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90055143"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90055145"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Period": "Middle Kingdom",
+ "Dynasty": "Dynasty 11",
+ "Date": "ca. 2030–1640 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Priests' Cemetery, Tomb MMA 200s, MMA 1919–1920",
+ "Medium": "Stone, paint",
+ "Credit Line": "Rogers Fund, 1928",
+ "Accession Number": "28.3.16",
+ "What": [
+  "Paintings",
+  "Stone"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 8000–2000 B.C.",
+  "Egypt, 2000–1000 B.C."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 100013604,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs28.3.16.jpg",
+ "related-artworks": [
+  100000144,
+  100000547,
+  100000744,
+  100000935,
+  100001012
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100013604"
+  }
+ }
+}

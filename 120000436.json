@@ -1,0 +1,48 @@
+{
+ "Date": "early 19th century",
+ "Culture": "German (Nymphenburg)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "H. 2 5/8 in. (6.7 cm.)",
+ "Classification": "Ceramics",
+ "Credit Line": "Bequest of George White Thorne, 1883",
+ "Accession Number": "83.1.8",
+ "Who": "Nymphenburg Porcelain Manufactory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Drinking vessels",
+  "Cups",
+  "Hard paste porcelain"
+ ],
+ "Where": [
+  "Europe",
+  "Germany",
+  "Bavaria",
+  "Munich",
+  "Nymphenburg"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120000436,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF83_1_8.jpg",
+ "related-artworks": [
+  120000428,
+  120000434,
+  120000425,
+  120000421,
+  120000424
+ ],
+ "Provenance": [
+  "George White Thorne (until 1883",
+  "bequeathed to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120000436"
+  }
+ }
+}

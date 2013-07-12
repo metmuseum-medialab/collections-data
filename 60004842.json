@@ -1,0 +1,39 @@
+{
+ "Date": "ca. 1630–50",
+ "Culture": "India (Rajasthan, possibly Mewar)",
+ "Medium": "Ink and opaque watercolor on paper",
+ "Dimensions": "6 1/2 x 13 1/8 in. (16.5 x 33.3 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Daniel J. Slott, 1980",
+ "Accession Number": "1980.527.2a",
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Watercolors",
+  "Folios"
+ ],
+ "Where": [
+  "Asia",
+  "India",
+  "Rajasthan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "South Asia, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60004842,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP156150.jpg",
+ "related-artworks": [
+  60004805,
+  60004816,
+  60004849,
+  60004874,
+  60004802
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60004842"
+  }
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "Date": "1866",
+ "Medium": "Albumen silver print from glass negative",
+ "Dimensions": "Album page 26.2 × 34.8 cm (10 5/16 × 13 11/16 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Gilman Collection, Gift of The Howard Gilman Foundation, 2005",
+ "Accession Number": "2005.100.588.2.142",
+ "Who": "André-Adolphe-Eugène Disdéri",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "The Industrialization of French Photography after 1860",
+  "France, 1800–1900 A.D."
+ ],
+ "id": 190060613,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP280945.jpg",
+ "related-artworks": [
+  190013020,
+  190013042,
+  190013031,
+  190018988,
+  190018989
+ ],
+ "Provenance": [
+  "Maurice Levert collection",
+  "Disderi Archive",
+  "Pescheteau-Badin, (Godeau & Leroy, Paris, Lot 184, January 28, 1995)",
+  "Gilman Paper Company Collection, New York"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190060613"
+  }
+ }
+}

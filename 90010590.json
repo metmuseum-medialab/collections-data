@@ -1,0 +1,36 @@
+{
+ "Date": "n.d.",
+ "Medium": "Pen and brown ink, brush and brown wash",
+ "Dimensions": "7 1/2 x 10 1/4 in.  (19 x 26 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of Alexander B.V. Johnson and Roberta J.M. Olson, 2000",
+ "Accession Number": "2000.637.2",
+ "Who": "Fortunato Duranti",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90010590,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP809444.jpg",
+ "related-artworks": [
+  90007432,
+  90001584,
+  90010425
+ ],
+ "Provenance": [
+  "Alexander B. V. Johnson and Roberta J. M. Olson",
+  "Donor: Alexander B. V. Johnson and Roberta J. M. Olson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010590"
+  }
+ }
+}

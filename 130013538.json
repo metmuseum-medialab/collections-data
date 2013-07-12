@@ -1,0 +1,42 @@
+{
+ "Period": "Early Imperial",
+ "Date": "1st century A.D.",
+ "Culture": "Roman",
+ "Medium": "Bronze",
+ "Dimensions": "Other 3 7/16 in. (8.7 cm)",
+ "Classification": "Bronzes",
+ "Credit Line": "Fletcher Fund, 1930",
+ "Accession Number": "30.11.2",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Stamps"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Italian Peninsula, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130013538,
+ "gallery-id": 164,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP212944.jpg",
+ "related-artworks": [
+  130011966,
+  130012017,
+  130004677,
+  130004676,
+  130004928
+ ],
+ "Description": "The inscription L*HER*FLO signifies Lucius Herennius Florus, the name of the owner of the villa at Boscoreale from which the Museum's frescoes come. The stamp was presumably his property and likely served as the official seal of the household used to mark provisions. On the ring in intaglio is a second seal in the form of a winged caduceus, the staff of Mercury, god of commerce. Many such bronze seals have been found in the excavations at the nearby towns of Pompeii and Herculaneum, although stamps with intaglio on both ring and plate are less common.",
+ "Provenance": [
+  "Found in a room of the villa at Boscoreale"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130013538"
+  }
+ }
+}

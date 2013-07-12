@@ -1,0 +1,42 @@
+{
+ "Author": "Written by Andrea Alciato (Italian, 1492–1550)",
+ "Publisher": "Published by Jean de Tournes (French, 1504–1564)",
+ "Date": "1554",
+ "Medium": "Woodcut",
+ "Dimensions": "4 15/16 x 3 x 1/2 in. (12.6 x 7.6 x 1.2 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1924",
+ "Accession Number": "24.5",
+ "Who": [
+  "Jean de Tournes",
+  "Bernard Salomon",
+  "Andrea Alciato"
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90012020,
+ "related-artworks": [
+  90011896,
+  90042531,
+  90042615,
+  90042616,
+  90042618
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90012020"
+  }
+ }
+}

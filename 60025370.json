@@ -1,0 +1,48 @@
+{
+ "Culture": "Germany",
+ "Medium": "Nephrite",
+ "Dimensions": "Weight 4715 lb. (2138.7 kg)",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.134d",
+ "What": [
+  "Jade",
+  "Nephrite"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Asian Art",
+ "id": 60025370,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/02_18_134d.jpg",
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60011129"
+   },
+   {
+    "href": "http://scrapi.org/object/60011130"
+   },
+   {
+    "href": "http://scrapi.org/object/60011131"
+   },
+   {
+    "href": "http://scrapi.org/object/60011132"
+   },
+   {
+    "href": "http://scrapi.org/object/60011121"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60025370"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60025370"
+  }
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "Date": "1667",
+ "Culture": "Dutch",
+ "Medium": "Glass-stained",
+ "Dimensions": "8 1/2 x 10 1/2 in.  (21.6 x 26.7 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Bequest of George D. Pratt, 1935",
+ "Accession Number": "41.170.17",
+ "What": [
+  "Glass",
+  "Panels"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120026211,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/126994.jpg",
+ "related-artworks": [
+  120006585,
+  120016586,
+  120016587,
+  120026223,
+  120026212
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120026211"
+  }
+ }
+}

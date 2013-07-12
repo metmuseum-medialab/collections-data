@@ -1,0 +1,46 @@
+{
+ "Object Name": "Probably a counter",
+ "Date": "5th–8th century",
+ "Geography": "Palestine, Sbaita",
+ "Medium": "Bone; carved",
+ "Dimensions": [
+  "H. 2 1/16 (5.3 cm)",
+  "W. 1 1/4 (3.1 cm)",
+  "D. 1/4 in. (0.7 cm)"
+ ],
+ "Classification": "Ivories and Bone",
+ "Credit Line": "Gift of H. Dunscombe Colt, 1937",
+ "Accession Number": "37.75.9",
+ "What": [
+  "Bone",
+  "Ivory",
+  "Counters"
+ ],
+ "Where": [
+  "Asia",
+  "Palestine"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Eastern Mediterranean, 1–500A.D.",
+  "The Eastern Mediterranean, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140006445,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf37-75-9b.jpg",
+ "related-artworks": [
+  140006441,
+  140006437,
+  140006438,
+  140006439,
+  140006440
+ ],
+ "Provenance": [
+  "H. Dunscombe Colt, New York (until 1937)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140006445"
+  }
+ }
+}

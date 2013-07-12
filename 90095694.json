@@ -1,0 +1,45 @@
+{
+ "Artist": "Israel Silvestre (French, Nancy 1621–1691 Paris)",
+ "Date": "ca. 1630",
+ "Medium": "Etching",
+ "Dimensions": [
+  "Sheet 13 x 10 5/8 in. (33 x 27 cm)",
+  "Plate 11 13/16 x 8 11/16 in. (30 x 22.1 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Edwin De T. Bechtel, 1957",
+ "Accession Number": "57.650.335",
+ "Who": [
+  "Jacques Callot",
+  "Israel Silvestre"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90095694,
+ "related-artworks": [
+  90003572,
+  90008838,
+  90010396,
+  90010397,
+  90010780
+ ],
+ "Description": "The series depicts coins issued by European Princes, primarily from Germany and Italy, in the 16th and 17th centuries.  This plate shows the front and back of 10 coins.  These coins feature portraits European princes or emblems and are linked by a cartouche with the inscription \"AR\" (argentum).",
+ "Provenance": [
+  "Donor: Edwin De Turck Bechtel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90095694"
+  }
+ }
+}

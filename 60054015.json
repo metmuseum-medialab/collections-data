@@ -1,0 +1,31 @@
+{
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Carved wood",
+ "Classification": "Masks",
+ "Accession Number": "C.I.46.9.111",
+ "What": [
+  "Costume",
+  "Masks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 60054015,
+ "related-artworks": [
+  60012903,
+  60012904,
+  60013277,
+  60013333,
+  60013418
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60054015"
+  }
+ }
+}

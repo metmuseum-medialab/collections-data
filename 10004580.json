@@ -1,0 +1,46 @@
+{
+ "Date": "ca. 1680",
+ "Geography": "Mexico",
+ "Culture": "Mexican",
+ "Medium": "Majolica earthenware",
+ "Dimensions": "H. 10 5/8 in. (27 cm); Diam. 5 1/4 in. (13.3 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Robert W. de Forest, 1911",
+ "Accession Number": "11.87.1",
+ "Who": "Damián Hernández",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Earthenware",
+  "Jars",
+  "Maiolica",
+  "Apothecary jars"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America Native Peoples, 1600–1800 A.D.",
+  "Mexico and Central America, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10004580,
+ "related-artworks": [
+  10004598,
+  10010060,
+  10004581
+ ],
+ "Provenance": [
+  "Albert Pepper Collection",
+  "Mrs. Robert W. de Forest, New York, until 1911"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10004580"
+  }
+ }
+}

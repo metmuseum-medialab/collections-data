@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1815–20",
+ "Culture": "Russian (MoscowGorbunovo)",
+ "Medium": "Hard-paste porcelain",
+ "Dimensions": "Gr.W. 10-7/8 in. (27.6 cm); Gr.D. 10 in. (25.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mildred R. Mottahedeh, 1980",
+ "Accession Number": "1980.141.2",
+ "Who": "Popov Factory",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Faience",
+  "Porcelain",
+  "Hard paste porcelain",
+  "Trays"
+ ],
+ "Where": [
+  "Asia",
+  "Russia",
+  "Moscow"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Eastern Europe and Scandinavia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120022947,
+ "gallery-id": 553,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES2911.jpg",
+ "related-artworks": [
+  120020944,
+  120023181,
+  120024719
+ ],
+ "Provenance": [
+  "Mildred R. Mottahedeh (until 1980",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120022947"
+  }
+ }
+}

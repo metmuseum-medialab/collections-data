@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1919",
+ "Medium": "Ink on paper",
+ "Dimensions": [
+  "H. 13-3/4, W. 11-5/8 inches",
+  "(34.9 x 29.5 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Bequest of Scofield Thayer, 1982",
+ "Accession Number": "1984.433.41",
+ "Who": "Felix Albrecht Harta",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210003706,
+ "related-artworks": [
+  210003340,
+  210003359,
+  210003366,
+  210003383,
+  210003385
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003706"
+  }
+ }
+}

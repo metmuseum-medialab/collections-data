@@ -1,0 +1,40 @@
+{
+ "Date": "late 19th century",
+ "Culture": "Japan",
+ "Medium": "Cotton",
+ "Dimensions": "3 3/4 x 3 1/2 in. (9.53 x 8.89 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Museum Accession",
+ "Accession Number": "x.406.6a",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Arms",
+  "Edged weapons",
+  "Painting",
+  "Swords",
+  "Printing",
+  "Cases",
+  "Guards"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60044599,
+ "related-artworks": [
+  60044600,
+  60044603,
+  60044598,
+  60044595,
+  60044604
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60044599"
+  }
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1885",
+ "Culture": "American",
+ "Medium": "Cotton, woven",
+ "Dimensions": "65 x 65 in. (165.1 x 165.1 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Robert Tuggle, 2008",
+ "Accession Number": "2008.643.3",
+ "What": [
+  "Textiles",
+  "Cotton",
+  "Woven"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 10023608,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP207444.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10013976"
+   },
+   {
+    "href": "http://scrapi.org/object/10013977"
+   },
+   {
+    "href": "http://scrapi.org/object/10013980"
+   },
+   {
+    "href": "http://scrapi.org/object/10013981"
+   },
+   {
+    "href": "http://scrapi.org/object/10013982"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10023608"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10023608"
+  }
+ }
+}

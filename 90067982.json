@@ -1,0 +1,58 @@
+{
+ "Author": "Written by François de Sales (French)",
+ "Date": "1641",
+ "Medium": "Etching; second state of three (BN)",
+ "Dimensions": [
+  "sheet 13 7/16 in. (34.2 cm)",
+  "plate 12 1/2 x 8 1/16 in. (31.7 x 20.5 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Purchase, The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1966",
+ "Accession Number": "66.544.23",
+ "Who": [
+  "Claude Mellan",
+  "François de Sales"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90067982,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP822468.jpg",
+ "Provenance": [
+  "Vendor: Suckling and Co."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90067918"
+   },
+   {
+    "href": "http://scrapi.org/object/90067971"
+   },
+   {
+    "href": "http://scrapi.org/object/90067974"
+   },
+   {
+    "href": "http://scrapi.org/object/90067976"
+   },
+   {
+    "href": "http://scrapi.org/object/90067978"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90067982"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90067982"
+  }
+ }
+}

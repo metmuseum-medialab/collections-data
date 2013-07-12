@@ -1,0 +1,41 @@
+{
+ "Period": "Third Intermediate Period",
+ "Dynasty": "Dynasty 21",
+ "Reign": "reign of Smendes I",
+ "Date": "ca. 1051 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Deir el-Bahri, Tomb of Meritamun (TT 358, MMA 65), MMA 1928–1929",
+ "Medium": "pottery",
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.3.42",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Jars"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008490,
+ "gallery-id": 126,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs30.3.42.jpg",
+ "related-artworks": [
+  100003541,
+  100006153,
+  100006718,
+  100008528,
+  100017399
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100008490"
+  }
+ }
+}

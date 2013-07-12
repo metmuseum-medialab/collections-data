@@ -1,0 +1,59 @@
+{
+ "Engraver": "Engraved by de la Marquade (French)",
+ "Publisher": "Published by Prault Pere",
+ "Date": "1743",
+ "Medium": "Printed book with engraved illustrations",
+ "Dimensions": "Overall 11 1/2 x 8 7/8 x 2 3/8 in. (29.2 x 22.5 x 6.1 cm)",
+ "Classification": "Books",
+ "Credit Line": "Rogers Fund, 1952",
+ "Accession Number": "52.519.33.1",
+ "Who": [
+  "Pierre Edmé Babel",
+  "Pierre Moreau",
+  "Charles Etienne Briseux",
+  "Prault Pere",
+  "de la Marquade"
+ ],
+ "What": [
+  "Engraving",
+  "Books",
+  "Illustrations"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90051586,
+ "Provenance": [
+  "Ogden Codman, Jr. (American, Boston, Massachusetts 1868–1951 Grégy-sur-Yerre)D 9.9 (544), D 9.10 (545)"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90014052"
+   },
+   {
+    "href": "http://scrapi.org/object/90051588"
+   },
+   {
+    "href": "http://scrapi.org/object/90012396"
+   },
+   {
+    "href": "http://scrapi.org/object/90051581"
+   },
+   {
+    "href": "http://scrapi.org/object/90051579"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90051586"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90051586"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "6th century",
+ "Geography": "Made in Byzantine Egypt",
+ "Culture": "Coptic",
+ "Medium": "Pinewood with traces of polychromy",
+ "Dimensions": [
+  "Overall 6 3/16 x 21 9/16 x 7/8 in. (15.7 x 54.7 x 2.2 cm)",
+  "Overall (56.37.1-4 together) 6 1/4 x 90 9/16 x 7/8 in. (15.8 x 230 x 2.2 cm)"
+ ],
+ "Classification": "Sculpture",
+ "Credit Line": "Rogers Fund, 1956",
+ "Accession Number": "56.37.4",
+ "What": [
+  "Sculpture",
+  "Reliefs",
+  "Polychromy",
+  "Friezes"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Medieval Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 170008510,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf56-37-4s1.jpg",
+ "related-artworks": [
+  170008507,
+  170008508,
+  170008509,
+  170005897,
+  170006998
+ ],
+ "Provenance": [
+  "Kerekin Beshir, New York (until 1956)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170008510"
+  }
+ }
+}

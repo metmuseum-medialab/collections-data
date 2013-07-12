@@ -1,0 +1,31 @@
+{
+ "Date": "1890s",
+ "Medium": "Albumen silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of Mrs. A. Hyatt Mayor, 1981",
+ "Accession Number": "1981.1158.27",
+ "Who": "Unknown",
+ "What": [
+  "Photographs",
+  "Albumen silver prints"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "id": 190014825,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP71278.jpg",
+ "related-artworks": [
+  190011576,
+  190011793,
+  190011794,
+  190012616,
+  190012631
+ ],
+ "Provenance": [
+  "Mrs. A. Hyatt Mayor"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190014825"
+  }
+ }
+}

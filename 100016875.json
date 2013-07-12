@@ -1,0 +1,41 @@
+{
+ "Period": "Middle Kingdom–Early New Kingdom",
+ "Dynasty": "Dynasty 12–18",
+ "Date": "ca. 1981–1295 B.C.",
+ "Geography": "Country of Origin Egypt, Memphite Region, Lisht North, Cemetery, MMA 1920–1922",
+ "Medium": "Faience",
+ "Dimensions": "l. 1.6 cm (5/8 in); w. 1.2 cm (1/2 in)",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.151.547",
+ "What": [
+  "Faience",
+  "Funerary containers",
+  "Coffins"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Mersa Matrûh",
+  "Al Lisht"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100016875,
+ "related-artworks": [
+  100014963,
+  100014967,
+  100016859,
+  100016860,
+  100016862
+ ],
+ "Provenance": [
+  "Excavated by the Egyptian Expedition of the Metropolitan Museum of Art. Acquired by the Museum in the division of finds."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100016875"
+  }
+ }
+}

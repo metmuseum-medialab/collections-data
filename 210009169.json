@@ -1,0 +1,42 @@
+{
+ "Date": "1954",
+ "Medium": "Ink, watercolor, and gouache on paper",
+ "Dimensions": [
+  "H. 20-5/8, W. 29-1/4 inches",
+  "(52.4 x 74.3 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "Arthur Hoppock Hearn Fund, 1956",
+ "Accession Number": "56.76",
+ "Who": "Peggy Bacon",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Paintings",
+  "Watercolors",
+  "Gouaches"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210009169,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/sf56.76.jpg",
+ "related-artworks": [
+  210008145,
+  210008406,
+  90011801,
+  90012647,
+  90004615
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210009169"
+  }
+ }
+}

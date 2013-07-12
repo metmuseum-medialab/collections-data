@@ -1,0 +1,41 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1935–43",
+ "Medium": "Etching",
+ "Dimensions": "plate 9 x 7 in. (22.9 x 17.8 cm) sheet: 16 x 11 1/2 in. (40.6 x 29.2 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of the Work Projects Administration, New York, 1943",
+ "Accession Number": "43.33.343",
+ "Who": [
+  "WPA",
+  "William Hicks"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90048465,
+ "related-artworks": [
+  90048463,
+  90048460,
+  90048459,
+  90048462,
+  90048454
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90048465"
+  }
+ }
+}

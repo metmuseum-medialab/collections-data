@@ -1,0 +1,45 @@
+{
+ "Period": "Late Postclassic (Pre-Columbian)",
+ "Date": "1200–1521",
+ "Geography": "Mazapa, Texcoco District, Mexico",
+ "Culture": "Aztec",
+ "Medium": "Clay",
+ "Dimensions": [
+  "Weight  39 grams",
+  "Diam.  43 mm"
+ ],
+ "Classification": "Idiophone-Shaken",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.3460",
+ "Who": "Aztec",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Musical instruments",
+  "Idiophones",
+  "Rattles"
+ ],
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico, 1000–1400 A.D.",
+  "Mexico, 1400–1600 A.D."
+ ],
+ "id": 180016374,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS1132A2.jpg",
+ "related-artworks": [
+  180013602,
+  180013003,
+  180013006,
+  180013604,
+  180013606
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180016374"
+  }
+ }
+}

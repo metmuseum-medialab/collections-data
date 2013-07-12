@@ -1,0 +1,40 @@
+{
+ "Date": "19th century",
+ "Geography": "Japan",
+ "Medium": "Wood, hide, metal",
+ "Dimensions": "L. 15.5 cm (6-1/16 in.); Diam. at widest: 25.3 cm (9-15/16 in.);  Diam. of Heads: 35 cm (13-13/16 in.)",
+ "Classification": "Membranophone-double-headed / cylindrical drum",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.92",
+ "Who": "Nambuya Keikichi, Tokyo, Asakuja, Kamejima-cho",
+ "What": [
+  "Metal",
+  "Musical instruments",
+  "Membranophones",
+  "Drums",
+  "Hide",
+  "Barrel drums",
+  "Taiko"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 180012392,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/MUS602A.jpg",
+ "related-artworks": [
+  180013565,
+  180016269,
+  180016265,
+  180016268,
+  180012444
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180012392"
+  }
+ }
+}

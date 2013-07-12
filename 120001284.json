@@ -1,0 +1,38 @@
+{
+ "Date": "1470–1510",
+ "Culture": "Spanish",
+ "Medium": "Iron",
+ "Dimensions": "H. 3 3/8 in.  (8.6 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of Henry G. Marquand, 1887",
+ "Accession Number": "87.11.603",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Iron and iron alloy",
+  "Iron",
+  "Keys"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Iberian Peninsula, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120001284,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/1231.jpg",
+ "related-artworks": [
+  120001053,
+  120017274,
+  120001045,
+  120001173,
+  120001165
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120001284"
+  }
+ }
+}

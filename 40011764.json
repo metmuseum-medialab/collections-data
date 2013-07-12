@@ -1,0 +1,35 @@
+{
+ "Date": "19th century",
+ "Culture": "Austrian",
+ "Classification": "Firearms",
+ "Credit Line": "Gift of Charles M. Schott Jr., 1917",
+ "Accession Number": "19.53.39",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Small arms",
+  "Handguns",
+  "Pistols"
+ ],
+ "Where": [
+  "Europe",
+  "Austria"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40011764,
+ "related-artworks": [
+  40010776,
+  40011747,
+  40013278,
+  40010773,
+  40003156
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40011764"
+  }
+ }
+}

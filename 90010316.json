@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1785–90",
+ "Medium": "Red chalk",
+ "Dimensions": "32.4 cm diameter",
+ "Classification": "Drawings",
+ "Credit Line": "Edward Pearce Casey Fund, 1986",
+ "Accession Number": "1986.1017.2",
+ "Who": "Jean Laurent Legeay",
+ "What": [
+  "Drawings",
+  "Chalk"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90010316,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP811619.jpg",
+ "related-artworks": [
+  90010315,
+  90010646,
+  90020856,
+  90023300,
+  90054255
+ ],
+ "Provenance": [
+  "Lord Elgin (British), sale, Sotheby's New York, January 16, 1986, lot 106, as Pernet."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010316"
+  }
+ }
+}

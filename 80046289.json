@@ -1,0 +1,38 @@
+{
+ "Date": "1960–63",
+ "Culture": "American",
+ "Medium": "silk, glass",
+ "Dimensions": "Length 9 in. (22.9 cm)",
+ "Credit Line": "Gift of Glady Whitfield Solomon, 1977",
+ "Accession Number": "1977.412.53a, b",
+ "Who": "Delman",
+ "What": [
+  "Costume",
+  "Silk",
+  "Glass",
+  "Footwear",
+  "Shoes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80046289,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1977.412.53ab_F.jpg",
+ "related-artworks": [
+  80046291,
+  80093751,
+  80094068,
+  80108513,
+  80108198
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80046289"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Date": "probably 19th century",
+ "Culture": "French",
+ "Medium": "Bronze, wood, ormolu",
+ "Dimensions": "L. 34 in. (86.4 cm.), H. 23 1/2 in. (59.7 cm.), D. 14 3/4 in. (37.5 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "H.O. Havemeyer Collection, Bequest of Mrs. H.O. Havemeyer, 1929",
+ "Accession Number": "29.100.149a, b",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Bronze",
+  "Wood",
+  "Statues",
+  "Figurines",
+  "Plate",
+  "Ormolu"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120011284,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/74241.jpg",
+ "related-artworks": [
+  120011283,
+  120013638,
+  120013639,
+  120020581,
+  120004323
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120011284"
+  }
+ }
+}

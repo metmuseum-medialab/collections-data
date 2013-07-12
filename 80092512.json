@@ -1,0 +1,44 @@
+{
+ "Manufacturer": "Townley Frocks (American)",
+ "Date": "1948",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 49 in. (124.5 cm)",
+ "Credit Line": "Gift of Kohle Yohannan, 2010",
+ "Accession Number": "2010.210",
+ "Who": [
+  "Claire McCardell",
+  "Townley Frocks"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Orientalism Visions of the East in Western Dress",
+  "American Ingenuity Sportswear, 1930s–1970s",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80092512,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2010.210_F.jpg",
+ "related-artworks": [
+  80000083,
+  80000820,
+  80002261,
+  80002336,
+  80005377
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80092512"
+  }
+ }
+}

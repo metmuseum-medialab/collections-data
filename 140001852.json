@@ -1,0 +1,48 @@
+{
+ "Object Name": "Amulet case",
+ "Date": "19th century",
+ "Geography": "present-day Uzbekistan, Samarqand",
+ "Medium": "Silver, coral or amber, turquoise, glass",
+ "Classification": "Jewelry",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1145",
+ "What": [
+  "Metal",
+  "Costume",
+  "Glass",
+  "Silver",
+  "Jewelry",
+  "Amulets",
+  "Cases",
+  "Resin",
+  "Turquoise",
+  "Amber",
+  "Coral"
+ ],
+ "Where": [
+  "Asia",
+  "Uzbekistan",
+  "Samarqand"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Central and North Asia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140001852,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf91-1-1145a.jpg",
+ "related-artworks": [
+  140001854,
+  140001863,
+  140013825,
+  140013798,
+  140013796
+ ],
+ "Provenance": [
+  "Edward C. Moore, New York (until d. 1891)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140001852"
+  }
+ }
+}

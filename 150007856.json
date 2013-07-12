@@ -1,0 +1,39 @@
+{
+ "Date": "probably late 16th century, possibly early 20th century",
+ "Culture": "Italian (Venetian)",
+ "Medium": "Colorless (topaz-tinted) nonlead glass. Blown, pattern molded, trailed.",
+ "Dimensions": "H. 28.5 cm",
+ "Classification": "Glass",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.1168",
+ "What": [
+  "Vessels",
+  "Glass",
+  "Vases",
+  "Blown glass",
+  "Topaz"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 150007856,
+ "gallery-id": 954,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/264527.jpg",
+ "related-artworks": [
+  150007864,
+  150007731,
+  150007851,
+  150007855,
+  150007732
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150007856"
+  }
+ }
+}

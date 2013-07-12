@@ -1,0 +1,41 @@
+{
+ "Date": "1700–1735",
+ "Culture": "German or Bohemian",
+ "Medium": "Glass",
+ "Dimensions": "H. 6 3/4 in.  (17.1 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of George D. Pratt, 1926",
+ "Accession Number": "26.152.5",
+ "What": [
+  "Glass",
+  "Drinking vessels",
+  "Drinking glasses",
+  "Wine glasses"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120010258,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/63797.jpg",
+ "related-artworks": [
+  120010939,
+  120007853,
+  120009543,
+  120009551,
+  120010255
+ ],
+ "Provenance": [
+  "George D. Pratt (until 1926",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120010258"
+  }
+ }
+}

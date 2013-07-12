@@ -1,0 +1,45 @@
+{
+ "Lithographer": "Henry A. Thomas (New York, NY)",
+ "Author": "Lyrics by W. A. Armstrong (American, active ca. 1876)",
+ "Date": "1876",
+ "Medium": "Lithograph",
+ "Dimensions": "sheet 14 x 10 9/16 in. (35.6 x 26.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Edward W. C. Arnold Collection of New York Prints, Maps and Pictures, Bequest of Edward W. C. Arnold, 1954",
+ "Accession Number": "54.90.889",
+ "Who": [
+  "Henry A. Thomas",
+  "American Music Publishing Company",
+  "Charles E. Pratt",
+  "W. A. Armstrong"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90054671,
+ "related-artworks": [
+  90054627,
+  90002061,
+  90004749,
+  90004750,
+  90004790
+ ],
+ "Provenance": [
+  "H. P. Bispham (American, 19th century), New York",
+  "Donor: Edward W. C. Arnold"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90054671"
+  }
+ }
+}

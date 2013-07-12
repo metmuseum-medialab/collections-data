@@ -1,0 +1,58 @@
+{
+ "Date": "1899-1900",
+ "Medium": "Graphite and gouache",
+ "Dimensions": "sheet 3 1/2 x 5 in. (8.9 x 12.7 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.508.94",
+ "Who": "Edgar Gilstrap Simpson",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Graphite",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90095094,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP827266.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/90092915",
+  "http://scrapi.org/object/90092918",
+  "http://scrapi.org/object/90092928",
+  "http://scrapi.org/object/90092956",
+  "http://scrapi.org/object/90095034"
+ ],
+ "related-images": [],
+ "Description": "Five designs for drinking vessels, four portrayed in roughly the same size and the fifth, on the right side, on a larger scale. Two designs in the upper left corner are characterized by a high stem and relatively fine ears. The two designs below show drinking cups or chalices with a Latin cross on the cup. The larger design on the right shows a drinking cup with two ears and a lid shaped like a crown. The designs are individually numbered (continuous from the previous pages).",
+ "Provenance": [
+  "Vendor: Rockman Prints (New York)"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90092915"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90092918"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90092928"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90092956"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/90095034"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90095094"
+  }
+ }
+}

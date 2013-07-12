@@ -1,0 +1,41 @@
+{
+ "Date": "1811–ca. 1813",
+ "Medium": "Watercolor on white laid paper",
+ "Dimensions": "7 5/8 x 6 1/2 in. (19.4 x 16.5 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Rogers Fund, 1942",
+ "Accession Number": "42.95.35",
+ "Who": "Pavel Petrovich Svinin",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Watercolors",
+  "Laid paper"
+ ],
+ "Where": [
+  "Asia",
+  "Russia"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "Anatolia and the Caucasus, 1800–1900 A.D.",
+  "Central and North Asia, 1800–1900 A.D.",
+  "Eastern Europe and Scandinavia, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20013088,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/ap42.95.35.jpg",
+ "related-artworks": [
+  20013096,
+  20013102,
+  20013104,
+  20013133,
+  20013114
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20013088"
+  }
+ }
+}

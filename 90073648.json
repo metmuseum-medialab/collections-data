@@ -1,0 +1,48 @@
+{
+ "Artist": "Antoine Alphée Piaud (French, active 1837–66)",
+ "Date": "19th century",
+ "Medium": "Lithograph printed with taupe tone block",
+ "Dimensions": [
+  "sheet 12 5/16 x 17 3/16 in. (31.2 x 43.6 cm)",
+  "image 7 11/16 x 9 7/16 in. (19.5 x 23.9 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Max G. Wildnauer Fund, 1976",
+ "Accession Number": "1976.631.4",
+ "Who": [
+  "Gustave Doré",
+  "Antoine Alphée Piaud"
+ ],
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The Print in the Nineteenth Century",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90073648,
+ "related-artworks": [
+  90072996,
+  90073647,
+  90073962,
+  90024733,
+  90067957
+ ],
+ "Provenance": [
+  "Vendor: Paul Prouté, Paris"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90073648"
+  }
+ }
+}

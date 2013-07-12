@@ -1,0 +1,44 @@
+{
+ "Period": "Hellenistic or Imperial",
+ "Date": "2nd century B.C.–2nd century A.D.",
+ "Culture": "Greek or Roman",
+ "Medium": "bronze",
+ "Dimensions": [
+  "H. 25 in. (63.5 cm)",
+  "Width  26 1/2 in (67.3 cm)",
+  "Depth  15 in (38.1 cm)"
+ ],
+ "Classification": "Bronzes",
+ "Credit Line": "Bequest of Bill Blass, 2002",
+ "Accession Number": "2003.407.7",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": [
+  "Italian Peninsula, 1000 B.C.–1 A.D.",
+  "Italian Peninsula, 1–500A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 130018184,
+ "gallery-id": 160,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP108187.jpg",
+ "related-artworks": [
+  130004163,
+  130004165,
+  130004677,
+  130004676,
+  130004708
+ ],
+ "Description": "The pose of this fragmentary torso suggests that the figure, who wears a short cape and an ornate cuirass of Hellenistic type, was originally riding a rearing horse, the left hand holding the reins while the right wielded a weapon. Dynamic equestrian bronze statues have a long tradition in Hellenistic and Roman art, stemming from Lysippos' famous group showing Alexander the Great on horseback, which commemorates the Macedonian leader's first major victory over the Persians at the Granikos River. The Romans sometimes adopted cuirasses of Hellenistic type. This fact, the widespread popularity of the equestrian statue as a public monument in antiquity, and the dearth of preserved examples hamper close dating of the torso. Technical and stylistic considerations lean toward a somewhat provincial, likely Roman, workshop.The cuirass is decorated with two running friezes in high relief. Arimaspians, a legendary tribe from the distant north, combat griffins in the upper frieze. Sea griffins, dolphins, and palms decorate the lower one. Such potent imagery alludes to victory and the heroic valor of this tribe from across the sea, on the fringes of the world. In Roman times, imagery of Arimaspians was sometimes linked to the Parthians.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130018184"
+  }
+ }
+}

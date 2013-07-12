@@ -1,0 +1,46 @@
+{
+ "Object Name": "Ring weight",
+ "Reign": "Yazid, Governor (762–68)",
+ "Date": "7th–9th century",
+ "Geography": "Egypt",
+ "Medium": "Glass",
+ "Dimensions": [
+  "H. 3/4 in.",
+  "W. 1 5/8 in.",
+  "D. 1 in."
+ ],
+ "Classification": "Glass",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.256.2a",
+ "What": [
+  "Glass",
+  "Rings",
+  "Weights"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 500–1000 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 140002553,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/DP247586.jpg",
+ "related-artworks": [
+  140002552,
+  140004272,
+  140016100,
+  140000035,
+  140000358
+ ],
+ "Provenance": [
+  "[ Michael Casira, Cairo, until 1908",
+  "sold to A.M. Lythgoe for MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140002553"
+  }
+ }
+}

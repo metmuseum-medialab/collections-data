@@ -1,0 +1,41 @@
+{
+ "Date": "19th century",
+ "Culture": "French",
+ "Medium": "Silk and metal thread",
+ "Dimensions": "L. 45 1/2 x W. 22 inches (115.6 x 55.9 cm)",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mrs. Clarence Webster, 1940",
+ "Accession Number": "40.92.1",
+ "What": [
+  "Metal",
+  "Silk",
+  "Textiles",
+  "Woven"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120044181,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/121615.jpg",
+ "related-artworks": [
+  120013646,
+  120039344,
+  120039772,
+  120039814,
+  120041855
+ ],
+ "Provenance": [
+  "Mrs. Clarence Webster (until 1940",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120044181"
+  }
+ }
+}

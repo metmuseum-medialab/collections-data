@@ -1,0 +1,41 @@
+{
+ "Period": "Meiji period (1868–1912)",
+ "Date": "19th century",
+ "Culture": "Japan",
+ "Medium": "Polychrome woodblock print; ink and color on paper",
+ "Dimensions": "Approx. 14 1/2 x 9 1/2 in. (36.8 x 24.1 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Mary Martin, 1938",
+ "Accession Number": "JP2748.4",
+ "Who": "Utagawa Yoshiiku",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1800–1900 A.D.",
+ "id": 60029474,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP149260.jpg",
+ "related-artworks": [
+  60024287,
+  60029471,
+  60029472,
+  60047447,
+  60047450
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60029474"
+  }
+ }
+}

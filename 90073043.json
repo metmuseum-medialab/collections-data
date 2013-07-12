@@ -1,0 +1,43 @@
+{
+ "Date": "1597",
+ "Medium": "Engraving",
+ "Dimensions": "sheet 8 1/16 x 5 1/2 in. (20.4 x 13.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Gift of Henry Walters, 1917",
+ "Accession Number": "17.37.44",
+ "Who": "Hendrick Goltzius",
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Hendrick Goltzius (1558–1617)",
+  "Dutch and Flemish Artists in Rome, 1500–1600",
+  "The Rediscovery of Classical Antiquity",
+  "Low Countries, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90073043,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP820990.jpg",
+ "related-artworks": [
+  90001882,
+  90003573,
+  90003654,
+  90005996,
+  90006977
+ ],
+ "Provenance": [
+  "Donor: Henry Walters"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90073043"
+  }
+ }
+}

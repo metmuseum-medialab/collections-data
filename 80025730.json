@@ -1,0 +1,36 @@
+{
+ "Date": "1965–75",
+ "Culture": "American",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 26 1/2 in. (67.3 cm)",
+ "Credit Line": "Gift of Elaine Post, 1985",
+ "Accession Number": "1985.373.4",
+ "Who": "Elaine Post",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Shirts"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80025730,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1985.373.4_F.jpg",
+ "related-artworks": [
+  80025729,
+  80018945,
+  80018946,
+  80025728,
+  80018947
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80025730"
+  }
+ }
+}

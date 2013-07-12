@@ -1,0 +1,57 @@
+{
+ "Date": "1701",
+ "Culture": "Italian (Rome)",
+ "Medium": "Silver",
+ "Dimensions": "2-3/4 x 2-3/8 in.  (7.0 x 6.0 cm)",
+ "Classification": "Horology",
+ "Credit Line": "Gift of Mrs. Stephen D. Tucker, 1903",
+ "Accession Number": "03.21.46",
+ "Who": "Dominicus Lusuerg",
+ "What": [
+  "Metal",
+  "Silver",
+  "Timepieces",
+  "Sundials"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Rome"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Rome and Southern Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120003261,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/33453.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/120003264",
+  "http://scrapi.org/object/120002437",
+  "http://scrapi.org/object/120006715",
+  "http://scrapi.org/object/120006716",
+  "http://scrapi.org/object/120006717"
+ ],
+ "related-images": [],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120003264"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120002437"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120006715"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120006716"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/120006717"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/120003261"
+  }
+ }
+}

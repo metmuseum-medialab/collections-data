@@ -1,0 +1,51 @@
+{
+ "Couture Line": "Versace Couture (Italian, founded 1992)",
+ "Design House": "Gianni Versace (Italian, founded 1978)",
+ "Date": "fall/winter 1991–92",
+ "Culture": "Italian",
+ "Medium": "silk, rayon",
+ "Dimensions": [
+  "Length at CB (a) 28 1/2 in. (72.4 cm)",
+  "Length at CB (b) 18 1/4 in. (46.4 cm)"
+ ],
+ "Credit Line": "Gift of Anne H. Bass, 1993",
+ "Accession Number": "1993.345.5a, b",
+ "Who": [
+  "Gianni Versace",
+  "Versace Couture"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Suits",
+  "Rayon"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Costume in The Metropolitan Museum of Art",
+  "Haute Couture",
+  "The Greek Key and Divine Attributes in Modern Dress",
+  "Made in Italy Italian Fashion from 1950 to Now",
+  "Italian Peninsula, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80001946,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1993.345.5ab_F.jpg",
+ "related-artworks": [
+  80002458,
+  80001758,
+  80001764,
+  80002130,
+  80003173
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80001946"
+  }
+ }
+}

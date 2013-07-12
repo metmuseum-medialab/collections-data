@@ -1,0 +1,42 @@
+{
+ "Period": "Archaic",
+ "Date": "ca. 500–490 B.C.",
+ "Culture": "Greek, Attic",
+ "Medium": "Terracotta; red-figure",
+ "Dimensions": "H. 7 3/8 in. (18.7 cm)",
+ "Classification": "Vases",
+ "Credit Line": "Rogers Fund, 1906",
+ "Accession Number": "06.1021.205",
+ "Who": "London Class of Head Vases",
+ "What": [
+  "Clay",
+  "Vessels",
+  "Vases",
+  "Terracotta",
+  "Drinking vessels",
+  "Cups",
+  "Mugs"
+ ],
+ "Where": [
+  "Europe",
+  "Greece"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "Ancient Greece, 1000 B.C.–1 A.D.",
+ "id": 130007842,
+ "gallery-id": 157,
+ "related-artworks": [
+  130007740,
+  130007738,
+  130007809,
+  130007859,
+  130011845
+ ],
+ "Description": "The ease with which Attic potters and painters moved between shapes and between figural and foliate iconography is evident in this work. Above the head is a cuff embellished with a palmette ornament typical of cups and pots at the turn of the fifth century B.C. In the present context, the effect is that of a floral diadem or polos (headdress).",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130007842"
+  }
+ }
+}

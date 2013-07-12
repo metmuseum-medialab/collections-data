@@ -1,0 +1,39 @@
+{
+ "Medium": "Pastel and charcoal on green-brown wove paper",
+ "Dimensions": "7 1/8 x 11 1/2 in. (18.1 x 29.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of A. W. Bahr, 1958",
+ "Accession Number": "58.21.48",
+ "Who": "Arthur . Davies",
+ "What": [
+  "Drawings",
+  "Paper",
+  "Wove paper",
+  "Charcoal",
+  "Pastels"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "American Paintings and Sculpture",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 20011056,
+ "image": "http://images.metmuseum.org/CRDImages/ap/original/DP158103.jpg",
+ "related-artworks": [
+  20010995,
+  20011008,
+  20011003,
+  20011031,
+  20010982
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/20011056"
+  }
+ }
+}

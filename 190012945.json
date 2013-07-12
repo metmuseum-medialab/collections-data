@@ -1,0 +1,36 @@
+{
+ "Date": "1945",
+ "Medium": "Gelatin silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of the artist, 1974",
+ "Accession Number": "1974.676.9",
+ "Who": "John Phillips",
+ "What": [
+  "Photographs",
+  "Gelatin silver prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 190012945,
+ "related-artworks": [
+  190012932,
+  190012933,
+  190012931,
+  190012934,
+  190012935
+ ],
+ "Provenance": [
+  "John Phillips"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190012945"
+  }
+ }
+}

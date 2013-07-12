@@ -1,0 +1,45 @@
+{
+ "Date": "19th–20th century",
+ "Geography": "Nigeria",
+ "Culture": "Yoruba peoples",
+ "Medium": "Brass",
+ "Dimensions": "Height 28-3/4 in.",
+ "Classification": "Metal-Sculpture",
+ "Credit Line": "Gift of Mr. and Mrs. Klaus G. Perls, 1991",
+ "Accession Number": "1991.17.132",
+ "Who": "Yoruba",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Copper alloy",
+  "Brass",
+  "Staffs"
+ ],
+ "Where": [
+  "Africa",
+  "Nigeria"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Guinea Coast, 1800–1900 A.D.",
+  "Guinea Coast, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50009267,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1991_17_132.jpg",
+ "related-artworks": [
+  50003506,
+  50009263,
+  50009270,
+  50009272,
+  50004942
+ ],
+ "Provenance": [
+  "Mr. and Mrs. Klaus G. Perls, New York, until 1991"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50009267"
+  }
+ }
+}

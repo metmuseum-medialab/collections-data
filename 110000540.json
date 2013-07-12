@@ -1,0 +1,48 @@
+{
+ "Date": "ca. 1510–15",
+ "Medium": "Oil on wood",
+ "Dimensions": "24 7/8 x 15 3/8 in. (63.2 x 39.1 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mr. and Mrs. Charles Wrightsman, 1977",
+ "Accession Number": "1977.1.1",
+ "Who": "Gerard David",
+ "What": [
+  "Paintings",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "Painting in Oil in the Low Countries and Its Spread to Southern Europe",
+  "Early Netherlandish Painting",
+  "Gerard David (born about 1455, died 1523)",
+  "Low Countries, 1400–1600 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110000540,
+ "gallery-id": 640,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/ep1977.1.1.R.jpg",
+ "related-artworks": [
+  110000537,
+  110000534,
+  110000535,
+  110000536,
+  110003044
+ ],
+ "Provenance": [
+  "by descent to private collection, Madrid (until about 1940",
+  "sold to Linares)",
+  "[Abelardo Linares S.A., Madrid, from about 1940–62",
+  "sold to Wrightsman]",
+  "Mr. and Mrs. Charles Wrightsman, New York (1962–77)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110000540"
+  }
+ }
+}

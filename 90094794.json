@@ -1,0 +1,37 @@
+{
+ "Date": "1888",
+ "Medium": "Albumen photograph",
+ "Dimensions": "Sheet 4 3/16 x 2 1/4 in. (10.6 x 5.7 cm)",
+ "Classification": "Photographs",
+ "Credit Line": "The Jefferson R. Burdick Collection, Gift of Jefferson R. Burdick",
+ "Accession Number": "Burdick 213, N154.4",
+ "Who": "W. Duke, Sons & Co.",
+ "What": [
+  "Photographs",
+  "Albumen"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90094794,
+ "related-artworks": [
+  90094923,
+  90094929,
+  90094938,
+  90095036,
+  90095429
+ ],
+ "Description": "Large trade cards from the \"Presidential Baseball Club\" series (N154), issued in 1888 by W. Duke Sons & Co. to promote Honest Long Cut Tobacco. The series places the heads of Presidential candidates from the 1888 election superimposed on baseball players' bodies.",
+ "Provenance": [
+  "Donor: Jefferson R. Burdick (American, 1900–1963)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90094794"
+  }
+ }
+}

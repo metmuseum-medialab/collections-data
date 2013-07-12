@@ -1,0 +1,37 @@
+{
+ "Artist": "After Peter Paul Rubens (Flemish, Siegen 1577–1640 Antwerp)",
+ "Date": "1638 or earlier",
+ "Medium": "Engraving; only state",
+ "Dimensions": "sheet 11 5/8 x 7 1/2 in. (29.6 x 19 cm)",
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.7459",
+ "Who": [
+  "Peter Paul Rubens",
+  "Lucas Vorsterman I"
+ ],
+ "What": [
+  "Prints",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 90062225,
+ "related-artworks": [
+  90032615,
+  90039637,
+  90039639,
+  90039640,
+  90039651
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90062225"
+  }
+ }
+}

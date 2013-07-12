@@ -1,0 +1,41 @@
+{
+ "Etcher": "Etched by Cornelis Galle I (Netherlandish, Antwerp 1576–1650 Antwerp)",
+ "Publisher": "Published by Hendrick Haestens (Netherlandish)",
+ "Date": "1623",
+ "Medium": "Etching",
+ "Dimensions": "Book 1 1/4 x 16 1/4 x 1 1/16 in. (3.1 x 41.3 x 2.7cm)",
+ "Classification": "Books",
+ "Credit Line": "Gift of Ica Waldes Busek, in Memory of Jindrich Waldes",
+ "Accession Number": "1986.1250.9",
+ "Who": [
+  "Cornelis Galle I",
+  "Jacques Francquart",
+  "Hendrick Haestens"
+ ],
+ "What": [
+  "Etching",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "id": 90000720,
+ "related-artworks": [
+  90000762,
+  90011457,
+  90017760
+ ],
+ "Provenance": [
+  "Waldesovo Museum (Prague)Ex libris of Waldesovo Museum - Prague and  Victorien Sardou, Bibliothèque de Marly, both inside front board.\r\n\r\nOn front cover a library label marked: B 141",
+  "Donor: Ica Waldes Busek"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90000720"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "1770–90",
+ "Culture": "French",
+ "Medium": "Oil on canvas",
+ "Dimensions": "Sight, oval, 26 x 19-1/2 in.  (66.0 x 49.5 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1906",
+ "Accession Number": "07.225.155 d",
+ "Who": "Jacques-Charles-Denis Chartier",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil",
+  "Overdoors"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120026040,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/ES7665.jpg",
+ "related-artworks": [
+  120003905,
+  120004024,
+  120004239,
+  120004048
+ ],
+ "Provenance": [
+  "House at 46 rue St. Antoine, Paris.Georges Hoentschel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120026040"
+  }
+ }
+}

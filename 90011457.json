@@ -1,0 +1,45 @@
+{
+ "Artist": "Jacques Francquart (French, Brussels 1577–1651 Brussels)",
+ "Engraver": "Cornelis Galle I (Netherlandish, Antwerp 1576–1650 Antwerp)",
+ "Printer": "Printed by Johannes Mommaert",
+ "Date": "1623",
+ "Medium": "Engraving",
+ "Dimensions": "14 x 9 5/8 x 1 9/16 in.  (35.5 x 24.4 x 4 cm)",
+ "Classification": "Books",
+ "Credit Line": "Harris Brisbane Dick Fund, 1939",
+ "Accession Number": "39.6.1",
+ "Who": [
+  "Cornelis Galle I",
+  "Johannes Mommaert",
+  "Jacques Francquart",
+  "Erycius Putaneus"
+ ],
+ "What": [
+  "Engraving",
+  "Books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90011457,
+ "related-artworks": [
+  90000762,
+  90000720,
+  90017760,
+  90011449,
+  90011467
+ ],
+ "Provenance": [
+  "Vendor: E. Baer"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90011457"
+  }
+ }
+}

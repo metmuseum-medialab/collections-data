@@ -1,0 +1,43 @@
+{
+ "Date": "1800–1860",
+ "Geography": "United States",
+ "Culture": "American",
+ "Medium": "Blown pattern-molded amber glass",
+ "Dimensions": "Diam. 6 1/2 in. (16.5 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Henry G. Schiff, 1980",
+ "Accession Number": "1980.502.81",
+ "What": [
+  "Glass",
+  "Blown glass",
+  "Resin",
+  "Amber",
+  "Pans"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10005643,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/ADA5123.jpg",
+ "related-artworks": [
+  10006600,
+  10000375,
+  10000647,
+  10000755,
+  10000806
+ ],
+ "Provenance": [
+  "Henry G. Schiff, South Salem, New York, until 1980"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10005643"
+  }
+ }
+}

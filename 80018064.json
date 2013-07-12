@@ -1,0 +1,41 @@
+{
+ "Date": "1901–5",
+ "Culture": "French",
+ "Medium": "silk, metallic, glass",
+ "Dimensions": [
+  "(a) Length at CB 9 in. (22.9 cm)",
+  "(b) Length at CB 38 1/2 in. (97.8 cm)"
+ ],
+ "Credit Line": "Gift of Estate of Annie-May Hegeman, 1950",
+ "Accession Number": "C.I.50.40.4a, b",
+ "Who": "Jeanne Hallée",
+ "What": [
+  "Costume",
+  "Silk",
+  "Glass",
+  "Dresses",
+  "Evening dresses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80018064,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/CI50.40.4ab_F.jpg",
+ "related-artworks": [
+  80018059,
+  80018060,
+  80018061,
+  80018063,
+  80018062
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80018064"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Date": "1912",
+ "Medium": "Oil on canvas",
+ "Dimensions": [
+  "H. 17-7/8, W. 21-1/4 inches",
+  "(45.4 x 54 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Bequest of Gérald Cramer, in honor of William S. Lieberman, 1991",
+ "Accession Number": "1992.110",
+ "Rights and Reproduction": "© 2011 Artists Rights Society (ARS), New York",
+ "Who": "Jean Arp",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paintings"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 210006135,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/SF1992.110.jpg",
+ "related-artworks": [
+  210010424,
+  90004262,
+  90004263,
+  90014018,
+  90026949
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210006135"
+  }
+ }
+}

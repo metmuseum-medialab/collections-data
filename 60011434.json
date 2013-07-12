@@ -1,0 +1,42 @@
+{
+ "Period": "Qing dynasty (1644–1911), Qianlong period (1736–95)",
+ "Culture": "China",
+ "Medium": "Jadeite",
+ "Dimensions": "H. 3 1/16 in. (7.7 cm); W. 7 1/4 in. (18.4 cm)",
+ "Classification": "Jade",
+ "Credit Line": "Gift of Heber R. Bishop, 1902",
+ "Accession Number": "02.18.495",
+ "What": [
+  "Bowls",
+  "Jade",
+  "Jadeite"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "China, 1600–1800 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60011434,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/02_18_495_32788.jpg",
+ "related-artworks": [
+  60010853,
+  60010855,
+  60011384,
+  60011385,
+  60011387
+ ],
+ "Provenance": [
+  "Heber R. Bishop , New York (until 1902)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60011434"
+  }
+ }
+}

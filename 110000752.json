@@ -1,0 +1,51 @@
+{
+ "Medium": "Oil on canvas",
+ "Dimensions": "23 7/8 x 28 7/8 in. (60.6 x 73.3 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "Gift of Mr. and Mrs. Arthur Wiesenberger, 1966",
+ "Accession Number": "66.217",
+ "Who": "Jean-Louis Forain",
+ "What": [
+  "Paintings",
+  "Canvas",
+  "Oil paint"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1800–1900 A.D.",
+  "France, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 110000752,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/ep66.217.bw.R.jpg",
+ "related-artworks": [
+  90002594,
+  90004112,
+  90004111,
+  90010253,
+  90010254
+ ],
+ "Provenance": [
+  "Catherine Vanderbilt",
+  "Frank Crowninshield, New York (until 1935",
+  "consigned on November 15 to Durand-Ruel, New York, no. 8931",
+  "sold on November 18 for $2,100 to Durand-Ruel, New York)",
+  "[Durand-Ruel, New York, 1935",
+  "no. 5278, sold on November 20 for $3,000 to Lournan]",
+  "Mrs. Lawrence Lournan (from 1935)",
+  "Stanley Newbold Barbee, New York (in 1945)",
+  "Edward A. Bragaline, New York (until 1947",
+  "his sale, Parke-Bernet, New York, December 10–11, 1947, no. 84, as \"Suspension d'audience,\" for $1,650)",
+  "Mr. and Mrs. Arthur Wiesenberger, New York (by 1956–66",
+  "gift to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110000752"
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1780",
+ "Culture": "Japan",
+ "Medium": "Porcelain with underglaze blue decoration (Hirado ware)",
+ "Dimensions": "H. 8 1/2 in. (21.6 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Charles Stewart Smith, 1893",
+ "Accession Number": "93.3.314",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Porcelain",
+  "Furniture",
+  "Underglazing",
+  "Case furniture",
+  "Screens",
+  "Desks",
+  "Hirado"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 60023449,
+ "related-artworks": [
+  60030111,
+  60019465,
+  60019495,
+  60018411,
+  60009091
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60023449"
+  }
+ }
+}

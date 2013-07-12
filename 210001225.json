@@ -1,0 +1,45 @@
+{
+ "Date": "1969",
+ "Medium": "Oil on Masonite",
+ "Dimensions": [
+  "H. 48, W. 48 inches",
+  "(121.9 x 121.9 cm.)"
+ ],
+ "Classification": "Paintings",
+ "Credit Line": "Gift of the artist, 1972",
+ "Accession Number": "1972.40.6",
+ "Who": "Josef Albers",
+ "What": [
+  "Paintings",
+  "Oil paintings",
+  "Masonite"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Bauhaus, 1919–1933",
+  "Geometric Abstraction",
+  "Design, 1925–50",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210001225,
+ "gallery-id": 916,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/1972.40.6 - color.jpg",
+ "related-artworks": [
+  210001218,
+  210001227,
+  210001228,
+  210001222,
+  210001223
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210001225"
+  }
+ }
+}

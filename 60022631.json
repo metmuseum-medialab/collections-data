@@ -1,0 +1,60 @@
+{
+ "Artist": "In the style of Zhang Sengyu (active ca. 510–20)",
+ "Period": "Ming dynasty (?) (1368–1644)",
+ "Culture": "China",
+ "Medium": "Hanging scroll; ink and color on paper",
+ "Dimensions": "25 5/8 x 12 3/4 in. (65.1 x 32.4 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "From the Collection of A. W. Bahr, Purchase, Fletcher Fund, 1947",
+ "Accession Number": "47.18.123",
+ "Who": [
+  "Unidentified Artist",
+  "Zhang Sengyu"
+ ],
+ "What": [
+  "Ink",
+  "Paper",
+  "Paintings",
+  "Scroll paintings",
+  "Scrolls",
+  "Hanging scrolls"
+ ],
+ "Where": [
+  "Asia",
+  "China"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Central and North Asia, 1000–1400 A.D.",
+  "China, 1600–1800 A.D.",
+  "China, 1000–1400 A.D.",
+  "Central and North Asia, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60022631,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/60000127"
+   },
+   {
+    "href": "http://scrapi.org/object/60007474"
+   },
+   {
+    "href": "http://scrapi.org/object/60007650"
+   },
+   {
+    "href": "http://scrapi.org/object/60007753"
+   },
+   {
+    "href": "http://scrapi.org/object/60013642"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/60022631"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/60022631"
+  }
+ }
+}

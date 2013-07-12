@@ -1,0 +1,48 @@
+{
+ "Artist": "Unknown French",
+ "Date": "second half 16th century and second half 19th century",
+ "Culture": "North Italian or French",
+ "Medium": "Walnut, carved.",
+ "Dimensions": "H. 83.5 cm, W. 132 cm, D. 90.8 cm",
+ "Classification": "Woodwork",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.1968",
+ "Who": [
+  "French",
+  "Unknown North Italian"
+ ],
+ "What": [
+  "Wood",
+  "Furniture",
+  "Woodwork",
+  "Walnut",
+  "Tables"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": [
+  "France, 1400–1600 A.D.",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 150008101,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/SF-1975-1-1968.jpg",
+ "related-artworks": [
+  150007602,
+  150008427,
+  150007448,
+  150008078,
+  150008427
+ ],
+ "Provenance": [
+  "Not established."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150008101"
+  }
+ }
+}

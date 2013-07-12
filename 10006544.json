@@ -1,0 +1,46 @@
+{
+ "Date": "1750–75",
+ "Geography": "Leeds, England",
+ "Culture": "British",
+ "Medium": "Earthenware",
+ "Dimensions": "Diam. 6 3/4 in. (17.1 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Col. G. Creighton Webb, 1936",
+ "Accession Number": "36.22.32",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Plates"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "West Yorkshire",
+  "Leeds"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10006544,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP260590.jpg",
+ "related-artworks": [
+  10006562,
+  10006541,
+  10006542,
+  10006545,
+  10006547
+ ],
+ "Provenance": [
+  "Colonel G. Creighton Webb, New York, until 1936"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10006544"
+  }
+ }
+}

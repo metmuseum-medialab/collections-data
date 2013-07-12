@@ -1,0 +1,42 @@
+{
+ "Period": "Edo period (1615–1868)",
+ "Date": "ca. 1788",
+ "Culture": "Japan",
+ "Medium": "Right-hand sheet of a triptych of polychrome woodblock prints; ink and color on paper",
+ "Dimensions": "10 1/8 x 7 7/16 in. (25.7 x 18.9 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "JP234",
+ "Who": "Sakuragawa Bunkyo",
+ "What": [
+  "Prints",
+  "Ink",
+  "Paper",
+  "Relief prints",
+  "Woodblock prints",
+  "Printing blocks",
+  "Wood blocks",
+  "Triptychs"
+ ],
+ "Where": [
+  "Asia",
+  "Japan"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": "Japan, 1600–1800 A.D.",
+ "id": 60000808,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/DP114882.jpg",
+ "related-artworks": [
+  60000566,
+  60000750,
+  60000984,
+  60001373,
+  60001446
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60000808"
+  }
+ }
+}

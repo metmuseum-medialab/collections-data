@@ -1,0 +1,39 @@
+{
+ "Date": "third quarter 18th century",
+ "Culture": "Spanish (probably)",
+ "Medium": "silk",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Gift of Mr. Lee Simonson, 1939",
+ "Accession Number": "C.I.39.13.211",
+ "What": [
+  "Costume",
+  "Silk",
+  "Underwear",
+  "Corsets"
+ ],
+ "Where": [
+  "Europe",
+  "Spain"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Eighteenth–Century European Dress",
+  "Iberian Peninsula, 1600–1800 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 80003629,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/DT202837.jpg",
+ "related-artworks": [
+  80003628,
+  80013126,
+  80003630,
+  80003644,
+  80013051
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80003629"
+  }
+ }
+}

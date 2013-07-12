@@ -1,0 +1,40 @@
+{
+ "Date": "1845–70",
+ "Medium": "Sheet one ink and gouache; sheet two: lithograpy",
+ "Dimensions": "sheet 16 3/4 x 11 7/16 in. (42.5 x 29 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1956",
+ "Accession Number": "56.527",
+ "Who": "Alfred Henry Forrester [Alfred Crowquill]",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90069546,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP827466.jpg",
+ "related-artworks": [
+  90069520,
+  90069547,
+  90069549,
+  90069550,
+  90069545
+ ],
+ "Provenance": [
+  "Vendor: Elkin Matthews, Ltd."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90069546"
+  }
+ }
+}

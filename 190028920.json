@@ -1,0 +1,22 @@
+{
+ "Date": "1939",
+ "Classification": "Books",
+ "Credit Line": "Walker Evans Archive, 1994",
+ "Accession Number": "1994.265.64",
+ "Who": "Harold Nicolson",
+ "What": "Books",
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "MetPublications": "Search for related Met publications",
+ "id": 190028920,
+ "related-artworks": [
+  190028652,
+  190028653,
+  190028654
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190028920"
+  }
+ }
+}

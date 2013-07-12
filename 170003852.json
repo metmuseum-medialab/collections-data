@@ -1,0 +1,50 @@
+{
+ "Date": "early 4th century",
+ "Geography": "Made in probably Alexandria, Egypt",
+ "Culture": "Roman",
+ "Medium": "Glass, gold leaf",
+ "Dimensions": "Overall 1 7/8 x 3/16 in. (4.8 x 0.5 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.109a",
+ "What": [
+  "Metal",
+  "Glass",
+  "Gold",
+  "Medallions",
+  "Gold leaf"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Alexandria"
+ ],
+ "When": "A.D. 1-500",
+ "In the Museum": "Medieval Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1–500A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 170003852,
+ "gallery-id": 302,
+ "image": "http://images.metmuseum.org/CRDImages/md/original/sf17-190-109abs1b.jpg",
+ "related-artworks": [
+  170006564,
+  170003913,
+  170003396,
+  170003553,
+  170003564
+ ],
+ "Provenance": [
+  "Francesco Ficoroni (1664-1747), Rome (by 1732)",
+  "Dr. Conyers Middleton (1683-1750), England",
+  "Horace Walpole (1717-1797), Strawberry Hill (sold 11 May, 1842, no. 70)",
+  "Charles Wentworth Dilke (1789-1864), England (from 1842)",
+  "Sir Charles W. Dilke (1843-1911), Bart.  (by descent until at least 1889)",
+  "Amedeo Canessa, Paris (sold June 19, 1911)",
+  "J. Pierpont Morgan, London and New York (from 1911)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/170003852"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "19th century",
+ "Geography": "Leitmeritz, Bohemia",
+ "Medium": "Wood",
+ "Dimensions": "Total length  78.2",
+ "Classification": "Chordophone-Bowed",
+ "Credit Line": "The Crosby Brown Collection of Musical Instruments, 1889",
+ "Accession Number": "89.4.2716",
+ "Who": "Josef Klee",
+ "What": [
+  "Musical instruments",
+  "Chordophones",
+  "Violas",
+  "Violas pomposa"
+ ],
+ "Where": [
+  "Europe",
+  "Czech Republic",
+  "Leitmeritz"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Musical Instruments",
+ "Heilbrunn Timeline of Art History": "Central Europe and Low Countries, 1800–1900 A.D.",
+ "id": 180017092,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/214911.jpg",
+ "related-artworks": [
+  180015129,
+  180017241,
+  180013866,
+  180014213,
+  180016046
+ ],
+ "Description": "The common mark HOPF is branded on the back of the instrument below the button, but inside the instrument is stamped KLEE.  This is certainly Josef Klee, of Bohemia, who worked during the 19th century.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/180017092"
+  }
+ }
+}

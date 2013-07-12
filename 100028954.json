@@ -1,0 +1,36 @@
+{
+ "Period": "Late Period–Ptolemaic Period",
+ "Date": "664–30 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Credit Line": "Purchase, Edward S. Harkness Gift, 1926",
+ "Accession Number": "26.7.1043",
+ "What": [
+  "Faience",
+  "Amulets",
+  "Scepters"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100028954,
+ "gallery-id": 134,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs28aw54.jpg",
+ "related-artworks": [
+  100008185,
+  100010650,
+  100010316,
+  100017723,
+  100019228
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100028954"
+  }
+ }
+}

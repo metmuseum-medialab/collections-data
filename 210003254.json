@@ -1,0 +1,47 @@
+{
+ "Date": "1919",
+ "Medium": "Watercolor and ink on paper",
+ "Dimensions": [
+  "H. 9-1/2, W. 7-3/8 inches",
+  "(24.4 x 18.7 cm.)"
+ ],
+ "Classification": "Drawings",
+ "Credit Line": "The Berggruen Klee Collection, 1984",
+ "Accession Number": "1984.208.2",
+ "Who": "Paul Klee",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Watercolors"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Modern and Contemporary Art",
+ "Heilbrunn Timeline of Art History": [
+  "The Magic of Signs and Patterns in North African Art",
+  "African Influences in Modern Art",
+  "Paul Klee (1879–1940)",
+  "The Bauhaus, 1919–1933",
+  "Central Europe (Austria, Germany, and Switzerland), 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 210003254,
+ "gallery-id": 914,
+ "image": "http://images.metmuseum.org/CRDImages/ma/original/DT7739.jpg",
+ "related-artworks": [
+  210003253,
+  210003256,
+  210003257,
+  210003340,
+  210003342
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/210003254"
+  }
+ }
+}

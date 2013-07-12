@@ -1,0 +1,41 @@
+{
+ "Date": "20th century",
+ "Medium": "Color lithography",
+ "Dimensions": "3 1/4 x 5 11/16 in. (8.3 x 14.4 cm)",
+ "Classification": "Books",
+ "Credit Line": "Museum Accession, 1957",
+ "Accession Number": "57.627.47",
+ "Who": "Samuel Cabot, Inc.",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs",
+  "Books"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "The United States and Canada, 1900 A.D.–present",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90061796,
+ "related-artworks": [
+  90014402,
+  90061795,
+  90061797,
+  90061798,
+  90061799
+ ],
+ "Provenance": [
+  "Donor: Museum Accession"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90061796"
+  }
+ }
+}

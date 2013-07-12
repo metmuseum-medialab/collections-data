@@ -1,0 +1,47 @@
+{
+ "Artist": "Archibald L. Dick (American, Scotland 1805–1855 New York)",
+ "Printer": "J. Dalton (American)",
+ "Date": "1848",
+ "Medium": "Etching and engraving",
+ "Dimensions": [
+  "Image 11 1/4 × 16 1/2 in. (28.5 × 41.9 cm)",
+  "Sheet 15 7/16 × 19 7/16 in. (39.2 × 49.4 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Harris Brisbane Dick Fund, 1941",
+ "Accession Number": "41.91.247",
+ "Who": [
+  "William Henry Bartlett",
+  "Archibald L. Dick",
+  "Henry S. Sadd",
+  "J. Dalton"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90101329,
+ "related-artworks": [
+  90087308,
+  90055055,
+  90095766
+ ],
+ "Description": "An exterior view of the U. S. Capitol building with people walking around it and a small eagle and a banner with E Pluribus Unum above the plate.",
+ "Provenance": [
+  "Vendor: Harriet Endicott Waite (American)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90101329"
+  }
+ }
+}

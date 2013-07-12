@@ -1,0 +1,44 @@
+{
+ "Period": "Joseon dynasty (1392–1910)",
+ "Date": "18th–19th century",
+ "Culture": "Korea",
+ "Medium": "Iron inlaid with silver",
+ "Dimensions": "H. 2 1/2 in. (6.4 cm); W. 4 1/8 in. (10.5 cm); D. 2 7/8 in. (7.3 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Rogers Fund, 1922",
+ "Accession Number": "22.78",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Silver",
+  "Iron and iron alloy",
+  "Iron",
+  "Boxes",
+  "Tobacco",
+  "Tobacco boxes"
+ ],
+ "Where": [
+  "Asia",
+  "Korea"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Korea, 1600–1800 A.D.",
+  "Korea, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60023035,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/22_78.JPG",
+ "related-artworks": [
+  60023047,
+  60028576,
+  60028582,
+  60028659,
+  60000546
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60023035"
+  }
+ }
+}

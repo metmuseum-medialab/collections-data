@@ -1,0 +1,34 @@
+{
+ "Date": "18th century",
+ "Medium": "Pen and black ink, graphite, and red crayon",
+ "Dimensions": "2 1/4 x 2 7/8 in.  (5.7 x 7.3 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of H.A. Elsberg, 1927",
+ "Accession Number": "27.70.2",
+ "Who": "Anonymous, French, 18th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Graphite",
+  "Crayons"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90010840,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP808996.jpg",
+ "related-artworks": [
+  90007037,
+  90007433,
+  90010341,
+  90010427,
+  90010428
+ ],
+ "Provenance": [
+  "Herman A. Elsberg"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90010840"
+  }
+ }
+}

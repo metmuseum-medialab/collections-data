@@ -1,0 +1,74 @@
+{
+ "Date": "1791–1818",
+ "Geography": "Mid-Atlantic, New York, New York, United States",
+ "Culture": "American",
+ "Medium": "Mahogany, brass",
+ "Dimensions": "32 3/4 x 17 3/4 x 16 1/4 in. (83.2 x 45.1 x 41.3 cm)",
+ "Classification": "Furniture",
+ "Credit Line": "Gift of C. Ruxton Love Jr., 1960",
+ "Accession Number": "60.4.12",
+ "Who": "Duncan Phyfe",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Wood",
+  "Furniture",
+  "Brass",
+  "Seating furniture",
+  "Chairs",
+  "Mahogany",
+  "Side chairs"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "New York",
+  "New York City"
+ ],
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Duncan Phyfe (1768–1854) and Charles–Honoré Lannuier (1779–1819)",
+  "American Federal Era Period Rooms",
+  "The United States, 1600–1800 A.D.",
+  "The United States and Canada, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 10001948,
+ "gallery-id": 774,
+ "related-artworks": [
+  "http://scrapi.org/object/10001949",
+  "http://scrapi.org/object/10001829",
+  "http://scrapi.org/object/10001940",
+  "http://scrapi.org/object/10001941",
+  "http://scrapi.org/object/10001942"
+ ],
+ "related-images": [],
+ "Provenance": [
+  "probably Thomas Cornell Pearsall, New York",
+  "descended in the Pearsall family",
+  "Mrs. Henry Wilmerding Payne",
+  "C. Ruxton Love Jr., Greenwich, Connecticut, until 1960"
+ ],
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10001949"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10001829"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10001940"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10001941"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/10001942"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10001948"
+  }
+ }
+}

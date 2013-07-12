@@ -1,0 +1,35 @@
+{
+ "Date": "late 16th century",
+ "Culture": "German",
+ "Medium": "Various intarsia woods partly stained red and green",
+ "Dimensions": "24-3/4 x 17-3/4 in.  (62.9 x 45.1 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Rogers Fund, 1912",
+ "Accession Number": "12.145",
+ "What": [
+  "Panels",
+  "Woodwork"
+ ],
+ "Where": [
+  "Europe",
+  "Germany"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Central Europe (including Germany), 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120006612,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/14080.jpg",
+ "related-artworks": [
+  120005185,
+  120014039,
+  120026224,
+  120003723,
+  120005184
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006612"
+  }
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "Date": "8th–12th century",
+ "Geography": "Panama, Cocle Province, Rio Parita region",
+ "Culture": "Macaracas",
+ "Medium": "Gold",
+ "Dimensions": "Diam. 5 3/4 in. (14.6 cm)",
+ "Classification": "Metal-Ornaments",
+ "Credit Line": "Jan Mitchell and Sons Collection, Gift of Jan Mitchell, 1991",
+ "Accession Number": "1991.419.13",
+ "Who": "Macaracas",
+ "What": [
+  "Metal",
+  "Costume",
+  "Gold",
+  "Jewelry",
+  "Pectorals"
+ ],
+ "Where": [
+  "North and Central America",
+  "Panama",
+  "Coclé"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": [
+  "Central America and the Caribbean, 500–1000 A.D.",
+  "Central America and the Caribbean, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 50009340,
+ "gallery-id": 357,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/1991.419.13.jpg",
+ "related-artworks": [
+  50009341,
+  50009338,
+  50009339,
+  50009342,
+  50005274
+ ],
+ "Provenance": [
+  "Jan Mitchell, New York, acquired by 1985, until 1991"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50009340"
+  }
+ }
+}

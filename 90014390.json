@@ -1,0 +1,36 @@
+{
+ "Engraver": "Engraved by Leopoldo Méndez (Mexican, 1902–1969)",
+ "Date": "1944",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1946",
+ "Accession Number": "46.46.537",
+ "Who": [
+  "Leopoldo Méndez",
+  "Juan de la Cabada"
+ ],
+ "What": "Books",
+ "Where": [
+  "North and Central America",
+  "Mexico"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Mexico and Central America, 1900 A.D.–present",
+  "Mexico and Central America Native Peoples, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90014390,
+ "related-artworks": [
+  90021673,
+  90021674,
+  90066994,
+  90012138,
+  90013085
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90014390"
+  }
+ }
+}

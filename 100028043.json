@@ -1,0 +1,41 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18–20",
+ "Date": "ca. 1550–1070 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Glazed steatite",
+ "Dimensions": "L. 1.1 cm (7/16 in); w. 0.8 cm (5/16 in)",
+ "Credit Line": "Gift of Helen Miller Gould, 1910",
+ "Accession Number": "10.130.807",
+ "What": [
+  "Glazing",
+  "Amulets",
+  "Plaques",
+  "Talc",
+  "Steatite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100028043,
+ "related-artworks": [
+  100028041,
+  100023429,
+  100028036,
+  100028037,
+  100028039
+ ],
+ "Provenance": [
+  "Formerly in the collection of the Reverend Chauncey Murch (died 1907). Collected between 1883 and 1906 while Murch was a missionary in Egypt. Collection purchased by the Museum from the Murch family with funds provided by Helen Miller Gould, 1910."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100028043"
+  }
+ }
+}

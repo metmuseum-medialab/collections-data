@@ -1,0 +1,58 @@
+{
+ "Period": "Late Period",
+ "Date": "664–332 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Faience",
+ "Dimensions": "h. 39.4 cm (15 1/2 in)",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.1957",
+ "What": [
+  "Faience",
+  "Arms",
+  "Idiophones",
+  "Bows",
+  "Rattles",
+  "Sistra"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008187,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/17.190.1957_EGDP013310.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/eg/original/17.190.1957_EGDP013310.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/17.190.1957_EGDP013312.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/17.190.1957_EGDP013311.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/17.190.1957_EGDP013313.jpg"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100008260"
+   },
+   {
+    "href": "http://scrapi.org/object/100010215"
+   },
+   {
+    "href": "http://scrapi.org/object/100010348"
+   },
+   {
+    "href": "http://scrapi.org/object/100010445"
+   },
+   {
+    "href": "http://scrapi.org/object/100010453"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100008187"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100008187"
+  }
+ }
+}

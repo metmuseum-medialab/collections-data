@@ -1,0 +1,40 @@
+{
+ "Design House": "Donna Karan New York (American, founded 1985)",
+ "Date": "1987",
+ "Culture": "American",
+ "Medium": "wool",
+ "Dimensions": "Length at CB 42 in. (106.7 cm)",
+ "Credit Line": "Gift of Donna Karan Co., 1992",
+ "Accession Number": "1992.258.1",
+ "Who": [
+  "Donna Karan New York",
+  "Donna Karan"
+ ],
+ "What": [
+  "Costume",
+  "Wool",
+  "Dresses"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80002345,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1992.258.1_F.jpg",
+ "related-artworks": [
+  80066517,
+  80002353,
+  80008953,
+  80085004,
+  80097525
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80002345"
+  }
+ }
+}

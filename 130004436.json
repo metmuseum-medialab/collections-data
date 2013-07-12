@@ -1,0 +1,59 @@
+{
+ "Period": "Late Cypriot II",
+ "Date": "ca. 1450–1200 B.C.",
+ "Culture": "Cypriot",
+ "Medium": "Calcite (alabaster)",
+ "Dimensions": "H. 5 1/2 in. (14 cm)",
+ "Classification": "Miscellaneous",
+ "Credit Line": "The Cesnola Collection, Purchased by subscription, 1874–76",
+ "Accession Number": "74.51.5085",
+ "What": [
+  "Vessels",
+  "Vases",
+  "Stone",
+  "Jugs",
+  "Gypsum",
+  "Alabaster",
+  "Calcite"
+ ],
+ "Where": [
+  "Asia",
+  "Cyprus"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Greek and Roman Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 130004436,
+ "gallery-id": 173,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP216083.jpg",
+ "Description": "Similar vases have been found in Egypt and the Levant. The shape imitates Mycenaean forms.",
+ "Provenance": [
+  "“From Amathus”"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/130004458"
+   },
+   {
+    "href": "http://scrapi.org/object/130004462"
+   },
+   {
+    "href": "http://scrapi.org/object/130004434"
+   },
+   {
+    "href": "http://scrapi.org/object/130004449"
+   },
+   {
+    "href": "http://scrapi.org/object/130004466"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/130004436"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/130004436"
+  }
+ }
+}

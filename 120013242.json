@@ -1,0 +1,46 @@
+{
+ "Date": "probably 17th century",
+ "Culture": "Italian",
+ "Medium": "Cryptocrystalline quartz, probably chalcedony, and gold",
+ "Dimensions": [
+  "Overall in gold frame 3 x 2 3/16 in. (7.6 x 5.5 cm)",
+  "Visible cameo 69.3 x 49.6 x 20.2 mm"
+ ],
+ "Classification": "Lapidary Work",
+ "Credit Line": "The Milton Weil Collection, 1938",
+ "Accession Number": "38.150.30",
+ "What": [
+  "Metal",
+  "Sculpture",
+  "Gold",
+  "Chalcedony",
+  "Gems",
+  "Cameos"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Florence and Central Italy, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120013242,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/SF38_150_30.jpg",
+ "related-artworks": [
+  120013291,
+  120013319,
+  120013297,
+  120013299,
+  120013294
+ ],
+ "Provenance": [
+  "Dukes of Marlborough",
+  "Milton Weil"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120013242"
+  }
+ }
+}

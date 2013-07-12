@@ -1,0 +1,32 @@
+{
+ "Period": "Six Dynasties Period",
+ "Date": "ca. 8th century A.D.",
+ "Geography": "Caucasus region",
+ "Medium": "Wood",
+ "Dimensions": "1.12 x 6.25 in. (2.84 x 15.88 cm)",
+ "Classification": "Wood",
+ "Credit Line": "Gift of Jacqueline Simcox, 1999",
+ "Accession Number": "1999.153.4",
+ "What": "Vessels",
+ "Where": [
+  "Asia",
+  "Caucasus"
+ ],
+ "When": "A.D. 500-1000",
+ "In the Museum": "Ancient Near Eastern Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 30006242,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/sd1999_153_4.jpg",
+ "related-artworks": [
+  30006207,
+  30006208,
+  30006238,
+  30006239,
+  30006246
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30006242"
+  }
+ }
+}

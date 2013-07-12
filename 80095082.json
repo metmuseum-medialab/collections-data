@@ -1,0 +1,47 @@
+{
+ "Manufacturer": "Textile by Colcombet",
+ "Date": "summer 1940",
+ "Culture": "French",
+ "Medium": "silk",
+ "Dimensions": "Length at CB 22 in. (55.9 cm)",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Arturo and Paul Peralta-Ramos, 1954",
+ "Accession Number": "2009.300.2405",
+ "Who": [
+  "Elsa Schiaparelli",
+  "Colcombet"
+ ],
+ "What": [
+  "Costume",
+  "Silk",
+  "Blouses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Elsa Schiaparelli (1890–1973)",
+  "Dressing for the Cocktail Hour",
+  "Le Colis de Trianon–Versailles and Paris Openings",
+  "Twentieth–Century Silhouette and Support",
+  "Costume in The Metropolitan Museum of Art",
+  "France, 1900 A.D.–present"
+ ],
+ "id": 80095082,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/54.141.56_CP4.jpg",
+ "related-artworks": [
+  80095051,
+  80107721,
+  80107981,
+  80093753,
+  80095081
+ ],
+ "Description": "Schiaparelli often collaborated with textile manufacturers to create fabrics exclusively for her collections. This blouse from her summer 1940 collection, worn by fashion icon Millicent Rogers, is an example of that relationship with Colcombet. The print is based on French regimental flags and was used on evening dresses as well. The woman who wore this blouse could still look feminine while supporting her country during war time. Another element often seen in Schiaparelli's work, trompe l'oeil, is evidenced here in the scarf effect around the neck achieved both by cut and by the thoughtful placement of pattern.",
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80095082"
+  }
+ }
+}

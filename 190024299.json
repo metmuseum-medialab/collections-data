@@ -1,0 +1,54 @@
+{
+ "Date": "September 28, 1974",
+ "Medium": "Instant color print",
+ "Dimensions": "7.9 x 7.9 cm (3 1/8 x 3 1/8 in.)",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, Samuel J. Wagstaff Jr. Bequest and Lila Acheson Wallace Gift, 1994",
+ "Accession Number": "1994.245.122",
+ "Rights and Reproduction": "© Walker Evans Archive, The Metropolitan Museum of Art",
+ "Who": "Walker Evans",
+ "What": [
+  "Photographs",
+  "Instant prints"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": [
+  "Walker Evans (1903–1975)",
+  "Early Documentary Photography",
+  "Kodak and the Rise of Amateur Photography",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 190024299,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/DP62508.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/190024286"
+   },
+   {
+    "href": "http://scrapi.org/object/190024410"
+   },
+   {
+    "href": "http://scrapi.org/object/190024406"
+   },
+   {
+    "href": "http://scrapi.org/object/190024276"
+   },
+   {
+    "href": "http://scrapi.org/object/190024277"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/190024299"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/190024299"
+  }
+ }
+}

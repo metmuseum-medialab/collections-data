@@ -1,0 +1,46 @@
+{
+ "Object Name": "Cast from a mold",
+ "Date": "12th century",
+ "Geography": "Iran, Nishapur",
+ "Medium": "Earthenware; molded and incised decoration, unglazed",
+ "Dimensions": [
+  "H. 2 15/16 in.",
+  "W. 6 13/16 in."
+ ],
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1939",
+ "Accession Number": "39.40.39b",
+ "What": [
+  "Ceramics",
+  "Pottery",
+  "Earthenware",
+  "Molds"
+ ],
+ "Where": [
+  "Asia",
+  "Iran",
+  "Khurasan",
+  "Nishapur"
+ ],
+ "When": "A.D. 1000-1400",
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": "Iran, 1000–1400 A.D.",
+ "id": 140015296,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/wb-39.40.39b.JPG",
+ "related-artworks": [
+  140008062,
+  140008135,
+  140006851,
+  140007500,
+  140007501
+ ],
+ "Provenance": [
+  "1938, excavated at Tepe Madrasa in Nishapur, Iran by the Metropolitan Museum of Art's expedition",
+  "1939, acquired by the Museum in the division of finds"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140015296"
+  }
+ }
+}

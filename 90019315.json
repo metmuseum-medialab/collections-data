@@ -1,0 +1,47 @@
+{
+ "Printer": "Printed by Balthasar Moretus",
+ "Engraver": "Engraved by Christoffel Jegher (Flemish, 1596–1652/53)",
+ "Artist": "Pieter van Avont (Flemish, 1599–1652)",
+ "Date": "1636",
+ "Medium": "Woodcut",
+ "Dimensions": "5 5/16 x 3 1/8 x 1 3/16 in. (13.5 x 8 x 3 cm)",
+ "Classification": "Books",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.561.2",
+ "Who": [
+  "Christoffel Jegher",
+  "Pieter van Avont",
+  "Balthasar Moretus",
+  "Guilielmus Hesius, S.J."
+ ],
+ "What": [
+  "Prints",
+  "Books",
+  "Relief prints",
+  "Woodblock prints"
+ ],
+ "Where": [
+  "Europe",
+  "Flanders"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90019315,
+ "related-artworks": [
+  90005538,
+  90006261,
+  90027835,
+  90027947,
+  90034571
+ ],
+ "Provenance": [
+  "Vendor: Harry A. Leimson"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90019315"
+  }
+ }
+}

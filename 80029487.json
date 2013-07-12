@@ -1,0 +1,35 @@
+{
+ "Date": "19th century",
+ "Culture": "Croatian",
+ "Medium": "linen",
+ "Dimensions": "[no dimensions available]",
+ "Credit Line": "Rogers Fund, 1908",
+ "Accession Number": "08.48.126",
+ "What": [
+  "Costume",
+  "Linen",
+  "Shirts"
+ ],
+ "Where": [
+  "Europe",
+  "Croatia"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "Southern Europe, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 80029487,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/3581.jpg",
+ "related-artworks": [
+  80007363,
+  80024686,
+  80011430,
+  80061593,
+  80095692
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80029487"
+  }
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "Period": "Late Period",
+ "Dynasty": "Dynasty 26–30",
+ "Date": "664–332 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Stone",
+ "Credit Line": "Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915",
+ "Accession Number": "30.8.1059",
+ "What": [
+  "Sculpture",
+  "Stone",
+  "Scarabs"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100012883,
+ "gallery-id": 130,
+ "related-artworks": [
+  100005071,
+  100008200,
+  100008201,
+  100008199,
+  100008206
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100012883"
+  }
+ }
+}

@@ -1,0 +1,40 @@
+{
+ "Period": "Second Intermediate Period–Early New Kingdom",
+ "Dynasty": "Dynasty 17–18",
+ "Date": "ca. 1640–1504 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, el-Asasif, Tomb CC 41, MMA 1915–1916",
+ "Medium": "Earth (Mud)",
+ "Credit Line": "Rogers Fund, 1932",
+ "Accession Number": "32.3.21a, b",
+ "What": [
+  "Sculpture",
+  "Funerary containers",
+  "Shabti",
+  "Coffins",
+  "Mud"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100003533,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs32.3.21.jpg",
+ "related-artworks": [
+  100009903,
+  100003534,
+  100003618,
+  100009880,
+  100009881
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100003533"
+  }
+ }
+}

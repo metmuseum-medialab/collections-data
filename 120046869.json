@@ -1,0 +1,41 @@
+{
+ "Date": "1860–70",
+ "Culture": "French",
+ "Dimensions": [
+  "H. 18 3/4 x W. 14 inches",
+  "47.6 x 35.6 cm",
+  "Th. 3 inches",
+  "7.6 cm"
+ ],
+ "Classification": "Textiles",
+ "Credit Line": "Gift of the Estate of Benjamin E. Marks, 1967",
+ "Accession Number": "67.180.9",
+ "What": [
+  "Textiles",
+  "Books",
+  "Samples",
+  "Sample books"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120046869,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/DP6962.jpg",
+ "related-artworks": [
+  120046907,
+  120044108,
+  120044155,
+  120046861,
+  120046862
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120046869"
+  }
+ }
+}

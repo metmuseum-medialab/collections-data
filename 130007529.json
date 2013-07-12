@@ -1,0 +1,38 @@
+{
+ "Culture": "Etruscan",
+ "Medium": "Bronze",
+ "Dimensions": [
+  "H. 2 1/16 in. (5.3 cm)",
+  "diameter  19 in. (48.3 cm)"
+ ],
+ "Classification": "Bronzes",
+ "Credit Line": "Rogers Fund, 1903",
+ "Accession Number": "03.23.35",
+ "What": [
+  "Metal",
+  "Copper alloy",
+  "Bronze",
+  "Paterae"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130007529,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP261708.jpg",
+ "related-artworks": [
+  130007015,
+  130007499,
+  130007504,
+  130007509,
+  130007506
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130007529"
+  }
+ }
+}

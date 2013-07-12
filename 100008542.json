@@ -1,0 +1,59 @@
+{
+ "Period": "New Kingdom",
+ "Dynasty": "Dynasty 18",
+ "Reign": "reign of Amenhotep III",
+ "Date": "ca. 1390–1353 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes, Malqata, Palace of Amenhotep III, MMA 1910–1911",
+ "Medium": "Faience, Prussian blue",
+ "Dimensions": "L. 1.6 cm (5/8 in)",
+ "Credit Line": "Rogers Fund, 1911",
+ "Accession Number": "11.215.64",
+ "What": [
+  "Faience",
+  "Seals"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100008542,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/11.215.64_view_2.jpg",
+ "related-images": [
+  "http://images.metmuseum.org/CRDImages/eg/original/11.215.64_view_2.jpg",
+  "http://images.metmuseum.org/CRDImages/eg/original/11.215.64_view_1.jpg"
+ ],
+ "Provenance": [
+  "Museum excavations, 1910–11. Acquired by the Museum in the Division of Finds, 1911."
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/100002148"
+   },
+   {
+    "href": "http://scrapi.org/object/100002155"
+   },
+   {
+    "href": "http://scrapi.org/object/100005962"
+   },
+   {
+    "href": "http://scrapi.org/object/100005965"
+   },
+   {
+    "href": "http://scrapi.org/object/100005966"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/100008542"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/100008542"
+  }
+ }
+}

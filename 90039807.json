@@ -1,0 +1,40 @@
+{
+ "Date": "1841–84",
+ "Medium": "Graphite with touches of white gouache",
+ "Dimensions": "sheet 14 1/4 x 9 15/16 in. (36.2 x 25.2 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Harris Brisbane Dick Fund, 1946",
+ "Accession Number": "46.38.37",
+ "Who": "Charles Hindley  Sons",
+ "What": [
+  "Drawings",
+  "Watercolors",
+  "Graphite",
+  "Gouache"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90039807,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP804612.jpg",
+ "related-artworks": [
+  90039821,
+  90039851,
+  90039808,
+  90039809,
+  90039814
+ ],
+ "Provenance": [
+  "Vendor: Charles Hindley and Sons (British, London 1841–1917 London)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90039807"
+  }
+ }
+}

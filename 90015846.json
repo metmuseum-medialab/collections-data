@@ -1,0 +1,33 @@
+{
+ "Date": "16th century",
+ "Medium": "Pen and ink",
+ "Dimensions": "sheet 11 x 8 1/2 in. (27.9 x 21.6 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1952",
+ "Accession Number": "52.570.61",
+ "Who": "Anonymous, Italian, 16th century",
+ "What": [
+  "Ink",
+  "Drawings"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90015846,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP802157.jpg",
+ "related-artworks": [
+  90003074,
+  90007874,
+  90008121,
+  90009454,
+  90010408
+ ],
+ "Provenance": [
+  "Vendor: János Scholz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90015846"
+  }
+ }
+}

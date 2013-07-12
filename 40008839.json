@@ -1,0 +1,34 @@
+{
+ "Date": "19th century",
+ "Culture": "Cambodian",
+ "Classification": "Firearms Accessories",
+ "Credit Line": "Bequest of George C. Stone, 1935",
+ "Accession Number": "36.25.2319",
+ "What": [
+  "Arms",
+  "Firearms",
+  "Accessories",
+  "Flasks",
+  "Powder flasks"
+ ],
+ "Where": [
+  "Asia",
+  "Cambodia"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40008839,
+ "related-artworks": [
+  40008909,
+  40008907,
+  40008908,
+  40008807,
+  40008808
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40008839"
+  }
+ }
+}

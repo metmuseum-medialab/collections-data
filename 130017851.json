@@ -1,0 +1,33 @@
+{
+ "Culture": "Roman",
+ "Medium": "Glass",
+ "Dimensions": "Other 3/4 x 1 3/16 in. (1.9 x 3.1 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+ "Accession Number": "91.1.1926",
+ "What": [
+  "Glass",
+  "Fragments",
+  "Mosaics"
+ ],
+ "Where": [
+  "Roman Empire"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Greek and Roman Art",
+ "MetPublications": "Search for related Met publications",
+ "id": 130017851,
+ "image": "http://images.metmuseum.org/CRDImages/gr/original/DP22140.jpg",
+ "related-artworks": [
+  130006060,
+  130006063,
+  130006061,
+  130006062,
+  130006064
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/130017851"
+  }
+ }
+}

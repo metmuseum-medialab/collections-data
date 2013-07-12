@@ -1,0 +1,49 @@
+{
+ "Date": "first modeled 1883",
+ "Culture": "French",
+ "Medium": "Cast terracotta",
+ "Dimensions": "H. 16 in. (40.6 cm.)",
+ "Classification": "Sculpture",
+ "Credit Line": "Gift of Thomas F. Ryan, 1910",
+ "Accession Number": "12.13.2",
+ "Who": "Auguste Rodin",
+ "What": [
+  "Sculpture",
+  "Clay",
+  "Terracotta",
+  "Statues",
+  "Figurines"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": [
+  "Auguste Rodin (1840–1917)",
+  "Art and Photography The 1980s",
+  "Edward Steichen (1879–1973) The Photo–Secession Years",
+  "France, 1800–1900 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 120006490,
+ "gallery-id": 800,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/132095.jpg",
+ "related-artworks": [
+  120023829,
+  120005656,
+  120006469,
+  120006470,
+  120022405
+ ],
+ "Provenance": [
+  "Thomas Fortune Ryan (until 1910",
+  "to MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120006490"
+  }
+ }
+}

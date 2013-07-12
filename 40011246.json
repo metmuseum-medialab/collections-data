@@ -1,0 +1,34 @@
+{
+ "Date": "16th century",
+ "Culture": "Italian (Venetian)",
+ "Classification": "Shafted Weapons",
+ "Credit Line": "Gift of William H. Riggs, 1913",
+ "Accession Number": "25.135.19",
+ "What": [
+  "Arms",
+  "Edged weapons",
+  "Staff weapons",
+  "Halberds"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Venice"
+ ],
+ "In the Museum": "Arms and Armor",
+ "Heilbrunn Timeline of Art History": "Venice and Northern Italy, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 40011246,
+ "related-artworks": [
+  40000148,
+  40000399,
+  40003399,
+  40004981,
+  40004994
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/40011246"
+  }
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "Date": "1850",
+ "Medium": "Salted paper print",
+ "Dimensions": "11.2 x 13.5 cm (4 7/16 x 5 5/16 in. )",
+ "Classification": "Photographs",
+ "Credit Line": "Purchase, The Horace W. Goldsmith Foundation Gift, through Joyce and Robert Menschel, 1998",
+ "Accession Number": "1998.58b",
+ "Who": "Louis-Adolphe Humbert de Molard",
+ "What": [
+  "Photographs",
+  "Salted paper prints"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "France, 1800–1900 A.D.",
+ "id": 190035263,
+ "related-artworks": [
+  190035280,
+  190035261,
+  190035262,
+  190035264,
+  190038821
+ ],
+ "Provenance": [
+  "Galerie Texbraun (Hugues Autexier and François Braunschweig)",
+  "Jean-Michel Braunschweig (brother and heir to François)",
+  "[Galerie Baudoin Lebon]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190035263"
+  }
+ }
+}

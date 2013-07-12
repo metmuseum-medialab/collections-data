@@ -1,0 +1,52 @@
+{
+ "Date": "1880",
+ "Medium": "Pen and black ink, watercolor and gouache with bum arabic",
+ "Dimensions": "Sheet 7 x 9 3/8 in. (17.8 x 23.8 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "Gift of William Brewster, 1923",
+ "Accession Number": "23.112.802",
+ "Who": "Brewster & Co.",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Watercolors",
+  "Gouache",
+  "Mbum"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "id": 90052514,
+ "Provenance": [
+  "Donor: William Brewster"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90051727"
+   },
+   {
+    "href": "http://scrapi.org/object/90051738"
+   },
+   {
+    "href": "http://scrapi.org/object/90051741"
+   },
+   {
+    "href": "http://scrapi.org/object/90051773"
+   },
+   {
+    "href": "http://scrapi.org/object/90051752"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90052514"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90052514"
+  }
+ }
+}

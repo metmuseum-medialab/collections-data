@@ -1,0 +1,35 @@
+{
+ "Date": "19th–20th century",
+ "Geography": "Unknown country",
+ "Culture": "Africa",
+ "Medium": "Raffia palm fiber",
+ "Dimensions": "H x W 16 5/8 x 11 3/4in. (42.2 x 29.8cm)",
+ "Classification": "Textiles-Woven",
+ "Credit Line": "The Bryce Holcombe Collection of African Decorative Art, Bequest of Bryce Holcombe, 1984",
+ "Accession Number": "1986.478.54a",
+ "What": [
+  "Textiles",
+  "Woven",
+  "Panels",
+  "Plant fiber",
+  "Raffia"
+ ],
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "id": 50007688,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1986_478_54.jpg",
+ "related-artworks": [
+  50000551,
+  50000553,
+  50000554,
+  50002746,
+  50004900
+ ],
+ "Provenance": [
+  "Bryce P. Holcombe, New York, until  (d.) 1984"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50007688"
+  }
+ }
+}

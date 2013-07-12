@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1770 (?)",
+ "Culture": "Dutch",
+ "Medium": "Silver, enamel",
+ "Dimensions": "Diam. 2-3/8 in. (6 cm)",
+ "Classification": "Horology",
+ "Credit Line": "Gift of J. Pierpont Morgan, 1917",
+ "Accession Number": "17.190.1017",
+ "Who": "Abel Durade",
+ "What": [
+  "Metal",
+  "Silver",
+  "Enamel",
+  "Timepieces",
+  "Watches"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1600–1800 A.D.",
+ "id": 120008440,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/40147.jpg",
+ "related-artworks": [
+  120008740,
+  120008103,
+  120008739,
+  120008803,
+  120000456
+ ],
+ "Provenance": [
+  "Frederick George Hilton Price"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120008440"
+  }
+ }
+}

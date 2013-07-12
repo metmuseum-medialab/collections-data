@@ -1,0 +1,38 @@
+{
+ "Date": "fall/winter 1992–93",
+ "Culture": "American",
+ "Medium": "(a) wool, silk; (b) wool, silk, synthetic",
+ "Dimensions": [
+  "Length at CB (a) 51 1/2 in. (130.8 cm)",
+  "Length at CB (b) 17 1/4 in. (43.8 cm)"
+ ],
+ "Credit Line": "Gift of Geoffrey Beene, 2001",
+ "Accession Number": "2001.393.114a, b",
+ "Who": "Geoffrey Beene",
+ "What": [
+  "Silk",
+  "Wool",
+  "Ensembles"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80004019,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/2001.393.114ab_F.JPG",
+ "related-artworks": [
+  80002151,
+  80003941,
+  80003942,
+  80003943,
+  80003944
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80004019"
+  }
+ }
+}

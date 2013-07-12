@@ -1,0 +1,36 @@
+{
+ "Date": "ca. 1961",
+ "Culture": "American",
+ "Medium": "Silk, straw, metallic",
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mrs. Thayer Gilpatrick, 1984",
+ "Accession Number": "2009.300.5944",
+ "Who": "Bill Cunningham",
+ "What": [
+  "Costume",
+  "Silk",
+  "Hats",
+  "Straw",
+  "Pillboxes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "id": 80108355,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/84.1.12_CP2.jpg",
+ "related-artworks": [
+  80016753,
+  80016754,
+  80016755,
+  80016756,
+  80049320
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80108355"
+  }
+ }
+}

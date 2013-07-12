@@ -1,0 +1,44 @@
+{
+ "Person in photograph": "Queen Victoria (British, London 1819–1901 Isle of Wight)",
+ "Date": "ca. 1865",
+ "Medium": "Albumen silver print",
+ "Classification": "Photographs",
+ "Credit Line": "Gift of A. Hyatt Mayor, 1967",
+ "Accession Number": "67.580.4.10",
+ "Who": [
+  "Queen Victoria",
+  "John Jabez Edwin Mayall"
+ ],
+ "What": [
+  "Photographs",
+  "Albumen silver prints",
+  "Card photographs",
+  "Maps",
+  "Cartes-de-visite"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Photographs",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 190042568,
+ "image": "http://images.metmuseum.org/CRDImages/ph/original/mayall_10a_CDValbum.jpg",
+ "related-artworks": [
+  190042638,
+  190042641,
+  90054681,
+  190023087,
+  190022651
+ ],
+ "Provenance": [
+  "A. Hyatt Mayor"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/190042568"
+  }
+ }
+}

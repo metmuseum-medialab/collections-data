@@ -1,0 +1,42 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 18–20",
+ "Date": "ca. 1295–1070 B.C.",
+ "Geography": "Country of Origin Egypt",
+ "Medium": "Glazed steatite",
+ "Dimensions": "L. 1.6 cm",
+ "Credit Line": "Gift of Cole J. Younger, 1975",
+ "Accession Number": "1975.408.23",
+ "What": [
+  "Sculpture",
+  "Scarabs",
+  "Glazing",
+  "Talc",
+  "Steatite"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100007589,
+ "related-artworks": [
+  100000641,
+  100000981,
+  100001454,
+  100001562,
+  100002197
+ ],
+ "Provenance": [
+  "Donated to the museum by Cole J. Younger, Fairfield, Connecticut, 1975. Bought in Egypt, 1898, by Annie Hegeman",
+  "given by her to Helen Wolcott Younger in 1948. By descent to Cole J. Younger."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100007589"
+  }
+ }
+}

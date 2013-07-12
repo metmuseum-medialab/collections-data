@@ -1,0 +1,46 @@
+{
+ "Date": "1745–50",
+ "Geography": "London, England",
+ "Culture": "British",
+ "Medium": "Stoneware",
+ "Dimensions": "H. 3 11/16 in. (9.4 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Gift of Mrs. Screven Lorillard, 1953",
+ "Accession Number": "53.179.11",
+ "Who": "Chelsea Factory",
+ "What": [
+  "Ceramics",
+  "Vessels",
+  "Pottery",
+  "Stoneware",
+  "Pots"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "London"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10002708,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/156517.jpg",
+ "related-artworks": [
+  10002707,
+  10003247,
+  10003248,
+  10003697,
+  10004659
+ ],
+ "Provenance": [
+  "Mrs. Screven Lorillard, Far Hills, New Jersey, until 1953"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10002708"
+  }
+ }
+}

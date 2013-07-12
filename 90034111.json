@@ -1,0 +1,55 @@
+{
+ "Date": "1743",
+ "Medium": "Etching",
+ "Dimensions": "sheet 5 1/2 x 7 in. (14 x 17.8 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Rogers Fund, 1918",
+ "Accession Number": "18.84.8",
+ "Who": "Giovanni Battista Tiepolo",
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Lovers in Italian Mythological Prints",
+  "Giovanni Battista Tiepolo (1696–1770)",
+  "The Grand Tour",
+  "Poets, Lovers, and Heroes in Italian Mythological Prints",
+  "Francisco de Goya (1746–1828) and the Spanish Enlightenment",
+  "Venice in the Eighteenth Century",
+  "Poets in Italian Mythological Prints"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 90034111,
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/90002367"
+   },
+   {
+    "href": "http://scrapi.org/object/90002369"
+   },
+   {
+    "href": "http://scrapi.org/object/90002528"
+   },
+   {
+    "href": "http://scrapi.org/object/90002561"
+   },
+   {
+    "href": "http://scrapi.org/object/90002563"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/90034111"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/90034111"
+  }
+ }
+}

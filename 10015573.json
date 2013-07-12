@@ -1,0 +1,38 @@
+{
+ "Date": "ca. 1850",
+ "Geography": "United States",
+ "Culture": "European or possibly American",
+ "Medium": "Silk and cotton, woven",
+ "Dimensions": "Various dimensions",
+ "Classification": "Textiles",
+ "Credit Line": "Gift of Mr. and Mrs. Harcourt Amory, 1963",
+ "Accession Number": "Inst.63.7.7",
+ "What": [
+  "Silk",
+  "Textiles",
+  "Cotton",
+  "Woven",
+  "Curtains"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10015573,
+ "related-artworks": [
+  10015567,
+  10015568,
+  10015569,
+  10015570,
+  10015571
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10015573"
+  }
+ }
+}

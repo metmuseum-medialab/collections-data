@@ -1,0 +1,49 @@
+{
+ "Artist": "George Moutard Woodward (British, ca. 1760–1809 London)",
+ "Publisher": "Published by Rudolph Ackermann (London)",
+ "Date": "1800",
+ "Medium": "Etching",
+ "Dimensions": "Overall 10 1/4 x 8 1/2 in. (26 x 21.6 cm)",
+ "Classification": "Albums",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1959",
+ "Accession Number": "59.533.685-.715",
+ "Who": [
+  "Thomas Rowlandson",
+  "Rudolph Ackermann",
+  "George Moutard Woodward"
+ ],
+ "What": [
+  "Etching",
+  "Books",
+  "Albums"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": [
+  "Watercolor Painting in Britain, 1750–1850",
+  "Great Britain and Ireland, 1800–1900 A.D.",
+  "Great Britain and Ireland, 1600–1800 A.D."
+ ],
+ "id": 90049924,
+ "related-artworks": [
+  90049915,
+  90049918,
+  90049920,
+  90049917,
+  90049921
+ ],
+ "Provenance": [
+  "Francis Harvey (British, active by 1859–died 1899)",
+  "C. W. Dyson Perrins(sale Sotheby's London, Jan. 12, 1959)",
+  "Vendor: Sotheby's, London , Jan. 12, 1959"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90049924"
+  }
+ }
+}

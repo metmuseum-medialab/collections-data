@@ -1,0 +1,57 @@
+{
+ "Date": "ca. 1888",
+ "Geography": "Mid-Atlantic, Tarentum, Pennsylvania, United States",
+ "Culture": "American",
+ "Medium": "Pressed yellow glass",
+ "Dimensions": "H. 2 5/8 in. (6.7 cm); Diam. 4 in. (10.2 cm)",
+ "Classification": "Glass",
+ "Credit Line": "Gift of Mrs. Emily Winthrop Miles, 1946",
+ "Accession Number": "46.140.630",
+ "Who": "Richards  Hartley Flint Glass Co.",
+ "What": [
+  "Glass",
+  "Dishes",
+  "Sauce dishes"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Pennsylvania",
+  "Tarentum"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10007378,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/DP241464.jpg",
+ "Provenance": [
+  "Mrs. Emily Winthrop Miles, New York, until 1946"
+ ],
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/10007375"
+   },
+   {
+    "href": "http://scrapi.org/object/10007377"
+   },
+   {
+    "href": "http://scrapi.org/object/10007380"
+   },
+   {
+    "href": "http://scrapi.org/object/10007376"
+   },
+   {
+    "href": "http://scrapi.org/object/10007379"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/10007378"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/10007378"
+  }
+ }
+}

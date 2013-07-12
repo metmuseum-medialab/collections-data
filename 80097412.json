@@ -1,0 +1,64 @@
+{
+ "Date": "ca. 1971",
+ "Culture": "American",
+ "Medium": "silk",
+ "Dimensions": [
+  "Length at CB (a) 28 in. (71.1 cm)",
+  "Length at CB (b) 41 in. (104.1 cm)"
+ ],
+ "Credit Line": "Brooklyn Museum Costume Collection at The Metropolitan Museum of Art, Gift of the Brooklyn Museum, 2009; Gift of Mildred Custin, 1975",
+ "Accession Number": "2009.300.969a, b",
+ "Who": "Halston",
+ "What": [
+  "Costume",
+  "Silk",
+  "Suits",
+  "Pantsuits"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": [
+  "Classicism in Modern Dress",
+  "American Ingenuity Sportswear, 1930s–1970s",
+  "The Chiton, Peplos, and Himation in Modern Dress",
+  "Classical Art and Modern Dress",
+  "The United States and Canada, 1900 A.D.–present"
+ ],
+ "id": 80097412,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/75.197.1a-b_CP4.jpg",
+ "related-artworks": [
+  "http://scrapi.org/object/80018040",
+  "http://scrapi.org/object/80000361",
+  "http://scrapi.org/object/80001313",
+  "http://scrapi.org/object/80000039",
+  "http://scrapi.org/object/80000370"
+ ],
+ "related-images": [],
+ "Description": "Beginning his career as a milliner, Halston later crossed over to ready-to-wear clothing, promoting minimal design.  His loyal clientele of the rich and famous chose to display his creations in trendy locales such as New York's Studio 54.  In 1971, he began incorporating Ultrasuede into his work, which was an instant success, becoming one of his signature fabrics.  Halston's quick rise to fame ended abruptly when he agreed to design an inexpensive line for J.C. Penney.  While his career ended in the eighties, his innovations continue to be seen in fashion today, and have been resurrected with the Halston brand of the twenty-first century.Sequin-covered silk like the one used in this evening ensemble was a hallmark of Halston's style.  With a relaxed and minimal silhouette, Halston has made the suit appropriate for formal occasions via the sparkle of pearlescent sequins.  To simplify and modernize the dressing process, a zipper closure has been inserted at center front.  Pajama- like in style, the ensemble allows the wearer to be comfortable as well as chic, making this pantsuit appropriate for entertaining at home or dining out.",
+ "_links": {
+  "related": [
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80018040"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80000361"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80001313"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80000039"
+   },
+   {
+    "href": "http://scrapi.org/object/http://scrapi.org/object/80000370"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/80097412"
+  }
+ }
+}

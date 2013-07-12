@@ -1,0 +1,42 @@
+{
+ "Dimensions": "W. 8 × L. 34 1/2 in. (20.3 × 87.6 cm)",
+ "Classification": "Chordophone-Lute",
+ "Credit Line": "Gift of Miss Alice Getty, 1946",
+ "Accession Number": "46.34.27",
+ "What": [
+  "Musical instruments",
+  "Chordophones",
+  "Lutes",
+  "Tars"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Musical Instruments",
+ "MetPublications": "Search for related Met publications",
+ "id": 180017152,
+ "image": "http://images.metmuseum.org/CRDImages/mi/original/140690.jpg",
+ "_links": {
+  "related-artworks": [
+   {
+    "href": "http://scrapi.org/object/180012691"
+   },
+   {
+    "href": "http://scrapi.org/object/180012693"
+   },
+   {
+    "href": "http://scrapi.org/object/180014005"
+   },
+   {
+    "href": "http://scrapi.org/object/180014006"
+   },
+   {
+    "href": "http://scrapi.org/object/180014220"
+   }
+  ],
+  "self": {
+   "href": "http://scrapi.org/object/180017152"
+  },
+  "source": {
+   "href": "http://www.metmuseum.org/Collections/search-the-collections/180017152"
+  }
+ }
+}

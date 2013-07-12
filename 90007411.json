@@ -1,0 +1,35 @@
+{
+ "Date": "18th century",
+ "Medium": "Pen and brown ink over graphite or lead on cream paper",
+ "Dimensions": "8-9/16 x 5-1/2 in.  (21.7 x 13.9 cm)",
+ "Classification": "Drawings",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1952",
+ "Accession Number": "52.570.121",
+ "Who": "Anonymous, Italian, first half of the 18th century",
+ "What": [
+  "Ink",
+  "Drawings",
+  "Paper",
+  "Graphite"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90007411,
+ "image": "http://images.metmuseum.org/CRDImages/dp/original/DP803188.jpg",
+ "related-artworks": [
+  90007347,
+  90007417,
+  90007413,
+  90007416,
+  90007476
+ ],
+ "Provenance": [
+  "Unidentified collector's mark (Lugt Supp. 47a)",
+  "János Scholz"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90007411"
+  }
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "Date": "last quarter of 15th century",
+ "Medium": "Oil on wood",
+ "Dimensions": "Open 49 1/4 x 126 3/8 in. (125.1 x 311 cm); closed 49 1/4 x 63 1/4 in. (125.1 x 160.7 cm)",
+ "Classification": "Paintings",
+ "Credit Line": "John Stewart Kennedy Fund, 1912",
+ "Accession Number": "12.79",
+ "Who": "Master of the Saint Godelieve Legend",
+ "What": [
+  "Paintings",
+  "Oil paint",
+  "Polyptychs"
+ ],
+ "Where": [
+  "Europe",
+  "Netherlands"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "European Paintings",
+ "Heilbrunn Timeline of Art History": "Low Countries, 1400–1600 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 110001475,
+ "gallery-id": 305,
+ "image": "http://images.metmuseum.org/CRDImages/ep/original/DT224782.jpg",
+ "related-artworks": [
+  110000534,
+  110000113,
+  110000111,
+  110000085,
+  110000084
+ ],
+ "Provenance": [
+  "?Onze-Lieve-Vrouwkerk, Bruges",
+  "baron Anselme de Peelaert (1795–about 1817)",
+  "Pierre Bortier of Dixmude, chapel of abbey of Saint Godelieve, Gistel (about 1817–d. 1829)",
+  "his nephew, Pierre Bortier, chapel of abbey of Saint Godelieve (1829–80)",
+  "Jul. de Geyter, Antwerp (1880–about 1882)",
+  "A. Tollin, Paris (until 1897",
+  "sale, Galerie Georges Petit, Paris, May 20, 1897, no. 113)",
+  "Jean Dollfus, Paris (1897–d. 1911",
+  "his estate sale, Galerie Georges Petit, Paris, March 2, 1912, no. 87)",
+  "[Seligmann, Paris, 1912",
+  "sold to MMA]"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/110001475"
+  }
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "Date": "8th–12th century",
+ "Culture": "Indonesia (Central Java)",
+ "Medium": "Gold",
+ "Dimensions": "H. 1 15/16 in. (5 cm)",
+ "Classification": "Metalwork",
+ "Credit Line": "Gift of the Eilenberg-Rosen Partnership, 2001",
+ "Accession Number": "2001.794.112",
+ "What": [
+  "Metal",
+  "Metalwork",
+  "Gold"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Java"
+ ],
+ "In the Museum": "Asian Art",
+ "Heilbrunn Timeline of Art History": [
+  "Southeast Asia, 1000–1400 A.D.",
+  "Southeast Asia, 500–1000 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 60035654,
+ "image": "http://images.metmuseum.org/CRDImages/as/original/2001_794_112_O.jpg",
+ "related-artworks": [
+  60020356,
+  60020795,
+  60020817,
+  60020835,
+  60020837
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/60035654"
+  }
+ }
+}

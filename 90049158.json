@@ -1,0 +1,41 @@
+{
+ "Publisher": "Published by WPA",
+ "Date": "1935–43",
+ "Medium": "Etching",
+ "Dimensions": "plate 11 x 9 in. (27.9 x 22.9 cm) sheet: 14 x 12 3/4 in. (35.6 x 32.4 cm)",
+ "Classification": "Prints",
+ "Credit Line": "WPA New York Project, 1943",
+ "Accession Number": "43.47.54",
+ "Who": [
+  "WPA",
+  "Julius John Pommer"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90049158,
+ "related-artworks": [
+  90049159,
+  90049160,
+  90049161,
+  90049165,
+  90049162
+ ],
+ "Provenance": [
+  "Donor: WPA"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90049158"
+  }
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "Date": "ca. 1806–15",
+ "Geography": "Mid-Atlantic, Baltimore, Maryland, United States",
+ "Culture": "American",
+ "Medium": "Pewter",
+ "Dimensions": "H. 2 5/8 in. (6.7 cm); Diam. 11 5/8 in. (29.5 cm)",
+ "Classification": "Metal",
+ "Credit Line": "Gift of Mrs. J. Insley Blair, in memory of her husband, 1941",
+ "Accession Number": "41.34.41",
+ "Who": "George Lightner",
+ "What": [
+  "Metal",
+  "Vessels",
+  "Pewter",
+  "Basins"
+ ],
+ "Where": [
+  "North and Central America",
+  "United States",
+  "Maryland",
+  "Baltimore"
+ ],
+ "When": "A.D. 1800-1900",
+ "In the Museum": "American Decorative Arts",
+ "Heilbrunn Timeline of Art History": "The United States and Canada, 1800–1900 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 10000356,
+ "gallery-id": 774,
+ "image": "http://images.metmuseum.org/CRDImages/ad/original/123918.jpg",
+ "related-artworks": [
+  10003388,
+  10000352,
+  10003386,
+  10006263
+ ],
+ "Provenance": [
+  "Mrs. J. Insley Blair, Tuxedo Park, New York, until 1941"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/10000356"
+  }
+ }
+}

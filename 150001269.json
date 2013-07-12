@@ -1,0 +1,56 @@
+{
+ "Date": "1530",
+ "Culture": "Italian, probably Castel Durante and Gubbio",
+ "Medium": "Maiolica (tin-glazed earthenware)",
+ "Dimensions": "Diam. 8 1/8 in. (20.7 cm)",
+ "Classification": "Ceramics",
+ "Credit Line": "Robert Lehman Collection, 1975",
+ "Accession Number": "1975.1.1095",
+ "Who": "Maestro Giorgio Andreoli",
+ "What": [
+  "Metal",
+  "Ceramics",
+  "Pottery",
+  "Dishes",
+  "Earthenware",
+  "Glaze",
+  "Glazing",
+  "Ceramic glaze",
+  "Maiolica",
+  "Tin",
+  "Tin glaze"
+ ],
+ "Where": [
+  "Europe",
+  "Italy",
+  "Urbania"
+ ],
+ "When": "A.D. 1400-1600",
+ "In the Museum": "Robert Lehman Collection",
+ "Heilbrunn Timeline of Art History": [
+  "Maiolica in the Renaissance",
+  "Weddings in the Italian Renaissance"
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 150001269,
+ "gallery-id": 950,
+ "image": "http://images.metmuseum.org/CRDImages/rl/original/DT3527.jpg",
+ "related-artworks": [
+  150001266,
+  150001317,
+  150001315,
+  150000297,
+  150001284
+ ],
+ "Provenance": [
+  "Alfred Israel Pringsheim, Munich, later Zurich (1850-1941)",
+  "sale*, Sotheby's, London, June 7, 1939, lot 71",
+  "[Julius Goldschmidt, London, for Lehman]",
+  "acquired by Robert Lehman through Goldschmidt Galleries, New York, 1939.\r\n\r\n*In March 1939, the German Ministry of Trade authorized export of  Pringsheim's  Majolica collection to London for auction at Sotheby's, provided that 80% of the proceeds up to £ 20,000 and 70% of the remainder be paid to the German Gold Discount Bank in foreign currency.  Pringsheim was to receive the remaining proceeds.  In exchange, Pringsheim and his wife were allowed to emigrate to Switzerland.  See Timothy Wilson, \"Alfred Pringsheim and his Collection of Italian Maiolica,\" in Otto von Falke, Die Majolikasammlung Alfred Pringsheim, augmented reprint with articles by Tjark Hausman, Carmen Ravanelli-Guidotti and Timothy Wilson, Ferrara 1994, vol. 3, pp. 85-87."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/150001269"
+  }
+ }
+}

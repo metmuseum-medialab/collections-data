@@ -1,0 +1,42 @@
+{
+ "Object Name": "Water filter",
+ "Date": "14th–15th century",
+ "Geography": "Egypt",
+ "Medium": "Clay",
+ "Classification": "Ceramics",
+ "Credit Line": "Rogers Fund, 1921",
+ "Accession Number": "21.173.9",
+ "What": [
+  "Ceramics",
+  "Clay",
+  "Filters"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt"
+ ],
+ "In the Museum": "Islamic Art",
+ "Heilbrunn Timeline of Art History": [
+  "Egypt, 1400–1600 A.D.",
+  "Egypt, 1000–1400 A.D."
+ ],
+ "MetPublications": "Search for related Met publications",
+ "id": 140004672,
+ "image": "http://images.metmuseum.org/CRDImages/is/original/sf21-173-9a.jpg",
+ "related-artworks": [
+  140004668,
+  140004697,
+  140004685,
+  140004680,
+  140004693
+ ],
+ "Provenance": [
+  "Coptic Museum, Cairo(until 1921",
+  "sold to Herbert E. Winlock for MMA)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/140004672"
+  }
+ }
+}

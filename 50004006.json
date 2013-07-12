@@ -1,0 +1,47 @@
+{
+ "Date": "mid-20th century",
+ "Geography": "Indonesia, Papua Province (Irian Jaya), Agani village, Pomatsj River (northern tributary)",
+ "Culture": "Asmat people",
+ "Medium": "Wood, lizard skin, fiber, beeswax",
+ "Dimensions": "H. 24 1/2 in. (62.2 cm)",
+ "Classification": "Wood-Musical Instruments",
+ "Credit Line": "The Michael C. Rockefeller Memorial Collection; Gift of Nelson A. Rockefeller and Mrs. Mary C. Rockefeller, 1965",
+ "Accession Number": "1978.412.970",
+ "Who": "Cous",
+ "What": [
+  "Leather",
+  "Musical instruments",
+  "Wax",
+  "Membranophones",
+  "Drums",
+  "Lizard leather",
+  "Beeswax"
+ ],
+ "Where": [
+  "Asia",
+  "Indonesia",
+  "Irian Jaya"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Arts of Africa, Oceania and the Americas",
+ "Heilbrunn Timeline of Art History": "Southeast Asia, 1900 A.D.–present",
+ "id": 50004006,
+ "image": "http://images.metmuseum.org/CRDImages/ao/original/vs1978_412_970.jpg",
+ "related-artworks": [
+  50003997,
+  50004002,
+  50004000,
+  50004005,
+  50006500
+ ],
+ "Provenance": [
+  "Michael C. Rockefeller Expedition, collected 1961",
+  "Nelson A. Rockefeller, New York, 1961–1965",
+  "The Museum of Primitive Art, New York, 1965–1978"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/50004006"
+  }
+ }
+}

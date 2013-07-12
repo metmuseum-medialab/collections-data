@@ -1,0 +1,41 @@
+{
+ "Date": "1946",
+ "Medium": "Lithograph",
+ "Dimensions": [
+  "image 11 3/4 x 11 3/4 in. (29.8 x 29.8 cm)",
+  "sheet 21 1/2 x 17 3/8 in. (54.6 x 44.1 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "Bequest of William S. Lieberman, 2005",
+ "Accession Number": "2007.49.515",
+ "Who": "André Masson",
+ "What": [
+  "Prints",
+  "Planographic prints",
+  "Lithographs"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 90049599,
+ "related-artworks": [
+  90016695,
+  90049589,
+  90049590,
+  90049594,
+  90049595
+ ],
+ "Provenance": [
+  "Donor: William S. Lieberman (American, Paris 1923–2005 New York)"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90049599"
+  }
+ }
+}

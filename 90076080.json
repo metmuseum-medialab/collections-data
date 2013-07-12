@@ -1,0 +1,44 @@
+{
+ "Publisher": "Michael Haye (Flemish, 1630 - 1660)",
+ "Date": "late 16th century",
+ "Medium": "Etching; third state of four (Bartsch)",
+ "Dimensions": [
+  "sheet 21 5/8 x 15 3/4 in. (55 x 40 cm)",
+  "plate 20 1/2 x 14 5/8 in. (52 x 37.2 cm)"
+ ],
+ "Classification": "Prints",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1951",
+ "Accession Number": "51.501.3392",
+ "Who": [
+  "Antonio Tempesta",
+  "Nicolaus van Aelst",
+  "Michael Haye"
+ ],
+ "What": [
+  "Prints",
+  "Etching"
+ ],
+ "Where": [
+  "Europe",
+  "Italy"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "Rembrandt van Rijn (1606–1669) Prints",
+ "id": 90076080,
+ "related-artworks": [
+  90008832,
+  90032358,
+  90032359,
+  90032693,
+  90032691
+ ],
+ "Provenance": [
+  "P. & D. Colnaghi & Co., Ltd., London",
+  "Princes of Liechtenstein, Vaduz and Vienna"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90076080"
+  }
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "Period": "New Kingdom, Ramesside",
+ "Dynasty": "Dynasty 19",
+ "Reign": "reign of Ramesses II",
+ "Date": "ca. 1279–1213 B.C.",
+ "Geography": "Country of Origin Egypt, Upper Egypt; Thebes",
+ "Medium": "Tempera on paper",
+ "Dimensions": [
+  "Facsimile H. 65.5 cm (25 13/16 in); w. 41.5 cm (16 5/16 in)",
+  "scale 11",
+  "Framed H. 69.2 cm (27 1/4 in); w. 45.4 cm (17 7/8 in)"
+ ],
+ "Credit Line": "Rogers Fund, 1930",
+ "Accession Number": "30.4.5",
+ "Who": "Nina de Garis Davies",
+ "What": [
+  "Paper",
+  "Tempera",
+  "Facsimiles"
+ ],
+ "Where": [
+  "Africa",
+  "Egypt",
+  "Upper Egypt",
+  "Thebes"
+ ],
+ "When": "2000-1000 B.C.",
+ "In the Museum": "Egyptian Art",
+ "Heilbrunn Timeline of Art History": "Egypt, 2000–1000 B.C.",
+ "MetPublications": "Search for related Met publications",
+ "id": 100015678,
+ "image": "http://images.metmuseum.org/CRDImages/eg/original/vs30.4.5.jpg",
+ "related-artworks": [
+  100000858,
+  100000861,
+  100000865,
+  100000927,
+  100000871
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/100015678"
+  }
+ }
+}

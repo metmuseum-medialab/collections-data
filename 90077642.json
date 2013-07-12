@@ -1,0 +1,32 @@
+{
+ "Date": "19th century (third quarter)",
+ "Medium": "Album (19th century) with a cardboard binding.",
+ "Dimensions": "Overall 13 x 8 1/4 x 7/8 in. (33 x 21 x 2.3 cm)",
+ "Classification": "Albums",
+ "Credit Line": "The Elisha Whittelsey Collection, The Elisha Whittelsey Fund, 1961",
+ "Accession Number": "61.584.3",
+ "What": [
+  "Books",
+  "Albums",
+  "Bindings"
+ ],
+ "In the Museum": "Drawings and Prints",
+ "MetPublications": "Search for related Met publications",
+ "id": 90077642,
+ "related-artworks": [
+  90011912,
+  90013671,
+  90019987,
+  90032422,
+  90010677
+ ],
+ "Description": "Album (catalogue) of motifs and designs voor various objects, numbered from 2079 to 2813. Throughout the album there are various inscriptions in German indicating function and materials.",
+ "Provenance": [
+  "Donor: Elisha Whittelsey Fund Vendor: Walter Schatzki"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90077642"
+  }
+ }
+}

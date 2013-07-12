@@ -1,0 +1,44 @@
+{
+ "Artist": "After designs by Bernardino Amico (Italian, active 1593–1619)",
+ "Publisher": "Pietro Cecconcelli (Italian, active late 16th–early 17th century)",
+ "Date": "1620",
+ "Medium": "Etching and engraving; first state of two (Lieure)",
+ "Dimensions": "Sheet 8 1/8 x 11 7/16 in. (20.6 x 29 cm)",
+ "Classification": "Prints",
+ "Credit Line": "Bequest of Edwin De T. Bechtel, 1957",
+ "Accession Number": "57.650.368",
+ "Who": [
+  "Jacques Callot",
+  "Pietro Cecconcelli",
+  "Bernardino Amico"
+ ],
+ "What": [
+  "Prints",
+  "Etching",
+  "Engraving"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "Drawings and Prints",
+ "Heilbrunn Timeline of Art History": "France, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 90092772,
+ "related-artworks": [
+  90010397,
+  90014436,
+  90049867,
+  90073417,
+  90073419
+ ],
+ "Provenance": [
+  "Donor: Edwin De Turck Bechtel"
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/90092772"
+  }
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "Date": "ca. 1760",
+ "Culture": "British",
+ "Medium": "Gilded wood",
+ "Dimensions": "Each 12 x 9 x 6-3/8 in.  (30.5 x 22.9 x 16.2 cm)",
+ "Classification": "Woodwork",
+ "Credit Line": "Bequest of Irwin Untermyer, 1973",
+ "Accession Number": "1974.28.37,38",
+ "What": [
+  "Gilt",
+  "Wood",
+  "Furniture",
+  "Lighting devices",
+  "Woodwork",
+  "Brackets"
+ ],
+ "Where": [
+  "Europe",
+  "United Kingdom",
+  "England",
+  "Staffordshire"
+ ],
+ "When": "A.D. 1600-1800",
+ "In the Museum": "European Sculpture and Decorative Arts",
+ "Heilbrunn Timeline of Art History": "Great Britain and Ireland, 1600–1800 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 120021490,
+ "image": "http://images.metmuseum.org/CRDImages/es/original/203501.jpg",
+ "related-artworks": [
+  120021512,
+  120021495,
+  120021511,
+  120021488,
+  120021505
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/120021490"
+  }
+ }
+}

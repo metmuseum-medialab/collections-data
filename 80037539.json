@@ -1,0 +1,36 @@
+{
+ "Date": "1947",
+ "Culture": "French",
+ "Medium": "cotton",
+ "Dimensions": "Length at CB 23 1/4 in. (59.1 cm)",
+ "Credit Line": "Gift of Miss Clare Hoover, San Francisco, Ca., 1980",
+ "Accession Number": "1980.380.1",
+ "Who": "I. Magnin & Co.",
+ "What": [
+  "Costume",
+  "Cotton",
+  "Blouses"
+ ],
+ "Where": [
+  "Europe",
+  "France"
+ ],
+ "When": "A.D. 1900-present",
+ "In the Museum": "Costume Institute",
+ "Heilbrunn Timeline of Art History": "France, 1900 A.D.–present",
+ "MetPublications": "Search for related Met publications",
+ "id": 80037539,
+ "image": "http://images.metmuseum.org/CRDImages/ci/original/1980.380.1_F.jpg",
+ "related-artworks": [
+  80037540,
+  80000037,
+  80006175,
+  80006177,
+  80018819
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/80037539"
+  }
+ }
+}

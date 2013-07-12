@@ -1,0 +1,48 @@
+{
+ "Period": "Neo-Assyrian",
+ "Date": "ca. 9th–8th century B.C.",
+ "Geography": "Syria, probably from Arslan Tash (ancient Hadatu)",
+ "Culture": "Assyrian",
+ "Medium": "Ivory, glass",
+ "Dimensions": "1.75 x 1.06 in. (4.45 x 2.69 cm)",
+ "Classification": "Ivory/Bone",
+ "Credit Line": "Fletcher Fund, 1957",
+ "Accession Number": "57.80.13",
+ "Who": "Assyrian",
+ "What": [
+  "Sculpture",
+  "Glass",
+  "Fragments",
+  "Bone",
+  "Furniture",
+  "Ivory",
+  "Reliefs"
+ ],
+ "Where": [
+  "Asia",
+  "Syria",
+  "Arslan Tash"
+ ],
+ "When": "1000 B.C.-A.D. 1",
+ "In the Museum": "Ancient Near Eastern Art",
+ "Heilbrunn Timeline of Art History": "The Eastern Mediterranean, 1000 B.C.–1 A.D.",
+ "MetPublications": "Search for related Met publications",
+ "id": 30003359,
+ "gallery-id": 406,
+ "image": "http://images.metmuseum.org/CRDImages/an/original/DP110613.jpg",
+ "related-artworks": [
+  30003358,
+  30003363,
+  30003360,
+  30003362,
+  30003349
+ ],
+ "Provenance": [
+  "Acquired by the Museum in 1957, purchased from Elie Borowski, New York."
+ ],
+ "_links": {
+  "self": {
+   "href": "http://scrapi.org/object/30003359"
+  }
+ }
+}
